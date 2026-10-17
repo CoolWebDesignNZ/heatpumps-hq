@@ -1,0 +1,2049 @@
+{
+ "smart-heat-pump-systems": {
+  "type": "service",
+  "keyword": "smart heat pump",
+  "secondary": [
+   "wifi heat pump",
+   "heat pump wifi controller",
+   "smart heat pump controller"
+  ],
+  "volumes": {
+   "smart heat pump": 30,
+   "wifi heat pump": 40,
+   "heat pump wifi controller": 70,
+   "smart heat pump controller": 10
+  }
+ },
+ "heat-pump-efficiency-upgrades": {
+  "type": "service",
+  "keyword": "heat pump replacement",
+  "secondary": [
+   "replace old heat pump",
+   "heat pump upgrade",
+   "heat pump efficiency"
+  ],
+  "volumes": {
+   "heat pump replacement": 40,
+   "replace old heat pump": 0,
+   "heat pump upgrade": 10,
+   "heat pump efficiency": 70
+  }
+ },
+ "energy-efficiency-assessment": {
+  "type": "service",
+  "keyword": "home energy assessment",
+  "secondary": [
+   "home energy audit",
+   "energy efficiency assessment",
+   "home energy assessment christchurch"
+  ],
+  "volumes": {
+   "home energy assessment": 10,
+   "home energy audit": 10,
+   "energy efficiency assessment": 10,
+   "home energy assessment christchurch": 0
+  }
+ },
+ "cold-climate-heat-pumps": {
+  "type": "guide",
+  "keyword": "cold climate heat pump",
+  "secondary": [
+   "best heat pump for cold climate",
+   "heat pump in cold weather",
+   "heat pump frost"
+  ],
+  "volumes": {
+   "cold climate heat pump": 70,
+   "best heat pump for cold climate": 10,
+   "heat pump in cold weather": 10,
+   "heat pump frost": 10
+  }
+ },
+ "low-temperature-heat-pumps": {
+  "type": "guide",
+  "keyword": "low temperature heat pump",
+  "secondary": [
+   "heat pump minimum temperature",
+   "heat pump below zero",
+   "heat pump not working in cold weather"
+  ],
+  "volumes": {
+   "low temperature heat pump": 10,
+   "heat pump minimum temperature": 10,
+   "heat pump below zero": 10,
+   "heat pump not working in cold weather": 10
+  }
+ },
+ "allergy-asthma-solutions-heat-pumps": {
+  "type": "guide",
+  "keyword": "heat pump allergies",
+  "secondary": [
+   "heat pump air purifier",
+   "heat pump with air purifier",
+   "heat pump asthma"
+  ],
+  "volumes": {
+   "heat pump allergies": 10,
+   "heat pump air purifier": 10,
+   "heat pump with air purifier": 10,
+   "heat pump asthma": 0
+  }
+ },
+ "air-quality-testing": {
+  "type": "service",
+  "keyword": "indoor air quality testing",
+  "secondary": [
+   "air quality testing",
+   "air quality test home",
+   "air quality testing christchurch"
+  ],
+  "volumes": {
+   "indoor air quality testing": 10,
+   "air quality testing": 70,
+   "air quality test home": 10,
+   "air quality testing christchurch": 0
+  }
+ },
+ "heat-pump-carbon-footprint-analysis": {
+  "type": "guide",
+  "keyword": "heat pump carbon footprint",
+  "secondary": [
+   "heat pump vs wood burner",
+   "heat pump environmental impact",
+   "heat pump emissions"
+  ],
+  "volumes": {
+   "heat pump carbon footprint": 10,
+   "heat pump vs wood burner": 10,
+   "heat pump environmental impact": 10,
+   "heat pump emissions": 0
+  }
+ },
+ "covers": {
+  "type": "service",
+  "keyword": "heat pump covers",
+  "secondary": [
+   "heat pump cover",
+   "air con cover",
+   "outdoor heat pump cover"
+  ],
+  "volumes": {
+   "heat pump covers": 720,
+   "heat pump cover": 720,
+   "air con cover": 210,
+   "outdoor heat pump cover": 70
+  }
+ },
+ "customised-heat-pump-service-plans": {
+  "type": "service",
+  "keyword": "heat pump service plan",
+  "secondary": [
+   "heat pump maintenance plan",
+   "annual heat pump service",
+   "heat pump maintenance contract"
+  ],
+  "volumes": {
+   "heat pump service plan": 10,
+   "heat pump maintenance plan": 10,
+   "annual heat pump service": 10,
+   "heat pump maintenance contract": 10
+  }
+ },
+ "winterisation-of-heat-pumps": {
+  "type": "service",
+  "keyword": "heat pump winter maintenance",
+  "secondary": [
+   "heat pump winter settings",
+   "prepare heat pump for winter",
+   "heat pump winter"
+  ],
+  "volumes": {
+   "heat pump winter maintenance": 10,
+   "heat pump winter settings": 50,
+   "prepare heat pump for winter": 0,
+   "heat pump winter": 10
+  }
+ },
+ "heat-pump-seasonal-tune-ups": {
+  "type": "service",
+  "keyword": "heat pump tune up",
+  "secondary": [
+   "heat pump check up",
+   "heat pump seasonal maintenance",
+   "heat pump service before winter"
+  ],
+  "volumes": {
+   "heat pump tune up": 10,
+   "heat pump check up": 10,
+   "heat pump seasonal maintenance": 0,
+   "heat pump service before winter": 0
+  }
+ },
+ "heat-pump-servicing": {
+  "type": "service",
+  "keyword": "heat pump servicing christchurch",
+  "secondary": [
+   "heat pump servicing",
+   "heat pump service",
+   "heat pump service cost"
+  ],
+  "volumes": {
+   "heat pump servicing christchurch": 320,
+   "heat pump servicing": 1000,
+   "heat pump service": 1000,
+   "heat pump service cost": 140
+  }
+ },
+ "heat-pump-cleaning": {
+  "type": "service",
+  "keyword": "heat pump cleaning christchurch",
+  "secondary": [
+   "heat pump cleaning",
+   "heat pump cleaning service",
+   "how to clean heat pump"
+  ],
+  "volumes": {
+   "heat pump cleaning christchurch": 110,
+   "heat pump cleaning": 590,
+   "heat pump cleaning service": 170,
+   "how to clean heat pump": 70
+  }
+ },
+ "heat-pump-parts-replacement": {
+  "type": "service",
+  "keyword": "heat pump parts",
+  "secondary": [
+   "heat pump remote replacement",
+   "heat pump spare parts",
+   "heat pump fan motor"
+  ],
+  "volumes": {
+   "heat pump parts": 50,
+   "heat pump remote replacement": 30,
+   "heat pump spare parts": 10,
+   "heat pump fan motor": 10
+  }
+ },
+ "heat-pump-troubleshooting": {
+  "type": "service",
+  "keyword": "heat pump not working",
+  "secondary": [
+   "heat pump blowing cold air",
+   "heat pump flashing light",
+   "heat pump error codes"
+  ],
+  "volumes": {
+   "heat pump not working": 50,
+   "heat pump blowing cold air": 40,
+   "heat pump flashing light": 10,
+   "heat pump error codes": 0
+  }
+ },
+ "remote-monitoring-and-diagnostics": {
+  "type": "service",
+  "keyword": "heat pump remote monitoring",
+  "secondary": [
+   "heat pump monitoring",
+   "heat pump remote diagnostics",
+   "heat pump wifi"
+  ],
+  "volumes": {
+   "heat pump remote monitoring": 0,
+   "heat pump monitoring": 10,
+   "heat pump remote diagnostics": 0,
+   "heat pump wifi": 40
+  }
+ },
+ "heat-pump-deodorising": {
+  "type": "service",
+  "keyword": "heat pump smell",
+  "secondary": [
+   "heat pump musty smell",
+   "heat pump smells bad",
+   "heat pump odour"
+  ],
+  "volumes": {
+   "heat pump smell": 30,
+   "heat pump musty smell": 30,
+   "heat pump smells bad": 10,
+   "heat pump odour": 0
+  }
+ },
+ "heat-pump-dehumidification": {
+  "type": "service",
+  "keyword": "heat pump dehumidifier",
+  "secondary": [
+   "heat pump dry mode",
+   "dehumidifier heat pump",
+   "heat pump dehumidify"
+  ],
+  "volumes": {
+   "heat pump dehumidifier": 260,
+   "heat pump dry mode": 50,
+   "dehumidifier heat pump": 260,
+   "heat pump dehumidify": 260
+  }
+ },
+ "heat-pump-brands-comparison": {
+  "type": "guide",
+  "keyword": "heat pump brands comparison",
+  "secondary": [
+   "heat pump brands",
+   "mitsubishi vs daikin",
+   "daikin vs fujitsu"
+  ],
+  "volumes": {
+   "heat pump brands comparison": 10,
+   "heat pump brands": 70,
+   "mitsubishi vs daikin": 10,
+   "daikin vs fujitsu": 10
+  }
+ },
+ "how-heat-pumps-work": {
+  "type": "guide",
+  "keyword": "how does a heat pump work",
+  "secondary": [
+   "how do heat pumps work",
+   "what is a heat pump",
+   "how heat pumps work"
+  ],
+  "volumes": {
+   "how does a heat pump work": 210,
+   "how do heat pumps work": 210,
+   "what is a heat pump": 70,
+   "how heat pumps work": 50
+  }
+ },
+ "choosing-heat-pump": {
+  "type": "guide",
+  "keyword": "buying a heat pump",
+  "secondary": [
+   "how to choose a heat pump",
+   "what heat pump do i need",
+   "which heat pump"
+  ],
+  "volumes": {
+   "buying a heat pump": 90,
+   "how to choose a heat pump": 10,
+   "what heat pump do i need": 10,
+   "which heat pump": 10
+  }
+ },
+ "compliance-building-codes": {
+  "type": "guide",
+  "keyword": "heat pump regulations nz",
+  "secondary": [
+   "heat pump building consent",
+   "does a heat pump need consent",
+   "heat pump building code"
+  ],
+  "volumes": {
+   "heat pump regulations nz": 10,
+   "heat pump building consent": 0,
+   "does a heat pump need consent": 0,
+   "heat pump building code": 0
+  }
+ },
+ "emergency-heat-pump-repair": {
+  "type": "service",
+  "keyword": "emergency heat pump repair",
+  "secondary": [
+   "heat pump repair near me",
+   "urgent heat pump repair",
+   "heat pump repair christchurch"
+  ],
+  "volumes": {
+   "emergency heat pump repair": 10,
+   "heat pump repair near me": 170,
+   "urgent heat pump repair": 0,
+   "heat pump repair christchurch": 90
+  }
+ },
+ "heat-pump-thermostat-calibration": {
+  "type": "service",
+  "keyword": "heat pump thermostat",
+  "secondary": [
+   "heat pump temperature sensor",
+   "heat pump not reaching temperature",
+   "heat pump thermostat setting"
+  ],
+  "volumes": {
+   "heat pump thermostat": 40,
+   "heat pump temperature sensor": 10,
+   "heat pump not reaching temperature": 10,
+   "heat pump thermostat setting": 10
+  }
+ },
+ "leak-detection-repair": {
+  "type": "service",
+  "keyword": "heat pump leaking water",
+  "secondary": [
+   "heat pump dripping water",
+   "heat pump refrigerant leak",
+   "heat pump gas leak"
+  ],
+  "volumes": {
+   "heat pump leaking water": 90,
+   "heat pump dripping water": 90,
+   "heat pump refrigerant leak": 20,
+   "heat pump gas leak": 10
+  }
+ },
+ "energy-star-heat-pumps": {
+  "type": "guide",
+  "keyword": "energy star heat pump",
+  "secondary": [
+   "energy star rating",
+   "most efficient heat pump nz",
+   "heat pump energy rating nz"
+  ],
+  "volumes": {
+   "energy star heat pump": 10,
+   "energy star rating": 40,
+   "most efficient heat pump nz": 50,
+   "heat pump energy rating nz": 0
+  }
+ },
+ "energy-consumption-monitoring": {
+  "type": "service",
+  "keyword": "heat pump power usage",
+  "secondary": [
+   "how much power does a heat pump use",
+   "heat pump running cost",
+   "heat pump energy consumption"
+  ],
+  "volumes": {
+   "heat pump power usage": 50,
+   "how much power does a heat pump use": 110,
+   "heat pump running cost": 50,
+   "heat pump energy consumption": 50
+  }
+ },
+ "heat-pump-zoning": {
+  "type": "service",
+  "keyword": "heat pump zoning",
+  "secondary": [
+   "ducted heat pump zoning",
+   "multi zone heat pump",
+   "zone control heat pump"
+  ],
+  "volumes": {
+   "heat pump zoning": 10,
+   "ducted heat pump zoning": 0,
+   "multi zone heat pump": 10,
+   "zone control heat pump": 0
+  }
+ },
+ "types-of-heat-pumps": {
+  "type": "guide",
+  "keyword": "types of heat pumps",
+  "secondary": [
+   "floor console heat pump",
+   "high wall heat pump",
+   "heat pump types"
+  ],
+  "volumes": {
+   "types of heat pumps": 20,
+   "floor console heat pump": 140,
+   "high wall heat pump": 90,
+   "heat pump types": 20
+  }
+ },
+ "calculator-single-room-heat-pump": {
+  "type": "guide",
+  "keyword": "heat pump size calculator",
+  "secondary": [
+   "heat pump calculator",
+   "heat pump kw calculator",
+   "heat pump room size calculator"
+  ],
+  "volumes": {
+   "heat pump size calculator": 170,
+   "heat pump calculator": 140,
+   "heat pump kw calculator": 20,
+   "heat pump room size calculator": 10
+  }
+ },
+ "heat-pump-sizing": {
+  "type": "guide",
+  "keyword": "heat pump size guide",
+  "secondary": [
+   "what size heat pump do i need",
+   "heat pump sizing",
+   "heat pump size"
+  ],
+  "volumes": {
+   "heat pump size guide": 110,
+   "what size heat pump do i need": 70,
+   "heat pump sizing": 90,
+   "heat pump size": 90
+  }
+ },
+ "heat-pumps-hornby": {
+  "type": "suburb",
+  "name": "Hornby",
+  "keyword": "heat pump installation hornby",
+  "secondary": [
+   "heat pumps hornby",
+   "heat pump service hornby",
+   "heat pump repair hornby"
+  ],
+  "volumes": {
+   "heat pump installation hornby": 0,
+   "heat pumps hornby": 0,
+   "heat pump service hornby": 0,
+   "heat pump repair hornby": 0
+  }
+ },
+ "central-business-district-cbd": {
+  "type": "suburb",
+  "name": "Central City",
+  "keyword": "heat pump installation christchurch cbd",
+  "secondary": [
+   "heat pumps christchurch cbd",
+   "heat pump service christchurch cbd",
+   "heat pump repair christchurch cbd"
+  ],
+  "volumes": {
+   "heat pump installation christchurch cbd": 0,
+   "heat pumps christchurch cbd": 0,
+   "heat pump service christchurch cbd": 0,
+   "heat pump repair christchurch cbd": 0
+  }
+ },
+ "edgeware": {
+  "type": "suburb",
+  "name": "Edgeware",
+  "keyword": "heat pump installation edgeware",
+  "secondary": [
+   "heat pumps edgeware",
+   "heat pump service edgeware",
+   "heat pump repair edgeware"
+  ],
+  "volumes": {
+   "heat pump installation edgeware": 0,
+   "heat pumps edgeware": 0,
+   "heat pump service edgeware": 0,
+   "heat pump repair edgeware": 0
+  }
+ },
+ "heat-pumps-addington": {
+  "type": "suburb",
+  "name": "Addington",
+  "keyword": "heat pump installation addington",
+  "secondary": [
+   "heat pumps addington",
+   "heat pump service addington",
+   "heat pump repair addington"
+  ],
+  "volumes": {
+   "heat pump installation addington": 0,
+   "heat pumps addington": 0,
+   "heat pump service addington": 0,
+   "heat pump repair addington": 0
+  }
+ },
+ "sydenham": {
+  "type": "suburb",
+  "name": "Sydenham",
+  "keyword": "heat pump installation sydenham",
+  "secondary": [
+   "heat pumps sydenham",
+   "heat pump service sydenham",
+   "heat pump repair sydenham"
+  ],
+  "volumes": {
+   "heat pump installation sydenham": 0,
+   "heat pumps sydenham": 0,
+   "heat pump service sydenham": 0,
+   "heat pump repair sydenham": 0
+  }
+ },
+ "heat-pumps-papanui": {
+  "type": "suburb",
+  "name": "Papanui",
+  "keyword": "heat pump installation papanui",
+  "secondary": [
+   "heat pumps papanui",
+   "heat pump service papanui",
+   "heat pump repair papanui"
+  ],
+  "volumes": {
+   "heat pump installation papanui": 0,
+   "heat pumps papanui": 0,
+   "heat pump service papanui": 0,
+   "heat pump repair papanui": 0
+  }
+ },
+ "linwood": {
+  "type": "suburb",
+  "name": "Linwood",
+  "keyword": "heat pump installation linwood",
+  "secondary": [
+   "heat pumps linwood",
+   "heat pump service linwood",
+   "heat pump repair linwood"
+  ],
+  "volumes": {
+   "heat pump installation linwood": 0,
+   "heat pumps linwood": 0,
+   "heat pump service linwood": 0,
+   "heat pump repair linwood": 0
+  }
+ },
+ "phillipstown": {
+  "type": "suburb",
+  "name": "Phillipstown",
+  "keyword": "heat pump installation phillipstown",
+  "secondary": [
+   "heat pumps phillipstown",
+   "heat pump service phillipstown",
+   "heat pump repair phillipstown"
+  ],
+  "volumes": {
+   "heat pump installation phillipstown": 0,
+   "heat pumps phillipstown": 0,
+   "heat pump service phillipstown": 0,
+   "heat pump repair phillipstown": 0
+  }
+ },
+ "": {
+  "type": "home",
+  "keyword": "heat pumps christchurch",
+  "secondary": [
+   "heat pump christchurch",
+   "heat pumps chch",
+   "heat pump service christchurch"
+  ],
+  "volumes": {
+   "heat pumps christchurch": 880,
+   "heat pump christchurch": 880,
+   "heat pumps chch": 880,
+   "heat pump service christchurch": 320
+  }
+ },
+ "privacy-policy": {
+  "type": "legal",
+  "keyword": "privacy policy",
+  "secondary": [],
+  "volumes": {
+   "privacy policy": null
+  }
+ },
+ "terms-and-conditions": {
+  "type": "legal",
+  "keyword": "terms and conditions",
+  "secondary": [],
+  "volumes": {
+   "terms and conditions": null
+  }
+ },
+ "casebrook": {
+  "type": "suburb",
+  "name": "Casebrook",
+  "keyword": "heat pump installation casebrook",
+  "secondary": [
+   "heat pumps casebrook",
+   "heat pump service casebrook",
+   "heat pump repair casebrook"
+  ],
+  "volumes": {
+   "heat pump installation casebrook": 0,
+   "heat pumps casebrook": 0,
+   "heat pump service casebrook": 0,
+   "heat pump repair casebrook": 0
+  }
+ },
+ "mairehau": {
+  "type": "suburb",
+  "name": "Mairehau",
+  "keyword": "heat pump installation mairehau",
+  "secondary": [
+   "heat pumps mairehau",
+   "heat pump service mairehau",
+   "heat pump repair mairehau"
+  ],
+  "volumes": {
+   "heat pump installation mairehau": 0,
+   "heat pumps mairehau": 0,
+   "heat pump service mairehau": 0,
+   "heat pump repair mairehau": 0
+  }
+ },
+ "northcote": {
+  "type": "suburb",
+  "name": "Northcote",
+  "keyword": "heat pump installation northcote",
+  "secondary": [
+   "heat pumps northcote",
+   "heat pump service northcote",
+   "heat pump repair northcote"
+  ],
+  "volumes": {
+   "heat pump installation northcote": 0,
+   "heat pumps northcote": 0,
+   "heat pump service northcote": 0,
+   "heat pump repair northcote": 0
+  }
+ },
+ "redwood": {
+  "type": "suburb",
+  "name": "Redwood",
+  "keyword": "heat pump installation redwood",
+  "secondary": [
+   "heat pumps redwood",
+   "heat pump service redwood",
+   "heat pump repair redwood"
+  ],
+  "volumes": {
+   "heat pump installation redwood": 0,
+   "heat pumps redwood": 0,
+   "heat pump service redwood": 0,
+   "heat pump repair redwood": 0
+  }
+ },
+ "st-albans": {
+  "type": "suburb",
+  "name": "St Albans",
+  "keyword": "heat pump installation st albans",
+  "secondary": [
+   "heat pumps st albans",
+   "heat pump service st albans",
+   "heat pump repair st albans"
+  ],
+  "volumes": {
+   "heat pump installation st albans": 0,
+   "heat pumps st albans": 0,
+   "heat pump service st albans": 0,
+   "heat pump repair st albans": 0
+  }
+ },
+ "shirley": {
+  "type": "suburb",
+  "name": "Shirley",
+  "keyword": "heat pump installation shirley",
+  "secondary": [
+   "heat pumps shirley",
+   "heat pump service shirley",
+   "heat pump repair shirley"
+  ],
+  "volumes": {
+   "heat pump installation shirley": 0,
+   "heat pumps shirley": 0,
+   "heat pump service shirley": 0,
+   "heat pump repair shirley": 0
+  }
+ },
+ "marshland": {
+  "type": "suburb",
+  "name": "Marshland",
+  "keyword": "heat pump installation marshland",
+  "secondary": [
+   "heat pumps marshland",
+   "heat pump service marshland",
+   "heat pump repair marshland"
+  ],
+  "volumes": {
+   "heat pump installation marshland": 0,
+   "heat pumps marshland": 0,
+   "heat pump service marshland": 0,
+   "heat pump repair marshland": 0
+  }
+ },
+ "spencerville": {
+  "type": "suburb",
+  "name": "Spencerville",
+  "keyword": "heat pump installation spencerville",
+  "secondary": [
+   "heat pumps spencerville",
+   "heat pump service spencerville",
+   "heat pump repair spencerville"
+  ],
+  "volumes": {
+   "heat pump installation spencerville": 0,
+   "heat pumps spencerville": 0,
+   "heat pump service spencerville": 0,
+   "heat pump repair spencerville": 0
+  }
+ },
+ "burwood": {
+  "type": "suburb",
+  "name": "Burwood",
+  "keyword": "heat pump installation burwood",
+  "secondary": [
+   "heat pumps burwood",
+   "heat pump service burwood",
+   "heat pump repair burwood"
+  ],
+  "volumes": {
+   "heat pump installation burwood": 0,
+   "heat pumps burwood": 0,
+   "heat pump service burwood": 0,
+   "heat pump repair burwood": 0
+  }
+ },
+ "dallington": {
+  "type": "suburb",
+  "name": "Dallington",
+  "keyword": "heat pump installation dallington",
+  "secondary": [
+   "heat pumps dallington",
+   "heat pump service dallington",
+   "heat pump repair dallington"
+  ],
+  "volumes": {
+   "heat pump installation dallington": 0,
+   "heat pumps dallington": 0,
+   "heat pump service dallington": 0,
+   "heat pump repair dallington": 0
+  }
+ },
+ "new-brighton": {
+  "type": "suburb",
+  "name": "New Brighton",
+  "keyword": "heat pump installation new brighton",
+  "secondary": [
+   "heat pumps new brighton",
+   "heat pump service new brighton",
+   "heat pump repair new brighton"
+  ],
+  "volumes": {
+   "heat pump installation new brighton": 0,
+   "heat pumps new brighton": 0,
+   "heat pump service new brighton": 0,
+   "heat pump repair new brighton": 0
+  }
+ },
+ "north-new-brighton": {
+  "type": "suburb",
+  "name": "North New Brighton",
+  "keyword": "heat pump installation north new brighton",
+  "secondary": [
+   "heat pumps north new brighton",
+   "heat pump service north new brighton",
+   "heat pump repair north new brighton"
+  ],
+  "volumes": {
+   "heat pump installation north new brighton": 0,
+   "heat pumps north new brighton": 0,
+   "heat pump service north new brighton": 0,
+   "heat pump repair north new brighton": 0
+  }
+ },
+ "south-new-brighton": {
+  "type": "suburb",
+  "name": "South New Brighton",
+  "keyword": "heat pump installation south new brighton",
+  "secondary": [
+   "heat pumps south new brighton",
+   "heat pump service south new brighton",
+   "heat pump repair south new brighton"
+  ],
+  "volumes": {
+   "heat pump installation south new brighton": 0,
+   "heat pumps south new brighton": 0,
+   "heat pump service south new brighton": 0,
+   "heat pump repair south new brighton": 0
+  }
+ },
+ "new-brighton-central": {
+  "type": "suburb",
+  "name": "New Brighton Central",
+  "keyword": "heat pump installation new brighton central",
+  "secondary": [
+   "heat pumps new brighton central",
+   "heat pump service new brighton central",
+   "heat pump repair new brighton central"
+  ],
+  "volumes": {
+   "heat pump installation new brighton central": 0,
+   "heat pumps new brighton central": 0,
+   "heat pump service new brighton central": 0,
+   "heat pump repair new brighton central": 0
+  }
+ },
+ "parklands": {
+  "type": "suburb",
+  "name": "Parklands",
+  "keyword": "heat pump installation parklands",
+  "secondary": [
+   "heat pumps parklands",
+   "heat pump service parklands",
+   "heat pump repair parklands"
+  ],
+  "volumes": {
+   "heat pump installation parklands": 0,
+   "heat pumps parklands": 0,
+   "heat pump service parklands": 0,
+   "heat pump repair parklands": 0
+  }
+ },
+ "wainoni": {
+  "type": "suburb",
+  "name": "Wainoni",
+  "keyword": "heat pump installation wainoni",
+  "secondary": [
+   "heat pumps wainoni",
+   "heat pump service wainoni",
+   "heat pump repair wainoni"
+  ],
+  "volumes": {
+   "heat pump installation wainoni": 0,
+   "heat pumps wainoni": 0,
+   "heat pump service wainoni": 0,
+   "heat pump repair wainoni": 0
+  }
+ },
+ "queenspark": {
+  "type": "suburb",
+  "name": "Queenspark",
+  "keyword": "heat pump installation queenspark",
+  "secondary": [
+   "heat pumps queenspark",
+   "heat pump service queenspark",
+   "heat pump repair queenspark"
+  ],
+  "volumes": {
+   "heat pump installation queenspark": 0,
+   "heat pumps queenspark": 0,
+   "heat pump service queenspark": 0,
+   "heat pump repair queenspark": 0
+  }
+ },
+ "single-multi-room": {
+  "type": "hub",
+  "keyword": "single or multi room heat pump",
+  "secondary": [
+   "heat pump for multiple rooms",
+   "single room vs multi room heat pump"
+  ],
+  "volumes": {
+   "single or multi room heat pump": 0,
+   "heat pump for multiple rooms": 10,
+   "single room vs multi room heat pump": 0
+  }
+ },
+ "cashmere": {
+  "type": "suburb",
+  "name": "Cashmere",
+  "keyword": "heat pump installation cashmere",
+  "secondary": [
+   "heat pumps cashmere",
+   "heat pump service cashmere",
+   "heat pump repair cashmere"
+  ],
+  "volumes": {
+   "heat pump installation cashmere": 0,
+   "heat pumps cashmere": 0,
+   "heat pump service cashmere": 0,
+   "heat pump repair cashmere": 0
+  }
+ },
+ "cracroft": {
+  "type": "suburb",
+  "name": "Cracroft",
+  "keyword": "heat pump installation cracroft",
+  "secondary": [
+   "heat pumps cracroft",
+   "heat pump service cracroft",
+   "heat pump repair cracroft"
+  ],
+  "volumes": {
+   "heat pump installation cracroft": 0,
+   "heat pumps cracroft": 0,
+   "heat pump service cracroft": 0,
+   "heat pump repair cracroft": 0
+  }
+ },
+ "hoon-hay": {
+  "type": "suburb",
+  "name": "Hoon Hay",
+  "keyword": "heat pump installation hoon hay",
+  "secondary": [
+   "heat pumps hoon hay",
+   "heat pump service hoon hay",
+   "heat pump repair hoon hay"
+  ],
+  "volumes": {
+   "heat pump installation hoon hay": 0,
+   "heat pumps hoon hay": 0,
+   "heat pump service hoon hay": 0,
+   "heat pump repair hoon hay": 0
+  }
+ },
+ "hillmorton": {
+  "type": "suburb",
+  "name": "Hillmorton",
+  "keyword": "heat pump installation hillmorton",
+  "secondary": [
+   "heat pumps hillmorton",
+   "heat pump service hillmorton",
+   "heat pump repair hillmorton"
+  ],
+  "volumes": {
+   "heat pump installation hillmorton": 0,
+   "heat pumps hillmorton": 0,
+   "heat pump service hillmorton": 0,
+   "heat pump repair hillmorton": 0
+  }
+ },
+ "somerfield": {
+  "type": "suburb",
+  "name": "Somerfield",
+  "keyword": "heat pump installation somerfield",
+  "secondary": [
+   "heat pumps somerfield",
+   "heat pump service somerfield",
+   "heat pump repair somerfield"
+  ],
+  "volumes": {
+   "heat pump installation somerfield": 0,
+   "heat pumps somerfield": 0,
+   "heat pump service somerfield": 0,
+   "heat pump repair somerfield": 0
+  }
+ },
+ "spreydon": {
+  "type": "suburb",
+  "name": "Spreydon",
+  "keyword": "heat pump installation spreydon",
+  "secondary": [
+   "heat pumps spreydon",
+   "heat pump service spreydon",
+   "heat pump repair spreydon"
+  ],
+  "volumes": {
+   "heat pump installation spreydon": 0,
+   "heat pumps spreydon": 0,
+   "heat pump service spreydon": 0,
+   "heat pump repair spreydon": 0
+  }
+ },
+ "westmorland": {
+  "type": "suburb",
+  "name": "Westmorland",
+  "keyword": "heat pump installation westmorland",
+  "secondary": [
+   "heat pumps westmorland",
+   "heat pump service westmorland",
+   "heat pump repair westmorland"
+  ],
+  "volumes": {
+   "heat pump installation westmorland": 0,
+   "heat pumps westmorland": 0,
+   "heat pump service westmorland": 0,
+   "heat pump repair westmorland": 0
+  }
+ },
+ "wigram": {
+  "type": "suburb",
+  "name": "Wigram",
+  "keyword": "heat pump installation wigram",
+  "secondary": [
+   "heat pumps wigram",
+   "heat pump service wigram",
+   "heat pump repair wigram"
+  ],
+  "volumes": {
+   "heat pump installation wigram": 0,
+   "heat pumps wigram": 0,
+   "heat pump service wigram": 0,
+   "heat pump repair wigram": 0
+  }
+ },
+ "kennedys-bush": {
+  "type": "suburb",
+  "name": "Kennedys Bush",
+  "keyword": "heat pump installation kennedys bush",
+  "secondary": [
+   "heat pumps kennedys bush",
+   "heat pump service kennedys bush",
+   "heat pump repair kennedys bush"
+  ],
+  "volumes": {
+   "heat pump installation kennedys bush": 0,
+   "heat pumps kennedys bush": 0,
+   "heat pump service kennedys bush": 0,
+   "heat pump repair kennedys bush": 0
+  }
+ },
+ "ilam": {
+  "type": "suburb",
+  "name": "Ilam",
+  "keyword": "heat pump installation ilam",
+  "secondary": [
+   "heat pumps ilam",
+   "heat pump service ilam",
+   "heat pump repair ilam"
+  ],
+  "volumes": {
+   "heat pump installation ilam": 0,
+   "heat pumps ilam": 0,
+   "heat pump service ilam": 0,
+   "heat pump repair ilam": 0
+  }
+ },
+ "harewood": {
+  "type": "suburb",
+  "name": "Harewood",
+  "keyword": "heat pump installation harewood",
+  "secondary": [
+   "heat pumps harewood",
+   "heat pump service harewood",
+   "heat pump repair harewood"
+  ],
+  "volumes": {
+   "heat pump installation harewood": 0,
+   "heat pumps harewood": 0,
+   "heat pump service harewood": 0,
+   "heat pump repair harewood": 0
+  }
+ },
+ "upper-riccarton": {
+  "type": "suburb",
+  "name": "Upper Riccarton",
+  "keyword": "heat pump installation upper riccarton",
+  "secondary": [
+   "heat pumps upper riccarton",
+   "heat pump service upper riccarton",
+   "heat pump repair upper riccarton"
+  ],
+  "volumes": {
+   "heat pump installation upper riccarton": 0,
+   "heat pumps upper riccarton": 0,
+   "heat pump service upper riccarton": 0,
+   "heat pump repair upper riccarton": 0
+  }
+ },
+ "yaldhurst": {
+  "type": "suburb",
+  "name": "Yaldhurst",
+  "keyword": "heat pump installation yaldhurst",
+  "secondary": [
+   "heat pumps yaldhurst",
+   "heat pump service yaldhurst",
+   "heat pump repair yaldhurst"
+  ],
+  "volumes": {
+   "heat pump installation yaldhurst": 0,
+   "heat pumps yaldhurst": 0,
+   "heat pump service yaldhurst": 0,
+   "heat pump repair yaldhurst": 0
+  }
+ },
+ "russley": {
+  "type": "suburb",
+  "name": "Russley",
+  "keyword": "heat pump installation russley",
+  "secondary": [
+   "heat pumps russley",
+   "heat pump service russley",
+   "heat pump repair russley"
+  ],
+  "volumes": {
+   "heat pump installation russley": 0,
+   "heat pumps russley": 0,
+   "heat pump service russley": 0,
+   "heat pump repair russley": 0
+  }
+ },
+ "sockburn": {
+  "type": "suburb",
+  "name": "Sockburn",
+  "keyword": "heat pump installation sockburn",
+  "secondary": [
+   "heat pumps sockburn",
+   "heat pump service sockburn",
+   "heat pump repair sockburn"
+  ],
+  "volumes": {
+   "heat pump installation sockburn": 0,
+   "heat pumps sockburn": 0,
+   "heat pump service sockburn": 0,
+   "heat pump repair sockburn": 0
+  }
+ },
+ "templeton": {
+  "type": "suburb",
+  "name": "Templeton",
+  "keyword": "heat pump installation templeton",
+  "secondary": [
+   "heat pumps templeton",
+   "heat pump service templeton",
+   "heat pump repair templeton"
+  ],
+  "volumes": {
+   "heat pump installation templeton": 0,
+   "heat pumps templeton": 0,
+   "heat pump service templeton": 0,
+   "heat pump repair templeton": 0
+  }
+ },
+ "heathcote-valley": {
+  "type": "suburb",
+  "name": "Heathcote Valley",
+  "keyword": "heat pump installation heathcote valley",
+  "secondary": [
+   "heat pumps heathcote valley",
+   "heat pump service heathcote valley",
+   "heat pump repair heathcote valley"
+  ],
+  "volumes": {
+   "heat pump installation heathcote valley": 0,
+   "heat pumps heathcote valley": 0,
+   "heat pump service heathcote valley": 0,
+   "heat pump repair heathcote valley": 0
+  }
+ },
+ "mount-pleasant": {
+  "type": "suburb",
+  "name": "Mount Pleasant",
+  "keyword": "heat pump installation mount pleasant",
+  "secondary": [
+   "heat pumps mount pleasant",
+   "heat pump service mount pleasant",
+   "heat pump repair mount pleasant"
+  ],
+  "volumes": {
+   "heat pump installation mount pleasant": 0,
+   "heat pumps mount pleasant": 0,
+   "heat pump service mount pleasant": 0,
+   "heat pump repair mount pleasant": 0
+  }
+ },
+ "redcliffs": {
+  "type": "suburb",
+  "name": "Redcliffs",
+  "keyword": "heat pump installation redcliffs",
+  "secondary": [
+   "heat pumps redcliffs",
+   "heat pump service redcliffs",
+   "heat pump repair redcliffs"
+  ],
+  "volumes": {
+   "heat pump installation redcliffs": 0,
+   "heat pumps redcliffs": 0,
+   "heat pump service redcliffs": 0,
+   "heat pump repair redcliffs": 0
+  }
+ },
+ "sumner": {
+  "type": "suburb",
+  "name": "Sumner",
+  "keyword": "heat pump installation sumner",
+  "secondary": [
+   "heat pumps sumner",
+   "heat pump service sumner",
+   "heat pump repair sumner"
+  ],
+  "volumes": {
+   "heat pump installation sumner": 0,
+   "heat pumps sumner": 0,
+   "heat pump service sumner": 0,
+   "heat pump repair sumner": 0
+  }
+ },
+ "ferrymead": {
+  "type": "suburb",
+  "name": "Ferrymead",
+  "keyword": "heat pump installation ferrymead",
+  "secondary": [
+   "heat pumps ferrymead",
+   "heat pump service ferrymead",
+   "heat pump repair ferrymead"
+  ],
+  "volumes": {
+   "heat pump installation ferrymead": 0,
+   "heat pumps ferrymead": 0,
+   "heat pump service ferrymead": 0,
+   "heat pump repair ferrymead": 0
+  }
+ },
+ "clifton": {
+  "type": "suburb",
+  "name": "Clifton",
+  "keyword": "heat pump installation clifton",
+  "secondary": [
+   "heat pumps clifton",
+   "heat pump service clifton",
+   "heat pump repair clifton"
+  ],
+  "volumes": {
+   "heat pump installation clifton": 0,
+   "heat pumps clifton": 0,
+   "heat pump service clifton": 0,
+   "heat pump repair clifton": 0
+  }
+ },
+ "moncks-bay": {
+  "type": "suburb",
+  "name": "Moncks Bay",
+  "keyword": "heat pump installation moncks bay",
+  "secondary": [
+   "heat pumps moncks bay",
+   "heat pump service moncks bay",
+   "heat pump repair moncks bay"
+  ],
+  "volumes": {
+   "heat pump installation moncks bay": 0,
+   "heat pumps moncks bay": 0,
+   "heat pump service moncks bay": 0,
+   "heat pump repair moncks bay": 0
+  }
+ },
+ "mcleans-island": {
+  "type": "suburb",
+  "name": "McLeans Island",
+  "keyword": "heat pump installation mcleans island",
+  "secondary": [
+   "heat pumps mcleans island",
+   "heat pump service mcleans island",
+   "heat pump repair mcleans island"
+  ],
+  "volumes": {
+   "heat pump installation mcleans island": 0,
+   "heat pumps mcleans island": 0,
+   "heat pump service mcleans island": 0,
+   "heat pump repair mcleans island": 0
+  }
+ },
+ "lincoln": {
+  "type": "suburb",
+  "name": "Lincoln",
+  "keyword": "heat pump installation lincoln",
+  "secondary": [
+   "heat pumps lincoln",
+   "heat pump service lincoln",
+   "heat pump repair lincoln"
+  ],
+  "volumes": {
+   "heat pump installation lincoln": 10,
+   "heat pumps lincoln": 10,
+   "heat pump service lincoln": 0,
+   "heat pump repair lincoln": 0
+  }
+ },
+ "heat-pump-installation-cost-christchurch": {
+  "type": "guide",
+  "keyword": "heat pump installation cost",
+  "secondary": [
+   "heat pump install price",
+   "heat pump installation cost nz",
+   "heat pump prices christchurch"
+  ],
+  "volumes": {
+   "heat pump installation cost": 1000,
+   "heat pump install price": 1000,
+   "heat pump installation cost nz": 480,
+   "heat pump prices christchurch": 90
+  }
+ },
+ "best-heat-pump-covers-nz": {
+  "type": "guide",
+  "keyword": "heat pump covers nz",
+  "secondary": [
+   "best heat pump cover",
+   "heat pump cover nz",
+   "air conditioner cover nz"
+  ],
+  "volumes": {
+   "heat pump covers nz": 320,
+   "best heat pump cover": 0,
+   "heat pump cover nz": 320,
+   "air conditioner cover nz": 50
+  }
+ },
+ "daikin-heat-pump-service-christchurch": {
+  "type": "service",
+  "keyword": "daikin heat pump repair",
+  "secondary": [
+   "daikin heat pump service",
+   "daikin christchurch",
+   "daikin air conditioning repairs"
+  ],
+  "volumes": {
+   "daikin heat pump repair": 590,
+   "daikin heat pump service": 70,
+   "daikin christchurch": 170,
+   "daikin air conditioning repairs": 880
+  }
+ },
+ "mitsubishi-heat-pump-service-christchurch": {
+  "type": "service",
+  "keyword": "mitsubishi heat pump repair",
+  "secondary": [
+   "mitsubishi heat pump service",
+   "mitsubishi heat pumps chch",
+   "mitsubishi heat pump repairs"
+  ],
+  "volumes": {
+   "mitsubishi heat pump repair": 480,
+   "mitsubishi heat pump service": 50,
+   "mitsubishi heat pumps chch": 90,
+   "mitsubishi heat pump repairs": 480
+  }
+ },
+ "heat-pump-problems-troubleshooting-guide": {
+  "type": "guide",
+  "keyword": "heat pump problems",
+  "secondary": [
+   "heat pump not heating",
+   "common heat pump problems",
+   "heat pump troubleshooting guide"
+  ],
+  "volumes": {
+   "heat pump problems": 10,
+   "heat pump not heating": 40,
+   "common heat pump problems": 10,
+   "heat pump troubleshooting guide": 10
+  }
+ },
+ "best-heat-pump-brands-christchurch": {
+  "type": "guide",
+  "keyword": "best heat pumps nz",
+  "secondary": [
+   "best heat pump brand nz",
+   "best heat pump brands",
+   "best heat pumps new zealand"
+  ],
+  "volumes": {
+   "best heat pumps nz": 480,
+   "best heat pump brand nz": 70,
+   "best heat pump brands": 50,
+   "best heat pumps new zealand": 480
+  }
+ },
+ "energy-efficient": {
+  "type": "guide",
+  "keyword": "energy efficient heat pump",
+  "secondary": [
+   "heat pump energy efficiency",
+   "most energy efficient heat pump",
+   "energy efficient heating"
+  ],
+  "volumes": {
+   "energy efficient heat pump": 170,
+   "heat pump energy efficiency": 170,
+   "most energy efficient heat pump": 10,
+   "energy efficient heating": 10
+  }
+ },
+ "heat-pump-repair": {
+  "type": "service",
+  "keyword": "heat pump repairs christchurch",
+  "secondary": [
+   "heat pump repair",
+   "heat pump repairs",
+   "fix heat pump"
+  ],
+  "volumes": {
+   "heat pump repairs christchurch": 90,
+   "heat pump repair": 1600,
+   "heat pump repairs": 1600,
+   "fix heat pump": 1600
+  }
+ },
+ "fujitsu-heat-pump-service-christchurch": {
+  "type": "service",
+  "keyword": "fujitsu heat pump repair",
+  "secondary": [
+   "fujitsu heat pump service",
+   "fujitsu air conditioner repair",
+   "fujitsu heat pump service christchurch"
+  ],
+  "volumes": {
+   "fujitsu heat pump repair": 480,
+   "fujitsu heat pump service": 70,
+   "fujitsu air conditioner repair": 390,
+   "fujitsu heat pump service christchurch": 20
+  }
+ },
+ "best-heat-pump-installers-christchurch": {
+  "type": "guide",
+  "keyword": "best heat pump installers christchurch",
+  "secondary": [
+   "heat pump installers christchurch",
+   "heat pump installer christchurch",
+   "heat pump installers near me"
+  ],
+  "volumes": {
+   "best heat pump installers christchurch": 50,
+   "heat pump installers christchurch": 140,
+   "heat pump installer christchurch": 140,
+   "heat pump installers near me": 260
+  }
+ },
+ "panasonic-heat-pump-service-christchurch": {
+  "type": "service",
+  "keyword": "panasonic heat pump repair",
+  "secondary": [
+   "panasonic heat pump service",
+   "panasonic air conditioner repair",
+   "panasonic heat pump christchurch"
+  ],
+  "volumes": {
+   "panasonic heat pump repair": 320,
+   "panasonic heat pump service": 50,
+   "panasonic air conditioner repair": 320,
+   "panasonic heat pump christchurch": 0
+  }
+ },
+ "heat-pump-noise-problems-solutions": {
+  "type": "guide",
+  "keyword": "heat pump noise",
+  "secondary": [
+   "noisy heat pump",
+   "heat pump making noise",
+   "heat pump rattling"
+  ],
+  "volumes": {
+   "heat pump noise": 20,
+   "noisy heat pump": 20,
+   "heat pump making noise": 10,
+   "heat pump rattling": 10
+  }
+ },
+ "heat-pumps-riccarton": {
+  "type": "suburb",
+  "name": "Riccarton",
+  "keyword": "heat pump installation riccarton",
+  "secondary": [
+   "heat pumps riccarton",
+   "heat pump service riccarton",
+   "heat pump repair riccarton"
+  ],
+  "volumes": {
+   "heat pump installation riccarton": 0,
+   "heat pumps riccarton": 0,
+   "heat pump service riccarton": 0,
+   "heat pump repair riccarton": 0
+  }
+ },
+ "fendalton": {
+  "type": "suburb",
+  "name": "Fendalton",
+  "keyword": "heat pump installation fendalton",
+  "secondary": [
+   "heat pumps fendalton",
+   "heat pump service fendalton",
+   "heat pump repair fendalton"
+  ],
+  "volumes": {
+   "heat pump installation fendalton": 0,
+   "heat pumps fendalton": 0,
+   "heat pump service fendalton": 0,
+   "heat pump repair fendalton": 0
+  }
+ },
+ "rolleston": {
+  "type": "suburb",
+  "name": "Rolleston",
+  "keyword": "heat pump installation rolleston",
+  "secondary": [
+   "heat pumps rolleston",
+   "heat pump service rolleston",
+   "heat pump repair rolleston"
+  ],
+  "volumes": {
+   "heat pump installation rolleston": 10,
+   "heat pumps rolleston": 0,
+   "heat pump service rolleston": 20,
+   "heat pump repair rolleston": 10
+  }
+ },
+ "aranui": {
+  "type": "suburb",
+  "name": "Aranui",
+  "keyword": "heat pump installation aranui",
+  "secondary": [
+   "heat pumps aranui",
+   "heat pump service aranui",
+   "heat pump repair aranui"
+  ],
+  "volumes": {
+   "heat pump installation aranui": 0,
+   "heat pumps aranui": 0,
+   "heat pump service aranui": 0,
+   "heat pump repair aranui": 0
+  }
+ },
+ "aidanfield": {
+  "type": "suburb",
+  "name": "Aidanfield",
+  "keyword": "heat pump installation aidanfield",
+  "secondary": [
+   "heat pumps aidanfield",
+   "heat pump service aidanfield",
+   "heat pump repair aidanfield"
+  ],
+  "volumes": {
+   "heat pump installation aidanfield": 0,
+   "heat pumps aidanfield": 0,
+   "heat pump service aidanfield": 0,
+   "heat pump repair aidanfield": 0
+  }
+ },
+ "oaklands": {
+  "type": "suburb",
+  "name": "Oaklands",
+  "keyword": "heat pump installation oaklands",
+  "secondary": [
+   "heat pumps oaklands",
+   "heat pump service oaklands",
+   "heat pump repair oaklands"
+  ],
+  "volumes": {
+   "heat pump installation oaklands": 0,
+   "heat pumps oaklands": 0,
+   "heat pump service oaklands": 0,
+   "heat pump repair oaklands": 0
+  }
+ },
+ "lyttelton": {
+  "type": "suburb",
+  "name": "Lyttelton",
+  "keyword": "heat pump installation lyttelton",
+  "secondary": [
+   "heat pumps lyttelton",
+   "heat pump service lyttelton",
+   "heat pump repair lyttelton"
+  ],
+  "volumes": {
+   "heat pump installation lyttelton": 0,
+   "heat pumps lyttelton": 0,
+   "heat pump service lyttelton": 0,
+   "heat pump repair lyttelton": 0
+  }
+ },
+ "prebbleton": {
+  "type": "suburb",
+  "name": "Prebbleton",
+  "keyword": "heat pump installation prebbleton",
+  "secondary": [
+   "heat pumps prebbleton",
+   "heat pump service prebbleton",
+   "heat pump repair prebbleton"
+  ],
+  "volumes": {
+   "heat pump installation prebbleton": 0,
+   "heat pumps prebbleton": 0,
+   "heat pump service prebbleton": 0,
+   "heat pump repair prebbleton": 0
+  }
+ },
+ "tai-tapu": {
+  "type": "suburb",
+  "name": "Tai Tapu",
+  "keyword": "heat pump installation tai tapu",
+  "secondary": [
+   "heat pumps tai tapu",
+   "heat pump service tai tapu",
+   "heat pump repair tai tapu"
+  ],
+  "volumes": {
+   "heat pump installation tai tapu": 0,
+   "heat pumps tai tapu": 0,
+   "heat pump service tai tapu": 0,
+   "heat pump repair tai tapu": 0
+  }
+ },
+ "halswell": {
+  "type": "suburb",
+  "name": "Halswell",
+  "keyword": "heat pump installation halswell",
+  "secondary": [
+   "heat pumps halswell",
+   "heat pump service halswell",
+   "heat pump repair halswell"
+  ],
+  "volumes": {
+   "heat pump installation halswell": 0,
+   "heat pumps halswell": 0,
+   "heat pump service halswell": 0,
+   "heat pump repair halswell": 0
+  }
+ },
+ "avonhead": {
+  "type": "suburb",
+  "name": "Avonhead",
+  "keyword": "heat pump installation avonhead",
+  "secondary": [
+   "heat pumps avonhead",
+   "heat pump service avonhead",
+   "heat pump repair avonhead"
+  ],
+  "volumes": {
+   "heat pump installation avonhead": 0,
+   "heat pumps avonhead": 0,
+   "heat pump service avonhead": 0,
+   "heat pump repair avonhead": 0
+  }
+ },
+ "beckenham": {
+  "type": "suburb",
+  "name": "Beckenham",
+  "keyword": "heat pump installation beckenham",
+  "secondary": [
+   "heat pumps beckenham",
+   "heat pump service beckenham",
+   "heat pump repair beckenham"
+  ],
+  "volumes": {
+   "heat pump installation beckenham": 0,
+   "heat pumps beckenham": 0,
+   "heat pump service beckenham": 0,
+   "heat pump repair beckenham": 0
+  }
+ },
+ "belfast": {
+  "type": "suburb",
+  "name": "Belfast",
+  "keyword": "heat pump installation belfast",
+  "secondary": [
+   "heat pumps belfast",
+   "heat pump service belfast",
+   "heat pump repair belfast"
+  ],
+  "volumes": {
+   "heat pump installation belfast": 0,
+   "heat pumps belfast": 10,
+   "heat pump service belfast": 0,
+   "heat pump repair belfast": 0
+  }
+ },
+ "bexley": {
+  "type": "suburb",
+  "name": "Bexley",
+  "keyword": "heat pump installation bexley",
+  "secondary": [
+   "heat pumps bexley",
+   "heat pump service bexley",
+   "heat pump repair bexley"
+  ],
+  "volumes": {
+   "heat pump installation bexley": 0,
+   "heat pumps bexley": 0,
+   "heat pump service bexley": 0,
+   "heat pump repair bexley": 0
+  }
+ },
+ "bottle-lake": {
+  "type": "suburb",
+  "name": "Bottle Lake",
+  "keyword": "heat pump installation bottle lake",
+  "secondary": [
+   "heat pumps bottle lake",
+   "heat pump service bottle lake",
+   "heat pump repair bottle lake"
+  ],
+  "volumes": {
+   "heat pump installation bottle lake": 0,
+   "heat pumps bottle lake": 0,
+   "heat pump service bottle lake": 0,
+   "heat pump repair bottle lake": 0
+  }
+ },
+ "bromley": {
+  "type": "suburb",
+  "name": "Bromley",
+  "keyword": "heat pump installation bromley",
+  "secondary": [
+   "heat pumps bromley",
+   "heat pump service bromley",
+   "heat pump repair bromley"
+  ],
+  "volumes": {
+   "heat pump installation bromley": 0,
+   "heat pumps bromley": 0,
+   "heat pump service bromley": 0,
+   "heat pump repair bromley": 0
+  }
+ },
+ "avondale": {
+  "type": "suburb",
+  "name": "Avondale",
+  "keyword": "heat pump installation avondale",
+  "secondary": [
+   "heat pumps avondale",
+   "heat pump service avondale",
+   "heat pump repair avondale"
+  ],
+  "volumes": {
+   "heat pump installation avondale": 0,
+   "heat pumps avondale": 10,
+   "heat pump service avondale": 0,
+   "heat pump repair avondale": 0
+  }
+ },
+ "brooklands": {
+  "type": "suburb",
+  "name": "Brooklands",
+  "keyword": "heat pump installation brooklands",
+  "secondary": [
+   "heat pumps brooklands",
+   "heat pump service brooklands",
+   "heat pump repair brooklands"
+  ],
+  "volumes": {
+   "heat pump installation brooklands": 0,
+   "heat pumps brooklands": 0,
+   "heat pump service brooklands": 0,
+   "heat pump repair brooklands": 0
+  }
+ },
+ "bryndwr": {
+  "type": "suburb",
+  "name": "Bryndwr",
+  "keyword": "heat pump installation bryndwr",
+  "secondary": [
+   "heat pumps bryndwr",
+   "heat pump service bryndwr",
+   "heat pump repair bryndwr"
+  ],
+  "volumes": {
+   "heat pump installation bryndwr": 0,
+   "heat pumps bryndwr": 0,
+   "heat pump service bryndwr": 0,
+   "heat pump repair bryndwr": 0
+  }
+ },
+ "burnside": {
+  "type": "suburb",
+  "name": "Burnside",
+  "keyword": "heat pump installation burnside",
+  "secondary": [
+   "heat pumps burnside",
+   "heat pump service burnside",
+   "heat pump repair burnside"
+  ],
+  "volumes": {
+   "heat pump installation burnside": 0,
+   "heat pumps burnside": 0,
+   "heat pump service burnside": 0,
+   "heat pump repair burnside": 0
+  }
+ },
+ "single-room-heat-pump-installation": {
+  "type": "service",
+  "keyword": "single room heat pump",
+  "secondary": [
+   "small heat pump",
+   "heat pump for bedroom",
+   "heat pump for one room"
+  ],
+  "volumes": {
+   "single room heat pump": 20,
+   "small heat pump": 320,
+   "heat pump for bedroom": 70,
+   "heat pump for one room": 20
+  }
+ },
+ "maintenance-servicing": {
+  "type": "service",
+  "keyword": "heat pump maintenance",
+  "secondary": [
+   "heat pump maintenance christchurch",
+   "heat pump servicing near me",
+   "heat pump servicing chch"
+  ],
+  "volumes": {
+   "heat pump maintenance": 720,
+   "heat pump maintenance christchurch": 10,
+   "heat pump servicing near me": 480,
+   "heat pump servicing chch": 320
+  }
+ },
+ "heat-pump-services": {
+  "type": "hub",
+  "keyword": "heat pump services",
+  "secondary": [
+   "heat pump service",
+   "heat pump specialists christchurch",
+   "heat pump services christchurch"
+  ],
+  "volumes": {
+   "heat pump services": 1000,
+   "heat pump service": 1000,
+   "heat pump specialists christchurch": 20,
+   "heat pump services christchurch": 10
+  }
+ },
+ "multi-room-heat-pump-installation": {
+  "type": "service",
+  "keyword": "multi room heat pump",
+  "secondary": [
+   "multi split heat pump",
+   "multi split heat pump nz",
+   "multi head heat pump"
+  ],
+  "volumes": {
+   "multi room heat pump": 70,
+   "multi split heat pump": 110,
+   "multi split heat pump nz": 90,
+   "multi head heat pump": 10
+  }
+ },
+ "air-conditioning-installation-christchurch": {
+  "type": "service",
+  "keyword": "air conditioning christchurch",
+  "secondary": [
+   "air conditioning installation",
+   "aircon christchurch",
+   "air con installation"
+  ],
+  "volumes": {
+   "air conditioning christchurch": 210,
+   "air conditioning installation": 320,
+   "aircon christchurch": 210,
+   "air con installation": 30
+  }
+ },
+ "heat-pump-installation-in-christchurch": {
+  "type": "service",
+  "keyword": "heat pump installation christchurch",
+  "secondary": [
+   "heat pump installation",
+   "heat pump install",
+   "heat pump installation near me"
+  ],
+  "volumes": {
+   "heat pump installation christchurch": 140,
+   "heat pump installation": 1300,
+   "heat pump install": 1300,
+   "heat pump installation near me": 260
+  }
+ },
+ "ducted-vs-split-heat-pumps-christchurch": {
+  "type": "guide",
+  "keyword": "ducted vs split system",
+  "secondary": [
+   "ducted vs split heat pump",
+   "ducted or split system",
+   "ducted vs high wall heat pump"
+  ],
+  "volumes": {
+   "ducted vs split system": 10,
+   "ducted vs split heat pump": 0,
+   "ducted or split system": 10,
+   "ducted vs high wall heat pump": 0
+  }
+ },
+ "ducted-heat-pump-cost-christchurch": {
+  "type": "guide",
+  "keyword": "ducted heat pump cost",
+  "secondary": [
+   "ducted heat pump cost nz",
+   "ducted heat pump prices nz",
+   "cost of ducted heat pump"
+  ],
+  "volumes": {
+   "ducted heat pump cost": 70,
+   "ducted heat pump cost nz": 170,
+   "ducted heat pump prices nz": 90,
+   "cost of ducted heat pump": 70
+  }
+ },
+ "daikin-ducted-heat-pumps-christchurch": {
+  "type": "service",
+  "keyword": "daikin ducted heat pump",
+  "secondary": [
+   "daikin ducted",
+   "daikin ducted system",
+   "daikin ducted heat pump christchurch"
+  ],
+  "volumes": {
+   "daikin ducted heat pump": 110,
+   "daikin ducted": 30,
+   "daikin ducted system": 20,
+   "daikin ducted heat pump christchurch": 0
+  }
+ },
+ "mitsubishi-ducted-heat-pumps-christchurch": {
+  "type": "service",
+  "keyword": "mitsubishi ducted heat pump",
+  "secondary": [
+   "mitsubishi ducted",
+   "mitsubishi ducted system",
+   "mitsubishi ducted heat pump christchurch"
+  ],
+  "volumes": {
+   "mitsubishi ducted heat pump": 110,
+   "mitsubishi ducted": 10,
+   "mitsubishi ducted system": 10,
+   "mitsubishi ducted heat pump christchurch": 0
+  }
+ },
+ "ducted-heat-pumps-christchurch": {
+  "type": "service",
+  "keyword": "ducted heat pumps christchurch",
+  "secondary": [
+   "ducted heat pump",
+   "ducted heat pumps",
+   "ducted heating christchurch"
+  ],
+  "volumes": {
+   "ducted heat pumps christchurch": 70,
+   "ducted heat pump": 1000,
+   "ducted heat pumps": 1000,
+   "ducted heating christchurch": 20
+  }
+ },
+ "heat-pump-boundary-rules-consent-nz": {
+  "type": "guide",
+  "keyword": "heat pump boundary rules nz",
+  "secondary": [
+   "heat pump boundary rules",
+   "heat pump distance from boundary",
+   "heat pump consent nz",
+   "heat pump noise rules nz"
+  ],
+  "volumes": {
+   "heat pump boundary rules nz": 0,
+   "heat pump boundary rules": 10,
+   "heat pump distance from boundary": 10,
+   "heat pump consent nz": 0,
+   "heat pump noise rules nz": 0
+  }
+ },
+ "about-us": {
+  "type": "about",
+  "keyword": "heat pumps hq",
+  "secondary": [
+   "heat pumps hq christchurch",
+   "heat pump company christchurch"
+  ],
+  "volumes": {
+   "heat pumps hq": 0,
+   "heat pumps hq christchurch": 0,
+   "heat pump company christchurch": 0
+  }
+ },
+ "locations": {
+  "type": "hub",
+  "keyword": "heat pumps near me",
+  "secondary": [
+   "heat pumps selwyn",
+   "heat pumps canterbury",
+   "heat pumps christchurch suburbs"
+  ],
+  "volumes": {
+   "heat pumps near me": 170,
+   "heat pumps selwyn": 10,
+   "heat pumps canterbury": 10,
+   "heat pumps christchurch suburbs": 0
+  }
+ },
+ "contact-us": {
+  "type": "contact",
+  "keyword": "contact heat pumps hq",
+  "secondary": [
+   "heat pump quote christchurch",
+   "heat pumps hq phone"
+  ],
+  "volumes": {
+   "contact heat pumps hq": null,
+   "heat pump quote christchurch": null,
+   "heat pumps hq phone": 0
+  }
+ }
+}

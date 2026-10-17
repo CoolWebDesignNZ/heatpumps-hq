@@ -78,5 +78,65 @@
   "aspect": "16x9",
   "alt": "Work van parked on a quiet Christchurch street",
   "prompt": "Photograph of an unbranded white work van parked on a quiet leafy Christchurch suburban street outside a weatherboard bungalow, soft overcast light, realistic, no people, no text, no logos"
+ },
+ "pool-weatherboard": {
+  "aspect": "4x3",
+  "alt": "Wall-mounted heat pump in the lounge of a weatherboard villa",
+  "prompt": "Interior photograph of the lounge of an older New Zealand weatherboard villa, white wall-mounted heat pump above a doorway, high stud ceiling, sash windows, rimu skirting boards, soft winter light, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-brick-bungalow": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit beside a brick bungalow",
+  "prompt": "Photograph of a white heat pump outdoor unit on raised feet beside the brick wall of a 1950s New Zealand bungalow, garden bed, overcast day, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-newbuild-living": {
+  "aspect": "4x3",
+  "alt": "Heat pump in an open plan living area of a new home",
+  "prompt": "Interior photograph of a modern open plan living, dining and kitchen area in a new New Zealand subdivision home, white wall-mounted heat pump, pale timber floor, large sliding doors, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-hill-home": {
+  "aspect": "4x3",
+  "alt": "Outdoor unit on a wall bracket at a hillside home",
+  "prompt": "Photograph of a heat pump outdoor unit mounted on a galvanised wall bracket on a hillside home deck, view over a city and plains below, clear winter day, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-coastal-home": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit at a coastal home",
+  "prompt": "Photograph of a heat pump outdoor unit on a concrete pad beside a seaside bach style home, sand dune grass, sea haze in the background, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-bedroom-unit": {
+  "aspect": "4x3",
+  "alt": "Small heat pump in a bedroom",
+  "prompt": "Interior photograph of a calm New Zealand bedroom with a compact white wall-mounted heat pump above a window, made bed, neutral tones, morning light, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-console-unit": {
+  "aspect": "4x3",
+  "alt": "Floor console heat pump under a window",
+  "prompt": "Interior photograph of a white floor console heat pump under a window in a New Zealand living room, low sill, timber floor, armchair, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-ducted-vent": {
+  "aspect": "4x3",
+  "alt": "Ducted heat pump ceiling vent",
+  "prompt": "Interior photograph of a white ducted heating ceiling vent in a modern New Zealand hallway, plain white ceiling, soft daylight, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-townhouse": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor units beside a row of townhouses",
+  "prompt": "Photograph of heat pump outdoor units on wall brackets along the side of new two storey townhouses in a New Zealand city, cedar cladding, narrow path, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-filters": {
+  "aspect": "4x3",
+  "alt": "Heat pump filter being rinsed",
+  "prompt": "Close-up photograph of a heat pump mesh filter being rinsed under a laundry tap, water droplets, bright daylight, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-frost-outdoor": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit on a frosty morning",
+  "prompt": "Photograph of a heat pump outdoor unit on raised feet on a frosty Canterbury morning, white frost on the lawn, low sun, weatherboard wall, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "pool-lifestyle": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit at a lifestyle block house",
+  "prompt": "Photograph of a heat pump outdoor unit beside a modern farmhouse on a Canterbury lifestyle block, shelter belt trees, paddock, Southern Alps faint in the distance, natural light, realistic photograph, no people, no text, no logos"
  }
 }
