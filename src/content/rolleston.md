@@ -1,6 +1,6 @@
 ---
 title: Heat Pump Installation Rolleston | Mitsubishi & Daikin
-description: Heat pump installation, servicing and repairs in Rolleston, including Mitsubishi Electric and Daikin. Ducted and wall-mounted systems sized for new Selwyn homes and Canterbury frosts. Free quotes from Nate, call 03 242 1023.
+description: "New build or older home in Rolleston? See which heat pump suits Selwyn frosts, how Mitsubishi and Daikin compare, and how to get a fixed-price quote."
 h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston
@@ -41,7 +41,7 @@ Clear winter nights on the plains bring hard frosts, and that's when a heat pump
 
 ## Mitsubishi heat pumps in Rolleston
 
-Mitsubishi Electric is one of the brands we install most often in Rolleston, and we service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install, and we'll show you how they compare for your house. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
+We install Mitsubishi Electric heat pumps in Rolleston, and service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install, and we'll show you how they compare for your house. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
 - **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
 ## Nearby areas

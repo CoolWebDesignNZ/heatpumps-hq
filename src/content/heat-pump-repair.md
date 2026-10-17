@@ -1,6 +1,6 @@
 ---
 title: Heat Pump Repairs Christchurch | All Brands | Heat Pumps HQ
-description: Heat pump repairs in Christchurch. Not heating, leaking or showing an error code? Nate repairs Mitsubishi, Daikin, Fujitsu, Toshiba and Panasonic heat pumps across Christchurch. Call 03 242 1023.
+description: "Blowing cold, dripping water or flashing an error light? Find out what's likely wrong, whether it's worth fixing, and what a repair visit involves."
 h1: Heat pump repairs in Christchurch
 serviceName: Heat pump repair
 intro: Not heating, blowing cold, dripping water or flashing a light? Nate finds the fault, tells you straight whether it's worth fixing, and repairs all the major brands.
