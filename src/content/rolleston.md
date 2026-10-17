@@ -5,7 +5,7 @@ h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston
 suburb: Rolleston
-intro: New homes, cold plains frosts and long summer evenings. Nate installs, services and repairs heat pumps across Rolleston, from brand new subdivisions to the older streets near the town centre.
+intro: Heat pump installation, servicing and repairs across Rolleston, in new subdivisions and older homes. Sized for Selwyn frosts, with a fixed price before any work starts.
 hero: rolleston-hero
 gallery: [rolleston-newbuild, rolleston-living]
 faqs:

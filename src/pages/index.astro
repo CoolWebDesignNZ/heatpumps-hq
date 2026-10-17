@@ -40,13 +40,13 @@ const faqs = [
   description="Need a heat pump installed, serviced or fixed? Nate's local team sizes it to your home, quotes a fixed price and covers all of Christchurch."
   image="home-hero">
 
-  <Hero image="home-hero" h1="Heat pumps in Christchurch, done properly"
+  <Hero image="home-hero" h1="Heat pump installation, service and repairs in Christchurch"
         intro={`Installation, servicing and repairs from Nate Thompson and the Heat Pumps HQ team. Heat pumps sized for your home and Canterbury winters, at a fixed price agreed before any work starts. Locally owned since ${site.founded}.`} />
 
   <section class="section">
     <div class="wrap">
       <h2>What we do</h2>
-      <p class="lead">Everything a heat pump needs, from choosing the right one to keeping it running for years.</p>
+      <p class="lead">Installation, servicing, repairs and ducted systems for homes across Christchurch.</p>
       <div class="grid grid-2 svc">
         {services.map((s) => (
           <a class="card" href={s.href}><Img id={s.img} /><div class="card-body"><h3>{s.h}</h3><p>{s.p}</p></div></a>
@@ -83,7 +83,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <h2>Guides</h2>
-      <p class="lead">Plain answers to the questions people ask before they buy.</p>
+      <p class="lead">Costs, sizing, brands and council rules.</p>
       <div class="grid grid-3">
         {guides.map((g) => <a class="card" href={g.href}><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
       </div>

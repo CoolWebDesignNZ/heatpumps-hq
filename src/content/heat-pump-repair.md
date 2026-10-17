@@ -3,7 +3,7 @@ title: Heat Pump Repairs Christchurch | All Brands | Heat Pumps HQ
 description: "Blowing cold, dripping water or flashing an error light? Find out what's likely wrong, whether it's worth fixing, and what a repair visit involves."
 h1: Heat pump repairs in Christchurch
 serviceName: Heat pump repair
-intro: Not heating, blowing cold, dripping water or flashing a light? Nate finds the fault, tells you straight whether it's worth fixing, and repairs all the major brands.
+intro: Not heating, blowing cold, dripping water or flashing a light? Nate finds the fault, tells you whether it's worth fixing, and repairs all the major brands.
 hero: repair-hero
 gallery: [repair-outdoor, repair-drain]
 faqs:

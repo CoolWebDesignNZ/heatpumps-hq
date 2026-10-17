@@ -2,7 +2,7 @@
 title: "Heat Pump Boundary Rules NZ: Distance From Boundary & Consent"
 description: "No fixed setback applies in Christchurch, but noise limits do. See the exact limits, when consent comes up and where to put the unit to keep neighbours happy."
 h1: Heat pump boundary rules and consent in Christchurch
-intro: There is no set distance a heat pump has to be from your boundary in Christchurch. What matters is noise at the neighbour's property. Here's what the District Plan says and how to stay well inside it.
+intro: There is no set distance a heat pump has to be from your boundary in Christchurch. What matters is noise at the neighbour's property. Below are the District Plan limits and where to put the outdoor unit to meet them.
 hero: boundary-hero
 updated: 2026-10-17
 gallery: [boundary-screen, boundary-bracket]

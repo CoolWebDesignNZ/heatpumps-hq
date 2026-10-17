@@ -8,6 +8,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 
 ## Copy
 - Written for a human, by a human. Plain, direct, specific to the page. No filler, no AI phrasing ("in today's world", "look no further", "whether you're", "seamless", "elevate").
+- No AI fluff, no jokes or jesting, no cute or clever closing lines, no vague placeholders ("various", "a range of", "and more", "[suburb]"). End a page with the next step, stated plainly.
 - NZ English (colour, centre, organise, metres, neighbour). No em dashes or en dashes anywhere.
 - Never invent facts: no testimonials, success stories, Nate quotes, stats, prices or claims ("most often", "fastest") unless Nate supplies them. Laws, rules and limits need an official source linked in the copy.
 - Old site copy is not reused. Only its URLs.

@@ -1,12 +1,12 @@
 ---
 import site from '../data/site.json';
 interface Props { heading?: string }
-const { heading = 'Talk to Nate about your heat pump' } = Astro.props;
+const { heading = 'Get a free heat pump quote' } = Astro.props;
 ---
 <section class="section tint">
   <div class="wrap cta">
     <h2>{heading}</h2>
-    <p class="lead">Free quotes, straight answers and a time that suits you.</p>
+    <p class="lead">Free quotes. Fixed price agreed before any work starts. Monday to Friday, 8am to 5pm.</p>
     <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
     <a class="btn btn-ghost" href="/contact-us/">Request a call back</a>
   </div>
