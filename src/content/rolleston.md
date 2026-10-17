@@ -27,7 +27,7 @@ related:
 
 Rolleston sits on the open Canterbury Plains south-west of Christchurch, and it has grown fast. A lot of homes here are recent builds with good insulation, double glazing and open plan living areas. That changes what a good heat pump setup looks like.
 
-A well insulated open plan space holds heat, so one correctly sized unit can often heat the living, dining and kitchen area on its own. Bedrooms and a second living room are where people tend to add a second unit or move to a ducted system. Nate sizes every install from the actual rooms, the windows and how you use the house, so you're not paying for capacity you don't need.
+A well insulated open plan space holds heat, so one correctly sized unit can often heat the living, dining and kitchen area on its own. Bedrooms and a second living room are where people tend to add a second unit or move to a ducted system. We size every install from the actual rooms, the windows and how you use the house, so you're not paying for capacity you don't need.
 
 ## Built for plains frosts
 

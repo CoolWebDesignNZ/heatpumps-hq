@@ -3,12 +3,12 @@ title: Heat Pump Repairs Christchurch | All Brands | Heat Pumps HQ
 description: "Blowing cold, dripping water or flashing an error light? Find out what's likely wrong, whether it's worth fixing, and what a repair visit involves."
 h1: Heat pump repairs in Christchurch
 serviceName: Heat pump repair
-intro: Not heating, blowing cold, dripping water or flashing a light? Nate finds the fault, tells you whether it's worth fixing, and repairs all the major brands.
+intro: Not heating, blowing cold, dripping water or flashing a light? We find the fault, tell you whether it's worth fixing, and repair all the major brands.
 hero: repair-hero
 gallery: [repair-outdoor, repair-drain]
 faqs:
   - q: Is it worth repairing an old heat pump?
-    a: Often, yes. Many faults are a sensor, a fan motor, a blocked drain or a control board, and those cost far less than a new unit. If the compressor has failed on an older unit, replacing it usually makes more sense. Nate will tell you which it is before any work starts.
+    a: Often, yes. Many faults are a sensor, a fan motor, a blocked drain or a control board, and those cost far less than a new unit. If the compressor has failed on an older unit, replacing it usually makes more sense. We'll tell you which it is before any work starts.
   - q: Which brands do you repair?
     a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other split and ducted systems sold in New Zealand.
   - q: Why is my outdoor unit steaming in winter?
@@ -35,9 +35,9 @@ Most repair calls in Christchurch come down to a short list of problems:
 ## How a repair visit works
 
 1. **You call and describe the fault.** If there's an error code or a pattern of flashing lights, tell us. It often means the right part is in the van.
-2. **Nate diagnoses it on site.** He checks the electrical supply, the refrigerant pressures, the sensors and the controls until the cause is found.
+2. **We diagnose it on site.** We check the electrical supply, the refrigerant pressures, the sensors and the controls until we find the cause.
 3. **You get a clear price before any work.** If the repair costs more than the unit is worth, you'll hear that too.
-4. **The fix is tested.** The system runs in heating and cooling before Nate leaves, and you're shown what was done.
+4. **The fix is tested.** The system runs in heating and cooling before we leave, and we show you what was done.
 
 ## Brands we repair
 
@@ -45,7 +45,7 @@ We repair the brands we install, **Mitsubishi Electric, Daikin, Fujitsu and Tosh
 
 ## Repair or replace?
 
-A repair is usually the better choice when the unit is under ten years old and the fault is a part such as a sensor, fan motor, drain or board. Replacement starts to make sense when the compressor has failed, the unit uses an old refrigerant that is hard to get, or repairs are becoming a yearly event. Nate will give you both prices when it's close, so the decision is yours.
+A repair is usually the better choice when the unit is under ten years old and the fault is a part such as a sensor, fan motor, drain or board. Replacement starts to make sense when the compressor has failed, the unit uses an old refrigerant that is hard to get, or repairs are becoming a yearly event. We'll give you both prices when it's close, so the decision is yours.
 
 ## Before you call
 
@@ -54,4 +54,4 @@ A repair is usually the better choice when the unit is under ten years old and t
 - Make sure nothing is blocking the outdoor unit.
 - Turn it off at the isolating switch for five minutes, then back on.
 
-If it still isn't right, call **03 242 1023**. Nate covers all of Christchurch, Selwyn and Lyttelton.
+If it still isn't right, call **03 242 1023**. We cover all of Christchurch, Selwyn and Lyttelton.

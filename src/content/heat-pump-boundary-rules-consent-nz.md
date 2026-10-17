@@ -20,7 +20,7 @@ faqs:
 related:
   - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: What causes a noisy unit and how to quieten it. }
   - { label: Compliance and building codes, href: /compliance-building-codes/, text: The rules that apply to any heat pump install. }
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How Nate plans and installs a new system. }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and install a new system. }
 ---
 
 ## The short answer
@@ -68,4 +68,4 @@ A standard residential split system is normally installed without building conse
 
 Christchurch City Council investigates noise complaints. If measurements show a heat pump is over the limit, the council can issue an abatement notice requiring the noise to be reduced. A Christchurch family's dispute over this went as far as the Environment Court, [as RNZ reported](https://www.rnz.co.nz/news/regions/573730/family-s-battle-with-council-over-noisy-heat-pump-reaches-environment-court), before the council cancelled the notice after further monitoring.
 
-If you've had a complaint, the fixes are usually simple: new anti-vibration feet, a service to clean the fan and coil, a quiet or night mode setting, or moving the outdoor unit a few metres. Nate can look at an existing install and tell you what will make the difference. Call **03 242 1023**.
+If you've had a complaint, the fixes are usually simple: new anti-vibration feet, a service to clean the fan and coil, a quiet or night mode setting, or moving the outdoor unit a few metres. We can look at an existing install and tell you what will make the difference. Call **03 242 1023**.
