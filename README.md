@@ -13,4 +13,6 @@ sitemap (`src/data/urls.json`, 133 URLs) is kept exactly, trailing slash include
 
 Brand colours are `--brand` / `--brand-ink` in `src/styles/global.css`.
 
+Preview: https://heatpumps-hq.pages.dev, password-protected by `functions/_middleware.js` (secret `SITE_PASSWORD` on the Pages project). Deploy with `npm run build && npx wrangler pages deploy dist --project-name heatpumps-hq --branch main`. Delete the secret at launch.
+
 Launch blockers: the quote form posts to `/api/quote`, which doesn't exist yet. It needs a Cloudflare Worker with Email Routing to Nate.
