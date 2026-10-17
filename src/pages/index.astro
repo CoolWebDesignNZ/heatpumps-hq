@@ -44,7 +44,7 @@ const faqs = [
     <Img id="home-hero" eager class="hero-img" />
     <div class="wrap hero-in">
       <div class="hero-card">
-        <h1>Heat pumps in Christchurch, installed and looked after properly</h1>
+        <h1>Heat pumps in Christchurch, done properly</h1>
         <p class="lead">Installation, servicing and repairs from Nate Thompson and the Heat Pumps HQ team. Locally owned since {site.founded}.</p>
         <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
         <a class="btn btn-ghost" href="/contact-us/">Get a free quote</a>
@@ -125,7 +125,7 @@ const faqs = [
   .hero { position: relative; }
   .hero :global(.hero-img) { width: 100%; height: 680px; object-fit: cover; border-radius: 0; aspect-ratio: auto !important; }
   .hero-in { position: absolute; inset: 0; display: flex; align-items: flex-end; padding-bottom: 56px; }
-  .hero-card { background: #fff; border-radius: var(--radius); padding: 40px 44px; max-width: 640px; box-shadow: var(--shadow); }
+  .hero-card { background: #fff; border-radius: var(--radius); padding: 40px 44px; max-width: 720px; box-shadow: var(--shadow); }
   .hero-card .btn { margin: 6px 8px 0 0; }
   @media (max-width: 760px) {
     .hero-in { position: static; padding: 0 16px; margin-top: -60px; }
@@ -135,7 +135,7 @@ const faqs = [
   .svc { grid-template-columns: repeat(2, 1fr); }
   @media (max-width: 760px) { .svc { grid-template-columns: 1fr; } }
   .svc :global(img), .svc :global(.pending) { border-radius: 0; }
-  .areas { columns: 4 200px; list-style: none; padding: 0; }
+  .areas { columns: 4 160px; list-style: none; padding: 0; }
   .areas li { margin-bottom: 8px; }
   .areas a { color: var(--ink); text-decoration: none; }
   .areas a:hover { color: var(--brand); }

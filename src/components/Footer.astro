@@ -2,7 +2,7 @@
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 const pick = (t) => urls.filter((u) => u.type === t).slice(0, 8);
-const label = (slug) => slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+const label = (slug) => slug === 'central-business-district-cbd' ? 'Central City' : slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 ---
 <footer class="ftr">
   <div class="wrap grid grid-3">
