@@ -138,5 +138,1250 @@
   "aspect": "4x3",
   "alt": "Heat pump outdoor unit at a lifestyle block house",
   "prompt": "Photograph of a heat pump outdoor unit beside a modern farmhouse on a Canterbury lifestyle block, shelter belt trees, paddock, Southern Alps faint in the distance, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "about-hero": {
+  "aspect": "16x9",
+  "alt": "White service van parked outside a weatherboard house on a Christchurch street",
+  "prompt": "Realistic editorial photograph of a plain white unmarked service van parked on the street outside a painted weatherboard bungalow in Christchurch, New Zealand, low winter sun, bare deciduous trees, Port Hills faintly in the distance, natural light, no people, no text, no logos"
+ },
+ "about-1": {
+  "aspect": "4x3",
+  "alt": "Technician measuring a living room wall before fitting a heat pump",
+  "prompt": "Realistic editorial photograph inside a New Zealand villa lounge, anonymous technician in plain navy workwear seen from behind holding a tape measure against a painted wall above a doorway, sash windows, timber floor, soft daylight, no text, no logos"
+ },
+ "about-2": {
+  "aspect": "4x3",
+  "alt": "Outdoor heat pump unit on raised feet beside a brick house",
+  "prompt": "Realistic editorial photograph of a heat pump outdoor unit standing on raised rubber feet on a concrete pad beside a brick New Zealand house, neat pipe cover running up the wall, small garden bed, overcast Canterbury light, no people, no text, no logos"
+ },
+ "contact-hero": {
+  "aspect": "16x9",
+  "alt": "Kitchen bench with a phone and notepad beside a window in a Christchurch home",
+  "prompt": "Realistic editorial photograph of a kitchen bench in a New Zealand home, smartphone and a paper notepad with a pen beside a window, wall-mounted heat pump softly out of focus in the open plan living area behind, morning light, no people, no text, no logos"
+ },
+ "contact-1": {
+  "aspect": "4x3",
+  "alt": "Hand holding a heat pump remote showing its display",
+  "prompt": "Realistic editorial photograph close up of a hand holding a plain white heat pump remote control with a blank lit display, living room softly blurred behind, New Zealand home, natural light, no text, no logos"
+ },
+ "contact-2": {
+  "aspect": "4x3",
+  "alt": "Phone photographing an outdoor heat pump unit against a house wall",
+  "prompt": "Realistic editorial photograph of a hand holding a smartphone up to photograph a heat pump outdoor unit mounted on a wall bracket beside a weatherboard New Zealand house, side yard with a timber fence, daylight, no text, no logos"
+ },
+ "privacy-hero": {
+  "aspect": "16x9",
+  "alt": "Quiet home office desk with a closed laptop by a window",
+  "prompt": "Realistic editorial photograph of a tidy home office desk in a New Zealand house, closed laptop, a lamp and a plant, window looking onto a garden, wall-mounted heat pump on the wall above, soft daylight, no people, no text, no logos"
+ },
+ "privacy-1": {
+  "aspect": "4x3",
+  "alt": "Lockable filing drawer in a small home office",
+  "prompt": "Realistic editorial photograph of a closed timber filing drawer with a small key in the lock, in a small New Zealand home office, soft natural light, shallow depth of field, no people, no text, no logos"
+ },
+ "privacy-2": {
+  "aspect": "4x3",
+  "alt": "Phone face down on a table beside a cup of tea",
+  "prompt": "Realistic editorial photograph of a smartphone lying face down on a wooden dining table beside a cup of tea, New Zealand living room with a heat pump blurred in the background, winter afternoon light, no people, no text, no logos"
+ },
+ "terms-hero": {
+  "aspect": "16x9",
+  "alt": "Printed quote and pen on a dining table in a warm living room",
+  "prompt": "Realistic editorial photograph of a blank printed sheet of paper and a pen on a wooden dining table in a warm New Zealand living room, wall-mounted heat pump on the wall behind, soft daylight, no people, no readable text, no text, no logos"
+ },
+ "terms-1": {
+  "aspect": "4x3",
+  "alt": "Laptop open on a couch arm in a lounge with a heat pump",
+  "prompt": "Realistic editorial photograph of an open laptop with a blank screen resting on the arm of a couch in a New Zealand lounge, white wall-mounted heat pump above the window, natural light, no people, no text, no logos"
+ },
+ "terms-2": {
+  "aspect": "4x3",
+  "alt": "Front door and path of a Christchurch bungalow",
+  "prompt": "Realistic editorial photograph of the front path and porch of a 1950s brick bungalow in Christchurch, New Zealand, heat pump outdoor unit visible at the side of the house, tidy garden, clear winter day, no people, no text, no logos"
+ },
+ "locations-hero": {
+  "aspect": "16x9",
+  "alt": "View over Christchurch suburbs towards the Canterbury Plains",
+  "prompt": "Realistic editorial aerial style photograph looking over the rooftops of Christchurch suburbs from the Port Hills towards the flat Canterbury Plains and Southern Alps on the horizon, clear winter morning, natural light, no people, no text, no logos"
+ },
+ "locations-1": {
+  "aspect": "4x3",
+  "alt": "Row of houses on a suburban street in eastern Christchurch",
+  "prompt": "Realistic editorial photograph of a quiet suburban street in eastern Christchurch, New Zealand, single storey weatherboard and brick houses, one heat pump outdoor unit visible beside a house, flat land, clear sky, no people, no text, no logos"
+ },
+ "locations-2": {
+  "aspect": "4x3",
+  "alt": "New homes on a street in a Selwyn town",
+  "prompt": "Realistic editorial photograph of a new subdivision street in a Selwyn town near Christchurch, New Zealand, modern single storey homes with plaster and brick cladding, young trees, open plains and distant mountains, heat pump outdoor unit on raised feet beside one house, no people, no text, no logos"
+ },
+ "hiw-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit beside a weatherboard house on a frosty morning",
+  "prompt": "Realistic editorial photograph of a white heat pump outdoor unit on raised feet beside a painted weatherboard New Zealand house on a clear frosty Christchurch winter morning, light frost on the lawn, a little steam rising from the unit, low golden sun, Port Hills faint in the distance, no people, no text, no logos"
+ },
+ "hiw-outdoor": {
+  "aspect": "4x3",
+  "alt": "Close view of a heat pump outdoor unit fan grille and coil",
+  "prompt": "Realistic editorial close-up photograph of the side of a white split system heat pump outdoor unit showing the fan grille and the finned aluminium coil, insulated copper pipes entering the unit, set against a New Zealand weatherboard wall, soft overcast light, no people, no text, no logos"
+ },
+ "hiw-indoor": {
+  "aspect": "4x3",
+  "alt": "High wall heat pump warming a living room on a winter evening",
+  "prompt": "Realistic editorial interior photograph of a white high wall heat pump indoor unit above a doorway in a cosy New Zealand living room on a winter evening, louvre open, warm lamp light, timber floor, couch with a wool throw, window showing dusk outside, no people, no text, no logos"
+ },
+ "choose-hero": {
+  "aspect": "16x9",
+  "alt": "Bright lounge in a Christchurch bungalow with a heat pump on the wall",
+  "prompt": "Realistic editorial interior photograph of a bright, lived-in lounge in a 1950s Christchurch bungalow, white high wall heat pump on the wall above a bookshelf, rimu floor, large window with winter sun, simple furniture, calm natural colours, no people, no text, no logos"
+ },
+ "choose-label": {
+  "aspect": "4x3",
+  "alt": "Hands holding a heat pump specification sheet beside an indoor unit box",
+  "prompt": "Realistic editorial photograph of a person's hands holding a plain printed specification sheet with blurred, unreadable tables beside an unopened heat pump indoor unit carton in a New Zealand home, natural window light, shallow depth of field, no faces, no readable text, no logos"
+ },
+ "choose-measure": {
+  "aspect": "4x3",
+  "alt": "Tape measure stretched along a living room wall under a window",
+  "prompt": "Realistic editorial photograph of a yellow retractable tape measure extended along the wall of a New Zealand living room beneath a double-hung timber window, notepad and pencil on the floor, soft daylight, no people, no text, no logos"
+ },
+ "types-hero": {
+  "aspect": "16x9",
+  "alt": "Open plan living area with a high wall heat pump and a floor console",
+  "prompt": "Realistic editorial interior photograph of a modern New Zealand open plan living and dining area with a white high wall heat pump on one wall and a white floor console heat pump under a window on another, oak floor, neutral furnishings, bright winter daylight, no people, no text, no logos"
+ },
+ "types-console": {
+  "aspect": "4x3",
+  "alt": "Floor console heat pump under a window in a villa lounge",
+  "prompt": "Realistic editorial interior photograph of a white floor console heat pump installed low on the wall beneath a sash window in a high-stud Christchurch villa lounge, painted timber skirting, rug on polished floorboards, armchair nearby, soft morning light, no people, no text, no logos"
+ },
+ "types-cassette": {
+  "aspect": "4x3",
+  "alt": "Ceiling cassette heat pump in a renovated kitchen and dining room",
+  "prompt": "Realistic editorial interior photograph looking up at a white square ceiling cassette heat pump set flush into a plaster ceiling above a dining table in a renovated New Zealand kitchen and dining room, pendant lights, clean lines, daylight, no people, no text, no logos"
+ },
+ "sizing-hero": {
+  "aspect": "16x9",
+  "alt": "Tall villa living room with a heat pump and large sash windows",
+  "prompt": "Realistic editorial interior photograph of a tall-ceilinged Christchurch villa living room with large sash windows and a white high wall heat pump, a fireplace with a closed-off hearth, winter light falling across polished floorboards, emphasising the room's height and volume, no people, no text, no logos"
+ },
+ "sizing-label": {
+  "aspect": "4x3",
+  "alt": "Technician measuring a bedroom window with a tape measure",
+  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear measuring the width of an aluminium-framed bedroom window with a tape measure in a New Zealand home, face out of frame, clipboard on the bed, natural light, no text, no logos on clothing"
+ },
+ "sizing-frost": {
+  "aspect": "4x3",
+  "alt": "Frost on a lawn and fence on a clear Canterbury winter morning",
+  "prompt": "Realistic editorial photograph of heavy white frost on a suburban lawn and timber paling fence on a clear still Canterbury winter morning, low sun casting long shadows, a house corner and heat pump outdoor unit just visible at the edge of frame, no people, no text, no logos"
+ },
+ "calc-hero": {
+  "aspect": "16x9",
+  "alt": "Notebook with room measurements on a coffee table in a lounge",
+  "prompt": "Realistic editorial photograph of a notebook with hand-drawn room sketch lines and blurred unreadable notes, a tape measure and a pencil resting on a timber coffee table in a New Zealand lounge, heat pump on the wall soft in the background, morning light, shallow depth of field, no people, no readable text, no logos"
+ },
+ "calc-tape": {
+  "aspect": "4x3",
+  "alt": "Tape measure running up a wall to the ceiling to check its height",
+  "prompt": "Realistic editorial photograph of a metal tape measure extended vertically up a painted interior wall to the ceiling cornice in a New Zealand home, a hand steadying it at the bottom, soft daylight, no faces, no text, no logos"
+ },
+ "calc-window": {
+  "aspect": "4x3",
+  "alt": "Single glazed timber sash window with condensation on a cold morning",
+  "prompt": "Realistic editorial photograph of an older Christchurch house interior showing a single glazed timber sash window with condensation on the glass on a cold morning, curtains drawn back, winter garden outside, no people, no text, no logos"
+ },
+ "instcost-hero": {
+  "aspect": "16x9",
+  "alt": "Technician fixing a heat pump outdoor unit to a weatherboard wall",
+  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear fitting a white heat pump outdoor unit beside a New Zealand weatherboard house, copper pipe coil, tool bag and level on the ground, overcast daylight, face turned away, no text, no logos on clothing"
+ },
+ "instcost-backtoback": {
+  "aspect": "4x3",
+  "alt": "Pipe cover running a short distance from the wall to an outdoor unit",
+  "prompt": "Realistic editorial photograph of a neat white plastic pipe cover running a short distance down an exterior weatherboard wall from the wall penetration into a white heat pump outdoor unit on a small concrete pad directly below, tidy garden edge, daylight, no people, no text, no logos"
+ },
+ "instcost-bracket": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit mounted on galvanised wall brackets",
+  "prompt": "Realistic editorial photograph of a white heat pump outdoor unit mounted on galvanised steel wall brackets above the ground on the side of a brick New Zealand house, lockable isolating switch on the wall beside it, rubber anti-vibration pads visible, daylight, no people, no text, no logos"
+ },
+ "ductcost-hero": {
+  "aspect": "16x9",
+  "alt": "Ducted heat pump unit and insulated ducts in a roof space",
+  "prompt": "Realistic editorial photograph inside a New Zealand house roof space showing a ducted heat pump indoor unit on supports with silver insulated flexible ducts running across ceiling insulation between timber trusses, work light illuminating the scene, no people, no text, no logos"
+ },
+ "ductcost-roofspace": {
+  "aspect": "4x3",
+  "alt": "Roof space with timber trusses and ceiling insulation",
+  "prompt": "Realistic editorial photograph of an empty pitched roof space in a New Zealand home, timber trusses, pink and yellow ceiling insulation batts, a torch beam showing the depth available between ceiling and roof, no people, no text, no logos"
+ },
+ "ductcost-controller": {
+  "aspect": "4x3",
+  "alt": "Wall-mounted zone controller for a ducted heat pump in a hallway",
+  "prompt": "Realistic editorial photograph of a plain white wall-mounted touchscreen controller with a blank glowing screen in a New Zealand hallway, light switch nearby, soft evening light, no people, no readable text, no logos"
+ },
+ "dvs-hero": {
+  "aspect": "16x9",
+  "alt": "New build living room with ceiling vents from a ducted heat pump",
+  "prompt": "Realistic editorial interior photograph of a new Canterbury build open plan living room with slim white ceiling supply grilles from a ducted heat pump, no wall units visible, large sliding doors to a patio, light timber floor, winter daylight, no people, no text, no logos"
+ },
+ "dvs-vent": {
+  "aspect": "4x3",
+  "alt": "Close view of a round ducted heat pump outlet in a bedroom ceiling",
+  "prompt": "Realistic editorial photograph looking up at a round white ducted heat pump ceiling outlet in a New Zealand bedroom, plain white ceiling, edge of a pendant light, soft daylight, no people, no text, no logos"
+ },
+ "dvs-highwall": {
+  "aspect": "4x3",
+  "alt": "High wall heat pump in a bedroom above a bed",
+  "prompt": "Realistic editorial interior photograph of a compact white high wall heat pump on the wall of a calm New Zealand bedroom, made bed with linen, timber bedside table, curtains, soft morning light, no people, no text, no logos"
+ },
+ "brandcomp-hero": {
+  "aspect": "16x9",
+  "alt": "Several unbranded heat pump indoor units displayed on a wall",
+  "prompt": "Realistic editorial photograph of four plain white unbranded heat pump indoor units of slightly different shapes mounted in a row on a pale wall in a bright showroom-like space, even soft lighting, no people, no text, no logos, no brand markings"
+ },
+ "brandcomp-units": {
+  "aspect": "4x3",
+  "alt": "Two indoor heat pump units of different styles side by side",
+  "prompt": "Realistic editorial photograph of a white high wall heat pump indoor unit and a white floor console heat pump unit side by side in a clean light-filled space, plain surfaces, no people, no text, no logos, no brand markings"
+ },
+ "brandcomp-outdoor": {
+  "aspect": "4x3",
+  "alt": "Two heat pump outdoor units on a concrete pad beside a house",
+  "prompt": "Realistic editorial photograph of two white heat pump outdoor units of different sizes on a concrete pad beside a New Zealand house wall, insulated pipework in neat covers, gravel border, overcast daylight, no people, no text, no logos, no brand markings"
+ },
+ "bestbrands-hero": {
+  "aspect": "16x9",
+  "alt": "Warm living room in a Christchurch home on a frosty evening",
+  "prompt": "Realistic editorial interior photograph of a warm, comfortable living room in a Christchurch home at dusk in winter, white heat pump high on the wall, frost visible on the garden through the window, lamp light, wool throw on a couch, no people, no text, no logos"
+ },
+ "bestbrands-labelcheck": {
+  "aspect": "4x3",
+  "alt": "Person comparing two printed heat pump product sheets at a table",
+  "prompt": "Realistic editorial photograph of a person's hands comparing two printed product information sheets with blurred, unreadable charts on a kitchen table in a New Zealand home, cup of tea, natural light, no faces, no readable text, no logos"
+ },
+ "bestbrands-quiet": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit placed beside a garage wall away from bedrooms",
+  "prompt": "Realistic editorial photograph of a white heat pump outdoor unit on anti-vibration feet beside a garage wall of a New Zealand suburban house, timber fence a few metres away, neat garden, calm overcast light, no people, no text, no logos"
+ },
+ "installers-hero": {
+  "aspect": "16x9",
+  "alt": "Technician connecting refrigerant pipes to a heat pump outdoor unit",
+  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear connecting insulated copper refrigerant pipes to the service valves of a white heat pump outdoor unit beside a New Zealand house, gauges and tools on a mat, face out of frame, daylight, no text, no logos on clothing"
+ },
+ "installers-licence": {
+  "aspect": "4x3",
+  "alt": "Electrician wiring an isolating switch beside an outdoor unit",
+  "prompt": "Realistic documentary photograph of an anonymous electrician's hands in plain navy workwear wiring a grey lockable isolating switch mounted on an exterior house wall beside a white heat pump outdoor unit, screwdriver in hand, daylight, no faces, no text, no logos"
+ },
+ "installers-commission": {
+  "aspect": "4x3",
+  "alt": "Technician showing a homeowner how to remove a heat pump filter",
+  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear on a step ladder lifting the front panel of a white high wall heat pump to show the filter, a homeowner watching from behind with face not visible, New Zealand living room, natural light, no text, no logos on clothing"
+ },
+ "coldclimate-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit on raised feet beside a weatherboard house on a frosty Canterbury morning",
+  "prompt": "Editorial photograph of a white heat pump outdoor unit on raised rubber feet beside a weatherboard house on the Canterbury Plains, hard white frost on the lawn and fence, low winter sun, clear blue sky, breath of steam rising from the unit, no people, no text, no logos"
+ },
+ "coldclimate-frost": {
+  "aspect": "4x3",
+  "alt": "Close view of light frost on the rear coil of a heat pump outdoor unit",
+  "prompt": "Close-up documentary photograph of light white frost on the aluminium fins of a heat pump outdoor unit coil at dawn, New Zealand garden behind, soft focus, no people, no text, no logos"
+ },
+ "coldclimate-label": {
+  "aspect": "4x3",
+  "alt": "Energy rating label on a new heat pump box in a showroom",
+  "prompt": "Photograph of a generic appliance energy rating label with star rows and a climate zone map on the side of a new heat pump box, label text unreadable and blurred, shallow depth of field, no people, no text, no logos"
+ },
+ "lowtemp-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit steaming during a defrost cycle on a frosty morning",
+  "prompt": "Editorial photograph of a heat pump outdoor unit beside a brick New Zealand home on a frosty morning, steam rising as it defrosts, frosted grass, pale winter light, no people, no text, no logos"
+ },
+ "lowtemp-ice": {
+  "aspect": "4x3",
+  "alt": "Ice built up around the base of a heat pump outdoor unit",
+  "prompt": "Documentary photograph of ice built up around the base and drain of a heat pump outdoor unit on a concrete pad, frozen meltwater puddle, cold blue morning light, no people, no text, no logos"
+ },
+ "lowtemp-isolator": {
+  "aspect": "4x3",
+  "alt": "Isolating switch on an exterior wall beside a heat pump outdoor unit",
+  "prompt": "Photograph of a grey exterior isolating switch mounted on a painted weatherboard wall beside a heat pump outdoor unit, frost on the ground, plain and practical, no people, no text, no logos"
+ },
+ "efficient-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump warming a well insulated living room with curtains drawn at dusk",
+  "prompt": "Editorial interior photograph of a warm New Zealand living room at dusk, white wall-mounted heat pump high on the wall, heavy lined curtains drawn, timber floor, rug, soft lamp light, no people, no text, no logos"
+ },
+ "efficient-filter": {
+  "aspect": "4x3",
+  "alt": "Heat pump filter being rinsed under a tap",
+  "prompt": "Photograph of hands rinsing a dusty heat pump mesh filter under a laundry tap, water running, neutral background, close crop on hands and filter, no text, no logos"
+ },
+ "efficient-curtains": {
+  "aspect": "4x3",
+  "alt": "Thermal curtains drawn across a large window in a heated lounge",
+  "prompt": "Photograph of thick thermal curtains drawn across a large lounge window in a New Zealand home at night, heat pump visible on the wall above, warm and calm, no people, no text, no logos"
+ },
+ "energystar-hero": {
+  "aspect": "16x9",
+  "alt": "Row of heat pump indoor units on display in a showroom",
+  "prompt": "Editorial photograph of several white wall-mounted heat pump indoor units displayed in a row on a showroom wall, labels blurred, bright clean lighting, no people, no text, no logos"
+ },
+ "energystar-label": {
+  "aspect": "4x3",
+  "alt": "Close view of star ratings on a heat pump energy label",
+  "prompt": "Close-up photograph of a generic appliance energy label with rows of stars, all text and numbers blurred and unreadable, shallow depth of field, no people, no text, no logos"
+ },
+ "energystar-showroom": {
+  "aspect": "4x3",
+  "alt": "Boxed heat pumps stacked in a store with energy labels attached",
+  "prompt": "Photograph of boxed heat pumps stacked on a store shelf with energy labels attached, labels unreadable, soft retail lighting, no people, no text, no logos"
+ },
+ "upgrade-hero": {
+  "aspect": "16x9",
+  "alt": "Technician removing an old heat pump indoor unit from a living room wall",
+  "prompt": "Editorial photograph of an anonymous technician in plain navy workwear lifting an old yellowed heat pump indoor unit off its wall bracket in a New Zealand living room, face not visible, dust sheet on the floor, no text, no logos"
+ },
+ "upgrade-old-unit": {
+  "aspect": "4x3",
+  "alt": "Weathered old heat pump outdoor unit with faded casing",
+  "prompt": "Documentary photograph of an old weathered heat pump outdoor unit with faded, slightly rusted casing on a concrete pad beside a weatherboard house, no people, no text, no logos"
+ },
+ "upgrade-new-unit": {
+  "aspect": "4x3",
+  "alt": "New heat pump outdoor unit on a wall bracket beside a house",
+  "prompt": "Photograph of a new white heat pump outdoor unit on a wall bracket against a painted weatherboard wall, neat pipe trunking running down the wall, clean gravel below, no people, no text, no logos"
+ },
+ "power-hero": {
+  "aspect": "16x9",
+  "alt": "Smart power meter on the exterior wall of a New Zealand home",
+  "prompt": "Editorial photograph of a smart electricity meter in a meter box on the exterior wall of a New Zealand home, heat pump outdoor unit nearby, overcast winter afternoon, no people, no text, no logos"
+ },
+ "power-meter": {
+  "aspect": "4x3",
+  "alt": "Phone showing an electricity usage chart on a kitchen bench",
+  "prompt": "Photograph of a smartphone lying on a kitchen bench showing a generic bar chart of daily electricity use, screen text blurred and unreadable, cup of tea beside it, no people, no text, no logos"
+ },
+ "power-outdoor": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit with clear space around it",
+  "prompt": "Photograph of a heat pump outdoor unit on feet with open space at the sides and front, tidy garden bed, beside a modern New Zealand home, no people, no text, no logos"
+ },
+ "carbon-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit beside a home with hills and power lines behind",
+  "prompt": "Editorial photograph of a heat pump outdoor unit beside a modern New Zealand home, rolling Canterbury hills and distant power lines behind, clear winter day, no people, no text, no logos"
+ },
+ "carbon-hydro": {
+  "aspect": "4x3",
+  "alt": "Hydro lake and dam in the South Island high country",
+  "prompt": "Landscape photograph of a turquoise South Island hydro lake and concrete dam with tussock hills and snowy mountains behind, clear day, no people, no text, no logos"
+ },
+ "carbon-woodburner": {
+  "aspect": "4x3",
+  "alt": "Wood burner in a lounge with a heat pump on the wall nearby",
+  "prompt": "Interior photograph of a modern wood burner with a stacked log basket in a New Zealand lounge, white heat pump high on the adjoining wall, warm natural light, no people, no text, no logos"
+ },
+ "assessment-hero": {
+  "aspect": "16x9",
+  "alt": "Technician measuring a living room with a laser measure",
+  "prompt": "Editorial photograph of an anonymous technician in plain navy workwear measuring a New Zealand living room with a laser measure, face not visible, notebook in hand, large windows, no text, no logos"
+ },
+ "assessment-window": {
+  "aspect": "4x3",
+  "alt": "Single glazed timber window with condensation in winter",
+  "prompt": "Documentary photograph of an older single glazed timber window with condensation on the glass on a winter morning in a New Zealand villa, no people, no text, no logos"
+ },
+ "assessment-unit": {
+  "aspect": "4x3",
+  "alt": "Older heat pump indoor unit high on a bedroom wall",
+  "prompt": "Photograph of an older white heat pump indoor unit high on a bedroom wall in a New Zealand home, front panel slightly discoloured, no people, no text, no logos"
+ },
+ "airquality-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump indoor unit in a bright bedroom with the window open",
+  "prompt": "Editorial interior photograph of a bright New Zealand bedroom with a white wall-mounted heat pump, window slightly open, fresh linen, morning light, no people, no text, no logos"
+ },
+ "airquality-coil": {
+  "aspect": "4x3",
+  "alt": "Dust and grime on the coil of an open heat pump indoor unit",
+  "prompt": "Close-up documentary photograph of dust and grey grime on the aluminium coil fins of an open heat pump indoor unit, torchlight, no people, no text, no logos"
+ },
+ "airquality-drain": {
+  "aspect": "4x3",
+  "alt": "Technician checking the drain tray of a heat pump indoor unit",
+  "prompt": "Photograph of a technician's gloved hands checking the drain tray of an open heat pump indoor unit with a torch, plain navy sleeve, no face, no text, no logos"
+ },
+ "allergy-hero": {
+  "aspect": "16x9",
+  "alt": "Child's bedroom with a heat pump on the wall and morning light",
+  "prompt": "Editorial interior photograph of a tidy child's bedroom in a New Zealand home, white heat pump high on the wall angled away from the bed, soft morning light, no people, no text, no logos"
+ },
+ "allergy-filter": {
+  "aspect": "4x3",
+  "alt": "Dusty heat pump filter beside a clean one",
+  "prompt": "Photograph of two heat pump mesh filters side by side on a bench, one grey with dust and one clean, neutral background, no people, no text, no logos"
+ },
+ "allergy-bedroom": {
+  "aspect": "4x3",
+  "alt": "Air purifier in a bedroom with a heat pump above",
+  "prompt": "Photograph of a plain white air purifier on the floor of a calm bedroom with a heat pump high on the wall above, unbranded devices, no people, no text, no logos"
+ },
+ "compliance-hero": {
+  "aspect": "16x9",
+  "alt": "Electrician connecting a heat pump outdoor unit isolating switch",
+  "prompt": "Editorial photograph of an anonymous electrician in plain navy workwear wiring an isolating switch beside a heat pump outdoor unit on a weatherboard wall, face not visible, no text, no logos"
+ },
+ "compliance-certificate": {
+  "aspect": "4x3",
+  "alt": "Electrical paperwork in a folder on a kitchen table",
+  "prompt": "Photograph of a plain ring binder of household paperwork open on a kitchen table, generic certificate pages with unreadable text, pen beside it, no people, no text, no logos"
+ },
+ "compliance-switchboard": {
+  "aspect": "4x3",
+  "alt": "Residential switchboard with circuit breakers",
+  "prompt": "Photograph of a modern residential switchboard with a row of circuit breakers in a hallway cupboard, labels unreadable, no people, no text, no logos"
+ },
+ "noise-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit near a fence between two houses",
+  "prompt": "Editorial photograph of a heat pump outdoor unit on anti-vibration feet near a timber boundary fence between two New Zealand houses, bedroom window of the neighbouring house in the background, no people, no text, no logos"
+ },
+ "noise-feet": {
+  "aspect": "4x3",
+  "alt": "Rubber anti-vibration feet under a heat pump outdoor unit",
+  "prompt": "Close-up photograph of black rubber anti-vibration feet under a heat pump outdoor unit on a concrete pad, no people, no text, no logos"
+ },
+ "noise-fan": {
+  "aspect": "4x3",
+  "alt": "Technician checking the fan of a heat pump outdoor unit",
+  "prompt": "Photograph of a technician's gloved hands checking the fan guard of a heat pump outdoor unit, plain navy sleeve, no face, garden background, no text, no logos"
+ },
+ "diyguide-hero": {
+  "aspect": "16x9",
+  "alt": "Person holding a heat pump remote in a living room",
+  "prompt": "Editorial photograph of a hand holding a plain white heat pump remote pointed at a wall-mounted heat pump in a New Zealand living room, remote screen unreadable, no face visible, no text, no logos"
+ },
+ "diyguide-remote": {
+  "aspect": "4x3",
+  "alt": "Heat pump remote with the battery cover open",
+  "prompt": "Close-up photograph of a plain white heat pump remote control with the battery cover open and two AA batteries beside it on a timber table, no people, no text, no logos"
+ },
+ "diyguide-outdoor": {
+  "aspect": "4x3",
+  "alt": "Leaves packed against the back of a heat pump outdoor unit",
+  "prompt": "Documentary photograph of autumn leaves and twigs packed against the rear coil of a heat pump outdoor unit beside a New Zealand house, no people, no text, no logos"
+ },
+ "coverguide-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit behind a slatted timber screen on a deck",
+  "prompt": "Editorial photograph of a heat pump outdoor unit behind a slatted cedar screen with an open front gap on a New Zealand timber deck, potted plants nearby, afternoon light, no people, no text, no logos"
+ },
+ "coverguide-louvred": {
+  "aspect": "4x3",
+  "alt": "Powder-coated aluminium louvred cover over a heat pump outdoor unit",
+  "prompt": "Photograph of a charcoal powder-coated aluminium louvred cabinet over a heat pump outdoor unit against a white weatherboard wall, open front, gravel base, no people, no text, no logos"
+ },
+ "coverguide-timber": {
+  "aspect": "4x3",
+  "alt": "Simple timber roof shelter above a heat pump outdoor unit",
+  "prompt": "Photograph of a simple sloped timber roof shelter fixed to a wall above a heat pump outdoor unit, open on all sides, New Zealand home exterior, no people, no text, no logos"
+ },
+ "install-hero": {
+  "aspect": "16x9",
+  "alt": "White wall-mounted heat pump newly installed high on the wall of a Christchurch living room",
+  "prompt": "Realistic editorial photograph of a newly installed white high wall heat pump indoor unit in a bright New Zealand living room, painted timber walls, couch and rug below, large windows with soft winter light, tidy and calm, natural colours, no people, no text, no logos"
+ },
+ "install-pipework": {
+  "aspect": "4x3",
+  "alt": "Insulated refrigerant pipes running in a neat cover down a weatherboard wall to an outdoor unit",
+  "prompt": "Realistic photograph of a heat pump outdoor unit on raised feet beside a painted weatherboard New Zealand house, refrigerant pipes running down the wall in a neat cover matching the cladding, concrete path, overcast Canterbury day, no people, no text, no logos"
+ },
+ "install-commission": {
+  "aspect": "4x3",
+  "alt": "Technician's hands connecting a gauge set to a new outdoor unit to test the pipework",
+  "prompt": "Close-up documentary photograph of a technician's hands in plain navy workwear connecting refrigerant gauges and a vacuum pump hose to the service valve of a new heat pump outdoor unit, New Zealand home exterior, soft daylight, shallow depth of field, no text, no logos"
+ },
+ "single-hero": {
+  "aspect": "16x9",
+  "alt": "Compact heat pump on the wall of a warm bedroom on a winter evening",
+  "prompt": "Realistic editorial photograph of a small white high wall heat pump above a window in a cosy New Zealand bedroom, made bed with wool throw, warm lamp light, frosty dusk visible through the window, calm and quiet, no people, no text, no logos"
+ },
+ "single-bedroom": {
+  "aspect": "4x3",
+  "alt": "Small wall heat pump placed to one side of a bed so the air does not blow on it",
+  "prompt": "Realistic photograph of a compact white heat pump indoor unit mounted high on a side wall of a modest New Zealand bedroom, angled away from the bed, timber bedside table, soft morning light, no people, no text, no logos"
+ },
+ "single-console": {
+  "aspect": "4x3",
+  "alt": "Floor console heat pump under a window in a small lounge",
+  "prompt": "Realistic interior photograph of a white floor console heat pump at skirting height under a window in a small New Zealand lounge, armchair beside it, wooden floor, winter daylight, no people, no text, no logos"
+ },
+ "multi-hero": {
+  "aspect": "16x9",
+  "alt": "Two-storey Christchurch home with one outdoor unit serving several rooms",
+  "prompt": "Realistic editorial photograph of a modern two storey New Zealand townhouse side wall with a single heat pump outdoor unit on a bracket, several neat pipe covers running up the cladding to different rooms, overcast sky, no people, no text, no logos"
+ },
+ "multi-outdoor": {
+  "aspect": "4x3",
+  "alt": "Single large outdoor unit with several pipe connections on the side of a house",
+  "prompt": "Close-up photograph of a heat pump outdoor unit on raised rubber feet with several pairs of insulated refrigerant pipes connected along its side, fibre cement cladding behind, New Zealand suburban home, no people, no text, no logos"
+ },
+ "multi-bedrooms": {
+  "aspect": "4x3",
+  "alt": "Hallway with open doors to two bedrooms, each with its own wall heat pump",
+  "prompt": "Realistic interior photograph looking down a hallway of a New Zealand home with two bedroom doors open, a small white wall heat pump visible high on the wall in each room, carpet, soft daylight, no people, no text, no logos"
+ },
+ "aircon-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump cooling a sunny open plan living room on a summer afternoon",
+  "prompt": "Realistic editorial photograph of an open plan New Zealand living room on a hot summer afternoon, large west facing glass doors with bright sun, white high wall heat pump on the wall, light linen furnishings, Canterbury summer light, no people, no text, no logos"
+ },
+ "aircon-upstairs": {
+  "aspect": "4x3",
+  "alt": "Upstairs bedroom under a sloping ceiling with a wall heat pump",
+  "prompt": "Realistic photograph of an upstairs bedroom in a New Zealand home with a sloping ceiling and skylight, white wall heat pump high on the end wall, summer daylight, light bedding, no people, no text, no logos"
+ },
+ "aircon-remote": {
+  "aspect": "4x3",
+  "alt": "Hand holding a heat pump remote set to cooling mode",
+  "prompt": "Close-up photograph of a hand holding a plain white heat pump remote control with a blank display, pointed toward a wall unit, bright summer living room softly blurred behind, shallow depth of field, no text, no logos"
+ },
+ "ducted-hero": {
+  "aspect": "16x9",
+  "alt": "Ceiling outlet of a ducted heat pump in a modern hallway",
+  "prompt": "Realistic editorial photograph of a modern New Zealand home hallway with a white round ceiling outlet of a ducted heat pump and a larger return air grille, plain walls, nothing mounted on the walls, soft natural light, no people, no text, no logos"
+ },
+ "ducted-roofspace": {
+  "aspect": "4x3",
+  "alt": "Ducted heat pump indoor unit and insulated flexible ducts in a roof space",
+  "prompt": "Realistic photograph of a ducted heat pump indoor unit installed in a New Zealand roof space between timber trusses, silver insulated flexible ducts branching away, ceiling insulation batts, work light, no people, no text, no logos"
+ },
+ "ducted-grille": {
+  "aspect": "4x3",
+  "alt": "Return air grille with filter in a hallway ceiling",
+  "prompt": "Close-up photograph looking up at a white return air grille in a hallway ceiling of a New Zealand home, hinged panel slightly open showing the filter, clean white ceiling, no people, no text, no logos"
+ },
+ "daikin-ducted-hero": {
+  "aspect": "16x9",
+  "alt": "Open plan new home living area heated by ceiling vents with no wall units",
+  "prompt": "Realistic editorial photograph of a new New Zealand open plan living and kitchen area with slim white linear ceiling outlets from a ducted heat pump, no wall units, timber floor, large windows, winter light, no people, no text, no logos"
+ },
+ "daikin-ducted-controller": {
+  "aspect": "4x3",
+  "alt": "Touch screen zone controller on a hallway wall",
+  "prompt": "Close-up photograph of a plain unbranded touch screen heating zone controller on a painted hallway wall in a New Zealand home, screen showing simple room tiles without readable text, soft light, no people, no text, no logos"
+ },
+ "daikin-ducted-outlet": {
+  "aspect": "4x3",
+  "alt": "Bedroom ceiling with a single ducted heat pump outlet",
+  "prompt": "Realistic photograph of a calm New Zealand bedroom with a single white square ceiling outlet from a ducted heat pump above the window, made bed, plain walls, no people, no text, no logos"
+ },
+ "mitsubishi-ducted-hero": {
+  "aspect": "16x9",
+  "alt": "Ducted heat pump outlets in the ceilings of a family home's living area",
+  "prompt": "Realistic editorial photograph of a family home living room in Christchurch with two white round ceiling outlets from a ducted heat pump, wall controller beside the doorway, couch and rug, winter morning light, no people, no text, no logos"
+ },
+ "mitsubishi-ducted-zones": {
+  "aspect": "4x3",
+  "alt": "Wall controller in a kitchen for switching heating zones",
+  "prompt": "Close-up photograph of a plain white wall-mounted heating controller beside a light switch in a New Zealand kitchen, small display without readable text, soft focus kitchen behind, no people, no text, no logos"
+ },
+ "mitsubishi-ducted-ceiling": {
+  "aspect": "4x3",
+  "alt": "Ceiling access hatch open with a technician lifting ducting into the roof space",
+  "prompt": "Documentary photograph of an anonymous technician in plain navy workwear on a ladder passing insulated flexible duct through an open ceiling access hatch in a New Zealand hallway, drop sheet on the floor, no text, no logos"
+ },
+ "zoning-hero": {
+  "aspect": "16x9",
+  "alt": "Two-storey home at dusk with some rooms lit and warm and others dark",
+  "prompt": "Realistic editorial photograph of a two storey New Zealand weatherboard home at winter dusk, downstairs living room windows glowing warm, upstairs bedrooms dark, frosty lawn, calm evening, no people, no text, no logos"
+ },
+ "zoning-damper": {
+  "aspect": "4x3",
+  "alt": "Motorised zone damper fitted in a round duct in a roof space",
+  "prompt": "Close-up photograph of a motorised round zone damper fitted inline in silver insulated duct in a New Zealand roof space, small actuator on the side, timber trusses behind, work light, no people, no text, no logos"
+ },
+ "zoning-controller": {
+  "aspect": "4x3",
+  "alt": "Hand selecting a heating zone on a wall-mounted controller",
+  "prompt": "Close-up photograph of a hand touching a plain unbranded zone heating controller on a hallway wall, screen showing simple room blocks without readable text, soft daylight, no text, no logos"
+ },
+ "installs-hero": {
+  "aspect": "16x9",
+  "alt": "Open plan living area with one wall heat pump and hallway leading to bedrooms",
+  "prompt": "Realistic editorial photograph of an open plan New Zealand home with a white wall heat pump above the dining area and a hallway leading to bedrooms beyond, timber floors, winter afternoon light, no people, no text, no logos"
+ },
+ "installs-living": {
+  "aspect": "4x3",
+  "alt": "Lounge heated by one wall-mounted heat pump",
+  "prompt": "Realistic photograph of a comfortable New Zealand lounge with a white high wall heat pump above a sofa, bookshelf and wool rug, late afternoon winter light, no people, no text, no logos"
+ },
+ "installs-hallway": {
+  "aspect": "4x3",
+  "alt": "Hallway ceiling with a ducted outlet leading to several bedrooms",
+  "prompt": "Realistic photograph of a New Zealand home hallway with doors to several bedrooms and a round white ducted heat pump outlet in the ceiling, carpet runner, soft light, no people, no text, no logos"
+ },
+ "services-hero": {
+  "aspect": "16x9",
+  "alt": "Outdoor unit beside a Christchurch home with the Port Hills behind",
+  "prompt": "Realistic editorial photograph of a heat pump outdoor unit on raised feet beside a brick and weatherboard Christchurch home, Port Hills in the distance, clear frosty winter morning, no people, no text, no logos"
+ },
+ "services-outdoor": {
+  "aspect": "4x3",
+  "alt": "Technician cleaning the coil of an outdoor unit",
+  "prompt": "Documentary photograph of an anonymous technician in plain navy workwear gently rinsing the coil fins of a heat pump outdoor unit with a low pressure spray, New Zealand garden path, overcast day, no text, no logos"
+ },
+ "services-filters": {
+  "aspect": "4x3",
+  "alt": "Indoor unit front panel lifted with filters removed for cleaning",
+  "prompt": "Close-up photograph of a white wall heat pump with its front panel lifted and mesh filters partly removed, hands holding one filter, clean living room wall, soft daylight, no text, no logos"
+ },
+ "servicing-hero": {
+  "aspect": "16x9",
+  "alt": "Technician servicing a wall-mounted heat pump in a Christchurch living room",
+  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear standing on a step ladder servicing a white wall-mounted heat pump indoor unit, front panel lifted, drop sheet on timber floor, bright New Zealand living room with large windows and soft autumn light, face not visible, no text, no logos"
+ },
+ "servicing-coil": {
+  "aspect": "4x3",
+  "alt": "Heat pump indoor coil being rinsed during a service",
+  "prompt": "Close-up realistic photograph of gloved hands rinsing the aluminium fins of a heat pump indoor coil with a spray bottle, filters removed, water droplets on the fins, soft daylight, New Zealand home interior, no people visible beyond hands, no text, no logos"
+ },
+ "servicing-outdoor": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit with its side panel removed for a service check",
+  "prompt": "Realistic photograph of a heat pump outdoor unit on raised rubber feet beside a painted weatherboard wall, side service panel removed, small toolbag and torch on the concrete pad, overcast Canterbury day, no people, no text, no logos"
+ },
+ "maint-hero": {
+  "aspect": "16x9",
+  "alt": "Wall-mounted heat pump above a sofa in a tidy family living room",
+  "prompt": "Realistic editorial photograph of a clean white wall-mounted heat pump above a sofa in a warm, tidy New Zealand family living room, wool throw, timber floor, late afternoon light through double-glazed windows, calm, no people, no text, no logos"
+ },
+ "maint-filter-sink": {
+  "aspect": "4x3",
+  "alt": "Heat pump mesh filter being rinsed under a laundry tap",
+  "prompt": "Close-up realistic photograph of hands rinsing a grey mesh heat pump filter from the back under a laundry tub tap, dust washing out, second filter drying on a towel, natural light, New Zealand laundry, no faces, no text, no logos"
+ },
+ "maint-outdoor-clear": {
+  "aspect": "4x3",
+  "alt": "Leaves being swept away from a heat pump outdoor unit",
+  "prompt": "Realistic photograph of a soft broom sweeping autumn leaves away from the base of a heat pump outdoor unit on a concrete pad beside a brick New Zealand house, garden edge trimmed back, only hands and broom visible, no text, no logos"
+ },
+ "tuneup-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit on a frosty autumn morning beside a weatherboard house",
+  "prompt": "Realistic editorial photograph of a heat pump outdoor unit on wall brackets beside a cream weatherboard Christchurch house on a crisp autumn morning, low golden sun, light frost on the lawn, deciduous leaves turning, no people, no text, no logos"
+ },
+ "tuneup-remote": {
+  "aspect": "4x3",
+  "alt": "Hand setting the timer on a heat pump remote",
+  "prompt": "Close-up realistic photograph of a hand holding a plain white heat pump remote control and pressing the timer button, blurred living room and wall unit in the background, soft daylight, display shows only simple icons, no readable text, no logos"
+ },
+ "tuneup-thermometer": {
+  "aspect": "4x3",
+  "alt": "Probe thermometer measuring air from a heat pump outlet",
+  "prompt": "Close-up realistic photograph of a digital probe thermometer held at the open louvres of a white wall-mounted heat pump measuring outlet air, technician's gloved hand only, bright New Zealand room, display blank or blurred, no text, no logos"
+ },
+ "winter-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit steaming during a defrost on a frosty morning",
+  "prompt": "Realistic editorial photograph of a heat pump outdoor unit releasing a soft plume of steam during a defrost cycle on a frosty Canterbury morning, white frost on the lawn and fence, raised on a bracket beside a weatherboard house, clear pale blue sky, no people, no text, no logos"
+ },
+ "winter-defrost": {
+  "aspect": "4x3",
+  "alt": "Meltwater draining from the base of a heat pump outdoor unit onto gravel",
+  "prompt": "Close-up realistic photograph of meltwater dripping from the base of a heat pump outdoor unit raised on rubber feet onto a bed of grey gravel, light frost on surrounding ground, early morning light, New Zealand home, no people, no text, no logos"
+ },
+ "winter-louvres": {
+  "aspect": "4x3",
+  "alt": "Heat pump louvres angled down warming a living room on a winter evening",
+  "prompt": "Realistic photograph of a white wall-mounted heat pump with louvres angled downward warming a cosy New Zealand living room on a winter evening, curtains drawn, lamp light, rug on timber floor, no people, no text, no logos"
+ },
+ "plans-hero": {
+  "aspect": "16x9",
+  "alt": "Two-storey home with heat pump outdoor units along the side wall",
+  "prompt": "Realistic editorial photograph of a modern two-storey New Zealand home in Christchurch with two heat pump outdoor units neatly mounted along the side wall, tidy pipe covers, landscaped path, overcast daylight, no people, no text, no logos"
+ },
+ "plans-multi-unit": {
+  "aspect": "4x3",
+  "alt": "Heat pump indoor unit in a bedroom of a multi-room home",
+  "prompt": "Realistic photograph of a white wall-mounted heat pump in a calm New Zealand bedroom with a made bed and soft linen, hallway door open showing a second unit in the next room, natural daylight, no people, no text, no logos"
+ },
+ "plans-rental": {
+  "aspect": "4x3",
+  "alt": "Heat pump in the living area of a small rental unit",
+  "prompt": "Realistic photograph of a compact New Zealand rental townhouse living area with a white wall-mounted heat pump, simple furniture, clean carpet, sliding door to a small courtyard, daylight, no people, no text, no logos"
+ },
+ "cleaning-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump indoor unit wrapped in a cleaning bag during a deep clean",
+  "prompt": "Realistic editorial photograph of a wall-mounted heat pump indoor unit wrapped in a clear waterproof cleaning bag that funnels into a bucket, drop sheets on the floor below, anonymous technician in plain navy workwear on a step ladder seen from behind, bright New Zealand living room, no text, no logos"
+ },
+ "cleaning-blower": {
+  "aspect": "4x3",
+  "alt": "Dirty heat pump barrel fan wheel with grey build-up on the blades",
+  "prompt": "Extreme close-up realistic photograph inside a heat pump indoor unit showing the barrel fan wheel blades coated with grey and black grime, torch light, shallow depth of field, no people, no text, no logos"
+ },
+ "cleaning-bag": {
+  "aspect": "4x3",
+  "alt": "Dirty rinse water collected in a bucket after a heat pump clean",
+  "prompt": "Realistic photograph of a bucket holding dark grey rinse water collected from a heat pump cleaning bag, drop sheet and clean folded cloths beside it on a timber floor, New Zealand home, natural light, no people, no text, no logos"
+ },
+ "deodorise-hero": {
+  "aspect": "16x9",
+  "alt": "Bright, fresh bedroom with a clean wall-mounted heat pump",
+  "prompt": "Realistic editorial photograph of a bright New Zealand bedroom with an open window letting in fresh air, sheer curtain moving, clean white wall-mounted heat pump above a bed with white linen, spring daylight, no people, no text, no logos"
+ },
+ "deodorise-coil-mould": {
+  "aspect": "4x3",
+  "alt": "Black mould spots on heat pump louvres and outlet",
+  "prompt": "Close-up realistic photograph of the open outlet of a wall-mounted heat pump showing small black mould spots on the louvres and inside the air outlet, torch light, no people, no text, no logos"
+ },
+ "deodorise-drain": {
+  "aspect": "4x3",
+  "alt": "Heat pump drain pipe outlet on an exterior wall",
+  "prompt": "Realistic photograph of a white heat pump condensate drain pipe coming out of a painted weatherboard exterior wall above a garden bed, small drip of water at the end, overcast daylight, New Zealand home, no people, no text, no logos"
+ },
+ "dehumid-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump running in a living room on a humid summer day",
+  "prompt": "Realistic editorial photograph of a white wall-mounted heat pump in a light-filled New Zealand living room on a warm humid summer afternoon, grey rain clouds through the window, indoor plants, timber floor, no people, no text, no logos"
+ },
+ "dehumid-remote": {
+  "aspect": "4x3",
+  "alt": "Heat pump remote showing a water droplet dry mode symbol",
+  "prompt": "Close-up realistic photograph of a plain white heat pump remote control on a coffee table, small screen showing a simple water droplet symbol, blurred living room behind, soft daylight, no readable text, no logos"
+ },
+ "dehumid-condensation": {
+  "aspect": "4x3",
+  "alt": "Condensation on a bedroom window on a cold morning",
+  "prompt": "Realistic photograph of heavy condensation droplets on the inside of an aluminium-framed bedroom window on a cold New Zealand winter morning, frosty garden blurred outside, curtain edge visible, no people, no text, no logos"
+ },
+ "covers-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit behind an open slatted timber screen on a deck",
+  "prompt": "Realistic editorial photograph of a heat pump outdoor unit partly hidden by an open slatted cedar screen with a clear gap in front of the fan, on a timber deck beside a modern New Zealand home, potted plants, daylight, no people, no text, no logos"
+ },
+ "covers-slatted": {
+  "aspect": "4x3",
+  "alt": "Louvred aluminium cover around a heat pump outdoor unit with open sides",
+  "prompt": "Realistic photograph of a grey louvred aluminium cover around a heat pump outdoor unit, wide gaps between louvres and open base, raised on feet on a concrete pad beside a brick New Zealand house, overcast light, no people, no text, no logos"
+ },
+ "covers-top-shelter": {
+  "aspect": "4x3",
+  "alt": "Small roof shelter over a heat pump outdoor unit with open sides",
+  "prompt": "Realistic photograph of a simple sloping roof shelter fixed to a weatherboard wall above a heat pump outdoor unit, front, sides and base completely open, garden path, New Zealand home, daylight, no people, no text, no logos"
+ },
+ "parts-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump replacement parts laid out on a workbench",
+  "prompt": "Realistic editorial photograph of heat pump replacement parts laid out neatly on a clean workbench: a fan motor, a small circuit board, temperature sensors on wires, a remote control and rubber anti-vibration feet, soft workshop daylight, no people, no text, no logos"
+ },
+ "parts-fan-motor": {
+  "aspect": "4x3",
+  "alt": "Technician's hands fitting a new fan motor to a heat pump outdoor unit",
+  "prompt": "Close-up realistic photograph of gloved hands fitting a new fan motor inside an open heat pump outdoor unit, fan blade set aside, tools on the concrete pad, overcast New Zealand day, no faces, no text, no logos"
+ },
+ "parts-board": {
+  "aspect": "4x3",
+  "alt": "Control board exposed inside a heat pump indoor unit",
+  "prompt": "Close-up realistic photograph of the control circuit board exposed inside a wall-mounted heat pump indoor unit with its side cover removed, wiring looms visible, torch light, no people, no readable text, no logos"
+ },
+ "emergency-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump indoor unit switched off in a cold Christchurch living room on a frosty morning",
+  "prompt": "Realistic editorial photograph of a New Zealand living room on a frosty winter morning, white wall-mounted heat pump switched off with louvres closed, frost on the window glass, a folded wool blanket on the couch, soft grey morning light, quiet and cold mood, no people, no text, no logos"
+ },
+ "emergency-1": {
+  "aspect": "4x3",
+  "alt": "Hand switching off the outdoor isolating switch beside a heat pump",
+  "prompt": "Realistic editorial photograph, close up of a hand turning off a grey weatherproof isolating switch mounted on a weatherboard wall beside a heat pump outdoor unit, New Zealand home, overcast daylight, only the hand visible, no text, no logos"
+ },
+ "emergency-2": {
+  "aspect": "4x3",
+  "alt": "Towel and bucket under a dripping heat pump indoor unit",
+  "prompt": "Realistic editorial photograph of a white wall-mounted heat pump indoor unit in a New Zealand bedroom with a folded towel and a plastic bucket on the carpet beneath it catching drips, wall below dry, natural light, no people, no text, no logos"
+ },
+ "troubleshoot-hero": {
+  "aspect": "16x9",
+  "alt": "Technician testing a heat pump outdoor unit with a multimeter",
+  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear kneeling beside a heat pump outdoor unit with the service panel removed, testing terminals with a digital multimeter, New Zealand brick house, winter daylight, face not shown, no text, no logos"
+ },
+ "troubleshoot-1": {
+  "aspect": "4x3",
+  "alt": "Flashing operation light on a heat pump indoor unit",
+  "prompt": "Realistic editorial photograph, close up of the lower edge of a white wall-mounted heat pump indoor unit with a small amber indicator light glowing, dim living room behind, shallow depth of field, no people, no text, no logos"
+ },
+ "troubleshoot-2": {
+  "aspect": "4x3",
+  "alt": "Refrigerant gauges connected to the service valves of a heat pump outdoor unit",
+  "prompt": "Realistic editorial photograph, close up of refrigerant manifold gauges with blue and red hoses connected to the service valves of a heat pump outdoor unit, copper pipes with insulation, New Zealand backyard, overcast light, no people, no text, no logos"
+ },
+ "leak-hero": {
+  "aspect": "16x9",
+  "alt": "Water stain on a wall below a heat pump indoor unit",
+  "prompt": "Realistic editorial photograph of a white wall-mounted heat pump indoor unit in a New Zealand living room with a faint water stain running down the painted wall beneath it, timber floor, soft daylight, no people, no text, no logos"
+ },
+ "leak-1": {
+  "aspect": "4x3",
+  "alt": "Technician spraying bubble solution on a copper flare joint to test for a refrigerant leak",
+  "prompt": "Realistic editorial photograph, close up of gloved hands spraying leak detection bubble solution onto a copper flare joint behind a heat pump outdoor unit, small bubbles forming, plain navy sleeve, no face, no text, no logos"
+ },
+ "leak-2": {
+  "aspect": "4x3",
+  "alt": "Condensate drain hose running from a heat pump to an outside gully",
+  "prompt": "Realistic editorial photograph of a white condensate drain hose running down a weatherboard wall from a heat pump pipe cover into a concrete gully trap, New Zealand house exterior, damp ground, overcast light, no people, no text, no logos"
+ },
+ "thermostat-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump remote showing a set temperature in a Christchurch lounge",
+  "prompt": "Realistic editorial photograph of a hand holding a plain white heat pump remote control in a warm New Zealand lounge, a wall-mounted heat pump softly out of focus high on the wall behind, evening lamplight, only the hand visible, no readable text on the screen, no text, no logos"
+ },
+ "thermostat-1": {
+  "aspect": "4x3",
+  "alt": "Digital thermometer on a side table measuring room temperature at seated height",
+  "prompt": "Realistic editorial photograph of a small digital room thermometer on a timber side table beside an armchair in a New Zealand living room, heat pump on the wall in soft focus behind, natural light, display not legible, no people, no text, no logos"
+ },
+ "thermostat-2": {
+  "aspect": "4x3",
+  "alt": "Wired wall controller for a ducted heat pump in a hallway",
+  "prompt": "Realistic editorial photograph of a slim white wired wall controller for a ducted heat pump mounted on a painted hallway wall in a modern New Zealand home, ceiling vent visible above, soft daylight, blank screen, no people, no text, no logos"
+ },
+ "remote-hero": {
+  "aspect": "16x9",
+  "alt": "Phone showing a heat pump app beside a wall-mounted heat pump",
+  "prompt": "Realistic editorial photograph of a smartphone lying on a kitchen bench showing a simple generic climate control app screen with a large temperature dial, wall-mounted heat pump visible in the living area behind, New Zealand open plan home, morning light, no readable text, no people, no text, no logos"
+ },
+ "remote-1": {
+  "aspect": "4x3",
+  "alt": "Wi-Fi adaptor being fitted inside a heat pump indoor unit",
+  "prompt": "Realistic editorial photograph, close up of hands in plain navy sleeves plugging a small white Wi-Fi adaptor module into the open front of a wall-mounted heat pump indoor unit, filters removed, no face, no text, no logos"
+ },
+ "remote-2": {
+  "aspect": "4x3",
+  "alt": "Home Wi-Fi router on a hallway shelf near a heat pump",
+  "prompt": "Realistic editorial photograph of a plain white home Wi-Fi router on a hallway shelf in a New Zealand house, a wall-mounted heat pump visible through a doorway, soft daylight, no people, no text, no logos"
+ },
+ "smart-hero": {
+  "aspect": "16x9",
+  "alt": "Warm living room with a heat pump running while a phone shows a heating schedule",
+  "prompt": "Realistic editorial photograph of a warm modern New Zealand living room at dusk, wall-mounted heat pump running with louvres open, a smartphone on the coffee table showing a generic weekly schedule screen, lamps on, no readable text, no people, no text, no logos"
+ },
+ "smart-1": {
+  "aspect": "4x3",
+  "alt": "Hand using a phone app to adjust a heat pump on the way home",
+  "prompt": "Realistic editorial photograph of a hand holding a smartphone with a generic temperature slider app on screen, blurred Christchurch street and car interior in the background, evening light, only the hand visible, no readable text, no text, no logos"
+ },
+ "smart-2": {
+  "aspect": "4x3",
+  "alt": "Floor console heat pump in a bedroom with a phone charger beside it",
+  "prompt": "Realistic editorial photograph of a white floor console heat pump under a bedroom window in a New Zealand home, a phone on the bedside table nearby, soft morning light, tidy and calm, no people, no text, no logos"
+ },
+ "daikin-hero": {
+  "aspect": "16x9",
+  "alt": "Technician servicing a wall-mounted heat pump in a Christchurch home",
+  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear on a step ladder cleaning the coil of a white wall-mounted heat pump with the front panel open, drop sheet on the floor, bright New Zealand living room, face turned away, no text, no logos"
+ },
+ "daikin-1": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit on raised feet beside a brick house",
+  "prompt": "Realistic editorial photograph of a plain white heat pump outdoor unit on raised rubber feet beside a red brick New Zealand house, gravel underneath, frosty lawn, early morning light, no people, no text, no logos"
+ },
+ "daikin-2": {
+  "aspect": "4x3",
+  "alt": "Wired heat pump controller on a lounge wall",
+  "prompt": "Realistic editorial photograph of a slim square white wired heat pump wall controller beside a light switch in a modern New Zealand lounge, soft daylight, blank screen, no people, no text, no logos"
+ },
+ "mitsubishi-hero": {
+  "aspect": "16x9",
+  "alt": "Technician checking a heat pump outdoor unit beside a weatherboard house",
+  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear checking the fan of a heat pump outdoor unit on a wall bracket beside a painted weatherboard house in Christchurch, Port Hills faint in the background, winter sun, face not visible, no text, no logos"
+ },
+ "mitsubishi-1": {
+  "aspect": "4x3",
+  "alt": "Heat pump filters being rinsed in a laundry sink",
+  "prompt": "Realistic editorial photograph, close up of two grey mesh heat pump filters being rinsed under a tap in a stainless steel laundry tub, New Zealand home, natural light, hands only, no text, no logos"
+ },
+ "mitsubishi-2": {
+  "aspect": "4x3",
+  "alt": "Ducted heat pump ceiling vent in a hallway",
+  "prompt": "Realistic editorial photograph looking up at a white linear ceiling vent of a ducted heat pump system in a New Zealand hallway, white ceiling, pendant light, soft daylight, no people, no text, no logos"
+ },
+ "fujitsu-hero": {
+  "aspect": "16x9",
+  "alt": "Wall-mounted heat pump above a window in a Christchurch bedroom",
+  "prompt": "Realistic editorial photograph of a white wall-mounted heat pump above a window in a tidy New Zealand bedroom, neutral linen, winter light through sheer curtains, calm and warm, no people, no text, no logos"
+ },
+ "fujitsu-1": {
+  "aspect": "4x3",
+  "alt": "Technician vacuuming dust from a heat pump outdoor coil",
+  "prompt": "Realistic editorial photograph of gloved hands using a soft brush attachment to clean leaves and dust from the rear coil fins of a heat pump outdoor unit, New Zealand garden, autumn leaves on the ground, no face, no text, no logos"
+ },
+ "fujitsu-2": {
+  "aspect": "4x3",
+  "alt": "Indoor unit with front panel open showing the coil and fan",
+  "prompt": "Realistic editorial photograph, close up of a wall-mounted heat pump indoor unit with its front panel lifted, aluminium coil fins and cross-flow fan visible, clean, bright light, no people, no text, no logos"
+ },
+ "panasonic-hero": {
+  "aspect": "16x9",
+  "alt": "Older heat pump indoor unit in a Christchurch bungalow living room",
+  "prompt": "Realistic editorial photograph of a slightly older white wall-mounted heat pump in the living room of a 1950s New Zealand bungalow, rimu skirting boards, warm afternoon light, lived-in but tidy, no people, no text, no logos"
+ },
+ "panasonic-1": {
+  "aspect": "4x3",
+  "alt": "Technician checking the drain tray of a heat pump indoor unit",
+  "prompt": "Realistic editorial photograph of hands with a small torch inspecting the drain tray under the coil of an open wall-mounted heat pump indoor unit, plain navy sleeves, no face, no text, no logos"
+ },
+ "panasonic-2": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit with replacement parts laid on a mat beside it",
+  "prompt": "Realistic editorial photograph of a heat pump outdoor unit with its side panel off and a new fan motor and small circuit board laid on a rubber mat beside it, concrete path, New Zealand house, overcast light, no people, no text, no logos"
+ },
+ "central-city-hero": {
+  "aspect": "16x9",
+  "alt": "New townhouses and low-rise apartments on a Christchurch Central City street",
+  "prompt": "Realistic editorial photograph of a quiet inner-city street in Christchurch, New Zealand, with new three storey townhouses and a low-rise apartment building, small balconies, timber and dark cladding, young street trees, flat land, clear winter morning light, no landmarks, no signs, no people, no text, no logos"
+ },
+ "edgeware-hero": {
+  "aspect": "16x9",
+  "alt": "Timber cottages and a newer townhouse on a flat Edgeware street",
+  "prompt": "Realistic editorial photograph of a flat Christchurch suburban street with small painted weatherboard cottages and a restored villa beside a newer two storey townhouse, picket fences, narrow sections, overcast winter day, no signs, no people, no text, no logos"
+ },
+ "addington-hero": {
+  "aspect": "16x9",
+  "alt": "Row of small workers' cottages close together in Addington",
+  "prompt": "Realistic editorial photograph of a row of small single-storey weatherboard workers' cottages on narrow sections close together in an older Christchurch suburb, corrugated iron roofs, low front fences, a new townhouse block at the end of the street, soft winter light, no signs, no people, no text, no logos"
+ },
+ "sydenham-hero": {
+  "aspect": "16x9",
+  "alt": "Renovated villa with a modern rear extension in Sydenham",
+  "prompt": "Realistic editorial photograph of a renovated New Zealand weatherboard villa in a flat Christchurch suburb, original bay window at the front and a modern glazed extension visible at the side, small garden, clear winter afternoon, no signs, no people, no text, no logos"
+ },
+ "phillipstown-hero": {
+  "aspect": "16x9",
+  "alt": "Older cottage and a block of single-storey units in Phillipstown",
+  "prompt": "Realistic editorial photograph of a modest flat Christchurch street with an older weatherboard cottage beside a block of single-storey brick units with a shared driveway, low hedges, overcast winter day, no signs, no people, no text, no logos"
+ },
+ "linwood-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and weatherboard former state houses on a Linwood street",
+  "prompt": "Realistic editorial photograph of a flat east Christchurch street with solid mid-century brick and weatherboard former state houses, tiled roofs, lawns and low fences, a chimney on one house, clear winter morning, no signs, no people, no text, no logos"
+ },
+ "beckenham-hero": {
+  "aspect": "16x9",
+  "alt": "Character bungalow under large trees near a river in Beckenham",
+  "prompt": "Realistic editorial photograph of a character timber bungalow with a deep veranda on a leafy flat Christchurch street near a small river, large mature deciduous trees, damp lawn, soft winter light, no signs, no people, no text, no logos"
+ },
+ "cashmere-hero": {
+  "aspect": "16x9",
+  "alt": "Hillside homes on the Port Hills slopes in Cashmere",
+  "prompt": "Realistic editorial photograph of large hillside homes on the north-facing Port Hills slopes above Christchurch, decks and big view windows, terraced gardens and retaining walls, city and plains below, clear winter sun, no landmarks, no signs, no people, no text, no logos"
+ },
+ "somerfield-hero": {
+  "aspect": "16x9",
+  "alt": "Older bungalows on a flat Somerfield street",
+  "prompt": "Realistic editorial photograph of a quiet flat Christchurch street of older weatherboard bungalows and a villa with bay windows, tidy front gardens, established street trees, light frost on the grass verge, early winter morning, no signs, no people, no text, no logos"
+ },
+ "spreydon-hero": {
+  "aspect": "16x9",
+  "alt": "Mid-century brick and weatherboard homes in Spreydon",
+  "prompt": "Realistic editorial photograph of a flat established Christchurch suburban street with mid-century brick and weatherboard family homes, tiled roofs, concrete driveways, the Port Hills faint in the background, overcast winter day, no signs, no people, no text, no logos"
+ },
+ "hoon-hay-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and tile family homes on a frosty morning in Hoon Hay",
+  "prompt": "Realistic editorial photograph of brick and tile family homes on a flat Christchurch suburban street on a frosty winter morning, white frost on lawns and roofs, low sun, Port Hills rising behind, no signs, no people, no text, no logos"
+ },
+ "cracroft-hero": {
+  "aspect": "16x9",
+  "alt": "House built into a steep slope on the Port Hills in Cracroft",
+  "prompt": "Realistic editorial photograph of a split-level house built into a steep Port Hills section above Christchurch, long flight of outdoor steps, decks over the slope, native planting and rock, wide view to the plains, clear winter day, no landmarks, no signs, no people, no text, no logos"
+ },
+ "westmorland-hero": {
+  "aspect": "16x9",
+  "alt": "Newer two-storey homes on terraced hillside sections in Westmorland",
+  "prompt": "Realistic editorial photograph of newer large two-storey homes on terraced sections on the lower Port Hills, Christchurch, garages below living levels, retaining walls, young gardens, clear winter afternoon, no signs, no people, no text, no logos"
+ },
+ "hillmorton-hero": {
+  "aspect": "16x9",
+  "alt": "Suburban homes on flat streets near the foot of the hills in Hillmorton",
+  "prompt": "Realistic editorial photograph of a flat Christchurch suburban street of weatherboard and brick bungalows, with the street rising gently toward the Port Hills at the far end, established trees, soft winter light, no signs, no people, no text, no logos"
+ },
+ "burwood-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and tile homes on a quiet street in Burwood, Christchurch",
+  "prompt": "Realistic editorial photograph, a quiet suburban street in north-east Christchurch with newer single-storey brick and tile homes, double garages, neat lawns and young trees, flat land, clear winter morning, natural light, no people, no text, no logos"
+ },
+ "dallington-hero": {
+  "aspect": "16x9",
+  "alt": "Repaired bungalow on a street beside open river land in Dallington",
+  "prompt": "Realistic editorial photograph, a repaired 1950s weatherboard bungalow on a Christchurch street, open grassed land with willows and the edge of a river beyond, overcast winter day, natural light, no people, no text, no logos"
+ },
+ "new-brighton-hero": {
+  "aspect": "16x9",
+  "alt": "Older weatherboard cottage a short walk from the beach in New Brighton",
+  "prompt": "Realistic editorial photograph, a small older weatherboard cottage on a sandy section near a New Zealand beach, dune grass at the edge of the street, flax in the garden, grey sky with sea haze, natural light, no people, no text, no logos"
+ },
+ "north-new-brighton-hero": {
+  "aspect": "16x9",
+  "alt": "Home close to the sand dunes in North New Brighton",
+  "prompt": "Realistic editorial photograph, a single-storey New Zealand home on a street right behind grassy sand dunes, marram grass bending in the wind, coastal light, salt haze, natural light, no people, no text, no logos"
+ },
+ "south-new-brighton-hero": {
+  "aspect": "16x9",
+  "alt": "House on the estuary side of South New Brighton",
+  "prompt": "Realistic editorial photograph, a weatherboard house on a low section beside a calm estuary in Christchurch, tidal mudflats and reflections on still water, soft morning light, natural light, no people, no text, no logos"
+ },
+ "new-brighton-central-hero": {
+  "aspect": "16x9",
+  "alt": "Flats and houses near the New Brighton town centre",
+  "prompt": "Realistic editorial photograph, a row of 1970s single-storey brick flats beside older houses on a small street near a seaside town centre in Christchurch, low fences, overcast sky, natural light, no people, no text, no logos"
+ },
+ "parklands-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and tile family homes in Parklands, Christchurch",
+  "prompt": "Realistic editorial photograph, a flat suburban street of 1980s single-storey brick and tile family homes with concrete driveways and garages in Christchurch, clear blue winter sky, natural light, no people, no text, no logos"
+ },
+ "wainoni-hero": {
+  "aspect": "16x9",
+  "alt": "Mid-century weatherboard houses on a street in Wainoni",
+  "prompt": "Realistic editorial photograph, a street of 1960s single-storey weatherboard and brick houses on piles in east Christchurch, wide grass berms, mature trees, winter afternoon, natural light, no people, no text, no logos"
+ },
+ "queenspark-hero": {
+  "aspect": "16x9",
+  "alt": "Family homes with gardens and garages in Queenspark",
+  "prompt": "Realistic editorial photograph, single-storey family homes with gardens and attached garages on a quiet flat street in Christchurch, some brick and some weatherboard, autumn leaves, natural light, no people, no text, no logos"
+ },
+ "aranui-hero": {
+  "aspect": "16x9",
+  "alt": "Older state houses beside newer townhouses in Aranui",
+  "prompt": "Realistic editorial photograph, 1950s New Zealand state houses in weatherboard beside a row of new two-storey townhouses on a street in east Christchurch, clear winter day, natural light, no people, no text, no logos"
+ },
+ "bexley-hero": {
+  "aspect": "16x9",
+  "alt": "New house on a raised foundation near the estuary in Bexley",
+  "prompt": "Realistic editorial photograph, a newer single-storey home on a raised foundation on low-lying land near an estuary in Christchurch, open grass nearby, frost on the lawn, still morning, natural light, no people, no text, no logos"
+ },
+ "bottle-lake-hero": {
+  "aspect": "16x9",
+  "alt": "Home on the edge of a pine forest near Bottle Lake",
+  "prompt": "Realistic editorial photograph, a single-storey home on a large section at the edge of a tall pine plantation in coastal Christchurch, pine needles on the driveway, sandy soil, soft light, natural light, no people, no text, no logos"
+ },
+ "bromley-hero": {
+  "aspect": "16x9",
+  "alt": "Mid-century brick house on a street in Bromley",
+  "prompt": "Realistic editorial photograph, a 1960s single-storey brick house on a modest section in east Christchurch, a commercial yard fence visible down the street, grey winter sky, natural light, no people, no text, no logos"
+ },
+ "avondale-hero": {
+  "aspect": "16x9",
+  "alt": "Renovated mid-century home on a street in Avondale",
+  "prompt": "Realistic editorial photograph, a renovated 1960s weatherboard home with new windows on a street in east Christchurch, open grassland and trees along a river in the distance, morning light, natural light, no people, no text, no logos"
+ },
+ "brooklands-hero": {
+  "aspect": "16x9",
+  "alt": "Older timber house on an open section in Brooklands",
+  "prompt": "Realistic editorial photograph, an older timber house on an open, windswept section near a coastal lagoon at the northern edge of Christchurch, flat land and wide sky, tussock and flax, natural light, no people, no text, no logos"
+ },
+ "heathcote-valley-hero": {
+  "aspect": "16x9",
+  "alt": "Homes on the valley floor and hillsides of Heathcote Valley, Christchurch",
+  "prompt": "Realistic editorial photograph of a small valley at the foot of tussock-covered Port Hills in Christchurch, New Zealand, single-storey weatherboard and modern homes on the flat valley floor with newer houses on steep hillside sections and retaining walls above, clear winter morning, natural light, no people, no text, no logos"
+ },
+ "mount-pleasant-hero": {
+  "aspect": "16x9",
+  "alt": "Hillside homes with large windows on Mount Pleasant above the estuary",
+  "prompt": "Realistic editorial photograph of modern and older hillside homes with large north-facing windows and timber decks on a steep slope of the Port Hills, Christchurch, New Zealand, winding road, view down over a tidal estuary, sunny winter day, no people, no text, no logos"
+ },
+ "redcliffs-hero": {
+  "aspect": "16x9",
+  "alt": "Bungalows on a flat Redcliffs street with houses on the hill behind",
+  "prompt": "Realistic editorial photograph of a quiet flat street of bungalows and family homes in a coastal Christchurch suburb, New Zealand, steep hillside with houses rising behind, glimpse of a tidal estuary, soft coastal light, no people, no text, no logos, no signs"
+ },
+ "sumner-hero": {
+  "aspect": "16x9",
+  "alt": "Older beach houses and hillside homes in Sumner, Christchurch",
+  "prompt": "Realistic editorial photograph of older weatherboard beach houses and newer homes on small sections close to a sandy beach in a seaside Christchurch suburb, New Zealand, houses climbing the hills on either side, overcast coastal light, no people, no text, no logos, no signs"
+ },
+ "ferrymead-hero": {
+  "aspect": "16x9",
+  "alt": "Townhouses on flat land near the estuary in Ferrymead",
+  "prompt": "Realistic editorial photograph of a row of modern two-storey townhouses with small courtyards on flat land near a tidal estuary in Christchurch, New Zealand, Port Hills in the background, calm winter afternoon, no people, no text, no logos, no signs"
+ },
+ "clifton-hero": {
+  "aspect": "16x9",
+  "alt": "Multi-level homes on a steep Clifton hillside above the sea",
+  "prompt": "Realistic editorial photograph of modern multi-level homes on steep hillside sections high above the sea in a Christchurch coastal hill suburb, New Zealand, decks and large windows facing the ocean, rocky slope, clear windy day, no people, no text, no logos"
+ },
+ "moncks-bay-hero": {
+  "aspect": "16x9",
+  "alt": "Homes along the estuary edge and up the slope at Moncks Bay",
+  "prompt": "Realistic editorial photograph of a small bay on a tidal estuary in Christchurch, New Zealand, a few houses along the waterfront road and more homes set into the hillside behind with retaining walls and steps, calm morning light, no people, no text, no logos, no signs"
+ },
+ "lyttelton-hero": {
+  "aspect": "16x9",
+  "alt": "Old timber cottages on steep streets above Lyttelton Harbour",
+  "prompt": "Realistic editorial photograph of old painted timber cottages and villas packed closely on steep narrow streets and steps above a harbour in a small New Zealand port town, corrugated iron roofs, hills behind, winter light, no people, no text, no logos, no signs, no ships with names"
+ },
+ "lincoln-hero": {
+  "aspect": "16x9",
+  "alt": "Homes on the edge of Lincoln with lifestyle blocks beyond",
+  "prompt": "Realistic editorial photograph of a quiet street of newer single-storey homes on the edge of a small Canterbury town in New Zealand, flat open farmland and lifestyle blocks with shelter belts beyond, frost on the grass on a clear winter morning, no people, no text, no logos, no signs"
+ },
+ "prebbleton-hero": {
+  "aspect": "16x9",
+  "alt": "New homes on larger sections in a Prebbleton subdivision",
+  "prompt": "Realistic editorial photograph of new single-storey brick and weatherboard homes on large sections in a growing Canterbury village subdivision, New Zealand, young trees, flat land, distant Port Hills, clear winter day, no people, no text, no logos, no signs"
+ },
+ "tai-tapu-hero": {
+  "aspect": "16x9",
+  "alt": "Farmhouse on a lifestyle block below the Port Hills near Tai Tapu",
+  "prompt": "Realistic editorial photograph of an older weatherboard farmhouse with a veranda on a lifestyle block at the foot of the Port Hills in rural Canterbury, New Zealand, paddocks, shelter trees, frosty winter morning, no people, no text, no logos, no animals"
+ },
+ "halswell-hero": {
+  "aspect": "16x9",
+  "alt": "New subdivision homes in Halswell below the Port Hills",
+  "prompt": "Realistic editorial photograph of a new subdivision street of modern single-storey homes and townhouses in south-west Christchurch, New Zealand, Port Hills rising behind, young street trees, clear winter day, no people, no text, no logos, no signs"
+ },
+ "aidanfield-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and plaster family homes on an Aidanfield street",
+  "prompt": "Realistic editorial photograph of a tidy suburban street of single-storey brick and plaster family homes on regular sections in a planned Christchurch suburb, New Zealand, low fences, established trees, clear autumn day, no people, no text, no logos, no signs"
+ },
+ "kennedys-bush-hero": {
+  "aspect": "16x9",
+  "alt": "Modern homes on sloping sections at Kennedys Bush",
+  "prompt": "Realistic editorial photograph of modern homes on large sloping sections on the western Port Hills above Christchurch, New Zealand, steep driveways and decks, view over the Canterbury Plains to snow-capped Southern Alps, crisp winter morning, no people, no text, no logos"
+ },
+ "heat-pumps-papanui-hero": {
+  "aspect": "16x9",
+  "alt": "Older weatherboard villa beside newer townhouses on a Christchurch street",
+  "prompt": "Photograph of a quiet suburban street in northern Christchurch, New Zealand, a restored white weatherboard villa with a corrugated iron roof beside a pair of newer two storey townhouses, low fences, flat land, clear winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "casebrook-hero": {
+  "aspect": "16x9",
+  "alt": "Single storey brick and tile family homes on a Christchurch street",
+  "prompt": "Photograph of a suburban street of single storey 1970s and 1980s brick veneer and concrete tile roof family homes in north-west Christchurch, New Zealand, front lawns, driveways and garages, flat land, clear winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "mairehau-hero": {
+  "aspect": "16x9",
+  "alt": "Compact mid-century weatherboard and brick homes in north-east Christchurch",
+  "prompt": "Photograph of modest mid-century New Zealand state house style homes, one weatherboard and one brick, with low pitched roofs and simple front gardens on a flat street in north-east Christchurch, overcast winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "northcote-hero": {
+  "aspect": "16x9",
+  "alt": "Row of small single storey units on a subdivided Christchurch section",
+  "prompt": "Photograph of a row of small single storey brick units sharing a long driveway on a subdivided suburban section in Christchurch, New Zealand, small gardens, clotheslines, flat land, soft winter light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "redwood-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and tile family home with a side garage in northern Christchurch",
+  "prompt": "Photograph of a 1970s single storey brick and tile family home with an attached garage and front lawn on a suburban street in northern Christchurch, New Zealand, frost on the grass, low winter sun, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "st-albans-hero": {
+  "aspect": "16x9",
+  "alt": "Character villa and bungalow on a tree-lined Christchurch street",
+  "prompt": "Photograph of a tree-lined inner suburban street in Christchurch, New Zealand, a restored timber villa with a bay window and veranda next to a 1920s bungalow, picket fences, autumn leaves, soft light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "shirley-hero": {
+  "aspect": "16x9",
+  "alt": "Mid-century weatherboard homes on a flat street in north-east Christchurch",
+  "prompt": "Photograph of mid-century New Zealand weatherboard and brick homes on a flat suburban street in north-east Christchurch, misty winter morning, condensation on windows, modest front gardens, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "marshland-hero": {
+  "aspect": "16x9",
+  "alt": "Semi-rural house among market garden fields on the edge of Christchurch",
+  "prompt": "Photograph of a semi-rural farmhouse style home on flat open land on the north-eastern edge of Christchurch, New Zealand, market garden rows and paddocks, poplar shelter belt, frosty winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "spencerville-hero": {
+  "aspect": "16x9",
+  "alt": "Lifestyle block home with pine shelter belt near Christchurch",
+  "prompt": "Photograph of a large single storey lifestyle block home on a big flat section near Christchurch, New Zealand, pine shelter belt, paddock with a shed, frost on the grass, clear winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "belfast-hero": {
+  "aspect": "16x9",
+  "alt": "New subdivision homes on the northern edge of Christchurch",
+  "prompt": "Photograph of a street of new single storey brick and weatherboard homes in a new subdivision on the northern edge of Christchurch, New Zealand, young street trees, fresh lawns, flat land, clear winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "bryndwr-hero": {
+  "aspect": "16x9",
+  "alt": "Mid-century bungalow with a mature garden in Christchurch",
+  "prompt": "Photograph of a mid-century New Zealand bungalow with a tiled roof set behind a mature garden with large established trees and a hedge, quiet suburban street in Christchurch, autumn light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "burnside-hero": {
+  "aspect": "16x9",
+  "alt": "Extended brick family home on a large Christchurch section",
+  "prompt": "Photograph of a large single storey brick and tile family home with a newer weatherboard extension on a generous section in north-west Christchurch, New Zealand, lawn and established shrubs, clear winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "harewood-hero": {
+  "aspect": "16x9",
+  "alt": "Semi-rural home on open flat land on the north-west edge of Christchurch",
+  "prompt": "Photograph of a single storey home on a semi-rural property on flat open land at the north-west edge of Christchurch, New Zealand, post and wire fence, paddock, heavy frost, distant Southern Alps, clear winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "fendalton-hero": {
+  "aspect": "16x9",
+  "alt": "Large two storey character home among mature trees in Christchurch",
+  "prompt": "Photograph of a large two storey timber character home on a wide section surrounded by mature oak and beech trees in a leafy Christchurch suburb, New Zealand, long driveway, autumn leaves on the lawn, soft light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+ },
+ "hornby-hero": {
+  "aspect": "16x9",
+  "alt": "Older weatherboard and brick houses on a street in Hornby, Christchurch",
+  "prompt": "Street of modest 1950s and 1960s New Zealand weatherboard and brick bungalows in a western Christchurch suburb like Hornby, low fences, small front lawns, power poles, flat land, clear winter morning, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "wigram-hero": {
+  "aspect": "16x9",
+  "alt": "New homes in a Wigram subdivision",
+  "prompt": "Street of new single and two storey homes in a recent Christchurch subdivision like Wigram, brick veneer and dark cladding, young street trees, wide footpaths, flat land, Port Hills faint in the distance, clear winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "ilam-hero": {
+  "aspect": "16x9",
+  "alt": "Established family home with mature trees in Ilam",
+  "prompt": "Established 1960s New Zealand family home with a tiled roof and large mature trees in a leafy Christchurch suburb like Ilam, tidy hedge, autumn leaves on the lawn, soft afternoon light, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "upper-riccarton-hero": {
+  "aspect": "16x9",
+  "alt": "Infill townhouses beside an older house in Upper Riccarton",
+  "prompt": "Pair of new two storey infill townhouses beside an older weatherboard house in a Christchurch suburb like Upper Riccarton, shared driveway, small gardens, overcast winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "riccarton-hero": {
+  "aspect": "16x9",
+  "alt": "Villa and townhouses on a Riccarton street",
+  "prompt": "Restored New Zealand weatherboard villa with a bullnose verandah next to modern townhouses on a Christchurch street like those in Riccarton, picket fence, street trees, winter light, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "avonhead-hero": {
+  "aspect": "16x9",
+  "alt": "Single storey brick home in Avonhead",
+  "prompt": "Single storey 1970s New Zealand brick and tile home on a quiet Christchurch suburban street like those in Avonhead, concrete driveway, trimmed hedge, flat land, clear frosty morning, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "russley-hero": {
+  "aspect": "16x9",
+  "alt": "Brick family home on a cul-de-sac in Russley",
+  "prompt": "1970s to 1980s New Zealand brick family home with a tiled roof on a quiet cul-de-sac in a western Christchurch suburb like Russley, established garden, double garage, clear winter sky, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "oaklands-hero": {
+  "aspect": "16x9",
+  "alt": "Brick and tile homes on an Oaklands street",
+  "prompt": "Row of 1970s and 1980s single storey brick and tile homes in a south-west Christchurch suburb like Oaklands, mature gardens, low brick fences, frost on the lawns, early morning sun, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "sockburn-hero": {
+  "aspect": "16x9",
+  "alt": "Mixed older and newer housing in Sockburn",
+  "prompt": "Mixed street in a Christchurch suburb like Sockburn, an older weatherboard house beside a newer brick unit, narrow driveway to a back section, flat land, grey winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "yaldhurst-hero": {
+  "aspect": "16x9",
+  "alt": "Lifestyle block house in Yaldhurst",
+  "prompt": "Modern single storey house on a lifestyle block on the Canterbury Plains west of Christchurch like Yaldhurst, post and wire fence, paddock, shelter belt of pine trees, Southern Alps faint in the distance, clear winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "templeton-hero": {
+  "aspect": "16x9",
+  "alt": "Houses on a quiet street in Templeton",
+  "prompt": "Quiet street in a small Canterbury township like Templeton, mix of older weatherboard house and newer brick home, wide grass verge, paddocks beyond, frosty clear morning, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "mcleans-island-hero": {
+  "aspect": "16x9",
+  "alt": "Rural house among paddocks near McLeans Island",
+  "prompt": "Large rural house on a lifestyle block near the Waimakariri River outside Christchurch, like McLeans Island, gravel driveway, open paddocks, shelter belt trees, low winter sun, hoar frost on the grass, realistic editorial photograph, natural light, no people, no text, no logos"
  }
 }

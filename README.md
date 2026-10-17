@@ -7,6 +7,8 @@ sitemap (`src/data/urls.json`, 133 URLs) is kept exactly, trailing slash include
 - `src/pages/index.astro` — home page.
 - `src/data/site.json` — business details (Nate, phone, hours, brands).
 - `src/data/images.json` — Ideogram prompts; `npm run images` generates missing ones (needs `IDEOGRAM_API_KEY`).
+- `npm run check-copy` — checks every page against the CLAUDE.md copy and SEO rules.
+- `research/keywords.json` — main and secondary keyword per URL (DataForSEO, NZ, 2026-10-17).
 - `npm run build` — builds `dist/` and reports how many of the 133 URLs exist. It fails if a page isn't one of the old URLs.
 
 Brand colours are `--brand` / `--brand-ink` in `src/styles/global.css`.
