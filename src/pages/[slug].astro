@@ -1,0 +1,117 @@
+---
+// One route for every non-home page. Each page is a Markdown file in
+// src/content/ named after its slug, so the URL is /<slug>/ exactly as on
+// the old site.
+import Base from '../layouts/Base.astro';
+import Img from '../components/Img.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import Faq from '../components/Faq.astro';
+import CtaBand from '../components/CtaBand.astro';
+import site from '../data/site.json';
+import urls from '../data/urls.json';
+
+export async function getStaticPaths() {
+  const files = import.meta.glob('../content/*.md', { eager: true });
+  const known = new Set((await import('../data/urls.json')).default.map((u) => u.slug));
+  return Object.entries(files).map(([path, mod]) => {
+    const slug = path.split('/').pop().replace(/\.md$/, '');
+    if (!known.has(slug)) throw new Error(`${slug} is not one of the old site's URLs`);
+    return { params: { slug }, props: { mod } };
+  });
+}
+
+const { mod } = Astro.props;
+const fm = mod.frontmatter;
+const { Content } = mod;
+const { slug } = Astro.params;
+const entry = urls.find((u) => u.slug === slug);
+const type = entry.type;
+const url = `${site.domain}/${slug}/`;
+const crumbParent = {
+  suburb: { label: 'Locations', href: '/locations/' },
+  service: { label: 'Services', href: '/heat-pump-services/' },
+  guide: { label: 'Guides', href: '/how-heat-pumps-work/' },
+}[type];
+
+const schema = [];
+schema.push({
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.domain}/` },
+    ...(crumbParent ? [{ '@type': 'ListItem', position: 2, name: crumbParent.label, item: `${site.domain}${crumbParent.href}` }] : []),
+    { '@type': 'ListItem', position: crumbParent ? 3 : 2, name: fm.h1, item: url },
+  ],
+});
+if (type === 'service' || type === 'suburb') {
+  schema.push({
+    '@context': 'https://schema.org', '@type': 'Service',
+    name: fm.serviceName ?? fm.h1, url,
+    provider: { '@id': `${site.domain}/#business` },
+    areaServed: fm.areaServed ?? 'Christchurch',
+  });
+}
+if (type === 'guide') {
+  schema.push({
+    '@context': 'https://schema.org', '@type': 'Article',
+    headline: fm.h1, url, dateModified: fm.updated,
+    author: { '@type': 'Person', name: site.owner },
+    publisher: { '@id': `${site.domain}/#business` },
+  });
+}
+if (fm.faqs?.length) {
+  schema.push({
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: fm.faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })),
+  });
+}
+---
+<Base title={fm.title} description={fm.description} schema={schema} image={fm.hero}>
+  <div class="wrap crumbs">
+    <a href="/">Home</a>
+    {crumbParent && <> / <a href={crumbParent.href}>{crumbParent.label}</a></>}
+  </div>
+  <section class="section hero-sec">
+    <div class="wrap split">
+      <div>
+        <h1>{fm.h1}</h1>
+        <p class="lead">{fm.intro}</p>
+        <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
+        {type === 'guide' && fm.updated && <p class="updated">Updated {new Date(fm.updated).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' })}</p>}
+      </div>
+      <Img id={fm.hero} eager />
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap body-grid">
+      <article class="prose"><Content /></article>
+      {type !== 'guide' && <aside><QuoteForm suburb={fm.suburb ?? ''} /></aside>}
+    </div>
+  </section>
+  {fm.gallery?.length && (
+    <section class="section warm">
+      <div class="wrap grid grid-2">{fm.gallery.map((id) => <Img id={id} />)}</div>
+    </section>
+  )}
+  {fm.faqs?.length && <Faq items={fm.faqs} />}
+  {fm.related?.length && (
+    <section class="section">
+      <div class="wrap">
+        <h2>Related</h2>
+        <div class="grid grid-3">
+          {fm.related.map((r) => (
+            <a class="card" href={r.href}><div class="card-body"><h3>{r.label}</h3><p>{r.text}</p></div></a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+  <CtaBand />
+</Base>
+<style>
+  .hero-sec { padding-top: 32px; }
+  .updated { color: var(--ink-soft); margin-top: 1.2em; }
+  .body-grid { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 64px; align-items: start; }
+  .body-grid aside { position: sticky; top: 100px; }
+  .body-grid:has(> :only-child) { grid-template-columns: 1fr; }
+  @media (max-width: 960px) { .body-grid { grid-template-columns: 1fr; } .body-grid aside { position: static; } }
+</style>

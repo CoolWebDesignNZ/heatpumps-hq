@@ -1,0 +1,28 @@
+---
+import site from '../data/site.json';
+interface Props { suburb?: string }
+const { suburb = '' } = Astro.props;
+---
+<form class="qf card" method="post" action="/api/quote">
+  <div class="card-body">
+    <h3>Get a free quote</h3>
+    <p>Tell Nate what you need and he'll call you back.</p>
+    <label>Name<input name="name" required autocomplete="name" /></label>
+    <label>Phone<input name="phone" type="tel" required autocomplete="tel" /></label>
+    <label>What do you need?
+      <select name="service" required>
+        <option>Installation</option><option>Repair</option><option>Service</option>
+      </select>
+    </label>
+    <label>Suburb<input name="suburb" value={suburb} /></label>
+    <button class="btn btn-primary" type="submit">Request a call back</button>
+    <p class="alt">Or call <a href={site.phoneHref}>{site.phone}</a></p>
+  </div>
+</form>
+<style>
+  .qf label { display: block; font-weight: 600; margin-top: 16px; }
+  .qf input, .qf select { display: block; width: 100%; margin-top: 6px; padding: 14px 16px; font: inherit; border: 0; border-radius: 10px; background: var(--paper-warm); }
+  .qf input:focus, .qf select:focus { outline: 2px solid var(--brand); }
+  .qf button { width: 100%; margin-top: 24px; border: 0; cursor: pointer; }
+  .qf .alt { margin-top: 16px; text-align: center; }
+</style>

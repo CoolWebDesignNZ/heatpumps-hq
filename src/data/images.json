@@ -1,0 +1,82 @@
+{
+ "home-hero": {
+  "aspect": "16x9",
+  "alt": "Heat pump indoor unit on the wall of a bright Christchurch living room",
+  "prompt": "Editorial interior photograph of a bright, modern New Zealand living room in a Christchurch weatherboard home, white wall-mounted heat pump high on the wall, timber floor, large windows with soft winter morning light, Port Hills faintly visible outside, warm and calm, natural colours, no people, no text, no logos"
+ },
+ "home-install": {
+  "aspect": "4x3",
+  "alt": "Technician mounting a heat pump indoor unit on a bracket",
+  "prompt": "Documentary photograph of a heat pump technician in plain navy workwear mounting a white split system indoor unit onto a wall bracket in a New Zealand home, step ladder, drop sheet on carpet, natural window light, candid, no text, no logos on clothing"
+ },
+ "home-service": {
+  "aspect": "4x3",
+  "alt": "Heat pump filters being cleaned during a service",
+  "prompt": "Close-up photograph of hands removing and cleaning the mesh filters of a wall-mounted heat pump indoor unit, front panel lifted, soft daylight, clean modern home, shallow depth of field, no text, no logos"
+ },
+ "home-repair": {
+  "aspect": "4x3",
+  "alt": "Technician checking a heat pump outdoor unit with a gauge set",
+  "prompt": "Photograph of a technician kneeling beside a heat pump outdoor unit on a concrete pad against a weatherboard house, connecting a refrigerant gauge manifold, overcast Canterbury winter day, realistic, no text, no logos"
+ },
+ "home-ducted": {
+  "aspect": "4x3",
+  "alt": "Ceiling vent of a ducted heat pump in a modern home",
+  "prompt": "Interior photograph of a modern open plan New Zealand home with slim white ceiling vents from a ducted heat pump system, high stud ceiling, neutral decor, soft natural light, no visible wall units, no text"
+ },
+ "home-outdoor": {
+  "aspect": "16x9",
+  "alt": "Heat pump outdoor unit beside a house on a frosty morning",
+  "prompt": "Photograph of a heat pump outdoor unit on raised feet beside a New Zealand weatherboard house on a frosty Canterbury winter morning, frost on the lawn, blue sky, clean installation with tidy pipe cover, realistic, no text, no logos"
+ },
+ "repair-hero": {
+  "aspect": "4x3",
+  "alt": "Technician diagnosing a fault on a wall-mounted heat pump",
+  "prompt": "Photograph of a heat pump technician standing on a small step ladder diagnosing a wall-mounted split system indoor unit with the front cover open, multimeter in hand, bright New Zealand living room, realistic, no text, no logos"
+ },
+ "repair-outdoor": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit with its service panel removed",
+  "prompt": "Close-up photograph of a heat pump outdoor unit with the side service panel removed showing wiring and the compressor area, technician's gloved hands, overcast daylight, realistic, no text, no logos"
+ },
+ "repair-drain": {
+  "aspect": "4x3",
+  "alt": "Water dripping from a heat pump indoor unit onto a towel",
+  "prompt": "Photograph of a wall-mounted heat pump indoor unit with water dripping from underneath onto a folded towel on a timber floor, domestic setting, soft light, realistic, no text, no logos"
+ },
+ "boundary-hero": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit near a fence line between two houses",
+  "prompt": "Photograph of a heat pump outdoor unit installed beside a house close to a timber boundary fence with the neighbouring house visible, Christchurch suburb, overcast daylight, realistic, no text, no logos"
+ },
+ "boundary-screen": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit behind a slatted timber screen",
+  "prompt": "Photograph of a heat pump outdoor unit partly hidden behind a slatted cedar timber screen with an open gap for airflow, tidy garden bed, New Zealand home, daylight, realistic, no text"
+ },
+ "boundary-bracket": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit on rubber anti-vibration feet",
+  "prompt": "Close-up photograph of a heat pump outdoor unit standing on black rubber anti-vibration feet on a concrete pad, weatherboard wall behind, daylight, realistic, no text, no logos"
+ },
+ "rolleston-hero": {
+  "aspect": "4x3",
+  "alt": "New homes on a street in Rolleston, Canterbury",
+  "prompt": "Photograph of a quiet street of new single-storey brick and weatherboard homes in a growing Canterbury town like Rolleston, young street trees, wide footpaths, flat land, distant Southern Alps on a clear winter day, realistic, no people, no text, no signs"
+ },
+ "rolleston-newbuild": {
+  "aspect": "4x3",
+  "alt": "Heat pump outdoor unit beside a new brick home",
+  "prompt": "Photograph of a heat pump outdoor unit neatly installed on a concrete pad beside a new brick veneer home in a Canterbury subdivision, fresh lawn, clear winter day, realistic, no text, no logos"
+ },
+ "rolleston-living": {
+  "aspect": "4x3",
+  "alt": "Open plan living area of a new Canterbury home with a heat pump",
+  "prompt": "Interior photograph of an open plan kitchen and living area in a new Canterbury home, white wall-mounted heat pump above a sliding door, oak floors, winter sunlight, no people, no text"
+ },
+ "home-van": {
+  "aspect": "4x3",
+  "alt": "Work van parked on a quiet Christchurch street",
+  "prompt": "Photograph of an unbranded white work van parked on a quiet leafy Christchurch suburban street outside a weatherboard bungalow, soft overcast light, realistic, no people, no text, no logos"
+ }
+}

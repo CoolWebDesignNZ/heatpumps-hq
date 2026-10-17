@@ -1,0 +1,49 @@
+---
+import site from '../data/site.json';
+import urls from '../data/urls.json';
+const pick = (t) => urls.filter((u) => u.type === t).slice(0, 8);
+const label = (slug) => slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+---
+<footer class="ftr">
+  <div class="wrap grid grid-3">
+    <div>
+      <p class="f-name">{site.name}</p>
+      <p>Heat pump installation, servicing and repair across {site.area}. Locally owned since {site.founded}.</p>
+      <p><a href={site.phoneHref}>{site.phone}</a><br /><a href={`mailto:${site.email}`}>{site.email}</a></p>
+      <p>{site.hours[0].days}, {site.hours[0].label}</p>
+    </div>
+    <div>
+      <p class="f-head">Services</p>
+      <ul>
+        <li><a href="/heat-pump-installation-in-christchurch/">Heat pump installation</a></li>
+        <li><a href="/maintenance-servicing/">Servicing</a></li>
+        <li><a href="/heat-pump-repair/">Repairs</a></li>
+        <li><a href="/ducted-heat-pumps-christchurch/">Ducted heat pumps</a></li>
+        <li><a href="/air-conditioning-installation-christchurch/">Air conditioning</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="f-head">Areas</p>
+      <ul>
+        {pick('suburb').map((u) => <li><a href={u.path}>{label(u.slug)}</a></li>)}
+        <li><a href="/locations/">All locations</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap legal">
+    <span>© {new Date().getFullYear()} {site.name}, Christchurch</span>
+    <a href="/terms-and-conditions/">Terms</a>
+    <a href="/privacy-policy/">Privacy</a>
+    <a href={site.facebook} rel="noopener">Facebook</a>
+  </div>
+</footer>
+<style>
+  .ftr { background: var(--paper-warm); padding: 72px 0 32px; }
+  .ftr ul { list-style: none; padding: 0; }
+  .ftr li { margin-bottom: 6px; }
+  .ftr a { color: var(--ink); text-decoration: none; }
+  .ftr a:hover { color: var(--brand); }
+  .f-name { font-weight: 800; font-size: 1.3rem; }
+  .f-head { font-weight: 700; }
+  .legal { display: flex; gap: 24px; flex-wrap: wrap; padding-top: 32px; color: var(--ink-soft); }
+</style>

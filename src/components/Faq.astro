@@ -1,0 +1,11 @@
+---
+// FAQs are plain visible text: no accordions.
+interface Props { items: { q: string; a: string }[] }
+const { items } = Astro.props;
+---
+<section class="section warm">
+  <div class="wrap faq"><div class="prose">
+    <h2>Questions people ask</h2>
+    {items.map((f) => (<><h3>{f.q}</h3><p set:html={f.a} /></>))}
+  </div></div>
+</section>

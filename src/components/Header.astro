@@ -1,0 +1,22 @@
+---
+import site from '../data/site.json';
+---
+<header class="hdr">
+  <div class="wrap hdr-in">
+    <a href="/" class="logo">{site.name}</a>
+    <nav aria-label="Main">
+      {site.nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    </nav>
+    <a class="btn btn-primary call" href={site.phoneHref}>{site.phone}</a>
+  </div>
+</header>
+<style>
+  .hdr { background: #fff; position: sticky; top: 0; z-index: 10; box-shadow: 0 1px 0 rgba(0,0,0,.06); }
+  .hdr-in { display: flex; align-items: center; gap: 32px; min-height: 76px; }
+  .logo { font-weight: 800; font-size: 1.3rem; color: var(--ink); text-decoration: none; letter-spacing: -0.02em; }
+  nav { display: flex; gap: 26px; margin-left: auto; }
+  nav a { color: var(--ink); text-decoration: none; font-weight: 550; }
+  nav a:hover { color: var(--brand); }
+  .call { padding: 12px 22px; }
+  @media (max-width: 980px) { nav { display: none; } .call { margin-left: auto; } }
+</style>

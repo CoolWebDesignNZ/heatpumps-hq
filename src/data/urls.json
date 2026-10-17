@@ -1,0 +1,667 @@
+[
+ {
+  "path": "/smart-heat-pump-systems/",
+  "slug": "smart-heat-pump-systems",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-efficiency-upgrades/",
+  "slug": "heat-pump-efficiency-upgrades",
+  "type": "service"
+ },
+ {
+  "path": "/energy-efficiency-assessment/",
+  "slug": "energy-efficiency-assessment",
+  "type": "service"
+ },
+ {
+  "path": "/cold-climate-heat-pumps/",
+  "slug": "cold-climate-heat-pumps",
+  "type": "guide"
+ },
+ {
+  "path": "/low-temperature-heat-pumps/",
+  "slug": "low-temperature-heat-pumps",
+  "type": "guide"
+ },
+ {
+  "path": "/allergy-asthma-solutions-heat-pumps/",
+  "slug": "allergy-asthma-solutions-heat-pumps",
+  "type": "guide"
+ },
+ {
+  "path": "/air-quality-testing/",
+  "slug": "air-quality-testing",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-carbon-footprint-analysis/",
+  "slug": "heat-pump-carbon-footprint-analysis",
+  "type": "guide"
+ },
+ {
+  "path": "/covers/",
+  "slug": "covers",
+  "type": "service"
+ },
+ {
+  "path": "/customised-heat-pump-service-plans/",
+  "slug": "customised-heat-pump-service-plans",
+  "type": "service"
+ },
+ {
+  "path": "/winterisation-of-heat-pumps/",
+  "slug": "winterisation-of-heat-pumps",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-seasonal-tune-ups/",
+  "slug": "heat-pump-seasonal-tune-ups",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-servicing/",
+  "slug": "heat-pump-servicing",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-cleaning/",
+  "slug": "heat-pump-cleaning",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-parts-replacement/",
+  "slug": "heat-pump-parts-replacement",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-troubleshooting/",
+  "slug": "heat-pump-troubleshooting",
+  "type": "service"
+ },
+ {
+  "path": "/remote-monitoring-and-diagnostics/",
+  "slug": "remote-monitoring-and-diagnostics",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-deodorising/",
+  "slug": "heat-pump-deodorising",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-dehumidification/",
+  "slug": "heat-pump-dehumidification",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-brands-comparison/",
+  "slug": "heat-pump-brands-comparison",
+  "type": "guide"
+ },
+ {
+  "path": "/how-heat-pumps-work/",
+  "slug": "how-heat-pumps-work",
+  "type": "guide"
+ },
+ {
+  "path": "/choosing-heat-pump/",
+  "slug": "choosing-heat-pump",
+  "type": "guide"
+ },
+ {
+  "path": "/compliance-building-codes/",
+  "slug": "compliance-building-codes",
+  "type": "guide"
+ },
+ {
+  "path": "/emergency-heat-pump-repair/",
+  "slug": "emergency-heat-pump-repair",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-thermostat-calibration/",
+  "slug": "heat-pump-thermostat-calibration",
+  "type": "service"
+ },
+ {
+  "path": "/leak-detection-repair/",
+  "slug": "leak-detection-repair",
+  "type": "service"
+ },
+ {
+  "path": "/energy-star-heat-pumps/",
+  "slug": "energy-star-heat-pumps",
+  "type": "guide"
+ },
+ {
+  "path": "/energy-consumption-monitoring/",
+  "slug": "energy-consumption-monitoring",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-zoning/",
+  "slug": "heat-pump-zoning",
+  "type": "service"
+ },
+ {
+  "path": "/types-of-heat-pumps/",
+  "slug": "types-of-heat-pumps",
+  "type": "guide"
+ },
+ {
+  "path": "/calculator-single-room-heat-pump/",
+  "slug": "calculator-single-room-heat-pump",
+  "type": "guide"
+ },
+ {
+  "path": "/heat-pump-sizing/",
+  "slug": "heat-pump-sizing",
+  "type": "guide"
+ },
+ {
+  "path": "/heat-pumps-hornby/",
+  "slug": "heat-pumps-hornby",
+  "type": "suburb"
+ },
+ {
+  "path": "/central-business-district-cbd/",
+  "slug": "central-business-district-cbd",
+  "type": "suburb"
+ },
+ {
+  "path": "/edgeware/",
+  "slug": "edgeware",
+  "type": "suburb"
+ },
+ {
+  "path": "/heat-pumps-addington/",
+  "slug": "heat-pumps-addington",
+  "type": "suburb"
+ },
+ {
+  "path": "/sydenham/",
+  "slug": "sydenham",
+  "type": "suburb"
+ },
+ {
+  "path": "/heat-pumps-papanui/",
+  "slug": "heat-pumps-papanui",
+  "type": "suburb"
+ },
+ {
+  "path": "/linwood/",
+  "slug": "linwood",
+  "type": "suburb"
+ },
+ {
+  "path": "/phillipstown/",
+  "slug": "phillipstown",
+  "type": "suburb"
+ },
+ {
+  "path": "/",
+  "slug": "",
+  "type": "home"
+ },
+ {
+  "path": "/privacy-policy/",
+  "slug": "privacy-policy",
+  "type": "legal"
+ },
+ {
+  "path": "/terms-and-conditions/",
+  "slug": "terms-and-conditions",
+  "type": "legal"
+ },
+ {
+  "path": "/casebrook/",
+  "slug": "casebrook",
+  "type": "suburb"
+ },
+ {
+  "path": "/mairehau/",
+  "slug": "mairehau",
+  "type": "suburb"
+ },
+ {
+  "path": "/northcote/",
+  "slug": "northcote",
+  "type": "suburb"
+ },
+ {
+  "path": "/redwood/",
+  "slug": "redwood",
+  "type": "suburb"
+ },
+ {
+  "path": "/st-albans/",
+  "slug": "st-albans",
+  "type": "suburb"
+ },
+ {
+  "path": "/shirley/",
+  "slug": "shirley",
+  "type": "suburb"
+ },
+ {
+  "path": "/marshland/",
+  "slug": "marshland",
+  "type": "suburb"
+ },
+ {
+  "path": "/spencerville/",
+  "slug": "spencerville",
+  "type": "suburb"
+ },
+ {
+  "path": "/burwood/",
+  "slug": "burwood",
+  "type": "suburb"
+ },
+ {
+  "path": "/dallington/",
+  "slug": "dallington",
+  "type": "suburb"
+ },
+ {
+  "path": "/new-brighton/",
+  "slug": "new-brighton",
+  "type": "suburb"
+ },
+ {
+  "path": "/north-new-brighton/",
+  "slug": "north-new-brighton",
+  "type": "suburb"
+ },
+ {
+  "path": "/south-new-brighton/",
+  "slug": "south-new-brighton",
+  "type": "suburb"
+ },
+ {
+  "path": "/new-brighton-central/",
+  "slug": "new-brighton-central",
+  "type": "suburb"
+ },
+ {
+  "path": "/parklands/",
+  "slug": "parklands",
+  "type": "suburb"
+ },
+ {
+  "path": "/wainoni/",
+  "slug": "wainoni",
+  "type": "suburb"
+ },
+ {
+  "path": "/queenspark/",
+  "slug": "queenspark",
+  "type": "suburb"
+ },
+ {
+  "path": "/single-multi-room/",
+  "slug": "single-multi-room",
+  "type": "hub"
+ },
+ {
+  "path": "/cashmere/",
+  "slug": "cashmere",
+  "type": "suburb"
+ },
+ {
+  "path": "/cracroft/",
+  "slug": "cracroft",
+  "type": "suburb"
+ },
+ {
+  "path": "/hoon-hay/",
+  "slug": "hoon-hay",
+  "type": "suburb"
+ },
+ {
+  "path": "/hillmorton/",
+  "slug": "hillmorton",
+  "type": "suburb"
+ },
+ {
+  "path": "/somerfield/",
+  "slug": "somerfield",
+  "type": "suburb"
+ },
+ {
+  "path": "/spreydon/",
+  "slug": "spreydon",
+  "type": "suburb"
+ },
+ {
+  "path": "/westmorland/",
+  "slug": "westmorland",
+  "type": "suburb"
+ },
+ {
+  "path": "/wigram/",
+  "slug": "wigram",
+  "type": "suburb"
+ },
+ {
+  "path": "/kennedys-bush/",
+  "slug": "kennedys-bush",
+  "type": "suburb"
+ },
+ {
+  "path": "/ilam/",
+  "slug": "ilam",
+  "type": "suburb"
+ },
+ {
+  "path": "/harewood/",
+  "slug": "harewood",
+  "type": "suburb"
+ },
+ {
+  "path": "/upper-riccarton/",
+  "slug": "upper-riccarton",
+  "type": "suburb"
+ },
+ {
+  "path": "/yaldhurst/",
+  "slug": "yaldhurst",
+  "type": "suburb"
+ },
+ {
+  "path": "/russley/",
+  "slug": "russley",
+  "type": "suburb"
+ },
+ {
+  "path": "/sockburn/",
+  "slug": "sockburn",
+  "type": "suburb"
+ },
+ {
+  "path": "/templeton/",
+  "slug": "templeton",
+  "type": "suburb"
+ },
+ {
+  "path": "/heathcote-valley/",
+  "slug": "heathcote-valley",
+  "type": "suburb"
+ },
+ {
+  "path": "/mount-pleasant/",
+  "slug": "mount-pleasant",
+  "type": "suburb"
+ },
+ {
+  "path": "/redcliffs/",
+  "slug": "redcliffs",
+  "type": "suburb"
+ },
+ {
+  "path": "/sumner/",
+  "slug": "sumner",
+  "type": "suburb"
+ },
+ {
+  "path": "/ferrymead/",
+  "slug": "ferrymead",
+  "type": "suburb"
+ },
+ {
+  "path": "/clifton/",
+  "slug": "clifton",
+  "type": "suburb"
+ },
+ {
+  "path": "/moncks-bay/",
+  "slug": "moncks-bay",
+  "type": "suburb"
+ },
+ {
+  "path": "/mcleans-island/",
+  "slug": "mcleans-island",
+  "type": "suburb"
+ },
+ {
+  "path": "/lincoln/",
+  "slug": "lincoln",
+  "type": "suburb"
+ },
+ {
+  "path": "/heat-pump-installation-cost-christchurch/",
+  "slug": "heat-pump-installation-cost-christchurch",
+  "type": "guide"
+ },
+ {
+  "path": "/best-heat-pump-covers-nz/",
+  "slug": "best-heat-pump-covers-nz",
+  "type": "guide"
+ },
+ {
+  "path": "/daikin-heat-pump-service-christchurch/",
+  "slug": "daikin-heat-pump-service-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/mitsubishi-heat-pump-service-christchurch/",
+  "slug": "mitsubishi-heat-pump-service-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-problems-troubleshooting-guide/",
+  "slug": "heat-pump-problems-troubleshooting-guide",
+  "type": "guide"
+ },
+ {
+  "path": "/best-heat-pump-brands-christchurch/",
+  "slug": "best-heat-pump-brands-christchurch",
+  "type": "guide"
+ },
+ {
+  "path": "/energy-efficient/",
+  "slug": "energy-efficient",
+  "type": "guide"
+ },
+ {
+  "path": "/heat-pump-repair/",
+  "slug": "heat-pump-repair",
+  "type": "service"
+ },
+ {
+  "path": "/fujitsu-heat-pump-service-christchurch/",
+  "slug": "fujitsu-heat-pump-service-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/best-heat-pump-installers-christchurch/",
+  "slug": "best-heat-pump-installers-christchurch",
+  "type": "guide"
+ },
+ {
+  "path": "/panasonic-heat-pump-service-christchurch/",
+  "slug": "panasonic-heat-pump-service-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-noise-problems-solutions/",
+  "slug": "heat-pump-noise-problems-solutions",
+  "type": "guide"
+ },
+ {
+  "path": "/heat-pumps-riccarton/",
+  "slug": "heat-pumps-riccarton",
+  "type": "suburb"
+ },
+ {
+  "path": "/fendalton/",
+  "slug": "fendalton",
+  "type": "suburb"
+ },
+ {
+  "path": "/rolleston/",
+  "slug": "rolleston",
+  "type": "suburb"
+ },
+ {
+  "path": "/aranui/",
+  "slug": "aranui",
+  "type": "suburb"
+ },
+ {
+  "path": "/aidanfield/",
+  "slug": "aidanfield",
+  "type": "suburb"
+ },
+ {
+  "path": "/oaklands/",
+  "slug": "oaklands",
+  "type": "suburb"
+ },
+ {
+  "path": "/lyttelton/",
+  "slug": "lyttelton",
+  "type": "suburb"
+ },
+ {
+  "path": "/prebbleton/",
+  "slug": "prebbleton",
+  "type": "suburb"
+ },
+ {
+  "path": "/tai-tapu/",
+  "slug": "tai-tapu",
+  "type": "suburb"
+ },
+ {
+  "path": "/halswell/",
+  "slug": "halswell",
+  "type": "suburb"
+ },
+ {
+  "path": "/avonhead/",
+  "slug": "avonhead",
+  "type": "suburb"
+ },
+ {
+  "path": "/beckenham/",
+  "slug": "beckenham",
+  "type": "suburb"
+ },
+ {
+  "path": "/belfast/",
+  "slug": "belfast",
+  "type": "suburb"
+ },
+ {
+  "path": "/bexley/",
+  "slug": "bexley",
+  "type": "suburb"
+ },
+ {
+  "path": "/bottle-lake/",
+  "slug": "bottle-lake",
+  "type": "suburb"
+ },
+ {
+  "path": "/bromley/",
+  "slug": "bromley",
+  "type": "suburb"
+ },
+ {
+  "path": "/avondale/",
+  "slug": "avondale",
+  "type": "suburb"
+ },
+ {
+  "path": "/brooklands/",
+  "slug": "brooklands",
+  "type": "suburb"
+ },
+ {
+  "path": "/bryndwr/",
+  "slug": "bryndwr",
+  "type": "suburb"
+ },
+ {
+  "path": "/burnside/",
+  "slug": "burnside",
+  "type": "suburb"
+ },
+ {
+  "path": "/single-room-heat-pump-installation/",
+  "slug": "single-room-heat-pump-installation",
+  "type": "service"
+ },
+ {
+  "path": "/maintenance-servicing/",
+  "slug": "maintenance-servicing",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-services/",
+  "slug": "heat-pump-services",
+  "type": "hub"
+ },
+ {
+  "path": "/multi-room-heat-pump-installation/",
+  "slug": "multi-room-heat-pump-installation",
+  "type": "service"
+ },
+ {
+  "path": "/air-conditioning-installation-christchurch/",
+  "slug": "air-conditioning-installation-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-installation-in-christchurch/",
+  "slug": "heat-pump-installation-in-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/ducted-vs-split-heat-pumps-christchurch/",
+  "slug": "ducted-vs-split-heat-pumps-christchurch",
+  "type": "guide"
+ },
+ {
+  "path": "/ducted-heat-pump-cost-christchurch/",
+  "slug": "ducted-heat-pump-cost-christchurch",
+  "type": "guide"
+ },
+ {
+  "path": "/daikin-ducted-heat-pumps-christchurch/",
+  "slug": "daikin-ducted-heat-pumps-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/mitsubishi-ducted-heat-pumps-christchurch/",
+  "slug": "mitsubishi-ducted-heat-pumps-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/ducted-heat-pumps-christchurch/",
+  "slug": "ducted-heat-pumps-christchurch",
+  "type": "service"
+ },
+ {
+  "path": "/heat-pump-boundary-rules-consent-nz/",
+  "slug": "heat-pump-boundary-rules-consent-nz",
+  "type": "guide"
+ },
+ {
+  "path": "/about-us/",
+  "slug": "about-us",
+  "type": "about"
+ },
+ {
+  "path": "/locations/",
+  "slug": "locations",
+  "type": "hub"
+ },
+ {
+  "path": "/contact-us/",
+  "slug": "contact-us",
+  "type": "contact"
+ }
+]

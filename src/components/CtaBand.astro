@@ -1,0 +1,18 @@
+---
+import site from '../data/site.json';
+interface Props { heading?: string }
+const { heading = 'Talk to Nate about your heat pump' } = Astro.props;
+---
+<section class="section tint">
+  <div class="wrap cta">
+    <h2>{heading}</h2>
+    <p class="lead">Free quotes, straight answers and a time that suits you.</p>
+    <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
+    <a class="btn btn-ghost" href="/contact-us/">Request a call back</a>
+  </div>
+</section>
+<style>
+  .cta { text-align: center; }
+  .cta .lead { margin: 0 auto 1.6em; }
+  .cta .btn { margin: 6px; }
+</style>

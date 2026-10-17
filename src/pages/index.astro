@@ -1,0 +1,143 @@
+---
+import Base from '../layouts/Base.astro';
+import Img from '../components/Img.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import Faq from '../components/Faq.astro';
+import CtaBand from '../components/CtaBand.astro';
+import site from '../data/site.json';
+import urls from '../data/urls.json';
+
+const suburbs = urls.filter((u) => u.type === 'suburb')
+  .map((u) => ({ href: u.path, name: u.slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()).replace('Central Business District Cbd', 'Central City') }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const services = [
+  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Single room, multi-room and floor console systems, sized for your house and installed tidy.' },
+  { img: 'home-service', h: 'Servicing', href: '/maintenance-servicing/', p: 'A yearly clean and check keeps it efficient, quiet and fresh smelling, and catches faults early.' },
+  { img: 'home-repair', h: 'Repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code. Fault finding on all the major brands.' },
+  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room and nothing on the walls. Best planned early in a build.' },
+];
+
+const guides = [
+  { h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'Noise limits, consent and where to put the outdoor unit.' },
+  { h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How kW ratings work and how to size a room properly.' },
+  { h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What goes into the price of a heat pump install.' },
+  { h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How the main brands compare for Christchurch homes.' },
+  { h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud and how to fix it.' },
+  { h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which type suits your house and budget.' },
+];
+
+const faqs = [
+  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic, plus most other brands sold in New Zealand.' },
+  { q: 'What areas do you cover?', a: 'All of Christchurch, Selwyn towns including Rolleston, Lincoln and Prebbleton, and Lyttelton. See the <a href="/locations/">full list of locations</a>.' },
+  { q: 'Do I need consent for a heat pump?', a: 'Usually not. In Christchurch the District Plan controls heat pumps through noise at the neighbour\'s property rather than a set distance from the boundary. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.' },
+  { q: 'How often should a heat pump be serviced?', a: 'Once a year for most homes, ideally before winter. Clean the filters yourself every few weeks while it\'s running a lot.' },
+  { q: 'Are you insured?', a: 'Yes. Heat Pumps HQ is fully insured, and every installation comes with warranties on parts and labour.' },
+];
+---
+<Base
+  title="Heat Pumps Christchurch | Installation, Servicing & Repair | Heat Pumps HQ"
+  description="Heat pump installation, servicing and repair across Christchurch, Selwyn and Lyttelton. Locally owned by Nate Thompson since 2015. Free quotes, call 03 242 1023."
+  image="home-hero">
+
+  <section class="hero">
+    <Img id="home-hero" eager class="hero-img" />
+    <div class="wrap hero-in">
+      <div class="hero-card">
+        <h1>Heat pumps in Christchurch, installed and looked after properly</h1>
+        <p class="lead">Installation, servicing and repairs from Nate Thompson and the Heat Pumps HQ team. Locally owned since {site.founded}.</p>
+        <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
+        <a class="btn btn-ghost" href="/contact-us/">Get a free quote</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>What we do</h2>
+      <p class="lead">Everything a heat pump needs, from choosing the right one to keeping it running for years.</p>
+      <div class="grid grid-2 svc">
+        {services.map((s) => (
+          <a class="card" href={s.href}><Img id={s.img} /><div class="card-body"><h3>{s.h}</h3><p>{s.p}</p></div></a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section warm">
+    <div class="wrap split">
+      <Img id="home-van" />
+      <div class="prose">
+        <h2>The right heat pump, not the biggest one</h2>
+        <p>Nate started Heat Pumps HQ in {site.founded} after years at a larger heating company, watching people get sold systems bigger and dearer than their homes needed.</p>
+        <p>So every quote starts with your house: the rooms, the insulation, the windows and how you actually live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair instead of a replacement. Either way you'll get a straight answer and a fixed price before any work starts.</p>
+        <p>We install <strong>{site.brandsInstalled.join(', ')}</strong>, and service and repair those and Panasonic.</p>
+        <a href="/about-us/">More about Heat Pumps HQ</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap split">
+      <div class="prose">
+        <h2>Made for Canterbury winters</h2>
+        <p>Christchurch winters bring clear, frosty nights and cold mornings, especially out on the plains. A heat pump has to keep working when it's coldest outside, and the outdoor unit has to defrost without fuss.</p>
+        <p>That comes down to sizing and placement. A correctly sized unit runs steadily rather than flat out, which keeps it quieter and cheaper to run. The outdoor unit goes on raised feet or a bracket, clear of corners, where defrost water drains away and the neighbours won't hear it.</p>
+        <p>Not sure what size you need? Start with our <a href="/heat-pump-sizing/">heat pump sizing guide</a>.</p>
+      </div>
+      <Img id="home-outdoor" />
+    </div>
+  </section>
+
+  <section class="section warm">
+    <div class="wrap split quote-row">
+      <div class="prose">
+        <h2>Get a free quote</h2>
+        <p>Tell us what you need and where you are. Nate will call you back to talk it through and book a time to look at the house.</p>
+        <p>Prefer to talk now? Call <a href={site.phoneHref}>{site.phone}</a>, {site.hours[0].days.toLowerCase()}, {site.hours[0].label}.</p>
+      </div>
+      <QuoteForm />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Guides</h2>
+      <p class="lead">Plain answers to the questions people ask before they buy.</p>
+      <div class="grid grid-3">
+        {guides.map((g) => <a class="card" href={g.href}><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section warm">
+    <div class="wrap">
+      <h2>Areas we cover</h2>
+      <p class="lead">All of Christchurch, plus Selwyn and Lyttelton.</p>
+      <ul class="areas">{suburbs.map((s) => <li><a href={s.href}>{s.name}</a></li>)}</ul>
+    </div>
+  </section>
+
+  <Faq items={faqs} />
+  <CtaBand />
+</Base>
+<style>
+  .hero { position: relative; }
+  .hero :global(.hero-img) { width: 100%; height: 680px; object-fit: cover; border-radius: 0; aspect-ratio: auto !important; }
+  .hero-in { position: absolute; inset: 0; display: flex; align-items: flex-end; padding-bottom: 56px; }
+  .hero-card { background: #fff; border-radius: var(--radius); padding: 40px 44px; max-width: 640px; box-shadow: var(--shadow); }
+  .hero-card .btn { margin: 6px 8px 0 0; }
+  @media (max-width: 760px) {
+    .hero-in { position: static; padding: 0 16px; margin-top: -60px; }
+    .hero :global(.hero-img) { height: 44vh; }
+    .hero-card { padding: 28px 24px; }
+  }
+  .svc { grid-template-columns: repeat(2, 1fr); }
+  @media (max-width: 760px) { .svc { grid-template-columns: 1fr; } }
+  .svc :global(img), .svc :global(.pending) { border-radius: 0; }
+  .areas { columns: 4 200px; list-style: none; padding: 0; }
+  .areas li { margin-bottom: 8px; }
+  .areas a { color: var(--ink); text-decoration: none; }
+  .areas a:hover { color: var(--brand); }
+  .quote-row { align-items: start; }
+</style>

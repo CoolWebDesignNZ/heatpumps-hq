@@ -1,0 +1,22 @@
+---
+// Renders an image from the Ideogram manifest. Until `npm run images` has
+// generated the file, a neutral block of the same shape stands in.
+import fs from 'node:fs';
+import images from '../data/images.json';
+interface Props { id: string; eager?: boolean; class?: string }
+const { id, eager = false, class: cls = '' } = Astro.props;
+const meta = images[id];
+if (!meta) throw new Error(`Image "${id}" is missing from src/data/images.json`);
+const [w, h] = meta.aspect.split('x').map(Number);
+const file = `/images/${id}.jpg`;
+const exists = fs.existsSync(`public${file}`);
+---
+{exists ? (
+  <img src={file} alt={meta.alt} width={w * 100} height={h * 100}
+       loading={eager ? 'eager' : 'lazy'} decoding="async" class={`rounded ${cls}`} />
+) : (
+  <div class={`rounded pending ${cls}`} style={`aspect-ratio:${w}/${h}`} role="img" aria-label={meta.alt}></div>
+)}
+<style>
+  .pending { background: linear-gradient(135deg, #e9ecef, #dde3e8); }
+</style>
