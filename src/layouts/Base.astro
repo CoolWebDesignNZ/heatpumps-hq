@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import site from '../data/site.json';
 interface Props { title: string; description: string; schema?: object[]; image?: string }
 const { title, description, schema = [], image } = Astro.props;
+const fullTitle = `${title} | ${site.name}`;
 const canonical = new URL(Astro.url.pathname, site.domain).href;
 const business = {
   '@context': 'https://schema.org',
@@ -31,11 +32,11 @@ const graph = [business, ...schema];
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{title}</title>
+  <title>{fullTitle}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content={title} />
+  <meta property="og:title" content={fullTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonical} />
   {image && <meta property="og:image" content={new URL(`/images/${image}.jpg`, site.domain).href} />}

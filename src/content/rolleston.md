@@ -1,6 +1,6 @@
 ---
-title: Heat Pump Installation Rolleston | Mitsubishi & Daikin
-description: "New build or older home in Rolleston? See which heat pump suits Selwyn frosts, how Mitsubishi and Daikin compare, and how to get a fixed-price quote."
+title: "Heat Pump Installation Rolleston"
+description: "Heat pump installation, servicing and repairs in Rolleston. Mitsubishi, Daikin, Fujitsu and Toshiba systems sized for Selwyn frosts. Free fixed-price quotes."
 h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston

@@ -16,9 +16,9 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 
 ## SEO per page
 - Every page targets its own keywords from DataForSEO (NZ, en) plus the Search Console export. Record them in the page frontmatter as `keyword` and `secondary`.
-- Title: main keyword first, 60 characters or fewer, unique.
+- Title: main keyword first, unique. The layout adds " | Heat Pumps HQ" to every page, so the frontmatter title is 44 characters or fewer (60 in total).
 - H1: contains the main keyword, written as a heading a person would say.
-- Meta description: unique, 120 to 158 characters, does not repeat the title. Say what the page answers and give a reason to click. No phone numbers, no brand-name stuffing.
+- Meta description: unique, 120 to 158 characters, does not repeat the title. Lead with the searcher's problem or the main keyword, say exactly what the page gives them, and end with a concrete reason to click (fixed-price quote, the actual limits, all brands). Every description different. No phone numbers, no brand-name stuffing.
 
 ## Design
 - No icons, no coloured borders, no dark section backgrounds (dark only as an overlay on hero photos), body text 18px or larger, Inter, lots of photos.
