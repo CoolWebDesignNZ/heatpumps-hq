@@ -4,27 +4,39 @@
 // Usage: npm run images            (all missing)
 //        npm run images -- home-hero (one id, regenerates it)
 import fs from 'node:fs';
+import sharp from 'sharp';
 
 const key = process.env.IDEOGRAM_API_KEY;
 const images = JSON.parse(fs.readFileSync('src/data/images.json', 'utf8'));
 const only = process.argv[2];
 const ids = only ? [only] : Object.keys(images).filter((id) => !fs.existsSync(`public/images/${id}.jpg`));
 
-for (const id of ids) {
-  const { prompt, aspect } = images[id];
+// Ideogram 4.5 with magic prompt on. 2K presets: 16x9 heroes, 4x3 gallery.
+const sizes = { '16x9': '2560x1440', '4x3': '2304x1728' };
+// Real installs are hardwired; magic prompt otherwise tends to add a power cord.
+const tidy = ' Installed neatly: no power cord, plug or loose cables on any heat pump unit.';
+async function generate(id) {
+  const { prompt: base, aspect } = images[id];
+  const prompt = base + tidy;
   const form = new FormData();
   form.append('prompt', prompt);
-  form.append('aspect_ratio', aspect);
-  form.append('rendering_speed', 'QUALITY');
-  form.append('style_type', 'REALISTIC');
-  form.append('magic_prompt', 'OFF');
-  form.append('negative_prompt', 'text, words, letters, logos, watermark, signage, cartoon, illustration, 3d render');
-  const res = await fetch('https://api.ideogram.ai/v1/ideogram-v3/generate', {
+  form.append('magic_prompt', 'on');
+  form.append('size', sizes[aspect] ?? 'auto');
+  form.append('quality', 'high');
+  const res = await fetch('https://api.ideogram.ai/v2/image/generate/ideogram-4-5', {
     method: 'POST', headers: key ? { 'Api-Key': key } : {}, body: form,
   });
-  if (!res.ok) { console.error(`${id}: ${res.status} ${await res.text()}`); continue; }
+  if (!res.ok) { console.error(`${id}: ${res.status} ${await res.text()}`); return; }
   const url = (await res.json()).data?.[0]?.url;
+  if (!url) { console.error(`${id}: no image returned (safety check?)`); return; }
   const img = await fetch(url);
-  fs.writeFileSync(`public/images/${id}.jpg`, Buffer.from(await img.arrayBuffer()));
+  // Ideogram returns a large PNG; save a web-sized JPEG.
+  await sharp(Buffer.from(await img.arrayBuffer()))
+    .resize({ width: aspect === '16x9' ? 1920 : 1200 })
+    .jpeg({ quality: 80, mozjpeg: true })
+    .toFile(`public/images/${id}.jpg`);
   console.log(`${id}: saved`);
 }
+// Four at a time.
+const queue = [...ids];
+await Promise.all(Array.from({ length: 4 }, async () => { while (queue.length) { const id = queue.shift(); try { await generate(id); } catch (e) { console.error(`${id}: ${e.message}`); } } }));
