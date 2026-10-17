@@ -1,0 +1,57 @@
+---
+// Full-bleed photo hero with the quote form on the right, used on every page.
+import Img from './Img.astro';
+import QuoteForm from './QuoteForm.astro';
+import site from '../data/site.json';
+interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string }
+const { image, h1, intro, suburb = '', meta } = Astro.props;
+---
+<section class="hero">
+  <Img id={image} eager class="hero-bg" />
+  <div class="hero-shade"></div>
+  <div class="wrap hero-in">
+    <div class="hero-copy">
+      <slot name="crumbs" />
+      <h1>{h1}</h1>
+      <p class="hero-lead">{intro}</p>
+      <div class="hero-btns">
+        <a class="btn btn-primary" href="#quote">Get a free quote</a>
+        <a class="btn btn-glass" href={site.phoneHref}>Call {site.phone}</a>
+      </div>
+      {meta && <p class="hero-meta">{meta}</p>}
+    </div>
+    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>
+  </div>
+</section>
+<section class="trust">
+  <div class="wrap trust-in">
+    <span>Locally owned since {site.founded}</span>
+    <span>All major brands</span>
+    <span>Free, honest quotes</span>
+    <span>Fully insured</span>
+  </div>
+</section>
+<style>
+  .hero { position: relative; isolation: isolate; color: #fff; }
+  .hero :global(.hero-bg) { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 0; aspect-ratio: auto !important; z-index: -2; }
+  .hero-shade { position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, rgba(12, 22, 34, .82) 0%, rgba(12, 22, 34, .62) 48%, rgba(12, 22, 34, .18) 100%); }
+  .hero-in { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 440px); gap: 64px; align-items: center; padding-top: 88px; padding-bottom: 88px; min-height: 640px; }
+  .hero h1 { color: #fff; font-size: clamp(2.4rem, 5vw, 4rem); }
+  .hero-lead { font-size: 1.25rem; color: rgba(255, 255, 255, .9); margin-bottom: 1.6em; }
+  .hero-btns { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn-glass { background: rgba(255, 255, 255, .16); color: #fff; backdrop-filter: blur(4px); }
+  .btn-glass:hover { background: rgba(255, 255, 255, .26); }
+  .hero-meta { margin-top: 1.4em; color: rgba(255, 255, 255, .8); }
+  .hero :global(.crumbs-hero) { margin-bottom: 1.2em; color: rgba(255, 255, 255, .8); }
+  .hero :global(.crumbs-hero a) { color: rgba(255, 255, 255, .8); }
+  .hero-form { color: var(--ink); }
+  .trust { background: var(--paper-warm); }
+  .trust-in { display: grid; grid-template-columns: repeat(4, 1fr); text-align: center; font-weight: 650; font-size: 1.1rem; }
+  .trust-in span { padding: 26px 12px; }
+  @media (max-width: 960px) {
+    .hero-in { grid-template-columns: 1fr; gap: 40px; padding-top: 56px; padding-bottom: 56px; min-height: 0; }
+    .hero-shade { background: rgba(12, 22, 34, .7); }
+    .trust-in { grid-template-columns: 1fr 1fr; }
+    .trust-in span { padding: 16px 8px; }
+  }
+</style>

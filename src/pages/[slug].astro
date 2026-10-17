@@ -4,7 +4,7 @@
 // the old site.
 import Base from '../layouts/Base.astro';
 import Img from '../components/Img.astro';
-import QuoteForm from '../components/QuoteForm.astro';
+import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import site from '../data/site.json';
@@ -66,26 +66,14 @@ if (fm.faqs?.length) {
 }
 ---
 <Base title={fm.title} description={fm.description} schema={schema} image={fm.hero}>
-  <div class="wrap crumbs">
-    <a href="/">Home</a>
-    {crumbParent && <> / <a href={crumbParent.href}>{crumbParent.label}</a></>}
-  </div>
-  <section class="section hero-sec">
-    <div class="wrap split">
-      <div>
-        <h1>{fm.h1}</h1>
-        <p class="lead">{fm.intro}</p>
-        <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
-        {type === 'guide' && fm.updated && <p class="updated">Updated {new Date(fm.updated).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' })}</p>}
-      </div>
-      <Img id={fm.hero} eager />
-    </div>
-  </section>
+  <Hero image={fm.hero} h1={fm.h1} intro={fm.intro} suburb={fm.suburb ?? ''}
+        meta={type === 'guide' && fm.updated ? `Updated ${new Date(fm.updated).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' })}` : undefined}>
+    <nav slot="crumbs" class="crumbs-hero" aria-label="Breadcrumb">
+      <a href="/">Home</a>{crumbParent && <> / <a href={crumbParent.href}>{crumbParent.label}</a></>}
+    </nav>
+  </Hero>
   <section class="section">
-    <div class="wrap body-grid">
-      <article class="prose"><Content /></article>
-      {type !== 'guide' && <aside><QuoteForm suburb={fm.suburb ?? ''} /></aside>}
-    </div>
+    <div class="wrap"><article class="prose"><Content /></article></div>
   </section>
   {fm.gallery?.length && (
     <section class="section warm">
@@ -107,11 +95,3 @@ if (fm.faqs?.length) {
   )}
   <CtaBand />
 </Base>
-<style>
-  .hero-sec { padding-top: 32px; }
-  .updated { color: var(--ink-soft); margin-top: 1.2em; }
-  .body-grid { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 64px; align-items: start; }
-  .body-grid aside { position: sticky; top: 100px; }
-  .body-grid:has(> :only-child) { grid-template-columns: 1fr; }
-  @media (max-width: 960px) { .body-grid { grid-template-columns: 1fr; } .body-grid aside { position: static; } }
-</style>

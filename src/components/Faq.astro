@@ -4,8 +4,16 @@ interface Props { items: { q: string; a: string }[] }
 const { items } = Astro.props;
 ---
 <section class="section warm">
-  <div class="wrap faq"><div class="prose">
+  <div class="wrap">
     <h2>Questions people ask</h2>
-    {items.map((f) => (<><h3>{f.q}</h3><p set:html={f.a} /></>))}
-  </div></div>
+    <div class="faq-grid">
+      {items.map((f) => (<div class="faq-item"><h3>{f.q}</h3><p set:html={f.a} /></div>))}
+    </div>
+  </div>
 </section>
+<style>
+  .faq-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 32px; }
+  .faq-item { background: #fff; border-radius: var(--radius); padding: 28px 30px; box-shadow: var(--shadow); }
+  .faq-item p { margin: 0; color: var(--ink-soft); }
+  @media (max-width: 860px) { .faq-grid { grid-template-columns: 1fr; } }
+</style>

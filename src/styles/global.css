@@ -12,7 +12,6 @@
   --radius: 14px;
   --shadow: 0 1px 2px rgba(16, 24, 32, .06), 0 8px 24px rgba(16, 24, 32, .06);
   --wrap: 1180px;
-  --measure: 70ch;
   font-family: 'Inter Variable', system-ui, sans-serif;
   font-size: 18px;
   line-height: 1.65;
@@ -32,9 +31,9 @@ p, ul, ol { margin: 0 0 1.1em; }
 .section { padding: 88px 0; }
 .section.warm { background: var(--paper-warm); }
 .section.tint { background: var(--brand-tint); }
-.lead { font-size: 1.22rem; color: var(--ink-soft); max-width: 60ch; }
-.prose { max-width: var(--measure); }
+.lead { font-size: 1.22rem; color: var(--ink-soft); }
 .prose h2 { margin-top: 1.6em; }
+.prose > :first-child { margin-top: 0; }
 .prose table { border-collapse: collapse; width: 100%; margin: 0 0 1.4em; font-size: 1rem; }
 .prose th, .prose td { text-align: left; padding: 12px 14px; background: var(--paper-warm); }
 .prose tr:nth-child(even) td { background: var(--paper); }

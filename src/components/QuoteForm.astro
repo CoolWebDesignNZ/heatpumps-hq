@@ -3,26 +3,42 @@ import site from '../data/site.json';
 interface Props { suburb?: string }
 const { suburb = '' } = Astro.props;
 ---
-<form class="qf card" method="post" action="/api/quote">
-  <div class="card-body">
-    <h3>Get a free quote</h3>
-    <p>Tell Nate what you need and he'll call you back.</p>
+<form class="qf" method="post" action="/api/quote">
+  <h2 class="qf-h">Get a free quote</h2>
+  <div class="row">
     <label>Name<input name="name" required autocomplete="name" /></label>
     <label>Phone<input name="phone" type="tel" required autocomplete="tel" /></label>
-    <label>What do you need?
-      <select name="service" required>
-        <option>Installation</option><option>Repair</option><option>Service</option>
-      </select>
-    </label>
-    <label>Suburb<input name="suburb" value={suburb} /></label>
-    <button class="btn btn-primary" type="submit">Request a call back</button>
-    <p class="alt">Or call <a href={site.phoneHref}>{site.phone}</a></p>
   </div>
+  <label>Suburb<input name="suburb" value={suburb} autocomplete="address-level2" /></label>
+  <fieldset>
+    <legend>What do you need?</legend>
+    <div class="opts">
+      {['Installation', 'Repair', 'Service'].map((o, i) => (
+        <label class="opt"><input type="radio" name="service" value={o} checked={i === 0} /><span>{o}</span></label>
+      ))}
+    </div>
+  </fieldset>
+  <label>Anything else? <span class="opt-note">(optional)</span><textarea name="message" rows="2" placeholder="Rooms to heat, or the fault you're seeing"></textarea></label>
+  <button class="btn btn-primary" type="submit">Request my quote</button>
+  <p class="qf-note">No obligation. Nate calls you back, or ring <a href={site.phoneHref}>{site.phone}</a>.</p>
 </form>
 <style>
-  .qf label { display: block; font-weight: 600; margin-top: 16px; }
-  .qf input, .qf select { display: block; width: 100%; margin-top: 6px; padding: 14px 16px; font: inherit; border: 0; border-radius: 10px; background: var(--paper-warm); }
-  .qf input:focus, .qf select:focus { outline: 2px solid var(--brand); }
-  .qf button { width: 100%; margin-top: 24px; border: 0; cursor: pointer; }
-  .qf .alt { margin-top: 16px; text-align: center; }
+  .qf { background: #fff; border-radius: var(--radius); box-shadow: 0 20px 50px rgba(0, 0, 0, .22); padding: 30px 30px 24px; color: var(--ink); }
+  .qf-h { font-size: 1.45rem; margin-bottom: .6em; }
+  .qf label { display: block; font-weight: 600; font-size: 1rem; margin-top: 14px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .row label { margin-top: 0; }
+  .qf input:not([type=radio]), .qf textarea { display: block; width: 100%; margin-top: 6px; padding: 13px 14px; font: inherit; border: 0; border-radius: 10px; background: var(--paper-warm); }
+  .qf input:focus, .qf textarea:focus { outline: 2px solid var(--brand); }
+  fieldset { border: 0; padding: 0; margin: 14px 0 0; }
+  legend { font-weight: 600; font-size: 1rem; padding: 0; }
+  .opts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 6px; }
+  .qf .opt { margin: 0; }
+  .opt input { position: absolute; opacity: 0; }
+  .opt span { display: block; text-align: center; padding: 12px 6px; border-radius: 10px; background: var(--paper-warm); font-weight: 600; cursor: pointer; }
+  .opt input:checked + span { background: var(--brand); color: #fff; }
+  .opt input:focus-visible + span { outline: 2px solid var(--brand-ink); }
+  .opt-note { font-weight: 400; color: var(--ink-soft); }
+  .qf button { width: 100%; margin-top: 20px; border: 0; cursor: pointer; }
+  .qf-note { font-size: 1rem; color: var(--ink-soft); margin: 14px 0 0; text-align: center; }
 </style>
