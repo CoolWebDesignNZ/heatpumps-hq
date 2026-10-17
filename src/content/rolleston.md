@@ -1,7 +1,7 @@
 ---
-title: Heat Pumps Rolleston | Installation, Servicing & Repair | Heat Pumps HQ
-description: Heat pump installation, servicing and repair in Rolleston. Ducted and wall-mounted systems sized for new Selwyn homes and Canterbury frosts. Free quotes from Nate, call 03 242 1023.
-h1: Heat pumps in Rolleston
+title: Heat Pump Installation Rolleston | Mitsubishi & Daikin
+description: Heat pump installation, servicing and repairs in Rolleston, including Mitsubishi Electric and Daikin. Ducted and wall-mounted systems sized for new Selwyn homes and Canterbury frosts. Free quotes from Nate, call 03 242 1023.
+h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston
 suburb: Rolleston
@@ -37,7 +37,11 @@ Clear winter nights on the plains bring hard frosts, and that's when a heat pump
 
 - **New installations.** Wall-mounted, floor console, multi-room and [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing.** Filter and coil cleans, drain checks and a full performance check. See [heat pump servicing](/maintenance-servicing/).
-- **Repairs.** Fault finding and repairs on all the major brands. See [heat pump repair](/heat-pump-repair/).
+- **Repairs.** Fault finding and repairs on all the major brands. See [heat pump repairs](/heat-pump-repair/).
+
+## Mitsubishi heat pumps in Rolleston
+
+Mitsubishi Electric is one of the brands we install most often in Rolleston, and we service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install, and we'll show you how they compare for your house. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
 - **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
 ## Nearby areas
