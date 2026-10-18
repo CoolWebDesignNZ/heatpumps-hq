@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in South New Brighton
 serviceName: Heat pump installation, servicing and repair
 areaServed: South New Brighton
 suburb: South New Brighton
-intro: We fit, service and fix heat pumps in South New Brighton, on the strip between the estuary and the beach. You'll have a fixed price in hand before we begin.
+intro: We fit, service and repair heat pumps on the South New Brighton strip between the estuary and the beach, and we'll quote you a fixed price before we begin.
 hero: south-new-brighton-hero
 gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in South New Brighton"

@@ -5,7 +5,7 @@ keyword: heat pump smell
 secondary: [heat pump musty smell, heat pump smells bad, heat pump odour]
 h1: Heat pump smell, and how we get rid of it
 serviceName: Heat pump deodorising
-intro: The air from a heat pump should smell of nothing. When it doesn't, the smell usually tells you where the problem is. The fix is to get rid of the source, not cover it up.
+intro: "We get rid of heat pump smells across Christchurch by cleaning out the source, not covering it up. The smell usually tells you where the problem is."
 hero: deodorise-hero
 gallery: [deodorise-coil-mould, deodorise-drain]
 faqHeading: "Heat pump smell questions"

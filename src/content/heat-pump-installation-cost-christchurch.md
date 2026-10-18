@@ -4,7 +4,7 @@ description: "Heat pump installation cost depends on far more than the unit. See
 keyword: heat pump installation cost
 secondary: [heat pump install price, heat pump installation cost nz, heat pump prices christchurch]
 h1: What affects heat pump installation cost in Christchurch
-intro: Two heat pumps of the same model can cost quite different amounts to fit. The difference is the house. Here's what goes into the price. Then you can read a quote properly and compare them fairly.
+intro: We price every heat pump install from the house, not just the unit. Here's what moves the cost, so you can read a quote properly and compare them fairly.
 hero: instcost-hero
 updated: 2026-10-17
 gallery: [instcost-backtoback, instcost-bracket]

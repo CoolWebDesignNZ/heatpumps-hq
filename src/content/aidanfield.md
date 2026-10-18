@@ -7,7 +7,7 @@ h1: Heat pump installation for Aidanfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aidanfield
 suburb: Aidanfield
-intro: We fit, service and fix heat pumps in Aidanfield. We can add to what you've got or start fresh. Every quote is free, and the price is fixed before we start.
+intro: "We fit, service and fix heat pumps in Aidanfield, adding to the system you've got or starting fresh. The quote is free and the price is fixed."
 hero: aidanfield-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Aidanfield

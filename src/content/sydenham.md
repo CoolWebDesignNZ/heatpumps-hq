@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Sydenham
 serviceName: Heat pump installation, servicing and repair
 areaServed: Sydenham
 suburb: Sydenham
-intro: "Sydenham has done-up villas, cottages and lots of new townhouses among its shops and workshops. We fit, service and fix heat pumps in all of them. The price is fixed before we start."
+intro: "We fit, service and fix heat pumps in Sydenham's villas, cottages and townhouses. In a renovated villa, we heat the cold front rooms as well as the open plan space at the back."
 hero: sydenham-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in Sydenham"

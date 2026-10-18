@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Burwood
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burwood
 suburb: Burwood
-intro: We fit, service and fix heat pumps all over Burwood, from the newer subdivisions to the older streets. We agree the price and fix it before we start.
+intro: We fit and service heat pumps all over Burwood, in the newer subdivisions and the older streets, and we size each one from the rooms you want warm.
 hero: burwood-hero
 gallery: [pool-newbuild-living, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Burwood"

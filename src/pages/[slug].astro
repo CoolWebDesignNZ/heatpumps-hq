@@ -39,11 +39,15 @@ const url = `${site.domain}/${slug}/`;
 // sits in (Installs, Services, Guides), or Locations for suburbs. The last
 // crumb is the page's short menu label, or the suburb name.
 const path = `/${slug}/`;
-const section = Object.values(nav).find((m) => m.groups.some((g) => g.links.some(([, href]) => href === path)));
-const crumbParent = type === 'suburb' ? { label: 'Locations', href: '/locations/' }
-  : section && section.href !== path ? { label: section.label, href: section.href } : undefined;
-const crumbName = fm.suburb ?? section?.groups.flatMap((g) => g.links).find(([, href]) => href === path)?.[0]
-  ?? (type === 'hub' ? Object.values(nav).find((m) => m.href === path)?.label : undefined)
+const section = [nav.installs, nav.services, nav.guides].find((m) => m.groups.some((g) => g.links.some(([, href]) => href === path)));
+// Install pages sit under Services in the menu, so they crumb to Services.
+const parentOf = section === nav.installs ? nav.services : section;
+const isInstallHub = path === nav.installs.href;
+const crumbParent = isInstallHub ? { label: nav.services.label, href: nav.services.href }
+  : type === 'suburb' ? { label: 'Locations', href: '/locations/' }
+  : parentOf && parentOf.href !== path ? { label: parentOf.label, href: parentOf.href } : undefined;
+const crumbName = (isInstallHub ? 'Installation options' : undefined) ?? fm.suburb ?? section?.groups.flatMap((g) => g.links).find(([, href]) => href === path)?.[0]
+  ?? (type === 'hub' ? [nav.installs, nav.services, nav.guides].find((m) => m.href === path)?.label : undefined)
   ?? site.nav.find((n) => n.href === path)?.label ?? fm.title;
 const crumbs = [{ label: 'Home', href: '/' }, ...(crumbParent ? [crumbParent] : []), { label: crumbName, href: path }];
 

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Riccarton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Riccarton
 suburb: Riccarton
-intro: We fit, service and fix heat pumps all over Riccarton, at a fixed price. Old villas near Hagley Park. New townhouses. Rental flats off Riccarton Road. We do the lot.
+intro: "We fit, service and fix heat pumps all over Riccarton, from old villas near Hagley Park to rental flats off Riccarton Road. Every job gets a fixed price first."
 hero: riccarton-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: Questions about heat pumps in Riccarton

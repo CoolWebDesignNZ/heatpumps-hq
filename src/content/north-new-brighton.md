@@ -7,7 +7,7 @@ h1: Heat pump installation in North New Brighton, close to the beach
 serviceName: Heat pump installation, servicing and repair
 areaServed: North New Brighton
 suburb: North New Brighton
-intro: We fit, service and fix heat pumps in North New Brighton. Lots of homes here sit close to the dunes and cop the full sea wind. The price we quote is fixed.
+intro: We install and fix heat pumps in North New Brighton, where homes near the dunes take the full sea wind, so we site and secure outdoor units to suit.
 hero: north-new-brighton-hero
 gallery: [pool-coastal-home, pool-frost-outdoor]
 faqHeading: "North New Brighton heat pump questions"

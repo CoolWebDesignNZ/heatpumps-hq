@@ -5,7 +5,7 @@ keyword: heat pump installation christchurch
 secondary: [heat pump installation, heat pump install, heat pump installation near me]
 h1: Heat pump installation in Christchurch
 serviceName: Heat pump installation
-intro: We plan each install from your rooms, insulation and windows. We put the units where they work best and stay quiet. And we agree a fixed price before we start.
+intro: "We install heat pumps across Christchurch, planned from your rooms, insulation and windows. We put the units where they work best and stay quiet, and fix the price first."
 hero: install-hero
 gallery: [install-pipework, install-commission]
 faqHeading: Heat pump installation questions

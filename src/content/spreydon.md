@@ -7,7 +7,7 @@ h1: Heat pump installation and replacement in Spreydon
 serviceName: Heat pump installation, servicing and repair
 areaServed: Spreydon
 suburb: Spreydon
-intro: Spreydon's flat streets have mid-century bungalows, brick homes and blocks of units. We fit new heat pumps, replace tired ones and fix the ones worth keeping.
+intro: We install new heat pumps in Spreydon's bungalows, brick homes and units, replace tired ones and fix the ones worth keeping. We'll tell you which yours is.
 hero: spreydon-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Spreydon"

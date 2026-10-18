@@ -4,7 +4,7 @@ description: "Looking for an energy star heat pump? How to read the NZ Zoned Ene
 keyword: energy star heat pump
 secondary: [energy star rating, most efficient heat pump nz, heat pump energy rating nz]
 h1: Energy star heat pump ratings and the NZ energy label
-intro: "In New Zealand, the stars that matter on a heat pump are on the Zoned Energy Rating Label. Here's how to read it. We'll cover which numbers to compare, and what the stars do and don't tell you."
+intro: "We fit heat pumps from four brands and size each one to the room. Here's how to read the Zoned Energy Rating Label, and what its stars do and don't tell you."
 hero: energystar-hero
 updated: 2026-10-17
 gallery: [energystar-label, energystar-showroom]

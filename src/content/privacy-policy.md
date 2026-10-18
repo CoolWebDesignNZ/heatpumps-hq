@@ -4,7 +4,7 @@ description: "What personal information our website collects, why, who sees it a
 keyword: privacy policy
 secondary: []
 h1: Privacy policy
-intro: "This policy covers the personal information Heat Pumps HQ collects through this website. It says what we do with it, and how you can see or correct it."
+intro: "This policy covers the personal information we collect through the quote form on this website, what we do with it, and how you can see or correct it."
 hero: privacy-hero
 gallery: [privacy-1, privacy-2]
 ---

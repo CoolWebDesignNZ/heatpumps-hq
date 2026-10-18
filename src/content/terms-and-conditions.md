@@ -4,7 +4,7 @@ description: "The terms for using our website: what the information on it is for
 keyword: terms and conditions
 secondary: []
 h1: Website terms and conditions
-intro: "These terms cover your use of this website. Any heat pump work we do for you is covered by the written quote you accept."
+intro: "We install, service and repair heat pumps in Christchurch. These terms cover your use of this website, and the written quote you accept covers any work we do for you."
 hero: terms-hero
 gallery: [terms-1, terms-2]
 ---

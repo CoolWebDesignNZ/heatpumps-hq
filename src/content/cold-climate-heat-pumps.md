@@ -4,7 +4,7 @@ description: "Need a cold climate heat pump for Canterbury frosts? What to check
 keyword: cold climate heat pump
 secondary: [best heat pump for cold climate, heat pump in cold weather, heat pump frost]
 h1: Choosing a cold climate heat pump for Canterbury
-intro: A heat pump for a frosty Canterbury winter has to keep its output up as the temperature drops. It also has to defrost without leaving the room cold. Here's what to look for before you buy.
+intro: "We fit heat pumps for frosty Canterbury winters and size them for your coldest rooms. Here's what to look for in output and defrost before you buy."
 hero: coldclimate-hero
 updated: 2026-10-17
 gallery: [coldclimate-frost, coldclimate-label]

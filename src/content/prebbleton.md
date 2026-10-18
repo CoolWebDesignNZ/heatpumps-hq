@@ -7,7 +7,7 @@ h1: Heat pump installation in Prebbleton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Prebbleton
 suburb: Prebbleton
-intro: We fit, service and fix heat pumps in Prebbleton's subdivisions. We also work on the rural blocks round the village. Every quote is free, with the price fixed before we start.
+intro: "We fit, service and fix heat pumps in Prebbleton's subdivisions and on the rural blocks round the village. Your quote is free, with a fixed price."
 hero: prebbleton-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Prebbleton

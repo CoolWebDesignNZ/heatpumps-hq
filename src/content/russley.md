@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Russley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Russley
 suburb: Russley
-intro: Most Russley homes are brick houses from the 1960s to the 1980s, out on the city's western edge. We fit, service and fix heat pumps in Russley, with the price agreed before any work.
+intro: We fit and service heat pumps in Russley's 1960s to 80s brick houses on the city's western edge, and we size each one from the rooms you want warm.
 hero: russley-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Russley"

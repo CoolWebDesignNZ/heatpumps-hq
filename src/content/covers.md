@@ -5,7 +5,7 @@ keyword: heat pump covers
 secondary: [heat pump cover, air con cover, outdoor heat pump cover]
 h1: Heat pump covers for the outdoor unit
 serviceName: Heat pump cover advice
-intro: A cover or screen can tidy up an outdoor unit. It can shelter it from sun and weather too. Get it wrong, though, and the unit loses airflow. It works harder and ices up. We can help you pick the right one when we fit or service your heat pump.
+intro: "We help you pick and place a cover or screen for your outdoor unit when we fit or service your heat pump, so it looks tidy without losing airflow."
 hero: covers-hero
 gallery: [covers-slatted, covers-top-shelter]
 faqHeading: "Heat pump cover questions"

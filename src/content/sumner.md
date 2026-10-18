@@ -7,7 +7,7 @@ h1: Heat pump installation in Sumner, by the beach and on the hills
 serviceName: Heat pump installation, servicing and repair
 areaServed: Sumner
 suburb: Sumner
-intro: We fit, service and fix heat pumps all through Sumner. That's beach houses near the esplanade and homes up the hills around them. Quotes are free, and your price is locked in before any work.
+intro: We fit, service and fix heat pumps all over Sumner, and we place outdoor units out of the salt wind. Quotes are free and the price is fixed.
 hero: sumner-hero
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Sumner"

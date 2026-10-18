@@ -5,7 +5,7 @@ keyword: heat pump zoning
 secondary: [ducted heat pump zoning, multi zone heat pump, zone control heat pump]
 h1: Heat pump zoning to control each part of the house
 serviceName: Heat pump zoning
-intro: "Zoning lets a ducted heat pump send air only to the rooms you pick. It stops heating the whole house every time it runs. We fit it to new ducted systems. We add it to existing ones where the ducts allow."
+intro: "We fit zoning to new ducted heat pumps, and add it to existing ones where the ducts allow. Then the system heats only the rooms you pick, not the whole house."
 hero: zoning-hero
 gallery: [zoning-damper, zoning-controller]
 faqHeading: "Heat pump zoning questions"

@@ -4,7 +4,7 @@ description: "Want an energy efficient heat pump? How label stars, sizing, insta
 keyword: energy efficient heat pump
 secondary: [heat pump energy efficiency, most energy efficient heat pump, energy efficient heating]
 h1: What makes an energy efficient heat pump
-intro: How efficient your heat pump is comes down to four things. The unit itself. Its size. How it's fitted. How you run it. Get one wrong and even a high rated unit wastes power.
+intro: "We size and fit heat pumps to run on as little power as possible. Efficiency comes down to the unit, its size, how it's fitted and how you run it."
 hero: efficient-hero
 updated: 2026-10-17
 gallery: [efficient-filter, efficient-curtains]

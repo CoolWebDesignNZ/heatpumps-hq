@@ -5,7 +5,7 @@ keyword: indoor air quality testing
 secondary: [air quality testing, air quality test home, air quality testing christchurch]
 h1: Indoor air quality testing and your heat pump
 serviceName: Heat pump air quality check
-intro: Does the air seem stale, dusty or musty when the heat pump runs? The unit itself is often part of the problem. We check what the heat pump could be adding to the air. Then we clean it out.
+intro: "We check what your heat pump could be adding to the air in your Christchurch home, like dust and mould. Then we clean it out."
 hero: airquality-hero
 gallery: [airquality-coil, airquality-drain]
 faqHeading: "Air quality testing questions"

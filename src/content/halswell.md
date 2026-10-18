@@ -7,7 +7,7 @@ h1: Heat pump installation across Halswell
 serviceName: Heat pump installation, servicing and repair
 areaServed: Halswell
 suburb: Halswell
-intro: We fit, service and fix heat pumps across Halswell. The new subdivisions, and the older homes round the original village. You'll have a fixed price before we start.
+intro: "We fit, service and fix heat pumps right across Halswell, from the new subdivisions to the older homes round the original village. You'll know the price before we start."
 hero: halswell-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: Questions about heat pumps in Halswell

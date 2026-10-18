@@ -5,7 +5,7 @@ keyword: emergency heat pump repair
 secondary: [heat pump repair near me, urgent heat pump repair, heat pump repair christchurch]
 h1: Emergency heat pump repair, and what to do until we get there
 serviceName: Urgent heat pump repair
-intro: "Heat pump stopped, pouring water or smelling of burning? Make it safe first. Keep one room warm. Then call us as early in the working day as you can."
+intro: "We repair heat pumps that have stopped, are pouring water or smell of burning. Make it safe and keep one room warm, then call us early in the working day."
 hero: emergency-hero
 gallery: [emergency-1, emergency-2]
 faqHeading: "Emergency heat pump repair questions"

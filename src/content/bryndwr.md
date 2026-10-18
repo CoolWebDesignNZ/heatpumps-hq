@@ -7,7 +7,7 @@ h1: Heat pump installation for Bryndwr bungalows and homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bryndwr
 suburb: Bryndwr
-intro: Bryndwr's older streets are full of mid-century bungalows and big gardens. We fit, service and fix heat pumps to suit them. You'll have a fixed price agreed first.
+intro: "We fit, service and fix heat pumps in Bryndwr's mid-century bungalows, sized for the rooms they have to heat. You'll have a fixed price agreed first."
 hero: bryndwr-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Bryndwr

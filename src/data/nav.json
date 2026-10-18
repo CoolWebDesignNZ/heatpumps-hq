@@ -1,92 +1,368 @@
 {
   "installs": {
-    "label": "Installs", "href": "/single-multi-room/", "all": "All installation options",
+    "label": "Installs",
+    "href": "/single-multi-room/",
+    "all": "All installation options",
     "groups": [
-      { "title": "New heat pumps", "links": [
-        ["Heat pump installation", "/heat-pump-installation-in-christchurch/"],
-        ["Single room", "/single-room-heat-pump-installation/"],
-        ["Multi-room", "/multi-room-heat-pump-installation/"],
-        ["Air conditioning", "/air-conditioning-installation-christchurch/"],
-        ["Smart and Wi-Fi control", "/smart-heat-pump-systems/"]
-      ]},
-      { "title": "Ducted", "links": [
-        ["Ducted heat pumps", "/ducted-heat-pumps-christchurch/"],
-        ["Daikin ducted", "/daikin-ducted-heat-pumps-christchurch/"],
-        ["Mitsubishi Electric ducted", "/mitsubishi-ducted-heat-pumps-christchurch/"],
-        ["Zoning", "/heat-pump-zoning/"]
-      ]}
+      {
+        "title": "New heat pumps",
+        "links": [
+          [
+            "Heat pump installation",
+            "/heat-pump-installation-in-christchurch/"
+          ],
+          [
+            "Single room",
+            "/single-room-heat-pump-installation/"
+          ],
+          [
+            "Multi-room",
+            "/multi-room-heat-pump-installation/"
+          ],
+          [
+            "Air conditioning",
+            "/air-conditioning-installation-christchurch/"
+          ],
+          [
+            "Smart and Wi-Fi control",
+            "/smart-heat-pump-systems/"
+          ]
+        ]
+      },
+      {
+        "title": "Ducted",
+        "links": [
+          [
+            "Ducted heat pumps",
+            "/ducted-heat-pumps-christchurch/"
+          ],
+          [
+            "Daikin ducted",
+            "/daikin-ducted-heat-pumps-christchurch/"
+          ],
+          [
+            "Mitsubishi Electric ducted",
+            "/mitsubishi-ducted-heat-pumps-christchurch/"
+          ],
+          [
+            "Zoning",
+            "/heat-pump-zoning/"
+          ]
+        ]
+      }
     ]
   },
   "services": {
-    "label": "Services", "href": "/heat-pump-services/", "all": "All services",
+    "label": "Services",
+    "href": "/heat-pump-services/",
+    "all": "All services",
     "groups": [
-      { "title": "Servicing", "links": [
-        ["Heat pump servicing", "/heat-pump-servicing/"],
-        ["Maintenance", "/maintenance-servicing/"],
-        ["Cleaning", "/heat-pump-cleaning/"],
-        ["Deodorising", "/heat-pump-deodorising/"],
-        ["Seasonal tune-ups", "/heat-pump-seasonal-tune-ups/"],
-        ["Winter preparation", "/winterisation-of-heat-pumps/"],
-        ["Service plans", "/customised-heat-pump-service-plans/"],
-        ["Covers", "/covers/"]
-      ]},
-      { "title": "Repairs", "links": [
-        ["Heat pump repairs", "/heat-pump-repair/"],
-        ["Urgent repairs", "/emergency-heat-pump-repair/"],
-        ["Troubleshooting", "/heat-pump-troubleshooting/"],
-        ["Leak detection", "/leak-detection-repair/"],
-        ["Parts replacement", "/heat-pump-parts-replacement/"],
-        ["Thermostat calibration", "/heat-pump-thermostat-calibration/"],
-        ["Remote monitoring", "/remote-monitoring-and-diagnostics/"]
-      ]},
-      { "title": "By brand", "links": [
-        ["Mitsubishi Electric", "/mitsubishi-heat-pump-service-christchurch/"],
-        ["Daikin", "/daikin-heat-pump-service-christchurch/"],
-        ["Fujitsu", "/fujitsu-heat-pump-service-christchurch/"],
-        ["Panasonic", "/panasonic-heat-pump-service-christchurch/"]
-      ]},
-      { "title": "Efficiency and air", "links": [
-        ["Efficiency upgrades", "/heat-pump-efficiency-upgrades/"],
-        ["Energy assessment", "/energy-efficiency-assessment/"],
-        ["Power usage checks", "/energy-consumption-monitoring/"],
-        ["Dehumidifying", "/heat-pump-dehumidification/"],
-        ["Air quality checks", "/air-quality-testing/"]
-      ]}
+      {
+        "title": "Servicing",
+        "links": [
+          [
+            "Heat pump servicing",
+            "/heat-pump-servicing/"
+          ],
+          [
+            "Maintenance",
+            "/maintenance-servicing/"
+          ],
+          [
+            "Cleaning",
+            "/heat-pump-cleaning/"
+          ],
+          [
+            "Deodorising",
+            "/heat-pump-deodorising/"
+          ],
+          [
+            "Seasonal tune-ups",
+            "/heat-pump-seasonal-tune-ups/"
+          ],
+          [
+            "Winter preparation",
+            "/winterisation-of-heat-pumps/"
+          ],
+          [
+            "Service plans",
+            "/customised-heat-pump-service-plans/"
+          ],
+          [
+            "Covers",
+            "/covers/"
+          ]
+        ]
+      },
+      {
+        "title": "Repairs",
+        "links": [
+          [
+            "Heat pump repairs",
+            "/heat-pump-repair/"
+          ],
+          [
+            "Urgent repairs",
+            "/emergency-heat-pump-repair/"
+          ],
+          [
+            "Troubleshooting",
+            "/heat-pump-troubleshooting/"
+          ],
+          [
+            "Leak detection",
+            "/leak-detection-repair/"
+          ],
+          [
+            "Parts replacement",
+            "/heat-pump-parts-replacement/"
+          ],
+          [
+            "Thermostat calibration",
+            "/heat-pump-thermostat-calibration/"
+          ],
+          [
+            "Remote monitoring",
+            "/remote-monitoring-and-diagnostics/"
+          ]
+        ]
+      },
+      {
+        "title": "By brand",
+        "links": [
+          [
+            "Mitsubishi Electric",
+            "/mitsubishi-heat-pump-service-christchurch/"
+          ],
+          [
+            "Daikin",
+            "/daikin-heat-pump-service-christchurch/"
+          ],
+          [
+            "Fujitsu",
+            "/fujitsu-heat-pump-service-christchurch/"
+          ],
+          [
+            "Panasonic",
+            "/panasonic-heat-pump-service-christchurch/"
+          ]
+        ]
+      },
+      {
+        "title": "Efficiency and air",
+        "links": [
+          [
+            "Efficiency upgrades",
+            "/heat-pump-efficiency-upgrades/"
+          ],
+          [
+            "Energy assessment",
+            "/energy-efficiency-assessment/"
+          ],
+          [
+            "Power usage checks",
+            "/energy-consumption-monitoring/"
+          ],
+          [
+            "Dehumidifying",
+            "/heat-pump-dehumidification/"
+          ],
+          [
+            "Air quality checks",
+            "/air-quality-testing/"
+          ]
+        ]
+      }
     ]
   },
   "guides": {
-    "label": "Guides", "href": "/how-heat-pumps-work/", "all": "Start with how heat pumps work",
+    "label": "Guides",
+    "href": "/how-heat-pumps-work/",
+    "all": "Start with how heat pumps work",
     "groups": [
-      { "title": "Choosing", "links": [
-        ["How heat pumps work", "/how-heat-pumps-work/"],
-        ["Types of heat pumps", "/types-of-heat-pumps/"],
-        ["Buying a heat pump", "/choosing-heat-pump/"],
-        ["Sizing guide", "/heat-pump-sizing/"],
-        ["Size calculator", "/calculator-single-room-heat-pump/"],
-        ["Ducted vs split", "/ducted-vs-split-heat-pumps-christchurch/"],
-        ["Cold climate models", "/cold-climate-heat-pumps/"],
-        ["Low temperature performance", "/low-temperature-heat-pumps/"]
-      ]},
-      { "title": "Brands and costs", "links": [
-        ["Brands compared", "/heat-pump-brands-comparison/"],
-        ["Best heat pump brands", "/best-heat-pump-brands-christchurch/"],
-        ["Choosing an installer", "/best-heat-pump-installers-christchurch/"],
-        ["Installation cost", "/heat-pump-installation-cost-christchurch/"],
-        ["Ducted heat pump cost", "/ducted-heat-pump-cost-christchurch/"],
-        ["Heat pump covers", "/best-heat-pump-covers-nz/"]
-      ]},
-      { "title": "Efficiency", "links": [
-        ["Energy efficient heat pumps", "/energy-efficient/"],
-        ["Energy ratings", "/energy-star-heat-pumps/"],
-        ["Carbon footprint", "/heat-pump-carbon-footprint-analysis/"],
-        ["Allergies and asthma", "/allergy-asthma-solutions-heat-pumps/"]
-      ]},
-      { "title": "Rules and problems", "links": [
-        ["Boundary rules and consent", "/heat-pump-boundary-rules-consent-nz/"],
-        ["Regulations and building code", "/compliance-building-codes/"],
-        ["Common problems", "/heat-pump-problems-troubleshooting-guide/"],
-        ["Noise problems", "/heat-pump-noise-problems-solutions/"]
-      ]}
+      {
+        "title": "Choosing",
+        "links": [
+          [
+            "How heat pumps work",
+            "/how-heat-pumps-work/"
+          ],
+          [
+            "Types of heat pumps",
+            "/types-of-heat-pumps/"
+          ],
+          [
+            "Buying a heat pump",
+            "/choosing-heat-pump/"
+          ],
+          [
+            "Sizing guide",
+            "/heat-pump-sizing/"
+          ],
+          [
+            "Size calculator",
+            "/calculator-single-room-heat-pump/"
+          ],
+          [
+            "Ducted vs split",
+            "/ducted-vs-split-heat-pumps-christchurch/"
+          ],
+          [
+            "Cold climate models",
+            "/cold-climate-heat-pumps/"
+          ],
+          [
+            "Low temperature performance",
+            "/low-temperature-heat-pumps/"
+          ]
+        ]
+      },
+      {
+        "title": "Brands and costs",
+        "links": [
+          [
+            "Brands compared",
+            "/heat-pump-brands-comparison/"
+          ],
+          [
+            "Best heat pump brands",
+            "/best-heat-pump-brands-christchurch/"
+          ],
+          [
+            "Choosing an installer",
+            "/best-heat-pump-installers-christchurch/"
+          ],
+          [
+            "Installation cost",
+            "/heat-pump-installation-cost-christchurch/"
+          ],
+          [
+            "Ducted heat pump cost",
+            "/ducted-heat-pump-cost-christchurch/"
+          ],
+          [
+            "Heat pump covers",
+            "/best-heat-pump-covers-nz/"
+          ]
+        ]
+      },
+      {
+        "title": "Efficiency",
+        "links": [
+          [
+            "Energy efficient heat pumps",
+            "/energy-efficient/"
+          ],
+          [
+            "Energy ratings",
+            "/energy-star-heat-pumps/"
+          ],
+          [
+            "Carbon footprint",
+            "/heat-pump-carbon-footprint-analysis/"
+          ],
+          [
+            "Allergies and asthma",
+            "/allergy-asthma-solutions-heat-pumps/"
+          ]
+        ]
+      },
+      {
+        "title": "Rules and problems",
+        "links": [
+          [
+            "Boundary rules and consent",
+            "/heat-pump-boundary-rules-consent-nz/"
+          ],
+          [
+            "Regulations and building code",
+            "/compliance-building-codes/"
+          ],
+          [
+            "Common problems",
+            "/heat-pump-problems-troubleshooting-guide/"
+          ],
+          [
+            "Noise problems",
+            "/heat-pump-noise-problems-solutions/"
+          ]
+        ]
+      }
     ]
-  }
+  },
+  "menu": [
+    {
+      "label": "Services",
+      "href": "/heat-pump-services/",
+      "all": "All services",
+      "links": [
+        [
+          "Heat pump installation",
+          "/heat-pump-installation-in-christchurch/"
+        ],
+        [
+          "Ducted heat pumps",
+          "/ducted-heat-pumps-christchurch/"
+        ],
+        [
+          "Multi-room heat pumps",
+          "/multi-room-heat-pump-installation/"
+        ],
+        [
+          "Air conditioning",
+          "/air-conditioning-installation-christchurch/"
+        ],
+        [
+          "Heat pump servicing",
+          "/heat-pump-servicing/"
+        ],
+        [
+          "Heat pump repairs",
+          "/heat-pump-repair/"
+        ],
+        [
+          "Heat pump cleaning",
+          "/heat-pump-cleaning/"
+        ]
+      ]
+    },
+    {
+      "label": "Guides",
+      "href": "/how-heat-pumps-work/",
+      "links": [
+        [
+          "How heat pumps work",
+          "/how-heat-pumps-work/"
+        ],
+        [
+          "Sizing guide",
+          "/heat-pump-sizing/"
+        ],
+        [
+          "Size calculator",
+          "/calculator-single-room-heat-pump/"
+        ],
+        [
+          "Installation cost",
+          "/heat-pump-installation-cost-christchurch/"
+        ],
+        [
+          "Best heat pump brands",
+          "/best-heat-pump-brands-christchurch/"
+        ],
+        [
+          "Ducted vs split",
+          "/ducted-vs-split-heat-pumps-christchurch/"
+        ],
+        [
+          "Boundary rules",
+          "/heat-pump-boundary-rules-consent-nz/"
+        ],
+        [
+          "Noise problems",
+          "/heat-pump-noise-problems-solutions/"
+        ]
+      ]
+    }
+  ]
 }

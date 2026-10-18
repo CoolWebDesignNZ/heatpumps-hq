@@ -7,7 +7,7 @@ h1: Heat pump installation on Clifton hill
 serviceName: Heat pump installation, servicing and repair
 areaServed: Clifton
 suburb: Clifton
-intro: We fit, service and fix heat pumps for Clifton homes, on the hill between Redcliffs and Sumner. We plan access, pipe runs and exposure first. Then we give you a fixed price.
+intro: We fit and service heat pumps on Clifton hill between Redcliffs and Sumner, and we plan access, pipe runs and exposure before giving you a fixed price.
 hero: clifton-hero
 gallery: [pool-hill-home, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Clifton"

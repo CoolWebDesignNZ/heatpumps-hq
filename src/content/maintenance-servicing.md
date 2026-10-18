@@ -5,7 +5,7 @@ keyword: heat pump maintenance
 secondary: [heat pump maintenance christchurch, heat pump servicing near me, heat pump servicing chch]
 h1: Heat pump maintenance and servicing in Christchurch
 serviceName: Heat pump maintenance and servicing
-intro: Looking after a heat pump is a job for two. You keep the filters and the outdoor unit clear. We do the bits that need tools, cleaners and test gear.
+intro: "We service heat pumps of every major brand across Christchurch, doing the jobs that need tools, cleaners and test gear. Here's what we check, and the jobs you can do between visits."
 hero: maint-hero
 gallery: [maint-filter-sink, maint-outdoor-clear]
 faqHeading: Heat pump maintenance questions

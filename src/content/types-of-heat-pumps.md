@@ -4,7 +4,7 @@ description: "Types of heat pumps compared: high wall, floor console, ceiling ca
 keyword: types of heat pumps
 secondary: [floor console heat pump, high wall heat pump, heat pump types]
 h1: Types of heat pumps and where each one fits
-intro: "Every home heat pump works on the same cycle. What changes how a room feels is the indoor unit and the layout of the system. Here's what each type does well, and where it falls short."
+intro: "We install wall, floor, ceiling and ducted heat pumps in Christchurch homes. Here's what each type does well, where it falls short, and which layout suits your rooms."
 hero: types-hero
 updated: 2026-10-17
 gallery: [types-console, types-cassette]

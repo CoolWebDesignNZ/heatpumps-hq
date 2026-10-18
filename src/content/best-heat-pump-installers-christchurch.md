@@ -4,7 +4,7 @@ description: "Choosing between heat pump installers in Christchurch? Use this ch
 keyword: best heat pump installers christchurch
 secondary: [heat pump installers christchurch, heat pump installer christchurch, heat pump installers near me]
 h1: How to find the best heat pump installers in Christchurch
-intro: The installer matters as much as the brand. Whoever you pick, here's what to ask, what to check, and what paperwork you should get at the end.
+intro: "We install heat pumps across Christchurch, and you should hold any installer to the same standard. Here's what to ask, what to check and the paperwork you should get at the end."
 hero: installers-hero
 updated: 2026-10-17
 gallery: [installers-licence, installers-commission]

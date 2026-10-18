@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Dallington
 serviceName: Heat pump installation, servicing and repair
 areaServed: Dallington
 suburb: Dallington
-intro: We fit, service and fix heat pumps in Dallington's remaining streets. That includes homes repaired or rebuilt after the earthquakes. Every job is priced before we start.
+intro: We install, service and repair heat pumps in Dallington, including homes repaired or rebuilt after the earthquakes. Every job gets a fixed price before we start.
 hero: dallington-hero
 gallery: [pool-brick-bungalow, pool-weatherboard]
 faqHeading: "Dallington heat pump questions"

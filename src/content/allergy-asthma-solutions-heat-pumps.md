@@ -4,7 +4,7 @@ description: "Heat pump allergies or asthma worse when it runs? Why a dirty unit
 keyword: heat pump allergies
 secondary: [heat pump air purifier, heat pump with air purifier, heat pump asthma]
 h1: Heat pump allergies and asthma, and what helps
-intro: A clean heat pump in a dry home is a good way to heat if someone has allergies or asthma. A dirty one can blow dust and mould round the room. Here's how to tell which you've got, and what to do about it.
+intro: "We clean and fit heat pumps for Christchurch homes where someone has allergies or asthma. A clean unit helps, and a dirty one blows dust and mould round the room."
 hero: allergy-hero
 updated: 2026-10-17
 gallery: [allergy-filter, allergy-bedroom]

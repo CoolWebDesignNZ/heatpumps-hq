@@ -7,7 +7,7 @@ h1: Heat pump installation in Heathcote Valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Heathcote Valley
 suburb: Heathcote Valley
-intro: We fit, service and fix heat pumps all over Heathcote Valley. That's houses on the valley floor and homes high on the slopes. The price is agreed with you before work begins.
+intro: We install and service heat pumps in Heathcote Valley, from the valley floor to homes high on the slopes, and we agree the price with you before work begins.
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"

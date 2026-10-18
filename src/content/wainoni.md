@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Wainoni
 serviceName: Heat pump installation, servicing and repair
 areaServed: Wainoni
 suburb: Wainoni
-intro: We fit, service and fix heat pumps in Wainoni. Many homes here went up in the decades after the war. The price is fixed and agreed with you first.
+intro: We install, service and fix heat pumps in Wainoni's post-war homes, and we size each one from the rooms it has to heat. The price is agreed with you first.
 hero: wainoni-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Wainoni heat pump questions"

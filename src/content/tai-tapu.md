@@ -7,7 +7,7 @@ h1: Heat pump installation for Tai Tapu homes and lifestyle blocks
 serviceName: Heat pump installation, servicing and repair
 areaServed: Tai Tapu
 suburb: Tai Tapu
-intro: We fit, service and fix heat pumps in Tai Tapu village. We also cover the lifestyle blocks and farms around it. The quote is free, and the price is fixed before we start.
+intro: "We fit, service and fix heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. We'll come out and give you a free, fixed-price quote."
 hero: tai-tapu-hero
 gallery: [pool-lifestyle, pool-console-unit]
 faqHeading: Questions about heat pumps in Tai Tapu

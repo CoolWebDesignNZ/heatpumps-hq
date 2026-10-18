@@ -4,7 +4,7 @@ description: "Looking for a heat pump size calculator? Use the official Tenancy 
 keyword: heat pump size calculator
 secondary: [heat pump calculator, heat pump kw calculator, heat pump room size calculator]
 h1: "Heat pump size calculator: what goes into the kW figure"
-intro: "New Zealand has a free, official calculator for sizing room heating. The government runs it. Here's where to find it, what to measure first, and what to do with the number you get."
+intro: "We size every heat pump on site, but you can check the kW figure yourself with the government's free calculator. Here's where to find it and what to measure first."
 hero: calc-hero
 updated: 2026-10-17
 gallery: [calc-tape, calc-window]

@@ -7,7 +7,7 @@ h1: Heat pump installation and service in Burnside
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burnside
 suburb: Burnside
-intro: Lots of Burnside homes are solid family houses that have grown over the years. We fit, service and fix heat pumps to heat the whole house. Your price is set before any work begins.
+intro: "We fit, service and fix heat pumps in Burnside's family homes, including ones that have grown with extensions over the years. We plan to heat the whole house, at a set price."
 hero: burnside-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: Questions about heat pumps in Burnside

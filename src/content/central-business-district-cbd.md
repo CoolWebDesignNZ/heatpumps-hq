@@ -7,7 +7,7 @@ h1: Heat pump installation in the Christchurch CBD and Central City
 serviceName: Heat pump installation, servicing and repair
 areaServed: Central City
 suburb: Central City
-intro: "Heat pumps for apartments, townhouses and older cottages inside the four avenues. We work round body corporate rules, small balconies and tight courtyards. We agree a fixed price first."
+intro: "We install heat pumps in Central City apartments, townhouses and older cottages inside the four avenues. We work round body corporate rules and tight balconies, at a fixed price agreed first."
 hero: central-city-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in the CBD"

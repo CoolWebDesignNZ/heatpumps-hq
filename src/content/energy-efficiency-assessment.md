@@ -5,7 +5,7 @@ keyword: home energy assessment
 secondary: [home energy audit, energy efficiency assessment, home energy assessment christchurch]
 h1: A home energy assessment for heating your home
 serviceName: Home heating energy assessment
-intro: We look at how your home is heated and where the heat goes. We check whether your heat pumps are doing their job. You get a straight answer on what to change. Any work we'd do comes with a fixed price.
+intro: "We look at how your Christchurch home is heated, room by room, and where the heat goes. You get a straight answer on what to change, and a fixed price for any work."
 hero: assessment-hero
 gallery: [assessment-window, assessment-unit]
 faqHeading: "Home energy assessment questions"

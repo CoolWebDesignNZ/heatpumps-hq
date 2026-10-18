@@ -4,7 +4,7 @@ description: "Buying heat pump covers in NZ? Louvred cabinets, timber screens, r
 keyword: heat pump covers nz
 secondary: [best heat pump cover, heat pump cover nz, air conditioner cover nz]
 h1: Heat pump covers in NZ, types compared
-intro: "Heat pump covers run from a simple roof shelter to a full louvred cabinet. The right one depends on three things: why you want it, where the outdoor unit sits and how much room it leaves for air. Here's how the main types compare."
+intro: We help you pick a heat pump cover when we fit or service your unit. Here's how roof shelters, timber screens and louvred cabinets compare, and how much air each leaves.
 hero: coverguide-hero
 updated: 2026-10-17
 gallery: [coverguide-louvred, coverguide-timber]

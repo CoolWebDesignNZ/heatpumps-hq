@@ -8,17 +8,47 @@
   "email": "info@heatpumps-christchurch.co.nz",
   "facebook": "https://www.facebook.com/heatpumphq",
   "hours": [
-    { "days": "Monday to Friday", "open": "08:00", "close": "17:00", "label": "8am to 5pm" }
+    {
+      "days": "Monday to Friday",
+      "open": "08:00",
+      "close": "17:00",
+      "label": "8am to 5pm"
+    }
   ],
-  "brandsInstalled": ["Mitsubishi Electric", "Daikin", "Fujitsu", "Toshiba"],
-  "brandsServiced": ["Mitsubishi Electric", "Daikin", "Fujitsu", "Toshiba", "Panasonic"],
+  "brandsInstalled": [
+    "Mitsubishi Electric",
+    "Daikin",
+    "Fujitsu",
+    "Toshiba"
+  ],
+  "brandsServiced": [
+    "Mitsubishi Electric",
+    "Daikin",
+    "Fujitsu",
+    "Toshiba",
+    "Panasonic"
+  ],
   "area": "Christchurch, Selwyn and Lyttelton",
   "nav": [
-    { "label": "Installs", "href": "/single-multi-room/" },
-    { "label": "Services", "href": "/heat-pump-services/" },
-    { "label": "Guides", "href": "/how-heat-pumps-work/" },
-    { "label": "Locations", "href": "/locations/" },
-    { "label": "About", "href": "/about-us/" },
-    { "label": "Contact", "href": "/contact-us/" }
+    {
+      "label": "Services",
+      "href": "/heat-pump-services/"
+    },
+    {
+      "label": "Guides",
+      "href": "/how-heat-pumps-work/"
+    },
+    {
+      "label": "Locations",
+      "href": "/locations/"
+    },
+    {
+      "label": "About",
+      "href": "/about-us/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact-us/"
+    }
   ]
 }

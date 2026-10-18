@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bottle Lake
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bottle Lake
 suburb: Bottle Lake
-intro: We fit, service and fix heat pumps for homes in and around Bottle Lake, between the pines and the coast. The price is fixed in your quote.
+intro: "We fit, service and fix heat pumps for homes in and around Bottle Lake, between the pines and the coast. Your quote sets a fixed price."
 hero: bottle-lake-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bottle Lake

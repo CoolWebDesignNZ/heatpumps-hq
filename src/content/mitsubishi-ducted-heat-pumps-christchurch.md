@@ -5,7 +5,7 @@ keyword: mitsubishi ducted heat pump
 secondary: [mitsubishi ducted, mitsubishi ducted system, mitsubishi ducted heat pump christchurch]
 h1: Mitsubishi Electric ducted heat pump systems in Christchurch
 serviceName: Mitsubishi Electric ducted heat pump installation
-intro: Mitsubishi Electric builds its ducted heat pumps into whole-home packages, with ZoneIQ room control and Lossnay ventilation. We plan the ducted system around your house and fit it.
+intro: "We plan and fit Mitsubishi Electric ducted systems in Christchurch homes, with ZoneIQ room control and Lossnay ventilation. We design the ducting around your house before we quote."
 hero: mitsubishi-ducted-hero
 gallery: [mitsubishi-ducted-zones, mitsubishi-ducted-ceiling]
 faqHeading: Mitsubishi Electric ducted heat pump questions

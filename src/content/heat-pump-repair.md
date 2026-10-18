@@ -5,7 +5,7 @@ keyword: heat pump repairs christchurch
 secondary: [heat pump repair, heat pump repairs, fix heat pump]
 h1: Heat pump repairs in Christchurch
 serviceName: Heat pump repair
-intro: Not heating? Blowing cold, dripping water or flashing a light? We'll find the fault and tell you if it's worth fixing. We repair all the major brands.
+intro: "We repair all the major heat pump brands across Christchurch, whether yours is blowing cold, dripping or flashing a light. We find the fault and tell you straight if it's worth fixing."
 hero: repair-hero
 gallery: [repair-outdoor, repair-drain]
 faqHeading: Heat pump repair questions

@@ -5,7 +5,7 @@ keyword: single room heat pump
 secondary: [small heat pump, heat pump for bedroom, heat pump for one room]
 h1: A single room heat pump for one bedroom, lounge or studio
 serviceName: Single room heat pump
-intro: One indoor unit and one outdoor unit, sized for the room it heats. It's the simplest heat pump you can get. Often it's all a room needs.
+intro: "We install single room heat pumps across Christchurch: one indoor and one outdoor unit, sized for the room it heats. Often it's all a bedroom, lounge or studio needs."
 hero: single-hero
 gallery: [single-bedroom, single-console]
 faqHeading: Single room heat pump questions

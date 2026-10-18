@@ -7,7 +7,7 @@ h1: Heat pump installation in Moncks Bay
 serviceName: Heat pump installation, servicing and repair
 areaServed: Moncks Bay
 suburb: Moncks Bay
-intro: We fit, service and fix heat pumps in Moncks Bay, on the waterfront and up the slope behind it. Your quote is free, and we set the price before we start.
+intro: We install, service and fix heat pumps in Moncks Bay, on the waterfront and up the slope behind it. The quote is free and we set the price first.
 hero: moncks-bay-hero
 gallery: [pool-coastal-home, pool-filters]
 faqHeading: "Questions about heat pumps in Moncks Bay"

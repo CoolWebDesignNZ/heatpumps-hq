@@ -7,7 +7,7 @@ h1: Heat pump installation in Marshland
 serviceName: Heat pump installation, servicing and repair
 areaServed: Marshland
 suburb: Marshland
-intro: Marshland has lifestyle blocks, older rural houses and new subdivisions on the city edge. We fit, service and fix heat pumps across all of it. The price is fixed before we begin.
+intro: We fit and service heat pumps across Marshland, from older rural houses on lifestyle blocks to new subdivision homes, with a fixed price agreed first.
 hero: marshland-hero
 gallery: [pool-lifestyle, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Marshland"

@@ -7,7 +7,7 @@ h1: Heat pump installation for Ferrymead homes and townhouses
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ferrymead
 suburb: Ferrymead
-intro: We fit, service and fix heat pumps in Ferrymead. That includes townhouses and units with small courtyards and shared walls. You'll know the price before we start.
+intro: We install heat pumps in Ferrymead's townhouses and units, and we find room for the outdoor unit in small courtyards and beside shared walls. You'll know the price first.
 hero: ferrymead-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Ferrymead"

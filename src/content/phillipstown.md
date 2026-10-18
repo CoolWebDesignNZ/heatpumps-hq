@@ -7,7 +7,7 @@ h1: Heat pump installation for Phillipstown homes and rentals
 serviceName: Heat pump installation, servicing and repair
 areaServed: Phillipstown
 suburb: Phillipstown
-intro: "Phillipstown is small, flat and close to town. It has older cottages, blocks of units and new townhouses. We fit, service and fix heat pumps for owners and landlords, all at a fixed price."
+intro: "We fit, service and fix heat pumps in Phillipstown's cottages, units and townhouses, for owners and landlords. We pick the size and spot so one living room unit does most of the work."
 hero: phillipstown-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Phillipstown"

@@ -5,7 +5,7 @@ keyword: fujitsu heat pump repair
 secondary: [fujitsu heat pump service, fujitsu air conditioner repair, fujitsu heat pump service christchurch]
 h1: Fujitsu heat pump repair and service in Christchurch
 serviceName: Fujitsu heat pump repair and servicing
-intro: We fit, service and fix Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton. That includes the newer units sold as General Airstage. We find the fault first. Then you get a fixed price for the fix.
+intro: "We service, repair and fit Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton, including the newer General Airstage units. Once we've found the fault, you get a fixed price for the fix."
 hero: fujitsu-hero
 gallery: [fujitsu-1, fujitsu-2]
 faqHeading: Fujitsu heat pump service questions

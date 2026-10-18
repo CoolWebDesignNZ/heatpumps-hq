@@ -5,7 +5,7 @@ keyword: heat pump replacement
 secondary: [replace old heat pump, heat pump upgrade, heat pump efficiency]
 h1: Heat pump replacement and efficiency upgrades
 serviceName: Heat pump replacement and upgrades
-intro: Is your old heat pump falling behind on cold days? Breaking down every winter? Pushing up the power bill? It may be time to replace it. Sometimes a smaller fix does the job. We'll tell you which, with a fixed price for each option.
+intro: "We replace and upgrade heat pumps across Christchurch. If a smaller fix will do the job, we'll tell you, and you get a fixed price for each option."
 hero: upgrade-hero
 gallery: [upgrade-old-unit, upgrade-new-unit]
 faqHeading: "Heat pump replacement questions"

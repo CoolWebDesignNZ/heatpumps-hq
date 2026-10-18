@@ -4,7 +4,7 @@ description: "Ducted heat pump cost in NZ comes down to your roof space, room co
 keyword: ducted heat pump cost
 secondary: [ducted heat pump cost nz, ducted heat pump prices nz, cost of ducted heat pump]
 h1: What a ducted heat pump cost depends on
-intro: A ducted system is designed around the whole house. So is its price. The size of the home, the roof space and the number of rooms matter more than the badge on the unit.
+intro: "We design and fit ducted heat pumps for whole Christchurch homes, with a fixed price once we've seen the house. Here's what drives that price, from roof space to room count."
 hero: ductcost-hero
 updated: 2026-10-17
 gallery: [ductcost-roofspace, ductcost-controller]

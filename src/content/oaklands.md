@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Oaklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Oaklands
 suburb: Oaklands
-intro: Oaklands is in the south-west of the city. Most homes are brick family houses from the 1960s to the 1980s. We fit, service and fix heat pumps to suit them, and we agree a fixed price first.
+intro: "We fit, service and fix heat pumps in Oaklands, where most homes are brick family houses from the 1960s to the 1980s. We size each one to suit how those houses are laid out."
 hero: oaklands-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Oaklands

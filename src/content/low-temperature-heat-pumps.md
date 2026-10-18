@@ -4,7 +4,7 @@ description: "How low can a heat pump go? A low temperature heat pump guide: min
 keyword: low temperature heat pump
 secondary: [heat pump minimum temperature, heat pump below zero, heat pump not working in cold weather]
 h1: How a low temperature heat pump copes below zero
-intro: Heat pumps keep going below zero. Their output drops, though, and they stop now and then to defrost. Here's what's normal on a cold morning, what isn't, and what you can check yourself.
+intro: "We fix heat pumps that struggle on frosty Christchurch mornings. Here's what's normal below zero, what isn't, and what you can check yourself before you call us."
 hero: lowtemp-hero
 updated: 2026-10-17
 gallery: [lowtemp-ice, lowtemp-isolator]

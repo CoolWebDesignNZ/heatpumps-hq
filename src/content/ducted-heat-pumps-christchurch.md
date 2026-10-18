@@ -5,7 +5,7 @@ keyword: ducted heat pumps christchurch
 secondary: [ducted heat pump, ducted heat pumps, ducted heating christchurch]
 h1: Ducted heat pumps for Christchurch homes
 serviceName: Ducted heat pump installation
-intro: A ducted heat pump hides the indoor unit in the roof or under the floor. It sends warm or cool air to each room through a vent. One system, and nothing on the walls.
+intro: "We install ducted heat pumps in Christchurch homes, with the indoor unit hidden in the roof or under the floor and a vent in each room. Nothing goes on the walls."
 hero: ducted-hero
 gallery: [ducted-roofspace, ducted-grille]
 faqHeading: Ducted heat pump questions

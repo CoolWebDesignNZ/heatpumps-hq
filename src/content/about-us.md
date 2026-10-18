@@ -4,7 +4,7 @@ description: "Who is behind Heat Pumps HQ? Nate Thompson's Christchurch heat pum
 keyword: heat pumps hq
 secondary: [heat pumps hq christchurch, heat pump company christchurch]
 h1: About Heat Pumps HQ
-intro: Nate Thompson started Heat Pumps HQ in Christchurch in 2015. We size each system to the house it goes in. And we agree the price before we start.
+intro: "Nate Thompson started Heat Pumps HQ in Christchurch in 2015. We fit, service and fix heat pumps, sizing each system to the house it goes in and agreeing the price before we start."
 hero: about-hero
 gallery: [about-1, about-2]
 faqHeading: Questions about Heat Pumps HQ

@@ -4,7 +4,7 @@ description: "Buying a heat pump and not sure which one you need? A step-by-step
 keyword: buying a heat pump
 secondary: [how to choose a heat pump, what heat pump do i need, which heat pump]
 h1: Buying a heat pump for a Christchurch home
-intro: The right heat pump suits the room, the house and how you live in it. Work through these steps in order. You'll find the list of models gets a lot shorter.
+intro: "We help Christchurch homeowners pick the heat pump that suits the room, the house and how they live. Work through these steps in order and the list of models gets a lot shorter."
 hero: choose-hero
 updated: 2026-10-17
 gallery: [choose-label, choose-measure]

@@ -7,7 +7,7 @@ h1: Heat pump installation in Linwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Linwood
 suburb: Linwood
-intro: "Linwood has former state houses, bungalows, older villas and blocks of units. Each one heats differently. We match the heat pump to your house and fit it neatly. We agree the price before we start."
+intro: "We install heat pumps in Linwood's former state houses, bungalows, villas and units. We plan for the bedrooms down the hallway, not just the lounge, and agree the price before we start."
 hero: linwood-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Linwood"

@@ -7,7 +7,7 @@ h1: Heat pump installation in Addington
 serviceName: Heat pump installation, servicing and repair
 areaServed: Addington
 suburb: Addington
-intro: "Addington's workers' cottages and newer townhouses sit close together on small sections. We fit heat pumps that suit the space and stay quiet at the fence. We agree a fixed price first."
+intro: "We install heat pumps in Addington's workers' cottages and townhouses, and place each outdoor unit where it gets air and stays quiet at the neighbour's fence."
 hero: addington-hero
 gallery: [pool-townhouse, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Addington"

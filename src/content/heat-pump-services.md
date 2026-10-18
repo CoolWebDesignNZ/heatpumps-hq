@@ -4,7 +4,7 @@ description: "Need a service, repair or new install? Every service we offer in o
 keyword: heat pump services
 secondary: [heat pump service, heat pump specialists christchurch, heat pump services christchurch]
 h1: Heat pump services in Christchurch
-intro: We fit, service, fix and upgrade heat pumps in homes across Christchurch, Selwyn and Lyttelton. Pick what you need below.
+intro: "We fit, service, fix and upgrade heat pumps in homes across Christchurch, Selwyn and Lyttelton. Pick the job you need below and we'll quote a fixed price."
 hero: services-hero
 gallery: [services-outdoor, services-filters]
 faqHeading: Questions about our heat pump services

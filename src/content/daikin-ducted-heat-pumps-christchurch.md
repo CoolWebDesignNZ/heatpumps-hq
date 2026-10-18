@@ -5,7 +5,7 @@ keyword: daikin ducted heat pump
 secondary: [daikin ducted, daikin ducted system, daikin ducted heat pump christchurch]
 h1: Daikin ducted heat pump systems in Christchurch
 serviceName: Daikin ducted heat pump installation
-intro: Daikin sells several ducted series in New Zealand. Each is built for a different ceiling space or job. We'll help you pick the one that fits your house. Then we fit it.
+intro: "We fit Daikin ducted heat pumps in Christchurch, and we'll help you pick the series that suits your ceiling space. Daikin sells several in New Zealand, each built for a different job."
 hero: daikin-ducted-hero
 gallery: [daikin-ducted-controller, daikin-ducted-outlet]
 faqHeading: Daikin ducted heat pump questions

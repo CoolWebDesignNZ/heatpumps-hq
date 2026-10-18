@@ -4,7 +4,7 @@ description: "What size heat pump do you need? How kW ratings work, why Christch
 keyword: heat pump size guide
 secondary: [what size heat pump do i need, heat pump sizing, heat pump size]
 h1: "Heat pump size guide: what size do you need?"
-intro: "A heat pump's size is its heating output in kilowatts. The right size is the output your room needs on a cold Canterbury morning. EECA sets out how to work that out. It's the method we use."
+intro: "We size every heat pump we fit from the rooms it has to heat, using EECA's method. Here's how to work out the kW your room needs on a cold Canterbury morning."
 hero: sizing-hero
 updated: 2026-10-17
 gallery: [sizing-label, sizing-frost]

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Parklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Parklands
 suburb: Parklands
-intro: We fit, service and fix heat pumps in Parklands. Most homes here are brick and tile on flat sections. The later streets have newer builds. Each Parklands quote is a fixed price.
+intro: We fit and service heat pumps in Parklands, from the brick and tile homes on flat sections to the newer builds in the later streets, all at a fixed price.
 hero: parklands-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: "Questions about heat pumps in Parklands"

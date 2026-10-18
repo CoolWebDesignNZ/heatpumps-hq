@@ -4,7 +4,7 @@ description: "What is a heat pump and how does it heat a room using outside air?
 keyword: how does a heat pump work
 secondary: [how do heat pumps work, what is a heat pump, how heat pumps work]
 h1: How does a heat pump work?
-intro: A heat pump doesn't turn power into heat like a heater element does. It uses power to move heat that's already in the outside air into your room. It can run the same process backwards to cool.
+intro: "We fit and fix heat pumps across Christchurch. A heat pump moves heat that's already in the outside air into your room, and runs the same process backwards to cool."
 hero: hiw-hero
 updated: 2026-10-17
 gallery: [hiw-outdoor, hiw-indoor]

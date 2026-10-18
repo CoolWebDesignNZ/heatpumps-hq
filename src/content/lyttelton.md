@@ -7,7 +7,7 @@ h1: Heat pump installation for Lyttelton cottages and homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lyttelton
 suburb: Lyttelton
-intro: We come through the tunnel to fit, service and fix heat pumps in Lyttelton. Old cottages on steep, narrow sections are no problem. We agree a fixed price on every job first.
+intro: "We come through the tunnel to fit, service and fix heat pumps in Lyttelton, including old cottages on steep, narrow sections. Every job gets a price agreed first."
 hero: lyttelton-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: Questions about heat pumps in Lyttelton

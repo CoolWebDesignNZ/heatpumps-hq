@@ -4,7 +4,7 @@ description: "Heat pump noise keeping you up? Which sounds are normal, what ratt
 keyword: heat pump noise
 secondary: [noisy heat pump, heat pump making noise, heat pump rattling]
 h1: Heat pump noise, what's normal and how to fix it
-intro: Every heat pump makes some noise. A hum, a hiss or the odd click is normal. Rattles, grinding, squeals and loud buzzing aren't. They usually mean something has worn, come loose or been put in a bad spot. Most of them can be fixed.
+intro: "We fix noisy heat pumps, indoor and outdoor. A hum or the odd click is normal, but rattles, grinding and squeals usually mean something has worn or come loose, and most can be fixed."
 hero: noise-hero
 updated: 2026-10-17
 gallery: [noise-feet, noise-fan]

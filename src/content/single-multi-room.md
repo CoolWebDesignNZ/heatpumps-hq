@@ -4,7 +4,7 @@ description: "Not sure if you need one heat pump, several or a ducted system? Co
 keyword: single or multi room heat pump
 secondary: [heat pump for multiple rooms, single room vs multi room heat pump]
 h1: Single or multi room heat pump, which install suits your home
-intro: It comes down to three things. How many rooms you want warm. How the house is laid out. And where the units can go.
+intro: We install single room, multi-room and ducted heat pumps across Christchurch, and we'll tell you which one your house needs from the rooms you want warm and where the units can go.
 hero: installs-hero
 gallery: [installs-living, installs-hallway]
 faqHeading: "Questions about heating multiple rooms with a heat pump"

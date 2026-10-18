@@ -5,7 +5,7 @@ keyword: heat pump servicing christchurch
 secondary: [heat pump servicing, heat pump service, heat pump service cost]
 h1: Heat pump servicing in Christchurch, step by step
 serviceName: Heat pump servicing
-intro: A service covers the indoor unit and the outdoor unit. We check the wiring and do a full test run. Here's what happens, in order. That way you know what you're paying for.
+intro: "We service heat pumps across Christchurch, Selwyn and Lyttelton, indoor and outdoor units. Here's every step, in order, so you know what you're paying for."
 hero: servicing-hero
 gallery: [servicing-coil, servicing-outdoor]
 faqHeading: "Heat pump servicing questions"

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in New Brighton
 serviceName: Heat pump installation, servicing and repair
 areaServed: New Brighton
 suburb: New Brighton
-intro: We fit, service and fix heat pumps in New Brighton. Lots of homes here are older cottages and weatherboard houses a short walk from the sand. We'll fix the price with you before we start.
+intro: We fit and service heat pumps in New Brighton's cottages and weatherboard houses near the sand, and we place outdoor units where the salt air does the least harm.
 hero: new-brighton-hero
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in New Brighton"

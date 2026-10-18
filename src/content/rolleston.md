@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston
 suburb: Rolleston
-intro: We fit, service and fix heat pumps all over Rolleston. New subdivisions and older homes alike. Each one is sized for Selwyn frosts, and you get a fixed price before we start.
+intro: "We fit, service and fix heat pumps all over Rolleston, in the new subdivisions and the older homes, and we size each one for Selwyn frosts."
 hero: rolleston-hero
 gallery: [rolleston-newbuild, rolleston-living]
 faqHeading: Questions about heat pumps in Rolleston

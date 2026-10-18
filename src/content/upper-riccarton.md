@@ -7,7 +7,7 @@ h1: Heat pump installation and repair in Upper Riccarton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Upper Riccarton
 suburb: Upper Riccarton
-intro: Upper Riccarton is full of rentals, units and newer infill homes close to the university. We fit, service and fix heat pumps in Upper Riccarton. The price is fixed and agreed with you up front.
+intro: We fit and repair heat pumps in Upper Riccarton's rentals, units and infill homes near the university, and owners and landlords get a fixed price up front.
 hero: upper-riccarton-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Upper Riccarton"

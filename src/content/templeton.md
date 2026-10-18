@@ -7,7 +7,7 @@ h1: Heat pump installation and repair in Templeton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Templeton
 suburb: Templeton
-intro: Templeton is a small township on the south-western edge of the city. It has newer streets, older houses and semi-rural sections around it. We fit, service and fix heat pumps across the lot.
+intro: We fit, service and fix heat pumps across Templeton township, its newer streets and the semi-rural sections around it. Ask us for a fixed-price quote.
 hero: templeton-hero
 gallery: [pool-frost-outdoor, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Templeton"

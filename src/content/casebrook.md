@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Casebrook
 serviceName: Heat pump installation, servicing and repair
 areaServed: Casebrook
 suburb: Casebrook
-intro: "Heat pumps for Casebrook's family homes. That includes replacing units that have reached the end of their life. We agree a fixed price with you before we start."
+intro: "We fit and replace heat pumps in Casebrook's family homes, where lots of the first units are getting old. We'll tell you if a repair beats a new one, at a fixed price."
 hero: casebrook-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Casebrook"

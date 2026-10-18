@@ -7,7 +7,7 @@ h1: Heat pump installation for Edgeware homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Edgeware
 suburb: Edgeware
-intro: "Edgeware mixes old timber cottages and villas with newer townhouses beside and behind them. The cottages lose heat through high ceilings and draughts. The townhouses need heat upstairs. We price both before we start."
+intro: "We fit heat pumps in Edgeware's timber cottages, villas and two-level townhouses. We size for the high ceilings and draughts in the old homes, and get heat upstairs in the new ones."
 hero: edgeware-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Edgeware"

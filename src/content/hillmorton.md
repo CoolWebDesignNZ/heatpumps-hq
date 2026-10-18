@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Hillmorton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hillmorton
 suburb: Hillmorton
-intro: Hillmorton has flat suburban streets and sections near the foot of the Port Hills. On a sloping section, the outdoor unit needs a bracket or a pad cut into the bank. It also needs a planned path for its drain water. The price is agreed before we turn up to do the work.
+intro: We install and service heat pumps in Hillmorton, and on a sloping section we put the outdoor unit on a bracket or a cut pad with a planned path for its drain water.
 hero: hillmorton-hero
 gallery: [pool-hill-home, pool-filters]
 faqHeading: "Questions about heat pumps in Hillmorton"

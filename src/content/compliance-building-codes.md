@@ -4,7 +4,7 @@ description: "Heat pump regulations in NZ explained: when building consent appli
 keyword: heat pump regulations nz
 secondary: [heat pump building consent, does a heat pump need consent, heat pump building code]
 h1: Heat pump regulations in NZ, and when you need consent
-intro: "Four sets of rules cover a heat pump in a New Zealand home. There's building consent and electrical safety. There's product labelling. And if it's a rental, there's the Healthy Homes standard. Noise at the boundary makes five."
+intro: "We fit heat pumps across Christchurch, Selwyn and Lyttelton within five sets of rules: consent, electrical safety, labelling, Healthy Homes for rentals, and noise at the boundary. Here's what each one asks."
 hero: compliance-hero
 updated: 2026-10-17
 gallery: [compliance-certificate, compliance-switchboard]

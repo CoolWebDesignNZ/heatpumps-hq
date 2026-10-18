@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing for Wigram homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Wigram
 suburb: Wigram
-intro: Wigram is mostly newer subdivisions. A newer home suits a different heat pump setup from an older house. We plan, fit, service and fix heat pumps here at a fixed price.
+intro: We plan, fit, service and fix heat pumps in Wigram's newer subdivisions, and we match the setup to a newer home, which needs something different from an older house.
 hero: wigram-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: "Questions about heat pumps in Wigram"

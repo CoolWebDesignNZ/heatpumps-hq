@@ -4,7 +4,7 @@ description: "Got heat pump problems? A symptom by symptom troubleshooting guide
 keyword: heat pump problems
 secondary: [heat pump not heating, common heat pump problems, heat pump troubleshooting guide]
 h1: Heat pump problems you can check yourself
-intro: "A lot of heat pump problems are simple. It's often a setting, a dirty filter, or something in the way of the outdoor unit. Run through the safe checks for your symptom before you book a technician."
+intro: "We fix heat pumps of every major brand, and plenty of faults turn out to be a setting or a dirty filter. Here are the safe checks to run for your symptom first."
 hero: diyguide-hero
 updated: 2026-10-17
 gallery: [diyguide-remote, diyguide-outdoor]

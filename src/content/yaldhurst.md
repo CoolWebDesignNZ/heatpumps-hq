@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Yaldhurst
 serviceName: Heat pump installation, servicing and repair
 areaServed: Yaldhurst
 suburb: Yaldhurst
-intro: Yaldhurst is semi-rural. It's lifestyle blocks and bigger homes on the open plains west of the city. We fit, service and fix heat pumps out here, with the price agreed first.
+intro: We install, service and fix heat pumps on Yaldhurst's lifestyle blocks and bigger homes on the plains west of the city, with the price agreed before we start.
 hero: yaldhurst-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Yaldhurst"

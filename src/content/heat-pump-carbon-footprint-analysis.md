@@ -4,7 +4,7 @@ description: "What is a heat pump's carbon footprint in NZ? How renewable electr
 keyword: heat pump carbon footprint
 secondary: [heat pump vs wood burner, heat pump environmental impact, heat pump emissions]
 h1: The carbon footprint of a heat pump in New Zealand
-intro: A heat pump's emissions come from three places. The power it uses. The refrigerant inside it. And making the unit. Most of our power here is renewable, so the power side stays low. Here's what shapes the rest.
+intro: "We fit heat pumps and recover the refrigerant from every old one we take out. Here's where a heat pump's carbon footprint comes from in New Zealand."
 hero: carbon-hero
 updated: 2026-10-17
 gallery: [carbon-hydro, carbon-woodburner]

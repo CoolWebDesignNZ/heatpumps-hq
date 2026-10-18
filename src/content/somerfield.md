@@ -7,7 +7,7 @@ h1: Heat pump installation in Somerfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Somerfield
 suburb: Somerfield
-intro: Somerfield is flat and settled. It has older bungalows, villas and family homes on generous streets. We fit heat pumps that suit those houses and keep the pipes out of sight. You get a fixed price.
+intro: We fit heat pumps in Somerfield's bungalows, villas and family homes, keep the pipes out of sight, and give you a fixed price before we start.
 hero: somerfield-hero
 gallery: [pool-console-unit, pool-frost-outdoor]
 faqHeading: "Somerfield heat pump questions"

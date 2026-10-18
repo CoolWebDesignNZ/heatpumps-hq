@@ -7,7 +7,7 @@ h1: Heat pump installation in Harewood
 serviceName: Heat pump installation, servicing and repair
 areaServed: Harewood
 suburb: Harewood
-intro: Harewood runs from suburban streets out to semi-rural blocks near the airport. We fit heat pumps that heat in winter and cool in summer. We service and fix them too, all at a fixed price.
+intro: We install heat pumps from Harewood's suburban streets out to the semi-rural blocks by the airport, set up to heat in winter and cool in summer, and we service them too.
 hero: harewood-hero
 gallery: [pool-frost-outdoor, pool-lifestyle]
 faqHeading: "Questions about heat pumps in Harewood"

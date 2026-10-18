@@ -4,7 +4,7 @@ description: "Need a heat pump quote in Christchurch or a repair booked? Our pho
 keyword: contact heat pumps hq
 secondary: [heat pump quote christchurch, heat pumps hq phone]
 h1: Contact Heat Pumps HQ
-intro: Call, email or send the quote form. We work Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton.
+intro: "Call, email or send the quote form and we'll come back to you with a free, fixed-price quote. We work Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton."
 hero: contact-hero
 gallery: [contact-1, contact-2]
 faqHeading: Questions before you contact Heat Pumps HQ

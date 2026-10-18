@@ -5,7 +5,7 @@ keyword: heat pump dehumidifier
 secondary: [heat pump dry mode, dehumidifier heat pump, heat pump dehumidify]
 h1: Using your heat pump as a dehumidifier
 serviceName: Heat pump dehumidification setup
-intro: Most split system heat pumps have a dry mode. It pulls moisture out of the room air. In the right conditions it works well. In others it doesn't. Here's how to tell which is which.
+intro: "We fit and service heat pumps across Christchurch, dry mode included. Here's how dry mode pulls moisture from the room, and when it works and when it doesn't."
 hero: dehumid-hero
 gallery: [dehumid-remote, dehumid-condensation]
 faqHeading: "Heat pump dehumidifier questions"

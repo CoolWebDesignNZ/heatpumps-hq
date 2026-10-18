@@ -5,7 +5,7 @@ keyword: smart heat pump
 secondary: [wifi heat pump, heat pump wifi controller, smart heat pump controller]
 h1: Smart heat pump control with a Wi-Fi controller
 serviceName: Smart heat pump and Wi-Fi controller installation
-intro: A smart heat pump is a normal heat pump with a Wi-Fi controller and an app. You can turn it on before you get home. You can set schedules. You can check the room temperature from anywhere.
+intro: "We fit Wi-Fi controllers to heat pumps across Christchurch, so you can run yours from your phone. We'll check your model first and tell you which app it uses."
 hero: smart-hero
 gallery: [smart-1, smart-2]
 faqHeading: "Smart heat pump questions"

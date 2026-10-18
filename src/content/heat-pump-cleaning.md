@@ -5,7 +5,7 @@ keyword: heat pump cleaning christchurch
 secondary: [heat pump cleaning, heat pump cleaning service, how to clean heat pump]
 h1: Heat pump cleaning in Christchurch
 serviceName: Heat pump cleaning
-intro: You can clean the filters yourself. The real dirt and mould sit behind them, on the coil and fan wheel. Those need a proper clean, with the unit wrapped and the run-off caught.
+intro: "We clean heat pumps across Christchurch, inside and out, with the unit wrapped and the run-off caught. That gets the dirt and mould off the coil and fan wheel behind the filters."
 hero: cleaning-hero
 gallery: [cleaning-blower, cleaning-bag]
 faqHeading: "Heat pump cleaning questions"

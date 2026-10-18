@@ -7,7 +7,7 @@ h1: Heat pump installation in Redwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Redwood
 suburb: Redwood
-intro: Redwood is mostly family homes from the 1960s to the 80s. We fit heat pumps for them, from one lounge unit to a setup that warms every bedroom. We give you a fixed price before any work begins.
+intro: We install heat pumps in Redwood's 1960s to 80s family homes, from a single lounge unit to one in every bedroom, and we fix the price before we start.
 hero: redwood-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Redwood"

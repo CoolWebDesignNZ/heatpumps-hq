@@ -7,7 +7,7 @@ h1: Heat pump installation, servicing and repair in Hornby
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hornby
 suburb: Hornby
-intro: "We fit, service and fix heat pumps in Hornby homes of every age. That's older weatherboard and brick houses through to recent units. You get a fixed price before we start."
+intro: "We fit, service and fix heat pumps across Hornby, from older weatherboard and brick houses with long hallways to well-sealed new townhouses. You get a fixed price before we start."
 hero: hornby-hero
 gallery: [pool-weatherboard, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Hornby"

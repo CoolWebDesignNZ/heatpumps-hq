@@ -5,7 +5,7 @@ keyword: multi room heat pump
 secondary: [multi split heat pump, multi split heat pump nz, multi head heat pump]
 h1: Multi room heat pump systems for heating several rooms at once
 serviceName: Multi room heat pump installation
-intro: A multi split runs two or more indoor units off one outdoor unit. Each room has its own controller. Here's how it stacks up against separate units and ducting.
+intro: "We install multi-room heat pumps, with two or more indoor units on one outdoor unit and a controller in each room. Here's how that compares with separate units and ducting."
 hero: multi-hero
 gallery: [multi-outdoor, multi-bedrooms]
 faqHeading: Multi room heat pump questions

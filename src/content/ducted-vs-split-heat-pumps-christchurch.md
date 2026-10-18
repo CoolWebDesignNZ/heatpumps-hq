@@ -4,7 +4,7 @@ description: "Ducted vs split system: which heat pump suits your house? A side-b
 keyword: ducted vs split system
 secondary: [ducted vs split heat pump, ducted or split system, ducted vs high wall heat pump]
 h1: "Ducted vs split system heat pumps: which suits your house?"
-intro: A split system heats the room it's in. A ducted system heats the house through vents in every room. Both work well in Christchurch. Which is right comes down to the house, the budget and how you use the rooms.
+intro: "We fit both ducted and split system heat pumps in Christchurch, and we'll tell you which suits your house. It comes down to the layout, your budget and how you use the rooms."
 hero: dvs-hero
 updated: 2026-10-17
 gallery: [dvs-vent, dvs-highwall]

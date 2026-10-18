@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Aranui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aranui
 suburb: Aranui
-intro: We fit, service and fix heat pumps in Aranui. Older state houses, newer rebuilt homes and rentals. Every job gets a fixed price before anything goes in.
+intro: "We fit, service and fix heat pumps in Aranui's older state houses, rebuilt homes and rentals. You'll have a fixed price before anything goes in."
 hero: aranui-hero
 gallery: [pool-townhouse, pool-filters]
 faqHeading: Questions about heat pumps in Aranui

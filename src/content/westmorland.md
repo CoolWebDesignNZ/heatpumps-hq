@@ -7,7 +7,7 @@ h1: Heat pump installation for Westmorland's hillside homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Westmorland
 suburb: Westmorland
-intro: Most Westmorland homes are newer and larger. They sit on the lower slopes of the Port Hills, often over more than one level. We set up heat pumps so every part of the house warms properly, at a price agreed before we start.
+intro: We fit heat pumps in Westmorland's newer multi-level homes on the Port Hills, and we set them up so every level warms properly, at a price agreed first.
 hero: westmorland-hero
 gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Westmorland heat pump questions"

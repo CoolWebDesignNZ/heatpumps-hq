@@ -7,7 +7,7 @@ h1: Heat pump installation in New Brighton Central for homes and units
 serviceName: Heat pump installation, servicing and repair
 areaServed: New Brighton Central
 suburb: New Brighton Central
-intro: We fit, service and fix heat pumps around the New Brighton town centre. That covers standalone houses, flats and blocks of units. We agree a fixed price for each job first.
+intro: We install heat pumps around the New Brighton town centre in houses, flats and blocks of units, and we agree a fixed price for each job first.
 hero: new-brighton-central-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "New Brighton Central heat pump questions"

@@ -4,7 +4,7 @@ description: "Searching for the best heat pumps in NZ? No brand wins every house
 keyword: best heat pumps nz
 secondary: [best heat pump brand nz, best heat pump brands, best heat pumps new zealand]
 h1: Best heat pumps for New Zealand homes, and how to judge them
-intro: No one brand is the best in New Zealand. There's a best model for your room in your house. You can find it with a few checks on the energy label and the spec sheet.
+intro: "We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and we pick the model for your room, not the badge. Here are the energy label and spec sheet checks that show which fits."
 hero: bestbrands-hero
 updated: 2026-10-17
 gallery: [bestbrands-labelcheck, bestbrands-quiet]

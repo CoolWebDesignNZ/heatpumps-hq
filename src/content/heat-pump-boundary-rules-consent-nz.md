@@ -4,7 +4,7 @@ description: "How close can a heat pump be to your boundary? Christchurch sets n
 keyword: heat pump boundary rules nz
 secondary: [heat pump boundary rules, heat pump distance from boundary, heat pump consent nz, heat pump noise rules nz]
 h1: Heat pump boundary rules and consent in Christchurch
-intro: In Christchurch, there's no set distance a heat pump has to be from your boundary. What counts is the noise at the neighbour's place. Here are the District Plan limits, and where to put the outdoor unit to meet them.
+intro: "We place outdoor units to meet Christchurch's noise limits. There's no set boundary distance: what counts is the noise at your neighbour's place, and here are the District Plan limits."
 hero: boundary-hero
 updated: 2026-10-17
 gallery: [boundary-screen, boundary-bracket]

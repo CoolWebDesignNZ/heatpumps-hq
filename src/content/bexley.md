@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bexley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bexley
 suburb: Bexley
-intro: We fit, service and fix heat pumps in Bexley. It's low ground by the estuary, and a lot of the homes here have been rebuilt or repaired. You get a fixed price before any work.
+intro: "We fit, service and fix heat pumps in Bexley, on the low ground by the estuary, where many homes have been rebuilt or repaired. You get a fixed price first."
 hero: bexley-hero
 gallery: [pool-newbuild-living, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bexley

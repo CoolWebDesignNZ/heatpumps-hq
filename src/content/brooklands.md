@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Brooklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Brooklands
 suburb: Brooklands
-intro: We fit, service and fix heat pumps in Brooklands. It's the small settlement near the lagoon, on the city's northern edge. Your price is fixed before we start.
+intro: "We fit, service and fix heat pumps in Brooklands, the small settlement near the lagoon on the city's northern edge. We'll fix the price in a free quote."
 hero: brooklands-hero
 gallery: [pool-lifestyle, pool-coastal-home]
 faqHeading: Questions about heat pumps in Brooklands

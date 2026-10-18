@@ -4,7 +4,7 @@ description: "Mitsubishi vs Daikin, Daikin vs Fujitsu, and Toshiba: a plain heat
 keyword: heat pump brands comparison
 secondary: [heat pump brands, mitsubishi vs daikin, daikin vs fujitsu]
 h1: "Heat pump brands comparison: Mitsubishi Electric, Daikin, Fujitsu and Toshiba"
-intro: We fit these four brands. Each has a full New Zealand range and local support. Here you can compare what each one sells here, on facts, not adverts.
+intro: "We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps, so we've no reason to push one. Compare what each brand sells in New Zealand, on facts, not adverts."
 hero: brandcomp-hero
 updated: 2026-10-17
 gallery: [brandcomp-units, brandcomp-outdoor]

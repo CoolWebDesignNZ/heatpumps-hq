@@ -5,7 +5,7 @@ keyword: mitsubishi heat pump repair
 secondary: [mitsubishi heat pump service, mitsubishi heat pumps chch, mitsubishi heat pump repairs]
 h1: Mitsubishi heat pump repair and service in Christchurch
 serviceName: Mitsubishi Electric heat pump repair and servicing
-intro: We fit, service and fix Mitsubishi Electric heat pumps across Christchurch and Selwyn. It might be a ten-year-old wall unit or a new ducted system. Either way, we find the fault and give you a price before we touch it.
+intro: "We service, repair and fit Mitsubishi Electric heat pumps across Christchurch and Selwyn. We find the fault first, then give you a fixed price before we touch it."
 hero: mitsubishi-hero
 gallery: [mitsubishi-1, mitsubishi-2]
 faqHeading: "Mitsubishi heat pump questions"

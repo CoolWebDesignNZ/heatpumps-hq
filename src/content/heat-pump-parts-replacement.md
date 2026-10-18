@@ -5,7 +5,7 @@ keyword: heat pump parts
 secondary: [heat pump remote replacement, heat pump spare parts, heat pump fan motor]
 h1: Heat pump parts and replacement in Christchurch
 serviceName: Heat pump parts replacement
-intro: Lots of heat pump faults come down to one broken part. We find it. We get the right one for your make and model. Then we fit it. You agree the price before we order anything.
+intro: "We replace broken heat pump parts across Christchurch, from remotes to fan motors. We find the faulty part, get the right one for your model, and agree the price before we order."
 hero: parts-hero
 gallery: [parts-fan-motor, parts-board]
 faqHeading: "Heat pump parts questions"

@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Queenspark
 serviceName: Heat pump installation, servicing and repair
 areaServed: Queenspark
 suburb: Queenspark
-intro: We fit, service and fix heat pumps all over Queenspark. It's a suburb of family homes on quiet, flat streets. We agree the price before we begin.
+intro: We fit and repair heat pumps across Queenspark's family homes on quiet, flat streets. Tell us which rooms you want warm and we'll give you a fixed price.
 hero: queenspark-hero
 gallery: [pool-console-unit, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Queenspark"

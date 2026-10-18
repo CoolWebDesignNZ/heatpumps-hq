@@ -7,7 +7,7 @@ h1: Heat pump installation in Papanui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Papanui
 suburb: Papanui
-intro: "We fit, service and fix heat pumps right across Papanui. That covers older villas and bungalows, and the townhouses that now share lots of its sections. The price is fixed before we start."
+intro: "We fit, service and fix heat pumps right across Papanui, in its villas, bungalows and newer townhouses. We size each one for how fast that house loses heat, at a fixed price."
 hero: heat-pumps-papanui-hero
 gallery: [pool-weatherboard, pool-townhouse]
 faqHeading: "Questions about heat pumps in Papanui"
