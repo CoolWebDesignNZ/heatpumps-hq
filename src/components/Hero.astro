@@ -25,10 +25,10 @@ const { image, h1, intro, suburb = '', meta } = Astro.props;
 </section>
 <section class="trust">
   <div class="wrap trust-in">
-    <span>Over {Math.floor((new Date().getFullYear() - site.founded) / 5) * 5} years in business</span>
-    <span>Trained and certified team</span>
-    <span>All major brands</span>
-    <span>Fully insured</span>
+    <div><strong>{Math.floor((new Date().getFullYear() - site.founded) / 5) * 5}+</strong><span>years in business</span></div>
+    <div><strong>Certified</strong><span>trained team</span></div>
+    <div><strong>All brands</strong><span>serviced and repaired</span></div>
+    <div><strong>Insured</strong><span>fully covered</span></div>
   </div>
 </section>
 <style>
@@ -45,13 +45,19 @@ const { image, h1, intro, suburb = '', meta } = Astro.props;
   .hero :global(.crumbs-hero) { margin-bottom: 1.2em; color: rgba(255, 255, 255, .8); }
   .hero :global(.crumbs-hero a) { color: rgba(255, 255, 255, .8); }
   .hero-form { color: var(--ink); }
-  .trust { background: var(--paper-warm); }
-  .trust-in { display: grid; grid-template-columns: repeat(4, 1fr); text-align: center; font-weight: 650; font-size: 1.1rem; }
-  .trust-in span { padding: 26px 12px; }
+  .trust { background: #fff; box-shadow: 0 1px 0 rgba(0, 0, 0, .06); }
+  .trust-in { display: grid; grid-template-columns: repeat(4, 1fr); text-align: center; }
+  .trust-in > div { padding: 26px 12px; display: flex; flex-direction: column; gap: 2px; }
+  .trust-in > div + div { border-left: 1px solid #e6e9ec; }
+  .trust-in strong { font-size: 1.6rem; font-weight: 800; color: var(--brand); letter-spacing: -0.02em; line-height: 1.15; }
+  .trust-in span { font-size: .95rem; color: var(--ink-soft); }
   @media (max-width: 960px) {
     .hero-in { grid-template-columns: 1fr; gap: 40px; padding-top: 56px; padding-bottom: 56px; min-height: 0; }
     .hero-shade { background: rgba(12, 22, 34, .7); }
     .trust-in { grid-template-columns: 1fr 1fr; }
-    .trust-in span { padding: 16px 8px; }
+    .trust-in > div { padding: 18px 8px; }
+    .trust-in > div:nth-child(3) { border-left: 0; }
+    .trust-in > div:nth-child(n+3) { border-top: 1px solid #e6e9ec; }
+    .trust-in strong { font-size: 1.3rem; }
   }
 </style>
