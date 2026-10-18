@@ -57,4 +57,4 @@ We service and fix heat pumps right across Bromley. With the dust here, a yearly
 
 We also work in [Linwood](/linwood/), [Aranui](/aranui/), [Wainoni](/wainoni/) and [Phillipstown](/phillipstown/).
 
-Call **03 242 1023** or ask for a quote for your Bromley home.
+Call **[03 242 1023](tel:032421023)** or ask for a quote for your Bromley home.

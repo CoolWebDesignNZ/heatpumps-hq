@@ -68,4 +68,4 @@ We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic u
 
 We also cover [Beckenham](/beckenham/), [Spreydon](/spreydon/), [Sydenham](/sydenham/) and [Cashmere](/cashmere/).
 
-Call **03 242 1023** or send the form for a free fixed-price quote in Somerfield.
+Call **[03 242 1023](tel:032421023)** or send the form for a free fixed-price quote in Somerfield.

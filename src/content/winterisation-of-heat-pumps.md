@@ -81,4 +81,4 @@ Some just need a clean. Some need a [repair](/heat-pump-repair/). An older unit 
 
 We clean and check the indoor and outdoor units. We test the heat output. We check the defrost drainage under the outdoor unit. Then we set up the remote and timer with you. For the full list, see [heat pump servicing](/heat-pump-servicing/). We book visits Monday to Friday, between 8am and 5pm.
 
-Call **03 242 1023** to get your heat pump ready for winter, or [ask for a quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** to get your heat pump ready for winter, or [ask for a quote](/contact-us/).

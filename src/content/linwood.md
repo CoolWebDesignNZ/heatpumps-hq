@@ -63,4 +63,4 @@ A heat pump that runs every winter evening gets dusty fast. Book a full [service
 
 We also cover [Phillipstown](/phillipstown/), [Bromley](/bromley/) and [Aranui](/aranui/). Further east, we cover [Wainoni](/wainoni/).
 
-For a fixed-price quote in Linwood, call **03 242 1023** or send us the form.
+For a fixed-price quote in Linwood, call **[03 242 1023](tel:032421023)** or send us the form.

@@ -102,4 +102,4 @@ We pick your heat pump on a site visit, with no favourite brand. First we size t
 
 After that, we compare suitable models from all four brands. We weigh their cold-weather output, efficiency and noise. You get our advice and a fixed price before any work starts. The quote is free.
 
-Phone **03 242 1023** or [request a quote](/contact-us/). To see what each brand sells, read our [heat pump brands comparison](/heat-pump-brands-comparison/).
+Phone **[03 242 1023](tel:032421023)** or [request a quote](/contact-us/). To see what each brand sells, read our [heat pump brands comparison](/heat-pump-brands-comparison/).

@@ -68,4 +68,4 @@ We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. 
 
 We also work in [Parklands](/parklands/), [North New Brighton](/north-new-brighton/), [Queenspark](/queenspark/) and [Brooklands](/brooklands/).
 
-For a fixed-price quote in Bottle Lake, call **03 242 1023** or send the form.
+For a fixed-price quote in Bottle Lake, call **[03 242 1023](tel:032421023)** or send the form.

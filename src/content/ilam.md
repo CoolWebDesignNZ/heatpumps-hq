@@ -58,4 +58,4 @@ Ilam comes under the Christchurch District Plan. That means outdoor unit noise i
 
 We also work in [Upper Riccarton](/upper-riccarton/), [Riccarton](/heat-pumps-riccarton/), [Avonhead](/avonhead/), [Fendalton](/fendalton/) and [Bryndwr](/bryndwr/).
 
-Call **03 242 1023** or send the form for a free quote on your Ilam home or rental.
+Call **[03 242 1023](tel:032421023)** or send the form for a free quote on your Ilam home or rental.

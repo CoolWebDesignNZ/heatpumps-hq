@@ -67,4 +67,4 @@ We supply and fit **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We'll re
 
 ## Get a heat pump replacement quote
 
-We replace heat pumps across Christchurch, Selwyn and Lyttelton. Call **03 242 1023** or [ask for a free fixed-price quote](/contact-us/). Tell us the brand of your current heat pump and roughly how old it is.
+We replace heat pumps across Christchurch, Selwyn and Lyttelton. Call **[03 242 1023](tel:032421023)** or [ask for a free fixed-price quote](/contact-us/). Tell us the brand of your current heat pump and roughly how old it is.

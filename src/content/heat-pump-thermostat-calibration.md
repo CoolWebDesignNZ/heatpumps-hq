@@ -73,4 +73,4 @@ In winter, use Heat mode. Pick one steady temperature. Leave the fan on auto.
 
 With Wi-Fi controls on [smart heat pump systems](/smart-heat-pump-systems/), your phone shows the temperature the unit is reading. That makes a mismatch easier to spot.
 
-If your heat pump never seems to reach the setting, call **03 242 1023**. We'll test the sensors and controls on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
+If your heat pump never seems to reach the setting, call **[03 242 1023](tel:032421023)**. We'll test the sensors and controls on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.

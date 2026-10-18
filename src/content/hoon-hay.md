@@ -61,4 +61,4 @@ A unit working through Hoon Hay winters needs a [service](/maintenance-servicing
 
 We also cover [Hillmorton](/hillmorton/), [Westmorland](/westmorland/), [Spreydon](/spreydon/), [Halswell](/halswell/) and [Aidanfield](/aidanfield/).
 
-Call **03 242 1023** or use the form to ask for a free quote for your Hoon Hay home.
+Call **[03 242 1023](tel:032421023)** or use the form to ask for a free quote for your Hoon Hay home.

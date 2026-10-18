@@ -100,4 +100,4 @@ Take this with you when you compare quotes.
 
 ## Get advice on how to choose a heat pump for your house
 
-We can quote on Mitsubishi Electric, Daikin, Fujitsu or Toshiba. So you get a choice across four brands, not one. We look at your rooms, insulation and windows, and how you use the house. The quote is free, and the price is fixed before any work begins. To book a visit, call **03 242 1023** or [send us your details](/contact-us/).
+We can quote on Mitsubishi Electric, Daikin, Fujitsu or Toshiba. So you get a choice across four brands, not one. We look at your rooms, insulation and windows, and how you use the house. The quote is free, and the price is fixed before any work begins. To book a visit, call **[03 242 1023](tel:032421023)** or [send us your details](/contact-us/).

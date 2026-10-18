@@ -67,4 +67,4 @@ Each spot needs clear airflow, a way to drain and room for us to service it. Noi
 
 We also work in [Cracroft](/cracroft/), [Cashmere](/cashmere/), [Hoon Hay](/hoon-hay/), [Kennedys Bush](/kennedys-bush/) and [Halswell](/halswell/).
 
-For a free quote in Westmorland, call **03 242 1023** or fill in the form.
+For a free quote in Westmorland, call **[03 242 1023](tel:032421023)** or fill in the form.

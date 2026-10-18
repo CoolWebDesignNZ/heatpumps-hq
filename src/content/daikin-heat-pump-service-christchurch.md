@@ -75,4 +75,4 @@ On a Daikin in good condition, lots of faults are worth fixing. But say the comp
 
 We cover all of Christchurch and Lyttelton. We also cover Selwyn towns like [Rolleston](/rolleston/) and [Lincoln](/lincoln/).
 
-To book a Daikin heat pump repair or service, call **03 242 1023** or ask for a quote.
+To book a Daikin heat pump repair or service, call **[03 242 1023](tel:032421023)** or ask for a quote.

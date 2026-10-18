@@ -77,4 +77,4 @@ We find the cause first. We don't swap parts on a guess. That's how our [fault f
 
 We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other heat pumps sold in New Zealand. Our area is Christchurch, Selwyn and Lyttelton.
 
-Heat pump failed? Make it safe and call **03 242 1023** as early in the working day as you can.
+Heat pump failed? Make it safe and call **[03 242 1023](tel:032421023)** as early in the working day as you can.

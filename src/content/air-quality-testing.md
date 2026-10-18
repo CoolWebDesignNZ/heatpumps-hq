@@ -65,4 +65,4 @@ Most of the work comes down to three things. Clean filters. A yearly [service](/
 
 ## Book air quality testing in Christchurch
 
-We check heat pumps anywhere in Christchurch, Selwyn or Lyttelton. Call **03 242 1023** or [book online](/contact-us/).
+We check heat pumps anywhere in Christchurch, Selwyn or Lyttelton. Call **[03 242 1023](tel:032421023)** or [book online](/contact-us/).

@@ -71,4 +71,4 @@ The same systems cool in summer. [Air conditioning installation](/air-conditioni
 
 ## Not sure if you need a single or multi room heat pump?
 
-We'll come and look at the house. Then we'll tell you which option suits it, with a fixed price. Call **03 242 1023** to book a visit, or use the form for a free quote.
+We'll come and look at the house. Then we'll tell you which option suits it, with a fixed price. Call **[03 242 1023](tel:032421023)** to book a visit, or use the form for a free quote.

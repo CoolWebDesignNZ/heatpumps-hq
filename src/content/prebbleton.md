@@ -78,4 +78,4 @@ For installs in Prebbleton we use Mitsubishi Electric, Daikin, Fujitsu and Toshi
 
 We also cover [Rolleston](/rolleston/), [Lincoln](/lincoln/), [Halswell](/halswell/) and [Tai Tapu](/tai-tapu/).
 
-Call **03 242 1023** to book a free quote in Prebbleton. Or send your plans or address through the form.
+Call **[03 242 1023](tel:032421023)** to book a free quote in Prebbleton. Or send your plans or address through the form.

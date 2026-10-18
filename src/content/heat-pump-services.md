@@ -13,7 +13,7 @@ faqs:
   - q: Which brands do you service?
     a: Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For servicing and repairs we add Panasonic and most other brands sold here.
   - q: What are your hours?
-    a: Monday to Friday, 8am to 5pm. Call 03 242 1023 or send the quote form.
+    a: Monday to Friday, 8am to 5pm. Call <a href="tel:032421023">03 242 1023</a> or send the quote form.
   - q: Do you give a price before starting?
     a: Yes. Quotes are free. We fix the price and agree it with you before we start.
 related:
@@ -86,4 +86,4 @@ How much warmth do you get for the power you use? And how's the air in the rooms
 
 ## Book a heat pump service or quote
 
-Call **03 242 1023**, Monday to Friday, or use the quote form. Quotes are free, and you'll know the price before a single tool comes out.
+Call **[03 242 1023](tel:032421023)**, Monday to Friday, or use the quote form. Quotes are free, and you'll know the price before a single tool comes out.

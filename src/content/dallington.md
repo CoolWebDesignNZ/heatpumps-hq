@@ -62,4 +62,4 @@ Did your Dallington home come with a heat pump? It may not have had a service in
 
 We cover [Avondale](/avondale/), [Burwood](/burwood/), [Shirley](/shirley/), [Wainoni](/wainoni/) and the rest of [Christchurch](/locations/).
 
-To book a quote in Dallington, call **03 242 1023** or send the form.
+To book a quote in Dallington, call **[03 242 1023](tel:032421023)** or send the form.

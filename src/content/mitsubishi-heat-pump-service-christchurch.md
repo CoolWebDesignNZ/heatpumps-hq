@@ -69,4 +69,4 @@ Older homes here tend to have cold halls and bedrooms. A second unit helps there
 
 We cover Christchurch, Selwyn and Lyttelton. That includes [Halswell](/halswell/), [Rolleston](/rolleston/) and [Cashmere](/cashmere/).
 
-For a Mitsubishi repair or service, call **03 242 1023**. Have the model number handy when you ring.
+For a Mitsubishi repair or service, call **[03 242 1023](tel:032421023)**. Have the model number handy when you ring.

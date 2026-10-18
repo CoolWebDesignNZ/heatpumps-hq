@@ -61,4 +61,4 @@ Sound carries differently on a hillside. An outdoor unit below a neighbour's dec
 
 We also cover [Cracroft](/cracroft/), [Westmorland](/westmorland/), [Beckenham](/beckenham/), [Hillmorton](/hillmorton/) and [Somerfield](/somerfield/).
 
-Phone **03 242 1023** or fill in the form for a free quote on your Cashmere home.
+Phone **[03 242 1023](tel:032421023)** or fill in the form for a free quote on your Cashmere home.

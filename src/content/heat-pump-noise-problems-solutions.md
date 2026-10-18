@@ -92,4 +92,4 @@ Christchurch has no set distance a heat pump must be from the boundary. What cou
 
 ## Getting a noisy heat pump fixed
 
-We'll find where the noise is coming from and fix it. We'll also tell you if the unit would be quieter somewhere else. Ring **03 242 1023** or [get in touch online](/contact-us/).
+We'll find where the noise is coming from and fix it. We'll also tell you if the unit would be quieter somewhere else. Ring **[03 242 1023](tel:032421023)** or [get in touch online](/contact-us/).

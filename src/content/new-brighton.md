@@ -63,4 +63,4 @@ Any of those means it's time to book a [heat pump repair](/heat-pump-repair/) vi
 
 We also cover [North New Brighton](/north-new-brighton/), [New Brighton Central](/new-brighton-central/), [South New Brighton](/south-new-brighton/), [Bexley](/bexley/) and [Wainoni](/wainoni/).
 
-Call **03 242 1023** or ask for a free quote for your New Brighton home.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote for your New Brighton home.

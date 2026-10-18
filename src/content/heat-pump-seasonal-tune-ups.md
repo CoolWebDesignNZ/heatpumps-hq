@@ -82,4 +82,4 @@ Airflow feels weak? Takes ages to warm the room? Book the tune-up now. Don't wai
 
 We tune up wall, floor console, multi-room and ducted heat pumps. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand.
 
-Call **03 242 1023** to book a tune-up, or [ask for a quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** to book a tune-up, or [ask for a quote](/contact-us/).

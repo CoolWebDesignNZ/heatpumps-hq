@@ -64,4 +64,4 @@ Lots of Belfast houses were built with one living area unit as standard. Adding 
 
 We also cover [Redwood](/redwood/), [Casebrook](/casebrook/), [Marshland](/marshland/), [Harewood](/harewood/) and the rest of [Christchurch](/locations/).
 
-Phone **03 242 1023** or use the form for a free quote on heating your Belfast home.
+Phone **[03 242 1023](tel:032421023)** or use the form for a free quote on heating your Belfast home.

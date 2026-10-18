@@ -56,4 +56,4 @@ We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. This close to salt wate
 
 We also cover [New Brighton](/new-brighton/), [New Brighton Central](/new-brighton-central/), [Bexley](/bexley/) and [Aranui](/aranui/).
 
-Call **03 242 1023** or ask for a quote for your South New Brighton home.
+Call **[03 242 1023](tel:032421023)** or ask for a quote for your South New Brighton home.

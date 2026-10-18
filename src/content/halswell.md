@@ -66,4 +66,4 @@ Across Halswell we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We also
 
 We also cover [Aidanfield](/aidanfield/), [Kennedys Bush](/kennedys-bush/), [Wigram](/wigram/), [Tai Tapu](/tai-tapu/) and [Prebbleton](/prebbleton/).
 
-For a free, fixed-price quote in Halswell, call **03 242 1023** or ask for one online.
+For a free, fixed-price quote in Halswell, call **[03 242 1023](tel:032421023)** or ask for one online.

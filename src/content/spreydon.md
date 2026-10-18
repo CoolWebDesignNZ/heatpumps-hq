@@ -67,4 +67,4 @@ If you don't have a heat pump yet, we measure each room. We check how it's insul
 
 We also work in [Somerfield](/somerfield/), [Hillmorton](/hillmorton/), [Hoon Hay](/hoon-hay/) and [Addington](/heat-pumps-addington/).
 
-To get a fixed-price quote in Spreydon, call **03 242 1023** or use the form.
+To get a fixed-price quote in Spreydon, call **[03 242 1023](tel:032421023)** or use the form.

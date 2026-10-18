@@ -80,4 +80,4 @@ In your bedroom or a child's, a small heat pump on a timer keeps the room warm o
 
 Does the heat pump smell musty? Make you sneeze when it runs? Hasn't been cleaned in a couple of years? We can check it and clean it properly. Our [air quality check](/air-quality-testing/) shows what we look at.
 
-Phone **03 242 1023** or [ask for a quote](/contact-us/).
+Phone **[03 242 1023](tel:032421023)** or [ask for a quote](/contact-us/).

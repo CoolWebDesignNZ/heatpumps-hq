@@ -84,4 +84,4 @@ Some of these need a clean. Some need a [repair](/heat-pump-repair/). We'll tell
 
 We look after wall, floor console, multi-room and ducted systems. Brands are Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold in New Zealand. Got more than one unit, or a rental to keep on top of? A [service plan](/customised-heat-pump-service-plans/) keeps every unit on a schedule.
 
-Call **03 242 1023** to book a service, or [ask for a quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** to book a service, or [ask for a quote](/contact-us/).

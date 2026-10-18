@@ -130,4 +130,4 @@ Towns in Selwyn District, where the Selwyn District Plan applies instead of Chri
 
 ## Heat pumps for suburbs not on this list
 
-If your street is near one of these areas and you're not sure we cover it, call **03 242 1023** and ask, or request a free quote with the quote form at the top.
+If your street is near one of these areas and you're not sure we cover it, call **[03 242 1023](tel:032421023)** and ask, or request a free quote with the quote form at the top.

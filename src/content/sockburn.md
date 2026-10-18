@@ -60,4 +60,4 @@ Before you pay for a new heat pump, we find out what's actually failed in the ol
 
 We also work in [Hornby](/heat-pumps-hornby/), [Upper Riccarton](/upper-riccarton/), [Wigram](/wigram/) and [Riccarton](/heat-pumps-riccarton/).
 
-Ring **03 242 1023** or use the form to get a free fixed-price quote for your Sockburn home.
+Ring **[03 242 1023](tel:032421023)** or use the form to get a free fixed-price quote for your Sockburn home.

@@ -69,4 +69,4 @@ In Lyttelton we fit Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We also ser
 
 We also work in [Heathcote Valley](/heathcote-valley/), [Sumner](/sumner/) and across [greater Christchurch](/locations/).
 
-For a quote on your Lyttelton home, call **03 242 1023**. Or use the form to tell us about the house.
+For a quote on your Lyttelton home, call **[03 242 1023](tel:032421023)**. Or use the form to tell us about the house.

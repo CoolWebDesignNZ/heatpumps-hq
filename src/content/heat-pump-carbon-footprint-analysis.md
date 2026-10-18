@@ -77,4 +77,4 @@ Mostly, choose it well and look after it.
 - Get it serviced every year, so leaks get caught early.
 - If the unit is sound, repair it. Don't replace it.
 
-Want a heat pump that suits your house and runs efficiently? Give us a call on **03 242 1023**, or [ask for a free fixed-price quote](/contact-us/).
+Want a heat pump that suits your house and runs efficiently? Give us a call on **[03 242 1023](tel:032421023)**, or [ask for a free fixed-price quote](/contact-us/).

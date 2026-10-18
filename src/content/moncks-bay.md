@@ -57,4 +57,4 @@ For new systems, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For ex
 
 We also work in [Redcliffs](/redcliffs/), [Mount Pleasant](/mount-pleasant/), [Clifton](/clifton/) and [Sumner](/sumner/).
 
-Phone **03 242 1023** for a free quote in Moncks Bay. Or leave your details on the form and we'll call you back.
+Phone **[03 242 1023](tel:032421023)** for a free quote in Moncks Bay. Or leave your details on the form and we'll call you back.

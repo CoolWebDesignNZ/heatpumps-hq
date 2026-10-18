@@ -76,4 +76,4 @@ We don't fit Panasonic. So our quote for a new unit will be a Mitsubishi Electri
 
 Weighing it up? Start with [choosing a heat pump](/choosing-heat-pump/), then look at our [brand comparison](/heat-pump-brands-comparison/) of the four we fit.
 
-To book a Panasonic repair or service, call **03 242 1023**.
+To book a Panasonic repair or service, call **[03 242 1023](tel:032421023)**.

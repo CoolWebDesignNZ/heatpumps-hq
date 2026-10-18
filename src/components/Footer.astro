@@ -1,5 +1,6 @@
 ---
 import site from '../data/site.json';
+import Logo from './Logo.astro';
 const services = [
   ['Heat pump installation', '/heat-pump-installation-in-christchurch/'],
   ['Ducted heat pumps', '/ducted-heat-pumps-christchurch/'],
@@ -28,7 +29,7 @@ const map = 'https://www.openstreetmap.org/export/embed.html?bbox=172.36%2C-43.7
 <footer class="ftr">
   <div class="wrap cols">
     <div>
-      <a href="/" class="f-logo"><img src="/logo-white.png" alt={site.name} width="279" height="92" loading="lazy" /></a>
+      <a href="/" class="f-logo"><Logo /></a>
       <p class="f-blurb">We fit, service and repair heat pumps in homes across Christchurch, Selwyn and Lyttelton. Mitsubishi Electric, Daikin, Fujitsu and Toshiba installed, all the major brands serviced, and a fixed price before we start.</p>
       <a class="f-call" href={site.phoneHref}><span>Call now</span>{site.phone}</a>
       <p class="f-head">Hours</p>
@@ -70,7 +71,8 @@ const map = 'https://www.openstreetmap.org/export/embed.html?bbox=172.36%2C-43.7
   .ftr ul { list-style: none; padding: 0; margin: 0 0 14px; }
   .ftr li { margin-bottom: 8px; }
   .f-logo { display: block; margin-bottom: 18px; line-height: 0; }
-  .f-logo img { height: 64px; width: auto; }
+  .f-logo { color: #fff; }
+  .f-logo :global(svg) { height: 66px; width: auto; }
   .f-blurb { line-height: 1.6; }
   .f-head { font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: .08em; font-size: 1rem; margin-bottom: 18px !important; }
   .ftr .f-call { display: inline-block; background: #fff; color: var(--brand-ink); border-radius: 12px; padding: 12px 22px; margin: 10px 0 32px; font-weight: 800; font-size: 1.5rem; line-height: 1.2; }

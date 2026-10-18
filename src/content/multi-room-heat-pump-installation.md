@@ -63,4 +63,4 @@ We fit multi room systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 
 ## Talk to us about your rooms
 
-Call **03 242 1023** or ask for a free quote. Tell us how many rooms you'd like heated. We do this work across Christchurch, Selwyn and Lyttelton.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us how many rooms you'd like heated. We do this work across Christchurch, Selwyn and Lyttelton.

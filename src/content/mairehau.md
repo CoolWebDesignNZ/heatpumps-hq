@@ -61,4 +61,4 @@ After the install, we look after heat pumps right across Mairehau:
 
 We also work in [Shirley](/shirley/), [Marshland](/marshland/), [St Albans](/st-albans/), [Northcote](/northcote/) and all of [Christchurch](/locations/).
 
-For a free quote in Mairehau, ring **03 242 1023** or fill in the form below.
+For a free quote in Mairehau, ring **[03 242 1023](tel:032421023)** or fill in the form below.

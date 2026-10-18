@@ -79,4 +79,4 @@ No two installs cost the same. Your quote costs nothing, and the price is locked
 
 ## Book a home visit in Christchurch
 
-We fit heat pumps across Christchurch, Selwyn and Lyttelton, Monday to Friday. Call **03 242 1023** or send the quote form. We'll book a time to come round and see the house.
+We fit heat pumps across Christchurch, Selwyn and Lyttelton, Monday to Friday. Call **[03 242 1023](tel:032421023)** or send the quote form. We'll book a time to come round and see the house.

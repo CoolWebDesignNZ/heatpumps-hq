@@ -66,4 +66,4 @@ Here's what we do for Central City apartments and townhouses:
 
 We also work in [Edgeware](/edgeware/), [Addington](/heat-pumps-addington/), [Sydenham](/sydenham/), [Phillipstown](/phillipstown/) and [Linwood](/linwood/).
 
-For a quote on a Central City apartment or townhouse, call **03 242 1023** or send the form.
+For a quote on a Central City apartment or townhouse, call **[03 242 1023](tel:032421023)** or send the form.

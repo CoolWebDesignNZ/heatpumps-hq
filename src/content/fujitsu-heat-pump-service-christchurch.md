@@ -77,4 +77,4 @@ If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usua
 
 We fit General Airstage, Mitsubishi Electric, Daikin and Toshiba. So you can weigh a straight swap against the other options. Each one is sized for your rooms, not matched to the old unit.
 
-To book a Fujitsu repair or service in Christchurch, call **03 242 1023**.
+To book a Fujitsu repair or service in Christchurch, call **[03 242 1023](tel:032421023)**.

@@ -67,4 +67,4 @@ On the hill we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Got a unit 
 
 We also work in [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Tai Tapu](/tai-tapu/).
 
-For a free quote in Kennedys Bush, call **03 242 1023** or send us the form with your address.
+For a free quote in Kennedys Bush, call **[03 242 1023](tel:032421023)** or send us the form with your address.

@@ -63,4 +63,4 @@ We service and fix heat pumps all over Avondale. Many went in during earthquake 
 
 We also work in [Dallington](/dallington/), [Wainoni](/wainoni/), [Burwood](/burwood/), [Aranui](/aranui/) and [Bexley](/bexley/).
 
-For a quote in Avondale, call **03 242 1023** or fill in the form.
+For a quote in Avondale, call **[03 242 1023](tel:032421023)** or fill in the form.

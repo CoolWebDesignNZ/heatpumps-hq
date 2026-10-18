@@ -59,4 +59,4 @@ We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, 
 
 We also cover [Queenspark](/queenspark/), [Burwood](/burwood/), [North New Brighton](/north-new-brighton/) and [Bottle Lake](/bottle-lake/).
 
-Call **03 242 1023** or ask for a free quote for your Parklands home.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote for your Parklands home.

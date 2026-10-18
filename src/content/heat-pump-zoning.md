@@ -77,4 +77,4 @@ Zoning is a ducted system term. Wall units and floor consoles already have their
 
 ## Ask about zoning
 
-Call **03 242 1023** or ask for a free quote. Tell us if you've got a ducted system now or you're planning a new one.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us if you've got a ducted system now or you're planning a new one.

@@ -75,4 +75,4 @@ Here's what we do across Oaklands:
 
 We also cover [Halswell](/halswell/), [Hoon Hay](/hoon-hay/), [Westmorland](/westmorland/) and [Aidanfield](/aidanfield/).
 
-To get a free quote on your Oaklands home, call **03 242 1023** or fill in the form.
+To get a free quote on your Oaklands home, call **[03 242 1023](tel:032421023)** or fill in the form.

@@ -108,4 +108,4 @@ A cover that blocks airflow costs you heat in winter. [Heat pump covers](/covers
 
 Getting a new heat pump? The answer may be a better spot for the outdoor unit. A unit tucked beside a garage or behind some planting may not need a cover at all. When we plan an [installation](/heat-pump-installation-in-christchurch/), we can pick a spot that works for looks, airflow and noise at the boundary.
 
-For advice on a cover for your outdoor unit, call **03 242 1023** or [request a quote online](/contact-us/).
+For advice on a cover for your outdoor unit, call **[03 242 1023](tel:032421023)** or [request a quote online](/contact-us/).

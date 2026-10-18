@@ -65,4 +65,4 @@ Here's what we do in Phillipstown:
 
 Nearby, we work in [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
 
-Call **03 242 1023** or use the form for a fixed-price quote on your Phillipstown property.
+Call **[03 242 1023](tel:032421023)** or use the form for a fixed-price quote on your Phillipstown property.

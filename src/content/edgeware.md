@@ -61,4 +61,4 @@ Here's what we do in Edgeware cottages, villas and townhouses:
 
 Close by, we cover [St Albans](/st-albans/) and [the Central City](/central-business-district-cbd/). [Mairehau](/mairehau/) is a little further north.
 
-Ring **03 242 1023** or send the form. We'll come to your Edgeware home for a free quote.
+Ring **[03 242 1023](tel:032421023)** or send the form. We'll come to your Edgeware home for a free quote.

@@ -76,4 +76,4 @@ It's running and blowing warm air, but the room never gets comfy? The heat pump 
 
 Once we've found the fault, you get a fixed price to fix it before we start. On an older unit, a [heat pump repair](/heat-pump-repair/) isn't always worth it. If so, we'll say so and tell you why.
 
-We find faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps. Most other brands sold in New Zealand too. To book anywhere in Christchurch, Selwyn or Lyttelton, call **03 242 1023**.
+We find faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps. Most other brands sold in New Zealand too. To book anywhere in Christchurch, Selwyn or Lyttelton, call **[03 242 1023](tel:032421023)**.

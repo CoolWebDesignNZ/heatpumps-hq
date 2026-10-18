@@ -90,4 +90,4 @@ Own a unit title? The body corporate rules may say where an outdoor unit can go.
 
 ## Installing a heat pump within the regulations
 
-We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. The electrical connection is always done by a licensed electrical worker. For a free fixed-price quote, phone **03 242 1023** or [contact us online](/contact-us/).
+We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. The electrical connection is always done by a licensed electrical worker. For a free fixed-price quote, phone **[03 242 1023](tel:032421023)** or [contact us online](/contact-us/).

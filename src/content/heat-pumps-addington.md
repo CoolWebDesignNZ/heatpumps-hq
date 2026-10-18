@@ -63,4 +63,4 @@ Here's what we do in Addington:
 
 We also cover [Sydenham](/sydenham/), [Riccarton](/heat-pumps-riccarton/), [Spreydon](/spreydon/) and [the Central City](/central-business-district-cbd/).
 
-Call **03 242 1023** or fill in the form for a free quote in Addington.
+Call **[03 242 1023](tel:032421023)** or fill in the form for a free quote in Addington.

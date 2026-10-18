@@ -58,4 +58,4 @@ Once your heat pump's in, we look after it:
 
 We also work in [St Albans](/st-albans/), [Northcote](/northcote/), [Bryndwr](/bryndwr/), [Casebrook](/casebrook/) and the rest of [Christchurch](/locations/).
 
-For a free quote on a heat pump for your Papanui home, call **03 242 1023**. Or send us the form.
+For a free quote on a heat pump for your Papanui home, call **[03 242 1023](tel:032421023)**. Or send us the form.

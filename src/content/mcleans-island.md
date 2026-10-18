@@ -60,4 +60,4 @@ McLeans Island is in Christchurch City, so the Christchurch District Plan applie
 
 We also work in [Yaldhurst](/yaldhurst/), [Templeton](/templeton/), [Russley](/russley/) and [Harewood](/harewood/).
 
-For a free quote on your McLeans Island property, call **03 242 1023** or send us the form.
+For a free quote on your McLeans Island property, call **[03 242 1023](tel:032421023)** or send us the form.

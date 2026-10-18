@@ -63,4 +63,4 @@ Units on rural properties pick up dust, pollen and grass seed. Plants can grow i
 
 We cover [Brooklands](/brooklands/), [Marshland](/marshland/), [Bottle Lake](/bottle-lake/), [Parklands](/parklands/) and the rest of [greater Christchurch](/locations/).
 
-For a free fixed-price quote in Spencerville, phone **03 242 1023** or send the form and we'll come and look.
+For a free fixed-price quote in Spencerville, phone **[03 242 1023](tel:032421023)** or send the form and we'll come and look.

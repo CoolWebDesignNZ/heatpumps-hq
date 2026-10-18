@@ -68,4 +68,4 @@ We fit air conditioning from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. T
 
 ## Get an air con installation quote
 
-Tell us which rooms get too hot, and when. Phone **03 242 1023** or ask for a free quote. We'll come and measure up anywhere in Christchurch, Selwyn or Lyttelton.
+Tell us which rooms get too hot, and when. Phone **[03 242 1023](tel:032421023)** or ask for a free quote. We'll come and measure up anywhere in Christchurch, Selwyn or Lyttelton.

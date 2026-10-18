@@ -73,4 +73,4 @@ Already got a cover? We can check it at your next [service](/heat-pump-servicing
 
 You can get timber screens, aluminium louvred covers and simple roof shelters. Each has its trade-offs. Our [heat pump covers guide](/best-heat-pump-covers-nz/) compares the types and what to look for.
 
-Call **03 242 1023** for help with a cover for your outdoor unit. Or [ask for a quote](/contact-us/) on an install or service.
+Call **[03 242 1023](tel:032421023)** for help with a cover for your outdoor unit. Or [ask for a quote](/contact-us/) on an install or service.

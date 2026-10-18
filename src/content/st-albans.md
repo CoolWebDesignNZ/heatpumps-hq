@@ -67,4 +67,4 @@ Plenty of St Albans homes have a heat pump a previous owner put in. Is yours noi
 
 We also work in [Edgeware](/edgeware/), [Mairehau](/mairehau/), [Papanui](/heat-pumps-papanui/), [Shirley](/shirley/) and the [central city](/central-business-district-cbd/).
 
-Ring **03 242 1023** or fill in the form for a free quote on your St Albans home.
+Ring **[03 242 1023](tel:032421023)** or fill in the form for a free quote on your St Albans home.

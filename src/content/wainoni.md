@@ -63,4 +63,4 @@ Older heat pumps in Wainoni often haven't had a service in a long time. Dust in 
 
 We also cover [Aranui](/aranui/), [Avondale](/avondale/), [Bexley](/bexley/), [Dallington](/dallington/) and [New Brighton](/new-brighton/).
 
-Call **03 242 1023** or ask for a quote for your Wainoni home.
+Call **[03 242 1023](tel:032421023)** or ask for a quote for your Wainoni home.

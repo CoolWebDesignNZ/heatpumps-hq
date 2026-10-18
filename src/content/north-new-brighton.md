@@ -65,4 +65,4 @@ Seeing rust spots, white crust on the fins or weaker heating? Get it checked bef
 
 We also cover [New Brighton](/new-brighton/), [Parklands](/parklands/), [Bottle Lake](/bottle-lake/), [Queenspark](/queenspark/) and [New Brighton Central](/new-brighton-central/).
 
-For a quote in North New Brighton, call **03 242 1023** or use the form.
+For a quote in North New Brighton, call **[03 242 1023](tel:032421023)** or use the form.

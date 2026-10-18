@@ -60,4 +60,4 @@ Some faults have simple checks you can do before you call. [Heat pump troublesho
 
 ## Next step
 
-Call **03 242 1023** in office hours or email us. Or fill in the quote form and we'll ring you back.
+Call **[03 242 1023](tel:032421023)** in office hours or email us. Or fill in the quote form and we'll ring you back.

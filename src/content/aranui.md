@@ -71,4 +71,4 @@ A rental heat pump gets used hard. It often gets little care between tenants. Th
 
 We also cover [Wainoni](/wainoni/), [Bromley](/bromley/), [Linwood](/linwood/), [Avondale](/avondale/) and [Bexley](/bexley/).
 
-For a fixed-price quote in Aranui, call **03 242 1023** or use the form.
+For a fixed-price quote in Aranui, call **[03 242 1023](tel:032421023)** or use the form.

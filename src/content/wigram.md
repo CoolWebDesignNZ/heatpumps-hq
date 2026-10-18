@@ -62,4 +62,4 @@ A heat pump that came with a new house was often picked as part of a package. Th
 
 We also work in [Hornby](/heat-pumps-hornby/), [Sockburn](/sockburn/), [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Hillmorton](/hillmorton/).
 
-For a fixed-price quote on your Wigram home, call **03 242 1023** or fill in the quote form.
+For a fixed-price quote on your Wigram home, call **[03 242 1023](tel:032421023)** or fill in the quote form.

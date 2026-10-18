@@ -64,4 +64,4 @@ Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. On top 
 
 We work in [Bryndwr](/bryndwr/), [Avonhead](/avonhead/), [Harewood](/harewood/), [Fendalton](/fendalton/) and the rest of [Christchurch](/locations/).
 
-Call **03 242 1023** or use the form for a free fixed-price quote in Burnside.
+Call **[03 242 1023](tel:032421023)** or use the form for a free fixed-price quote in Burnside.

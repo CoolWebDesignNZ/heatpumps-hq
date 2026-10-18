@@ -65,4 +65,4 @@ Hornby sections can be tight, with houses close together. Under the Christchurch
 
 We also work in [Sockburn](/sockburn/), [Wigram](/wigram/), [Templeton](/templeton/) and [Upper Riccarton](/upper-riccarton/). See [all our locations](/locations/) too.
 
-For a free quote in Hornby, call **03 242 1023** or send us the form.
+For a free quote in Hornby, call **[03 242 1023](tel:032421023)** or send us the form.

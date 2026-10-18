@@ -79,4 +79,4 @@ Three things help us find the right part faster.
 - Any error code, or the pattern of flashing lights.
 - What it's doing. Not starting? Running but not heating? Noisy? Leaking?
 
-Call **03 242 1023** for heat pump parts and fitting, or [ask for a quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** for heat pump parts and fitting, or [ask for a quote](/contact-us/).

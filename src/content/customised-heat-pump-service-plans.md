@@ -68,4 +68,4 @@ A plan gives you a dated record for each unit. That's handy when tenants change,
 
 You still need to wash the filters every few weeks when it's working hard. Keep a clear space round the outdoor unit too. The jobs you can do yourself are under [heat pump maintenance](/maintenance-servicing/).
 
-To set up a service plan, call **03 242 1023** or [ask for a quote](/contact-us/). Tell us how many units you have and where they are. We'll suggest a schedule.
+To set up a service plan, call **[03 242 1023](tel:032421023)** or [ask for a quote](/contact-us/). Tell us how many units you have and where they are. We'll suggest a schedule.

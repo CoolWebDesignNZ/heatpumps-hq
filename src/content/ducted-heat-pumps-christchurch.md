@@ -76,4 +76,4 @@ Old ducted systems often have tired ducts and vents in the wrong places. Some ru
 
 ## Ask for a ducted quote
 
-We'll look at the house and the ceiling space, and ask how you want it heated. Then you get a fixed price. Phone **03 242 1023** or send the quote form. We work anywhere in Christchurch, Selwyn and Lyttelton.
+We'll look at the house and the ceiling space, and ask how you want it heated. Then you get a fixed price. Phone **[03 242 1023](tel:032421023)** or send the quote form. We work anywhere in Christchurch, Selwyn and Lyttelton.

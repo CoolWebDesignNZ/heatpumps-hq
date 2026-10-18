@@ -78,4 +78,4 @@ Some newer Daikin wired controllers can detect an R32 refrigerant leak and warn 
 
 Switch the heat pump off and open a window in the room. Keep naked flames and portable heaters away. Don't tighten the pipe nuts or try a repair kit. Over-tightened flare joints crack, and the leak gets worse.
 
-Indoor unit dripping, or heat pump losing heat? Call **03 242 1023** to book a leak check anywhere in Christchurch, Selwyn or Lyttelton.
+Indoor unit dripping, or heat pump losing heat? Call **[03 242 1023](tel:032421023)** to book a leak check anywhere in Christchurch, Selwyn or Lyttelton.

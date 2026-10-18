@@ -59,4 +59,4 @@ Did your Sydenham home come with a heat pump that's been left alone for years? B
 
 We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those brands, plus Panasonic. We also work across [Addington](/heat-pumps-addington/), [Somerfield](/somerfield/), [Beckenham](/beckenham/), [Spreydon](/spreydon/) and [Phillipstown](/phillipstown/).
 
-For a free quote in Sydenham, call **03 242 1023** or use the form.
+For a free quote in Sydenham, call **[03 242 1023](tel:032421023)** or use the form.

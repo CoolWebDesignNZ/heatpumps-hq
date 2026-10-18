@@ -61,4 +61,4 @@ We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic i
 
 We also work in [Aranui](/aranui/), [Wainoni](/wainoni/), [Avondale](/avondale/), [South New Brighton](/south-new-brighton/) and [New Brighton](/new-brighton/).
 
-Call **03 242 1023** or ask for a fixed-price quote for your Bexley home.
+Call **[03 242 1023](tel:032421023)** or ask for a fixed-price quote for your Bexley home.

@@ -61,4 +61,4 @@ Units in exposed spots like Brooklands wear faster. So servicing matters. A year
 
 We also work in [Spencerville](/spencerville/), [Marshland](/marshland/), [Belfast](/belfast/) and [Bottle Lake](/bottle-lake/).
 
-Call **03 242 1023** or ask for a quote for your Brooklands home.
+Call **[03 242 1023](tel:032421023)** or ask for a quote for your Brooklands home.

@@ -63,4 +63,4 @@ Sumner comes under Christchurch City Council. Its District Plan sets the noise l
 
 We also work in [Clifton](/clifton/), [Redcliffs](/redcliffs/) and [Moncks Bay](/moncks-bay/).
 
-For a free quote in Sumner, ring **03 242 1023** or send us your details on the quote form.
+For a free quote in Sumner, ring **[03 242 1023](tel:032421023)** or send us your details on the quote form.

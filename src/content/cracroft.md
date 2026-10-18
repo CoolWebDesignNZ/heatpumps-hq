@@ -61,4 +61,4 @@ In a split-level house, the living area and bedrooms are often on different floo
 
 We also cover [Cashmere](/cashmere/), [Westmorland](/westmorland/), [Hoon Hay](/hoon-hay/), and [Kennedys Bush](/kennedys-bush/) further along the hills.
 
-For a free fixed-price quote on your Cracroft home, call **03 242 1023** or use the form.
+For a free fixed-price quote on your Cracroft home, call **[03 242 1023](tel:032421023)** or use the form.

@@ -81,4 +81,4 @@ You get a fixed price for the job before any work starts.
 
 A service is one visit. Looking after it between visits is [regular maintenance](/maintenance-servicing/). A quicker check before the season is a [seasonal tune-up](/heat-pump-seasonal-tune-ups/). If it's stopped working, that's a [repair](/heat-pump-repair/), not a service.
 
-To book a service, call **03 242 1023** or [ask for a quote](/contact-us/).
+To book a service, call **[03 242 1023](tel:032421023)** or [ask for a quote](/contact-us/).

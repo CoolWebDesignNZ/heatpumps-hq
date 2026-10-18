@@ -62,4 +62,4 @@ Russley comes under the Christchurch District Plan. It judges outdoor unit noise
 
 We also work in [Avonhead](/avonhead/), [Yaldhurst](/yaldhurst/), [Harewood](/harewood/) and [Burnside](/burnside/).
 
-Phone **03 242 1023** or send the quote form and we'll arrange a time to look at your Russley home.
+Phone **[03 242 1023](tel:032421023)** or send the quote form and we'll arrange a time to look at your Russley home.

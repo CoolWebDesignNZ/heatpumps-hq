@@ -68,4 +68,4 @@ You can start with one room and add another later. The most flexible way is a se
 
 ## Get a quote for a heat pump in one room
 
-We fit single room heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. Ring **03 242 1023** or ask for a free quote. Tell us which room is the cold one.
+We fit single room heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. Ring **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us which room is the cold one.

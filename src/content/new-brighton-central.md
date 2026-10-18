@@ -62,4 +62,4 @@ The town centre is only a short way from the beach. So salt still reaches the ou
 
 We also cover [New Brighton](/new-brighton/), [North New Brighton](/north-new-brighton/), [South New Brighton](/south-new-brighton/) and [Wainoni](/wainoni/).
 
-To get a fixed-price quote in New Brighton Central, call **03 242 1023** or use the form.
+To get a fixed-price quote in New Brighton Central, call **[03 242 1023](tel:032421023)** or use the form.

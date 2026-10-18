@@ -61,4 +61,4 @@ Sound carries on the hill. So we also keep the unit away from the neighbours' de
 
 We also work in [Sumner](/sumner/), [Redcliffs](/redcliffs/) and [Moncks Bay](/moncks-bay/).
 
-For a fixed-price quote on Clifton, call **03 242 1023** or send a request with the quote form.
+For a fixed-price quote on Clifton, call **[03 242 1023](tel:032421023)** or send a request with the quote form.

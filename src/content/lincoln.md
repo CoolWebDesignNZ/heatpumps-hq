@@ -65,4 +65,4 @@ We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems. That's anything
 
 We also work in [Rolleston](/rolleston/), [Prebbleton](/prebbleton/), [Tai Tapu](/tai-tapu/) and [Halswell](/halswell/).
 
-For a fixed-price quote in Lincoln, call **03 242 1023** or tell us about your home on the quote form.
+For a fixed-price quote in Lincoln, call **[03 242 1023](tel:032421023)** or tell us about your home on the quote form.

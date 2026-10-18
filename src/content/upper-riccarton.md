@@ -65,4 +65,4 @@ Infill sections leave little space between homes. The outdoor unit often ends up
 
 We also look after homes in [Ilam](/ilam/), [Riccarton](/heat-pumps-riccarton/), [Sockburn](/sockburn/) and [Avonhead](/avonhead/).
 
-For a free quote, call **03 242 1023** or use the quote form. Tell us how many units are involved.
+For a free quote, call **[03 242 1023](tel:032421023)** or use the quote form. Tell us how many units are involved.

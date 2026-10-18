@@ -110,4 +110,4 @@ We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. The b
 
 We size every install from your rooms, insulation and windows, and how you use the house. A licensed electrical worker does the electrical connection. We agree a fixed price before any work starts, and the quote is free.
 
-Hold us to the same checklist you'd use on anyone else. Call **03 242 1023** or [request a quote](/contact-us/).
+Hold us to the same checklist you'd use on anyone else. Call **[03 242 1023](tel:032421023)** or [request a quote](/contact-us/).

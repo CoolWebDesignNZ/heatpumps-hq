@@ -67,4 +67,4 @@ Already got a heat pump on the wall? We can service or fix it. It can be one of 
 
 We also cover [Halswell](/halswell/), [Hoon Hay](/hoon-hay/), [Wigram](/wigram/) and [Kennedys Bush](/kennedys-bush/).
 
-Ring **03 242 1023** for a free quote in Aidanfield. Or tell us about your house in the form and we'll get back to you.
+Ring **[03 242 1023](tel:032421023)** for a free quote in Aidanfield. Or tell us about your house in the form and we'll get back to you.

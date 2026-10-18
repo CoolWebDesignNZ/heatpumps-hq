@@ -63,4 +63,4 @@ New installs in Redcliffs are Mitsubishi Electric, Daikin, Fujitsu or Toshiba. O
 
 We also work in [Moncks Bay](/moncks-bay/), [Sumner](/sumner/), [Clifton](/clifton/) and [Mount Pleasant](/mount-pleasant/).
 
-For a free, fixed-price quote in Redcliffs, phone **03 242 1023** or use the quote form.
+For a free, fixed-price quote in Redcliffs, phone **[03 242 1023](tel:032421023)** or use the quote form.

@@ -63,4 +63,4 @@ Is your heat pump blowing cold? Cycling on and off? Leaking water inside? We'll 
 
 We also cover [Parklands](/parklands/), [Burwood](/burwood/) and [North New Brighton](/north-new-brighton/).
 
-For a fixed-price quote in Queenspark, call **03 242 1023** or send the form.
+For a fixed-price quote in Queenspark, call **[03 242 1023](tel:032421023)** or send the form.

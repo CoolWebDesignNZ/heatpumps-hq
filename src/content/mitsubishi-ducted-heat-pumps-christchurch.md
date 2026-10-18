@@ -73,4 +73,4 @@ Clean the return air filter often. Get a service once a year to keep the indoor 
 
 ## Book a measure and quote
 
-Ring **03 242 1023** or ask for a free quote online. We'll check the roof space. Then we'll give you a fixed price for a Mitsubishi Electric ducted system, anywhere in Christchurch, Selwyn or Lyttelton.
+Ring **[03 242 1023](tel:032421023)** or ask for a free quote online. We'll check the roof space. Then we'll give you a fixed price for a Mitsubishi Electric ducted system, anywhere in Christchurch, Selwyn or Lyttelton.

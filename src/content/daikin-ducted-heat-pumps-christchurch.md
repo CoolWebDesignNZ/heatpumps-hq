@@ -81,4 +81,4 @@ Clean the return air filter often. Have it serviced yearly. We service and fix D
 
 ## Quote for a Daikin ducted system
 
-Call **03 242 1023** or ask for a free quote. Tell us if you've got a Daikin model in mind. We'll check the ceiling space and confirm it fits.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us if you've got a Daikin model in mind. We'll check the ceiling space and confirm it fits.

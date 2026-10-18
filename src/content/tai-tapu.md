@@ -64,4 +64,4 @@ In Tai Tapu we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. A licensed 
 
 We also cover [Lincoln](/lincoln/), [Halswell](/halswell/), [Prebbleton](/prebbleton/) and [Kennedys Bush](/kennedys-bush/).
 
-For a free quote on your Tai Tapu property, call **03 242 1023**. Or send your address and a few notes about the house through the form.
+For a free quote on your Tai Tapu property, call **[03 242 1023](tel:032421023)**. Or send your address and a few notes about the house through the form.

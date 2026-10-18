@@ -60,4 +60,4 @@ Where gardens are old and big, leaves and pollen build up on outdoor coils faste
 
 We work across [Somerfield](/somerfield/), [Sydenham](/sydenham/), [Cashmere](/cashmere/) and [Spreydon](/spreydon/).
 
-For a free quote on your Beckenham home, call **03 242 1023** or fill in the form.
+For a free quote on your Beckenham home, call **[03 242 1023](tel:032421023)** or fill in the form.

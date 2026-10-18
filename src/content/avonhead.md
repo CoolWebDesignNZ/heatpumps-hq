@@ -70,4 +70,4 @@ Here's what we do in Avonhead:
 
 We also work in [Russley](/russley/), [Ilam](/ilam/), [Yaldhurst](/yaldhurst/) and [Burnside](/burnside/).
 
-Call **03 242 1023**, or ask for a free quote on your Avonhead home.
+Call **[03 242 1023](tel:032421023)**, or ask for a free quote on your Avonhead home.

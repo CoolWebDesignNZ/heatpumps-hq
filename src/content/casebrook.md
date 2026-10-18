@@ -63,4 +63,4 @@ Here's what we do for Casebrook homes:
 
 We cover [Redwood](/redwood/), [Harewood](/harewood/), [Belfast](/belfast/), [Burnside](/burnside/) and the rest of [the city](/locations/).
 
-For a free quote in Casebrook, phone **03 242 1023** or fill in the form. We'll book a time to see the house.
+For a free quote in Casebrook, phone **[03 242 1023](tel:032421023)** or fill in the form. We'll book a time to see the house.

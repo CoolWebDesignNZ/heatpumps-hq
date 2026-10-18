@@ -55,4 +55,4 @@ We fit Mitsubishi Electric heat pumps in Rolleston. We also [service and repair 
 
 We also cover [Lincoln](/lincoln/), [Prebbleton](/prebbleton/), [Templeton](/templeton/), [Halswell](/halswell/) and the rest of [greater Christchurch](/locations/).
 
-Free quote in Rolleston? Call **03 242 1023** or use the form.
+Free quote in Rolleston? Call **[03 242 1023](tel:032421023)** or use the form.

@@ -68,4 +68,4 @@ Once your Redwood heat pump is in, we keep it going:
 
 We work right through [Northcote](/northcote/), [Casebrook](/casebrook/), [Belfast](/belfast/), [Papanui](/heat-pumps-papanui/) and the rest of [greater Christchurch](/locations/).
 
-For a free quote on your Redwood home, call **03 242 1023** or send the form and we'll get back to you.
+For a free quote on your Redwood home, call **[03 242 1023](tel:032421023)** or send the form and we'll get back to you.

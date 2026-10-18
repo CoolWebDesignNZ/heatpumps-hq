@@ -64,4 +64,4 @@ We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps in Hillmorton
 
 We also cover [Spreydon](/spreydon/), [Hoon Hay](/hoon-hay/), [Cashmere](/cashmere/) and [Somerfield](/somerfield/).
 
-For a free quote or to book a service in Hillmorton, phone **03 242 1023** or send us the form.
+For a free quote or to book a service in Hillmorton, phone **[03 242 1023](tel:032421023)** or send us the form.

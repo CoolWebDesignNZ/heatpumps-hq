@@ -69,4 +69,4 @@ We do three kinds of heat pump work in Riccarton:
 
 We also cover [Upper Riccarton](/upper-riccarton/), [Ilam](/ilam/), [Addington](/heat-pumps-addington/) and [Fendalton](/fendalton/).
 
-Want a free fixed-price quote in Riccarton? Call **03 242 1023** or send us the online form.
+Want a free fixed-price quote in Riccarton? Call **[03 242 1023](tel:032421023)** or send us the online form.

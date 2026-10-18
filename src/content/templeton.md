@@ -63,4 +63,4 @@ On clear nights, outdoor units in Templeton face frost. On those mornings the he
 
 We also work in [Hornby](/heat-pumps-hornby/), [Rolleston](/rolleston/), [Yaldhurst](/yaldhurst/) and [McLeans Island](/mcleans-island/).
 
-Call **03 242 1023** or ask for a free fixed-price quote for your Templeton home.
+Call **[03 242 1023](tel:032421023)** or ask for a free fixed-price quote for your Templeton home.

@@ -74,4 +74,4 @@ Set it up once. Then let the schedule do the work.
 - Check the room temperature in the app now and then. If a room never gets to the setting, the sensor may be off. Book a [thermostat and sensor check](/heat-pump-thermostat-calibration/).
 - Keep the app updated. Pair the adaptor again after you change your router or Wi-Fi password.
 
-Want a quote on a new smart heat pump? Or want to know if your unit can take a Wi-Fi controller? Call **03 242 1023**.
+Want a quote on a new smart heat pump? Or want to know if your unit can take a Wi-Fi controller? Call **[03 242 1023](tel:032421023)**.

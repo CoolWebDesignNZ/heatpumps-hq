@@ -79,4 +79,4 @@ Had a complaint? The fixes are usually simple.
 - A quiet or night mode setting
 - Moving the outdoor unit a few metres
 
-We can look at your install and tell you what will make the difference. Call **03 242 1023**.
+We can look at your install and tell you what will make the difference. Call **[03 242 1023](tel:032421023)**.

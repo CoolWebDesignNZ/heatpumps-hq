@@ -71,4 +71,4 @@ We service and [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu
 
 We also work in [Bryndwr](/bryndwr/), [Ilam](/ilam/), [Burnside](/burnside/), [Riccarton](/heat-pumps-riccarton/) and the rest of [Christchurch](/locations/).
 
-Book a free quote for your Fendalton home. Ring **03 242 1023** or fill in the form.
+Book a free quote for your Fendalton home. Ring **[03 242 1023](tel:032421023)** or fill in the form.

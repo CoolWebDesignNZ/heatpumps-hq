@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0b2a40"/>
+  <path d="M12 30 L32 13 L52 30 V50 H12 Z" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+  <text x="32" y="45" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15">HQ</text>
+</svg>

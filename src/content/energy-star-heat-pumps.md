@@ -78,4 +78,4 @@ You might see heat pumps with the older Energy Rating Label. That's common on ex
 
 To find the most efficient heat pump for your house, we size it for your rooms first. Then we show you three figures for each model we suggest. The Cold zone heating stars, the kWh figures and the 2°C heating capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
 
-Call **03 242 1023** or [request a free fixed-price quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** or [request a free fixed-price quote](/contact-us/).

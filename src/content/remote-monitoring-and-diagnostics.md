@@ -68,4 +68,4 @@ If your heat pump suits it, we can check it and set up the adaptor while we're t
 
 If your app shows energy figures, check them month to month. A big jump, with no change in how you use it, can be the first sign of trouble. A dirty coil, a part on its way out, or a leak. For a closer look at running costs, [energy consumption monitoring](/energy-consumption-monitoring/) tracks use over time.
 
-Want to know if your heat pump can be monitored over Wi-Fi? Or need a visit for a fault the app has flagged? Call **03 242 1023**.
+Want to know if your heat pump can be monitored over Wi-Fi? Or need a visit for a fault the app has flagged? Call **[03 242 1023](tel:032421023)**.

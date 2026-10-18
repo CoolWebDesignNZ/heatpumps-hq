@@ -54,4 +54,4 @@ We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic u
 
 We also work in [Parklands](/parklands/), [Queenspark](/queenspark/), [Dallington](/dallington/), [Avondale](/avondale/), [Shirley](/shirley/) and [Marshland](/marshland/).
 
-Call **03 242 1023** or ask for a quote for your Burwood home.
+Call **[03 242 1023](tel:032421023)** or ask for a quote for your Burwood home.

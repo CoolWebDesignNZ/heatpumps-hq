@@ -64,4 +64,4 @@ These take a few minutes. Try them before you ring about a fault:
 - **Outdoor unit:** make sure nothing's blocking it.
 - **Reset:** switch it off at the isolating switch for five minutes, then on again.
 
-Still not right? Call **03 242 1023**. We cover all of Christchurch, Selwyn and Lyttelton.
+Still not right? Call **[03 242 1023](tel:032421023)**. We cover all of Christchurch, Selwyn and Lyttelton.

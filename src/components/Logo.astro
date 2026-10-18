@@ -1,0 +1,12 @@
+---
+// The Heat Pumps HQ logo as inline SVG: a house outline wrapping the name,
+// drawn in currentColor so the same mark works dark in the header and white
+// in the footer. Rebuilt from the supplied PNG with the correct name.
+interface Props { class?: string }
+const { class: cls = '' } = Astro.props;
+---
+<svg class={cls} viewBox="0 0 300 92" role="img" aria-label="Heat Pumps HQ Christchurch" xmlns="http://www.w3.org/2000/svg">
+  <path d="M78 27 L46 5 L4 41 H17 V81 Q17 85 21 85 H127" fill="none" stroke="currentColor" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="31" y="66" fill="currentColor" font-family="Inter Variable, Inter, system-ui, sans-serif" font-weight="750" font-size="31" letter-spacing="-0.6">Heat Pumps HQ</text>
+  <text x="296" y="89" text-anchor="end" fill="currentColor" font-family="Inter Variable, Inter, system-ui, sans-serif" font-weight="700" font-size="10.5" letter-spacing="2.9">CHRISTCHURCH</text>
+</svg>

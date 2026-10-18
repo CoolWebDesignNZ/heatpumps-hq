@@ -81,4 +81,4 @@ Home stays damp whatever you do? We can talk you through what a heat pump can an
 
 Most split systems we work on have dry mode. That includes Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. It works a bit differently from model to model. Your owner's manual has the final word on your unit.
 
-Call **03 242 1023** to get your heat pump's dry mode checked and set up, or [ask for a quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** to get your heat pump's dry mode checked and set up, or [ask for a quote](/contact-us/).

@@ -59,4 +59,4 @@ We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. That's anything from a 
 
 We also work in [Redcliffs](/redcliffs/), [Moncks Bay](/moncks-bay/), [Ferrymead](/ferrymead/) and [Heathcote Valley](/heathcote-valley/).
 
-Call **03 242 1023** to arrange a free quote on Mount Pleasant. Or fill in the form and we'll get back to you.
+Call **[03 242 1023](tel:032421023)** to arrange a free quote on Mount Pleasant. Or fill in the form and we'll get back to you.

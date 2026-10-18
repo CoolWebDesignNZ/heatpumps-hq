@@ -60,4 +60,4 @@ Dust blows in off the paddocks and shingle driveways. It builds up on the outdoo
 
 We also work in [McLeans Island](/mcleans-island/), [Russley](/russley/), [Avonhead](/avonhead/) and [Templeton](/templeton/).
 
-For a free quote on your Yaldhurst property, call **03 242 1023** or send the quote form.
+For a free quote on your Yaldhurst property, call **[03 242 1023](tel:032421023)** or send the quote form.

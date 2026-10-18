@@ -69,4 +69,4 @@ On a rural property we check the switchboard has the capacity. We also check the
 
 We also cover [Spencerville](/spencerville/), [Mairehau](/mairehau/), [Parklands](/parklands/), [Burwood](/burwood/) and the rest of [the Christchurch area](/locations/).
 
-For a free quote at your Marshland property, call **03 242 1023** or fill in the form.
+For a free quote at your Marshland property, call **[03 242 1023](tel:032421023)** or fill in the form.

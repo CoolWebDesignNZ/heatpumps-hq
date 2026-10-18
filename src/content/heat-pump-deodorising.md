@@ -71,4 +71,4 @@ Once it's clean, four habits keep the musty smell away.
 
 Heat pump clean, but the room still smells damp? The damp may be in the house. A wet subfloor, a leak, or not enough fresh air. A heat pump moves air round the room. It can't get rid of a damp smell coming from the building. Next steps are [air quality testing](/air-quality-testing/), and running the heat pump in [dry mode](/heat-pump-dehumidification/).
 
-Call **03 242 1023** to book a heat pump deodorise and clean, or [ask for a quote](/contact-us/).
+Call **[03 242 1023](tel:032421023)** to book a heat pump deodorise and clean, or [ask for a quote](/contact-us/).

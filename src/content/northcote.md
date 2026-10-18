@@ -63,4 +63,4 @@ We fit, service and fix heat pumps in Northcote flats, units and family houses:
 
 We also work in [Papanui](/heat-pumps-papanui/), [Redwood](/redwood/), [Casebrook](/casebrook/), [Mairehau](/mairehau/) and the rest of [Christchurch](/locations/).
 
-Call **03 242 1023** or use the form to book a free quote for your Northcote home.
+Call **[03 242 1023](tel:032421023)** or use the form to book a free quote for your Northcote home.

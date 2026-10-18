@@ -58,7 +58,7 @@ This site links to our Facebook page and to government websites. Once you leave 
 
 ## Your right to see and correct your information
 
-You can ask us for a copy of the personal information we hold about you. If it's wrong, you can ask us to correct it. Email [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz) or call 03 242 1023. The Privacy Commissioner explains these rights on its [your privacy rights](https://www.privacy.org.nz/your-rights/your-privacy-rights/) page. That includes the rule that a business must respond to a request within 20 working days.
+You can ask us for a copy of the personal information we hold about you. If it's wrong, you can ask us to correct it. Email [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz) or call [03 242 1023](tel:032421023). The Privacy Commissioner explains these rights on its [your privacy rights](https://www.privacy.org.nz/your-rights/your-privacy-rights/) page. That includes the rule that a business must respond to a request within 20 working days.
 
 ## Complaints
 
