@@ -64,7 +64,7 @@ On a service, or a visit just for this, we:
 1. **Check dry mode works.** We run it on dry. We make sure the coil gets cold and water collects in the tray.
 2. **Check the drain.** Dry mode sends water through the drain for hours. We flush the tray and line. We make sure the outlet is clear and running to the right place.
 3. **Clean the coil if it needs it.** A clean coil pulls out more moisture. It doesn't add smells.
-4. **Show you the settings.** Which mode for which weather. How the timer helps. Whether your model has a coil-drying setting.
+4. **Show you the settings.** We go through which mode suits which weather, how the timer helps, and whether your model has a coil-drying setting.
 
 Home stays damp whatever you do? We can talk you through what a heat pump can and can't do there. And whether [air quality testing](/air-quality-testing/) would help. If someone at home has breathing problems, read about [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
 

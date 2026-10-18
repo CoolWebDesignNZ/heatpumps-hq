@@ -50,10 +50,10 @@ Smells are often worst in spring and early summer. That's when the unit swaps fr
 
 We get rid of the cause.
 
-1. **Find the source.** We open the unit. We look at the filters, coil, fan wheel and drain tray. If the unit looks clean, we look further. The drain outlet, the room, the ceiling space.
+1. **Find the source.** We open the unit. We look at the filters, coil, fan wheel and drain tray. If the unit looks clean, we look further, at the drain outlet, the room and the ceiling space.
 2. **Clean the coil and fan wheel.** Most of the growth is here. We bag the unit, clean it and rinse it. It's the same as a full [heat pump clean](/heat-pump-cleaning/).
 3. **Clear the drain.** We flush the tray and line, so water doesn't sit there and go sour.
-4. **Replace worn filters.** Torn mesh filters. Worn-out deodorising filters, if your model uses them.
+4. **Replace worn filters.** Torn mesh filters let dust through to the coil. Deodorising filters wear out too, if your model uses them.
 5. **Dry it out.** We run it on fan or heat after the clean. The coil isn't left wet.
 
 An electrical smell is a fault, not a cleaning job. We handle it as a [repair](/heat-pump-repair/).

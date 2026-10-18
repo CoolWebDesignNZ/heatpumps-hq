@@ -53,7 +53,7 @@ We service and repair Daikin too. See [Daikin heat pump service](/daikin-heat-pu
 
 ## Fujitsu heat pumps (now GENERAL New Zealand)
 
-**Who sells it here:** this has changed. Here's what the company's [announcement](https://www.generalairstage.co.nz/about-us/company-information/our-business-name-has-changed) says. Paloma Rheem Holdings bought Fujitsu General Limited in August 2025. From 1 January 2026, the New Zealand business changed its trading name from Fujitsu General New Zealand to **GENERAL New Zealand**. It will keep selling under both the Fujitsu and General Airstage brands. It's moving away from the Fujitsu name over time.
+**Who sells it here:** this has changed. The company's [announcement](https://www.generalairstage.co.nz/about-us/company-information/our-business-name-has-changed) says Paloma Rheem Holdings bought Fujitsu General Limited in August 2025. From 1 January 2026, the New Zealand business changed its trading name from Fujitsu General New Zealand to **GENERAL New Zealand**. It will keep selling under both the Fujitsu and General Airstage brands. It's moving away from the Fujitsu name over time.
 
 **What it lists:** its [NZ site](https://www.generalairstage.co.nz/) shows the wall mounted Lifestyle and Comfort ranges. A compact floor console. A floor and ceiling dual console. Compact cassettes. Ducted bulkhead units. Multi systems. And ducted units grouped by house size, in single phase and three phase. Its Wi-Fi control is called anywAiR.
 

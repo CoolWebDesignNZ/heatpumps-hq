@@ -59,7 +59,7 @@ A house icon at the bottom can show indoor and outdoor sound levels. Showing noi
 
 ## What the energy star rating doesn't tell you
 
-The energy star rating can't tell you how a heat pump will go in your house. It's a fair test between units of a similar size. But it leaves out these things:
+The energy star rating can't tell you how a heat pump will go in your house. It's a fair test between units of a similar size. But it leaves out the house it goes into, and how it's fitted and looked after.
 
 - **Sizing.** A five star unit that's too small for the room will run flat out and still leave it cold.
 - **Installation.** A boxed-in outdoor unit, or a badly placed indoor unit, loses efficiency.
