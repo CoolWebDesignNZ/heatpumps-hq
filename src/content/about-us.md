@@ -35,3 +35,7 @@ related:
 Nate Thompson spent years working for a bigger heating company. He kept seeing homeowners sold heat pumps that were more powerful, and dearer, than their houses needed. So in 2015 he started Heat Pumps HQ in Christchurch.
 
 A unit that's too big costs more to buy. It doesn't make the room any warmer. It tends to switch on and off in short bursts instead of running steady. Nate set up his own company to quote the system a house really needs. He still owns and runs it.
+
+## A trained and certified Heat Pumps HQ team
+
+We've been fitting and fixing heat pumps in Christchurch for over 10 years. Our technicians are trained and certified. We keep that training up to date, because heat pumps and the way they're installed keep changing. The person who comes to your house knows the current models and the right way to fit them.

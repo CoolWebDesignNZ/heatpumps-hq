@@ -25,9 +25,9 @@ const { image, h1, intro, suburb = '', meta } = Astro.props;
 </section>
 <section class="trust">
   <div class="wrap trust-in">
-    <span>Locally owned since {site.founded}</span>
+    <span>Over {Math.floor((new Date().getFullYear() - site.founded) / 5) * 5} years in business</span>
+    <span>Trained and certified team</span>
     <span>All major brands</span>
-    <span>Free, honest quotes</span>
     <span>Fully insured</span>
   </div>
 </section>
