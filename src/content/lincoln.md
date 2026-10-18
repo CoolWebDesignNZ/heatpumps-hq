@@ -27,11 +27,15 @@ related:
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: How units cope with hard frosts. }
 ---
 
-## Lincoln's homes
+## Heat pumps for Lincoln homes, old and new
 
-Lincoln is a Selwyn town on the plains south-west of Christchurch, known for its university and research campuses. The older streets near the town centre hold bungalows and family homes on generous sections. Around them, newer subdivisions have added modern, well insulated houses. Beyond the town edge, lifestyle blocks and farmhouses spread out across the flat land toward Tai Tapu and Prebbleton.
+The right heat pump for a Lincoln home depends mostly on how old the house is and how its rooms are laid out.
 
-Each of those needs a different approach. A new house may only need one or two well placed units. An older farmhouse with several living areas and a long hallway is a much bigger heating job.
+- **Newer subdivision homes** are usually well insulated and double glazed, with one large open plan living area. A single correctly sized high wall unit can heat the living, dining and kitchen space. Bedrooms can have a second, smaller unit, or the whole house can go ducted if you want every room warm.
+- **Older bungalows near the town centre** lose more heat through the ceiling, the floor and single glazed windows, and their rooms are smaller and closed off. A unit in the lounge won't reach bedrooms down the hall, so these homes often suit a [multi-room system](/multi-room-heat-pump-installation/) with a unit in each room you use. It pays to check the ceiling and underfloor insulation first.
+- **Farmhouses and lifestyle block houses** out toward Tai Tapu and Prebbleton tend to be bigger, with several living areas and long hallways. They usually need several wall units or a ducted system, covered below.
+
+At the quote we measure each room, look at the insulation and windows, and size every unit for a frosty Lincoln morning, not an average day.
 
 ## Heat pumps on Lincoln's frosty open ground
 
