@@ -7,20 +7,20 @@ h1: Heat pump installation on the Cashmere hills and flat
 serviceName: Heat pump installation, servicing and repair
 areaServed: Cashmere
 suburb: Cashmere
-intro: Cashmere runs from flat streets by the Heathcote River up onto the Port Hills. We install heat pumps in hillside and flat homes alike, planned around the slope, the views and the layout, with a fixed price first.
+intro: Cashmere runs from flat streets by the Heathcote River up onto the Port Hills. We fit heat pumps in hill homes and flat ones. We plan around the slope, the views and the layout, and fix the price first.
 hero: cashmere-hero
 gallery: [pool-hill-home, pool-ducted-vent]
 faqHeading: "Cashmere heat pump questions"
 relatedHeading: "Heat pumps near Cashmere"
 faqs:
   - q: Can the outdoor unit go on a deck or a retaining wall?
-    a: Often. A galvanised wall bracket, or feet on a deck with good structure underneath, both work. The unit needs clear air, a way to drain defrost water and a spot we can reach safely for servicing.
+    a: Often, yes. A galvanised wall bracket works. So do feet on a deck with good structure underneath. The unit needs clear air and a way to drain defrost water. We also need to reach it safely for servicing.
   - q: Is ducted heating a good fit for a large Cashmere home?
-    a: It can be, if there's enough ceiling or underfloor space to run ducts. A multi-level house on a slope sometimes suits zoned ducting, with separate control for each level. See <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
+    a: It can be, if there's enough ceiling or underfloor space for the ducts. A house on several levels sometimes suits zoned ducting. Each level then has its own control. More on <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
   - q: Do big view windows change the size of heat pump I need?
-    a: Yes. Large glass areas lose more heat in winter and gain more in summer, so a room with a wall of windows needs more capacity than the same room with a small window. We measure glazing when we size every install.
+    a: Yes. Big areas of glass lose more heat in winter and gain more in summer. A room with a wall of windows needs more capacity than the same room with a small window. We measure the glazing every time we size an install.
   - q: Do hill homes need anything different at a service?
-    a: Exposed units collect more grit and wind-blown debris, and brackets need checking for corrosion and movement. We cover both at each <a href="/maintenance-servicing/">service</a>.
+    a: Exposed units pick up more grit and wind-blown rubbish. Brackets need checking for rust and movement. We cover both at each <a href="/maintenance-servicing/">service</a>.
 related:
   - { label: Cracroft, href: /cracroft/, text: Heat pumps for steep sections higher on the hill. }
   - { label: Westmorland, href: /westmorland/, text: Newer hillside homes to the west. }
@@ -29,33 +29,33 @@ related:
 
 ## Heat pump installation for two kinds of Cashmere home
 
-In Cashmere, whether your home is on the flat or on the hill decides most of the heat pump plan.
+In Cashmere, the big question is where the house sits. On the flat, or up the hill?
 
-- **On the flat**, lower Cashmere has established family homes on level sections near the river. The outdoor unit can sit on a pad beside the house, so the decisions are indoors: a high wall unit sized for the living area, and bedroom units or a [multi-room system](/multi-room-heat-pump-installation/) if you want the bedrooms warm. We check the ceiling and underfloor insulation and the windows to set the capacity.
-- **On the hill**, houses climb the north face of the Port Hills, with winding driveways, sections cut into the slope and decks built for the view over the city and plains. Big windows lose heat after dark, rooms sit on different levels, and level ground for the outdoor unit is scarce. Each of those is covered below.
+- **On the flat.** Lower Cashmere has established family homes on level sections near the river. The outdoor unit can sit on a pad beside the house. So the choices are indoors. A high wall unit sized for the living area. Then bedroom units or a [multi-room system](/multi-room-heat-pump-installation/) if you want the bedrooms warm. We check the ceiling and underfloor insulation and the windows to set the capacity.
+- **On the hill.** Houses climb the north face of the Port Hills. There are winding driveways and sections cut into the slope. Decks are built for the view over the city and plains. Big windows lose heat after dark. Rooms sit on different levels. Level ground for the outdoor unit is hard to find. We cover each of those below.
 
 ## Sun, views and glass in Cashmere
 
-The slopes face north, so hillside homes get good winter sun. Big windows to the view are common. That glass is great on a clear winter afternoon and costly after dark, when it loses heat fast. On a still summer day the same rooms can overheat.
+The slopes face north, so hill homes get good winter sun. Big windows to the view are common. That glass is great on a clear winter afternoon. After dark it's costly, because it loses heat fast. On a still summer day the same rooms can get too hot.
 
-A heat pump handles both, as long as it's sized for the glass. We measure window area as part of sizing, and in rooms with a lot of glazing we look at whether one larger unit or two smaller ones gives better coverage.
+A heat pump handles both, as long as it's sized for the glass. We measure the window area when we size it. In rooms with lots of glass, we look at whether one bigger unit or two smaller ones covers it better.
 
 ## Fitting heat pumps on Cashmere hillsides
 
-Steep sections change the outdoor work:
+Steep sections change the outside work:
 
-- **Brackets instead of pads.** There often isn't level ground beside the house, so the unit goes on a galvanised wall bracket or on a structurally sound deck.
-- **Longer pipe runs.** The best indoor position may be a level above or below the outdoor unit. We check the manufacturer's limits on pipe length and height difference for the model before committing.
-- **Access.** Steps, steep paths and decks with drops affect how we get the unit in and how it can be serviced later.
-- **Wind exposure.** Exposed spots catch more wind and grit. A sheltered wall that still has clear airflow is better.
+- **Brackets, not pads.** Often there's no level ground beside the house. So the unit goes on a galvanised wall bracket or a sound deck.
+- **Longer pipe runs.** The best indoor spot may be a level above or below the outdoor unit. Each model has limits on pipe length and height difference. We check them before we commit.
+- **Access.** Steps, steep paths and decks with drops affect how we get the unit in. They also affect how it gets serviced later.
+- **Wind.** Exposed spots catch more wind and grit. A sheltered wall with clear airflow is better.
 
 ## Multi-level homes in Cashmere
 
-Hill homes are often on two or three levels, with living rooms on the view side and bedrooms below or behind. Heat rises, so the upper level may need less than the lower one. Separate units on each level, or a zoned [ducted system](/ducted-heat-pumps-christchurch/), let you heat each part of the house to suit.
+Hill homes are often on two or three levels. The living rooms face the view, with bedrooms below or behind. Heat rises, so the top level may need less than the bottom one. Separate units on each level let you heat each part to suit. So does a zoned [ducted system](/ducted-heat-pumps-christchurch/).
 
 ## Heat pump noise on a Cashmere slope
 
-Sound carries differently on a hillside, and an outdoor unit below a neighbour's deck can reach them more than you'd expect. We check what's above and below before choosing a spot. The rules are in our [boundary guide](/heat-pump-boundary-rules-consent-nz/).
+Sound carries differently on a hillside. An outdoor unit below a neighbour's deck can bother them more than you'd think. We check what's above and below before we pick a spot. The rules are in our [boundary guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## Suburbs around Cashmere
 

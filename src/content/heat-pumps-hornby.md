@@ -7,18 +7,18 @@ h1: Heat pump installation, servicing and repair in Hornby
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hornby
 suburb: Hornby
-intro: We install, service and repair heat pumps in Hornby homes of every age, from older weatherboard and brick houses to recent units. The price is fixed before any work begins.
+intro: "We fit, service and fix heat pumps in Hornby homes of every age. That's older weatherboard and brick houses through to recent units. You get a fixed price before we start."
 hero: hornby-hero
 gallery: [pool-weatherboard, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Hornby"
 relatedHeading: "More on heat pumps near Hornby"
 faqs:
   - q: Can a heat pump warm an older Hornby house with little insulation?
-    a: It can warm the rooms it's sized for, but it works harder and costs more to run when heat escapes through the ceiling and floor. Topping up insulation first, or at the same time, lets a smaller unit do the job.
+    a: It can warm the rooms it's sized for. But it works harder and costs more to run when heat escapes through the ceiling and floor. Top up the insulation first, or at the same time. Then a smaller unit can do the job.
   - q: Where should the outdoor unit go on a small Hornby section?
-    a: Ideally against your own wall, away from the neighbour's bedroom windows, with space around it for air to move. Christchurch measures heat pump noise at the neighbouring property. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
+    a: Against your own wall is best. Keep it away from the neighbour's bedroom windows, with space round it for air to move. Christchurch measures heat pump noise at the neighbouring property. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
   - q: Will you fix a Hornby heat pump another company fitted?
-    a: Yes. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other brands sold in New Zealand, whoever fitted them.
+    a: Yes. We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We fix most other brands sold in New Zealand too, whoever put them in.
 related:
   - { label: Sockburn, href: /sockburn/, text: Heat pumps for Sockburn homes and units. }
   - { label: Wigram, href: /wigram/, text: Installs for newer homes in Wigram. }
@@ -27,42 +27,42 @@ related:
 
 ## Heat pump installation for Hornby's housing
 
-What decides the heat pump in a Hornby home is its layout and its insulation, and Hornby has two very different kinds of house.
+In Hornby, the layout and the insulation decide the heat pump. And Hornby has two very different kinds of house.
 
-- **Older weatherboard and brick houses** along the older streets have a separate lounge, a long hallway and bedrooms off to one side, and many were built before insulation was taken seriously. They lose heat through the ceiling, the floor and older windows. A unit in a closed-off lounge keeps its heat in that room, so the hallway and bedrooms stay cold. These houses usually need a lounge unit sized for that heat loss plus a small unit in the main bedroom, or several indoor units on one outdoor unit, as the next section explains.
-- **Newer townhouses and units**, built on sections between the older houses, are well sealed and mostly open plan. One high wall unit, placed so its air travels along the living area rather than across a doorway, can carry the kitchen, dining and lounge on its own.
+- **Older weatherboard and brick houses.** You'll find these along the older streets. They've got a separate lounge, a long hallway and bedrooms off to one side. Lots were built before anyone took insulation seriously. They lose heat through the ceiling, the floor and old windows. Put a unit in a closed-off lounge and the heat stays in there. The hallway and bedrooms stay cold. These houses usually need a lounge unit sized for that heat loss, plus a small unit in the main bedroom. Or several indoor units on one outdoor unit. More on that below.
+- **Newer townhouses and units.** These went in on sections between the older houses. They're well sealed and mostly open plan. One high wall unit can heat the kitchen, dining and lounge by itself. It has to be placed so its air runs along the living area, not across a doorway.
 
-So the first things we establish in Hornby are which kind of house you have and which rooms you actually want warm on a winter evening.
+So in Hornby, we start with two questions. Which kind of house is it? And which rooms do you want warm on a winter evening?
 
 ## Older Hornby houses: insulation first, then size
 
-In an older Hornby house we check the insulation before we settle on a size, so before we quote, we look at the ceiling space, the underfloor and the windows. If the ceiling has little or no insulation, we'll say so, because a heat pump in a leaky room is fighting a losing battle. Sometimes the right answer is a slightly larger unit in the lounge plus a small one in the main bedroom. Sometimes it's a [multi-room system](/multi-room-heat-pump-installation/) with one outdoor unit running two or three heads.
+In an older Hornby house, we check the insulation before we pick a size. We look in the ceiling space, under the floor and at the windows before we quote. If the ceiling has little or no insulation, we'll tell you. A heat pump in a leaky room is fighting a losing battle. Sometimes the answer is a slightly bigger lounge unit plus a small one in the main bedroom. Sometimes it's a [multi-room system](/multi-room-heat-pump-installation/), with one outdoor unit running two or three heads.
 
-We size each install from the rooms, the insulation, the glazing and how the household uses the house, not from a rule of thumb.
+We size from your rooms, insulation and glazing, and how your household uses the house. Not from a rule of thumb.
 
 ## Frosty mornings on the western side
 
-Hornby sits on the flat western edge of the city, where clear winter nights bring frost. A heat pump outdoor unit collects ice on cold mornings and runs a defrost cycle to clear it. Mounting it off the ground on feet or a bracket lets the meltwater drain away instead of refreezing around the base.
+Hornby is on the flat western edge of the city. Clear winter nights out here bring frost. On cold mornings, the outdoor unit ices up and runs a defrost cycle to clear it. So we mount it off the ground, on feet or a bracket. That way the meltwater drains away and doesn't refreeze round the base.
 
 ## Heat pump installs, service and repair in Hornby
 
-In Hornby we put in new heat pumps, service and repair existing ones, and replace old units:
+Here's what we do in Hornby:
 
-- **Installs** of wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing**, including filter and coil cleans and a drain check. See [heat pump servicing](/maintenance-servicing/).
-- **Repairs** on units that have stopped heating, are leaking water or are showing a fault light. See [heat pump repairs](/heat-pump-repair/).
-- **Replacements** for old units, with the existing pipework checked before we decide whether it can be reused.
+- **Installs.** Wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Servicing.** Filter and coil cleans, plus a drain check. See [heat pump servicing](/maintenance-servicing/).
+- **Repairs.** Units that have stopped heating, are leaking water or show a fault light. See [heat pump repairs](/heat-pump-repair/).
+- **Replacements.** New units for old ones. We check the existing pipework first to see if it can be reused.
 
 ## Getting the most from heat pumps in older Hornby homes
 
-A heat pump in an older Hornby home does best when it runs steadily. Set it to a comfortable temperature and leave it, rather than switching it off and on at full blast. Use the timer to start it before you get up and before you get home. Close the lounge door so the warmth stays in the room the unit was sized for, and draw the curtains when the sun goes down. Those habits matter more in a house with single glazing than in a new build.
+In an older Hornby home, a heat pump does best running steadily. Set a comfortable temperature and leave it. Don't keep switching it off and blasting it back on. Use the timer so it starts before you get up and before you get home. Close the lounge door to keep the warmth in the room it was sized for. Draw the curtains when the sun goes down. With single glazing, these habits matter more than they do in a new build.
 
 ## Noise and neighbours in Hornby
 
-Hornby sections can be tight, with houses close together. Under the Christchurch District Plan, what counts is how loud the outdoor unit is at the neighbour's property, especially at night. We place units with that in mind. The details are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+Hornby sections can be tight, with houses close together. Under the Christchurch District Plan, what counts is how loud the outdoor unit is at the neighbour's place. Night-time matters most. We place units with that in mind. The detail is in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## Suburbs next to Hornby
 
-We also work in [Sockburn](/sockburn/), [Wigram](/wigram/), [Templeton](/templeton/) and [Upper Riccarton](/upper-riccarton/), and across [all our locations](/locations/).
+We also work in [Sockburn](/sockburn/), [Wigram](/wigram/), [Templeton](/templeton/) and [Upper Riccarton](/upper-riccarton/). See [all our locations](/locations/) too.
 
-To book a free quote in Hornby, call **03 242 1023** or send us the form.
+For a free quote in Hornby, call **03 242 1023** or send us the form.

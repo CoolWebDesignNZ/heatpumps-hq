@@ -5,18 +5,18 @@ keyword: heat pump maintenance
 secondary: [heat pump maintenance christchurch, heat pump servicing near me, heat pump servicing chch]
 h1: Heat pump maintenance and servicing in Christchurch
 serviceName: Heat pump maintenance and servicing
-intro: Good heat pump maintenance is split between you and a technician. You keep the filters and the outdoor unit clear; we do the parts that need tools, cleaning chemicals and test gear.
+intro: Looking after a heat pump is a job for two. You keep the filters and the outdoor unit clear. We do the bits that need tools, cleaners and test gear.
 hero: maint-hero
 gallery: [maint-filter-sink, maint-outdoor-clear]
 faqHeading: Heat pump maintenance questions
 relatedHeading: More on heat pump servicing
 faqs:
   - q: How often does a heat pump need maintenance?
-    a: Owner jobs such as washing the filters happen every few weeks while the unit is working hard. A technician service is normally yearly, and more often for a unit that runs most of the day or lives with pets, dust or salt air.
+    a: Wash the filters every few weeks while the unit's working hard. Get a technician in once a year. Make it more often if the unit runs most of the day, or lives with pets, dust or salt air.
   - q: Can I maintain my heat pump myself?
-    a: Partly. Washing filters, wiping the front panel and keeping the outdoor unit clear are all owner jobs. Cleaning the coil and fan, flushing the drain and checking the electrical and refrigerant side need a technician.
+    a: Partly. You can wash the filters, wipe the front panel and keep the outdoor unit clear. Cleaning the coil and fan, flushing the drain, and checking the electrics and refrigerant are jobs for a technician.
   - q: What happens if I never service my heat pump?
-    a: Dust and mould build up on the coil and fan, airflow drops, and the unit uses more power to heat the same room. Smells, drips and noise usually follow, and small faults go unnoticed until the unit stops.
+    a: Dust and mould build up on the coil and fan. The airflow drops. The unit uses more power to heat the same room. Smells, drips and noise usually follow. Small faults go unnoticed until the unit stops.
   - q: Do you service heat pumps near me?
     a: We cover all of Christchurch, Selwyn and Lyttelton. See our <a href="/locations/">locations</a> for the full list.
 related:
@@ -27,7 +27,7 @@ related:
 
 ## Two sets of heat pump maintenance jobs
 
-Heat pump maintenance splits into two sets of jobs: simple ones you do yourself, and the rest, which need a technician with the right gear. A heat pump that's looked after runs quieter, smells cleaner and heats the room for less power. Here is how the work divides.
+Some jobs are simple and you can do them yourself. The rest need a technician with the right gear. Look after a heat pump and it runs quieter, smells cleaner and heats the room for less power. Here's who does what.
 
 | Job | Who | How often |
 | --- | --- | --- |
@@ -41,31 +41,31 @@ Heat pump maintenance splits into two sets of jobs: simple ones you do yourself,
 
 ## Your jobs between services
 
-Between services, your jobs are the filters, the outdoor unit, the drain outlet and noticing when something changes.
+Your jobs are the filters, the outdoor unit and the drain outlet. And keep an ear out for changes.
 
-**Filters.** Lift the front panel and slide the mesh filters out. Rinse them under a lukewarm tap from the back, let them dry in the shade, and slide them back in. Never run the unit without them. A clogged filter cuts airflow fast, and it takes five minutes to fix.
+**Filters.** Lift the front panel and slide out the mesh filters. Rinse them from the back under a lukewarm tap. Dry them in the shade, then slide them back. Never run the unit without them. A blocked filter cuts the airflow fast. It's a five minute fix.
 
-**Outdoor unit.** Keep a clear space around it. Pull out weeds, sweep away leaves and don't stack firewood, bins or garden furniture against it. After a nor'west storm, check nothing has blown into the fins.
+**Outdoor unit.** Keep the space round it clear. Pull the weeds and sweep away leaves. Don't stack firewood, bins or outdoor furniture against it. After a nor'west storm, check nothing's blown into the fins.
 
-**Drain outlet.** Find where the indoor unit's drain pipe comes out, usually low on an outside wall. If it never drips during cooling or dry mode, or water appears inside instead, the line may be blocked.
+**Drain outlet.** Find where the indoor unit's drain pipe comes out. It's usually low on an outside wall. In cooling or dry mode it should drip. If it never does, or water shows up inside, the line may be blocked.
 
-**Notice changes.** New noises, a smell when it starts, weaker airflow or ice that won't clear are all worth a call before they become a repair.
+**Changes.** A new noise, a smell when it starts, weaker airflow, or ice that won't clear. Give us a call before it turns into a repair.
 
 ## What our heat pump servicing covers
 
-A technician [heat pump service](/heat-pump-servicing/) deals with the parts you can't reach: the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. We then run the system and measure how well it's heating and cooling.
+A [heat pump service](/heat-pump-servicing/) deals with the parts you can't reach. That's the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. Then we run the system and measure how well it heats and cools.
 
 ## A Canterbury maintenance year
 
-Each Canterbury season brings its own heat pump jobs.
+Each season in Canterbury has its own jobs.
 
-**Late summer and autumn.** A good time for the yearly service, before the first frosts. If you've used the unit hard for cooling, the coil will have been wet all summer, which is when mould takes hold. A pre-season [tune-up](/heat-pump-seasonal-tune-ups/) fits here too.
+**Late summer and autumn.** A good time for the yearly service, before the first frosts. If you've run it hard for cooling, the coil's been wet all summer. That's when mould takes hold. A [tune-up](/heat-pump-seasonal-tune-ups/) before the season fits in here too.
 
-**Winter.** The heat pump works hardest now. Wash the filters regularly, keep the outdoor unit's base clear so defrost water can drain, and watch for ice that builds up and stays. [Winterising your heat pump](/winterisation-of-heat-pumps/) also means getting the settings right for frost.
+**Winter.** The heat pump works hardest now. Wash the filters often. Keep the base of the outdoor unit clear so the defrost water drains. Watch for ice that builds up and stays. [Winterising your heat pump](/winterisation-of-heat-pumps/) also means getting the settings right for frost.
 
-**Spring.** A quick filter wash once heating eases off. Check the outdoor unit for anything that has blown in or grown up around it.
+**Spring.** Give the filters a quick wash once you're heating less. Check nothing's blown in or grown up round the outdoor unit.
 
-**Summer.** If you run it for cooling or dry mode, give the filters the same attention as in winter. Check the drain outlet is dripping as it should.
+**Summer.** Using it for cooling or dry mode? Look after the filters the same as in winter. Check the drain outlet drips as it should.
 
 ## Signs it needs a technician now
 
@@ -78,10 +78,10 @@ Call a technician straight away if you notice any of these:
 - Ice on the outdoor unit that doesn't clear after a defrost
 - A flashing light or an error code
 
-Some of these are a clean, and some are a [repair](/heat-pump-repair/). We'll tell you which once we've looked.
+Some of these need a clean. Some need a [repair](/heat-pump-repair/). We'll tell you which once we've had a look.
 
 ## Systems and brands we maintain
 
-We maintain wall-mounted, floor console, multi-room and ducted systems from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands sold in New Zealand. If you have more than one unit, or a rental to keep on top of, a [service plan](/customised-heat-pump-service-plans/) keeps every unit on a schedule.
+We look after wall, floor console, multi-room and ducted systems. Brands are Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold in New Zealand. Got more than one unit, or a rental to keep on top of? A [service plan](/customised-heat-pump-service-plans/) keeps every unit on a schedule.
 
-Call **03 242 1023** to book your heat pump's service, or [request a quote](/contact-us/).
+Call **03 242 1023** to book a service, or [ask for a quote](/contact-us/).

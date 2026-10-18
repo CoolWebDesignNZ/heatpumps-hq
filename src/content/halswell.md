@@ -7,20 +7,20 @@ h1: Heat pump installation across Halswell
 serviceName: Heat pump installation, servicing and repair
 areaServed: Halswell
 suburb: Halswell
-intro: Heat pump installs, servicing and repairs across Halswell, from the new subdivisions to the older homes around the original village. You'll have a fixed price before we start.
+intro: We fit, service and fix heat pumps across Halswell. The new subdivisions, and the older homes round the original village. You'll have a fixed price before we start.
 hero: halswell-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: Questions about heat pumps in Halswell
 relatedHeading: Heat pumps near Halswell
 faqs:
   - q: Our new Halswell house came with one heat pump. Should we add another?
-    a: If the bedrooms are cold or the unit runs flat out to heat the living area, a second smaller unit or a multi-room system usually fixes it. We check the existing unit's size against the room before suggesting anything.
+    a: Are the bedrooms cold? Does the unit run flat out to heat the living area? Then a second, smaller unit or a multi-room system usually sorts it. We check the size of your current unit against the room before we suggest anything.
   - q: Can a ducted system be added to a house that's already built?
-    a: Often, if there's enough roof space for the indoor unit and duct runs. Single-storey homes with a standard pitched roof are usually the easiest to fit with <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
+    a: Often, if there's enough roof space for the indoor unit and the ducts. Single-storey homes with a standard pitched roof are usually the easiest to fit with <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
   - q: Is Halswell under Selwyn or Christchurch rules?
-    a: Christchurch. Halswell is inside the city boundary, so it's the Christchurch District Plan rather than Selwyn's.
+    a: Christchurch. Halswell is inside the city boundary. So the Christchurch District Plan applies, not Selwyn's.
   - q: Do you service the heat pump that came with our new home?
-    a: Yes. Whichever of the main brands the builder used, Panasonic included, we can service it.
+    a: Yes. We can service whichever of the main brands your builder used. Panasonic too.
 related:
   - { label: Aidanfield, href: /aidanfield/, text: Heat pumps for Aidanfield's brick and plaster homes. }
   - { label: Kennedys Bush, href: /kennedys-bush/, text: Installs on the hill above Halswell. }
@@ -29,35 +29,41 @@ related:
 
 ## Heat pumps for Halswell homes, village and subdivision
 
-Halswell sits on the south-west edge of Christchurch, below the Port Hills, and the heat pump that suits a home there comes down to which part of the suburb it is in.
+Halswell is on the south-west edge of Christchurch, below the Port Hills. The heat pump that suits your home depends on which part of the suburb you're in.
 
-- **Weatherboard and brick houses in the original village** have smaller, separate rooms, and unless they have been upgraded they lose heat through the ceiling, under the floor and through single glazing. One unit in the lounge won't reach the bedrooms. Many sit on good-sized sections, which gives a choice of spots for the outdoor unit well away from your bedrooms and the neighbour's.
-- **Modern homes in the new subdivisions** are well insulated and usually open plan, so the living area needs one correctly sized unit. The common problem is a builder-fitted unit that is too small, or one that leaves the bedrooms cold.
-- **Townhouses and terraces** have small courtyards and shared walls. The indoor unit goes on an outside wall so its pipes can run straight through, and the outdoor unit usually goes on a courtyard wall bracket, with its fan facing away from the bedroom windows next door.
-- **Homes up the hill in [Kennedys Bush](/kennedys-bush/)** take more wind and frost than the streets below, and their big view windows change how a unit is sized.
+- **Original village homes:** weatherboard and brick houses with smaller, separate rooms. Unless they've been upgraded, they lose heat through the ceiling, under the floor and through single glazing. One lounge unit won't reach the bedrooms. Many sit on decent sections. That gives you a choice of spots for the outdoor unit, well away from your bedrooms and the neighbour's.
+- **New subdivision homes:** well insulated and usually open plan. The living area needs one unit, sized right. The usual problem is a builder's unit that's too small, or one that leaves the bedrooms cold.
+- **Townhouses and terraces:** small courtyards and shared walls. The indoor unit goes on an outside wall, so the pipes can run straight through. The outdoor unit usually sits on a bracket on the courtyard wall. We point its fan away from the bedroom windows next door.
+- **Up the hill in [Kennedys Bush](/kennedys-bush/):** these homes get more wind and frost than the streets below. Their big view windows change how we size a unit.
 
 ## Heat pump installation in new Halswell subdivisions
 
-Many new Halswell houses are well insulated and double glazed, with an open plan living area facing the sun. Some came with a single heat pump fitted by the builder. If yours did, it may warm the lounge but not the bedrooms, or be too small for the space and run hard on cold mornings.
+Many new Halswell homes are well insulated and double glazed. The open plan living area faces the sun. Some came with a single heat pump from the builder. If yours did, it might warm the lounge but not the bedrooms. Or it might be too small and run hard on cold mornings.
 
-Fixing that might mean a second unit, a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit, or, for a house with roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/). We check the size of what you already have and work out what each room needs before recommending anything.
+The fix could be a second unit. It could be a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit. If you've got roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/) is another option. Before we suggest anything, we check the size of what you've got. Then we work out what each room needs.
 
 ## Heat pumps for older Halswell homes
 
-In the older houses near the village, insulation is the first thing to check. A weatherboard house may have had insulation added, or none at all. Brick bungalows on the same streets can have the same gaps. Long hallways and separate rooms often suit one unit for the lounge and compact units for the bedrooms, rather than one big unit trying to push heat down the hall.
+In the older houses near the village, check the insulation first. A weatherboard house may have had some added, or none at all. Brick bungalows on the same streets can have the same gaps.
 
-If the house is lightly insulated, adding ceiling and underfloor insulation lets a smaller system do the work.
+Long halls and separate rooms often suit one unit in the lounge and small units in the bedrooms. That beats one big unit trying to push heat down the hall. If the house is lightly insulated, add ceiling and underfloor insulation. Then a smaller system can do the work.
 
 ## Outdoor unit placement in Halswell
 
-Wherever you live in Halswell, the outdoor unit needs raised feet or a bracket for frosty mornings, clear air around it, and a position that keeps noise away from bedrooms. Halswell is in Christchurch City, and the District Plan limits [heat pump noise at the neighbour's property](/heat-pump-boundary-rules-consent-nz/).
+Wherever you are in Halswell, the outdoor unit needs a few things:
+
+- **Raised feet or a bracket:** for frosty mornings
+- **Clear air:** all round it
+- **The right spot:** one that keeps noise away from bedrooms
+
+Halswell is in Christchurch City. The District Plan limits [heat pump noise at the neighbour's property](/heat-pump-boundary-rules-consent-nz/).
 
 ## What we do in Halswell
 
-Across Halswell we install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and our service and [repair](/heat-pump-repair/) work covers builder-fitted units from those brands, Panasonic and most others.
+Across Halswell we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We also service and [repair](/heat-pump-repair/) builder-fitted units from those brands, Panasonic and most others.
 
 ## Around Halswell
 
 We also cover [Aidanfield](/aidanfield/), [Kennedys Bush](/kennedys-bush/), [Wigram](/wigram/), [Tai Tapu](/tai-tapu/) and [Prebbleton](/prebbleton/).
 
-Call **03 242 1023** for a free, fixed-price quote in Halswell, or request one online.
+For a free, fixed-price quote in Halswell, call **03 242 1023** or ask for one online.

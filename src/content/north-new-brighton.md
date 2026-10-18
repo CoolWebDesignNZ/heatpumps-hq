@@ -7,18 +7,18 @@ h1: Heat pump installation in North New Brighton, close to the beach
 serviceName: Heat pump installation, servicing and repair
 areaServed: North New Brighton
 suburb: North New Brighton
-intro: We install, service and repair heat pumps in North New Brighton, where many homes sit close to the dunes and take the full sea wind. Every quote is a fixed price.
+intro: We fit, service and fix heat pumps in North New Brighton. Lots of homes here sit close to the dunes and cop the full sea wind. The price we quote is fixed.
 hero: north-new-brighton-hero
 gallery: [pool-coastal-home, pool-frost-outdoor]
 faqHeading: "North New Brighton heat pump questions"
 relatedHeading: "Heat pumps near North New Brighton"
 faqs:
   - q: Does a strong easterly affect how my heat pump runs in North New Brighton?
-    a: A wind blowing straight into the outdoor unit can disturb its airflow and carries salt and sand onto the coil. Facing the unit away from the prevailing wind, or sheltering it with a slatted screen that still lets air move, helps.
+    a: Yes. Wind blowing straight into the outdoor unit can upset its airflow. It also carries salt and sand onto the coil. It helps to face the unit away from the prevailing wind. A slatted screen that still lets air through helps too.
   - q: Is salt corrosion a real problem for heat pumps by the dunes?
-    a: Yes. Homes within sight of the sea get the most salt on the outdoor coil and casing. Placement, regular rinsing and checking the manufacturer's coastal guidance for your model all extend its life.
+    a: Yes. Homes within sight of the sea get the most salt on the outdoor coil and casing. Good placement makes it last longer. So does rinsing it often and following the maker's coastal advice for your model.
   - q: My heat pump outdoor unit in North New Brighton is full of sand. What should I do?
-    a: Turn it off at the isolating switch and leave the inside of the unit alone. We can clean the coil and fan, check for damage and suggest a better spot or a raised bracket.
+    a: Turn it off at the isolating switch. Don't touch the inside of the unit. We can clean the coil and fan and check for damage. We'll also suggest a better spot or a raised bracket.
 related:
   - { label: New Brighton, href: /new-brighton/, text: Heat pumps for older New Brighton cottages. }
   - { label: Parklands, href: /parklands/, text: Installation and servicing in Parklands. }
@@ -27,33 +27,39 @@ related:
 
 ## Heat pump installation on the North New Brighton beachfront
 
-On the North New Brighton streets closest to the dunes, the sea wind reaches the house with nothing to break it. A house a few kilometres inland wouldn't face this, and here it shapes the whole install:
+On the North New Brighton streets nearest the dunes, nothing breaks the sea wind before it hits the house. A house a few kilometres inland wouldn't face this. Here it shapes the whole install:
 
-- **The outdoor unit** needs a spot that shelters it from the easterly without boxing it in. The next section explains how we choose one.
-- **The indoor unit** has to make up for the heat the wind strips from walls and windows, so we size it from your rooms, glazing and insulation and set it up to run steadily rather than in bursts.
-- **The model** is checked against the manufacturer's coastal installation guidance before we quote it.
+- **The outdoor unit.** It needs a spot sheltered from the easterly that doesn't box it in. More on how we pick one below.
+- **The indoor unit.** It has to make up for the heat the wind pulls from walls and windows. We size it from your rooms, glazing and insulation. We set it up to run steadily, not in bursts.
+- **The model.** Before we quote it, we check it against the maker's advice for coastal installs.
 
 ## Wind, salt and sand on the dune streets
 
-On the streets nearest the dunes, the outdoor unit faces three things at once:
+On the streets nearest the dunes, the outdoor unit takes on three things at once:
 
-- **Salt.** It settles on the coil fins and casing and speeds up corrosion.
-- **Wind.** A strong wind straight into the fan works against the unit's own airflow.
-- **Blown sand.** It collects in the coil and around the base, blocking air and holding moisture.
+- **Salt.** It settles on the coil fins and casing. It makes them corrode faster.
+- **Wind.** A strong wind straight into the fan fights the unit's own airflow.
+- **Blown sand.** It builds up in the coil and around the base. It blocks the air and holds moisture.
 
-So we look at every wall of the house before choosing a spot. The best position is usually on the side sheltered from the easterly, raised off the ground on a bracket or a firm pad, with open space in front of the fan. A slatted timber screen can take the edge off the wind, as long as it doesn't box the unit in.
+So we look at every wall of the house before we pick a spot. The best place is usually the side sheltered from the easterly. We raise the unit off the ground on a bracket or a firm pad. We leave open space in front of the fan. A slatted timber screen can take the edge off the wind. Just don't let it box the unit in.
 
 ## Choosing a heat pump for North New Brighton
 
-For a home this close to the sea, we check the manufacturer's coastal installation guidance for each model we quote and tell you what it says. We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and size the unit from your rooms, glazing, insulation and the hours you heat.
+This close to the sea, we check the maker's coastal advice for every model we quote. We'll tell you what it says. Our installs are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We size the unit from your rooms, glazing and insulation, and the hours you heat.
 
 ## Indoor comfort in North New Brighton homes
 
-Coastal homes can feel cold and damp even on days that aren't freezing, because the wind strips heat from the walls and windows. A heat pump left on a steady, moderate setting usually keeps a beach house more comfortable than one blasted on and off. In larger homes, a [multi-room system](/multi-room-heat-pump-installation/) can keep bedrooms from getting clammy.
+Coastal homes can feel cold and damp even when it isn't freezing. The wind pulls the heat out of the walls and windows. A beach house usually stays more comfortable with the heat pump on a steady, moderate setting. Blasting it on and off doesn't work as well. In bigger homes, a [multi-room system](/multi-room-heat-pump-installation/) stops the bedrooms getting clammy.
 
 ## Heat pump service by the North New Brighton dunes
 
-Units close to the sea need more care than most. Rinse the outdoor coil gently every few months, keep sand cleared from around the base, and book a yearly [service](/maintenance-servicing/). If you see rust spots, white crust on the fins or a unit that has lost heating power, get it checked before the damage spreads. We handle that under [heat pump repairs](/heat-pump-repair/).
+Units close to the sea need more looking after than most:
+
+- Rinse the outdoor coil gently every few months.
+- Keep sand cleared from around the base.
+- Book a [service](/maintenance-servicing/) once a year.
+
+Seeing rust spots, white crust on the fins or weaker heating? Get it checked before the damage spreads. We sort that under [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs near North New Brighton
 

@@ -4,7 +4,7 @@ description: "Buying heat pump covers in NZ? Louvred cabinets, timber screens, r
 keyword: heat pump covers nz
 secondary: [best heat pump cover, heat pump cover nz, air conditioner cover nz]
 h1: Heat pump covers in NZ, types compared
-intro: Heat pump covers range from a simple roof shelter to a full louvred cabinet. The right one depends on why you want it, where the outdoor unit sits and how much space it leaves for air. Here is how the main types compare.
+intro: "Heat pump covers run from a simple roof shelter to a full louvred cabinet. The right one depends on three things: why you want it, where the outdoor unit sits and how much room it leaves for air. Here's how the main types compare."
 hero: coverguide-hero
 updated: 2026-10-17
 gallery: [coverguide-louvred, coverguide-timber]
@@ -12,13 +12,13 @@ faqHeading: "Questions about the best heat pump cover"
 relatedHeading: "More on heat pump covers and outdoor units"
 faqs:
   - q: What is the best heat pump cover?
-    a: The one that does the job you want while leaving the unit enough air. For looks, a louvred or slatted screen with an open front and base. For sun or falling debris, a simple roof shelter. For a unit switched off for months, a fitted storage cover, taken off before it runs.
+    a: The one that does the job you want and still lets the unit breathe. For looks, go with a louvred or slatted screen that's open at the front and base. For sun or falling debris, a simple roof shelter. For a unit switched off for months, a fitted storage cover. Take it off before the unit runs.
   - q: What material is best for a heat pump cover in a coastal area?
-    a: Choose materials and fixings that resist salt air, such as powder-coated aluminium with stainless steel screws, or a durable timber with a good finish. Plain steel and cheap fixings rust quickly near the sea.
+    a: Pick materials and fixings that stand up to salt air. Powder-coated aluminium with stainless steel screws works. So does a durable timber with a good finish. Plain steel and cheap fixings rust fast near the sea.
   - q: Is an air conditioner cover the same as a heat pump cover?
-    a: Yes. In New Zealand the same outdoor unit does heating and cooling, so covers sold for air conditioners and for heat pumps are the same products. What matters is the size and the airflow, not the name.
+    a: Yes. In New Zealand, the same outdoor unit heats and cools. So covers sold for air conditioners and for heat pumps are the same products. What matters is the size and the airflow, not the name.
   - q: Can I build my own heat pump cover?
-    a: Yes, if it leaves the fan outlet open, gives the unit the clearances in its installation manual, has an open base and lifts off for servicing. The airflow rules are set out in full under <a href="/covers/">heat pump covers</a>.
+    a: Yes. Leave the fan outlet open. Give the unit the clearances in its install manual. Keep the base open. And make sure it lifts off for servicing. The full airflow rules are under <a href="/covers/">heat pump covers</a>.
 related:
   - { label: Heat pump covers and screens, href: /covers/, text: Our advice on choosing and placing a cover. }
   - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: What a screen can and can't do for noise. }
@@ -27,61 +27,61 @@ related:
 
 ## Decide what the heat pump cover is for
 
-Covers are bought for different reasons, and each reason points to a different type:
+People buy covers for different reasons. Each reason points to a different type:
 
-- **To hide the unit** on a deck, patio or front path: a louvred cabinet or slatted screen.
-- **To keep sun, roof run-off or falling branches off it:** a roof shelter or top cover.
-- **To protect it while it's switched off** for a long stretch, such as at a bach: a fitted storage cover.
-- **To tidy the indoor side:** an indoor unit cover or pipe trunking.
+- **To hide the unit** on a deck, patio or front path. Go with a louvred cabinet or slatted screen.
+- **To keep off sun, roof run-off or falling branches.** Go with a roof shelter or top cover.
+- **To protect it while it's switched off** for a long stretch, say at a bach. Go with a fitted storage cover.
+- **To tidy the indoor side.** Go with an indoor unit cover or pipe trunking.
 
-A running outdoor unit doesn't need covering against ordinary rain or frost. It's built to be outside. People cover one for looks, or to keep sun and falling debris off it. Why airflow matters, and what a cover can't fix, is set out under [heat pump covers](/covers/).
+A running outdoor unit doesn't need covering against normal rain or frost. It's built to live outside. People cover one for looks, or to keep sun and falling debris off it. [Heat pump covers](/covers/) explains why airflow matters, and what a cover can't fix.
 
 ## The main types of heat pump cover
 
-There are five main types of heat pump cover: louvred cabinets, slatted timber screens, roof shelters, storage covers, and covers for the indoor unit and pipes.
+There are five main types. Louvred cabinets, slatted timber screens, roof shelters, storage covers, and covers for the indoor unit and pipes.
 
 ### Louvred cabinets
 
-A box with louvred sides and front that sits over the outdoor unit, usually made in powder-coated aluminium or steel.
+A box with louvred sides and front that sits over the outdoor unit. It's usually powder-coated aluminium or steel.
 
-- **Good for:** hiding the unit completely, and a tidy look that matches joinery.
-- **Watch for:** louvres directly in front of the fan, a closed top that traps warm air in summer, and a solid back. The front should be open or have wide slats angled to let the discharge air out.
-- **Check:** the internal dimensions against your unit, plus the clearances in its installation manual.
+- **Good for:** hiding the unit completely. It gives a tidy look that matches your joinery.
+- **Watch for:** louvres right in front of the fan. A closed top traps warm air in summer. So does a solid back. The front should be open, or have wide slats angled to let the air out.
+- **Check:** the inside measurements against your unit. Add the clearances in its install manual.
 
 ### Slatted timber screens
 
-A freestanding or wall-fixed screen in front of or around the unit, often built to match a fence or deck.
+A screen in front of or around the unit. It can stand on its own or fix to a wall. It's often built to match a fence or deck.
 
-- **Good for:** blending in with timber decks and fences, and easy to size to the space.
-- **Watch for:** slats too close together, and screens placed so close to the fan that air bounces straight back into the coil.
-- **Check:** that it's fixed firmly enough not to rattle in a strong wind, and that you can lift or swing it away for servicing.
+- **Good for:** blending in with timber decks and fences. It's easy to size to the space.
+- **Watch for:** slats too close together. Also, a screen so close to the fan that air bounces straight back into the coil.
+- **Check:** it's fixed firmly enough not to rattle in a strong wind. And you can lift or swing it away for servicing.
 
 ### Roof shelters and top covers
 
 A flat or sloped lid held above the unit, open on all sides.
 
-- **Good for:** keeping hot afternoon sun, drips from a roof with no spouting, or sliding snow off the unit. Because they're open on all sides, they leave the airflow largely alone.
-- **Watch for:** a lid set too low over the top of the unit, and fixings into the unit's own casing.
-- **Check:** that the shelter is fixed to the wall or its own frame, not screwed into the heat pump.
+- **Good for:** keeping off hot afternoon sun, drips from a roof with no spouting, or sliding snow. They're open on all sides, so they hardly touch the airflow.
+- **Watch for:** a lid set too low over the unit. Also, fixings into the unit's own casing.
+- **Check:** the shelter is fixed to the wall or its own frame, not screwed into the heat pump.
 
 ### Storage or off-season covers
 
 Fabric or PVC covers that wrap the outdoor unit.
 
-- **Good for:** a unit that won't run for months, such as a holiday home over winter.
-- **Watch for:** being left on by mistake. A wrapped unit must never run. Covers that trap moisture against the casing can also do more harm than good.
-- **Check:** whether it has a clear "remove before use" reminder, or switch the unit off at the isolating switch while the cover's on.
+- **Good for:** a unit that won't run for months, like a holiday home over winter.
+- **Watch for:** leaving it on by mistake. A wrapped unit must never run. A cover that traps moisture against the casing can also do more harm than good.
+- **Check:** it has a clear "remove before use" reminder. Or switch the unit off at the isolating switch while the cover's on.
 
 ### Indoor unit and pipe covers
 
-Decorative panels for the indoor unit, and plastic or metal trunking that hides the pipes and cable running down the outside wall.
+Decorative panels for the indoor unit. Also plastic or metal trunking that hides the pipes and cable down the outside wall.
 
-- **Good for:** a neater exterior and protection of the pipe insulation from sun and knocks.
-- **Watch for:** indoor covers that block the air intake on top of a wall unit or the discharge at the bottom. Those cut output and can confuse the unit's temperature sensor.
+- **Good for:** a neater outside wall. Trunking also protects the pipe insulation from sun and knocks.
+- **Watch for:** indoor covers that block the air intake on top of a wall unit, or the outlet at the bottom. Those cut output. They can also confuse the unit's temperature sensor.
 
 ## Cover materials compared
 
-Heat pump covers are made from four main materials, and each has its own strengths and weak points.
+Heat pump covers come in four main materials. Each has its strengths and weak points.
 
 | Material | Strengths | Watch for |
 | --- | --- | --- |
@@ -90,22 +90,22 @@ Heat pump covers are made from four main materials, and each has its own strengt
 | Timber | Matches decks and fences, easy to build to size | Needs sealing or staining, can warp or rot at ground level |
 | PVC or fabric | Cheap, light, easy to fit | Storage only, not for a running unit |
 
-Near the coast, use stainless steel fixings whatever the material.
+Near the coast, use stainless steel fixings, whatever the material.
 
 ## Airflow checks for any air conditioner cover
 
-Any heat pump or air conditioner cover, whatever its type, has to pass these airflow checks:
+Whatever the type, any heat pump or air conditioner cover has to pass these checks:
 
-1. Nothing solid directly in front of the fan.
-2. The back and sides leave at least the clearance the unit's installation manual asks for.
-3. The base is open so defrost water can drain away.
+1. Nothing solid right in front of the fan.
+2. The back and sides leave at least the clearance the install manual asks for.
+3. The base is open, so defrost water can drain away.
 4. The cover lifts off or opens for a technician.
-5. It's sized for your actual unit, measured, not guessed from the brand.
+5. It's sized for your actual unit. Measure it. Don't guess from the brand.
 
-A cover that blocks airflow costs you heat in winter; [heat pump covers](/covers/) explains why.
+A cover that blocks airflow costs you heat in winter. [Heat pump covers](/covers/) explains why.
 
 ## Thinking of a cover at install time
 
-If you're getting a new heat pump, the answer may be a better position for the outdoor unit. A unit tucked beside a garage or behind a planted area may not need covering at all. When we plan an [installation](/heat-pump-installation-in-christchurch/), we can pick a spot that suits looks, airflow and noise at the boundary.
+Getting a new heat pump? The answer may be a better spot for the outdoor unit. A unit tucked beside a garage or behind some planting may not need a cover at all. When we plan an [installation](/heat-pump-installation-in-christchurch/), we can pick a spot that works for looks, airflow and noise at the boundary.
 
 For advice on a cover for your outdoor unit, call **03 242 1023** or [request a quote online](/contact-us/).

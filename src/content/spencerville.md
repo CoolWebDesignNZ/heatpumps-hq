@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Spencerville
 serviceName: Heat pump installation, servicing and repair
 areaServed: Spencerville
 suburb: Spencerville
-intro: Spencerville is a small semi-rural settlement on the city's north-eastern edge, and most of its homes sit on large sections. We install, service and repair heat pumps there, with a fixed price agreed first.
+intro: Spencerville is a small semi-rural spot on the city's north-eastern edge. Most homes here sit on big sections. We fit, service and fix heat pumps in Spencerville, and we agree a fixed price first.
 hero: spencerville-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Spencerville heat pump questions"
 relatedHeading: "Heat pumps close to Spencerville"
 faqs:
   - q: Is Spencerville inside your service area?
-    a: Yes. Spencerville is part of Christchurch and inside the area we cover, along with nearby Brooklands and Marshland.
+    a: Yes. Spencerville is part of Christchurch, and we cover it. We also cover nearby Brooklands and Marshland.
   - q: How far can the outdoor unit be from the indoor unit?
-    a: Every model has a maximum pipe length set by the manufacturer. On a large house we plan the route to stay well inside it, because shorter runs are more efficient and easier to service.
+    a: The maker sets a maximum pipe length for every model. On a big house we plan the route to stay well inside it. Shorter runs work more efficiently. They're easier to service too.
   - q: Can one outdoor unit heat a whole lifestyle home?
-    a: A multi-room system can run several indoor units from one outdoor unit, within its capacity. In a large home, two separate systems sometimes give better coverage. We'll show you both on the quote.
+    a: A multi-room system can run several indoor units off one outdoor unit, up to its capacity. In a big home, two separate systems sometimes cover it better. We'll show you both on the quote.
 related:
   - { label: Brooklands, href: /brooklands/, text: Heat pumps for Brooklands homes. }
   - { label: Marshland, href: /marshland/, text: Semi-rural and new homes in Marshland. }
@@ -27,31 +27,37 @@ related:
 
 ## Spencerville homes on bigger sections
 
-Spencerville homes tend to be larger than a typical suburban house, and many have been extended over the years, so the job is to heat a big floor area without paying to heat rooms nobody is using that day.
+Spencerville homes are usually bigger than a typical suburban house. Many have been added onto over the years. The job is to heat a big floor area without paying to heat rooms nobody's using that day.
 
-- **The main living area** in a larger home usually needs more output than a standard wall unit gives. A larger high wall unit, or a ducted system where the ceiling space allows, stops the far end of the room staying cold.
-- **Extensions** often have different insulation and windows from the original house, and can sit at the end of a hallway that lounge heat never reaches. We size each one as a room of its own, and it may need its own unit.
-- **Sleepouts and converted garages** on lifestyle properties usually need heating of their own, covered further down.
+- **The main living area.** In a bigger home it usually needs more output than a standard wall unit. A larger high wall unit stops the far end of the room staying cold. So does a ducted system, if the ceiling space allows.
+- **Extensions.** Their insulation and windows are often different from the original house. Some sit at the end of a hallway the lounge heat never reaches. We size each one as its own room. It may need its own unit.
+- **Sleepouts and converted garages.** On lifestyle properties these usually need their own heating. More on that below.
 
-At the quote we measure the rooms, look at the glazing and insulation in each part of the house, and ask which rooms you heat every day and which only now and then.
+When we quote, we measure the rooms. We look at the glazing and insulation in each part of the house. We'll also ask which rooms you heat every day and which only now and then.
 
 ## Planning a heat pump installation for a large Spencerville house
 
-In a big home, the question is less "which unit?" and more "which rooms, and when?" Most families don't need the guest wing or the rumpus room heated every day. Splitting the house into zones means you can run heating only where you're living. [Heat pump zoning](/heat-pump-zoning/) can be set up with separate units or a ducted system.
+In a big home, the question isn't so much "which unit?" It's "which rooms, and when?" Most families don't need the guest wing or the rumpus room heated every day. Split the house into zones and you only heat where you're living. [Heat pump zoning](/heat-pump-zoning/) can be done with separate units or a ducted system.
 
-We size the living area unit from the actual room volume, glazing and insulation, so it copes on the coldest mornings without being oversized for the rest of winter.
+We size the living area unit from the real room volume, glazing and insulation. It copes on the coldest mornings. It isn't too big for the rest of winter.
 
 ## Frost and shelter in Spencerville
 
-Spencerville sits between Brooklands, Marshland and the pine forest of Bottle Lake, a short drive from the coast, and its open ground by the forest and paddocks gets heavy frosts on still winter nights. The outdoor unit should sit off the ground on raised feet or a bracket, with defrost water able to drain away rather than freezing around the base. Shelter belts can block cold wind, but the unit still needs open air on all sides to breathe, so we keep it clear of hedges and stored gear. Gravel or a concrete pad underneath stops grass growing up into the base.
+Spencerville sits between Brooklands, Marshland and the pine forest of Bottle Lake. The coast is a short drive away. The open ground by the forest and paddocks gets heavy frosts on still winter nights.
+
+Here's how we set up the outdoor unit:
+
+- **Off the ground.** On raised feet or a bracket, so defrost water drains away and doesn't freeze around the base.
+- **Clear on all sides.** Shelter belts can block cold wind. But the unit still needs open air all round to breathe. We keep it clear of hedges and stored gear.
+- **Gravel or a concrete pad underneath.** That stops grass growing up into the base.
 
 ## Heating rooms added over time
 
-Extensions, sleepouts and converted garages are common on lifestyle properties. Each one may need its own heating, and a sleepout away from the main house usually needs a separate small system. We look at each building on the quote visit and price it separately, so you can choose what to do now and what to leave for later.
+Lifestyle properties often have extensions, sleepouts and converted garages. Each one may need its own heating. A sleepout away from the house usually needs a separate small system. We look at each building when we come to quote. We price each one separately. Then you can choose what to do now and what to leave till later.
 
 ## Heat pump service on Spencerville lifestyle blocks
 
-Units on rural properties pick up dust, pollen and grass seed, and outdoor coils can get choked by plant growth. A yearly [service](/maintenance-servicing/) clears that and checks the drain and performance. If something has stopped working, we [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
+Units on rural properties pick up dust, pollen and grass seed. Plants can grow in and choke the outdoor coil. A [service](/maintenance-servicing/) once a year clears all that. We also check the drain and how the unit's running. If something's stopped working, we [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Close to Spencerville
 

@@ -4,7 +4,7 @@ description: "Types of heat pumps compared: high wall, floor console, ceiling ca
 keyword: types of heat pumps
 secondary: [floor console heat pump, high wall heat pump, heat pump types]
 h1: Types of heat pumps and where each one fits
-intro: Every home heat pump works on the same cycle, but the indoor unit and the way the system is laid out make a big difference to how a room feels. Here's what each type does well and where it falls short.
+intro: "Every home heat pump works on the same cycle. What changes how a room feels is the indoor unit and the layout of the system. Here's what each type does well, and where it falls short."
 hero: types-hero
 updated: 2026-10-17
 gallery: [types-console, types-cassette]
@@ -12,13 +12,13 @@ faqHeading: "Questions about types of heat pumps"
 relatedHeading: "More on choosing a heat pump type"
 faqs:
   - q: Is a floor console or high wall heat pump better for heating?
-    a: For pure heating a floor console has an edge, because it releases warm air at floor level and warm air rises. A high wall unit leaves the floor clear and spreads cooling better in summer. In a room with high walls and space under a window, a console can heat more evenly.
+    a: For heating alone, a floor console has the edge. It puts warm air out at floor level, and warm air rises. A high wall unit keeps the floor clear and spreads cooling better in summer. In a room with high walls and space under a window, a console can heat more evenly.
   - q: Can a floor console heat pump replace a fireplace?
-    a: Often, yes. A console can sit in or near the old fireplace position, and the pipes can run through the floor or an outside wall. The chimney should be sealed so warm air doesn't escape up it.
+    a: Often, yes. A console can sit in or near where the old fireplace was. The pipes can run through the floor or an outside wall. Seal the chimney so warm air doesn't escape up it.
   - q: What is a multi-split heat pump?
-    a: A system with one outdoor unit and two or more indoor units in different rooms. It means fewer outdoor units on the house, but if the outdoor unit fails every room on it loses heating at once.
+    a: It's one outdoor unit running two or more indoor units in different rooms. You get fewer outdoor units on the house. But if the outdoor unit fails, every room on it loses heat at once.
   - q: Are all these types heat pumps or air conditioners?
-    a: They're the same thing. In New Zealand homes a reverse-cycle air conditioner is called a heat pump, and every type here can both heat and cool.
+    a: They're the same thing. In New Zealand homes, a reverse-cycle air conditioner is called a heat pump. Every type here can heat and cool.
 related:
   - { label: Ducted vs split systems, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which layout suits your house and budget. }
   - { label: Single room installation, href: /single-room-heat-pump-installation/, text: One unit for a lounge or bedroom. }
@@ -27,58 +27,58 @@ related:
 
 ## Why types of heat pumps come down to two choices
 
-Choosing between the types of heat pumps comes down to two separate decisions, which people often mix together:
+Picking between types of heat pumps is really two separate choices. People often mix them up.
 
-1. **The system layout.** Single split, multi split or ducted. This decides how many rooms are heated and how many outdoor units you need.
-2. **The indoor unit.** High wall, floor console, ceiling cassette, bulkhead or ducted vents. This decides how warm air moves around the room and what you see on the wall or ceiling.
+1. **The system layout.** Single split, multi split or ducted. This decides how many rooms get heated and how many outdoor units you need.
+2. **The indoor unit.** High wall, floor console, ceiling cassette, bulkhead or ducted vents. This decides how warm air moves round the room. It also decides what you see on the wall or ceiling.
 
-All of them are air-to-air, reverse-cycle systems: they take heat from the outside air in winter and reverse to cool in summer. EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) notes that the single split system is the most commonly installed residential heat pump in New Zealand, and that all three indoor unit styles can heat or cool.
+They're all air-to-air, reverse-cycle systems. In winter they pull heat from the outside air. In summer they reverse to cool. EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) says the single split is the heat pump most often put into New Zealand homes. It also says all three indoor unit styles can heat or cool.
 
 ## High wall heat pumps
 
-The high wall unit is the familiar white box mounted near the ceiling. Warm air blows out across the room, mixes with the room air and drops to where people sit.
+The high wall unit is the white box you know, mounted up near the ceiling. Warm air blows out across the room. It mixes with the room air and drops down to where you sit.
 
-**Good for:** bedrooms, living rooms, rooms where floor space is tight, and homes that want cooling in summer. EECA's guide notes that high wall and ceiling units cool more effectively and give more freedom to arrange furniture.
+**Good for:** bedrooms and living rooms. Rooms short on floor space. Homes that want cooling in summer. EECA's guide says high wall and ceiling units cool better and give you more freedom with furniture.
 
-**Watch for:** in a room with a very high ceiling, warm air can collect near the top. Placement matters, with the unit directed toward the coldest part of the room but not at a window. EECA's guide sets a minimum of 2 metres from the floor to the bottom of a high wall unit.
+**Watch for:** in a room with a very high ceiling, warm air can collect up top. Where it goes matters. Aim it at the coldest part of the room, but not at a window. EECA's guide sets a minimum of 2 metres from the floor to the bottom of a high wall unit.
 
 ## Floor console heat pumps
 
-A floor console sits low on the wall, about the height of a small cabinet, and blows warm air out at floor level. Many models also blow from the top at the same time.
+A floor console sits low on the wall. It's about the height of a small cabinet. It blows warm air out at floor level. Lots of models blow from the top at the same time.
 
-**Good for:** heating. EECA's guide says floor consoles are primarily designed for heating, because warm air rises and cold air falls. They suit rooms with sloped ceilings or no high wall space, the space under a window, replacing an old fireplace or wood burner, and older householders who want the warmth near them and filters they can reach without a ladder.
+**Good for:** heating. EECA's guide says floor consoles are mainly built for heating, because warm air rises and cold air falls. They suit rooms with sloped ceilings or no high wall space. They fit under a window. They're a good swap for an old fireplace or wood burner. And they suit older people who want the warmth close and filters they can reach without a ladder.
 
-**Watch for:** furniture placed in front of the unit. EECA warns that objects in the airflow can send warm air straight back into the unit, cutting efficiency. Consoles also take floor space you might otherwise use.
+**Watch for:** furniture in front of the unit. EECA warns that anything in the airflow can push warm air straight back into the unit. That cuts efficiency. Consoles also take up floor space.
 
 ## Ceiling cassettes and bulkhead units
 
-A **ceiling cassette** sits flush in the ceiling with a grille that blows air down or outward. A **bulkhead** or ceiling concealed unit hides in a dropped ceiling or bulkhead and blows through a slim grille. Daikin, for example, lists a bulkhead range on its [New Zealand site](https://www.daikin.co.nz/pages/ducted-heat-pumps) for drop ceilings and shallow ceilings.
+A **ceiling cassette** sits flush in the ceiling. Its grille blows air down or out. A **bulkhead** or ceiling concealed unit hides in a dropped ceiling or bulkhead. It blows through a slim grille. Daikin, for one, lists a bulkhead range on its [New Zealand site](https://www.daikin.co.nz/pages/ducted-heat-pumps) for drop ceilings and shallow ceilings.
 
-**Good for:** open plan rooms, renovations where the ceiling is being opened up anyway, and people who don't want a unit on the wall.
+**Good for:** open plan rooms. Renovations where the ceiling's being opened up anyway. People who don't want a unit on the wall.
 
-**Watch for:** they need ceiling space above, and access for servicing and for the condensate drain.
+**Watch for:** they need ceiling space above. They also need access for servicing and for the condensate drain.
 
 ## Single split systems
 
-One outdoor unit connects to one indoor unit. It's the simplest and usually the lowest cost way to heat one room or an open plan living area. If you later want another room heated, you add another system. See [single room installation](/single-room-heat-pump-installation/).
+One outdoor unit runs one indoor unit. It's the simplest way to heat one room or an open plan living area. It's usually the cheapest too. Want another room heated later? You add another system. See [single room installation](/single-room-heat-pump-installation/).
 
 ## Multi split systems
 
-One outdoor unit runs two or more indoor units, which can be different styles, such as a console in the lounge and high wall units in two bedrooms. It means one outdoor unit on the side of the house instead of three.
+One outdoor unit runs two or more indoor units. They can be different styles. Say a console in the lounge and high wall units in two bedrooms. You get one outdoor unit on the side of the house instead of three.
 
-The trade-offs: the indoor units share one compressor, so a fault outside affects every room on the system, and the outdoor unit has to be sized for the whole group. EECA's guide also points out that in a large space, two smaller units or a multi split can give better heat distribution and control than one big unit. See [multi-room installation](/multi-room-heat-pump-installation/).
+There are trade-offs. The indoor units share one compressor, so a fault outside hits every room on the system. And the outdoor unit has to be sized for the whole group. EECA's guide also says that in a big space, two smaller units or a multi split can spread heat better than one big unit. They give you more control too. See [multi-room installation](/multi-room-heat-pump-installation/).
 
 ## Ducted systems
 
-A ducted heat pump puts the indoor unit out of sight, usually in the roof space, and sends warm air through insulated ducts to a vent in each room. Air returns through a central grille. With a zone controller, rooms or groups of rooms can be switched on and off.
+A ducted heat pump hides the indoor unit, usually in the roof space. Warm air goes through insulated ducts to a vent in each room. It comes back through a central grille. Add a zone controller and you can switch rooms, or groups of rooms, on and off.
 
-**Good for:** whole-house heating with nothing on the walls, new builds, and major renovations where ceilings are accessible.
+**Good for:** heating the whole house with nothing on the walls. New builds. Big renovations where you can get into the ceilings.
 
-**Watch for:** it needs roof or underfloor space for the unit and ducts, and it's a bigger job. Before choosing [ducted heat pumps](/ducted-heat-pumps-christchurch/), weigh up [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) for your house.
+**Watch for:** it needs roof or underfloor space for the unit and ducts. And it's a bigger job. Before you settle on [ducted heat pumps](/ducted-heat-pumps-christchurch/), weigh up [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) for your house.
 
 ## Heat pump types side by side
 
-The table puts the five types next to each other: what each one heats, what it's best at and its main limitation.
+Here are the five types next to each other. What each heats, what it's best at, and its main drawback.
 
 | Type | Heats | Best at | Main limitation |
 | --- | --- | --- | --- |
@@ -90,10 +90,10 @@ The table puts the five types next to each other: what each one heats, what it's
 
 ## Other things called heat pumps
 
-**Heat pump hot water cylinders** and **hydronic systems** that heat water for radiators or underfloor pipes also use the heat pump cycle. They're separate products from the air-to-air heat pumps that heat and cool a room.
+**Heat pump hot water cylinders** use the heat pump cycle too. So do **hydronic systems** that heat water for radiators or underfloor pipes. But they're separate products. They're not the air-to-air heat pumps that heat and cool a room.
 
 ## Which heat pump type suits your home
 
-The type that suits your home is usually decided by the building itself, and that narrows it down quickly. An older villa with a high stud and a fireplace can suit a console. A new Selwyn build with good roof space is a natural candidate for ducted. A two-bedroom unit might need one high wall unit in the living area and nothing else.
+Usually the house itself decides, and that narrows it down fast. An older villa with a high stud and a fireplace can suit a console. A new Selwyn build with good roof space is a natural fit for ducted. A two-bedroom unit might only need one high wall unit in the living area.
 
-We install high wall, floor console, multi split and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We'll look at the rooms and tell you which type fits, with a fixed price before any work. Call **03 242 1023** or [request a free quote](/contact-us/).
+We fit high wall, floor console, multi split and ducted systems. Our brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We'll look at your rooms and tell you which type fits. You get a fixed price before we start. Call **03 242 1023** or [request a free quote](/contact-us/).

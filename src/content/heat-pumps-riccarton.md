@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Riccarton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Riccarton
 suburb: Riccarton
-intro: From older villas near Hagley Park to new townhouses and rental flats off Riccarton Road, we install, service and repair heat pumps across Riccarton at a fixed price.
+intro: We fit, service and fix heat pumps all over Riccarton, at a fixed price. Old villas near Hagley Park. New townhouses. Rental flats off Riccarton Road. We do the lot.
 hero: riccarton-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: Questions about heat pumps in Riccarton
 relatedHeading: Heat pumps near Riccarton
 faqs:
   - q: Which room needs the heat pump in a Riccarton rental?
-    a: For the Healthy Homes heating standard, the main living room, which is the largest room used for everyday living. The heater must be fixed and able to heat that room directly. <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a> sets out the details.
+    a: The main living room. That's the biggest room used for everyday living, under the Healthy Homes heating standard. The heater must be fixed, and able to heat that room directly. <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a> has the details.
   - q: Can a heat pump go in a villa with high ceilings?
-    a: Yes, but the room volume is larger than the floor area suggests, so the unit needs more capacity. A floor console can work well in a villa because it puts warm air out low, where people sit.
+    a: Yes. But a high ceiling means more air than the floor area suggests. So the unit needs more capacity. A floor console often works well in a villa. It puts warm air out low, where you sit.
   - q: How do I keep a heat pump in a townhouse quiet for the neighbours?
-    a: Mount it on anti-vibration feet or a bracket on your own wall, away from their bedrooms, with open space around it. Our <a href="/heat-pump-noise-problems-solutions/">noise guide</a> covers the fixes for an existing unit.
+    a: Put it on your own wall, away from their bedrooms. Use anti-vibration feet or a bracket, and leave open space round it. Already got a noisy one? Our <a href="/heat-pump-noise-problems-solutions/">noise guide</a> has the fixes.
 related:
   - { label: Upper Riccarton, href: /upper-riccarton/, text: Heat pumps for Upper Riccarton rentals and units. }
   - { label: Ilam, href: /ilam/, text: Installs for Ilam homes and student flats. }
@@ -27,38 +27,46 @@ related:
 
 ## Heat pumps for Riccarton villas, flats and townhouses
 
-In Riccarton the right heat pump turns on which kind of home you're heating, and, if it's let, on the Healthy Homes heating standard. Riccarton runs from the edge of Hagley Park out along Riccarton Road, and many homes are rented, including to students from the nearby university.
+In Riccarton, the right heat pump comes down to what kind of home it is. If it's rented, the Healthy Homes heating standard matters too. Riccarton runs from the edge of Hagley Park out along Riccarton Road. Lots of homes here are rentals, and plenty are let to students from the university nearby.
 
-- **Villas and bungalows** in the older streets lose heat through high ceilings, sash windows and suspended timber floors. They need a unit sized for the room volume, covered in the next section.
-- **Flats split from those villas** may have only a plug-in heater. A single high wall unit in the living room is usually the fix, sized to the capacity the heating standard requires for that room.
-- **Townhouses and small blocks of units** from infill are tight and well insulated, so a downstairs unit heats the ground floor easily. Bedrooms upstairs are out of its reach, so they need a small unit of their own or a multi-room system.
+- **Villas and bungalows:** the older streets have high ceilings, sash windows and timber floors up off the ground. Heat escapes through all three. These homes need a unit sized for the volume of the room. More on that below.
+- **Flats cut out of villas:** some only have a plug-in heater. One high wall unit in the living room usually sorts it. We size it to what the heating standard needs for that room.
+- **Townhouses and units:** infill homes are tight and well insulated. A unit downstairs heats the ground floor easily. It can't reach the bedrooms upstairs, though. They need a small unit of their own, or a multi-room system.
 
 ## Heat pump installation in Riccarton villas and bungalows
 
-In a villa, we work out the heat pump size from the room volume, not just the floor area, and check what insulation is in the ceiling and under the floor. A [floor console](/single-room-heat-pump-installation/) can suit a villa lounge with a low window. Separate units for the lounge and the main bedroom are common where the hallway closes rooms off.
+In a villa, we size the heat pump from the volume of the room, not just the floor area. We also check what insulation is in the ceiling and under the floor.
+
+A [floor console](/single-room-heat-pump-installation/) can suit a villa lounge with a low window. Where the hallway shuts rooms off, we often fit one unit in the lounge and another in the main bedroom.
 
 ## Heat pumps for Riccarton rentals and the heating standard
 
-Riccarton landlords need to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) in the main living room. The heater must be fixed, heat the room directly and have the capacity that room requires. A heat pump counts, as long as it has a thermostat. We size rental units to the living room so the capacity is met, and we can service every heat pump on a property in one visit.
+Riccarton landlords have to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) in the main living room. The heater must be fixed. It must heat the room directly, and have the capacity that room needs. A heat pump counts, as long as it has a thermostat.
+
+We size rental units to the living room, so you meet the capacity. We can also service every heat pump on a property in one visit.
 
 ## Riccarton townhouses and units
 
-Two storey townhouses usually need heat upstairs and down. A [multi-room system](/multi-room-heat-pump-installation/) with one outdoor unit can save wall space outside, which matters on a narrow site. Riccarton is under the Christchurch District Plan, where noise at the neighbour's site is what's measured, so placement gets planned at the quote. The limits are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+A two storey townhouse usually needs heat upstairs and down. A [multi-room system](/multi-room-heat-pump-installation/) runs off one outdoor unit. That saves wall space outside, which matters on a narrow section.
+
+Riccarton comes under the Christchurch District Plan. It measures the noise at the neighbour's site. So we plan where the unit goes when we quote. The limits are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## For Riccarton property managers
 
-Riccarton has plenty of properties looked after by property managers rather than owners. We can work through you to arrange access with tenants, quote several units on one property together, and report back on each heat pump's condition after a service: the filters, the drain, the outdoor coil and whether it's heating as it should. That gives you a record to keep with the tenancy file.
+A lot of Riccarton properties are run by property managers, not the owners. We can work through you to sort access with tenants. We can quote several units on one property together.
+
+After a service, we'll report on each heat pump. We cover the filters, the drain and the outdoor coil, and whether it's heating as it should. That gives you a record for the tenancy file.
 
 ## Heat pump service work we do in Riccarton
 
-Our heat pump work in Riccarton covers three kinds of job:
+We do three kinds of heat pump work in Riccarton:
 
-- **Installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps.
-- **Servicing** for owners, landlords and property managers.
-- **Fault finding and repairs** for Panasonic and the other major brands, plus most units sold in New Zealand.
+- **Installs:** Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Servicing:** for owners, landlords and property managers.
+- **Fault finding and repairs:** Panasonic and the other major brands, and most units sold in New Zealand.
 
 ## Around Riccarton
 
 We also cover [Upper Riccarton](/upper-riccarton/), [Ilam](/ilam/), [Addington](/heat-pumps-addington/) and [Fendalton](/fendalton/).
 
-For a free fixed-price quote in Riccarton, call **03 242 1023** or send the online form.
+Want a free fixed-price quote in Riccarton? Call **03 242 1023** or send us the online form.

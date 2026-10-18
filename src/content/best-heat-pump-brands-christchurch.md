@@ -4,7 +4,7 @@ description: "Searching for the best heat pumps in NZ? No brand wins every house
 keyword: best heat pumps nz
 secondary: [best heat pump brand nz, best heat pump brands, best heat pumps new zealand]
 h1: Best heat pumps for New Zealand homes, and how to judge them
-intro: There's no single best heat pump brand in New Zealand. There is a best model for a particular room in a particular house, and you can find it with a handful of checks on the energy label and the spec sheet.
+intro: No one brand is the best in New Zealand. There's a best model for your room in your house. You can find it with a few checks on the energy label and the spec sheet.
 hero: bestbrands-hero
 updated: 2026-10-17
 gallery: [bestbrands-labelcheck, bestbrands-quiet]
@@ -12,13 +12,13 @@ faqHeading: Questions about the best heat pumps in NZ
 relatedHeading: More on choosing the best heat pump brand
 faqs:
   - q: What is the best heat pump brand in NZ?
-    a: No brand is ahead on every model. Mitsubishi Electric, Daikin, Fujitsu and Toshiba all sell full ranges here, and each has models that suit some rooms better than others. Compare specific models of the same size on heating output at 2°C, Cold zone stars, kWh per year and noise.
+    a: No brand is ahead on every model. Mitsubishi Electric, Daikin, Fujitsu and Toshiba all sell full ranges here. Each has models that suit some rooms better than others. Compare models of the same size. Look at heating output at 2°C, Cold zone stars, kWh per year and noise.
   - q: What makes a heat pump good for Christchurch winters?
-    a: Strong heating output when it's cold outside. EECA's label guidance says that where nights reach 2°C or lower, the 2°C heating figure should be the same as or greater than the 7°C figure. Then it has to be the right size for the room.
+    a: It has to give out plenty of heat when it's cold outside. EECA's label guidance covers places where nights drop to 2°C or lower. There, the 2°C heating figure should match or beat the 7°C figure. After that, it has to be the right size for the room.
   - q: How do I find the quietest heat pump?
-    a: Look at the noise figures on the energy label, inside and outside the house icon. Lower numbers are quieter. Noise is optional on New Zealand labels, so ask for the spec sheet if it isn't shown.
+    a: Check the noise figures on the energy label. They sit inside and outside the house icon. Lower numbers are quieter. Noise is optional on New Zealand labels. If it isn't shown, ask for the spec sheet.
   - q: Are more stars always better?
-    a: Only between units of a similar capacity. The stars compare a model with others of a similar size, so a small unit and a large one can't be ranked against each other on stars.
+    a: Only between units of about the same capacity. Stars compare a model with others of a similar size. So you can't rank a small unit against a big one on stars.
 related:
   - { label: Heat pump brands comparison, href: /heat-pump-brands-comparison/, text: What each of the four brands sells in New Zealand. }
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Models that hold output below freezing. }
@@ -27,69 +27,79 @@ related:
 
 ## Why the best heat pump depends on the house
 
-The best heat pump is the one that suits your house, its rooms and its site, not the one at the top of a list. Search for the best heat pumps in New Zealand and you'll find rankings, awards and satisfaction surveys. They can tell you how owners feel about a brand. They can't tell you whether a particular model will heat your lounge on a frosty Christchurch morning, fit the wall you have, or stay quiet enough beside your neighbour's bedroom.
+The best heat pump is the one that suits your house, rooms and section. It's not whatever tops a list. Search for the best heat pumps in New Zealand and you'll get rankings, awards and owner surveys. They tell you how owners feel about a brand.
 
-A heat pump that's excellent in one house can be the wrong buy in the next. An undersized premium unit can perform worse than a correctly sized mid-range one. So rather than crown a brand, here are the checks that pick out the right model for your rooms. The facts come from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
+They can't tell you if a model will heat your lounge on a frosty Christchurch morning. They can't tell you if it fits your wall. Nor will they say if it's quiet enough next to your neighbour's bedroom.
+
+A heat pump that's great in one house can be the wrong buy in the next. A premium unit that's too small can do worse than a mid-range one sized right. So we won't crown a brand. Here are the checks that find the right model for your rooms instead. The facts come from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
 
 ## Check 1: Cold weather output on the best heat pumps
 
-For a Canterbury home, how much heat a model still gives out in cold weather is the check to start with. The label shows two heating capacities, one at 7°C and one at 2°C outside. EECA explains that frost forms on the outdoor coil below about 5.5°C, and part of the unit's effort goes into defrosting. Some models are better designed for frosty conditions and some give out noticeably less heat at 2°C than at 7°C.
+In a Canterbury home, start here. How much heat does the model still put out when it's cold? The label gives two heating figures. One is at 7°C outside, the other at 2°C.
 
-What to look for: a 2°C figure that is the same as or higher than the 7°C figure. For colder still, ask for the manufacturer's performance chart showing output at 0°C, minus 5°C and below. EECA lists Christchurch and Selwyn's design temperature as minus 4°C. Units built for frost are compared under [cold climate heat pumps](/cold-climate-heat-pumps/).
+EECA explains that frost forms on the outdoor coil below about 5.5°C. Some of the unit's effort then goes into defrosting. Some models are built better for frost. Others give out a lot less heat at 2°C than at 7°C.
+
+Look for a 2°C figure that matches or beats the 7°C figure. For colder than that, ask for the maker's performance chart. It should show output at 0°C, minus 5°C and below. EECA puts the design temperature for Christchurch and Selwyn at minus 4°C. We compare units built for frost under [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 ## Check 2: The right size, even for the best heat pump brands
 
-Even the best heat pump brands can't make up for a unit that's the wrong size for the room. Size is set by the room's heat loss and the outdoor design temperature. The method is set out in [heat pump sizing](/heat-pump-sizing/), and the official tool is explained under [heat pump size calculator](/calculator-single-room-heat-pump/).
+No brand can make up for a unit that's the wrong size. Size comes from how much heat the room loses and the outdoor design temperature. We set out the method in [heat pump sizing](/heat-pump-sizing/). The official tool is explained under [heat pump size calculator](/calculator-single-room-heat-pump/).
 
 ## Check 3: Stars in the Cold zone
 
-The stars to read are the ones in the Cold zone row. The label shows red stars for heating and blue stars for cooling, across three climate zones, and EECA's guidance is clear that **New Zealand is in the Cold zone**. More stars means a more efficient unit compared with others of similar capacity. One star means it's among the poorest performers of its size.
+Read the stars in the Cold zone row. The label has red stars for heating and blue for cooling. It shows them across three climate zones. EECA's guidance is clear: **New Zealand is in the Cold zone**.
 
-Because stars are relative to capacity, compare a 6 kW unit with other 6 kW units, not with a 3.5 kW unit.
+More stars means a more efficient unit than others of a similar capacity. One star means it's among the worst of its size. Stars depend on capacity. So compare a 6 kW unit with other 6 kW units, not with a 3.5 kW one.
 
 ## Check 4: kWh per year
 
-The kWh per year figure, next to the stars, estimates the electricity the unit will use each year for heating and cooling in each zone. EECA suggests adding the heating and cooling figures for your zone and multiplying by your electricity price to get a rough annual running cost. It's an indication only, because every household uses its heat pump differently, but it's a fair way to compare two models of the same size.
+The kWh per year figure sits next to the stars. It's a guess at the power the unit will use each year for heating and cooling, in each zone.
+
+EECA suggests a rough running cost. Add the heating and cooling figures for your zone. Then multiply by your power price. It's only a guide, because every household runs its heat pump differently. But it's a fair way to compare two models of the same size.
 
 ## Check 5: Indoor and outdoor noise levels
 
-Indoor and outdoor noise levels are shown in decibels by the house icon on the label: inside the house for the indoor unit, outside for the outdoor unit. Lower is quieter. EECA's guidance points out:
+The label shows noise in decibels, by the house icon. The figure inside the house is the indoor unit. The one outside is the outdoor unit. Lower is quieter. EECA points out three things:
 
-- the label figures are measured at full capacity in cooling mode, so the unit is often quieter in everyday running
-- showing noise is optional on New Zealand labels
-- ducted units only show an outdoor figure.
+- **Test conditions:** the figures are measured at full output on cool, so day to day the unit is often quieter
+- **Optional:** New Zealand labels don't have to show noise
+- **Ducted units:** these only show an outdoor figure
 
-For scale, EECA gives about 30 dBA for a quiet home and about 60 dBA for normal conversation. If the outdoor unit has to go near a fence or bedroom window, the outdoor figure deserves as much weight as the stars. Our [noise problems guide](/heat-pump-noise-problems-solutions/) and [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) cover the rest.
+For a sense of scale, EECA gives about 30 dBA for a quiet home. Normal talking is about 60 dBA. Does the outdoor unit have to go near a fence or a bedroom window? Then give the outdoor figure as much weight as the stars. Our [noise problems guide](/heat-pump-noise-problems-solutions/) and [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) cover the rest.
 
 ## Check 6: Fit for the room and the site
 
-Whether a model fits the room and the site comes from its spec sheet, not the label. Check:
+The spec sheet tells you if a model fits the room and the section. The label doesn't. Check these:
 
-- **Indoor unit dimensions** against the wall or floor space you have
-- **Airflow pattern**: a floor console for heating at floor level, a high wall for cooling and clear floors
-- **Outdoor unit size** and the clearances it needs
-- **Maximum pipe length** if the outdoor unit can't go directly behind
-- **Corrosion protection** for coastal homes in Sumner, Redcliffs, New Brighton or Lyttelton, which EECA advises for outdoor cabinets and coils near the sea.
+- **Indoor unit size:** against the wall or floor space you've got
+- **Airflow:** a floor console heats at floor level, a high wall suits cooling and keeps floors clear
+- **Outdoor unit:** its size and the clear space it needs around it
+- **Pipe length:** the maximum, in case the outdoor unit can't go straight behind
+- **Corrosion protection:** for coastal homes in Sumner, Redcliffs, New Brighton or Lyttelton, which EECA advises for outdoor cabinets and coils near the sea
 
 ## Check 7: Controls and day-to-day use
 
-The right controls depend on who uses the heat pump day to day. Wi-Fi control and timers make it easy to warm the house before you get home and turn it off when you leave. A clear remote and filters you can reach matter more for some households than an app. Inverter compressors are common on current models, and EECA recommends inverter units in most cases.
+Pick controls to suit whoever runs the heat pump each day. Wi-Fi control and timers let you warm the house before you get home. They also let you turn it off once you've left. For some households, a clear remote and filters you can reach matter more than an app. Most current models have inverter compressors. EECA recommends inverter units in most cases.
 
 ## Check 8: Support in Christchurch
 
-A heat pump should last many years, so find out what support you'll get in Christchurch after the install:
+A heat pump should last many years. Find out what local support you'll get once it's in:
 
-- Are parts for that brand easy to get locally?
-- Who services and repairs it?
-- How is warranty handled, and who do you call?
-- Does the installer know the brand's installation requirements?
+- **Parts:** are they easy to get in Christchurch for that brand?
+- **Service:** who services and fixes it?
+- **Warranty:** how is it handled, and who do you call?
+- **Install rules:** does the installer know what the brand requires?
 
-We install four brands and service Panasonic and most others sold here, so we can compare models without favouring one.
+We fit four brands. We service Panasonic and most others sold here too. So we can compare models without a favourite.
 
 ## The best heat pump brand still needs a good installer
 
-Even the best heat pump brand will let you down if it's badly installed. EECA's installation guide says many problems with poorly performing heat pumps come from the units being put in the wrong place, and a good model badly sized or badly placed won't heat the way it should. Our [installer checklist](/best-heat-pump-installers-christchurch/) covers what to ask.
+A badly fitted heat pump will let you down, whatever the brand. EECA's installation guide says many poor performers are simply in the wrong place. A good model that's the wrong size, or in the wrong spot, won't heat the way it should. Our [installer checklist](/best-heat-pump-installers-christchurch/) covers what to ask.
 
 ## How we pick the best heat pump for your home
 
-We pick the best heat pump for your home on a site visit, without a favourite brand. We size the room from its measurements, insulation, windows and how you use it, look at where the outdoor unit can go, and then compare suitable models from all four brands on their cold-weather output, efficiency and noise. You get our recommendation and a fixed price before any work starts. The quote is free. Phone **03 242 1023** or [request a quote](/contact-us/). For what each brand sells, see our [heat pump brands comparison](/heat-pump-brands-comparison/).
+We pick your heat pump on a site visit, with no favourite brand. First we size the room. We look at its measurements, insulation and windows, and how you use it. Then we work out where the outdoor unit can go.
+
+After that, we compare suitable models from all four brands. We weigh their cold-weather output, efficiency and noise. You get our advice and a fixed price before any work starts. The quote is free.
+
+Phone **03 242 1023** or [request a quote](/contact-us/). To see what each brand sells, read our [heat pump brands comparison](/heat-pump-brands-comparison/).

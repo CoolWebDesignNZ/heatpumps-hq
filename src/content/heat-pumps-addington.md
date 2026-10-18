@@ -7,20 +7,20 @@ h1: Heat pump installation in Addington
 serviceName: Heat pump installation, servicing and repair
 areaServed: Addington
 suburb: Addington
-intro: Addington's workers' cottages and newer townhouses sit close together on small sections. We install heat pumps that fit the space and stay quiet at the fence, with a fixed price agreed first.
+intro: "Addington's workers' cottages and newer townhouses sit close together on small sections. We fit heat pumps that suit the space and stay quiet at the fence. We agree a fixed price first."
 hero: addington-hero
 gallery: [pool-townhouse, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Addington"
 relatedHeading: "More on heat pumps near Addington"
 faqs:
   - q: My cottage is right on the boundary. Can I still have a heat pump?
-    a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site rather than by a set distance from the fence. Placement and unit choice matter more than the gap. Read our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> for the limits.
+    a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site, not by a set distance from the fence. Where it goes and which unit you pick matter more than the gap. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
   - q: What size heat pump does a two-bedroom Addington cottage need?
-    a: That comes from the room sizes, the ceiling and floor insulation and the windows, not the number of bedrooms. We measure all of those on site. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
+    a: The number of bedrooms doesn't decide it. The room sizes do, along with the ceiling and floor insulation and the windows. We measure all of that on site. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
   - q: Do you service heat pumps in Addington rentals?
-    a: Yes. We clean, service and repair heat pumps in rental homes for landlords and property managers, on all the major brands.
+    a: Yes. We clean, service and fix heat pumps in rentals for landlords and property managers. All the major brands.
   - q: Can the outdoor unit go on the front of the house?
-    a: It can, though the side or back is usually tidier. If the front is the only practical spot, a slatted screen and neat pipe covers help it sit well.
+    a: It can. The side or back is usually tidier, though. If the front's the only practical spot, a slatted screen and neat pipe covers help it look right.
 related:
   - { label: Sydenham, href: /sydenham/, text: Heat pumps for Sydenham cottages and townhouses. }
   - { label: Riccarton, href: /heat-pumps-riccarton/, text: Installs and servicing to the west in Riccarton. }
@@ -29,37 +29,37 @@ related:
 
 ## Heat pump installation in Addington's cottages and townhouses
 
-In Addington the indoor side of a heat pump is usually simple, and the outdoor side decides the job. Houses sit close to each other on small sections, and in a lot of homes the only outside wall other than the front is a narrow side passage beside the neighbour's fence. There may be just one or two spots where an outdoor unit has air around it and stays quiet at the fence, and those spots set which system and which model you can have.
+In Addington, the inside part is usually easy. The outside decides the job. Houses sit close together on small sections. Often the only outside wall, apart from the front, is a narrow side passage along the neighbour's fence. There may be just one or two spots where an outdoor unit gets enough air and stays quiet at the fence. Those spots decide which system and model you can have.
 
-- **Small timber workers' cottages** on the older streets often have just a lounge, a kitchen and two bedrooms. One well placed wall unit can serve that layout if the ceiling and floor are insulated, as covered below.
-- **New townhouses**, where larger sections have been redeveloped, are better sealed and need less capacity, but their outdoor units still have to fit the same narrow spaces.
+- **Small timber workers' cottages.** On the older streets, these often have just a lounge, a kitchen and two bedrooms. One well-placed wall unit can heat that layout, if the ceiling and floor are insulated. More on that below.
+- **New townhouses.** These went in where bigger sections were redeveloped. They're better sealed and need less capacity. But their outdoor units still have to squeeze into the same narrow spaces.
 
-The suburb is flat and close to town, so slope is never the problem here; space is. At the quote we go round every outside wall with you before we settle on a system.
+The suburb's flat and close to town. Slope is never the issue here. Space is. At the quote, we walk round every outside wall with you before we pick a system.
 
 ## Outdoor units on a tight Addington section
 
-On a tight Addington section, the outdoor unit has to fit without blocking the path, crowding its coil or keeping the neighbours awake:
+On a tight Addington section, the outdoor unit has to fit three ways. It can't block the path. Its coil can't be crowded. And it can't keep the neighbours awake.
 
-- **Wall brackets save the path.** On a side passage, a bracket lifts the unit off the ground so you can still get a wheelie bin past.
-- **Mind the neighbour's bedroom.** We look at what's on the other side of the fence before choosing a wall. A laundry or a blank wall is a better neighbour than a bedroom window.
-- **Leave room around the coil.** Units need clear air front and back. A narrow passage is fine as long as the fan isn't blowing straight into a fence a few centimetres away.
-- **Pick a quiet model.** Outdoor units differ in sound level, and we compare them when placement is tight.
+- **Wall brackets save the path.** In a side passage, a bracket lifts the unit off the ground. You can still get the wheelie bin past.
+- **Mind the neighbour's bedroom.** We check what's on the other side of the fence before we pick a wall. A laundry or a blank wall makes a better neighbour than a bedroom window.
+- **Leave room round the coil.** Units need clear air front and back. A narrow passage is fine. Just not with the fan blowing into a fence a few centimetres away.
+- **Pick a quiet model.** Outdoor units vary in how loud they are. When space is tight, we compare them.
 
-Christchurch sets noise limits rather than a minimum distance from the boundary. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) has the numbers.
+Christchurch sets noise limits, not a minimum distance from the boundary. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) has the numbers.
 
 ## Heating an Addington cottage properly
 
-Older cottages lose heat through the ceiling and floor first. If yours has been insulated, one well sized wall unit in the living area may warm the lounge and kitchen, with doors open to let it reach a bedroom. If it hasn't, the unit has to be larger, and running costs go up. We tell you which situation you're in when we quote.
+Older cottages lose heat through the ceiling and floor first. If yours is insulated, one well-sized wall unit in the living area may warm the lounge and kitchen. Leave the doors open and it can reach a bedroom. If it isn't insulated, the unit has to be bigger. Running costs go up too. We tell you which one you're dealing with when we quote.
 
-New Addington townhouses are better sealed. A single unit downstairs and a small one in the main bedroom suits a lot of them.
+New Addington townhouses are better sealed. Lots of them suit one unit downstairs and a small one in the main bedroom.
 
 ## Heat pump installs, service and repair in Addington
 
-In Addington we fit new systems, service existing units and repair faults:
+Here's what we do in Addington:
 
-- **New installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized for small rooms.
-- **Servicing and cleaning**, including units in rentals. See [servicing](/maintenance-servicing/).
-- **Repairs** and fault finding on all the major brands. See [heat pump repairs](/heat-pump-repair/).
+- **New installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized for small rooms.
+- **Servicing and cleaning.** Rentals included. See [servicing](/maintenance-servicing/).
+- **Repairs.** Fault finding on all the major brands. See [heat pump repairs](/heat-pump-repair/).
 
 We also cover [Sydenham](/sydenham/), [Riccarton](/heat-pumps-riccarton/), [Spreydon](/spreydon/) and [the Central City](/central-business-district-cbd/).
 

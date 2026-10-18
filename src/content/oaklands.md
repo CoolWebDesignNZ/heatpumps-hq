@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Oaklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Oaklands
 suburb: Oaklands
-intro: Oaklands is mainly brick family homes from the 1960s to the 1980s, in the south-west of the city. We install, service and repair heat pumps to suit them, with a fixed price agreed first.
+intro: Oaklands is in the south-west of the city. Most homes are brick family houses from the 1960s to the 1980s. We fit, service and fix heat pumps to suit them, and we agree a fixed price first.
 hero: oaklands-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Oaklands
 relatedHeading: Heat pumps near Oaklands
 faqs:
   - q: Can I add a bedroom heat pump to the one I already have?
-    a: Yes. A separate small unit is the simplest way. If you want several rooms heated, a multi-room system can run more than one indoor unit from a single outdoor unit, though it usually means replacing the existing one.
+    a: Yes. A separate small unit is the easiest way. Want several rooms heated? A multi-room system can run more than one indoor unit off one outdoor unit. That usually means replacing the one you've got, though.
   - q: Will a new heat pump help with condensation on the windows?
-    a: A heat pump keeps rooms warmer, and warmer rooms tend to have less condensation. Its dry mode also removes moisture from the air. Opening windows for a short time each day and running extractor fans still help.
+    a: A heat pump keeps rooms warmer. Warmer rooms tend to get less condensation. Dry mode also pulls moisture out of the air. It still helps to open the windows for a bit each day, and run the extractor fans.
   - q: My Oaklands heat pump is blowing cold air in heating mode. What's wrong?
-    a: Check the mode, the filters and whether the outdoor unit is in a defrost cycle. If it still blows cold after that, it needs a technician. Our <a href="/heat-pump-problems-troubleshooting-guide/">troubleshooting guide</a> lists the checks.
+    a: Check the mode and the filters. See if the outdoor unit is defrosting. If it still blows cold after that, you need a technician. Our <a href="/heat-pump-problems-troubleshooting-guide/">troubleshooting guide</a> lists the checks.
 related:
   - { label: Halswell, href: /halswell/, text: Heat pump work across Halswell. }
   - { label: Hoon Hay, href: /hoon-hay/, text: Heat pumps for Hoon Hay homes. }
@@ -27,40 +27,52 @@ related:
 
 ## Heat pumps for Oaklands brick homes
 
-In most Oaklands homes the lounge is already warm and the bedrooms aren't. Oaklands sits between Halswell and Hoon Hay, and its streets are mostly single storey brick and tile homes from the 1960s to the 1980s. Plenty of them have a heat pump in the front lounge as the only heater fitted, and with the kitchen and dining at the back and the bedrooms along a hall, its warmth never reaches the far end. Cold bedrooms collect condensation, and mould grows on the window frames.
+In most Oaklands homes, the lounge is already warm. The bedrooms aren't. Oaklands sits between Halswell and Hoon Hay. Its streets are mostly single storey brick and tile homes from the 1960s to the 1980s.
 
-The fix is heat in the bedrooms themselves, and three things decide which kind: how much ceiling insulation there is, how many bedrooms you want warm, and whether the lounge unit is worth keeping. On cul-de-sac sections with established gardens, we also keep the outdoor units clear of planting so air moves freely around them.
+Lots of them have one heat pump in the front lounge, and that's the only heater. The kitchen and dining are at the back. The bedrooms run along a hall. The lounge heat never gets to the far end. Cold bedrooms gather condensation, and mould grows on the window frames.
+
+The fix is heat in the bedrooms themselves. Three things decide what kind:
+
+- **Insulation:** how much is in the ceiling
+- **Bedrooms:** how many you want warm
+- **The lounge unit:** if it's worth keeping
+
+Many homes here sit on cul-de-sac sections with established gardens. We keep the outdoor units clear of the planting, so air moves freely round them.
 
 ## Heating the bedroom wing of an Oaklands house
 
-There are a few ways to get warmth into the bedrooms of an Oaklands house:
+There are a few ways to get heat into the bedrooms:
 
-- **A small wall unit in the main bedroom**, on its own outdoor unit. Simple, and it leaves the lounge unit alone.
-- **A [multi-room system](/multi-room-heat-pump-installation/)**, with one outdoor unit and an indoor head in each room you want heated. This tidies up the outside of the house.
-- **Ducting**, where the roof space suits it, with a vent in every bedroom.
+- **A small wall unit in the main bedroom:** on its own outdoor unit. It's simple, and the lounge unit stays as it is.
+- **A [multi-room system](/multi-room-heat-pump-installation/):** one outdoor unit, with an indoor unit in each room you want heated. It tidies up the outside of the house.
+- **Ducting:** where the roof space suits it. Every bedroom gets a vent.
 
-We look at the ceiling insulation and the windows before recommending any of them. A bedroom with thin insulation and single glazing needs more capacity than its size suggests.
+We check the ceiling insulation and the windows before we suggest any of them. A bedroom with thin insulation and single glazing needs more capacity than its size suggests.
 
 ## Repair or replace an old Oaklands lounge heat pump
 
-If your lounge heat pump is noisy, slow to warm up or losing output, it may be due for a service or a repair rather than a replacement. We check its output against the size of the lounge and tell you which of the three is the answer. Where replacement makes sense, we'll size the new unit from the room rather than copying the old one.
+Is your lounge heat pump noisy, slow to warm up or losing output? It might just need a service or a repair. It may not need replacing at all. We check its output against the size of the lounge. Then we tell you which of the three it is. If a new one makes sense, we size it from the room. We don't copy the old one.
 
 ## A quiet bedroom unit for Oaklands homes
 
-A bedroom heat pump should be quiet enough to sleep beside. Indoor units have a low fan setting for night use, and placing the unit away from the bed head means the airflow doesn't blow across you. Outside, the unit for a bedroom often runs through the night, so we keep it off walls near the neighbour's windows.
+A bedroom heat pump should be quiet enough to sleep next to. Indoor units have a low fan setting for night time. We put the unit away from the head of the bed, so the air doesn't blow across you.
+
+Outside, a bedroom unit often runs all night. So we keep it off walls near the neighbour's windows.
 
 ## Oaklands frosts and the outdoor unit
 
-Oaklands gets the cold, still frosty mornings typical of the flat south-west of the city. Outdoor units are best set on raised feet or a wall bracket, clear of ice and with somewhere for defrost water to go. Oaklands is under the Christchurch District Plan, which judges noise at the neighbouring site; our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits.
+Oaklands gets the cold, still, frosty mornings you'd expect on the flat south-west side of the city. Outdoor units do best on raised feet or a wall bracket. That keeps them clear of ice and gives defrost water somewhere to go.
+
+Oaklands comes under the Christchurch District Plan. It judges noise at the neighbour's site. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits.
 
 ## Heat pump installation in Oaklands
 
-We install, service and repair heat pumps across Oaklands:
+Here's what we do across Oaklands:
 
-- Heat pump installs: Mitsubishi Electric, Daikin, Fujitsu or Toshiba.
-- Yearly [servicing](/maintenance-servicing/).
-- [Repairs](/heat-pump-repair/) on the major brands and most others sold in New Zealand.
+- **Installs:** Mitsubishi Electric, Daikin, Fujitsu or Toshiba.
+- **[Servicing](/maintenance-servicing/):** once a year.
+- **[Repairs](/heat-pump-repair/):** the major brands, and most others sold in New Zealand.
 
 We also cover [Halswell](/halswell/), [Hoon Hay](/hoon-hay/), [Westmorland](/westmorland/) and [Aidanfield](/aidanfield/).
 
-For a free quote on your Oaklands home, call **03 242 1023** or fill in the form.
+To get a free quote on your Oaklands home, call **03 242 1023** or fill in the form.

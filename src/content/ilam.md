@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Ilam
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ilam
 suburb: Ilam
-intro: Ilam has established family homes alongside rental flats near the University of Canterbury. We install, service and repair heat pumps for owners and landlords, with the price fixed first.
+intro: Ilam has long-standing family homes next to rental flats near the University of Canterbury. We fit, service and fix heat pumps for owners and landlords. You get a fixed price first.
 hero: ilam-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: "Questions about heat pumps in Ilam"
 relatedHeading: "More on heat pumps near Ilam"
 faqs:
   - q: Does a heat pump meet the Healthy Homes heating standard for my Ilam rental?
-    a: A heat pump is one of the accepted ways to heat the main living room, provided it is fixed, has a thermostat and has enough capacity for that room. The requirements are on <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a>. We size the unit to the room so it meets the capacity the standard calls for.
+    a: Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be fixed, have a thermostat and have enough capacity for that room. <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a> lists the requirements. We size the unit to the room, so it meets the capacity the standard asks for.
   - q: How often should heat pumps in a student flat be serviced?
-    a: At least once a year, ideally before winter. Flats with several tenants tend to run the heat pump hard, so filters clog faster. Ask tenants to rinse the filters every few weeks in winter.
+    a: At least once a year, ideally before winter. Flats with several tenants run the heat pump hard, so the filters clog faster. Ask your tenants to rinse the filters every few weeks in winter.
   - q: Can you work around tenants?
-    a: Yes. We arrange access through you or your property manager and keep the work to the rooms involved.
+    a: Yes. We arrange access through you or your property manager. We keep the work to the rooms involved.
 related:
   - { label: Upper Riccarton, href: /upper-riccarton/, text: Heat pumps for Upper Riccarton flats and homes. }
   - { label: Avonhead, href: /avonhead/, text: Installs for Avonhead brick homes. }
@@ -27,35 +27,35 @@ related:
 
 ## Heat pumps for Ilam family homes and student flats
 
-What an Ilam home needs from a heat pump depends on who lives in it. A family home needs heat in several rooms at a running cost you're happy with. A rental first has to meet the Healthy Homes heating standard in the main living room.
+What an Ilam home needs from a heat pump depends on who lives there. A family home needs heat in several rooms, at a running cost you're happy with. A rental first has to meet the Healthy Homes heating standard in the main living room.
 
-- **Established family homes on generous sections** often have more than one living area and bedrooms down a long hall. One lounge unit leaves much of that cold, so these homes suit a unit in each main room or a ducted system, covered below. Many have mature gardens, and the outdoor unit needs a spot clear of shrubs and leaf fall so air can move through its coil.
-- **Rental houses and blocks of flats let to students** close to the University of Canterbury need a fixed heater in the main living room with enough capacity for that room and a thermostat. In a rental the tenants may be the ones paying the power bill, so a correctly sized unit with simple controls matters to them as much as to you.
+- **Family homes on big sections.** Many have more than one living area, with bedrooms down a long hall. One lounge unit leaves a lot of that cold. These homes suit a unit in each main room, or a ducted system, as set out below. Plenty have mature gardens too. The outdoor unit needs a spot clear of shrubs and falling leaves, so air can move through its coil.
+- **Rentals and blocks of flats let to students.** Close to the University of Canterbury, these need a fixed heater in the main living room. It needs a thermostat and enough capacity for that room. Tenants may be the ones paying the power bill. So a unit sized right, with simple controls, matters to them as much as to you.
 
-At the quote we measure the rooms, check the insulation and windows, and for a rental work out the capacity the living room needs under the standard.
+At the quote we measure the rooms and check the insulation and windows. For a rental, we also work out the capacity the living room needs under the standard.
 
 ## Heat pumps in Ilam rentals and the Healthy Homes standard
 
-The [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) requires rental homes to have one or more fixed heaters that can directly heat the main living room, with enough capacity for that room. A heat pump or electric heater used to meet it must have a thermostat. Open fires and unflued gas heaters don't qualify. Tenancy Services publishes a heating assessment tool to work out the capacity a room needs.
+Under the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/), a rental needs one or more fixed heaters that can heat the main living room directly. They need enough capacity for that room. A heat pump or electric heater used to meet it must have a thermostat. Open fires and unflued gas heaters don't count. Tenancy Services has a heating assessment tool that works out the capacity a room needs.
 
-When we quote a heat pump for an Ilam rental, we size it to the main living room's required capacity and fit it so it heats that room directly. If the flat also has cold bedrooms, a second small unit in those rooms is worth considering for the tenants and for mould, though the standard itself is about the living room.
+When we quote for an Ilam rental, we size the heat pump to the living room's required capacity. We fit it so it heats that room directly. Cold bedrooms in the flat? A second small unit there is worth a thought, for the tenants and to keep mould down. The standard itself only covers the living room.
 
 ## Student flats in Ilam: hard use, simple controls
 
-Heat pumps in shared flats tend to run long hours and get little attention. Clogged filters reduce heat output and make the unit work harder. We can set up a yearly [service](/maintenance-servicing/) before each academic year starts and show tenants how to clean the filters. Wall controllers or remotes that are easy to read help too.
+Heat pumps in shared flats run long hours and get little care. Clogged filters cut the heat output and make the unit work harder. We can book a yearly [service](/maintenance-servicing/) before each academic year starts. We'll also show the tenants how to clean the filters. Easy-to-read wall controllers or remotes help too.
 
 ## Heat pump installation in Ilam family homes
 
-A heat pump installation in a larger Ilam family home has to reach more than one living area, and often bedrooms down a long hall. Options include a [multi-room system](/multi-room-heat-pump-installation/), separate units for the main rooms, or ducting where there's ceiling space. We size from the rooms, insulation and windows, and from how your family uses the house.
+In a larger Ilam family home, the heat pump has to reach more than one living area. Often it has to reach bedrooms down a long hall as well. You've got three options. There's a [multi-room system](/multi-room-heat-pump-installation/), or separate units for the main rooms. Where there's ceiling space, ducting works too. We size from the rooms, the insulation and the windows, and from how your family uses the house.
 
 ## What we offer in Ilam
 
-- **New heat pumps** from the four brands we install: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing** for owners and landlords, single units or a whole property.
-- **Repairs** on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units.
+- **New heat pumps** from the four brands we fit: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Servicing** for owners and landlords. One unit or a whole property.
+- **Repairs** on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic.
 
-Ilam is under the Christchurch District Plan, so outdoor unit noise is judged at the neighbour's property. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how that works.
+Ilam comes under the Christchurch District Plan. That means outdoor unit noise is judged at your neighbour's property. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how it works.
 
-We also cover [Upper Riccarton](/upper-riccarton/), [Riccarton](/heat-pumps-riccarton/), [Avonhead](/avonhead/), [Fendalton](/fendalton/) and [Bryndwr](/bryndwr/).
+We also work in [Upper Riccarton](/upper-riccarton/), [Riccarton](/heat-pumps-riccarton/), [Avonhead](/avonhead/), [Fendalton](/fendalton/) and [Bryndwr](/bryndwr/).
 
 Call **03 242 1023** or send the form for a free quote on your Ilam home or rental.

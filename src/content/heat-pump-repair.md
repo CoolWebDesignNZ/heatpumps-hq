@@ -5,20 +5,20 @@ keyword: heat pump repairs christchurch
 secondary: [heat pump repair, heat pump repairs, fix heat pump]
 h1: Heat pump repairs in Christchurch
 serviceName: Heat pump repair
-intro: Not heating, blowing cold, dripping water or flashing a light? We find the fault, tell you whether it's worth fixing, and repair all the major brands.
+intro: Not heating? Blowing cold, dripping water or flashing a light? We'll find the fault and tell you if it's worth fixing. We repair all the major brands.
 hero: repair-hero
 gallery: [repair-outdoor, repair-drain]
 faqHeading: Heat pump repair questions
 relatedHeading: More on fixing a heat pump
 faqs:
   - q: Is it worth repairing an old heat pump?
-    a: Often, yes. Many faults are a sensor, a fan motor, a blocked drain or a control board, and those cost far less than a new unit. If the compressor has failed on an older unit, replacing it usually makes more sense. We'll tell you which it is before any work starts.
+    a: Often, yes. A lot of faults are a sensor, a fan motor, a blocked drain or a control board. Those cost far less than a new unit. If the compressor has gone on an older unit, replacing it usually makes more sense. We'll tell you which it is before we start.
   - q: Which brands do you repair?
-    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other split and ducted systems sold in New Zealand.
+    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other split and ducted systems sold in New Zealand.
   - q: Why is my outdoor unit steaming in winter?
-    a: That is usually the defrost cycle. On frosty Canterbury mornings the outdoor coil ices up and the unit reverses for a few minutes to melt it. Indoor fans pause while it happens. Steam that stops after a few minutes is normal; ice that builds up and stays is not.
+    a: It's usually defrosting. On frosty Canterbury mornings the outdoor coil ices up. The unit then runs backwards for a few minutes to melt it, and the indoor fan stops while that happens. Steam that stops after a few minutes is normal. Ice that builds up and stays isn't.
   - q: Can I reset the heat pump myself?
-    a: Turning it off at the isolating switch beside the outdoor unit for a few minutes clears some errors. If the fault comes back, note the error code or flashing light pattern and call. That code saves time on site.
+    a: Yes. Switch it off at the isolating switch outside for a few minutes. That clears some errors. If the fault comes back, write down the error code or the flash pattern and call us. That code saves time once we're there.
 related:
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: A yearly service catches most faults before they stop the unit. }
   - { label: Emergency repair, href: /emergency-heat-pump-repair/, text: When the house is cold and it can't wait. }
@@ -27,39 +27,41 @@ related:
 
 ## Common heat pump faults we repair in Christchurch
 
-Most repair calls in Christchurch come down to a short list of problems:
+Most repair calls we get in Christchurch are one of these:
 
-- **Not heating or cooling properly.** Clogged filters, a dirty outdoor coil, low refrigerant from a leak, or a failing sensor.
-- **Water dripping from the indoor unit.** Usually a blocked or kinked condensate drain. Left alone it can stain walls and ceilings.
-- **Flashing lights or an error code.** The unit has found its own fault. The code points to the part, whether that's a sensor, a fan or the communication between the indoor and outdoor units.
-- **Loud rattles, buzzing or squealing.** Loose panels, worn fan bearings or a unit that has moved on its feet.
-- **Ice that won't clear.** Some frost on the outdoor coil is normal in a Canterbury winter. Ice that keeps building means the defrost cycle isn't working.
-- **Bad smell when it starts.** Mould and dust in the indoor coil and fan. That's a [heat pump clean](/heat-pump-cleaning/), not a repair.
+- **Poor heating or cooling:** clogged filters, a dirty outdoor coil, low gas from a leak, or a sensor on its way out.
+- **Dripping indoor unit:** usually a blocked or kinked condensate drain. Leave it and it can stain your walls and ceilings.
+- **Flashing lights or a code:** the unit has found its own fault. The code points to the part. That might be a sensor, a fan, or the link between the indoor and outdoor units.
+- **Rattles, buzzing or squealing:** loose panels, worn fan bearings, or a unit that's shifted on its feet.
+- **Ice that won't clear:** some frost on the outdoor coil is normal in a Canterbury winter. Ice that keeps building means defrost isn't working.
+- **A smell at start-up:** mould and dust in the indoor coil and fan. That needs a [heat pump clean](/heat-pump-cleaning/), not a repair.
 
 ## How a heat pump repair visit works
 
-A repair visit runs in four steps, from your call to a tested fix:
+There are four steps, from your call to a tested fix:
 
-1. **You call and describe the fault.** If there's an error code or a pattern of flashing lights, tell us. It often means the right part is in the van.
-2. **We diagnose it on site.** We check the electrical supply, the refrigerant pressures, the sensors and the controls until we find the cause.
-3. **You get a clear price before any work.** If the repair costs more than the unit is worth, you'll hear that too.
-4. **The fix is tested.** The system runs in heating and cooling before we leave, and we show you what was done.
+1. **You ring and tell us the fault.** Got an error code or a flash pattern? Pass it on. It often means we bring the right part.
+2. **We find the cause on site.** We check the power supply, gas pressures, sensors and controls until we track it down.
+3. **You get a clear price before we start.** If the repair costs more than the unit is worth, we'll tell you.
+4. **We test the fix.** We run it on heat and on cool before we leave. Then we show you what we did.
 
 ## Heat pump brands we repair
 
-We repair the brands we install, **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**, and service **Panasonic** and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
+We fix the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
 
 ## Repair or replace your heat pump?
 
-A repair is usually the better choice when the unit is under ten years old and the fault is a part such as a sensor, fan motor, drain or board. Replacement starts to make sense when the compressor has failed, the unit uses an old refrigerant that is hard to get, or repairs are becoming a yearly event. We'll give you both prices when it's close, so the decision is yours.
+Repair usually wins when the unit is under ten years old. It also wins when the fault is a part like a sensor, fan motor, drain or board.
+
+Replacing starts to make sense in three cases. The compressor has failed. The unit runs on an old gas that's hard to get. Or it needs fixing every year. When it's a close call, we'll price both. Then you decide.
 
 ## Quick checks before you call us
 
-These take a few minutes, so try them before you ring about a fault:
+These take a few minutes. Try them before you ring about a fault:
 
-- Check the remote has batteries and is set to the right mode.
-- Clean the filters behind the front panel.
-- Make sure nothing is blocking the outdoor unit.
-- Turn it off at the isolating switch for five minutes, then back on.
+- **Remote:** does it have batteries, and is it on the right mode?
+- **Filters:** clean the ones behind the front panel.
+- **Outdoor unit:** make sure nothing's blocking it.
+- **Reset:** switch it off at the isolating switch for five minutes, then on again.
 
-If it still isn't right, call **03 242 1023**. We cover all of Christchurch, Selwyn and Lyttelton.
+Still not right? Call **03 242 1023**. We cover all of Christchurch, Selwyn and Lyttelton.

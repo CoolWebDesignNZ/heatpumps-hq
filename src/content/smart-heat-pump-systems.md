@@ -5,20 +5,20 @@ keyword: smart heat pump
 secondary: [wifi heat pump, heat pump wifi controller, smart heat pump controller]
 h1: Smart heat pump control with a Wi-Fi controller
 serviceName: Smart heat pump and Wi-Fi controller installation
-intro: A smart heat pump is an ordinary heat pump with a Wi-Fi controller and an app. It lets you switch it on before you get home, set schedules and see the room temperature from anywhere.
+intro: A smart heat pump is a normal heat pump with a Wi-Fi controller and an app. You can turn it on before you get home. You can set schedules. You can check the room temperature from anywhere.
 hero: smart-hero
 gallery: [smart-1, smart-2]
 faqHeading: "Smart heat pump questions"
 relatedHeading: "More on heat pump controls"
 faqs:
   - q: Is a smart heat pump worth it?
-    a: It's worth it if it changes how you use the heating. Being able to turn it off when you've forgotten, or on half an hour before you get home instead of leaving it running all day, is where it earns its place. The heat pump itself heats no differently.
+    a: It's worth it if it changes how you use the heating. Say you forgot to turn it off. You can do that from your phone. Or you can turn it on half an hour before you get home, instead of leaving it running all day. That's where it pays off. The heat pump itself heats just the same.
   - q: Can I add a Wi-Fi controller to my existing heat pump?
-    a: Often, yes. Mitsubishi Electric's Wi-Fi interface can be retrofitted to compatible existing models, and Fujitsu's adaptor plugs into a select range of units. Older and some entry-level models can't take one. Give us the model number and we'll check.
+    a: Often, yes. Mitsubishi Electric's Wi-Fi interface can be added to compatible older models. Fujitsu's adaptor plugs into a select range of units. Some older and entry-level models can't take one. Send us the model number and we'll check.
   - q: Does a Wi-Fi heat pump work with Google or Alexa?
-    a: Some do. Mitsubishi Electric lists voice control for its Wi-Fi Control, and Fujitsu describes its adaptor as voice assistant friendly. Check the brand's details for your model before relying on it.
+    a: Some do. Mitsubishi Electric lists voice control for its Wi-Fi Control. Fujitsu says its adaptor is voice assistant friendly. Check the brand's details for your model before you count on it.
   - q: Will a smart controller lower my power bill?
-    a: Only if it means the heat pump runs less. Schedules that match when you're home, and switching it off remotely when nobody is, are what make the difference.
+    a: Only if the heat pump runs less. Set schedules that match when you're home. Switch it off from your phone when nobody is. That's what makes the difference.
 related:
   - { label: Remote monitoring, href: /remote-monitoring-and-diagnostics/, text: What the app shows and how it helps with faults. }
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Different temperatures in different parts of the house. }
@@ -27,51 +27,51 @@ related:
 
 ## What makes a heat pump smart
 
-The heat pump does the heating. The smart part is a small Wi-Fi adaptor, either built into the indoor unit or fitted inside it, that links the unit to your home network and to the manufacturer's app. From the app you can usually:
+The heat pump does the heating. The smart part is a small Wi-Fi adaptor. It's either built into the indoor unit or fitted inside it. It links the unit to your home network and to the maker's app. With the app you can usually:
 
-- switch it on or off from anywhere with an internet connection
+- turn it on or off from anywhere you have internet
 - change the mode, temperature and fan speed
-- set weekly schedules, so it warms the house before you get up or get home
-- set rules, such as switching on if the room drops below a set temperature
+- set weekly schedules, so the house is warm when you get up or get home
+- set rules, like turning on if the room drops below a set temperature
 - see the room temperature the unit is reading
 
-Some brands add energy figures, voice assistant control and reminders to clean the filters.
+Some brands also show energy figures. Some add voice control, or remind you to clean the filters.
 
 ## Wi-Fi heat pump controllers by brand
 
-Each brand has its own controller and app, and they don't work across brands. These are the options listed on each brand's New Zealand website.
+Each brand has its own controller and app. They don't work across brands. Here's what each brand lists on its New Zealand website.
 
-**Mitsubishi Electric.** The [Mitsubishi Electric Wi-Fi Control](https://www.mitsubishi-electric.co.nz/wifi/) interface is an optional upgrade on selected high wall and floor console models, and can be retrofitted to a compatible existing unit. It works through the Wi-Fi Control app, with schedules, temperature limits and energy monitoring. Mitsubishi Electric says the interface needs a router with the 2.4 GHz band enabled.
+**Mitsubishi Electric.** The [Mitsubishi Electric Wi-Fi Control](https://www.mitsubishi-electric.co.nz/wifi/) interface is an optional extra on selected high wall and floor console models. It can also be added to a compatible older unit. You use it through the Wi-Fi Control app. It does schedules, temperature limits and energy monitoring. Mitsubishi Electric says it needs a router with the 2.4 GHz band turned on.
 
-**Daikin.** Daikin New Zealand lists the Daikin Mobile Controller and Daikin Airbase as Wi-Fi controllers that run from an app, alongside wired controllers and zone controllers for ducted systems. See [Daikin's controller range](https://www.daikin.co.nz/pages/controllers).
+**Daikin.** Daikin New Zealand lists two Wi-Fi controllers that run from an app. They're the Daikin Mobile Controller and Daikin Airbase. Daikin also sells wired controllers, and zone controllers for ducted systems. See [Daikin's controller range](https://www.daikin.co.nz/pages/controllers).
 
-**Fujitsu.** In New Zealand, Fujitsu General now trades as GENERAL, and its units are sold as General Airstage. The [anywAiR Wi-Fi Adaptor II](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) works with a select range of units, including the Lifestyle wall mounted series, and connects them to the myanywAiR Next app. Extra features are offered through a paid subscription.
+**Fujitsu.** In New Zealand, Fujitsu General now trades as GENERAL. Its units are sold as General Airstage. The [anywAiR Wi-Fi Adaptor II](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) works with a select range of units, including the Lifestyle wall mounted series. It connects them to the myanywAiR Next app. Some extra features cost a paid subscription.
 
-**Toshiba.** If you're looking at a Toshiba unit, ask us when we quote whether that model has Wi-Fi control and which app it uses.
+**Toshiba.** Looking at a Toshiba? Ask us when we quote. We'll tell you if that model has Wi-Fi control and which app it uses.
 
 ## What your house needs for a Wi-Fi heat pump
 
-A Wi-Fi heat pump needs three things from your house: a signal where the indoor unit sits, a 2.4 GHz network and a model that takes an adaptor.
+Your house needs three things. A signal where the indoor unit sits. A 2.4 GHz network. And a model that takes an adaptor.
 
-- **Wi-Fi signal where the heat pump is.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal in that spot, so will the heat pump. A mesh point or extender in that room fixes it.
-- **A 2.4 GHz network.** Many heat pump adaptors only connect on 2.4 GHz. Most home routers broadcast it, but some combine bands under one name in a way that confuses the adaptor during set-up.
-- **A compatible model.** Not every indoor unit takes an adaptor. This matters most on older units, where we check the model before you buy anything.
+- **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room fixes it.
+- **A 2.4 GHz network.** Lots of heat pump adaptors only connect on 2.4 GHz. Most home routers have it. Some put both bands under one name, though, and that can confuse the adaptor during set-up.
+- **A model that takes one.** Not every indoor unit takes an adaptor. This matters most on older units. We check the model before you buy anything.
 
 ## Choosing a smart heat pump on a new install
 
-If you're getting a new heat pump, decide on Wi-Fi control before the quote is finalised. Some models have it built in, others need the adaptor ordered with the unit, and choosing a model with it built in is simpler than adding it later. We size every install from your rooms, insulation, windows and how you use the house, and include the controller you want in the fixed price for your [heat pump installation](/heat-pump-installation-in-christchurch/).
+Getting a new heat pump? Decide on Wi-Fi control before we finalise the quote. Some models have it built in. Others need the adaptor ordered with the unit. Built in is simpler than adding it later. We size the unit from your rooms, insulation and windows, and how you use the house. Then we put the controller you want into the fixed price for your [heat pump installation](/heat-pump-installation-in-christchurch/).
 
 ## Smart heat pump controllers and zoning
 
-A Wi-Fi controller gives you control from your phone. It doesn't give you different temperatures in different rooms on a single ducted system. That needs a zone controller, part of [heat pump zoning](/heat-pump-zoning/). In a house with several wall units, each unit can usually be added to the same app and run on its own schedule.
+A Wi-Fi controller lets you run the heat pump from your phone. It won't give you different temperatures in different rooms on one ducted system. For that you need a zone controller, which is part of [heat pump zoning](/heat-pump-zoning/). Got several wall units? Each one can usually go on the same app with its own schedule.
 
 ## Using a smart heat pump well
 
-A smart heat pump earns its keep when you set it up once and let the schedule do the work:
+Set it up once. Then let the schedule do the work.
 
-- Set a morning and an evening schedule, then leave it to run.
-- Use the app to switch off when plans change, rather than leaving the house warm and empty.
-- Check the room temperature in the app now and then. A room that never reaches the setting can point to a sensor problem worth a [thermostat and sensor check](/heat-pump-thermostat-calibration/).
-- Keep the app updated, and re-pair the adaptor after you change your router or Wi-Fi password.
+- Set a morning and an evening schedule, and leave it.
+- Plans change? Switch it off in the app. Don't leave an empty house warm.
+- Check the room temperature in the app now and then. If a room never gets to the setting, the sensor may be off. Book a [thermostat and sensor check](/heat-pump-thermostat-calibration/).
+- Keep the app updated. Pair the adaptor again after you change your router or Wi-Fi password.
 
-For a quote on a new smart heat pump, or to check whether your current unit can take a Wi-Fi controller, call **03 242 1023**.
+Want a quote on a new smart heat pump? Or want to know if your unit can take a Wi-Fi controller? Call **03 242 1023**.

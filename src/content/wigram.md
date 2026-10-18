@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing for Wigram homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Wigram
 suburb: Wigram
-intro: Wigram is mostly newer subdivisions, and those homes suit a different heat pump setup from an older house. We plan, install, service and repair systems here at a fixed price.
+intro: Wigram is mostly newer subdivisions. A newer home suits a different heat pump setup from an older house. We plan, fit, service and fix heat pumps here at a fixed price.
 hero: wigram-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: "Questions about heat pumps in Wigram"
 relatedHeading: "Heat pumps near Wigram"
 faqs:
   - q: My new Wigram home already has insulation and double glazing. How big a heat pump do I need?
-    a: Often smaller than people expect. A modern, well sealed living area holds heat, so we size from the room volume, the glass area and where the sun comes in, not from the floor area alone. Our <a href="/heat-pump-sizing/">sizing guide</a> explains the factors.
+    a: Often smaller than you'd expect. A modern, well sealed living area holds its heat. So we size from the room's volume, the glass and where the sun comes in. Floor area alone isn't enough. Our <a href="/heat-pump-sizing/">sizing guide</a> explains the factors.
   - q: Should I choose ducted or wall units for a two storey Wigram house?
-    a: Ducting heats every room through ceiling vents, which suits a home with roof space above the bedrooms. Wall units cost less to fit and let you heat only the rooms you use. We'll show you both options for your floor plan.
+    a: Ducting heats every room through ceiling vents. It suits a home with roof space above the bedrooms. Wall units cost less to fit, and you heat only the rooms you use. We'll show you both options for your floor plan.
   - q: Is there a set distance the outdoor unit has to be from my fence?
-    a: Not in Christchurch. The District Plan sets noise limits at the neighbouring site instead. Placement matters more on narrow sections, which is why we plan it at the quote.
+    a: Not in Christchurch. The District Plan sets noise limits at the neighbouring site instead. Placement matters more on a narrow section. That's why we plan it at the quote.
 related:
   - { label: Hornby, href: /heat-pumps-hornby/, text: Heat pumps for older and newer Hornby homes. }
   - { label: Halswell, href: /halswell/, text: Installs and servicing in Halswell. }
@@ -27,37 +27,39 @@ related:
 
 ## Heat pump installation in new Wigram subdivisions
 
-In a new Wigram home a heat pump has an easy job in the living area and a hard one in the bedrooms. Much of Wigram has been built on the old airfield land, so the typical home is recent: insulated walls and ceilings and double glazing keep heat loss low, and a modest unit can heat the open plan kitchen, dining and living area. The bedrooms are grouped together or upstairs behind closed doors, and warm air from a wall unit only reaches the space it can flow into. A bigger living area unit won't fix cold bedrooms.
+In a new Wigram home, a heat pump has an easy job in the living area and a hard one in the bedrooms. Much of Wigram is built on the old airfield land, so most homes are recent. Insulated walls and ceilings and double glazing keep heat loss low. A modest unit can heat the open plan kitchen, dining and living area.
 
-- **Homes with no heat pump yet** can be planned as a whole: the living area unit sized to the room's volume and glass, and the bedrooms covered at the same time by a second unit, a multi-room system or ducting.
-- **Homes with one unit that struggles to reach the bedrooms** usually need a small second unit in the bedroom wing, not a replacement.
-- **Homes with a heat pump fitted by the builder** may have a unit chosen as part of a package, covered further down.
+The bedrooms are the catch. They're grouped together or upstairs, behind closed doors. Warm air from a wall unit only reaches the space it can flow into. A bigger unit in the living area won't fix cold bedrooms.
 
-At the quote we look at the floor plan, where the doors close off rooms, which way the living area glass faces and where the outdoor unit can go on your section.
+- **No heat pump yet?** You can plan the whole house at once. We size the living area unit to the room's volume and glass. The bedrooms get covered at the same time, by a second unit, a multi-room system or ducting.
+- **One unit that can't reach the bedrooms?** You usually need a small second unit in the bedroom wing, not a replacement.
+- **A heat pump the builder fitted?** It may have come as part of a package. More on that further down.
+
+At the quote we look at the floor plan and where doors close rooms off. We check which way the living area glass faces. And we find where the outdoor unit can go on your section.
 
 ## Choosing a heat pump layout for a Wigram home
 
-For a single storey Wigram home, we usually look at one unit for the living area plus a smaller unit for the main bedroom, or a [multi-room system](/multi-room-heat-pump-installation/) that runs two or three indoor heads from one outdoor unit. For a two storey home, or anyone who wants every room at the same temperature, a [ducted heat pump](/ducted-heat-pumps-christchurch/) is worth pricing.
+For a single storey Wigram home, we usually look at two options. One is a unit for the living area plus a smaller one for the main bedroom. The other is a [multi-room system](/multi-room-heat-pump-installation/), with two or three indoor heads on one outdoor unit. For a two storey home, or if you want every room at the same temperature, get a price on a [ducted heat pump](/ducted-heat-pumps-christchurch/).
 
-If your house is still being built, talk to us before the plasterboard goes up. Running pipes and ducting through open framing is far simpler than working around finished ceilings.
+Still building? Talk to us before the plasterboard goes up. Running pipes and ducts through open framing is far simpler than working around finished ceilings.
 
 ## Narrow Wigram sections and outdoor units
 
-Wigram sections are often compact, with narrow side yards. The outdoor unit needs clear air in front and room to drain, and it has to stay within the Christchurch District Plan noise limits at the neighbour's boundary. A wall bracket on a side wall away from the next-door bedrooms often works well. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers the limits.
+Wigram sections are often compact, with narrow side yards. The outdoor unit needs clear air in front of it and room to drain. It also has to stay within the Christchurch District Plan noise limits at your neighbour's boundary. A bracket on a side wall, away from next door's bedrooms, often works well. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers the limits.
 
 ## If the builder already fitted one
 
-A heat pump supplied with a new house was often chosen as part of a package, before anyone knew how you'd use the rooms. If yours struggles on cold mornings, or the bedrooms stay cool, we can check its capacity against the room it heats and tell you whether a service, a change of settings or a second unit is the fix. A first service also clears the building dust that tends to collect in filters in a new home's early years.
+A heat pump that came with a new house was often picked as part of a package. That happened before anyone knew how you'd use the rooms. Does yours struggle on cold mornings? Do the bedrooms stay cool? We can check its capacity against the room it heats. Then we'll tell you whether the fix is a service, a change of settings or a second unit. A first service also clears out building dust. It tends to build up in the filters during a new home's first few years.
 
 ## Heat pump service, repairs and installs in Wigram
 
-- **New installs** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, wall-mounted, ducted or multi-room.
-- **Builder-fitted heat pumps** checked and serviced, including filter cleans and a look at the drain and outdoor unit.
-- **Adding a second unit** where the first one can't reach the bedrooms.
+- **New installs** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall-mounted, ducted or multi-room.
+- **Builder-fitted heat pumps** checked and serviced. That includes a filter clean and a look at the drain and outdoor unit.
+- **A second unit** where the first one can't reach the bedrooms.
 - **Repairs** for faults, leaks and error lights on all the major brands.
 
 ## Suburbs around Wigram
 
-We also cover [Hornby](/heat-pumps-hornby/), [Sockburn](/sockburn/), [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Hillmorton](/hillmorton/).
+We also work in [Hornby](/heat-pumps-hornby/), [Sockburn](/sockburn/), [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Hillmorton](/hillmorton/).
 
 For a fixed-price quote on your Wigram home, call **03 242 1023** or fill in the quote form.

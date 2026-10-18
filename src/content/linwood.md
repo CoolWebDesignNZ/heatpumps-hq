@@ -7,20 +7,20 @@ h1: Heat pump installation in Linwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Linwood
 suburb: Linwood
-intro: Linwood's former state houses, bungalows, older villas and blocks of units each heat differently. We match the heat pump to the house, install it neatly and agree the price before we start.
+intro: "Linwood has former state houses, bungalows, older villas and blocks of units. Each one heats differently. We match the heat pump to your house and fit it neatly. We agree the price before we start."
 hero: linwood-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Linwood"
 relatedHeading: "More on heat pumps near Linwood"
 faqs:
   - q: Can a heat pump replace my log burner?
-    a: For a lot of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot, so the heat pump needs to be sized for the room and placed where its air reaches the whole space. We measure the room and check the wall the unit would go on.
+    a: For lots of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot. So the heat pump has to be sized for the room, and placed where its air reaches the whole space. We measure the room and check the wall it would go on.
   - q: How do I get heat into the bedrooms of a Linwood state house?
-    a: The heat pump in the lounge won't reach rooms along a hallway with the doors shut. A small wall unit in the main bedroom, or a <a href="/multi-room-heat-pump-installation/">multi-room system</a>, is the dependable answer.
+    a: The lounge heat pump won't reach rooms down a hallway with the doors shut. The answer you can rely on is a small wall unit in the main bedroom, or a <a href="/multi-room-heat-pump-installation/">multi-room system</a>.
   - q: My house was repaired after the earthquakes. Does that change anything?
-    a: Only in the details. Repaired walls and new linings are fine to mount on. If the floor was relevelled or the foundations replaced, we check the underfloor access before planning the pipe route.
+    a: Only the details. Repaired walls and new linings are fine to mount on. If the floor was relevelled or the foundations replaced, we check the underfloor access before we plan the pipe route.
   - q: How often do the filters on a Linwood heat pump need cleaning?
-    a: Rinse them every few weeks through the heating season. It takes a few minutes and keeps output up. For the parts behind the filters, book a deeper <a href="/heat-pump-cleaning/">heat pump clean</a>.
+    a: Rinse them every few weeks through the heating season. It takes a few minutes and keeps the output up. For the parts behind the filters, book a deeper <a href="/heat-pump-cleaning/">heat pump clean</a>.
 related:
   - { label: Phillipstown, href: /phillipstown/, text: Heat pumps for Phillipstown cottages, units and rentals. }
   - { label: Bromley, href: /bromley/, text: Installs and servicing in neighbouring Bromley. }
@@ -29,38 +29,38 @@ related:
 
 ## Heat pump installation in Linwood houses
 
-Most Linwood homes share one layout, and that layout decides the heat pump: the lounge and kitchen at one end, bedrooms along a hallway, and a door on every room. A unit in the lounge heats the lounge and kitchen well, but with the doors shut its warm air won't travel down the hall. If you want warm bedrooms, plan for a small wall unit in the main bedroom or a [multi-room system](/multi-room-heat-pump-installation/) from the start.
+Most Linwood homes have the same layout. Lounge and kitchen at one end. Bedrooms down a hallway. A door on every room. That layout decides the heat pump. A lounge unit heats the lounge and kitchen well. But with the doors shut, its warm air won't go down the hall. Want warm bedrooms? Plan for a small wall unit in the main bedroom from the start. Or a [multi-room system](/multi-room-heat-pump-installation/).
 
-What changes from house to house across this large, flat suburb in the east of the city is the construction:
+Linwood is a big, flat suburb in the east of the city. What changes from house to house is how it's built:
 
-- **Older timber villas toward the city end** have higher ceilings and more draughts, so the lounge unit needs more capacity than the floor area alone suggests.
-- **Solid weatherboard and brick former state houses** and **mid-century bungalows** have compact rooms, so a modest unit per room is enough once the ceiling and underfloor are insulated.
-- **Blocks of units** are small inside and simple to heat with one wall unit. The work is in fitting the outdoor unit along a shared wall.
+- **Older timber villas.** Toward the city end, these have higher ceilings and more draughts. The lounge unit needs more capacity than the floor area alone suggests.
+- **Former state houses and bungalows.** The solid weatherboard and brick state houses, and the mid-century bungalows, have compact rooms. Once the ceiling and underfloor are insulated, a modest unit per room is enough.
+- **Blocks of units.** Small inside and easy to heat with one wall unit. The work is fitting the outdoor unit along a shared wall.
 
-Since the earthquakes, a fair amount of Linwood has been repaired or rebuilt. That mostly affects the pipe route, as the questions below explain, not the choice of system.
+Since the earthquakes, a fair bit of Linwood has been repaired or rebuilt. That mostly changes the pipe route, not the system. The questions below explain.
 
 ## Swapping out an older heater in Linwood
 
-If you're moving from a log burner, an open fire or a set of plug-in heaters to a heat pump, the main change is how heat moves. A burner heats one corner very hot. A heat pump moves warm air across a room with its fan. Where it sits matters:
+Moving from a log burner, open fire or plug-in heaters to a heat pump? The big change is how the heat moves. A burner makes one corner very hot. A heat pump uses its fan to move warm air across the room. So where it goes matters:
 
-- **On the longest wall facing the room**, so air travels across the space rather than into a corner.
-- **Clear of curtains and high cupboards** that would block the airflow.
-- **Not above the couch**, where the airflow lands on people's heads.
+- **The longest wall facing the room.** Then the air crosses the space, not into a corner.
+- **Clear of curtains and high cupboards.** They'd block the airflow.
+- **Not above the couch.** Otherwise the air lands on people's heads.
 
-Taking a burner out also leaves a flue and hearth to deal with. That's separate building work, so plan when it happens before the heat pump goes in, in case the indoor unit or its pipes would use the same wall.
+Taking a burner out leaves a flue and hearth to deal with. That's separate building work. Plan when it happens before the heat pump goes in, in case the indoor unit or its pipes need the same wall.
 
 ## Heat pumps for Linwood's brick, weatherboard and unit homes
 
-Brick former state houses take a heat pump well. We drill through the brick veneer, run the pipes in a cover down the outside wall and set the outdoor unit on a concrete pad or raised feet. Weatherboard homes are just as straightforward, and the pipes often run through the underfloor instead.
+Brick former state houses take a heat pump well. We drill through the brick veneer and run the pipes in a cover down the outside wall. The outdoor unit sits on a concrete pad or raised feet. Weatherboard homes are just as easy. There, the pipes often run under the floor instead.
 
-Blocks of units are smaller and simpler inside, but the outdoor space is shared. Each unit's outdoor equipment has to fit along a common wall without crowding the neighbours or a shared path.
+Blocks of units are smaller and simpler inside. But the outdoor space is shared. Each unit's outdoor gear has to fit along a common wall without crowding the neighbours or a shared path.
 
 ## Heat pump service and repair in Linwood
 
-A Linwood heat pump that runs every winter evening collects dust fast, so book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, call us for a [heat pump repair](/heat-pump-repair/).
+A heat pump that runs every winter evening gets dusty fast. Book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, call us for a [heat pump repair](/heat-pump-repair/).
 
 ## Areas around Linwood
 
-We also cover [Phillipstown](/phillipstown/), [Bromley](/bromley/) and [Aranui](/aranui/), and further east, [Wainoni](/wainoni/).
+We also cover [Phillipstown](/phillipstown/), [Bromley](/bromley/) and [Aranui](/aranui/). Further east, we cover [Wainoni](/wainoni/).
 
 For a fixed-price quote in Linwood, call **03 242 1023** or send us the form.

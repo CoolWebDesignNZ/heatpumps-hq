@@ -4,7 +4,7 @@ description: "What is a heat pump's carbon footprint in NZ? How renewable electr
 keyword: heat pump carbon footprint
 secondary: [heat pump vs wood burner, heat pump environmental impact, heat pump emissions]
 h1: The carbon footprint of a heat pump in New Zealand
-intro: A heat pump's emissions come from the electricity it uses, the refrigerant inside it and the making of the unit. Most New Zealand power is renewable, which keeps the electricity side low. Here is what shapes the rest.
+intro: A heat pump's emissions come from three places. The power it uses. The refrigerant inside it. And making the unit. Most of our power here is renewable, so the power side stays low. Here's what shapes the rest.
 hero: carbon-hero
 updated: 2026-10-17
 gallery: [carbon-hydro, carbon-woodburner]
@@ -12,13 +12,13 @@ faqHeading: "Heat pump carbon footprint questions"
 relatedHeading: "More on heat pump efficiency and running costs"
 faqs:
   - q: Does a heat pump have a low carbon footprint in New Zealand?
-    a: Low compared with heating that burns fuel in the home, because most New Zealand electricity comes from renewable sources. MBIE reported a record 96.4% of generation from renewables in the October to December 2025 quarter. The share moves with hydro conditions, so it is lower in some periods.
+    a: It's low next to heating that burns fuel in the home. That's because most of our power comes from renewable sources. MBIE reported a record 96.4% of generation from renewables in the October to December 2025 quarter. The share moves with hydro conditions. So it's lower at some times.
   - q: Is a heat pump better than a wood burner for the environment?
-    a: For local air quality, a heat pump has no smoke at the house. On carbon, it depends on where the firewood comes from and how it's burned, so there isn't a single answer. In Christchurch, any new burner must be an ultra-low emission model and needs building consent; a heat pump needs neither consent nor a flue.
+    a: For local air, a heat pump makes no smoke at the house. On carbon, there's no single answer. It depends where the firewood comes from and how it's burned. In Christchurch, any new burner must be an ultra-low emission model. It also needs building consent. A heat pump needs neither consent nor a flue.
   - q: What are heat pump emissions made up of?
-    a: The electricity it uses over its life, the refrigerant if any leaks out, and the energy that went into making, shipping and eventually disposing of the unit. Running efficiently and keeping the refrigerant sealed in are the two parts you control.
+    a: The power it uses over its life. The refrigerant, if any leaks out. And the energy used to make it, ship it and one day get rid of it. You control two of those. Run it efficiently. Keep the refrigerant sealed in.
   - q: How can I reduce my heat pump's environmental impact?
-    a: Choose a correctly sized, well rated unit, run it at a steady sensible temperature, keep it serviced so leaks are caught early, and repair it rather than replace it when a repair makes sense.
+    a: Pick a well rated unit that's the right size. Run it at a steady, sensible temperature. Keep it serviced so leaks get caught early. And repair it rather than replace it, when a repair makes sense.
 related:
   - { label: Energy efficient heat pumps, href: /energy-efficient/, text: Getting more heat from each unit of power. }
   - { label: Leak detection and repair, href: /leak-detection-repair/, text: Finding and fixing refrigerant leaks. }
@@ -27,54 +27,54 @@ related:
 
 ## Where a heat pump's carbon footprint comes from
 
-A heat pump doesn't burn anything in your house. Its carbon footprint comes from three places:
+A heat pump burns nothing in your house. Its carbon footprint comes from three places.
 
-1. **The electricity it uses** over its working life. How much carbon that carries depends on how clean the grid is and how efficient the heat pump is.
-2. **The refrigerant.** The refrigerant gases used in heat pumps are greenhouse gases if they escape. A sealed, well installed system keeps them in. A leaking one doesn't.
-3. **Making, shipping and disposal.** The metal, plastic and energy that go into the unit, and how it's dealt with at the end.
+1. **The power it uses** over its working life. How much carbon that carries depends on two things. How clean the grid is. And how efficient the heat pump is.
+2. **The refrigerant.** The gases in heat pumps are greenhouse gases if they escape. A sealed, well fitted system keeps them in. A leaking one doesn't.
+3. **Making, shipping and disposal.** The metal, plastic and energy that go into the unit. And what happens to it at the end.
 
 ## New Zealand's renewable electricity and heat pump emissions
 
-Most of New Zealand's electricity comes from hydro, geothermal, wind and solar. MBIE reported that from October to December 2025, a record 96.4% of electricity generation came from renewable sources, driven by favourable hydro conditions ([MBIE, record high share of electricity generation from renewables](https://www.mbie.govt.nz/about/news/favourable-hydro-conditions-see-record-high-share-of-electricity-generation-from-renewables)).
+Most of our power comes from hydro, geothermal, wind and solar. MBIE reported a record from October to December 2025. That quarter, 96.4% of power generation came from renewable sources. Good hydro conditions drove it ([MBIE, record high share of electricity generation from renewables](https://www.mbie.govt.nz/about/news/favourable-hydro-conditions-see-record-high-share-of-electricity-generation-from-renewables)).
 
-MBIE says strong hydro and new solar sharply reduced reliance on natural gas that quarter, and emissions from electricity generation fell to their lowest quarterly level since records began in 1990. That figure is for one quarter with good inflows. The share moves with rainfall and lake levels, so a dry period means more gas and coal on the grid and a higher footprint for every kWh.
+MBIE says strong hydro and new solar cut the need for natural gas that quarter. Emissions from power generation fell to their lowest quarterly level since records began in 1990. Keep in mind that's one quarter, with good rain into the lakes. The share moves with rainfall and lake levels. In a dry spell, more gas and coal goes on the grid. Then every kWh carries more carbon.
 
 ## Efficiency multiplies the benefit
 
-A heat pump moves heat from the outdoor air into the house rather than making it, so it delivers more heat than the electricity it uses. EECA's label guidance puts a one star heat pump at a seasonal performance factor of 2.5 to 3, with higher star units doing better ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Less electricity per unit of heat means lower emissions per unit of heat.
+A heat pump doesn't make heat. It moves heat from the outside air into the house. So it puts out more heat than the power it uses. EECA's label guide says a one star heat pump has a seasonal performance factor of 2.5 to 3. Units with more stars do better ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Less power for each bit of heat means lower emissions too.
 
-So the two things that shrink the electricity part of the footprint are a well rated unit and a correct install, then running it well. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
+So two things shrink the power side of the footprint. A well rated unit, fitted right. Then running it well. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
 
 ## Refrigerant leaks and a heat pump's environmental impact
 
-Refrigerant only becomes an emission if it leaks out or is released when the unit is removed. That makes the install and maintenance side important:
+Refrigerant only counts as an emission if it leaks out. Or if it's let out when the unit comes out. So the install and upkeep matter.
 
-- **Tight, tested connections** at the time of installation.
-- **Servicing** that checks pressures and spots a slow leak before the charge runs low. See [leak detection and repair](/leak-detection-repair/).
-- **Recovery at the end of life.** When an old unit is removed, the refrigerant should be recovered by the installer, not vented. We recover it whenever we take out an old heat pump.
+- **Tight, tested joints** when it's fitted.
+- **Servicing** that checks pressures. It spots a slow leak before the gas runs low. See [leak detection and repair](/leak-detection-repair/).
+- **Recovery at the end.** When an old unit comes out, the installer should recover the refrigerant, not vent it. We always recover it when we take out an old heat pump.
 
 ## Heat pump vs wood burner
 
-A heat pump and a wood burner differ on air quality, the Christchurch rules, carbon and convenience, which is worth knowing if you're weighing one against the other.
+Weighing one against the other? They differ on air quality, the Christchurch rules, carbon and convenience.
 
-**Air quality.** A wood burner gives off smoke, both outside and when you open the door to load it. The Cardiac and Respiratory Foundation NZ says newer wood and pellet burners burn relatively cleanly with dry, well-seasoned wood, but still create some air pollution, and it lists heat pumps among the good heating options for respiratory health ([Cardiac and Respiratory Foundation NZ, your home and your health](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/)).
+**Air quality.** A wood burner gives off smoke. Outside, and inside when you open the door to load it. The Cardiac and Respiratory Foundation NZ says newer wood and pellet burners burn fairly cleanly with dry, well seasoned wood. They still make some air pollution, though. The Foundation lists heat pumps as a good heating choice for breathing health ([Cardiac and Respiratory Foundation NZ, your home and your health](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/)).
 
-**Rules in Christchurch.** Christchurch City Council requires building consent to install or move a solid fuel heater, and any new burner installed since 1 January 2019 must be an ultra-low emission burner. Fixed electric heaters, including heat pumps, don't need building consent, though they must be connected by a registered electrician ([Christchurch City Council, building and renovation projects](https://ccc.govt.nz/building-and-renovation-projects)).
+**Rules in Christchurch.** Christchurch City Council needs building consent before you put in or move a solid fuel heater. Any new burner fitted since 1 January 2019 must be an ultra-low emission burner. Fixed electric heaters, heat pumps included, don't need building consent. A registered electrician must still connect them ([Christchurch City Council, building and renovation projects](https://ccc.govt.nz/building-and-renovation-projects)).
 
-**Carbon.** Wood is often described as carbon neutral because trees take up carbon as they grow. How true that is depends on where the wood comes from, whether it's replanted, how far it travels and how well it's burned. We don't put a single number on it, because it changes from one supply of firewood to the next.
+**Carbon.** People often call wood carbon neutral, because trees take up carbon as they grow. How true that is depends. Where's the wood from? Is it replanted? How far does it travel? How well is it burned? We don't put one number on it. It changes from one load of firewood to the next.
 
-**Convenience.** A heat pump starts from a remote or timer, heats and cools, and needs no wood stacking or ash. A burner keeps working in a power cut.
+**Convenience.** A heat pump starts from a remote or a timer. It heats and cools. There's no wood to stack and no ash. A burner keeps going in a power cut.
 
-Some homes have both, using the heat pump day to day and the burner on the coldest nights. Our [heat pump regulations guide](/compliance-building-codes/) covers the rules for heat pumps in more detail.
+Some homes have both. They use the heat pump day to day and the burner on the coldest nights. For more on the rules for heat pumps, see our [heat pump regulations guide](/compliance-building-codes/).
 
 ## How to cut your heat pump's footprint
 
-You cut a heat pump's footprint mostly by choosing it well and looking after it:
+Mostly, choose it well and look after it.
 
-- Size it properly so it runs gently, not flat out.
-- Choose a model with good Cold zone heating stars.
-- Run it at a steady temperature and use timers.
-- Have it serviced yearly so leaks are caught early.
-- Repair rather than replace when the unit is sound.
+- Get the size right, so it runs gently, not flat out.
+- Pick a model with good Cold zone heating stars.
+- Run it at a steady temperature. Use the timers.
+- Get it serviced every year, so leaks get caught early.
+- If the unit is sound, repair it. Don't replace it.
 
-For a heat pump that suits your house and runs efficiently, call **03 242 1023** or [request a free fixed-price quote](/contact-us/).
+Want a heat pump that suits your house and runs efficiently? Call **03 242 1023** or [ask for a free fixed-price quote](/contact-us/).

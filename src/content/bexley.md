@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Bexley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bexley
 suburb: Bexley
-intro: Heat pumps installed, serviced and repaired in Bexley, on the low ground near the estuary where many homes have been rebuilt or repaired. Every job is priced up front.
+intro: We fit, service and fix heat pumps in Bexley. It's low ground by the estuary, and a lot of the homes here have been rebuilt or repaired. You get a fixed price before we start.
 hero: bexley-hero
 gallery: [pool-newbuild-living, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bexley
 relatedHeading: Heat pumps near Bexley
 faqs:
   - q: My Bexley home was rebuilt on a new foundation. Do I still need a big heat pump?
-    a: Probably not as big as the old house would have needed. A rebuild to current standards keeps heat in well, so a correctly sized unit is often smaller than people expect.
+    a: Probably not as big as the old house needed. A rebuild to current standards holds its heat well. So the right unit is often smaller than people expect.
   - q: Can low, damp ground in Bexley damage a heat pump outdoor unit?
-    a: Standing water and wet soil around the base can rust the casing and stop defrost water draining. Raising the unit on a bracket or a firm pad well above the ground prevents that.
+    a: Yes. Standing water and wet soil can rust the casing. They also stop the defrost water draining away. Lift the unit on a bracket or a firm pad, well clear of the ground, and it won't happen.
   - q: Why does my Bexley heat pump outdoor unit steam on cold mornings?
-    a: That's the defrost cycle. In cold, damp air, frost builds on the outdoor coil and the unit melts it off every so often, releasing steam. It's normal unless it happens constantly.
+    a: It's defrosting. On cold, damp mornings frost builds up on the outdoor coil. Every so often the unit melts it off, and that gives off steam. It's normal, unless it's doing it all the time.
 related:
   - { label: Aranui, href: /aranui/, text: Heat pumps for Aranui homes. }
   - { label: South New Brighton, href: /south-new-brighton/, text: Installation on the estuary side. }
@@ -27,38 +27,38 @@ related:
 
 ## Heat pumps for Bexley's rebuilt and repaired homes
 
-Bexley sits on low-lying land near the Avon River and the estuary. It was hit hard by the earthquakes and much of it became residential red zone, so fewer homes stand there now. The ones that remain fall into three groups.
+Bexley is low land by the Avon River and the estuary. The earthquakes hit it hard. Much of it became red zone, so there are fewer homes now. The ones left mostly fit one of three types.
 
-- **Newer homes built on improved foundations, and the few rebuilt from scratch,** have current insulation, double glazing and a well sealed shell. An open plan living area in one of these can be heated by a single modest wall unit, and a larger unit would only switch on and off.
-- **Older homes that were repaired** can still have their original windows and patchy insulation. They need more capacity for the same room size. If walls were opened up during the repair, ask whether insulation went in then, because that changes the size we fit.
-- **Every home on low ground** near the estuary needs the outdoor unit kept off wet soil, on a bracket or raised base, covered below.
+- **Newer homes on improved foundations, and the few full rebuilds.** These have current insulation, double glazing and a tight shell. One modest wall unit can heat an open plan living area. A bigger one would just keep switching on and off.
+- **Older homes that were repaired.** Many still have their old windows and patchy insulation. They need more heat for the same size room. If the walls were opened up during the repair, find out whether insulation went in. That changes the size we fit.
+- **Any home on low ground by the estuary.** The outdoor unit has to stay off wet soil. More on that below.
 
 ## Heat pump installation in rebuilt Bexley homes
 
-A Bexley home rebuilt to current standards usually has good insulation, double glazing and a well sealed shell. That can mean an open plan living area heated comfortably by one modest wall unit. Many rebuilds also suit a [ducted system](/ducted-heat-pumps-christchurch/), especially if the ceiling space was designed with services in mind.
+A rebuilt Bexley home usually keeps its heat well. Often one modest wall unit will heat the whole open plan area. Plenty of rebuilds also suit a [ducted system](/ducted-heat-pumps-christchurch/). That's especially true if the ceiling space was planned with services in mind.
 
-We size each one from the rooms, windows, insulation and how you use the house, so you don't pay for capacity the house doesn't need.
+We size each job from your rooms, windows and insulation, and how you use the house. That way you don't pay for heat the house doesn't need.
 
 ## Heat pumps for repaired older Bexley homes
 
-Older homes that came through with repairs can still have original windows and patchy insulation. They need more capacity for the same room size, and the indoor unit goes on the short wall, blowing along the length of the room, so the heat reaches the far end.
+Repaired older homes can still have the original windows and gaps in the insulation. They need a bigger unit for the same size room. We put the indoor unit on the short wall, blowing down the length of the room. That gets the heat to the far end.
 
 ## Low ground and the outdoor unit in Bexley
 
-Low-lying sections near the estuary can hold water in winter. An outdoor unit sitting in a puddle, or on a pad that has settled, drains poorly and corrodes faster. We mount units on a wall bracket or a raised, level base so they stay dry and keep defrost water running away. Where the ground has moved before, a bracket fixed to the house framing avoids relying on the soil.
+Low sections by the estuary can hold water in winter. An outdoor unit sitting in a puddle won't drain properly. Neither will one on a pad that's sunk. Both rust faster. We fit units on a wall bracket or a raised, level base. That keeps them dry and lets the defrost water run off. If the ground has moved before, we fix the bracket to the house framing. Then the soil doesn't matter.
 
 ## Frost and damp air in Bexley
 
-Cold, still nights near the estuary bring frost and fog. That's when the outdoor unit runs its defrost cycle most often, and good drainage around it matters most. Some units hold their output in the cold better than others, which [cold climate heat pumps](/cold-climate-heat-pumps/) explains.
+Cold, still nights by the estuary bring frost and fog. That's when the outdoor unit defrosts most. It's also when good drainage around it counts most. Some units keep their output in the cold better than others. Read up on [cold climate heat pumps](/cold-climate-heat-pumps/) to see which.
 
-The estuary air also carries some salt, so rinsing the outdoor coil from time to time is worthwhile.
+There's a bit of salt in the estuary air too. Give the outdoor coil a rinse now and then.
 
 ## Heat pump service and repairs in Bexley
 
-Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic are all brands we service and repair in Bexley, as are most others sold here. Read about [servicing](/maintenance-servicing/) or, if something has gone wrong, [repairs](/heat-pump-repair/).
+We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic in Bexley. We do most other brands sold here as well. Read about [servicing](/maintenance-servicing/). Or if something's gone wrong, see [repairs](/heat-pump-repair/).
 
 ## Suburbs near Bexley
 
-We also cover [Aranui](/aranui/), [Wainoni](/wainoni/), [Avondale](/avondale/), [South New Brighton](/south-new-brighton/) and [New Brighton](/new-brighton/).
+We also work in [Aranui](/aranui/), [Wainoni](/wainoni/), [Avondale](/avondale/), [South New Brighton](/south-new-brighton/) and [New Brighton](/new-brighton/).
 
-Call **03 242 1023** or request a fixed-price quote for your Bexley home.
+Call **03 242 1023** or ask for a fixed-price quote for your Bexley home.

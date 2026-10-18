@@ -7,18 +7,18 @@ h1: Heat pump installation in Redwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Redwood
 suburb: Redwood
-intro: Heat pumps for Redwood's 1960s to 80s family homes, from a single lounge unit to a system that heats every bedroom. You get a fixed price before we start.
+intro: Redwood is mostly family homes from the 1960s to the 80s. We fit heat pumps for them, from one lounge unit to a setup that warms every bedroom. We give you a fixed price before any work begins.
 hero: redwood-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Redwood"
 relatedHeading: "More on heat pumps near Redwood"
 faqs:
   - q: How do I heat the bedrooms in my Redwood home?
-    a: The usual options are a small wall unit in each bedroom, a multi-room system that runs several indoor units off one outdoor unit, or a ducted system through the ceiling. We price the options that suit your house so you can compare.
+    a: There are three usual options. A small wall unit in each bedroom. A multi-room system, with several indoor units on one outdoor unit. Or a ducted system through the ceiling. We price the ones that suit your house so you can compare.
   - q: Does a heat pump still work on a frosty Redwood morning?
-    a: Yes. A correctly sized unit keeps heating in frost, pausing briefly to defrost the outdoor coil. Placing that unit on raised feet with good drainage helps it recover quickly. See <a href="/cold-climate-heat-pumps/">cold climate heat pumps</a>.
+    a: Yes. A unit sized right keeps heating in a frost. Now and then it stops for a short time to defrost the outdoor coil. Raised feet and good drainage under the outdoor unit help it get going again fast. See <a href="/cold-climate-heat-pumps/">cold climate heat pumps</a>.
   - q: Can I add a second heat pump later?
-    a: Yes. Many households start with the living area and add bedroom units over time. We can also plan the first install so a later addition is easy.
+    a: Yes. Plenty of people start with the living area and add bedroom units later. We can also plan the first install so adding one later is easy.
 related:
   - { label: Northcote, href: /northcote/, text: Heat pumps for Northcote homes and units. }
   - { label: Belfast, href: /belfast/, text: New and older homes in Belfast. }
@@ -27,43 +27,45 @@ related:
 
 ## Heat pump installation for Redwood's houses
 
-A Redwood home splits into two heating zones, the living area and the bedrooms, and the main decision is how far you heat the second one.
+A Redwood home has two zones to heat. There's the living area, and there are the bedrooms. The main question is how far you go with the bedrooms.
 
-Most houses in this northern Christchurch suburb are family homes, many of them single storey brick and tile, built from the 1960s to the 1980s, with a lounge or family room at one end, bedrooms down a hallway and a garage on the side. The living end is open enough for one well placed wall unit. The bedrooms get none of that heat once their doors are shut, and the ones on the shaded side are the coldest, so they need heating of their own: separate units, a multi-room system or ducting.
+Most houses in this northern Christchurch suburb are family homes. Many are single storey brick and tile, built from the 1960s to the 80s. The lounge or family room is at one end. The bedrooms run down a hallway. There's a garage on the side.
 
-At the quote we check the ceiling cavity, the insulation and the windows, so each bedroom option is priced for your house rather than a typical one.
+The living end is open enough for one well placed wall unit. The bedrooms are a different story. Once the doors are shut, none of that heat gets in. The ones on the shaded side are the coldest. So they need their own heating. That means separate units, a multi-room system or ducting.
+
+When we come to quote, we check the ceiling space, the insulation and the windows. Each bedroom option is then priced for your house, not a typical one.
 
 ## Zone one: the living area
 
-A single wall unit in the lounge is where most Redwood households start. It should face along the room rather than straight at a seat, and it needs a short pipe run to the outdoor unit for an efficient install. If the kitchen and dining area connect to the lounge through a wide opening, one unit can often heat all three.
+Most Redwood households start with one wall unit in the lounge. It should blow along the room, not straight at a chair. It also needs a short pipe run to the outdoor unit so it works efficiently. If the kitchen and dining area open onto the lounge through a wide gap, one unit can often heat all three.
 
 ## Zone two: heat pumps for Redwood bedrooms
 
-Bedrooms are where these houses get cold, especially those on the shaded side. There are three ways to heat them:
+Bedrooms are where these houses get cold. The shaded side is worst. You've got three ways to heat them:
 
-- **A small wall unit in each bedroom**, each with its own outdoor unit. Simple, and each room is independent.
-- **A [multi-room system](/multi-room-heat-pump-installation/)**, with several indoor units sharing one outdoor unit. Fewer boxes outside the house.
-- **[Ducted heating](/ducted-heat-pumps-christchurch/)**, with vents in each room and the indoor unit hidden in the roof space. This needs enough ceiling cavity, which we check on site.
+- **A small wall unit in each bedroom.** Each has its own outdoor unit. It's simple, and each room runs on its own.
+- **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units share one outdoor unit. That means fewer boxes outside.
+- **[Ducted heating](/ducted-heat-pumps-christchurch/).** There's a vent in each room, and the indoor unit is hidden in the roof. It needs enough ceiling space. We'll check that when we visit.
 
-We size each option from the rooms, the insulation and the windows, so the quote reflects your house.
+We size each option from your rooms, insulation and windows. So the quote fits your house.
 
 ## Using the heat pump controls well
 
-Most modern units have a timer and a weekly schedule. Setting the lounge to warm up half an hour before you get up, and the bedrooms before bedtime, is more comfortable than heating from cold on demand. We set this up with you at the end of the install.
+Most modern units have a timer and a weekly schedule. Set the lounge to warm up half an hour before you get up. Set the bedrooms to warm up before bed. That's more comfortable than heating from cold when you need it. We'll set it up with you once the install is done.
 
 ## Frosty mornings in Redwood
 
-Northern Christchurch gets plenty of clear, frosty winter mornings. An outdoor unit sitting on raised feet, with room to drain its defrost water, copes much better than one sat on the ground in a garden bed. We set that up as part of every install.
+Northern Christchurch gets lots of clear, frosty winter mornings. Put the outdoor unit on raised feet with room for its defrost water to drain. It copes far better than one sitting on the ground in a garden bed. We do that on every install.
 
 ## Heat pump service and repairs in Redwood
 
-Once your Redwood heat pump is in, we keep it running with yearly servicing and repairs:
+Once your Redwood heat pump is in, we keep it going:
 
-- **Servicing** once a year, ideally before winter. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs** for any major brand, including units someone else fitted. See [heat pump repairs](/heat-pump-repair/).
+- **Servicing.** Once a year, best done before winter. See [maintenance and servicing](/maintenance-servicing/).
+- **Repairs.** Any major brand, even units someone else fitted. See [heat pump repairs](/heat-pump-repair/).
 
 ## Around Redwood
 
-We work throughout [Northcote](/northcote/), [Casebrook](/casebrook/), [Belfast](/belfast/), [Papanui](/heat-pumps-papanui/) and the rest of [greater Christchurch](/locations/).
+We work right through [Northcote](/northcote/), [Casebrook](/casebrook/), [Belfast](/belfast/), [Papanui](/heat-pumps-papanui/) and the rest of [greater Christchurch](/locations/).
 
-To get a free quote for a Redwood home, call **03 242 1023** or send the form and we'll be in touch.
+For a free quote on your Redwood home, call **03 242 1023** or send the form and we'll get back to you.

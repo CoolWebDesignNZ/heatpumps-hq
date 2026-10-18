@@ -5,20 +5,20 @@ keyword: heat pump power usage
 secondary: [how much power does a heat pump use, heat pump running cost, heat pump energy consumption]
 h1: Heat pump power usage, and how much power yours uses
 serviceName: Heat pump power usage check
-intro: How much power a heat pump uses depends on the unit, the house, the weather and how you run it. Here is how to find your own figure, and what we look at when the usage seems too high.
+intro: "How much power a heat pump uses comes down to the unit, the house, the weather and how you run it. Here's how to find your own figure. And here's what we look at when the usage seems too high."
 hero: power-hero
 gallery: [power-meter, power-outdoor]
 faqHeading: "Questions about heat pump running costs"
 relatedHeading: "More ways to use less power"
 faqs:
   - q: How much power does a heat pump use?
-    a: It varies with the size of the unit, the outdoor temperature, the set temperature and how long it runs. The energy label gives a kWh per year figure for heating in the Cold zone, which is a useful comparison between models. Your real use can be higher or lower.
+    a: It depends on the size of the unit, how cold it is outside, the set temperature and how long it runs. The energy label gives a kWh per year figure for heating in the Cold zone. That's good for comparing models. Your real use can be higher or lower.
   - q: How do I work out my heat pump running cost?
-    a: Take the kWh your heat pump uses and multiply by your electricity tariff. For a rough figure before you buy, EECA suggests adding the label's heating and cooling kWh for the Cold zone and multiplying by your tariff.
+    a: Take the kWh your heat pump uses and multiply by your power rate. For a rough figure before you buy, EECA suggests adding the label's heating and cooling kWh for the Cold zone. Then multiply by your rate.
   - q: Why has my heat pump power usage gone up?
-    a: Common reasons are blocked filters, a dirty indoor or outdoor coil, a slow refrigerant leak, a sensor reading wrong, settings that changed, or a colder than usual winter. A service and a check of the settings rule most of these out.
+    a: Often it's blocked filters or a dirty indoor or outdoor coil. It can be a slow refrigerant leak or a sensor reading wrong. Settings may have changed, or the winter's colder than usual. A service and a look at the settings rules most of these out.
   - q: Can I measure a heat pump with a plug-in power meter?
-    a: Not usually. Wall heat pumps are normally hard wired to their own circuit, so there's no plug. Your power retailer's usage data, or the energy readings in some Wi-Fi apps, are the practical options.
+    a: Not usually. Wall heat pumps are normally wired straight into their own circuit, so there's no plug. Use your power company's usage data instead. Or use the energy readings in some Wi-Fi apps.
 related:
   - { label: Energy efficient heat pumps, href: /energy-efficient/, text: Settings and sizing that cut power use. }
   - { label: Remote monitoring, href: /remote-monitoring-and-diagnostics/, text: Using a Wi-Fi app to see how the unit has been running. }
@@ -27,46 +27,46 @@ related:
 
 ## What decides heat pump power usage
 
-A heat pump only uses as much power as the job asks of it. The main factors are:
+A heat pump only uses as much power as the job needs. Here's what drives it:
 
-- **The outdoor temperature.** The colder it is outside, the more electricity it takes to move the same heat in. A frosty week uses more than a mild one, and defrost cycles add to it.
-- **The set temperature.** Each degree higher asks the unit to replace more heat lost through walls, windows and the roof.
+- **How cold it is outside.** The colder it gets, the more power it takes to bring the same heat in. A frosty week uses more than a mild one. Defrost cycles add to it.
+- **The set temperature.** Every degree higher means more heat to replace. That heat's lost through the walls, windows and roof.
 - **The house.** Insulation, double glazing, curtains and draught stopping decide how fast heat leaks out.
-- **How long it runs.** Hours per day, how many rooms, and whether doors are left open to the rest of the house.
-- **The unit's size and efficiency.** A correctly sized, well rated unit running gently uses less than an undersized one running flat out.
-- **Its condition.** Dirty filters and coils, or a refrigerant charge that is low, mean longer run times for the same heat.
+- **How long it runs.** Hours a day, how many rooms, and whether doors are left open to the rest of the house.
+- **The unit's size and rating.** A well-sized, well-rated unit running gently uses less than a small one running flat out.
+- **Its condition.** Dirty filters and coils, or low refrigerant, mean it runs longer for the same heat.
 
 ## Using the energy label to estimate heat pump running cost
 
-To estimate a heat pump's running cost from its energy label, add the heating and cooling kWh per year figures for the Cold zone, which is the zone New Zealand sits in, and multiply by your electricity tariff. That's EECA's suggestion for a rough yearly cost. New models carry these figures on the Zoned Energy Rating Label, and EECA says they are only an indication, because use varies by household ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
+Here's how to estimate a heat pump's running cost from its label. Add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate. That's EECA's suggestion for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. EECA says they're only a guide, because every household uses power differently ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
 
-That makes the label good for comparing two models, and less good for predicting your bill. More on the label in our [energy rating guide](/energy-star-heat-pumps/).
+So the label is good for comparing two models. It's not so good at predicting your bill. There's more on the label in our [energy rating guide](/energy-star-heat-pumps/).
 
 ## How much power does your heat pump use?
 
-The only way to know how much power your heat pump uses in your house is to measure it. There are three ways to do that:
+To know how much power your heat pump uses in your house, you have to measure it. There are three ways:
 
-- **Your power retailer's usage data.** If you have a smart meter, your retailer may show hourly or half-hourly use in their app or online account. Compare a cold week with the heat pump running against a mild week without it.
-- **The heat pump's app.** Some Wi-Fi controllers show an energy reading. It's an estimate from the unit, not a meter, but it's useful for spotting change over time. See [remote monitoring](/remote-monitoring-and-diagnostics/).
-- **Your own notes.** Write down your settings and hours for a week. A spike in use usually lines up with a change in settings, a cold snap or a fault.
+- **Your power company's usage data.** Got a smart meter? Your power company may show hourly or half-hourly use in their app or online account. Compare a cold week with the heat pump on against a mild week with it off.
+- **The heat pump's app.** Some Wi-Fi controllers show an energy reading. It's the unit's own estimate, not a meter. But it's handy for spotting changes over time. See [remote monitoring](/remote-monitoring-and-diagnostics/).
+- **Your own notes.** Write down your settings and hours for a week. A jump in use usually lines up with a settings change, a cold snap or a fault.
 
 ## When heat pump energy consumption seems too high
 
-If your bill has gone up and the weather and your habits haven't changed, the heat pump may be working harder than it should. On a visit we check:
+Has your bill gone up while the weather and your habits stayed the same? The heat pump may be working harder than it should. Here's what we check on a visit:
 
-1. **Settings and timers.** Mode, set temperature, fan speed and schedules. A unit left on auto can switch into cooling on a sunny afternoon, and a forgotten timer can run it in an empty house.
+1. **Settings and timers.** Mode, set temperature, fan speed and schedules. On auto, a unit can switch to cooling on a sunny afternoon. A forgotten timer can run it in an empty house.
 2. **Filters, indoor coil and fan.** Dust and mould cut airflow and output.
-3. **The outdoor unit.** A dirty coil, blocked airflow or a poor position that makes it recirculate its own cold air.
-4. **Refrigerant.** Pressures and pipe temperatures that show whether the charge is right. A low charge points to a leak, which we can find and repair through [leak detection](/leak-detection-repair/).
-5. **Sensors.** A room or coil sensor reading wrong can make the unit run on when the room is already warm. See [thermostat calibration](/heat-pump-thermostat-calibration/).
-6. **Sizing.** Whether the unit is big enough for the room on cold mornings, or is running flat out to keep up.
+3. **The outdoor unit.** We look for a dirty coil or blocked airflow. We also check its spot. In a bad spot, it can suck its own cold air back in.
+4. **Refrigerant.** Pressures and pipe temperatures show whether the charge is right. A low charge points to a leak. We can find and fix that through [leak detection](/leak-detection-repair/).
+5. **Sensors.** A room or coil sensor reading wrong can keep the unit running when the room's already warm. See [thermostat calibration](/heat-pump-thermostat-calibration/).
+6. **Sizing.** Is the unit big enough for the room on cold mornings? Or is it running flat out to keep up?
 
-You get a plain explanation of what we found and what will bring the usage down, with a price for any work before we start.
+We explain what we found in plain terms. We tell you what will bring the usage down. You get a price for any work before we start.
 
 ## Cutting heat pump power usage
 
-The savings you control yourself come from settings: a steady set temperature, heat mode rather than auto, doors closed to unheated rooms and timers that match when you're home. Clean filters and a yearly service keep the unit from drifting back up. Our [energy efficient heat pump guide](/energy-efficient/) covers each of these in detail.
+The savings you control come from your settings. Keep one steady temperature. Use heat mode, not auto. Close doors to rooms you're not heating. Set timers to match when you're home. Clean filters and a yearly service stop the usage creeping back up. Our [energy efficient heat pump guide](/energy-efficient/) covers each of these in detail.
 
 ## Book a heat pump power check
 
-If your heat pump power usage looks wrong, call **03 242 1023** or [request a quote](/contact-us/). We visit homes across Christchurch, Selwyn and Lyttelton.
+Heat pump power usage looking wrong? Call **03 242 1023** or [request a quote](/contact-us/). We visit homes across Christchurch, Selwyn and Lyttelton.

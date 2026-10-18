@@ -7,18 +7,18 @@ h1: Heat pump installation and repairs in Casebrook
 serviceName: Heat pump installation, servicing and repair
 areaServed: Casebrook
 suburb: Casebrook
-intro: Heat pumps for Casebrook's family homes, including replacements for units that have reached the end of their life. We agree a fixed price with you before any work begins.
+intro: "Heat pumps for Casebrook's family homes. That includes replacing units that have reached the end of their life. We agree a fixed price with you before we start."
 hero: casebrook-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Casebrook"
 relatedHeading: "More on heat pumps near Casebrook"
 faqs:
   - q: My Casebrook heat pump is old. Should I repair or replace it?
-    a: The fault and the unit's condition decide it. We diagnose it first and tell you what the repair involves. If a replacement makes more sense, we quote that too, so you can compare.
+    a: The fault and the unit's condition decide it. We find the fault first and tell you what the repair involves. If a new unit makes more sense, we quote that too. Then you can compare.
   - q: Can a new heat pump use the old one's pipes?
-    a: Sometimes, if the pipework is the right size, in good condition and suits the new unit's refrigerant. Often it's better to run new pipe. We check on site and include the answer in the quote.
+    a: Sometimes. The pipes have to be the right size and in good condition. They also have to suit the new unit's refrigerant. Often it's better to run new pipe. We check on site and put the answer in the quote.
   - q: How many heat pumps does a three bedroom Casebrook home need?
-    a: Many families start with one unit for the living area and add small units in the bedrooms later. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> covers several rooms from one outdoor unit if you want to do it all at once.
+    a: Lots of families start with one unit for the living area. They add small bedroom units later. Want to do it all at once? A <a href="/multi-room-heat-pump-installation/">multi-room system</a> covers several rooms from one outdoor unit.
 related:
   - { label: Redwood, href: /redwood/, text: Heat pumps for Redwood family homes. }
   - { label: Harewood, href: /harewood/, text: Installation and servicing in Harewood. }
@@ -27,40 +27,40 @@ related:
 
 ## Heat pump installation for Casebrook's family homes
 
-In Casebrook the first heat pump question is often what to do about an old one. A lot of houses here already have a heat pump, and many of those first units are now getting old.
+In Casebrook, the first question is often what to do with the old heat pump. Plenty of houses here already have one. And lots of those first units are getting on now.
 
-The houses are mostly single storey family homes from the later part of last century, many of them brick and tile on standard suburban sections, on Christchurch's north-west side. That gives three common situations:
+Casebrook is on Christchurch's north-west side. The houses are mostly single storey family homes from the later part of last century. Many are brick and tile on standard suburban sections. That gives three common situations:
 
-- **The old unit still runs but has a fault or feels weak.** That isn't always the end of it, and a repair may be the better spend.
-- **The old unit is being replaced.** The new one should be sized for the house as it is now, because topped-up ceiling insulation or new windows change what a room needs.
-- **There's no heat pump yet, or only one.** The usual start is a wall unit in the long living area, with bedroom units or a ducted system for the rooms down the hallway.
+- **The old unit runs but has a fault or feels weak.** That's not always the end of it. A repair may be the better spend.
+- **The old unit's being replaced.** Size the new one for the house as it is now. Topped-up ceiling insulation or new windows change what a room needs.
+- **There's no heat pump yet, or only one.** The usual start is a wall unit in the long living area. Then bedroom units or a ducted system for the rooms down the hall.
 
-At the quote we check the old unit and its pipework, measure the rooms and look at the insulation, then price the repair and the replacement so you can compare them.
+At the quote, we check the old unit and its pipes. We measure the rooms and look at the insulation. Then we price the repair and the replacement side by side.
 
 ## Heat pump repair or replacement in Casebrook
 
-Whether to repair or replace an older heat pump in Casebrook comes down to the fault, the unit's condition and whether it was the right size to begin with. A unit that rattles, takes a long time to warm the room, or shows a fault light isn't always finished, so we find the cause first and give you a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
+Repair or replace? It comes down to three things. The fault, the unit's condition, and whether it was the right size in the first place. A unit that rattles, is slow to warm the room or shows a fault light isn't always finished. So we find the cause first. Then you get a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
 
-When a replacement is the better option, it's a chance to correct the size. Many homes have had ceiling insulation topped up or windows replaced since the first heat pump went in, and that changes the capacity the room needs. We size the new unit from the room as it is now, the insulation and the windows, not from the label on the old one.
+If a new unit's the better option, it's a chance to fix the size. Lots of homes have had ceiling insulation topped up or windows replaced since the first heat pump went in. That changes the capacity a room needs. We size the new unit from the room as it is now, with its insulation and windows. Not from the label on the old one.
 
 ## Brick and tile Casebrook homes in winter
 
-Keeping a brick and tile Casebrook home warm in winter comes down to its layout. Brick veneer houses from this era often have a long living area facing the street or the back garden, with bedrooms off a hallway. A wall unit at one end of the lounge can carry heat into the dining space if nothing blocks the airflow. Bedrooms at the far end of the hall are a different matter: they usually need a small unit each, or a [ducted system](/ducted-heat-pumps-christchurch/) if the ceiling space allows it.
+Keeping a brick and tile Casebrook home warm comes down to the layout. Brick veneer houses from this time often have a long living area facing the street or the back garden. The bedrooms are off a hallway. A wall unit at one end of the lounge can carry heat into the dining area, as long as nothing blocks the air. Bedrooms at the far end of the hall are another story. They usually need a small unit each. Or a [ducted system](/ducted-heat-pumps-christchurch/), if there's room in the ceiling.
 
-Garages are common on Casebrook homes, and an outside garage wall can be a good place for the outdoor unit if it is close to the room being heated. A short pipe run is cheaper to install and loses less performance.
+Lots of Casebrook homes have a garage. An outside garage wall can be a good spot for the outdoor unit, if it's close to the room you're heating. A short pipe run costs less to fit and loses less performance.
 
-Outdoor units on these homes usually sit on raised feet against the brick wall, clear of garden beds, with a clear path for defrost water.
+On these homes, the outdoor unit usually sits on raised feet against the brick wall. It stays clear of garden beds, with a clear path for defrost water.
 
 ## Heat pump installs, service and repairs in Casebrook
 
-For Casebrook homes we handle new and replacement installs, yearly servicing and repairs:
+Here's what we do for Casebrook homes:
 
 - **New and replacement installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor console, multi-room and ducted systems.
 - **Servicing.** A yearly clean and check keeps a unit running efficiently. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs on all major brands.** Including Panasonic and other brands we don't install.
+- **Repairs on all major brands.** Panasonic too, and other brands we don't fit.
 
 ## Suburbs near Casebrook
 
 We cover [Redwood](/redwood/), [Harewood](/harewood/), [Belfast](/belfast/), [Burnside](/burnside/) and the rest of [the city](/locations/).
 
-For a free quote in Casebrook, phone **03 242 1023** or fill in the form, and we'll arrange a time to look at the house.
+For a free quote in Casebrook, phone **03 242 1023** or fill in the form. We'll set a time to come and look at the house.

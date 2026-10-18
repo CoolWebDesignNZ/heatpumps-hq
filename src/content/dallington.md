@@ -7,18 +7,18 @@ h1: Heat pump installation and repairs in Dallington
 serviceName: Heat pump installation, servicing and repair
 areaServed: Dallington
 suburb: Dallington
-intro: We install, service and repair heat pumps in Dallington's remaining streets, including homes repaired or rebuilt after the earthquakes. Every job is priced before work begins.
+intro: We fit, service and fix heat pumps in Dallington's remaining streets. That includes homes repaired or rebuilt after the earthquakes. Every job is priced before we start.
 hero: dallington-hero
 gallery: [pool-brick-bungalow, pool-weatherboard]
 faqHeading: "Dallington heat pump questions"
 relatedHeading: "Heat pumps near Dallington"
 faqs:
   - q: My Dallington house had earthquake repairs. Does that change the heat pump install?
-    a: It can. Repairs often bring new linings, relevelled floors or a new foundation, and some leave insulation gaps behind. We look at what was done before sizing the unit and before drilling for the pipe run.
+    a: It can. Repairs often mean new linings, relevelled floors or a new foundation. Some leave gaps in the insulation. We look at what was done before we size the unit. We check again before we drill for the pipes.
   - q: Can a heat pump go on the side of a relevelled or repiled house?
-    a: Yes. We mount the outdoor unit on a bracket fixed to solid framing or on its own pad, so any later movement of the ground doesn't pull on the pipework.
+    a: Yes. We fix the outdoor unit to a bracket on solid framing, or put it on its own pad. That way, if the ground moves later, it won't pull on the pipework.
   - q: Do you service older heat pumps in Dallington that came with the house?
-    a: Yes. We service and repair most brands sold in New Zealand, whatever their age, and tell you plainly if a unit is no longer worth repairing.
+    a: Yes. We service and fix most brands sold in New Zealand, whatever their age. If a unit isn't worth fixing any more, we'll tell you straight.
 related:
   - { label: Avondale, href: /avondale/, text: Heat pumps for Avondale homes. }
   - { label: Burwood, href: /burwood/, text: Installation and servicing in Burwood. }
@@ -27,34 +27,36 @@ related:
 
 ## Heat pump installation in Dallington after the rebuild
 
-In Dallington, what happened to a house after the earthquakes tells us more about the heat pump it needs than its age does, and two houses side by side can hold heat very differently.
+In Dallington, what happened to a house after the earthquakes matters more than its age. Two houses side by side can hold heat very differently.
 
-- **Full rebuilds** are built to current standards and keep heat well. A correctly sized high wall unit can heat the living area, with a small second unit for the bedrooms if you want them warm too.
-- **Repaired original bungalows** may have new plasterboard over walls that were never insulated. They lose heat faster, and many have a separate lounge and dining room that one lounge unit won't reach. These homes need more capacity, or a unit in each room you use on a [multi-room system](/multi-room-heat-pump-installation/).
-- **Relevelled or repiled homes** need the outdoor unit mounted so later ground movement can't strain the pipework.
+- **Full rebuilds.** These are built to current standards and keep heat well. One high wall unit sized right can heat the living area. Add a small second unit if you want the bedrooms warm too.
+- **Repaired original bungalows.** Some have new plasterboard over walls that were never insulated. They lose heat faster. Many have a separate lounge and dining room, and one lounge unit won't reach both. These homes need more capacity. Or a unit in each room you use, on a [multi-room system](/multi-room-heat-pump-installation/).
+- **Relevelled or repiled homes.** The outdoor unit has to be mounted so later ground movement can't strain the pipes.
 
 ## Checking a Dallington house before we size the heat pump
 
-Before we recommend a size, we look at:
+Before we suggest a size, we look at four things:
 
-- **Ceiling and underfloor insulation.** Repair work sometimes disturbed it and it wasn't always replaced.
-- **Windows.** Some repaired homes kept their original single glazing.
-- **The layout.** Whether the lounge opens onto the dining room or is closed off decides if one unit can cover both.
-- **How you use the house.** A lounge used every evening needs a unit sized to hold it warm for hours. A room used now and then may not need its own unit if its door can stay open to a heated room.
+- **Ceiling and underfloor insulation.** Repair work sometimes disturbed it. It wasn't always put back.
+- **Windows.** Some repaired homes still have the original single glazing.
+- **The layout.** Does the lounge open onto the dining room, or is it closed off? That decides if one unit can cover both.
+- **How you use the house.** A lounge you use every evening needs a unit that keeps it warm for hours. A room you only use now and then may not need its own unit. Leave its door open to a heated room instead.
 
-From that we work out the capacity and where the indoor unit should sit so warm air reaches the whole room.
+From that we work out the capacity. We also work out where the indoor unit should go so warm air reaches the whole room.
 
 ## Mounting outdoor units on repaired foundations
 
-Dallington sits inside a loop of the Avon River. After the earthquakes much of the land closest to the river became residential red zone, so some streets now have fewer homes, and the ground near the river moved. Some houses have been relevelled since. We fix outdoor units to solid framing or set them on a separate pad, and leave a little slack in the pipe run so small movements don't strain the joints. Wherever the unit goes, it needs clear air around it and somewhere for defrost water to drain.
+Dallington sits inside a loop of the Avon River. After the earthquakes, a lot of the land nearest the river became residential red zone. So some streets now have fewer homes. The ground near the river moved, and some houses have been relevelled since.
+
+We fix outdoor units to solid framing or put them on a separate pad. We leave a little slack in the pipe run. Then small movements won't strain the joints. Wherever the unit goes, it needs clear air around it and somewhere for defrost water to drain.
 
 ## River-side damp in Dallington
 
-Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild damp days, though it doesn't replace ventilation or fixing a leak.
+Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild, damp days. It won't replace good ventilation or fixing a leak.
 
 ## Heat pump repair and servicing in Dallington
 
-If your Dallington home came with a heat pump already fitted, it may not have been serviced in years. A [service](/maintenance-servicing/) cleans the filters, coil and fan and checks the drain and refrigerant performance. Servicing and [repairs](/heat-pump-repair/) cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
+Did your Dallington home come with a heat pump? It may not have had a service in years. At a [service](/maintenance-servicing/) we clean the filters, coil and fan. We check the drain and how the refrigerant is performing. Servicing and [repairs](/heat-pump-repair/) cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Suburbs around Dallington
 

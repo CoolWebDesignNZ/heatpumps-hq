@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Bottle Lake
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bottle Lake
 suburb: Bottle Lake
-intro: We install, service and repair heat pumps for homes in and around Bottle Lake, between the pine forest and the coast. We fix the price in the quote.
+intro: We fit, service and fix heat pumps for homes in and around Bottle Lake, between the pines and the coast. The price is fixed in your quote.
 hero: bottle-lake-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bottle Lake
 relatedHeading: Heat pumps near Bottle Lake
 faqs:
   - q: Do pine needles cause problems for a heat pump near Bottle Lake Forest?
-    a: They can. Needles and pollen collect on the outdoor coil and in the base of the unit, which blocks airflow and holds moisture. Clearing around the unit and a yearly coil clean prevent most of it.
+    a: They can. Needles and pollen pile up on the outdoor coil and in the base of the unit. That blocks the airflow and holds moisture. Keep the ground around the unit clear and get the coil cleaned once a year. That stops most of it.
   - q: Can you install a heat pump in a larger Bottle Lake home with rooms spread out?
-    a: Yes. Spread-out layouts often suit a multi-room system or ducting, rather than one unit trying to reach every room. We look at the plan and the roof space first.
+    a: Yes. A spread-out house often suits a multi-room system or ducting. One unit can't reach every room. We look at the floor plan and the roof space first.
   - q: How far can the outdoor unit be from the indoor unit at a Bottle Lake property?
-    a: Each model has a maximum pipe length set by the manufacturer. We place the outdoor unit within it and as close as practical, since shorter runs are tidier and lose less.
+    a: Each model has a maximum pipe length, set by the maker. We keep within it and put the outdoor unit as close as we sensibly can. A shorter run is tidier and loses less.
 related:
   - { label: Parklands, href: /parklands/, text: Heat pumps for Parklands homes. }
   - { label: North New Brighton, href: /north-new-brighton/, text: Installation for beachfront homes. }
@@ -27,41 +27,45 @@ related:
 
 ## Heat pumps for homes on the Bottle Lake forest edge
 
-Bottle Lake is largely made up of Bottle Lake Forest Park, a big pine plantation behind the dunes north of New Brighton. For the homes around its edges, close to Parklands, North New Brighton and the coast, the heat pump comes down to how much winter sun the house gets and how far apart its rooms are.
+Most of Bottle Lake is Bottle Lake Forest Park. It's a big pine plantation behind the dunes, north of New Brighton. Homes sit round its edges, near Parklands, North New Brighton and the coast. For these houses, two things decide the heat pump. How much winter sun does the house get? And how far apart are the rooms?
 
-- **A house with pines on its north or west side** loses afternoon sun in winter, and the rooms on that side stay cooler all day. Those rooms need units sized for the room itself, not a share of one big unit.
-- **A single storey house on a street towards Parklands or North New Brighton** usually heats well with one high wall unit in the living area, plus a second small unit or [multi-room heads](/multi-room-heat-pump-installation/) in the bedrooms.
-- **A bigger home on a larger section with trees on several sides** often has living at one end and bedrooms at the other, which one unit can't cover. That is covered further down.
+- **Pines on the north or west side.** The house loses its afternoon sun in winter. Rooms on that side stay cool all day. Each of those rooms needs a unit sized for it, not a share of one big unit.
+- **A single storey house towards Parklands or North New Brighton.** One high wall unit in the living area usually does it. Add a second small unit, or [multi-room heads](/multi-room-heat-pump-installation/), for the bedrooms.
+- **A bigger home on a bigger section, with trees on several sides.** Living is often at one end and bedrooms at the other. One unit can't cover that. More on this below.
 
-Whichever it is, the outdoor unit here takes in pine needles, pollen, sand and salt, so where it goes matters as much as which one you choose.
+Either way, the outdoor unit here breathes in pine needles, pollen, sand and salt. So where it goes matters as much as which one you pick.
 
 ## Pine needles, pollen and sand on Bottle Lake heat pumps
 
-Pine needles, pollen and bark dust get drawn onto the outdoor unit of a Bottle Lake heat pump, because it pulls a lot of air across its coil. Close to the dunes that air also carries sand and some salt. Over time this builds up on the fins and in the base pan, which reduces heating and can hold water against the metal.
+An outdoor unit pulls a lot of air across its coil. Around Bottle Lake, that air brings pine needles, pollen and bark dust with it. Near the dunes it also brings sand and a bit of salt. It all builds up on the fins and in the base pan. That cuts the heat output. It can also hold water against the metal.
 
-To keep it to a minimum:
+How to keep it down:
 
-- **Placement.** Keep the outdoor unit out from under trees and away from where needles drift and pile up.
-- **Height.** A wall bracket or raised pad keeps it above leaf litter and blown sand.
-- **Clearing.** Brush away needles and debris from around the unit every few weeks in autumn and spring.
-- **Servicing.** A yearly [clean](/heat-pump-cleaning/) gets into the coil properly.
+- **Placement.** Keep the outdoor unit out from under trees. Keep it away from spots where needles drift and pile up.
+- **Height.** Put it on a wall bracket or raised pad, above the leaf litter and blown sand.
+- **Clearing.** Brush away needles from around the unit every few weeks in autumn and spring.
+- **Servicing.** Get a proper [clean](/heat-pump-cleaning/) of the coil once a year.
 
 ## Heat pump installation in larger Bottle Lake homes
 
-Some Bottle Lake properties are bigger than a typical suburban house, with living areas at one end, bedrooms at the other, or a separate studio. One heat pump can't heat all of that. A [multi-room system](/multi-room-heat-pump-installation/) runs several indoor units from one outdoor unit, and a [ducted system](/ducted-heat-pumps-christchurch/) can heat every room through ceiling vents if the roof space allows. A studio or sleepout often works best with its own small unit.
+Some Bottle Lake homes are bigger than the usual suburban house. Living might be at one end and bedrooms at the other. There might be a separate studio. One heat pump can't heat all that.
 
-Longer distances between rooms also mean longer pipe runs. Every model has a maximum pipe length, and we design the layout to stay well within it.
+- **[Multi-room system](/multi-room-heat-pump-installation/).** Several indoor units run off one outdoor unit.
+- **[Ducted system](/ducted-heat-pumps-christchurch/).** Heats every room through ceiling vents, if the roof space allows.
+- **A studio or sleepout.** Often best with its own small unit.
+
+Rooms far apart mean longer pipe runs. Every model has a maximum pipe length. We plan the layout to stay well inside it.
 
 ## Sizing for shaded Bottle Lake homes
 
-We work out the size from your rooms, glazing, insulation and how you use the home, and we note where the trees shade the house in winter, because a shaded home can need more heat than an open site with the same floor area.
+We size the unit from your rooms, glass, insulation and how you use the house. We also note where the trees shade the house in winter. A shaded home can need more heat than an open one with the same floor area.
 
 ## Servicing and repairs in Bottle Lake
 
-Servicing and repairs cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other makes sold in this country. If your unit has lost heat or is icing up badly, see [heat pump repairs](/heat-pump-repair/).
+We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other makes sold in New Zealand too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs near Bottle Lake
 
-We also cover [Parklands](/parklands/), [North New Brighton](/north-new-brighton/), [Queenspark](/queenspark/) and [Brooklands](/brooklands/).
+We also work in [Parklands](/parklands/), [North New Brighton](/north-new-brighton/), [Queenspark](/queenspark/) and [Brooklands](/brooklands/).
 
-To book a fixed-price quote in Bottle Lake, call **03 242 1023** or send the form.
+For a fixed-price quote in Bottle Lake, call **03 242 1023** or send the form.

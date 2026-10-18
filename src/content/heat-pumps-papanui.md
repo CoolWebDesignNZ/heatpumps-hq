@@ -7,20 +7,20 @@ h1: Heat pump installation in Papanui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Papanui
 suburb: Papanui
-intro: We install, service and repair heat pumps across Papanui, from older villas and bungalows to the townhouses that now share many of its sections. The price is fixed before we start.
+intro: "We fit, service and fix heat pumps right across Papanui. That covers older villas and bungalows, and the townhouses that now share lots of its sections. The price is fixed before we start."
 hero: heat-pumps-papanui-hero
 gallery: [pool-weatherboard, pool-townhouse]
 faqHeading: "Questions about heat pumps in Papanui"
 relatedHeading: "More on heat pumps near Papanui"
 faqs:
   - q: Can a heat pump work in an older Papanui villa?
-    a: Yes, as long as it's sized for the room. High ceilings and timber floors mean more air to heat and more heat lost, so a villa lounge usually needs more capacity than a modern room of the same floor area. Fixing draughts and adding insulation first lets a smaller unit do the job.
+    a: Yes, as long as it's sized for the room. High ceilings and timber floors mean more air to heat and more heat lost. So a villa lounge usually needs more capacity than a modern room the same size. Fix the draughts and add insulation first, and a smaller unit can do the job.
   - q: Where does the outdoor unit go on a small infill section?
-    a: Usually on a wall bracket or a pad along the side of the house, away from the neighbour's bedroom windows. The rules are about noise at the neighbour's property, which our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers.
+    a: Usually on a wall bracket or a pad down the side of the house. Keep it away from the neighbour's bedroom windows. The rules are about noise at the neighbour's place. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers them.
   - q: Do you repair heat pumps you didn't install?
-    a: Yes. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units and most other brands sold in New Zealand, whoever fitted them.
+    a: Yes. We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Most other brands sold in New Zealand too, whoever fitted them.
   - q: Is one heat pump enough for a Papanui townhouse?
-    a: Often for the living level, yes. Upstairs bedrooms in a two storey townhouse usually need their own small unit, because warm air from downstairs doesn't spread evenly through closed doors.
+    a: Often, for the living level. Upstairs bedrooms in a two storey townhouse usually need their own small unit. Warm air from downstairs doesn't spread evenly through closed doors.
 related:
   - { label: St Albans, href: /st-albans/, text: Heat pumps for St Albans villas and townhouses. }
   - { label: Bryndwr, href: /bryndwr/, text: Installation and servicing in Bryndwr. }
@@ -29,33 +29,33 @@ related:
 
 ## Heat pump installation for two kinds of Papanui home
 
-The heat pump a Papanui home needs comes down to whether it's an older villa or bungalow or a newer townhouse, because the two lose heat at very different rates.
+In Papanui, it comes down to one thing. Is it an older villa or bungalow, or a newer townhouse? The two lose heat at very different rates.
 
-- **Timber villas and solid bungalows** still line many streets in this older northern suburb. They lose heat through ceilings, floors and single glazed windows, and a villa's high stud adds more air to heat. They need more capacity per room, with the main unit in the lounge and extra indoor units if the hallway and bedrooms are cold, covered below.
-- **Newer units and townhouses**, two to four of them on plenty of original sections, are built tighter, with insulation and double glazing as standard. They need far less capacity for the same floor area: often one unit for the living level and a small one for an upstairs bedroom.
+- **Timber villas and solid bungalows.** Papanui is an older northern suburb, and lots of streets are still lined with these. They lose heat through the ceilings, floors and single glazing. A villa's high stud means more air to heat as well. They need more capacity per room. The main unit goes in the lounge. Add more indoor units if the hallway and bedrooms are cold. More on that below.
+- **Newer units and townhouses.** Lots of original sections now hold two to four of them. They're built tighter, with insulation and double glazing as standard. They need far less capacity for the same floor area. Often that's one unit for the living level and a small one for an upstairs bedroom.
 
-We work out the size from the actual rooms, the insulation, the windows and how you live in the house, rather than guessing from the square metres.
+We work out the size from your actual rooms, insulation and windows, and how you live in the house. We don't guess from the square metres.
 
 ## Heating an older Papanui villa or bungalow
 
-In a villa, the lounge with its high stud is usually the room that matters most. A wall unit placed to blow down the length of the room, rather than across a doorway, keeps the warmth where people sit. If the hallway and bedrooms are cold too, a [multi-room system](/multi-room-heat-pump-installation/) runs several indoor units off one outdoor unit, which keeps the outside of the house tidier.
+In a villa, the high-stud lounge is usually the room that matters most. Place a wall unit to blow down the length of the room, not across a doorway. That keeps the warmth where you sit. Are the hallway and bedrooms cold too? A [multi-room system](/multi-room-heat-pump-installation/) runs several indoor units off one outdoor unit. That keeps the outside of the house tidier.
 
-Ask us about insulation at the same time. Money spent on underfloor and ceiling insulation often means a smaller heat pump and lower running costs.
+Ask us about insulation at the same time. Money spent under the floor and in the ceiling often means a smaller heat pump. And lower running costs.
 
 ## Tight Papanui sites and close neighbours
 
-Infill sections leave little room down the sides of the house. The outdoor unit can sit on a wall bracket or a slim pad, with space around it for air to move and defrost water to drain. We place it so it stays quiet for the people next door, using our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) as the reference for the District Plan noise limits.
+Infill sections leave little room down the sides of the house. The outdoor unit can go on a wall bracket or a slim pad. It needs space round it for air to move and for defrost water to drain. We place it so it stays quiet for the people next door. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) is the reference we use for the District Plan noise limits.
 
 ## Heat pump service and repairs in Papanui
 
-Once a Papanui heat pump is in, we look after it with servicing, repairs and, when the time comes, a replacement:
+Once your heat pump's in, we look after it:
 
-- **Annual servicing.** Filter and coil cleaning, a drain check and a performance check. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** Fault finding on all the major brands, including older units. See [heat pump repairs](/heat-pump-repair/).
-- **Replacements.** If an old unit is no longer worth repairing, we'll quote a like-for-like or better sized replacement.
+- **Yearly servicing.** Filter and coil cleaning, a drain check and a performance check. See [maintenance and servicing](/maintenance-servicing/).
+- **Repairs.** Fault finding on all the major brands, older units included. See [heat pump repairs](/heat-pump-repair/).
+- **Replacements.** When an old unit's not worth fixing any more, we'll quote a like-for-like swap, or one sized better.
 
 ## Suburbs close to Papanui
 
 We also work in [St Albans](/st-albans/), [Northcote](/northcote/), [Bryndwr](/bryndwr/), [Casebrook](/casebrook/) and the rest of [Christchurch](/locations/).
 
-Call **03 242 1023** for a free quote on a heat pump for your Papanui home, or send us the form.
+For a free quote on a heat pump for your Papanui home, call **03 242 1023**. Or send us the form.

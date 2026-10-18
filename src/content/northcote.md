@@ -7,20 +7,20 @@ h1: Heat pump installation for Northcote homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Northcote
 suburb: Northcote
-intro: Northcote has many smaller homes, flats and units, and they need correctly sized heat pumps rather than oversized ones. We install, service and repair them, at a price fixed before work starts.
+intro: Lots of Northcote homes are smaller houses, flats and units. They need a heat pump sized for the room, not the biggest one going. We fit, service and fix them, and you get a fixed price before we start.
 hero: northcote-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Northcote"
 relatedHeading: "More on heat pumps near Northcote"
 faqs:
   - q: What size heat pump does a one bedroom Northcote unit need?
-    a: A small unit is usually enough for the living area of a compact flat. An oversized heat pump switches on and off more often and wastes power, so we size from the room, its windows and its insulation. Our <a href="/heat-pump-sizing/">sizing guide</a> explains how.
+    a: A small unit is usually plenty for the living area of a compact flat. A unit that's too big keeps switching on and off, and that wastes power. So we size it from the room, its windows and its insulation. Our <a href="/heat-pump-sizing/">sizing guide</a> explains how.
   - q: Can several units on one site each have a heat pump?
-    a: Yes. Each home gets its own outdoor unit, usually on wall brackets along a side wall. We space them so air can move freely and place them away from neighbours' bedroom windows.
+    a: Yes. Each home gets its own outdoor unit. These usually go on wall brackets along a side wall. We space them so the air can move, and keep them away from the neighbours' bedroom windows.
   - q: Is a floor console a good option in a small room?
-    a: It can be. A console sits low under a window and suits rooms where there's no good high wall for a split unit, or where you'd rather feel the warmth at floor level.
+    a: It can be. A console sits low under a window. It suits a room with no good high wall for a split unit. It also suits you if you'd rather feel the warmth down at floor level.
   - q: Do you service heat pumps in rental properties?
-    a: Yes. We service and repair heat pumps for owners and property managers across Northcote. The owner or manager arranges access and we agree the price first.
+    a: Yes. We service and fix heat pumps for owners and property managers all over Northcote. The owner or manager sorts out access, and we agree the price first.
 related:
   - { label: Papanui, href: /heat-pumps-papanui/, text: Heat pumps for Papanui homes. }
   - { label: Redwood, href: /redwood/, text: Installation and servicing in Redwood. }
@@ -29,38 +29,38 @@ related:
 
 ## Heat pump installation for smaller Northcote homes
 
-In a smaller Northcote home, the heat pump decision that matters most is the size. Most of what we fit here heats one main living space, and a unit that's too big for it costs more to buy and run without making the room any warmer, as the next section explains.
+In a smaller Northcote home, size is the big decision. Most units we fit here heat one main living space. A unit that's too big costs more to buy and more to run. It won't make the room any warmer. More on that below.
 
-- **Flats and units** on subdivided sections often have only one outside wall. The pipe route to the outdoor unit decides where the indoor unit can go, and a floor console suits a room where the only free wall is under a window.
-- **Small newer homes** are better insulated, so they need less capacity than their floor area suggests.
-- **Older family houses** with a separate lounge need more than one unit if the bedrooms are to be warm.
+- **Flats and units.** On subdivided sections there's often only one outside wall. The pipe route out to the outdoor unit decides where the indoor unit can go. If the only free wall is under a window, a floor console works well.
+- **Small newer homes.** These are better insulated. They need less capacity than the floor area suggests.
+- **Older family houses.** If there's a separate lounge, you'll need more than one unit to keep the bedrooms warm.
 
-Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood, and on its shared sites the outdoor units end up close to the neighbours, so we plan their placement around noise.
+Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood. On shared sites the outdoor units end up close to the neighbours. So we plan where they go with noise in mind.
 
 ## Why a smaller heat pump often suits Northcote
 
-A smaller, correctly sized heat pump suits a compact Northcote home better than the biggest one the budget allows. An oversized unit heats the room in short bursts, cycles on and off, and uses more power for less comfort. A correctly sized unit runs steadily at a low output, which is quieter and cheaper to run. See [heat pump sizing](/heat-pump-sizing/) for what goes into the calculation.
+In a compact Northcote home, a smaller unit sized right beats the biggest one your budget allows. A unit that's too big heats in short bursts. It cycles on and off. It uses more power and you're no more comfortable. A unit sized right runs steady at low output. That's quieter, and cheaper to run. Have a look at [heat pump sizing](/heat-pump-sizing/) to see how we work it out.
 
 ## Fitting heat pumps to Northcote units and flats
 
-Flats built in blocks share walls and often have only one outside wall. That decides where the indoor unit can go, because the pipes need a short, direct path to the outdoor unit. Where the only free wall is under a window, a [floor console](/single-room-heat-pump-installation/) is a tidy answer.
+Flats built in blocks share walls. Often there's only one outside wall. That decides where the indoor unit goes, because the pipes need a short, direct path to the outdoor unit. If the only free wall is under a window, a [floor console](/single-room-heat-pump-installation/) is a tidy fix.
 
-Outdoor units on shared sites go on wall brackets or small pads, spaced from each other and from fences. The District Plan controls the noise a unit makes at the neighbouring property rather than its distance from the boundary; our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) sets out the limits.
+On shared sites, outdoor units go on wall brackets or small pads. We space them from each other and from fences. The District Plan doesn't set a distance from the boundary. It limits the noise a unit makes at the neighbour's place. For the actual numbers, see our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## Older Northcote family houses
 
-In Northcote's older houses, the bedrooms are the issue. A three bedroom home with a separate lounge usually needs more than one unit to heat the bedrooms. We'll quote a single living area unit and a multi-room option side by side, so you can see the difference.
+In Northcote's older houses, the bedrooms are the problem. A three bedroom home with a separate lounge usually needs more than one unit to heat them. We'll price a single unit for the living area next to a multi-room option. That way you can see the difference.
 
 ## Heat pump installs, service and repairs in Northcote
 
-We install, service and repair heat pumps in Northcote flats, units and family houses:
+We fit, service and fix heat pumps in Northcote flats, units and family houses:
 
 - **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for the space.
-- **Servicing.** A yearly filter, coil and drain clean. See [maintenance and servicing](/maintenance-servicing/).
+- **Servicing.** A filter, coil and drain clean once a year. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs.** All major brands. See [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs neighbouring Northcote
 
-We also cover [Papanui](/heat-pumps-papanui/), [Redwood](/redwood/), [Casebrook](/casebrook/), [Mairehau](/mairehau/) and the rest of [Christchurch](/locations/).
+We also work in [Papanui](/heat-pumps-papanui/), [Redwood](/redwood/), [Casebrook](/casebrook/), [Mairehau](/mairehau/) and the rest of [Christchurch](/locations/).
 
-Phone **03 242 1023** or use the form to book a free quote for your Northcote home.
+Call **03 242 1023** or use the form to book a free quote for your Northcote home.

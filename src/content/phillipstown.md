@@ -7,20 +7,20 @@ h1: Heat pump installation for Phillipstown homes and rentals
 serviceName: Heat pump installation, servicing and repair
 areaServed: Phillipstown
 suburb: Phillipstown
-intro: Phillipstown is small, flat and close to the city, with older cottages, blocks of units and new townhouses. Owners and landlords get heat pump installs, servicing and repairs from us at a fixed price.
+intro: "Phillipstown is small, flat and close to town. It has older cottages, blocks of units and new townhouses. We fit, service and fix heat pumps for owners and landlords, all at a fixed price."
 hero: phillipstown-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Phillipstown"
 relatedHeading: "More on heat pumps near Phillipstown"
 faqs:
   - q: Does a heat pump meet the healthy homes heating standard?
-    a: A heat pump is an accepted fixed heater under the standard, as long as it can directly heat the main living room and has the capacity that room needs. Tenancy Services sets out the requirement under the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard</a>.
+    a: Yes, a heat pump is an accepted fixed heater under the standard. It has to be able to directly heat the main living room. And it needs the capacity that room calls for. Tenancy Services sets out the rule under the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard</a>.
   - q: How do you work out the right size for a rental lounge?
-    a: Tenancy Services has a heating assessment tool that gives the capacity a main living room needs. We measure the room, check the insulation and windows, and recommend a unit that meets or exceeds that figure.
+    a: Tenancy Services has a heating assessment tool. It gives the capacity a main living room needs. We measure the room and check the insulation and windows. Then we recommend a unit that meets or beats that figure.
   - q: Can you install while tenants are living in the house?
-    a: Yes. We agree a time with you and the tenant, keep the work to the rooms involved and tidy up before we leave.
+    a: Yes. We agree a time with you and the tenant. We keep to the rooms we're working in, and we tidy up before we go.
   - q: Can I have one outdoor unit for two flats?
-    a: Not usually. Each flat normally needs its own system so each tenant controls and pays for their own heating.
+    a: Not usually. Each flat normally needs its own system. That way each tenant controls and pays for their own heating.
 related:
   - { label: Linwood, href: /linwood/, text: Heat pumps for Linwood homes and units to the east. }
   - { label: Central City, href: /central-business-district-cbd/, text: Apartments and townhouses just across the avenues. }
@@ -29,40 +29,40 @@ related:
 
 ## Heat pump installation for Phillipstown housing
 
-Most Phillipstown homes are modest in size, so the heat pump decision is about choosing one unit well rather than adding several. Get its capacity and position right and one unit in the living room carries most of the heating.
+Most Phillipstown homes are on the small side. So it's about picking one unit well, not adding several. Get the size and spot right and one living room unit does most of the heating.
 
-- **Small older cottages** lose heat through the ceiling, floor and windows, so the living room unit needs capacity for that loss. We check the insulation before we settle on a size.
-- **Blocks of single-storey units and flats** have shared walls that help keep heat in, so they need less capacity per room.
-- **Newer townhouses on redeveloped sites** are better sealed and need the least capacity of the three, though bedrooms on a second level may want a small unit of their own.
+- **Small older cottages.** These lose heat through the ceiling, floor and windows. The living room unit needs enough capacity to cover that. We check the insulation before we pick a size.
+- **Blocks of single-storey units and flats.** The shared walls help hold the heat in. So they need less capacity per room.
+- **Newer townhouses.** These are on redeveloped sites. They're better sealed and need the least capacity of the three. Bedrooms on a second level may want their own small unit, though.
 
-The suburb sits east of the Central City, between the city and Linwood, on flat streets with mostly modest sections. We aim to put the outdoor unit on a wall near the living room, which keeps the pipe run short. If the home is a rental, the healthy homes standard sets the minimum heating.
+Phillipstown sits east of the Central City, between town and Linwood. The streets are flat and most sections are modest. We aim to put the outdoor unit on a wall near the living room. That keeps the pipe run short. If it's a rental, the healthy homes standard sets the minimum heating.
 
 ## Heat pumps for a Phillipstown rental
 
-A heat pump can meet the heating requirement for a Phillipstown rental. The healthy homes heating standard requires one or more fixed heaters that can directly heat the main living room, and heat pumps qualify. The heater has to have enough capacity for that room, and [Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) provides a heating assessment tool to work out the figure.
+Yes, a heat pump can meet the heating rule for a Phillipstown rental. The healthy homes heating standard asks for one or more fixed heaters that can directly heat the main living room. Heat pumps qualify. The heater needs enough capacity for that room. [Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) has a heating assessment tool to work out the figure.
 
-What that means when we quote:
+Here's what that means when we quote:
 
-- **We size the unit to the main living room**, using its floor area, ceiling height, windows and insulation, then check the result against the assessment tool.
-- **We put the indoor unit where it heats that room directly**, not in a hallway or a neighbouring room.
-- **We give you the model and capacity in writing**, which helps with your own compliance records.
+- **We size for the main living room.** We use its floor area, ceiling height, windows and insulation. Then we check our figure against the assessment tool.
+- **We put the indoor unit where it heats that room directly.** Not in a hallway or the room next door.
+- **We give you the model and capacity in writing.** That helps with your own compliance records.
 
-Owner-occupiers can use the same approach. The assessment tool is a sound starting point for any lounge.
+Owner-occupiers can do the same. The assessment tool is a good starting point for any lounge.
 
 ## Phillipstown units and flats
 
-Older single-storey units here often have one main living space with a kitchen off it and one or two bedrooms. A single wall unit placed to throw heat into the living room and along toward the bedroom door works in a lot of them. Shared walls help keep heat in.
+Older single-storey units here often have one main living space with a kitchen off it. Then one or two bedrooms. In lots of them, a single wall unit works well. It's placed to throw heat into the living room and along toward the bedroom door. The shared walls help hold the heat.
 
-Outdoor units on a block need thought. With several flats side by side, units on one shared wall can add up to more noise at the boundary. We space them, mount them on anti-vibration feet and check the neighbour's side against the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/).
+Outdoor units on a block take some thought. With several flats side by side, units on one shared wall can add up to more noise at the boundary. We space them out and mount them on anti-vibration feet. Then we check the neighbour's side against the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/).
 
 ## Heat pump installs, service and repair in Phillipstown
 
-In Phillipstown we install new systems, service existing units for owners and landlords, and repair faults:
+Here's what we do in Phillipstown:
 
-- **New installs**, mainly [single-room systems](/single-room-heat-pump-installation/) for living areas, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing** of existing units in owner-occupied and rental homes. See [servicing](/maintenance-servicing/).
-- **Repairs** across the major brands, including Panasonic. See [repairs](/heat-pump-repair/).
+- **New installs.** Mostly [single-room systems](/single-room-heat-pump-installation/) for living areas, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Servicing.** Existing units in owner-occupied homes and rentals. See [servicing](/maintenance-servicing/).
+- **Repairs.** All the major brands, Panasonic included. See [repairs](/heat-pump-repair/).
 
-Our nearby areas include [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
+Nearby, we work in [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
 
-Call **03 242 1023** or use the form to get a fixed-price quote for your Phillipstown property.
+Call **03 242 1023** or use the form for a fixed-price quote on your Phillipstown property.

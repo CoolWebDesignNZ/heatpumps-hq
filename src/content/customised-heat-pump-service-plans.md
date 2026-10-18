@@ -5,20 +5,20 @@ keyword: heat pump service plan
 secondary: [heat pump maintenance plan, annual heat pump service, heat pump maintenance contract]
 h1: A heat pump service plan set around your home
 serviceName: Heat pump service plans
-intro: A service plan is a schedule for your heat pumps, worked out for the systems you have and how hard they work. We agree when each visit falls and the price per visit before the first one.
+intro: A service plan is a schedule for your heat pumps. We work it out from the systems you have and how hard they work. Before the first visit, we agree when each one falls and what each one costs.
 hero: plans-hero
 gallery: [plans-multi-unit, plans-rental]
 faqHeading: "Heat pump service plan questions"
 relatedHeading: "More on heat pump maintenance"
 faqs:
   - q: How does a heat pump service plan work?
-    a: We look at each heat pump you have, how much it runs and what it lives with, then agree a schedule of visits and a fixed price per visit. Each visit follows the same service checklist, and you get a note of what we found.
+    a: We look at each heat pump you've got. How much it runs. What it lives with. Then we agree a schedule of visits and a fixed price for each one. Every visit follows the same checklist. You get a note of what we found.
   - q: Is an annual heat pump service enough?
-    a: For a single unit with normal use, a yearly service is usually right. Units that run most of the day, homes with pets or allergy sufferers, coastal homes and dusty rural sites can need more frequent visits.
+    a: For one unit with normal use, once a year is usually right. Some need more visits. Units that run most of the day. Homes with pets, or someone with allergies. Homes by the coast. Dusty rural spots.
   - q: Do I have to sign a maintenance contract?
-    a: There's no long contract. The plan is an agreed schedule and price per visit, which you can change if your needs change.
+    a: There's no long contract. The plan is just an agreed schedule and a price per visit. You can change it if your needs change.
   - q: Do landlords have to maintain heat pumps in rentals?
-    a: Tenancy Services says landlords are responsible for maintaining heaters, and tenants clean accessible filters. Where tools or technical knowledge are needed, the landlord generally has to arrange it. See the <a href="https://www.tenancy.govt.nz/maintenance-and-inspections/heating-and-ventilation/">Tenancy Services guidance</a>.
+    a: Tenancy Services says landlords look after heaters. Tenants clean the filters they can reach. If the job needs tools or know-how, the landlord generally has to arrange it. See the <a href="https://www.tenancy.govt.nz/maintenance-and-inspections/heating-and-ventilation/">Tenancy Services guidance</a>.
 related:
   - { label: What a service visit includes, href: /heat-pump-servicing/, text: The checklist every planned visit follows. }
   - { label: Heat pump maintenance, href: /maintenance-servicing/, text: What you do between visits. }
@@ -27,45 +27,45 @@ related:
 
 ## Who a heat pump service plan suits
 
-A plan is useful when keeping track of servicing is the hard part. That tends to mean:
+A plan helps when keeping track of servicing is the hard part. That's usually:
 
-- **Homes with several units.** A multi-room or ducted setup, plus a wall unit in the garage or sleepout, is easy to lose track of.
-- **Landlords and property managers.** One schedule across one rental or several, with a record of each visit.
-- **Households with allergies or asthma.** Cleaner coils and filters matter more when someone reacts to dust and mould. More on [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
-- **Heat pumps that work hard.** Units heating a home office all day, or cooling bedrooms all summer.
-- **Holiday homes and baches.** Units that sit idle for months and need checking before the house is used.
+- **Homes with several units.** Say a multi-room or ducted setup, plus a wall unit in the garage or sleepout. It's easy to lose track.
+- **Landlords and property managers.** One schedule for one rental or many. A record of each visit.
+- **Homes with allergies or asthma.** Clean coils and filters matter more when someone reacts to dust and mould. See [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
+- **Hard-working heat pumps.** A unit heating a home office all day. Or cooling bedrooms all summer.
+- **Holiday homes and baches.** Units that sit idle for months. They need a check before you use the place.
 
-If you have one unit and remember to book each year, you probably don't need a plan. A yearly [heat pump service](/heat-pump-servicing/) does the job.
+Got one unit and remember to book each year? You probably don't need a plan. A yearly [heat pump service](/heat-pump-servicing/) does the job.
 
 ## How we set your heat pump maintenance plan
 
-There's no set menu of plans. We work it out from the systems in front of us:
+There's no set menu. We work it out from what's in front of us.
 
-1. **What you have.** The number of indoor and outdoor units, their brands and ages, and whether any are ducted or floor console.
-2. **How they're used.** Heating only, heating and cooling, all day or evenings only.
-3. **What they live with.** Pets shed into filters. Salt air from the coast corrodes outdoor coils. Gravel driveways and paddocks put dust into everything. Kitchens put grease into nearby units.
+1. **What you have.** How many indoor and outdoor units. Their brands and ages. Whether any are ducted or floor console.
+2. **How you use them.** Heating only, or heating and cooling. All day, or just evenings.
+3. **What they live with.** Pets shed into filters. Salt air off the sea eats outdoor coils. Gravel drives and paddocks get dust into everything. Kitchens get grease into nearby units.
 4. **Who lives there.** Babies, older people and anyone with breathing problems are reasons to service more often.
 
-From that we agree how often each unit is serviced and which time of year suits. A heating-only home might have one visit before winter. A home that cools all summer might have a second visit in spring.
+Then we agree how often each unit gets done, and what time of year suits. A home that only heats might have one visit before winter. A home that cools all summer might add a second visit in spring.
 
 ## What a heat pump maintenance contract costs
 
-We agree a fixed price per visit before the first visit. It's based on the same things that set the cost of any service: the number of units, the type of system, how easy each unit is to reach and its condition. If a visit turns up a part that needs replacing, we tell you the price for that separately and nothing is done without your say.
+We agree a fixed price per visit before the first one. It's set by the same things as any service. How many units. What type of system. How easy each one is to get at. What shape it's in. If we find a part that needs replacing, we price it separately. Nothing gets done without your OK.
 
 ## What each planned visit includes
 
-Each planned visit follows our full service checklist: filters, indoor coil, fan wheel, drain tray and line, outdoor coil and base, electrical connections, and a test run in heating and cooling. Each step is explained under [heat pump servicing](/heat-pump-servicing/).
+Every visit follows our full service checklist. Filters. Indoor coil. Fan wheel. Drain tray and line. Outdoor coil and base. Electrical connections. Then a test run in heating and cooling. We go through each step under [heat pump servicing](/heat-pump-servicing/).
 
-After each visit you get a short note per unit of what was done and anything we'd keep an eye on. Over a few years that becomes a useful record of how each unit is ageing.
+After each visit you get a short note for each unit. It says what we did and anything we'd keep an eye on. Over a few years, that builds into a handy record of how each unit is ageing.
 
 ## Service plans for landlords
 
-Tenancy Services guidance says landlords are responsible for maintaining heaters and ventilation systems, while tenants must keep accessible filters reasonably clean. Where technical knowledge or tools are needed, or the filters are hard to reach, the landlord is generally required to maintain the device. Read the [Tenancy Services heating and ventilation guidance](https://www.tenancy.govt.nz/maintenance-and-inspections/heating-and-ventilation/).
+Tenancy Services says landlords are responsible for maintaining heaters and ventilation. Tenants must keep the filters they can reach reasonably clean. If the job needs know-how or tools, or the filters are hard to reach, the landlord generally has to do it. Read the [Tenancy Services heating and ventilation guidance](https://www.tenancy.govt.nz/maintenance-and-inspections/heating-and-ventilation/).
 
-A plan gives you a dated record for each unit, which is handy when tenants change or a question about heating comes up. We can arrange access directly with the tenant, on a weekday between 8am and 5pm.
+A plan gives you a dated record for each unit. That's handy when tenants change, or when a question about heating comes up. We can sort out access with the tenant ourselves, on a weekday between 8am and 5pm.
 
 ## Looking after the heat pump between planned visits
 
-Filters still need a wash every few weeks in heavy use, and the outdoor unit needs a clear space around it. The jobs you can do yourself are listed under [heat pump maintenance](/maintenance-servicing/).
+You still need to wash the filters every few weeks when it's working hard. Keep a clear space round the outdoor unit too. The jobs you can do yourself are under [heat pump maintenance](/maintenance-servicing/).
 
-To set up a service plan, call **03 242 1023** or [request a quote](/contact-us/). Tell us how many units you have and where, and we'll suggest a schedule.
+To set up a service plan, call **03 242 1023** or [ask for a quote](/contact-us/). Tell us how many units you have and where they are. We'll suggest a schedule.

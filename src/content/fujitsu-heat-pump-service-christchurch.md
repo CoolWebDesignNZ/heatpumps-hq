@@ -5,20 +5,20 @@ keyword: fujitsu heat pump repair
 secondary: [fujitsu heat pump service, fujitsu air conditioner repair, fujitsu heat pump service christchurch]
 h1: Fujitsu heat pump repair and service in Christchurch
 serviceName: Fujitsu heat pump repair and servicing
-intro: We install, service and repair Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton, including the newer units sold under the General Airstage name. We find the fault, then give you a fixed price to fix it.
+intro: We fit, service and fix Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton. That includes the newer units sold as General Airstage. We find the fault first. Then you get a fixed price for the fix.
 hero: fujitsu-hero
 gallery: [fujitsu-1, fujitsu-2]
 faqHeading: Fujitsu heat pump service questions
 relatedHeading: More on Fujitsu care and choosing a brand
 faqs:
   - q: Is Fujitsu now called General?
-    a: In New Zealand, yes. Fujitsu General now trades as GENERAL, and its heat pumps are sold as General Airstage, which its New Zealand website describes as formerly Fujitsu. We service and repair both older Fujitsu-badged units and the newer General Airstage ones.
+    a: In New Zealand, yes. Fujitsu General now trades as GENERAL. Its heat pumps are sold as General Airstage, and its New Zealand website calls them formerly Fujitsu. We look after both the older Fujitsu units and the newer General Airstage ones.
   - q: Do you repair Fujitsu air conditioners as well as heat pumps?
-    a: Yes. A Fujitsu split system heats and cools with the same unit, so a Fujitsu air conditioner repair and a heat pump repair are the same job. We fix faults in either mode.
+    a: Yes. A Fujitsu split system heats and cools with the same unit. So fixing a Fujitsu air conditioner is the same job as fixing the heat pump. We'll sort faults on heat or on cool.
   - q: Why is my Fujitsu heat pump's timer light flashing?
-    a: A flashing light on the indoor unit usually means it has detected a fault and stored a code. The meaning depends on the model, so note the pattern and the model number, and check the manual or call us.
+    a: A flashing light on the indoor unit usually means it has found a fault and saved a code. What it means depends on the model. Note the pattern and the model number. Then check the manual, or give us a ring.
   - q: Should I get a Fujitsu heat pump serviced every year?
-    a: Yes, for most homes. A yearly service before winter keeps it heating properly, and cleaning the filters yourself every few weeks in winter helps between services.
+    a: Yes, for most homes. A yearly service before winter keeps it heating well. Between services, clean the filters yourself every few weeks in winter.
 related:
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: Filters, coils, drains and a performance check. }
   - { label: Leaks and drips, href: /leak-detection-repair/, text: Water or refrigerant leaking from a heat pump. }
@@ -27,48 +27,54 @@ related:
 
 ## Fujitsu, General and Airstage
 
-Fujitsu heat pumps are now sold in New Zealand as **General Airstage**, because Fujitsu General has changed its trading name here to GENERAL. Its residential range is described on the [GENERAL New Zealand website](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) as formerly Fujitsu.
+In New Zealand, Fujitsu heat pumps are now sold as **General Airstage**. Fujitsu General changed its trading name here to GENERAL. The [GENERAL New Zealand website](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) describes its home range as formerly Fujitsu.
 
-For repairs and servicing, nothing changes. A unit badged Fujitsu and a newer one badged General are the same company's products, and we install, service and repair both.
+None of that changes repairs or servicing. A unit with a Fujitsu badge and a newer one badged General come from the same company. We fit, service and fix both.
 
 ## Fujitsu heat pumps we service and repair
 
-We service and repair each of these Fujitsu heat pump types:
+We look after every one of these Fujitsu types:
 
-- **Wall-mounted splits** in living rooms and bedrooms
-- **Floor and ceiling consoles**, where a high wall isn't practical
-- **Multi-split systems**, with two or more indoor units sharing one outdoor unit
-- **Ducted systems**, with ceiling or floor vents through the house. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
+- **Wall-mounted splits:** in lounges and bedrooms
+- **Floor and ceiling consoles:** where a high wall won't work
+- **Multi-split systems:** two or more indoor units sharing one outdoor unit
+- **Ducted systems:** ceiling or floor vents through the house. Read about [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
 ## Fujitsu heat pump repair
 
-The signs that a Fujitsu needs a repair are much the same as any heat pump: the unit stops, a light on the indoor unit flashes, the heating fades, water drips, or a new noise starts. What matters is finding the cause rather than treating the symptom.
+A Fujitsu that needs fixing shows the same signs as any heat pump. It stops. A light on the indoor unit flashes. The heat fades, water drips, or a new noise starts. The job is to find the cause, not just treat the symptom.
 
-We read any stored fault, then test the parts it points to: sensors, fans, the control board, the wiring between the units and the refrigerant circuit. If the fault is a part, we tell you what it is, whether it's in stock, and what the repair costs before any work. If it's something you can avoid next time, like a blocked filter or a drain hose that has sagged, we'll show you.
+We read any saved fault first. Then we test the parts it points to. That means the sensors, fans and control board. It also means the wiring between the units, and the gas circuit.
 
-[Fault finding](/heat-pump-troubleshooting/) lists everything we check.
+If a part has failed, we'll tell you which one. We'll say if it's in stock and what the repair costs, before we start. Sometimes it's something you can stop next time, like a blocked filter or a sagging drain hose. If so, we'll show you. [Fault finding](/heat-pump-troubleshooting/) lists everything we check.
 
 ## Fujitsu air conditioner repair
 
-Plenty of people call their Fujitsu an air conditioner, and in summer it is one. Cooling faults often show up the first hot week of the year: a drain that blocked while the unit was heating all winter starts dripping, or an outdoor unit choked with leaves can't shed heat. A unit that cools but drips is usually a drain fault. One that runs but won't cool is more often airflow or refrigerant. Both get the same test-first approach.
+Lots of people call their Fujitsu an air conditioner. In summer, that's what it is. Cooling faults often turn up in the first hot week of the year. A drain that blocked over a winter of heating starts to drip. An outdoor unit choked with leaves can't get rid of heat.
+
+If it cools but drips, it's usually the drain. If it runs but won't cool, it's more likely airflow or gas. We test first either way.
 
 ## Fujitsu heat pump service
 
-A service keeps a Fujitsu running at the output it was sized for. Our service includes:
+A service keeps your Fujitsu putting out the heat it was sized for. Here's what's in it:
 
-- washing the filters and cleaning the indoor coil and fan
-- clearing and testing the drain
-- cleaning the outdoor coil and clearing space around the unit
-- a performance check in heating and cooling
+- **Indoors:** we wash the filters and clean the coil and fan
+- **Drain:** we clear it and test it
+- **Outdoors:** we clean the coil and clear space round the unit
+- **Output:** we check it on heat and on cool
 
-See [heat pump servicing](/maintenance-servicing/) for the full details. If the unit smells when it starts, it needs a deeper [clean](/heat-pump-cleaning/) of the coil and fan.
+The full details are under [heat pump servicing](/maintenance-servicing/). Does it smell when it starts? Then the coil and fan need a deeper [clean](/heat-pump-cleaning/).
 
 ## Fujitsu Wi-Fi control
 
-GENERAL's anywAiR Wi-Fi Adaptor II works with a select range of General Airstage units, including the Lifestyle wall mounted series, and connects them to the myanywAiR Next app. Older Fujitsu units may use a different adaptor and app, so check the model before buying anything. For Wi-Fi control across the brands, see [smart heat pump systems](/smart-heat-pump-systems/).
+GENERAL makes the anywAiR Wi-Fi Adaptor II. It works with a select range of General Airstage units, including the Lifestyle wall mounted series. It links them to the myanywAiR Next app.
+
+Older Fujitsu units may use a different adaptor and app. Check your model before you buy anything. For Wi-Fi control on every brand, read about [smart heat pump systems](/smart-heat-pump-systems/).
 
 ## Repair or replace a Fujitsu heat pump
 
-A Fujitsu in good condition with a failed sensor, fan or board is usually worth repairing. If the compressor has failed on an older unit, or parts are hard to get, we'll price a replacement as well. Because we install General Airstage, Mitsubishi Electric, Daikin and Toshiba, you can compare a straight swap with the other options, all sized for your rooms rather than matched to the old unit.
+If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usually worth fixing. If the compressor has gone on an older unit, we'll price a replacement too. We'll do the same if parts are hard to get.
 
-To book a Fujitsu heat pump repair or service in Christchurch, call **03 242 1023**.
+We fit General Airstage, Mitsubishi Electric, Daikin and Toshiba. So you can weigh a straight swap against the other options. Each one is sized for your rooms, not matched to the old unit.
+
+To book a Fujitsu repair or service in Christchurch, call **03 242 1023**.

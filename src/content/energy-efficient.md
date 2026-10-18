@@ -4,7 +4,7 @@ description: "Want an energy efficient heat pump? How label stars, sizing, insta
 keyword: energy efficient heat pump
 secondary: [heat pump energy efficiency, most energy efficient heat pump, energy efficient heating]
 h1: What makes an energy efficient heat pump
-intro: A heat pump's efficiency comes from four places, the unit itself, how it is sized, how it is installed and how you run it. A high rated unit that's the wrong size, in the wrong spot, run the wrong way, wastes power.
+intro: How efficient your heat pump is comes down to four things. The unit itself. Its size. How it's fitted. How you run it. Get one wrong and even a high rated unit wastes power.
 hero: efficient-hero
 updated: 2026-10-17
 gallery: [efficient-filter, efficient-curtains]
@@ -12,13 +12,13 @@ faqHeading: Questions about heat pump energy efficiency
 relatedHeading: More on energy efficient heating
 faqs:
   - q: Which is the most energy efficient heat pump?
-    a: There's no single answer. Efficiency is rated against other heat pumps of a similar capacity, so compare the Cold zone heating stars on the energy label for units of the size your room needs. A highly rated unit that is too big or too small for the room won't run at its best.
+    a: There isn't one answer. Efficiency is rated against heat pumps of a similar capacity. So compare the Cold zone heating stars on the energy label, for units the size your room needs. A high rated unit that's too big or too small won't run at its best.
   - q: Are heat pumps more efficient than other electric heaters?
-    a: Yes. A plain electric heater turns each unit of electricity into the same amount of heat. A heat pump moves heat in from outside, so it delivers more heat than the electricity it uses. EECA's star ratings for heat pumps start at seasonal performance factors of 2.5 to 3 for a one star model.
+    a: Yes. A plain electric heater turns each unit of power into the same amount of heat. A heat pump moves heat in from outside. So you get more heat out than the power it uses. EECA's star ratings start with a seasonal performance factor of 2.5 to 3 for a one star model.
   - q: What temperature should I set my heat pump to?
-    a: Set it to the temperature you actually want in the room and leave it there. Turning it up high doesn't heat the room faster; it just runs longer and overshoots. Each extra degree you ask for means more power.
+    a: Set it to the temperature you want in the room, and leave it there. Turning it right up won't heat the room any faster. It just runs longer and overshoots. Every extra degree costs more power.
   - q: Does running a heat pump all day use more power than switching it on and off?
-    a: It depends on the house and how long you're out. In a well insulated home, a steady setting can use less than reheating a cold house from scratch. In a draughty house left empty all day, a timer that brings it on before you get home usually makes more sense.
+    a: It depends on your house and how long you're out. In a well insulated home, a steady setting can use less than heating a cold house from scratch. In a draughty house that's empty all day, a timer is usually better. Set it to come on before you get home.
 related:
   - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: Reading the stars and kWh figures on the label. }
   - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: What decides how much power your heat pump uses. }
@@ -27,52 +27,52 @@ related:
 
 ## Why a heat pump is more energy efficient than a heater
 
-A heat pump moves heat from the outdoor air into the house rather than making it, so it puts out more heat than the electricity it uses. An electric fan heater or panel heater turns electricity directly into heat, one for one. A heat pump uses its electricity to run a compressor and fans that do the moving.
+A heat pump doesn't make heat. It moves it from the outside air into your house. That's why it puts out more heat than the power it uses. A fan heater or panel heater turns power straight into heat, one for one. A heat pump spends its power running a compressor and fans, and they do the moving.
 
-EECA's label guidance gives a sense of the scale. A one star heat pump on the Zoned Energy Rating Label has a heating seasonal performance factor of between 2.5 and 3, and a three star unit between 4.5 and 5 ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). In plain terms, even a poorly rated heat pump gives around two and a half to three times the heat per unit of power of a resistive heater, and a well rated one does better again.
+EECA's label guidance shows how big the gap is. On the Zoned Energy Rating Label, a one star heat pump has a heating seasonal performance factor of 2.5 to 3. A three star unit sits between 4.5 and 5 ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Put simply, a low rated heat pump still gives about two and a half to three times the heat of a plain heater, for the same power. A well rated one does better again.
 
 ## 1. The unit and its inverter
 
-How efficient a heat pump can be starts with the unit itself: the compressor, the size of the coils, the fans and how well it runs at part load, which is where the inverter comes in. Modern inverter heat pumps slow down and speed up to match the heat the room needs instead of running flat out and stopping.
+Efficiency starts with the unit. The compressor matters, and so do the coil size and the fans. So does how well it runs at part load, and that's the inverter's job. A modern inverter heat pump speeds up and slows down to match what the room needs. It doesn't run flat out and then stop.
 
-To compare models, use the heating stars in the Cold zone on the energy label, which is where all of New Zealand sits. Stars compare a unit with others of similar capacity, so compare a 6 kW unit with other 6 kW units. [How to read the energy rating label](/energy-star-heat-pumps/) goes through each part of it.
+To compare models, use the heating stars in the Cold zone on the energy label. All of New Zealand sits in that zone. Stars rank a unit against others of a similar capacity. So put a 6 kW unit up against other 6 kW units. We go through every part of the label in [how to read the energy rating label](/energy-star-heat-pumps/).
 
 ## 2. The size of the heat pump
 
-A correctly sized heat pump spends most of its time running gently, which is how inverter units are designed to work. An undersized unit runs flat out on cold mornings and still can't keep up. An oversized one reaches temperature quickly, then runs in short bursts.
+A heat pump that's the right size runs gently most of the time. That's how inverter units are meant to work. One that's too small runs flat out on cold mornings and still can't keep up. One that's too big hits temperature fast, then runs in short bursts.
 
-We [size every install](/heat-pump-sizing/) from the rooms, the insulation, the windows and how the house is used.
+We [size every install](/heat-pump-sizing/) from your rooms, insulation and windows, and how you use the house.
 
 ## 3. How it is installed
 
-A well chosen unit can lose efficiency through a poor install:
+A good unit can lose efficiency through a poor install. Here's what we watch:
 
-- **Indoor unit position.** High on a wall where it can throw air across the room, not tucked behind a beam or into a corner where the warm air short-circuits back to its own sensor.
-- **Outdoor unit position.** In open air, raised clear of the ground, with space at the back and sides and nothing in front of the fan. A boxed-in unit recirculates its own cold air.
-- **Pipe runs.** Kept as short and tidy as the house allows, insulated, and within the manufacturer's limits.
-- **Commissioning.** The system tested in heating and cooling once it's running, so any problem shows up on day one.
+- **Indoor unit:** high on a wall, where it can throw air across the room. Not behind a beam or in a corner, where warm air loops straight back to its own sensor.
+- **Outdoor unit:** in open air and up off the ground. It needs room at the back and sides, and nothing in front of the fan. Box it in and it breathes its own cold air.
+- **Pipes:** as short and tidy as the house allows. Insulated, and inside the maker's limits.
+- **Commissioning:** we test it on heat and on cool once it's running. That way any problem shows up on day one.
 
 ## 4. Settings that keep your heating energy efficient
 
-How you set the heat pump makes a real difference to how efficiently it heats, and to your power bill:
+How you set the heat pump makes a real difference. It changes how well it heats, and what you pay:
 
-- **Pick a set temperature and leave it.** Turning it up to 30°C won't warm the room faster.
-- **Use heat mode, not auto, in winter.** Auto can switch to cooling on a sunny afternoon.
-- **Fan on auto.** The unit matches airflow to the load.
-- **Close doors and curtains.** Heat a room, not the hallway, and keep warmth in once the sun goes down.
-- **Use the timer.** Have it come on before you get home or get up, rather than leaving it on all day in an empty house or blasting a cold one.
-- **Clean the filters.** Every few weeks in winter. Blocked filters cut airflow and make the unit work harder for the same heat.
+- **Set temperature:** pick one and leave it. Turning it up to 30°C won't warm the room any faster.
+- **Mode:** use heat, not auto, in winter. Auto can switch to cooling on a sunny afternoon.
+- **Fan:** leave it on auto. The unit matches the airflow to the room.
+- **Doors and curtains:** close them. Heat the room, not the hall, and hold the warmth in after dark.
+- **Timer:** have it come on before you get home or get up. Don't leave it running in an empty house, or blast a cold one.
+- **Filters:** clean them every few weeks in winter. Blocked filters cut airflow, so the unit works harder for the same heat.
 
 ## How the house affects heat pump energy efficiency
 
-A heat pump in a house with no ceiling insulation is heating the roof space. Insulation, draught stopping, thermal curtains and sealing gaps around doors and windows reduce how much heat the room needs, so the heat pump can be smaller and run less. If you're planning insulation work, do it before you size a heat pump, not after.
+With no ceiling insulation, your heat pump is heating the roof space. Insulation helps. So do draught stopping, thermal curtains and sealing gaps round doors and windows. They all cut how much heat the room needs. Then the heat pump can be smaller and run less. Planning insulation work? Do it before we size a heat pump, not after.
 
 ## Keeping it efficient over the years
 
-Efficiency drops slowly as a heat pump gets dirty. Dust on the indoor coil and fan, a dirty outdoor coil, or a refrigerant charge that's slowly leaking all mean the unit runs longer for the same heat. A yearly [heat pump service](/heat-pump-servicing/) puts it back to where it should be.
+A heat pump loses efficiency slowly as it gets dirty. Dust builds up on the indoor coil and fan. The outdoor coil gets grubby. Sometimes the gas slowly leaks out. Each of these means the unit runs longer for the same heat. A yearly [heat pump service](/heat-pump-servicing/) gets it back to where it should be.
 
-If your heat pump is old, here's [how to tell whether a new unit would pay off](/heat-pump-efficiency-upgrades/).
+Got an old heat pump? Here's [how to tell if a new unit would pay off](/heat-pump-efficiency-upgrades/).
 
 ## Get a quote for an energy efficient heat pump
 
-For an energy efficient heat pump sized for your home, call **03 242 1023** or [request a free fixed-price quote](/contact-us/).
+Want an efficient heat pump sized for your home? Call **03 242 1023** or [ask for a free fixed-price quote](/contact-us/).

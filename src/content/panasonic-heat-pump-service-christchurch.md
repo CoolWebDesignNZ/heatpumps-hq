@@ -5,20 +5,20 @@ keyword: panasonic heat pump repair
 secondary: [panasonic heat pump service, panasonic air conditioner repair, panasonic heat pump christchurch]
 h1: Panasonic heat pump repair and service in Christchurch
 serviceName: Panasonic heat pump repair and servicing
-intro: We service and repair Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. We don't sell or install Panasonic, so if a unit is past saving, we'll say so plainly and quote a replacement from the brands we do install.
+intro: We service and fix Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. We don't sell or fit Panasonic. So if yours is past saving, we'll tell you straight. Then we'll quote a new one from the brands we do fit.
 hero: panasonic-hero
 gallery: [panasonic-1, panasonic-2]
 faqHeading: Panasonic heat pump questions
 relatedHeading: More on repairs and replacement
 faqs:
   - q: Do you install Panasonic heat pumps?
-    a: No. We service and repair Panasonic, but the brands we install are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
+    a: No. We service and fix Panasonic, but we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
   - q: Do you repair Panasonic air conditioners?
-    a: Yes. A Panasonic split system that heats and cools is the same unit whatever it's called, and we repair faults in heating or cooling mode.
+    a: Yes. A Panasonic split system that heats and cools is the same unit, whatever you call it. We'll fix faults on heat or on cool.
   - q: Can you get parts for an older Panasonic?
-    a: For many models, yes. For some older ones parts can be hard to find. We check availability before quoting, so you know whether the repair can actually go ahead.
+    a: For lots of models, yes. Some older ones can be hard to find parts for. We check before we quote. That way you know if the repair can actually go ahead.
   - q: My Panasonic heat pump is flashing a light. Is it broken?
-    a: The unit has detected something and stopped or limited itself. Note which light is flashing and the model number, switch it off at the remote, and call us. Don't keep resetting it.
+    a: It has picked up a problem and stopped or held itself back. Note which light is flashing, and the model number. Turn it off at the remote and call us. Don't keep resetting it.
 related:
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: What a repair visit involves on any brand. }
   - { label: Parts replacement, href: /heat-pump-parts-replacement/, text: Fans, sensors, boards and other parts we replace. }
@@ -27,49 +27,53 @@ related:
 
 ## Panasonic heat pumps we service and repair
 
-We service and repair Panasonic heat pumps whoever put them in, and many were installed by another company or a previous owner. We work on:
+We'll look after your Panasonic no matter who fitted it. A lot of them were put in by another company, or by the last owner. We work on:
 
-- **Wall-mounted split systems**, the standard single-room unit
+- **Wall-mounted splits:** the usual single-room unit
 - **Floor consoles**
-- **Multi-split systems**, with one outdoor unit serving several rooms
+- **Multi-split systems:** one outdoor unit serving several rooms
 - **Ducted systems**
 
-It doesn't matter when the unit went in. We look at each one fresh.
+It doesn't matter when yours went in. We look at each one with fresh eyes.
 
 ## Panasonic heat pump repair
 
-The usual reasons a Panasonic needs us are the same as other brands: it has stopped with a flashing light, it's blowing cool air in heat mode, water is coming down the wall, or a new noise has started. Each of those has several possible causes, so we test before we quote.
+People call us about a Panasonic for the same reasons as any brand. It's stopped and a light is flashing. It's blowing cool air on heat. Water is running down the wall. Or a new noise has started. Each of these has more than one possible cause. So we test before we quote.
 
-Our process:
+Here's how it goes:
 
-1. **Read the fault.** If the unit has stored a code, we read it using the service information for that model.
-2. **Test the system.** Power and wiring, sensors, fans, the control board, drainage and the refrigerant circuit all get checked in [fault finding](/heat-pump-troubleshooting/).
-3. **Price the fix.** You get a fixed price before any work, along with whether the part is available.
-4. **Repair and test.** The unit is run in heating and cooling before we leave.
+1. **We read the fault.** If the unit has saved a code, we read it with the service information for that model.
+2. **We test the system.** In [fault finding](/heat-pump-troubleshooting/) we check the power and wiring, sensors, fans and control board. We check the drain and the gas circuit too.
+3. **We price the fix.** You get a fixed price before we start. We'll also tell you if the part is available.
+4. **We fix it and test it.** We run it on heat and on cool before we go.
 
 ## Panasonic air conditioner repair
 
-A Panasonic that cools well in summer and heats poorly in winter, or the reverse, can still have a single cause such as a refrigerant leak or a failing valve. One that drips only in summer usually has a drain problem, since the indoor unit only makes water when cooling or drying. See [leak detection and repair](/leak-detection-repair/) for both.
+Say your Panasonic cools well in summer but heats poorly in winter, or the other way round. That can still be one fault, like a gas leak or a valve on its way out.
+
+If it only drips in summer, it's usually the drain. The indoor unit only makes water when it's cooling or drying. We cover both under [leak detection and repair](/leak-detection-repair/).
 
 ## Panasonic heat pump service
 
-Regular servicing matters on any heat pump, and an older Panasonic is no exception. A service with us includes:
+Every heat pump needs regular servicing. An older Panasonic is no different. Our service covers:
 
-- filters washed, and the indoor coil and fan cleaned
-- drain tray and hose cleared and tested
-- the outdoor unit's coil cleaned and the space around it cleared
-- a run in heating and cooling to check its output
+- **Indoors:** we wash the filters and clean the coil and fan
+- **Drain:** we clear the tray and hose and test them
+- **Outdoors:** we clean the coil and clear the space round the unit
+- **Output:** we run it on heat and cool to check what it's putting out
 
-That is our standard [servicing](/maintenance-servicing/). A sour or musty smell on start-up needs [heat pump cleaning](/heat-pump-cleaning/) as well.
+That's our standard [servicing](/maintenance-servicing/). If there's a sour or musty smell at start-up, it'll need [heat pump cleaning](/heat-pump-cleaning/) too.
 
 ## Parts for Panasonic heat pumps
 
-Fan motors, sensors and control boards are common replacement parts on any brand. On older Panasonic units some of those can become hard to source. We check availability before we quote any [parts replacement](/heat-pump-parts-replacement/), so you're not left with a half-finished repair waiting on a part that doesn't exist.
+Fan motors, sensors and control boards are parts we replace a lot, on every brand. On older Panasonic units, some can get hard to track down. We check before we quote any [parts replacement](/heat-pump-parts-replacement/). You won't be stuck with a half-done repair, waiting on a part that doesn't exist.
 
 ## When to replace a Panasonic heat pump
 
-If the compressor has failed on an older Panasonic, parts can't be found, or the unit is running an older refrigerant and keeps needing work, a new heat pump is usually the better spend. Because we don't install Panasonic, our replacement quote will be a Mitsubishi Electric, Daikin, Fujitsu or Toshiba unit. We size it from the room, the insulation, the windows and how you use the space, not just from the size of the old unit.
+Sometimes a new heat pump is the better spend. That's when the compressor has failed on an older Panasonic. Or when parts can't be found. Or when it runs on an older gas and keeps needing work.
 
-If you're weighing it up, start with [choosing a heat pump](/choosing-heat-pump/) and a [brand comparison](/heat-pump-brands-comparison/) of the four we install.
+We don't fit Panasonic. So our quote for a new unit will be a Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We size it from the room, the insulation and the windows, and how you use the space. We don't just go by the size of the old one.
 
-To book a Panasonic heat pump repair or service, call **03 242 1023**.
+Weighing it up? Start with [choosing a heat pump](/choosing-heat-pump/), then look at our [brand comparison](/heat-pump-brands-comparison/) of the four we fit.
+
+To book a Panasonic repair or service, call **03 242 1023**.

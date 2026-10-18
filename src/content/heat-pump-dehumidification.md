@@ -5,20 +5,20 @@ keyword: heat pump dehumidifier
 secondary: [heat pump dry mode, dehumidifier heat pump, heat pump dehumidify]
 h1: Using your heat pump as a dehumidifier
 serviceName: Heat pump dehumidification setup
-intro: Most split system heat pumps have a dry mode that pulls moisture out of the room air. It works well in the right conditions and poorly in others. Here is how to tell the difference.
+intro: Most split system heat pumps have a dry mode. It pulls moisture out of the room air. In the right conditions it works well. In others it doesn't. Here's how to tell which is which.
 hero: dehumid-hero
 gallery: [dehumid-remote, dehumid-condensation]
 faqHeading: "Heat pump dehumidifier questions"
 relatedHeading: "More on heat pump modes and moisture"
 faqs:
   - q: Does a heat pump dehumidify?
-    a: Yes. In cooling and dry mode the indoor coil is cold, and moisture in the air condenses on it and drains away outside. Dry mode is set up to remove moisture while cooling the room as little as possible.
+    a: Yes. In cooling and dry mode, the indoor coil is cold. Moisture in the air turns to water on it and drains away outside. Dry mode is set up to take out moisture while cooling the room as little as it can.
   - q: Is heat pump dry mode good in winter?
-    a: Not usually in a Christchurch winter. Dry mode cools the coil, so it doesn't heat the room, and on a cold day the room gets cooler. Heating the room in heat mode, with good ventilation to let damp air out, is the better winter approach.
+    a: Not usually in a Christchurch winter. Dry mode cools the coil. It doesn't heat the room. On a cold day, the room just gets cooler. In winter, heat the room in heat mode. Let damp air out with good airflow.
   - q: Is a heat pump better than a dehumidifier?
-    a: They do different jobs. A heat pump in dry mode suits a warm, muggy room. A portable dehumidifier keeps removing moisture in cool rooms and can be moved to the room with the damp problem.
+    a: They do different jobs. Heat pump dry mode suits a warm, muggy room. A portable dehumidifier keeps pulling moisture in cool rooms. You can also move it to the room with the damp.
   - q: Where does the water go in dry mode?
-    a: Down the same drain line used in cooling, usually to the outside wall or a drain. If water drips inside instead, the drain is blocked or the unit isn't level.
+    a: Down the same drain line it uses for cooling. That's usually to the outside wall or a drain. Water dripping inside instead? The drain is blocked, or the unit isn't level.
 related:
   - { label: Heat pump smells, href: /heat-pump-deodorising/, text: Musty smells after running dry mode. }
   - { label: Allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: Damp, dust and sensitive lungs. }
@@ -27,58 +27,58 @@ related:
 
 ## How heat pump dry mode works
 
-A heat pump moves heat using a refrigerant loop. In cooling, the indoor coil gets cold. Warm room air passes over the cold fins, and the moisture in it condenses into water, the same way a cold drink bottle gets wet on the outside. That water runs into the drain tray and out through the drain line.
+A heat pump moves heat with a refrigerant loop. When it cools, the indoor coil gets cold. Warm room air passes over the cold fins. The moisture in it turns to water. It's like a cold drink bottle getting wet on the outside. That water runs into the drain tray and out the drain line.
 
-Dry mode uses that effect on purpose. The indoor fan runs slowly so air spends longer on the cold coil, and the unit cycles its cooling on and off to limit how much the room temperature drops. The result is drier air with a smaller drop in temperature than full cooling.
+Dry mode uses that on purpose. The indoor fan runs slowly, so the air spends longer on the cold coil. The unit turns its cooling on and off to stop the room getting too cold. You end up with drier air, and less of a temperature drop than full cooling.
 
-You'll find it on the mode button, usually shown as "Dry" or a water droplet.
+It's on the mode button. Usually it says "Dry" or shows a water droplet.
 
 ## When to dehumidify with your heat pump
 
-Dry mode is worth using when the air is warm and damp:
+Use dry mode when the air is warm and damp.
 
-- **Muggy summer days.** Warm, humid weather after rain, when a room feels sticky rather than hot.
-- **Closed-up rooms in warm weather.** A spare room or sleepout that smells stale in summer.
-- **After cooking or showering in warmer months.** As a short boost alongside opening windows and running extractor fans.
+- **Muggy summer days.** Warm, humid weather after rain. The room feels sticky more than hot.
+- **Shut-up rooms in warm weather.** A spare room or sleepout that smells stale in summer.
+- **After cooking or showers in the warmer months.** As a short boost. Open windows and run extractor fans too.
 
 ## When dry mode doesn't help
 
-Dry mode doesn't help in the cold, against damp coming from the building, or in rooms the unit doesn't serve:
+It won't help in the cold. It won't beat damp coming from the building. And it won't reach rooms the unit doesn't serve.
 
-- **Cold winter days.** Dry mode can't heat. In a cold room it makes things cooler, and the coil may struggle to pull much water from cold air.
-- **Persistent damp from the building.** A wet subfloor, a leaking roof or a bathroom with no extraction will keep putting moisture back. No heat pump setting fixes the source.
+- **Cold winter days.** Dry mode can't heat. In a cold room it makes things cooler. The coil may also struggle to pull much water from cold air.
+- **Damp from the building.** A wet subfloor, a leaking roof or a bathroom with no fan will keep putting moisture back. No heat pump setting fixes the source.
 - **Rooms away from the unit.** It only treats the air in the space the indoor unit serves.
 
 ## Heat pump or dehumidifier?
 
-Use heat pump dry mode for a warm, humid room the unit serves, and a portable dehumidifier for cold rooms, indoor washing and rooms with no heat pump.
+Dry mode suits a warm, humid room the heat pump serves. A portable dehumidifier suits cold rooms, washing dried inside, and rooms with no heat pump.
 
 | Situation | Better choice |
 | --- | --- |
 | Warm, humid room with a heat pump | Heat pump dry mode |
-| Cold, damp bedroom in winter | Heat the room, ventilate, and add a portable dehumidifier if it stays damp |
-| Washing dried indoors | Portable dehumidifier near the washing |
+| Cold, damp bedroom in winter | Heat the room, let air through, and add a portable dehumidifier if it stays damp |
+| Washing dried inside | Portable dehumidifier near the washing |
 | A room with no heat pump | Portable dehumidifier |
 
-In winter, keeping rooms warm and letting damp air out is what keeps condensation down. Tenancy Services' advice on [mould and dampness](https://www.tenancy.govt.nz/maintenance-and-inspections/mould-and-dampness/) is that a dry, well-aired home is easier to heat and healthier, and it suggests opening windows, using extractor fans and wiping condensation off windows.
+In winter, warm rooms and letting damp air out keep condensation down. Tenancy Services has advice on [mould and dampness](https://www.tenancy.govt.nz/maintenance-and-inspections/mould-and-dampness/). It says a dry, well aired home is easier to heat and healthier. It suggests opening windows, using extractor fans and wiping condensation off windows.
 
 ## Dry mode and musty smells
 
-Dry mode leaves the indoor coil wet. If the coil and fan are dirty, that's when mould grows and smells start. After running dry mode, let the unit dry itself if it has that setting, or run it in fan mode for a short while. If it already smells musty, it needs a [deodorising clean](/heat-pump-deodorising/).
+Dry mode leaves the indoor coil wet. If the coil and fan are dirty, that's when mould grows and smells start. After dry mode, let the unit dry itself if it has that setting. If not, run it on fan for a short while. Already smells musty? It needs a [deodorising clean](/heat-pump-deodorising/).
 
 ## What we do to keep dry mode working
 
-On a service or a dedicated visit we:
+On a service, or a visit just for this, we:
 
-1. **Check dry mode works.** The unit runs in dry mode while we confirm the coil gets cold and water collects in the tray.
-2. **Check the drain.** Dry mode puts water through the drain for hours. We flush the tray and line and make sure the outlet is clear and running to the right place.
-3. **Clean the coil if needed.** A clean coil removes moisture better and doesn't add smells.
-4. **Show you the settings.** Which mode to use in which weather, how the timer helps, and whether your model has a coil-drying function.
+1. **Check dry mode works.** We run it on dry. We make sure the coil gets cold and water collects in the tray.
+2. **Check the drain.** Dry mode sends water through the drain for hours. We flush the tray and line. We make sure the outlet is clear and running to the right place.
+3. **Clean the coil if it needs it.** A clean coil pulls out more moisture. It doesn't add smells.
+4. **Show you the settings.** Which mode for which weather. How the timer helps. Whether your model has a coil-drying setting.
 
-If your home stays damp whatever you do, we can talk you through what a heat pump can and can't do there, and whether [air quality testing](/air-quality-testing/) would help. In homes where someone has breathing problems, read about [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
+Home stays damp whatever you do? We can talk you through what a heat pump can and can't do there. And whether [air quality testing](/air-quality-testing/) would help. If someone at home has breathing problems, read about [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
 
 ## Dry mode on different heat pump brands
 
-Dry mode is on most split systems we work with, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. The way it behaves differs between models, so your owner's manual is the final word on your unit.
+Most split systems we work on have dry mode. That includes Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. It works a bit differently from model to model. Your owner's manual has the final word on your unit.
 
-Call **03 242 1023** to have your heat pump's dry mode checked and set up, or [request a quote](/contact-us/).
+Call **03 242 1023** to get your heat pump's dry mode checked and set up, or [ask for a quote](/contact-us/).

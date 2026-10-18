@@ -5,20 +5,20 @@ keyword: heat pump parts
 secondary: [heat pump remote replacement, heat pump spare parts, heat pump fan motor]
 h1: Heat pump parts and replacement in Christchurch
 serviceName: Heat pump parts replacement
-intro: Many heat pump faults come down to one failed part. We identify it, find the right replacement for your make and model, and fit it, with the price agreed before anything is ordered.
+intro: Lots of heat pump faults come down to one broken part. We find it. We get the right one for your make and model. Then we fit it. You agree the price before we order anything.
 hero: parts-hero
 gallery: [parts-fan-motor, parts-board]
 faqHeading: "Heat pump parts questions"
 relatedHeading: "More on heat pump repairs and parts"
 faqs:
   - q: Can I get a replacement heat pump remote?
-    a: Usually, yes. A replacement remote from the manufacturer for your model is the safest choice, because it has every function your unit supports. Universal remotes cover the basics on some units but can miss modes and timer functions. Have the model number from the indoor unit's label ready.
+    a: Usually, yes. A new remote from the maker for your model is the safest bet. It does everything your unit can do. Universal remotes cover the basics on some units. They can miss modes and timer functions, though. Have the model number from the indoor unit's label handy.
   - q: How do I find my heat pump's model number?
-    a: There's a label on the side of the indoor unit, often under the front panel, and another on the outdoor unit. Take a photo of both. It saves a trip and gets the right part ordered first time.
+    a: There's a label on the side of the indoor unit, often under the front panel. There's another on the outdoor unit. Take a photo of both. It saves a trip, and we order the right part first time.
   - q: Are parts still available for older heat pumps?
-    a: For many models, yes. For older units, especially those using older refrigerants, some parts become hard to get. We'll tell you if a part isn't available, and if that makes replacement the better option.
+    a: For lots of models, yes. Some parts get hard to find for older units. Most of all for ones on older refrigerants. We'll tell you if a part isn't available. And whether that makes a new unit the better choice.
   - q: What are the signs of a failing fan motor?
-    a: The fan runs slowly, hums without turning, makes a grinding or squealing noise, or stops while the rest of the unit keeps running. On the outdoor unit, the unit may shut down with an error code.
+    a: The fan runs slowly. Or it hums but doesn't turn. Or it grinds or squeals. Or it stops while the rest of the unit keeps going. On the outdoor unit, it may shut down with an error code.
 related:
   - { label: Heat pump repair, href: /heat-pump-repair/, text: Fault finding before any part is ordered. }
   - { label: Leak detection and repair, href: /leak-detection-repair/, text: When the fault is refrigerant, not a part. }
@@ -27,56 +27,56 @@ related:
 
 ## Heat pump parts we replace
 
-We replace controllers, fan motors, sensors, control boards, louvre motors, condensate pumps, filters, fan blades, feet, brackets and pipe insulation. A heat pump is a set of parts that can each fail on their own:
+A heat pump is a set of parts. Each one can fail on its own. Here's what we replace.
 
-**Remote controllers and wall controllers.** Lost, dropped, chewed by the dog, or just stopped working. Wall-mounted controllers on ducted systems fail too.
+**Remotes and wall controllers.** Lost, dropped, chewed by the dog, or just dead. Wall controllers on ducted systems fail too.
 
-**Fan motors.** The indoor fan motor turns the barrel fan that blows air into the room. The outdoor fan motor pulls air through the outdoor coil. Worn bearings, burnt windings and seized motors are all reasons to replace.
+**Fan motors.** The indoor one turns the barrel fan that blows air into the room. The outdoor one pulls air through the outdoor coil. Worn bearings, burnt windings and seized motors all mean a new one.
 
-**Sensors.** Temperature sensors read the room air, the coil and the pipes. A faulty sensor can stop the unit heating, cause it to stop and start, or trigger an error code.
+**Sensors.** These read the temperature of the room air, the coil and the pipes. A bad sensor can stop it heating. It can make it stop and start, or throw an error code.
 
-**Control boards.** The circuit boards in the indoor and outdoor units run everything. Power surges, water getting in and age can all damage them.
+**Control boards.** The circuit boards in each unit run everything. Power surges, water getting in and age can all damage them.
 
-**Louvre motors.** The small motors that swing the louvres up and down. When one fails, the louvres stick or won't open.
+**Louvre motors.** Small motors that swing the louvres up and down. When one goes, the louvres stick or won't open.
 
-**Condensate pumps.** Units that can't drain by gravity, such as some floor consoles and ducted systems, use a small pump to lift the water away. When the pump fails, water backs up and leaks.
+**Condensate pumps.** Some units can't drain by gravity. Some floor consoles and ducted systems are like this. They use a small pump to lift the water away. If it fails, water backs up and leaks.
 
-**Filters.** Torn mesh filters and spent deodorising or allergen filters.
+**Filters.** Torn mesh filters. Worn-out deodorising or allergen filters.
 
-**Fan blades and wheels.** Cracked or chipped blades cause vibration and noise.
+**Fan blades and wheels.** Cracked or chipped blades make it shake and rattle.
 
-**Feet, brackets and pipe insulation.** Perished anti-vibration feet, corroded brackets and sun-damaged pipe lagging.
+**Feet, brackets and pipe lagging.** Perished rubber feet. Rusty brackets. Sun-damaged lagging.
 
 ## How we find the right heat pump spare parts
 
-The right spare part starts with the right diagnosis, then the exact model number:
+First the right diagnosis. Then the exact model number.
 
-1. **Find the fault first.** A part is only replaced once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair, and guessing wastes your money. That diagnosis is the same first step we take on any [heat pump repair](/heat-pump-repair/).
-2. **Read the model number.** Every brand uses different parts across its models, even when the units look the same.
-3. **Source the part.** We order parts to suit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other brands sold in New Zealand.
-4. **Price it before we order.** You get a fixed price for the part and fitting. If the part is expensive compared with the age and value of the unit, we'll say so.
-5. **Fit and test.** The part goes in, and the unit runs in heating and cooling to confirm the fault is gone.
+1. **Find the fault first.** We only replace a part once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair. Guessing wastes your money. It's the same first step we take on any [heat pump repair](/heat-pump-repair/).
+2. **Read the model number.** Every brand uses different parts across its models. Even when the units look the same.
+3. **Get the part.** We order parts for Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Plus most other brands sold in New Zealand.
+4. **Price it before we order.** You get a fixed price for the part and fitting. If the part costs a lot for the age and value of the unit, we'll say so.
+5. **Fit and test.** We put the part in. Then we run it in heating and cooling to make sure the fault's gone.
 
-Any electrical work, including connecting a new board or motor, is done by a licensed electrical worker.
+A licensed electrical worker does any electrical work. That includes connecting a new board or motor.
 
 ## Genuine heat pump parts or alternatives?
 
-For boards, sensors and motors we use parts made for your model. They're designed to work with the unit's control software and protections. For simple items such as anti-vibration feet, pipe insulation and some brackets, a good-quality general part does the job and we'll tell you when that's the case.
+For boards, sensors and motors, we use parts made for your model. They're built to work with the unit's software and safety cut-outs. For simple things, a good general part does the job. Rubber feet, pipe lagging and some brackets are like that. We'll tell you when it is.
 
-Remotes are the one place people often ask about universal options. They can work, but check what you'll lose: some modes, the timer, or settings such as quiet mode and economy functions.
+Remotes are where people often ask about universal ones. They can work. Check what you'd lose, though. Some modes. The timer. Settings like quiet mode and economy.
 
 ## When a part isn't the answer
 
-Sometimes the failed part is the compressor, or the unit has several parts wearing out at once, or the refrigerant it uses is no longer easy to buy. Then the cost of parts can approach the cost of a new unit. We'll give you the repair price and, if it's close, a price to [replace the heat pump](/heat-pump-installation-in-christchurch/), so you can compare.
+Sometimes the broken part is the compressor. Sometimes several parts are wearing out at once. Or the unit's refrigerant is now hard to buy. Then the parts can cost close to a new unit. We'll give you the repair price. If it's close, we'll also price a [new heat pump](/heat-pump-installation-in-christchurch/). Then you can compare.
 
-If the problem is refrigerant leaking rather than a failed part, see [leak detection and repair](/leak-detection-repair/).
+If it's leaking refrigerant, not a broken part, see [leak detection and repair](/leak-detection-repair/).
 
 ## Before you call about a heat pump part
 
-Three details help us find the right part faster:
+Three things help us find the right part faster.
 
-- Note the model numbers from the indoor and outdoor labels.
-- Write down any error code or the pattern of flashing lights.
-- Tell us what the unit is doing: not starting, running but not heating, noisy, leaking.
+- The model numbers from the indoor and outdoor labels.
+- Any error code, or the pattern of flashing lights.
+- What it's doing. Not starting? Running but not heating? Noisy? Leaking?
 
-Call **03 242 1023** for heat pump parts and fitting, or [request a quote](/contact-us/).
+Call **03 242 1023** for heat pump parts and fitting, or [ask for a quote](/contact-us/).

@@ -4,7 +4,7 @@ description: "Heat pump regulations in NZ explained: when building consent appli
 keyword: heat pump regulations nz
 secondary: [heat pump building consent, does a heat pump need consent, heat pump building code]
 h1: Heat pump regulations in NZ, and when you need consent
-intro: Installing a heat pump in a New Zealand home touches four sets of rules, building consent, electrical safety, product labelling and, for rentals, the Healthy Homes standards. Noise at the boundary is a fifth.
+intro: "Four sets of rules cover a heat pump in a New Zealand home. There's building consent and electrical safety. There's product labelling. And if it's a rental, there's the Healthy Homes standard. Noise at the boundary makes five."
 hero: compliance-hero
 updated: 2026-10-17
 gallery: [compliance-certificate, compliance-switchboard]
@@ -12,13 +12,13 @@ faqHeading: "Questions about the heat pump building code"
 relatedHeading: "More on heat pump rules and building consent"
 faqs:
   - q: Do I need building consent to put in a heat pump?
-    a: In Christchurch, no. Christchurch City Council says fixed electric space heaters, including heat pumps, do not require building consent, but they must be installed by registered electricians who certify their own work. If you're outside Christchurch, check with your own council.
+    a: Not in Christchurch. The council says fixed electric heaters, heat pumps included, don't need building consent. They do have to be put in by registered electricians who certify their own work. Outside Christchurch, check with your own council.
   - q: What paperwork should I get after a heat pump install?
-    a: A Certificate of Compliance for the electrical work. WorkSafe says electricians must issue one for fixed wiring work, and that you should keep it, because it may be needed for insurance claims or when selling your home.
+    a: A Certificate of Compliance for the electrical work. WorkSafe says electricians must issue one for fixed wiring work. Keep it. You may need it for an insurance claim or when you sell.
   - q: Is there a building code rule about how far a heat pump must be from the boundary?
-    a: Not in Christchurch. The District Plan controls heat pumps through noise limits at the neighbouring property rather than a set distance. The Christchurch figures are listed under <a href="/heat-pump-boundary-rules-consent-nz/">heat pump boundary rules</a>.
+    a: Not in Christchurch. The District Plan doesn't set a distance. It sets noise limits at the neighbour's property instead. The Christchurch figures are under <a href="/heat-pump-boundary-rules-consent-nz/">heat pump boundary rules</a>.
   - q: Do landlords have to install a heat pump?
-    a: Not specifically a heat pump. Under the Healthy Homes heating standard, a rental needs one or more fixed heaters that can directly heat the main living room and meet its required capacity. In larger living rooms, a heat pump is often the practical option, because other electric heaters can't be used once the required capacity is over 2.4 kW.
+    a: Not a heat pump as such. The Healthy Homes heating standard asks for one or more fixed heaters that can directly heat the main living room and meet its required capacity. In a bigger living room, a heat pump is often the practical choice. That's because other electric heaters can't be used once the required capacity is over 2.4 kW.
 related:
   - { label: Boundary rules and noise, href: /heat-pump-boundary-rules-consent-nz/, text: District Plan noise limits and where to put the outdoor unit. }
   - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: The label every new heat pump must carry. }
@@ -27,7 +27,7 @@ related:
 
 ## Heat pump regulations in NZ at a glance
 
-Five sets of rules touch a heat pump in a New Zealand home, and each one is set by a different body:
+Five sets of rules apply to a heat pump in a New Zealand home. A different body sets each one.
 
 | Area | What applies | Who sets it |
 | --- | --- | --- |
@@ -39,55 +39,55 @@ Five sets of rules touch a heat pump in a New Zealand home, and each one is set 
 
 ## Does a heat pump need building consent?
 
-No. A heat pump doesn't need building consent in Christchurch. The council's guidance is direct: fixed electric space heaters, including heat pumps, do not require building consent, but they must be installed by registered electricians who certify their own work.
+No, not in Christchurch. The council is clear on this. Fixed electric heaters, heat pumps included, don't need building consent. But a registered electrician has to put them in and certify their own work.
 
-That's different from other heating. The same council guidance says you must get building consent to install or move a solid or liquid fuel heater such as a wood burner, and that systems using reticulated water, such as radiators or underfloor heating connected to the drinking water supply, also need consent.
+Other heating is different. The same guidance says a wood burner or other solid or liquid fuel heater needs consent to put in or move. So do radiators or underfloor heating that run off the drinking water supply.
 
 Source: [Christchurch City Council, building and renovation projects](https://ccc.govt.nz/building-and-renovation-projects).
 
-If your home is in Selwyn, Waimakariri or another district, check with that council. A heat pump water heater for hot water is a different product with its own consent rules, and isn't covered here.
+Live in Selwyn, Waimakariri or another district? Check with your council. A heat pump water heater is a different product. It has its own consent rules, and we don't cover it here.
 
-Even without consent, an install has to be sound. Brackets fixed into framing, wall penetrations sealed against weather, condensate drained away properly and pipework supported are all part of doing the job right.
+No consent doesn't mean anything goes. The job still has to be done properly. Brackets go into framing. Holes through the wall get sealed against the weather. Condensate drains away. Pipework is supported.
 
 ## Electrical work and the Certificate of Compliance
 
-Wiring in a heat pump has to be done by a licensed electrical worker, who gives you a Certificate of Compliance at the end, because the unit connects to the house's fixed wiring. WorkSafe's guidance for homeowners says:
+A heat pump connects to your home's fixed wiring. So a licensed electrical worker has to wire it in. They give you a Certificate of Compliance when they're done. Here's what WorkSafe tells homeowners:
 
-- Anyone other than a homeowner who carries out prescribed electrical work must be registered by the Electrical Workers Registration Board, and must hold a current practising licence if paid for the work.
-- Electricians must issue a **Certificate of Compliance (CoC)** for any fixed wiring work. It shows the work is electrically safe, meets the safety standards and has been tested.
-- Keep the CoC. It may be needed for insurance claims or when you sell.
-- Some work, such as on the main switchboard, main cable or main earth, must also be inspected by a licensed electrical inspector, which the electrician arranges.
+- **Who can do it:** anyone other than the homeowner doing prescribed electrical work must be registered with the Electrical Workers Registration Board. If they're paid, they need a current practising licence too.
+- **The certificate:** electricians must issue a **Certificate of Compliance (CoC)** for any fixed wiring work. It shows the work is safe, meets the standards and has been tested.
+- **Keep it:** you may need the CoC for an insurance claim or when you sell.
+- **Inspections:** some work needs a licensed electrical inspector as well. That includes the main switchboard, main cable or main earth. The electrician arranges it.
 
 Source: [WorkSafe, getting electrical work done](https://www.worksafe.govt.nz/managing-health-and-safety/consumers/safe-living-with-electricity/getting-electrical-work-done).
 
-On our installs, the electrical connection is done by a licensed electrical worker. Ask to see the practising licence of anyone wiring in a heat pump, and make sure you get the certificate at the end.
+On our jobs, a licensed electrical worker does the electrical connection. Whoever wires in your heat pump, ask to see their practising licence. And make sure you get the certificate at the end.
 
 ## Product rules: efficiency standards and the label
 
-Heat pumps sold in New Zealand must meet Minimum Energy Performance Standards and carry a mandatory energy label, regulated by EECA under the Energy Efficiency (Energy Using Products) Regulations 2002. Models new to the market since 1 July 2021 must display the Zoned Energy Rating Label ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). These rules sit with the supplier and retailer, not with you, but they mean every new unit has comparable stars and capacity figures. How to read them is explained under [energy rated heat pumps](/energy-star-heat-pumps/).
+Every heat pump sold in New Zealand must meet Minimum Energy Performance Standards. It must carry an energy label too. EECA regulates this under the Energy Efficiency (Energy Using Products) Regulations 2002. Models new to the market since 1 July 2021 must show the Zoned Energy Rating Label ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). These rules are for the supplier and the shop, not you. What they mean for you is that every new unit has stars and capacity figures you can compare. We explain how to read them under [energy rated heat pumps](/energy-star-heat-pumps/).
 
 ## Rentals: the Healthy Homes heating standard
 
-Under the Healthy Homes heating standard, a rental needs fixed heating in the main living room with enough capacity for that room. Tenancy Services sets out what a rental must provide:
+A rental needs fixed heating in the main living room. It has to have enough capacity for that room. Tenancy Services sets out the detail:
 
-- One or more **fixed** heaters that can directly heat the main living room, the largest room used for everyday living.
-- At least **1.5 kW** of heating capacity, and enough to meet the room's calculated minimum.
-- No open fires or unflued combustion heaters, such as portable LPG heaters.
-- A heat pump or electric heater must have a **thermostat**.
-- Electric heaters other than heat pumps can't be used where the required capacity is over **2.4 kW**, except as a top-up to qualifying heating installed before 1 July 2019.
+- **Fixed heating:** one or more **fixed** heaters that can directly heat the main living room. That's the largest room used for everyday living.
+- **Capacity:** at least **1.5 kW**, and enough to meet the room's calculated minimum.
+- **Banned heaters:** no open fires. No unflued combustion heaters, like portable LPG heaters.
+- **Thermostat:** a heat pump or electric heater must have a **thermostat**.
+- **The 2.4 kW limit:** once the required capacity is over **2.4 kW**, you can't use electric heaters other than heat pumps. The exception is a top-up to qualifying heating put in before 1 July 2019.
 
-Source: [Tenancy Services, heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/). The required capacity can be calculated with the [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool).
+Source: [Tenancy Services, heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/). You can work out the required capacity with the [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool).
 
-If you're a landlord, run the tool first, then ask us to quote a heat pump that meets the figure. A [home energy assessment](/energy-efficiency-assessment/) starts from that figure.
+Landlords, run the tool first. Then ask us to quote a heat pump that meets the figure. A [home energy assessment](/energy-efficiency-assessment/) starts from that number.
 
 ## Noise and where the outdoor unit goes
 
-Christchurch has no fixed distance from the boundary for heat pumps. The District Plan sets noise limits measured at the neighbour's property, and those limits are tightest at night. The limits, the Selwyn and Waimakariri differences and how to place the outdoor unit are set out under [boundary rules and consent](/heat-pump-boundary-rules-consent-nz/).
+Christchurch doesn't set a distance from the boundary for heat pumps. The District Plan sets noise limits instead. They're measured at the neighbour's property, and they're tightest at night. We cover the limits, how Selwyn and Waimakariri differ, and where to put the outdoor unit under [boundary rules and consent](/heat-pump-boundary-rules-consent-nz/).
 
 ## Apartments, townhouses and body corporates
 
-If you own a unit title, the body corporate rules may control where an outdoor unit can go, how pipework runs on the exterior and whether you need approval first. Check the rules and get approval before booking an install. EECA's guidance notes that outdoor noise can matter more in body corporate situations where there may be specific requirements.
+Own a unit title? The body corporate rules may say where an outdoor unit can go. They may control how pipework runs on the outside, and whether you need approval first. Check the rules and get approval before you book. EECA's guidance notes that outdoor noise can matter more under a body corporate, where there may be specific requirements.
 
 ## Installing a heat pump within the regulations
 
-We install heat pumps across Christchurch, Selwyn and Lyttelton within these regulations, with the electrical connection by a licensed electrical worker. For a free fixed-price quote, phone **03 242 1023** or [contact us online](/contact-us/).
+We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. A licensed electrical worker does the electrical connection. For a free fixed-price quote, phone **03 242 1023** or [contact us online](/contact-us/).

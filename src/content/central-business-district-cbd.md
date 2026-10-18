@@ -7,20 +7,20 @@ h1: Heat pump installation in the Christchurch CBD and Central City
 serviceName: Heat pump installation, servicing and repair
 areaServed: Central City
 suburb: Central City
-intro: Heat pumps for apartments, townhouses and older cottages inside the four avenues. We plan around body corporate rules, small balconies and tight courtyards, and agree a fixed price first.
+intro: "Heat pumps for apartments, townhouses and older cottages inside the four avenues. We work round body corporate rules, small balconies and tight courtyards. We agree a fixed price first."
 hero: central-city-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in the CBD"
 relatedHeading: "More on heat pumps near the CBD"
 faqs:
   - q: Do I need body corporate approval for a heat pump in my apartment?
-    a: If the work affects common property or another unit, yes. Unit Titles Services says you must tell the body corporate and get written consent from it and any affected owners. An outdoor unit on an exterior wall or a hole through one will often fall into that. Check your building's rules before booking. See <a href="https://www.unittitles.govt.nz/unit-owners-responsibilities/">unit owner responsibilities</a>.
+    a: Yes, if the work affects common property or another unit. Unit Titles Services says you must tell the body corporate. You need written consent from it and from any affected owners. An outdoor unit on an outside wall, or a hole through one, often counts. Check your building's rules before you book. See <a href="https://www.unittitles.govt.nz/unit-owners-responsibilities/">unit owner responsibilities</a>.
   - q: Where does the outdoor unit go in an apartment with only a small balcony?
-    a: On the balcony floor on feet, on a wall bracket, or in a plant area if the building has one. It needs clear air in front of the coil and a way to drain defrost water without dripping onto the balcony below.
+    a: On the balcony floor on feet, on a wall bracket, or in a plant area if the building has one. It needs clear air in front of the coil. Defrost water needs somewhere to go too, without dripping onto the balcony below.
   - q: Are the noise rules different in the Central City?
-    a: Yes. The District Plan sets separate noise limits for the Central City, different from the suburban residential zones. How noise is measured, and how to place a unit, is explained under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
+    a: Yes. The District Plan has separate noise limits for the Central City. They're different from the suburban residential zones. We explain how noise is measured, and where to put a unit, under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
   - q: Can you service a heat pump that came with my apartment?
-    a: Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and most other brands sold in New Zealand.
+    a: Yes. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Most other brands sold in New Zealand too.
 related:
   - { label: Edgeware, href: /edgeware/, text: Heat pumps for the villas and townhouses just north of the avenues. }
   - { label: Sydenham, href: /sydenham/, text: Installs and servicing south of Moorhouse Avenue. }
@@ -29,41 +29,41 @@ related:
 
 ## Heat pump installation for CBD apartments and townhouses
 
-In a Central City apartment or townhouse, the heat pump has to cope with summer heat and very little outdoor space, not only with winter.
+In a Central City apartment or townhouse, winter's not the only challenge. The heat pump has to handle summer heat too. And there's very little room outside.
 
-- **Apartments and townhouses from the rebuild** are how most people live in the Central City. They are well sealed, double glazed and compact, so they hold heat and need less heating capacity than an older house of the same floor area. A north or west facing apartment with a wall of glass can get uncomfortably warm on a summer afternoon, so we size the unit for the cooling it has to do as well as the heating. In an open plan apartment, one high wall unit usually covers the lounge and kitchen.
-- **The older cottages that survived** lose far more heat through the ceiling, floor and windows, and their rooms close off from each other. They need more capacity per room, and the bedrooms usually need a unit of their own.
+- **Rebuild apartments and townhouses.** This is how most people live in the Central City. They're well sealed, double glazed and compact. They hold heat, so they need less capacity than an older house the same size. A north or west facing apartment with a wall of glass can get too hot on a summer afternoon. So we size for the cooling as well as the heating. In an open plan apartment, one high wall unit usually covers the lounge and kitchen.
+- **Older cottages that survived.** These lose far more heat through the ceiling, floor and windows. Their rooms close off from each other. They need more capacity per room. The bedrooms usually need their own unit.
 
-Before we quote, we note which way the glass faces, where an outdoor unit could physically sit, and what the body corporate allows.
+Before we quote, we check three things. Which way the glass faces. Where an outdoor unit could actually go. And what the body corporate allows.
 
 ## Body corporate rules come first in the Central City
 
-Check your body corporate rules before anything else, because an apartment or a unit-titled townhouse sits inside a set of building rules. Before we quote a final layout, find out what your body corporate allows. Questions worth asking:
+Start with your body corporate rules. An apartment or unit-titled townhouse sits inside a set of building rules. Find out what yours allows before we quote a final layout. Questions to ask:
 
-- Can an outdoor unit sit on the balcony, or does it have to go in a shared plant space?
-- Are there rules about equipment visible on the facade?
-- Does the building already have pipe routes or sleeves set aside for heat pumps?
+- **Balcony or plant room:** can an outdoor unit sit on the balcony, or must it go in a shared plant space?
+- **The facade:** are there rules about equipment you can see from outside?
+- **Pipe routes:** has the building already set aside routes or sleeves for heat pump pipes?
 
-[Unit Titles Services](https://www.unittitles.govt.nz/unit-owners-responsibilities/) is clear that work affecting the common property or another unit needs the body corporate told and written consent given. We can describe the proposed install in writing for your committee.
+[Unit Titles Services](https://www.unittitles.govt.nz/unit-owners-responsibilities/) is clear on this. Work that affects common property or another unit means telling the body corporate and getting written consent. We can describe the install in writing for your committee.
 
 ## Fitting a heat pump into a small city apartment
 
-Space drives every decision in a city apartment. The indoor unit usually goes high on the main living wall, where its air can reach the kitchen and lounge without blowing straight onto the couch. In a two-level townhouse, a small wall unit upstairs is worth considering for the bedrooms, though warm air rising from the ground floor helps them.
+In a city apartment, space drives every choice. The indoor unit usually goes high on the main living wall. From there, its air reaches the kitchen and lounge without blasting the couch. In a two-level townhouse, think about a small wall unit upstairs for the bedrooms. Warm air rising from downstairs helps them too.
 
-Outside, the coil needs room to breathe. A unit jammed into a balcony corner recirculates its own air and works harder. Defrost water has to go somewhere too, so we plan a drain line rather than letting it run across the balcony. 
+Outside, the coil needs room to breathe. Jam a unit into a balcony corner and it sucks its own air back in. Then it works harder. Defrost water has to go somewhere as well. We plan a drain line so it doesn't run across the balcony.
 
 ## Heat pump noise limits in the Central City
 
-The Christchurch District Plan sets its own noise limits for the Central City, separate from the suburbs. Apartments put bedrooms close together, and a unit outside your lounge may sit metres from someone else's window. We place the unit with the [noise rules at the boundary](/heat-pump-boundary-rules-consent-nz/) in mind.
+The Christchurch District Plan has its own noise limits for the Central City. They're separate from the suburbs. In apartments, bedrooms are close together. A unit outside your lounge might be metres from someone else's window. We place it with the [noise rules at the boundary](/heat-pump-boundary-rules-consent-nz/) in mind.
 
 ## Heat pump installs, service and repair in the CBD
 
-For Central City apartments and townhouses we install new units, clean and check the ones handed over with the building, and diagnose faults:
+Here's what we do for Central City apartments and townhouses:
 
-- **Installing** compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where outdoor space allows only one unit. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Cleaning and checking** units that were handed over with the apartment and may have had no attention since. A [service](/maintenance-servicing/) cleans the filters, coil and fan.
-- **Diagnosing faults** in apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
+- **Installs.** Compact wall units. Or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Cleaning and checks.** Units handed over with the apartment may not have been touched since. A [service](/maintenance-servicing/) cleans the filters, coil and fan.
+- **Fault finding.** Apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
 
 We also work in [Edgeware](/edgeware/), [Addington](/heat-pumps-addington/), [Sydenham](/sydenham/), [Phillipstown](/phillipstown/) and [Linwood](/linwood/).
 
-To book a quote for a Central City apartment or townhouse, call **03 242 1023** or send the form.
+For a quote on a Central City apartment or townhouse, call **03 242 1023** or send the form.

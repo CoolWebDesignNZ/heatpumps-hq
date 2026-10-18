@@ -7,20 +7,20 @@ h1: Heat pump installation in Heathcote Valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Heathcote Valley
 suburb: Heathcote Valley
-intro: We install, service and repair heat pumps in Heathcote Valley, from houses on the valley floor to homes high on the slopes. The price is agreed before any work begins.
+intro: We fit, service and fix heat pumps all over Heathcote Valley. That's houses on the valley floor and homes high on the slopes. We agree the price before we start.
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"
 relatedHeading: "More on heat pumps near Heathcote Valley"
 faqs:
   - q: Can the outdoor unit go on a deck instead of the ground?
-    a: Often, yes. On a sloping section a deck or a wall bracket can be the only level spot. We check the framing will carry the weight, fit anti-vibration mounts, and make sure defrost water drains away rather than pooling on the boards.
+    a: Often, yes. On a sloping section, a deck or a wall bracket can be the only level spot. We check the framing can take the weight. We fit anti-vibration mounts. And we make sure the defrost water drains away, not into a puddle on the boards.
   - q: Will one heat pump be enough for a house on the shady side of the valley?
-    a: Only if the house holds heat well. A well insulated home with an open living area may need only one unit. An older house that gets little winter sun usually needs more capacity, or a second unit for the bedrooms. Getting the <a href="/heat-pump-sizing/">heat pump size</a> right settles which.
+    a: Only if the house holds its heat well. A well insulated home with an open living area may need just one unit. An older house with little winter sun usually needs more capacity, or a second unit for the bedrooms. Getting the <a href="/heat-pump-sizing/">heat pump size</a> right tells you which.
   - q: Which council's rules apply in Heathcote Valley?
-    a: Christchurch City Council's, through its District Plan. That plan deals with heat pumps by limiting the <a href="/heat-pump-boundary-rules-consent-nz/">sound reaching next door</a>.
+    a: Christchurch City Council's, through its District Plan. The plan handles heat pumps by limiting the <a href="/heat-pump-boundary-rules-consent-nz/">sound reaching next door</a>.
   - q: Do you service heat pumps you didn't install?
-    a: Yes. Whoever fitted it, we can service or repair a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit, along with most other makes here.
+    a: Yes. Whoever fitted it, we can service or fix a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit. The same goes for most other makes in the valley.
 related:
   - { label: Ferrymead, href: /ferrymead/, text: Heat pumps for townhouses and homes by the estuary. }
   - { label: Lyttelton, href: /lyttelton/, text: Installs in older cottages on steep harbour sections. }
@@ -29,33 +29,33 @@ related:
 
 ## Heat pumps for Heathcote Valley homes on the floor and the slopes
 
-Two things decide the heat pump for a Heathcote Valley home: how much winter sun the house gets, and how well it holds heat. Heathcote Valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton, and the hills shade one side of the valley through winter.
+Two things decide the heat pump for a Heathcote Valley home. How much winter sun does the house get? And how well does it hold heat? The valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton. Through winter, the hills shade one side of it.
 
-- **Hillside homes rebuilt or heavily repaired after the earthquakes** tend to hold heat far better than the houses they replaced. One unit in the living area can often carry them, with a small second unit if the bedrooms are on another level.
-- **Older houses, especially on the shaded side,** lose more heat and get little sun to make up for it. They need more capacity in the living area, and usually separate heat for the bedrooms or a [multi-room system](/multi-room-heat-pump-installation/).
-- **Houses on level sections along the valley floor** have an easy outdoor spot beside the house on a pad or on raised feet.
-- **Homes that climb the slopes on either side**, with steep driveways, retaining walls and decks for outdoor living, more often take the outdoor unit on a wall bracket or a deck. We check that the structure can take it and that vibration won't travel through the floor into a bedroom.
+- **Hillside homes rebuilt or heavily repaired after the earthquakes.** These hold heat far better than the houses they replaced. One unit in the living area can often do the job. Add a small second unit if the bedrooms are on another level.
+- **Older houses, mainly on the shady side.** They lose more heat and get little sun to make up for it. The living area needs more capacity. The bedrooms usually need their own heat, or a [multi-room system](/multi-room-heat-pump-installation/).
+- **Houses on flat sections along the valley floor.** The outdoor unit has an easy spot beside the house, on a pad or raised feet.
+- **Homes climbing the slopes on either side.** Think steep driveways, retaining walls and decks. Here the outdoor unit more often goes on a wall bracket or a deck. We check the structure can take it. We also make sure vibration won't travel through the floor into a bedroom.
 
-At the quote we work out the heat load room by room and plan the outdoor spot and pipe route for your section.
+At the quote we work out the heat load room by room. Then we plan the outdoor spot and the pipe route for your section.
 
 ## Heat pumps for the shady side of Heathcote Valley
 
-The hills block the low winter sun, so one side of the valley sees much less direct light than the other through June and July. A house on the shaded side stays cooler all day and leans harder on its heating. We work out the heat load room by room, looking at insulation, glazing and which way the living areas face, rather than going by floor area alone. On the sunnier side, a heat pump may only need to carry the house through the evening and early morning.
+The hills block the low winter sun. Through June and July, one side of the valley gets far less direct light than the other. A house on the shady side stays cooler all day. It leans harder on its heating. So we work out the heat load room by room. We look at the insulation, the glazing and which way the living areas face. Floor area alone doesn't tell you enough. On the sunny side, a heat pump may only need to cover the evening and early morning.
 
 ## Heat pump installation on a sloping Heathcote Valley section
 
-On a hillside the tricky part is often the route between the two units. Refrigerant pipes, cable and the condensate drain all have to get from the indoor unit to the outdoor one, and on a split-level house that can mean going under a floor, through a garage or along a retaining wall. The condensate line also needs a steady fall to a drain or garden. We plan that route at the quote visit, so the fixed price covers the whole job.
+On a hillside, the tricky bit is often the route between the two units. The refrigerant pipes, the cable and the drain line all have to get from the indoor unit to the outdoor one. On a split-level house, that can mean going under a floor, through a garage or along a retaining wall. The drain line also needs a steady fall to a drain or the garden. We plan the route at the quote visit. That way the fixed price covers the whole job.
 
 ## What we do in Heathcote Valley
 
-- **New systems.** Single-room, [multi-room](/multi-room-heat-pump-installation/) and ducted installs from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **New systems.** Single-room, [multi-room](/multi-room-heat-pump-installation/) and ducted, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing.** A yearly [clean and check](/heat-pump-servicing/) keeps a hard-working valley unit efficient.
-- **Repairs.** Units that blow cold, leak or show a fault light get diagnosed and [repaired](/heat-pump-repair/).
+- **Repairs.** Blowing cold, leaking or showing a fault light? We find the fault and [fix it](/heat-pump-repair/).
 
-A licensed electrical worker wires in each new system.
+A licensed electrical worker wires in every new system.
 
 ## Around Heathcote Valley
 
 We also work in [Ferrymead](/ferrymead/), [Mount Pleasant](/mount-pleasant/), [Lyttelton](/lyttelton/) and across [greater Christchurch](/locations/).
 
-To book a free quote visit in Heathcote Valley, call **03 242 1023** or send us the form with a few details about your house.
+For a free quote visit in Heathcote Valley, call **03 242 1023** or send us the form with a few details about your house.

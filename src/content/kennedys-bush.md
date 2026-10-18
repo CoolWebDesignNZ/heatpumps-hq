@@ -7,20 +7,20 @@ h1: Heat pump installation in Kennedys Bush
 serviceName: Heat pump installation, servicing and repair
 areaServed: Kennedys Bush
 suburb: Kennedys Bush
-intro: We install, service and repair heat pumps in Kennedys Bush, on the hillside above Halswell. Steep driveways, brackets and exposed sites are all covered in the fixed price.
+intro: We fit, service and fix heat pumps in Kennedys Bush, up on the hill above Halswell. Steep driveways, brackets and exposed sites are all in the fixed price.
 hero: kennedys-bush-hero
 gallery: [pool-hill-home, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Kennedys Bush"
 relatedHeading: "More on heat pumps near Kennedys Bush"
 faqs:
   - q: Does a hillside home need a bigger heat pump?
-    a: Not because it's on a hill, but exposure to wind and large windows facing the view both increase heat loss. We size from the actual rooms and glazing, not a rule of thumb. Our <a href="/heat-pump-sizing/">sizing guide</a> shows what goes into the calculation.
+    a: Not just because it's on a hill. But wind and big windows facing the view both add to heat loss. We size from your actual rooms and glass, not a rule of thumb. Our <a href="/heat-pump-sizing/">sizing guide</a> shows what goes into the sum.
   - q: Can the outdoor unit go under the deck?
-    a: Sometimes, if there's enough height and open space around it for air to move and the defrost water can drain. A boxed-in spot under a low deck makes the unit work harder.
+    a: Sometimes. There has to be enough height and open space for air to move. The defrost water also needs somewhere to drain. Boxed in under a low deck, the unit has to work harder.
   - q: Is Kennedys Bush in Christchurch City?
-    a: Yes. The Christchurch District Plan's noise limits apply, measured at the neighbour's property.
+    a: Yes. So the Christchurch District Plan noise limits apply, measured at your neighbour's property.
   - q: Do you service heat pumps up on the hill?
-    a: Yes. Our hours are 8am to 5pm on weekdays, and we service every major brand.
+    a: Yes. We work 8am to 5pm on weekdays, and we service every major brand.
 related:
   - { label: Halswell, href: /halswell/, text: Heat pumps for Halswell homes below the hill. }
   - { label: Aidanfield, href: /aidanfield/, text: Installs and servicing in Aidanfield. }
@@ -29,42 +29,42 @@ related:
 
 ## Heat pump installation on the Kennedys Bush hillside
 
-A Kennedys Bush home loses heat faster than a house in a sheltered street, so the heat pump has to be sized for exposure and glass, and the outdoor unit placed on ground that's rarely level.
+A Kennedys Bush home loses heat faster than a house in a sheltered street. So the heat pump has to be sized for the exposure and the glass. And the outdoor unit has to go on ground that's hardly ever level.
 
-- **Modern houses built to take in views** across the plains toward the Southern Alps have large windows on the view side. That room's unit is sized from the area and direction of the glass, not the floor area alone.
-- **Two storey and split level homes** with living upstairs and bedrooms below need heat on each level, covered further down.
-- **Larger, sloping sections where outdoor living is on decks rather than lawn** leave the outdoor unit on a bracket, on the deck or under it, each with its own drain path.
+- **Homes built for the view.** Many look across the plains to the Southern Alps, with big windows on that side. We size that room's unit from how much glass there is and which way it faces. Floor area alone isn't enough.
+- **Two storey and split level homes.** Living is often upstairs, with bedrooms below. Each level needs heat, as set out further down.
+- **Sloping sections with decks instead of lawn.** The outdoor unit ends up on a bracket, on the deck or under it. Each spot needs its own drain path.
 
-Homes here spread along winding roads up the western Port Hills above Halswell, and driveways are often steep. At the quote we look at the access for the install and for later servicing, and price the brackets and pipe runs the site needs.
+Homes here line the winding roads up the western Port Hills above Halswell. Driveways are often steep. At the quote we check access for the install and for servicing later. Then we price the brackets and pipe runs your site needs.
 
 ## Wind, frost and big windows in Kennedys Bush
 
-Wind, frost and big windows all add to the heat a Kennedys Bush home loses. Wind across the hillside strips heat from a house faster than in a sheltered street below, and the large windows that frame the view lose warmth on clear winter nights. On frosty mornings the outdoor unit runs its defrost cycle regularly, so it needs to sit on a bracket or raised feet where the melt water can drain.
+Up here, three things pull heat out of a house. Wind across the hillside strips heat faster than in the streets below. The big windows that frame the view lose warmth on clear winter nights. And on frosty mornings the outdoor unit runs its defrost cycle often. It needs to sit on a bracket or raised feet so the melt water can drain away.
 
-We work out capacity from your rooms, the area and direction of the glass, the insulation and how exposed the site is. Our [sizing guide](/heat-pump-sizing/) explains the approach. A unit that's too small runs flat out on the coldest days; one that's too big costs more than it needs to.
+We work out capacity from your rooms, your glass and which way it faces. We also look at the insulation and how exposed the site is. Our [sizing guide](/heat-pump-sizing/) explains how. Too small, and the unit runs flat out on the coldest days. Too big, and it costs more than it needs to.
 
 ## Finding a spot for the outdoor unit in Kennedys Bush
 
-On a sloping section there's rarely a level patch of ground by the house. That leaves three likely spots:
+A sloping section rarely has a flat patch by the house. That leaves three likely spots:
 
-- **A wall bracket**, fixed into solid framing, with anti-vibration mounts.
-- **The deck**, if the framing can carry the weight and the unit won't sit right beside where you relax.
-- **Under the deck**, where there's enough height and open space for air to circulate.
+- **A wall bracket.** Fixed into solid framing, with anti-vibration mounts.
+- **The deck.** Only if the framing can take the weight, and the unit won't sit right where you relax.
+- **Under the deck.** Only if there's enough height and open space for air to move.
 
-Each choice affects the pipe route to the indoor unit and the condensate drain, which needs a steady fall. We plan both at the quote visit and include them in the fixed price.
+Each choice changes the pipe route to the indoor unit. It also changes the drain line, which needs a steady fall. We plan both at the quote and include them in the fixed price.
 
 ## Heating larger homes in Kennedys Bush
 
-Some Kennedys Bush houses are two storeys or split level, with living areas upstairs for the view and bedrooms below. Heat rises, so a unit in the upstairs living area may leave the lower floor cool. Separate units on each level, a [multi-room system](/multi-room-heat-pump-installation/) or a ducted system where the roof space allows can all solve that.
+Some Kennedys Bush houses are two storeys or split level. The living areas are often upstairs for the view, with bedrooms below. Heat rises. A unit in the upstairs living area can leave the lower floor cool. There are three fixes. You can have a unit on each level, or a [multi-room system](/multi-room-heat-pump-installation/). If the roof space allows, a ducted system works too.
 
-Sound carries on a hillside, so we keep the outdoor unit away from the neighbour's deck and bedroom windows. Kennedys Bush is in Christchurch City, so the District Plan's noise rules apply. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers them.
+Sound carries on a hillside. So we keep the outdoor unit away from your neighbour's deck and bedroom windows. Kennedys Bush is in Christchurch City, which means the District Plan noise rules apply. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers them.
 
 ## Heat pumps we fit and service in Kennedys Bush
 
-On the hill we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps. Units already in place, including Panasonic and most other makes, can be serviced or [repaired](/heat-pump-repair/).
+On the hill we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Got a unit already? We can service or [repair](/heat-pump-repair/) Panasonic and most other makes too.
 
 ## Around Kennedys Bush
 
-We also cover [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Tai Tapu](/tai-tapu/).
+We also work in [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Tai Tapu](/tai-tapu/).
 
-To arrange a free quote in Kennedys Bush, call **03 242 1023** or send us the form with your address.
+For a free quote in Kennedys Bush, call **03 242 1023** or send us the form with your address.

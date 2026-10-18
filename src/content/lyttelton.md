@@ -7,7 +7,7 @@ h1: Heat pump installation for Lyttelton cottages and homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lyttelton
 suburb: Lyttelton
-intro: We come through the tunnel to install, service and repair heat pumps in Lyttelton, including older cottages on steep, narrow sections. Every job has a fixed price agreed first.
+intro: We come through the tunnel to fit, service and fix heat pumps in Lyttelton. Old cottages on steep, narrow sections are no problem. We agree a fixed price on every job first.
 hero: lyttelton-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: Questions about heat pumps in Lyttelton
@@ -16,11 +16,11 @@ faqs:
   - q: Is Lyttelton part of your service area?
     a: Yes. We cover Christchurch, Selwyn and Lyttelton, Monday to Friday.
   - q: Will a heat pump work in an uninsulated old cottage?
-    a: It will heat the room, but much of that heat escapes through the ceiling, floor and single glazing. Insulating first, or at the same time, means a smaller unit can keep up, and it costs less to run.
+    a: It'll heat the room. But a lot of that heat gets out through the ceiling, the floor and the single glazing. Insulate first, or at the same time. Then a smaller unit can keep up, and it's cheaper to run.
   - q: There's no room for the outdoor unit at ground level. What are the options?
-    a: A wall bracket, a deck, a flat garage roof or a spot further along the section with a longer pipe run. A bracket or roof keeps the pipes short but must stay reachable for servicing, and a spot further away needs a pipe run within the manufacturer's limit.
+    a: A wall bracket, a deck or a flat garage roof. Or a spot further along the section, with a longer pipe run. A bracket or roof keeps the pipes short, but we still need to reach it for servicing. A spot further away needs a pipe run inside the maker's limit.
   - q: Which council covers Lyttelton?
-    a: Christchurch City Council, so the Christchurch District Plan's noise limits apply. They are set out in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
+    a: Christchurch City Council. So the Christchurch District Plan's noise limits apply. You'll find them in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
 related:
   - { label: Heathcote Valley, href: /heathcote-valley/, text: Heat pumps on the city side of the tunnel. }
   - { label: Sumner, href: /sumner/, text: Installs and servicing in another coastal suburb. }
@@ -29,38 +29,44 @@ related:
 
 ## Heat pumps for Lyttelton cottages and villas
 
-A heat pump in a Lyttelton home has to make up for heat lost through old construction and short winter sun. Lyttelton is a port town on the hillside above the harbour, and many of its houses are timber cottages and villas with tall ceilings, sash windows and walls with little or no insulation.
+A Lyttelton heat pump has a lot to make up for. Old houses leak heat, and winter sun is short. Lyttelton is a port town on the hill above the harbour. Many of its homes are timber cottages and villas. They have tall ceilings and sash windows, and their walls have little or no insulation.
 
-- **Heat loss.** Tall ceilings mean the room volume, not the floor area, sets the unit size, and uninsulated walls and ceilings let heat straight out. Insulation comes first or alongside, as the next section explains.
-- **Early shade.** Much of the town looks across the harbour to the south, so many homes lose direct sun early on winter afternoons. The heat pump carries the house from mid-afternoon, and a timer can start it before the room cools.
-- **Tight sites.** Houses are built close together on small, steep sections, often reached by steps or narrow lanes. Where the outdoor unit goes, and how we carry it in, are planned at the quote.
+- **Heat loss:** with tall ceilings, the volume of the room sets the unit size, not the floor area. Uninsulated walls and ceilings let heat straight out. Insulate first, or alongside. More on that below.
+- **Early shade:** much of the town looks south across the harbour. So a lot of homes lose direct sun early on winter afternoons. The heat pump carries the house from mid-afternoon. A timer can start it before the room cools down.
+- **Tight sections:** houses sit close together on small, steep sections. Often you reach them by steps or a narrow lane. We plan where the outdoor unit goes, and how we'll carry it in, when we quote.
 
 ## Heat pump installation in a draughty Lyttelton cottage
 
-A heat pump moves a lot of warmth into a room, but an uninsulated ceiling and draughty windows let it straight back out. If your cottage hasn't been insulated, it's worth doing that first or at the same time. A better sealed house needs a smaller unit and costs less to run.
+A heat pump pushes a lot of warmth into a room. An uninsulated ceiling and draughty windows let it straight back out. If your cottage hasn't been insulated, do that first, or at the same time. A better sealed house needs a smaller unit. It costs less to run, too.
 
-In a cottage with small rooms and doors between them, one unit in the living room won't warm the bedrooms. A [single-room install](/single-room-heat-pump-installation/) in the main living space is the usual starting point, with small units added to bedrooms later if you want them. A floor console under a window can suit rooms with high ceilings or walls taken up by a fireplace or bookshelves.
+In a cottage with small rooms and doors between them, one lounge unit won't warm the bedrooms. We usually start with a [single-room install](/single-room-heat-pump-installation/) in the main living space. You can add small units to the bedrooms later if you want.
+
+A floor console under a window can suit some rooms. It works well with high ceilings. It also works where a fireplace or bookshelves take up the walls.
 
 ## Finding space outside on a Lyttelton section
 
-On a tight Lyttelton section, the outdoor unit may have nowhere to go at ground level. We look at wall brackets, decks, flat garage roofs and spots further along the section. A longer pipe run is possible within the manufacturer's limits, and we route it as neatly as the house allows.
+On a tight Lyttelton section, there may be no room for the outdoor unit at ground level. We look at wall brackets, decks and flat garage roofs. We also look further along the section. A longer pipe run is fine within the maker's limits. We route it as neatly as the house allows.
 
-Neighbours are often only a few metres away, and sound bounces between houses on a hillside. We keep the unit away from bedroom windows, yours and theirs.
+Neighbours are often only a few metres away. On a hillside, sound bounces between houses. So we keep the unit away from bedroom windows, yours and theirs.
 
 ## Salt from Lyttelton Harbour
 
-Air coming up off the harbour carries salt, which settles on the outdoor coil. A sheltered position, a light rinse with fresh water every few months and a yearly service help it last.
+Air coming up off the harbour carries salt. It settles on the outdoor coil. Three things help the unit last:
+
+- **Shelter:** put it somewhere out of the wind
+- **Rinsing:** a light hose with fresh water every few months
+- **Servicing:** once a year
 
 ## Older wiring and your Lyttelton heat pump
 
-In an older house the switchboard may not have a spare circuit for a heat pump. Every install is connected by a licensed electrical worker, who will tell you if the board needs work first. You'll know about it before any install begins.
+In an older house, the switchboard may have no spare circuit for a heat pump. A licensed electrical worker connects every install we do. They'll tell you if the board needs work first. You'll know before any install starts.
 
 ## Lyttelton heat pump installs, servicing and repairs
 
-Lyttelton installs are Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We also service and [repair](/heat-pump-repair/) existing units from those makers, Panasonic and most other brands, whoever put them in.
+In Lyttelton we fit Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We also service and [repair](/heat-pump-repair/) units you already have. That covers those makers, Panasonic and most other brands, no matter who fitted them.
 
 ## Around Lyttelton
 
 We also work in [Heathcote Valley](/heathcote-valley/), [Sumner](/sumner/) and across [greater Christchurch](/locations/).
 
-For a quote on your Lyttelton home, call **03 242 1023** or use the form to tell us about the house.
+For a quote on your Lyttelton home, call **03 242 1023**. Or use the form to tell us about the house.

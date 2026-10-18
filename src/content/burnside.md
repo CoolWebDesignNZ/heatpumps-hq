@@ -7,18 +7,18 @@ h1: Heat pump installation and service in Burnside
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burnside
 suburb: Burnside
-intro: Many Burnside homes are solid family houses that have grown over the years. We install, service and repair heat pumps to cover the whole house, with the price fixed before we start.
+intro: Lots of Burnside homes are solid family houses that have grown over the years. We fit, service and fix heat pumps to heat the whole house. The price is fixed before we start.
 hero: burnside-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: Questions about heat pumps in Burnside
 relatedHeading: Heat pumps near Burnside
 faqs:
   - q: My Burnside home has an extension the heat pump doesn't reach. What can I do?
-    a: A new extension usually needs its own unit, or a multi-room system that adds an indoor unit there. If the original heat pump is old, replacing it with a system that covers both areas can be tidier.
+    a: A new extension usually needs its own unit. Or use a multi-room system and add an indoor unit there. If the old heat pump is getting on, replace it with one system for both areas. That can be tidier.
   - q: Can I heat only the rooms I'm using?
-    a: Yes. Separate units, or a ducted system with zones, let you heat the living area by day and bedrooms at night. See <a href="/heat-pump-zoning/">heat pump zoning</a>.
+    a: Yes. Use separate units, or a ducted system with zones. Then you heat the living area by day and the bedrooms at night. See <a href="/heat-pump-zoning/">heat pump zoning</a>.
   - q: Do you do yearly servicing in Burnside?
-    a: Yes. We clean the filters, indoor coil and drain, check the outdoor unit and test performance, for all major brands.
+    a: Yes, for all major brands. We clean the filters, indoor coil and drain. We check the outdoor unit and test how it's running.
 related:
   - { label: Bryndwr, href: /bryndwr/, text: Heat pumps for Bryndwr bungalows. }
   - { label: Avonhead, href: /avonhead/, text: Installation and servicing in Avonhead. }
@@ -27,41 +27,41 @@ related:
 
 ## Heat pumps for Burnside family homes and extensions
 
-Burnside is an established north-western suburb of family homes, many of them brick and tile or weatherboard houses on decent sized sections, with plenty of larger homes among them. Many have been added to over the years, and the original heating often covers only part of the house.
+Burnside is an older north-west suburb of family homes. Many are brick and tile or weatherboard, on decent sized sections. There are plenty of bigger homes too. Lots have been added to over the years. The old heating often only covers part of the house.
 
-- **A new family room** is often open plan with a lot of glass. It needs a wall unit sized for that glass, not just the floor area.
-- **A master suite** is newer and better insulated than the rest of the house, so a small wall unit of its own will heat it quietly overnight.
-- **A converted garage** often has a concrete floor and walls that weren't built to be lived in. Unless they were insulated during the conversion, it loses heat fast and needs more capacity than a bedroom of the same size.
-- **The original rooms** in a brick and tile or weatherboard house lose more heat than the additions, so we check the ceiling insulation there first.
+- **A new family room.** Often open plan with lots of glass. Size the unit for the glass, not just the floor area.
+- **A master suite.** Newer and better insulated than the rest of the house. A small wall unit of its own will heat it quietly overnight.
+- **A converted garage.** Often a concrete floor, and walls never built to live in. Unless they were insulated in the conversion, it loses heat fast. It needs more heat than a bedroom the same size.
+- **The original rooms.** In a brick and tile or weatherboard house, they lose more heat than the add-ons. We check the ceiling insulation there first.
 
 ## Heat pump installation in an extended Burnside home
 
-When a home has been extended, we look at it as a set of zones rather than one space. Typically that's the original living area, the newer family room, and the bedrooms. Each zone has its own size, windows and insulation, and the newer parts are usually better insulated than the old.
+With an extended home, we treat it as a set of zones, not one space. Usually that's the old living area, the newer family room and the bedrooms. Each zone has its own size, windows and insulation. The newer parts are usually better insulated.
 
-From there the choices are:
+Then you've got three choices.
 
-- **Separate units per zone.** Each sized for its room, each controlled on its own.
-- **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units on one outdoor unit, which saves wall space outside.
-- **Ducted with zones.** One system, vents in each room, and control over which areas are heated. This is [heat pump zoning](/heat-pump-zoning/).
+- **A unit for each zone.** Each one sized for its room. Each one with its own control.
+- **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units on one outdoor unit. That saves wall space outside.
+- **Ducted with zones.** One system, a vent in each room, and you choose which areas get heat. This is [heat pump zoning](/heat-pump-zoning/).
 
 ## Heat pump repair or replacement in Burnside
 
-If the existing unit is ageing, it's worth deciding now whether to keep it and add to it, or replace it with a system planned around the whole house. We'll [diagnose](/heat-pump-repair/) the old unit honestly and price both routes.
+Is your current unit getting old? Decide now. Keep it and add to it, or replace it with one system planned for the whole house. We'll [check the old unit](/heat-pump-repair/) and tell you straight. Then we'll price both ways.
 
 ## Heat pump service for busy Burnside households
 
-Busy Burnside households run their heat pumps hard, which is why a regular service matters. Filters clog faster with more people and pets, and a dirty filter makes the unit work harder for less heat. Rinse the filters every few weeks in winter and book a professional clean once a year. See [maintenance and servicing](/maintenance-servicing/).
+Busy Burnside households work their heat pumps hard. That's why a regular service matters. More people and pets clog the filters faster. A dirty filter makes the unit work harder for less heat. Rinse the filters every few weeks in winter. Book a proper clean once a year. See [maintenance and servicing](/maintenance-servicing/).
 
 ## Matching old and new parts of a Burnside house
 
-An original lounge and a new family room can feel very different on a winter evening. The older room loses heat through its walls and windows faster, so it often needs a slightly larger unit than its floor area suggests. Sizing each zone separately avoids one room being too warm while the other never quite gets there. Each zone is sized with the same [heat pump sizing](/heat-pump-sizing/) method we use for a single room.
+On a winter evening, the old lounge and the new family room can feel very different. The older room loses heat through its walls and windows faster. So it often needs a slightly bigger unit than its floor area suggests. Size each zone on its own. Then you won't have one room too warm and the other never quite there. We size each zone the same way we size a single room. See [heat pump sizing](/heat-pump-sizing/).
 
 ## Heat pump brands we work on in Burnside
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service and repair those plus Panasonic and most other brands sold in New Zealand.
+We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those, plus Panasonic and most other brands sold in New Zealand.
 
 ## Suburbs near Burnside
 
-We cover [Bryndwr](/bryndwr/), [Avonhead](/avonhead/), [Harewood](/harewood/), [Fendalton](/fendalton/) and the rest of [Christchurch](/locations/).
+We work in [Bryndwr](/bryndwr/), [Avonhead](/avonhead/), [Harewood](/harewood/), [Fendalton](/fendalton/) and the rest of [Christchurch](/locations/).
 
 Call **03 242 1023** or use the form for a free fixed-price quote in Burnside.

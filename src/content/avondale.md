@@ -7,18 +7,18 @@ h1: Heat pump installation and servicing in Avondale
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avondale
 suburb: Avondale
-intro: Heat pump installation, servicing and repairs for Avondale homes, from original mid-century houses to rebuilds. You'll have a fixed price before we begin.
+intro: We fit, service and fix heat pumps in Avondale homes. That's everything from original mid-century houses to rebuilds. You'll have a fixed price before we start.
 hero: avondale-hero
 gallery: [pool-weatherboard, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avondale
 relatedHeading: Heat pumps near Avondale
 faqs:
   - q: We're renovating our Avondale house. When should we plan the heat pump?
-    a: Before the linings go back on. Pipe runs, wiring and any ducting are far easier to fit with walls or ceilings open, and the unit can go exactly where it heats best.
+    a: Before the linings go back on. Pipes, wiring and ducting are far easier to fit with the walls or ceilings open. And the unit can go exactly where it heats best.
   - q: Are heat pumps in Avondale affected by the river?
-    a: Not directly, but homes near the Avon can be damp in winter. Keeping rooms evenly warm helps with condensation, and the outdoor unit should sit on a raised base clear of wet ground.
+    a: Not directly. But homes near the Avon can be damp in winter. Keeping the rooms evenly warm helps with condensation. The outdoor unit should sit on a raised base, clear of wet ground.
   - q: Do you repair heat pumps that were fitted during earthquake repairs in Avondale?
-    a: Yes. Whoever installed it, we can service and repair it if it's one of the brands sold in New Zealand.
+    a: Yes. It doesn't matter who fitted it. If it's a brand sold in New Zealand, we can service and fix it.
 related:
   - { label: Dallington, href: /dallington/, text: Heat pumps for Dallington homes. }
   - { label: Wainoni, href: /wainoni/, text: Installation and servicing in Wainoni. }
@@ -27,40 +27,40 @@ related:
 
 ## Heat pumps for Avondale homes on piles
 
-Avondale lies along the Avon River in the east, and away from the river most of the suburb is mid-century homes on piles, many repaired after the earthquakes and some replaced with new houses. How much of the house has been upgraded is what decides the heat pump.
+Avondale runs along the Avon River in the east. Away from the river, most homes are mid-century houses on piles. Many were repaired after the earthquakes. Some were replaced with new houses. What decides the heat pump is how much of the house has been upgraded.
 
-- **A house on piles that hasn't been upgraded** loses heat through an uninsulated floor and single glazed windows, and its rooms are usually separate. It needs a unit sized for that heat loss in the lounge and its own heat in the bedrooms, covered below.
-- **A house partway through a renovation** is the easiest time to plan a ducted or multi-room system, because the walls and ceilings are open.
-- **A new house built since the earthquakes** needs far less capacity, and one modest unit can heat the living area.
+- **A house on piles that hasn't been upgraded.** It loses heat through a bare floor and single glazing. The rooms are usually separate. The lounge needs a unit sized for that heat loss. The bedrooms need their own heat. More on that below.
+- **A house partway through a renovation.** This is the easiest time to plan ducted or multi-room. The walls and ceilings are open.
+- **A new house built since the earthquakes.** It needs far less heat. One modest unit can heat the living area.
 
-Land close to the river became residential red zone, so some streets now have open land where houses used to be. A house facing that open ground takes more wind on that side, which affects where we put the outdoor unit and how much heat the rooms on that side lose.
+Land close to the river became red zone. Some streets now have open ground where houses used to be. A house facing that open ground takes more wind on that side. That changes where we put the outdoor unit. It also means the rooms on that side lose more heat.
 
 ## Plan heat pump installation into an Avondale renovation
 
-If you're renovating an Avondale home, plan the heat pump installation before the linings go back on. A lot of houses here are still being upgraded one room or one project at a time, and with linings off, pipes and cables can run inside walls instead of along the outside, and ducting can go into the ceiling before it's closed in. A ducted system that would be awkward to retrofit becomes much simpler. If you're weighing ducted against high wall units, [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) puts them side by side.
+Renovating? Plan the heat pump before the linings go back on. Lots of Avondale houses are still being done up one room at a time. With the linings off, pipes and cables can run inside the walls instead of along the outside. Ducting can go in the ceiling before it's closed up. A ducted system that would be awkward later becomes much simpler. Deciding between ducted and high wall units? [Ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) puts them side by side.
 
-Renovations also change how much heat the house needs. New insulation and double glazing can drop the size of unit required. Tell us what's planned and we'll size for the finished house.
+A renovation also changes how much heat the house needs. New insulation and double glazing can mean a smaller unit. Tell us what you've got planned. We'll size for the finished house.
 
 ## Heat pumps in original Avondale houses
 
-In an Avondale house that hasn't been renovated, the lounge is often a separate room with single glazing. A high wall unit placed to blow down the length of the room heats it best. Bedrooms off a hall need their own unit, or a [multi-room system](/multi-room-heat-pump-installation/), to be warm at night.
+In an Avondale house that hasn't been done up, the lounge is often a separate room with single glazing. A high wall unit heats it best when it blows down the length of the room. Bedrooms off a hall need their own unit to be warm at night. A [multi-room system](/multi-room-heat-pump-installation/) is the other way to do it.
 
 ## Rebuilt Avondale homes
 
-A new Avondale house built since the earthquakes loses far less heat. With modern insulation and double glazing, an open plan living area can often be heated by one modest wall unit, and the bedrooms stay warmer on their own. If the house has good ceiling space, ducting can be added without walls or ceilings being opened up much.
+A post-quake Avondale house loses far less heat. It has modern insulation and double glazing. One modest wall unit can often heat the open plan living area. The bedrooms stay warmer on their own. If there's good ceiling space, ducting can go in without opening up much.
 
 ## Outdoor units near the Avon River
 
-Ground near the river can stay wet and has moved in the past. We set outdoor units on a wall bracket or a firm, raised base, with enough flexibility in the pipe run to cope with small movements. The unit needs room to breathe and a clear path for defrost water.
+Ground near the river can stay wet, and it's moved before. We fit outdoor units on a wall bracket or a firm, raised base. We leave some give in the pipe run so it copes with small movements. The unit needs room to breathe. It also needs a clear path for the defrost water.
 
-Avondale is a few kilometres from the coast. An easterly brings some salt, so give the outdoor coil a gentle rinse now and then.
+Avondale is a few kilometres from the coast. An easterly brings in some salt. Give the outdoor coil a gentle rinse now and then.
 
 ## Heat pump servicing and repairs in Avondale
 
-We service and repair heat pumps all over Avondale, and many were fitted during earthquake repairs and may not have been serviced since. A service cleans the filters, coil and fan and checks the drain and output. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units are all covered, along with most other brands. What happens at a visit is under [maintenance and servicing](/maintenance-servicing/), and faults are handled through [heat pump repair](/heat-pump-repair/).
+We service and fix heat pumps all over Avondale. Many went in during earthquake repairs and may not have been serviced since. A service cleans the filters, coil and fan. It checks the drain and the output. We cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands. See what happens at a visit under [maintenance and servicing](/maintenance-servicing/). For a fault, go to [heat pump repair](/heat-pump-repair/).
 
 ## Suburbs around Avondale
 
-We also cover [Dallington](/dallington/), [Wainoni](/wainoni/), [Burwood](/burwood/), [Aranui](/aranui/) and [Bexley](/bexley/).
+We also work in [Dallington](/dallington/), [Wainoni](/wainoni/), [Burwood](/burwood/), [Aranui](/aranui/) and [Bexley](/bexley/).
 
-For a quote in Avondale, call **03 242 1023** or use the form.
+For a quote in Avondale, call **03 242 1023** or fill in the form.

@@ -4,7 +4,7 @@ description: "Heat pump installation cost depends on far more than the unit. See
 keyword: heat pump installation cost
 secondary: [heat pump install price, heat pump installation cost nz, heat pump prices christchurch]
 h1: What affects heat pump installation cost in Christchurch
-intro: Two heat pumps of the same model can cost quite different amounts to install. The difference is the house. Here's what goes into the price, so you can read a quote properly and compare them fairly.
+intro: Two heat pumps of the same model can cost quite different amounts to fit. The difference is the house. Here's what goes into the price. Then you can read a quote properly and compare them fairly.
 hero: instcost-hero
 updated: 2026-10-17
 gallery: [instcost-backtoback, instcost-bracket]
@@ -12,13 +12,13 @@ faqHeading: "Heat pump installation cost questions"
 relatedHeading: "More on heat pump prices and installs"
 faqs:
   - q: How much does it cost to install a heat pump in Christchurch?
-    a: It depends on the unit's size and type and on the install itself, including the pipe run, where the outdoor unit goes and the electrical work. We don't publish a price list because two installs are rarely the same. A free on-site quote gives you a fixed price for your house.
+    a: It depends on the unit's size and type. It also depends on the install itself. That means the pipe run, where the outdoor unit goes and the electrical work. We don't publish a price list, because two installs are rarely the same. A free on-site quote gives you a fixed price for your house.
   - q: Why do heat pump quotes vary so much?
-    a: Quotes often price different things. One may include a longer pipe run, wall brackets, a new circuit and removal of the old unit, while another assumes a back-to-back install on a ground pad. Check each quote lists the model, both unit positions and the electrical work.
+    a: Because quotes often price different things. One might include a longer pipe run, wall brackets, a new circuit and taking out the old unit. Another might assume a back-to-back install on a ground pad. Check each quote lists the model, where both units go and the electrical work.
   - q: Is a floor console dearer to install than a high wall unit?
-    a: It can be, depending on the room. A console often needs pipes run through the floor or along the wall at low level, and the unit price differs between models. Ask for both options on the same quote if you're undecided.
+    a: It can be, depending on the room. A console often needs the pipes run through the floor, or low along the wall. The unit price also differs between models. If you can't decide, ask for both options on the same quote.
   - q: Does a fixed-price quote change once work starts?
-    a: Ours is agreed before any work starts, after we've looked at the pipe route, mounting and electrical work on site. That's why the site visit comes first.
+    a: Not ours. We agree it before we start, once we've looked at the pipe route, mounting and electrical work on site. That's why the site visit comes first.
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and carry out an install. }
   - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: What drives the price of a ducted system. }
@@ -27,73 +27,73 @@ related:
 
 ## Why we don't list heat pump prices
 
-We don't publish heat pump prices or price ranges. A published figure can't account for your house, and the cost of an install is set by the house as much as the heat pump. A free quote on site gives you one fixed price that covers your job.
+We don't publish heat pump prices or price ranges. A published figure can't allow for your house. And the house sets the cost of an install as much as the heat pump does. A free quote on site gets you one fixed price that covers your job.
 
-What follows is every factor that moves the price, so you know what to look for in any quote, ours included.
+Below is every factor that moves the price. Then you'll know what to look for in any quote, ours included.
 
 ## How the unit affects heat pump installation cost
 
-Three things about the heat pump itself change what the install costs: its size, its type and the model range it comes from.
+Three things about the heat pump itself change the cost. Its size, its type and the model range it comes from.
 
-**Size.** A larger capacity unit costs more than a smaller one in the same range. Correct sizing protects you from paying for capacity you don't need, and from a unit too small to keep up, so we work out the [right heat pump size](/heat-pump-sizing/) before we price the job.
+**Size.** A bigger unit costs more than a smaller one in the same range. Getting the size right means you don't pay for capacity you don't need. It also means you don't end up with a unit too small to keep up. So we work out the [right heat pump size](/heat-pump-sizing/) before we price the job.
 
-**Type.** High wall units, floor consoles, ceiling cassettes and multi split systems are priced differently, and the install work differs too, so the [type of heat pump](/types-of-heat-pumps/) that suits your rooms shapes the quote.
+**Type.** High wall units, floor consoles, ceiling cassettes and multi split systems are priced differently. The install work differs too. So the [type of heat pump](/types-of-heat-pumps/) that suits your rooms shapes the quote.
 
-**Model and range.** Brands sell more than one range. Higher ranges may add better low-temperature output, quieter running, more efficient operation or built-in Wi-Fi. Compare models of the same kW size on their energy labels.
+**Model and range.** Brands sell more than one range. Higher ranges may add better output in the cold, quieter running, better efficiency or built-in Wi-Fi. Compare models of the same kW size on their energy labels.
 
 ## Heat pump install price for a wall unit or floor console
 
-A wall unit and a floor console can cost different amounts to install, because their pipes leave the room in different places. A high wall unit usually has its pipes leave through the wall directly behind it. A floor console sits low, so the pipes may go down through the floor and under the house, or out through the wall at skirting height. On a concrete slab with no crawl space, the route has to go through the wall or up and over, which can mean more pipe and cover.
+A wall unit and a floor console can cost different amounts to fit. That's because their pipes leave the room in different places. With a high wall unit, the pipes usually go straight out through the wall behind it. A floor console sits low. Its pipes may go down through the floor and under the house. Or they go out through the wall at skirting height. On a concrete slab with no crawl space, the pipes have to go through the wall or up and over. That can mean more pipe and more cover.
 
 ## Back-to-back or a longer pipe run
 
-The simplest install is **back-to-back**: the indoor unit on an outside wall, the outdoor unit directly behind it on the other side. The pipes go straight through and the run is short.
+The simplest install is **back-to-back**. The indoor unit goes on an outside wall, with the outdoor unit right behind it on the other side. The pipes go straight through, and the run is short.
 
 The price climbs as the run gets longer or harder:
 
-- the indoor unit is on an internal wall, so the pipes cross a ceiling or the underfloor
-- the outdoor unit has to go round a corner or to the back of the house
-- the pipe route needs a cover or ducting on the outside wall for a tidy finish
-- the run passes through a garage, a second storey or a finished ceiling.
+- **An internal wall.** The indoor unit is on an inside wall, so the pipes have to cross a ceiling or the underfloor.
+- **A corner.** The outdoor unit has to go round a corner or to the back of the house.
+- **A tidy finish.** The pipes need a cover or ducting on the outside wall.
+- **A tricky route.** The run goes through a garage, a second storey or a finished ceiling.
 
-A longer run means more copper pipe, insulation and labour. EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) also says the run must stay within the manufacturer's maximum length and height, that bends should be kept to a minimum, and that the system must be charged with refrigerant to suit the pipe length.
+A longer run means more copper pipe, more insulation and more labour. EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) sets some rules too. The run must stay within the maker's maximum length and height. Bends should be kept to a minimum. And the system must be charged with refrigerant to suit the pipe length.
 
 ## How outdoor unit mounting changes the cost
 
-Where the outdoor unit is mounted changes the cost. A ground-level pad beside the house is usually the simplest, wall brackets add hardware and time, and a two-storey wall adds access work. EECA's guide lists the common ways to mount an outdoor unit:
+Where the outdoor unit goes changes the cost. A pad on the ground beside the house is usually simplest. Wall brackets add hardware and time. A two-storey wall adds access work. EECA's guide lists the common ways to mount an outdoor unit:
 
-- on a concrete pad or pre-cast slab
-- on a concrete patio
-- on a timber deck with anti-vibration mounts
-- on brackets fixed to a wall or foundation
-- on a roof, only where the installation has been specifically designed for the load and wind forces.
+- **A concrete pad** or pre-cast slab.
+- **A concrete patio.**
+- **A timber deck**, with anti-vibration mounts.
+- **Brackets** fixed to a wall or foundation.
+- **A roof**, but only where the install has been designed for the load and wind forces.
 
-Wherever it goes, the unit also has to sit clear of obstructions, away from the neighbour's bedrooms and where defrost water can drain. The noise side is governed by the [heat pump boundary rules](/heat-pump-boundary-rules-consent-nz/).
+Wherever it goes, the unit has to sit clear of obstructions. It has to be away from the neighbour's bedrooms. And defrost water has to be able to drain. The [heat pump boundary rules](/heat-pump-boundary-rules-consent-nz/) cover the noise side.
 
 ## Electrical work and the switchboard
 
-Every heat pump needs an electrical connection done by a licensed electrical worker, and we have that done on every install. The price depends on the switchboard and the run:
+Every heat pump needs an electrical connection by a licensed electrical worker. We have that done on every install. The price depends on the switchboard and the cable run:
 
-- whether the switchboard has space for a new circuit, or needs upgrading
-- how far the cable runs from the board to the outdoor unit
-- the lockable isolating switch, which EECA's guide says must be fixed to the house within reach for servicing, not to the unit itself
-- older wiring that needs attention before a new load is added.
+- **Switchboard space.** Is there room for a new circuit, or does the board need upgrading?
+- **Cable length.** How far does the cable run from the board to the outdoor unit?
+- **The isolating switch.** It must be lockable. EECA's guide says it goes on the house within reach for servicing, not on the unit itself.
+- **Older wiring.** It may need work before a new load goes on.
 
-EECA's quality checklist expects the heat pump to be on its own circuit wired back to the distribution board, or on an existing circuit with enough spare capacity. You should receive an electrical Certificate of Compliance for the work.
+EECA's quality checklist expects the heat pump on its own circuit, wired back to the distribution board. An existing circuit with enough spare capacity is the other option. You should get an electrical Certificate of Compliance for the work.
 
 ## Removing an old heat pump
 
-Replacing an old heat pump adds the work of taking it out: recovering the refrigerant, disconnecting the power, removing both units and the old pipework, and patching or reusing the wall penetration. EECA's guide says refrigerant must not be released into the atmosphere, so recovery is part of the job, not an optional extra.
+Replacing an old heat pump means taking it out first. We recover the refrigerant and disconnect the power. We remove both units and the old pipes. Then we patch the hole in the wall, or reuse it. EECA's guide says refrigerant must not be released into the air. So recovery is part of the job, not an optional extra.
 
-Sometimes the old position can be reused, which helps. Sometimes it was a poor spot to begin with, and moving it is worth the extra.
+Sometimes you can reuse the old position, which helps. Sometimes it was a poor spot to start with, and moving it is worth the extra.
 
 ## Access and the house itself
 
-Access and the build of the house add smaller costs that add up: a weatherboard wall versus brick or block, fixing into framing that needs extra dwangs, a cramped underfloor space, or a unit high up a stairwell that needs scaffolding or a tower. We look at all of this on the site visit so it's in the price rather than a surprise later.
+Access and how the house is built add smaller costs, and they add up. A weatherboard wall is different from brick or block. Framing may need extra dwangs to fix into. The underfloor space may be cramped. A unit high up a stairwell may need scaffolding or a tower. We look at all of this on the site visit. That way it's in the price, not a surprise later.
 
 ## Comparing heat pump quotes fairly
 
-When you have more than one quote, check each one lists:
+Got more than one quote? Check each one lists:
 
 | Item | Why it matters |
 | --- | --- |
@@ -105,8 +105,8 @@ When you have more than one quote, check each one lists:
 | Removal of an old unit | Including refrigerant recovery |
 | What sizing was done | Measured on site, or guessed from the room size |
 
-If one quote is much lower than the others, check whether it's missing one of these lines.
+If one quote is much lower than the rest, check whether it's missing one of these lines.
 
 ## Get a fixed heat pump install price for your house
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. We come out, size the unit from your rooms, insulation and windows, work out the pipe run, mounting and electrical work, and give you a fixed price before any work starts. The quote is free. Call **03 242 1023**, Monday to Friday 8am to 5pm, or [request a quote](/contact-us/).
+We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. We come out and size the unit from your rooms, insulation and windows. We work out the pipe run, mounting and electrical work. Then you get a fixed price before we start. The quote is free. Call **03 242 1023**, Monday to Friday 8am to 5pm, or [request a quote](/contact-us/).

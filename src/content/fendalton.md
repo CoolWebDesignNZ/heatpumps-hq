@@ -7,20 +7,20 @@ h1: Heat pump installation in Fendalton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Fendalton
 suburb: Fendalton
-intro: Fendalton's large, established homes need heat pumps planned around big rooms, mature trees and the look of the house. We install, service and repair them, with a fixed price before we start.
+intro: Fendalton homes are big and well established. Heating them means planning round large rooms, old trees and the look of the house. We fit, service and fix heat pumps here, and you get a fixed price before we start.
 hero: fendalton-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Fendalton
 relatedHeading: Heat pumps near Fendalton
 faqs:
   - q: What heat pump suits a large Fendalton home?
-    a: Often a ducted system, which heats every room through ceiling vents with nothing on the walls, or a multi-room system with discreet indoor units. Ducting needs enough roof space for the indoor unit and duct runs; where that isn't there, multi-room is the usual answer.
+    a: Often a ducted system. It heats every room through ceiling vents, with nothing on the walls. Ducting needs enough roof space for the indoor unit and the ducts. If that space isn't there, a multi-room system with low-key indoor units is the usual answer.
   - q: Can you keep the outdoor units out of sight?
-    a: Usually. Side and rear walls, behind planting with enough space for airflow, or a low screen all work. The unit must stay accessible for servicing and quiet at the neighbour's boundary, which our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers.
+    a: Usually, yes. Side and back walls work. So does behind planting, with enough room for airflow, or a low screen. The unit still has to be easy to service and quiet at the neighbour's boundary. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> explains that part.
   - q: Do big trees make a difference to heating?
-    a: Yes. Shade keeps some rooms noticeably colder in winter, so they may need more capacity. Falling leaves can also block the outdoor coil, so units near trees need regular checks.
+    a: Yes. Shade keeps some rooms a lot colder in winter. Those rooms may need more capacity. Falling leaves can also block the outdoor coil. So units near trees need checking often.
   - q: Will a heat pump suit a high-ceilinged room?
-    a: Yes, if it's sized for the room's full volume. High-stud rooms take more heating, and the unit should be placed so warm air reaches the living area rather than gathering at the ceiling.
+    a: Yes, as long as it's sized for all that air. High-stud rooms take more heating. The unit needs to go where warm air reaches you, not where it sits up by the ceiling.
 related:
   - { label: Bryndwr, href: /bryndwr/, text: Heat pumps for Bryndwr bungalows. }
   - { label: Ilam, href: /ilam/, text: Installation and servicing in Ilam. }
@@ -29,40 +29,46 @@ related:
 
 ## Heat pumps for Fendalton's larger homes
 
-A Fendalton home usually needs its heating planned room by room, because the rooms are big, the ceilings are high, there's a lot of glass, and part of the house may sit in tree shade. Fendalton is one of Christchurch's older, leafier suburbs, west and north-west of the central city, with large homes on wide sections and mature trees in long-established gardens.
+In a Fendalton home, we usually plan the heating room by room. The rooms are big and the ceilings are high. There's a lot of glass. Part of the house may sit in the shade of trees.
 
-- **Two storey character houses and substantial villas** have high ceilings, so the room volume, not the floor area, sets the unit size. A floor console puts warm air out low where people sit, and ducting suits a house where you'd rather have nothing on the walls.
-- **Generous mid-century homes** often have big areas of glass, which lose heat fast after dark. We size for the window area as well as the room.
-- **Newer rebuilds** are well insulated, so each living zone can run on one correctly sized unit.
+Fendalton is one of Christchurch's older, leafier suburbs. It lies west and north-west of the central city. The homes are large, on wide sections, with old trees in long-established gardens.
 
-Single wall units rarely cover a home this size, so most Fendalton jobs are multi-room or ducted, as set out below.
+- **Two storey character homes and big villas:** the ceilings are high. So the volume of the room sets the unit size, not the floor area. A floor console puts warm air out low, where you sit. Ducting suits a house where you'd rather have nothing on the walls.
+- **Roomy mid-century homes:** these often have large areas of glass. Glass loses heat fast after dark. We size for the windows as well as the room.
+- **Newer rebuilds:** they're well insulated. Each living area can run on one unit, sized right.
+
+A single wall unit rarely covers a home this size. Most Fendalton jobs end up multi-room or ducted. Here's how that works.
 
 ## Heat pump installation for big Fendalton rooms
 
-A single wall unit seldom heats a large Fendalton home. The usual approaches are:
+One wall unit seldom heats a big Fendalton home. These are the usual ways we do it:
 
-- **[Ducted heating](/ducted-heat-pumps-christchurch/).** One or two indoor units in the roof space feed ceiling vents in every room. Nothing on the walls, which suits houses where appearance matters.
-- **[Multi-room systems](/multi-room-heat-pump-installation/).** Several indoor units, chosen to sit discreetly, on shared outdoor units.
-- **A mix.** Ducted for bedrooms and a high wall or floor console unit for the main living room.
+- **[Ducted heating](/ducted-heat-pumps-christchurch/):** one or two indoor units in the roof space feed ceiling vents in every room. There's nothing on the walls, which suits a house where looks matter.
+- **[Multi-room systems](/multi-room-heat-pump-installation/):** several indoor units, picked to sit quietly in the room, running off shared outdoor units.
+- **A mix:** ducted for the bedrooms, plus a high wall or floor console in the main living room.
 
-In two storey homes, upstairs and downstairs are often best treated as separate zones. We measure every room, look at the glazing and insulation, and ask how the house is used before recommending a layout.
+In a two storey home, upstairs and downstairs often work best as separate zones. Before we suggest a layout, we measure every room. We look at the glazing and insulation. And we ask how you use the house.
 
 ## Shade and trees in Fendalton
 
-Mature trees are a feature of Fendalton, and they affect heating in two ways. Rooms in deep winter shade stay colder and need extra capacity. And outdoor units near trees collect leaves, twigs and blossom on the coil, which cuts efficiency. We place outdoor units away from the worst leaf fall where possible, and an annual [service](/maintenance-servicing/) keeps the coil clear.
+Old trees are part of Fendalton. They change your heating in two ways.
+
+First, rooms in deep winter shade stay colder. They need extra capacity. Second, outdoor units near trees catch leaves, twigs and blossom on the coil. That cuts efficiency.
+
+Where we can, we put outdoor units away from the worst of the leaf fall. A yearly [service](/maintenance-servicing/) keeps the coil clear.
 
 ## Keeping a Fendalton house looking right
 
-On a Fendalton character home, pipe covers and outdoor units should be as unobtrusive as possible. Where we can, we run pipework inside walls or under floors, and place outdoor units on side or rear walls rather than the street frontage.
+On a Fendalton character home, pipe covers and outdoor units should be as low-key as we can make them. Where possible, we run the pipes inside walls or under floors. We put outdoor units on side or back walls, not facing the street.
 
-Where houses have been rebuilt or extended, older and newer wings often perform very differently, and we size each part on its own terms.
+Some houses here have been rebuilt or added to. The old part and the new part often hold heat very differently. So we size each part on its own.
 
 ## Heat pump service for larger Fendalton systems
 
-We service and [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands, including larger ducted systems.
+We service and [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands. That includes bigger ducted systems.
 
 ## Suburbs around Fendalton
 
 We also work in [Bryndwr](/bryndwr/), [Ilam](/ilam/), [Burnside](/burnside/), [Riccarton](/heat-pumps-riccarton/) and the rest of [Christchurch](/locations/).
 
-To book a free quote for your Fendalton home, ring **03 242 1023** or fill in the form.
+Book a free quote for your Fendalton home. Ring **03 242 1023** or fill in the form.

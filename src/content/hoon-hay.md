@@ -7,18 +7,18 @@ h1: Heat pump installation for Hoon Hay family homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hoon Hay
 suburb: Hoon Hay
-intro: Hoon Hay is mostly flat, with brick and weatherboard family homes and newer houses toward its southern edge. We size heat pumps for the whole household's rooms and for frosty mornings, and fix the price first.
+intro: Hoon Hay is mostly flat. It has brick and weatherboard family homes, with newer houses towards the southern edge. We size heat pumps for every room the family uses and for frosty mornings. The price is fixed first.
 hero: hoon-hay-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Hoon Hay heat pump questions"
 relatedHeading: "Heat pumps near Hoon Hay"
 faqs:
   - q: What's the best way to heat a three or four bedroom Hoon Hay house?
-    a: In most, a larger unit for the living area and smaller units in the bedrooms people use in the evening. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> runs several indoor units from one outdoor unit, and ducting suits homes with good ceiling space.
+    a: In most, a bigger unit for the living area. Then smaller units in the bedrooms people use in the evening. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> runs several indoor units off one outdoor unit. Ducting suits homes with good ceiling space.
   - q: Why does my outdoor unit stop and steam on frosty mornings?
-    a: It's defrosting. Ice forms on the outdoor coil in cold, damp air, and the unit reverses briefly to melt it. A short pause with some steam is normal. Ice that keeps building isn't.
+    a: It's defrosting. In cold, damp air, ice forms on the outdoor coil. The unit runs in reverse for a short time to melt it. A short pause with some steam is normal. Ice that keeps building up isn't.
   - q: Should I leave the heat pump on overnight in winter?
-    a: In a well insulated house, a low overnight setting holds the warmth at little cost. In a house that loses heat fast, much of that overnight heat is wasted, so a timer that starts the unit before you get up makes more sense. We can show you the timer on your controller.
+    a: In a well insulated house, a low setting overnight holds the warmth and doesn't cost much. In a house that loses heat fast, a lot of that overnight heat is wasted. There it's better to set a timer that starts the unit before you get up. We can show you the timer on your controller.
 related:
   - { label: Westmorland, href: /westmorland/, text: Heat pumps for the hillside homes above Hoon Hay. }
   - { label: Halswell, href: /halswell/, text: Installs and servicing in Halswell to the south-west. }
@@ -27,38 +27,38 @@ related:
 
 ## Heat pump installation for Hoon Hay family homes
 
-In a Hoon Hay family home, several people use different rooms at different times, so a heat pump installation that only heats the lounge is rarely enough. The kind of house tells us where to start.
+In a Hoon Hay family home, different people use different rooms at different times. A heat pump that only heats the lounge is rarely enough. The kind of house tells us where to start.
 
-- **Brick and tile homes, weatherboard houses and former state houses** make up the established streets, many on decent sections. Where the lounge is closed off from a hallway of bedrooms, its heat stays in the lounge, so these homes usually need a living area unit plus a quiet unit in each bedroom someone uses in the evening. We check the ceiling and underfloor insulation first, because it changes the size of every unit.
-- **Newer homes in the subdivisions on the fringes** are better insulated. Where the living area is open plan, one larger unit can cover it, and a ducted system is worth comparing if the ceiling space allows.
-- **Rooms on the shady south side** stay colder through the day and need more capacity than a sunny room of the same size.
+- **Brick and tile, weatherboard and former state houses.** These fill the established streets, many on decent sections. If the lounge is shut off from a hallway of bedrooms, its heat stays in the lounge. So these homes usually need a living area unit. Then a quiet unit in each bedroom someone uses in the evening. We check the ceiling and underfloor insulation first. It changes the size of every unit.
+- **Newer homes in the subdivisions on the edges.** They're better insulated. If the living area is open plan, one bigger unit can cover it. If the ceiling space allows, compare a ducted system too.
+- **Rooms on the shady south side.** They stay colder all day. They need more capacity than a sunny room the same size.
 
 ## Planning heat pumps for a whole Hoon Hay household
 
-We start with how you live in the house. Questions we ask:
+We start with how you live in the house. We'll ask you:
 
-- Which rooms are used on winter evenings, and which only at night?
+- Which rooms do you use on winter evenings, and which only at night?
 - Do the kids do homework in their bedrooms?
 - Is there a second living area or a rumpus room that's always cold?
 - Are some rooms on the shady south side?
 
-The answers decide the setup. Often that means one larger unit for the main living area and a quiet bedroom unit wherever someone spends evenings. In a house with good ceiling access and plans to stay long term, [ducted heating](/ducted-heat-pumps-christchurch/) is worth comparing. We size each unit to its room rather than rounding up.
+The answers decide the setup. Often it's one bigger unit for the main living area. Then a quiet bedroom unit wherever someone spends the evening. Got good ceiling access and plan to stay a long time? Then [ducted heating](/ducted-heat-pumps-christchurch/) is worth comparing. We size each unit to its room. We don't round up.
 
 ## Frost on the Hoon Hay flat
 
-Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Port Hills rising beyond its southern streets. Open, flat ground cools fast on clear, still nights, and the streets near the hills can collect cold air that settles off the slopes. Hard frosts are part of a Hoon Hay winter. A few details make the difference:
+Hoon Hay sits south-west of the city, between Spreydon and Halswell. The Port Hills rise past its southern streets. Open, flat ground cools fast on clear, still nights. Streets near the hills can collect cold air that slides off the slopes. Hard frosts are part of a Hoon Hay winter. A few details make the difference:
 
-- **Raise the outdoor unit** on feet or a bracket so defrost water drains away rather than freezing around the base.
-- **Keep the drain path clear** of garden beds and paving that could ice over and create a slip hazard.
-- **Avoid a frost pocket** like a low, enclosed corner where cold air sits.
-- **Size for the cold end.** Output falls as the outdoor temperature drops, so capacity needs to cover the coldest mornings, not an average day, and some [cold climate heat pumps](/cold-climate-heat-pumps/) keep working well below freezing where others struggle.
+- **Raise the outdoor unit.** Put it on feet or a bracket, so defrost water drains away and doesn't freeze around the base.
+- **Keep the drain path clear.** Keep it away from garden beds and paving that could ice over and get slippery.
+- **Avoid a frost pocket.** That's a low, closed-in corner where cold air sits.
+- **Size for the cold end.** Output drops as it gets colder outside. So the capacity has to cover the coldest mornings, not an average day. Some [cold climate heat pumps](/cold-climate-heat-pumps/) keep working well below freezing where others struggle.
 
 ## Heat pump service through a Hoon Hay winter
 
-A unit working through Hoon Hay winters benefits from a yearly [service](/maintenance-servicing/) before the cold sets in. If one has stopped heating, we can [repair it](/heat-pump-repair/).
+A unit working through Hoon Hay winters needs a [service](/maintenance-servicing/) once a year, before the cold sets in. If yours has stopped heating, we can [fix it](/heat-pump-repair/).
 
 ## Where else we work near Hoon Hay
 
 We also cover [Hillmorton](/hillmorton/), [Westmorland](/westmorland/), [Spreydon](/spreydon/), [Halswell](/halswell/) and [Aidanfield](/aidanfield/).
 
-Call **03 242 1023** or use the form to request a free quote for your Hoon Hay home.
+Call **03 242 1023** or use the form to ask for a free quote for your Hoon Hay home.
