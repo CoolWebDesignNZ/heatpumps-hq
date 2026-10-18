@@ -34,13 +34,13 @@ For a home heat pump, remote monitoring means a Wi-Fi adaptor in the indoor unit
 - the schedules and timers that are set
 - energy use, on some models and apps
 
-It works from anywhere with an internet connection, so you can check on the house from work or while you're away. Which app you use depends on the brand. Our [smart heat pump](/smart-heat-pump-systems/) page lists the Wi-Fi controls for the brands we install.
+It works from anywhere with an internet connection, so you can check on the house from work or while you're away. Which app you use depends on the brand. Each brand we install has its own [smart heat pump](/smart-heat-pump-systems/) Wi-Fi control and app.
 
 ## What heat pump monitoring can't tell you
 
 An app reports what the unit's own sensors and controls know. It doesn't measure refrigerant pressure, check the wiring, look at the drain or listen to the fan bearings. A heat pump can show normal readings in the app and still have a slow refrigerant leak or a blocked drain.
 
-So remote diagnostics on a home system is a head start, not a full diagnosis. The tests that confirm a fault are done at the unit. How we do that is set out on our [fault finding](/heat-pump-troubleshooting/) page.
+So remote diagnostics on a home system is a head start, not a full diagnosis. The tests that confirm a fault are done at the unit, as part of our [fault finding](/heat-pump-troubleshooting/).
 
 ## How remote diagnostics help us fix a heat pump fault
 
@@ -66,6 +66,6 @@ If your heat pump is compatible, we can check it and set up the adaptor while we
 
 ## Monitoring energy use
 
-Where an app shows energy figures, they're worth checking month to month. A big jump with no change in how you use the unit can be the first sign of a dirty coil, a failing part or a leak. For a closer look at running costs, see our [energy consumption monitoring](/energy-consumption-monitoring/) page.
+Where an app shows energy figures, they're worth checking month to month. A big jump with no change in how you use the unit can be the first sign of a dirty coil, a failing part or a leak. For a closer look at running costs, [energy consumption monitoring](/energy-consumption-monitoring/) tracks use over time.
 
 To check whether your heat pump can be monitored over Wi-Fi, or to book a visit for a fault the app has flagged, call **03 242 1023**.

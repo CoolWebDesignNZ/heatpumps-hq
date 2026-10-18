@@ -37,7 +37,7 @@ At the quote we measure the rooms, look at the glazing and insulation in each pa
 
 ## Planning a heat pump installation for a large Spencerville house
 
-In a big home, the question is less "which unit?" and more "which rooms, and when?" Most families don't need the guest wing or the rumpus room heated every day. Splitting the house into zones means you can run heating only where you're living. Our [heat pump zoning](/heat-pump-zoning/) page explains how that's set up with separate units or a ducted system.
+In a big home, the question is less "which unit?" and more "which rooms, and when?" Most families don't need the guest wing or the rumpus room heated every day. Splitting the house into zones means you can run heating only where you're living. [Heat pump zoning](/heat-pump-zoning/) can be set up with separate units or a ducted system.
 
 We size the living area unit from the actual room volume, glazing and insulation, so it copes on the coldest mornings without being oversized for the rest of winter.
 

@@ -14,13 +14,13 @@ faqHeading: "Questions about heat pumps in Sumner"
 relatedHeading: "More on heat pumps near Sumner"
 faqs:
   - q: Can a heat pump help with a damp Sumner beach house?
-    a: It can. Keeping a house evenly warm reduces condensation, and most heat pumps have a dry mode that removes moisture from the air. Ventilation and insulation still matter, and our <a href="/heat-pump-dehumidification/">dehumidification page</a> explains dry mode.
+    a: It can. Keeping a house evenly warm reduces condensation, and most heat pumps have a dry mode that removes moisture from the air. Ventilation and insulation still matter alongside <a href="/heat-pump-dehumidification/">dry mode and dehumidification</a>.
   - q: Will sand and salt damage the outdoor unit?
     a: Both build up on the coil and casing if the unit is exposed. Placing it out of the direct wind, rinsing it gently with fresh water and having it serviced yearly all slow the wear.
   - q: Is a heat pump worth it in a house that's only used some of the year?
-    a: For a bach or holiday home, a single unit in the main living area is often enough to take the chill off quickly, and on models that take a wifi controller, you can switch it on before you arrive. Our <a href="/smart-heat-pump-systems/">smart heat pump page</a> covers wifi control.
+    a: For a bach or holiday home, a single unit in the main living area is often enough to take the chill off quickly, and on models that take a <a href="/smart-heat-pump-systems/">wifi controller</a>, you can switch it on before you arrive.
   - q: Do you come to Sumner for repairs?
-    a: Yes. We take repair jobs in Sumner on weekdays, for every major brand. Our <a href="/heat-pump-repair/">repairs page</a> explains how we diagnose them.
+    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> in Sumner on weekdays, for every major brand.
 related:
   - { label: Clifton, href: /clifton/, text: Heat pumps for cliff-top and hillside homes. }
   - { label: Redcliffs, href: /redcliffs/, text: Installs and servicing along the estuary. }
@@ -31,7 +31,7 @@ related:
 
 In Sumner the heat pump comes down to how well the house holds its warmth, and where the outdoor unit can sit out of the wind off the sea. Sumner is at the end of the coast road, where the estuary meets the open sea, and the sea is close to almost every address.
 
-- **Older beach houses, villas and bungalows** on the flat valley floor behind the beach lose heat through timber floors, ceilings and single glazing, and many feel damp in winter. They need more capacity than their floor area suggests, and dry mode earns its keep on muggy days. The section on damp beach houses below goes through it.
+- **Older beach houses, villas and bungalows** on the flat valley floor behind the beach lose heat through timber floors, ceilings and single glazing, and many feel damp in winter. They need more capacity than their floor area suggests, and dry mode earns its keep on muggy days.
 - **Newer homes on small sections** hold heat well, so one high wall unit can usually heat an open plan living area. The harder part is outside: the outdoor unit has to fit a narrow side yard with clear air around it, away from the house next door.
 - **Homes on the hills either side**, many rebuilt after the earthquakes, are mostly well insulated. The work there is mounting the outdoor unit on a bracket or deck and running the pipes up or down the levels.
 
@@ -57,7 +57,7 @@ Homes on the slopes above Sumner bring the hillside questions: wall brackets, de
 - **Servicing.** A yearly [service](/heat-pump-servicing/) that includes checking the outdoor unit for salt build-up and corrosion.
 - **Repairs.** Fault finding on all the major brands, Panasonic included.
 
-Sumner comes under Christchurch City Council, whose District Plan sets the noise limits. With houses close together on the flat, placement matters. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) sets out what's measured and where.
+Sumner comes under Christchurch City Council, whose District Plan sets the noise limits. With houses close together on the flat, placement matters, because the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/) are measured at the neighbour's property.
 
 ## Around Sumner
 

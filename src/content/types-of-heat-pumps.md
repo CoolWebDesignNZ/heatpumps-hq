@@ -74,7 +74,7 @@ A ducted heat pump puts the indoor unit out of sight, usually in the roof space,
 
 **Good for:** whole-house heating with nothing on the walls, new builds, and major renovations where ceilings are accessible.
 
-**Watch for:** it needs roof or underfloor space for the unit and ducts, and it's a bigger job. Our [ducted heat pumps](/ducted-heat-pumps-christchurch/) page and [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) guide go further.
+**Watch for:** it needs roof or underfloor space for the unit and ducts, and it's a bigger job. Before choosing [ducted heat pumps](/ducted-heat-pumps-christchurch/), weigh up [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) for your house.
 
 ## Heat pump types side by side
 
@@ -90,7 +90,7 @@ The table puts the five types next to each other: what each one heats, what it's
 
 ## Other things called heat pumps
 
-**Heat pump hot water cylinders** and **hydronic systems** that heat water for radiators or underfloor pipes also use the heat pump cycle. They're separate products from the air-to-air systems on this page.
+**Heat pump hot water cylinders** and **hydronic systems** that heat water for radiators or underfloor pipes also use the heat pump cycle. They're separate products from the air-to-air heat pumps that heat and cool a room.
 
 ## Which heat pump type suits your home
 

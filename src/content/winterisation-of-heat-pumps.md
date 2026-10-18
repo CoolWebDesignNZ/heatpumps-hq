@@ -14,7 +14,7 @@ faqs:
   - q: What is the best setting for a heat pump in winter?
     a: Heat mode rather than auto, a steady temperature you're comfortable at, fan on auto, and louvres pointing down. Use the timer to start it before you get up or come home instead of turning it up high when you walk in.
   - q: Should I cover my outdoor unit in winter?
-    a: Not while the heat pump is in use. The outdoor unit needs open airflow and somewhere for defrost water to drain. A cover over the top only is fine if it leaves the sides and front clear. See our <a href="/covers/">heat pump covers</a> page.
+    a: Not while the heat pump is in use. The outdoor unit needs open airflow and somewhere for defrost water to drain. A <a href="/covers/">heat pump cover</a> over the top only is fine if it leaves the sides and front clear.
   - q: Is it normal for the outdoor unit to ice up?
     a: A light frost on the coil that clears during a defrost cycle is normal. Thick ice that keeps building, or a unit that is encased in ice, means something needs checking.
   - q: Should I leave my heat pump on all night in winter?
@@ -63,7 +63,7 @@ Through a Canterbury winter the outdoor unit deals with frost, meltwater, ice an
 
 **Snow.** If snow settles on the unit, brush it gently off the top and away from the sides with a soft broom. Don't use hot water.
 
-**Don't box it in.** A tight box or a tarp over the unit while it's running blocks airflow and traps defrost water. Our [heat pump covers](/covers/) page explains what kind of cover is safe.
+**Don't box it in.** A tight box or a tarp over the unit while it's running blocks airflow and traps defrost water. A [heat pump cover](/covers/) that only shields the top is the safe kind.
 
 ## Heat pump winter faults worth catching early
 

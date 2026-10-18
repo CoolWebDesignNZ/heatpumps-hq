@@ -16,9 +16,9 @@ faqs:
   - q: Is a floor console heat pump a good option in Queenspark?
     a: It suits rooms with low windows, little wall space above head height or a long wall of glass. A console sits low and pushes warm air across the floor, which some people find more comfortable.
   - q: Can I set a heat pump to have the Queenspark house warm when we get home?
-    a: Yes. Heat pump controllers have a timer, and many units can also be run from a phone app with an added wifi controller. Setting it to start a little before you get home means the lounge is warm when you walk in. Our <a href="/smart-heat-pump-systems/">smart controls page</a> explains the options.
+    a: Yes. Heat pump controllers have a timer, and many units can also be run from a phone app with an added <a href="/smart-heat-pump-systems/">wifi controller</a>. Setting it to start a little before you get home means the lounge is warm when you walk in.
   - q: What does a Queenspark heat pump service include?
-    a: Cleaning the filters, indoor coil and fan, checking the drain, cleaning the outdoor coil and checking the unit heats as it should. The full list is on our <a href="/maintenance-servicing/">servicing page</a>.
+    a: Cleaning the filters, indoor coil and fan, checking the drain, cleaning the outdoor coil and checking the unit heats as it should., which is a standard <a href="/maintenance-servicing/">heat pump service</a> with us.
 related:
   - { label: Parklands, href: /parklands/, text: Heat pumps for Parklands homes. }
   - { label: Burwood, href: /burwood/, text: Installation and servicing in Burwood. }
@@ -31,7 +31,7 @@ In Queenspark we size a heat pump for the house as it is now, because many of it
 
 - **Homes that still have their original windows and insulation** lose more heat through the glass and walls, so the lounge needs more capacity than a newer house of the same size.
 - **Homes that have gained double glazing and wall insulation** may need a smaller heat pump than their age suggests.
-- **Extended homes**, where the lounge has been opened to the kitchen or carried into a family room, have a bigger heated space than the original plan shows. That is covered below.
+- **Extended homes**, where the lounge has been opened to the kitchen or carried into a family room, have a bigger heated space than the original plan shows.
 
 With everything on one level, a lounge unit plus bedroom units where you want them can cover the whole house.
 
@@ -43,7 +43,7 @@ Most Queenspark living rooms suit a high wall unit, mounted where the airflow ca
 - **High wall.** The most common choice, compact and quiet.
 - **Ducted.** Hidden in the ceiling with a vent in each room, if the roof space allows.
 
-Our [choosing a heat pump](/choosing-heat-pump/) guide goes through the trade-offs in more detail.
+Which of the three suits your lounge is the main question in [choosing a heat pump](/choosing-heat-pump/).
 
 ## Open plan living and extensions in Queenspark
 

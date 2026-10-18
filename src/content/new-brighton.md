@@ -18,7 +18,7 @@ faqs:
   - q: How often should I rinse the outdoor unit when I live near the beach?
     a: A gentle hose down of the outdoor coil every few months helps wash off salt. Use low pressure so the fins don't bend, and turn the unit off first.
   - q: Where should the outdoor unit go on a small New Brighton section?
-    a: On the side of the house most sheltered from the sea wind, with clear air around it and away from the neighbour's bedroom windows. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers the noise limits.
+    a: On the side of the house most sheltered from the sea wind, with clear air around it and away from the neighbour's bedroom windows. That keeps it inside the <a href="/heat-pump-boundary-rules-consent-nz/">noise limits at the boundary</a>.
 related:
   - { label: North New Brighton, href: /north-new-brighton/, text: Heat pumps for beachfront homes. }
   - { label: South New Brighton, href: /south-new-brighton/, text: Installation on the estuary side. }
@@ -30,7 +30,7 @@ related:
 In New Brighton, the layout of an older house and the salt in the air decide most of the heat pump plan.
 
 - **Timber cottages and former baches** that became full-time homes have often been added to over the years, so the floor plan is a string of rooms rather than one open space. A unit in the front lounge rarely carries heat through a narrow hallway to the rooms at the back. A second small unit, or a [multi-room system](/multi-room-heat-pump-installation/), heats a closed-off kitchen or sunroom better than one large unit turned up high.
-- **Weatherboard houses from the middle of last century** lose a lot of heat through their walls and windows. The next section covers what to fix before we size the unit.
+- **Weatherboard houses from the middle of last century** lose a lot of heat through their walls and windows. Some of that is worth fixing before we size the unit.
 - **Every home this close to the sand** needs the outdoor unit placed and mounted for salt and loose ground, covered further down.
 
 ## Fix the heat loss in New Brighton homes first
@@ -51,7 +51,7 @@ New Brighton is built on sand. A pad laid straight onto loose sand can tilt over
 
 ## Heat pump service and repairs in New Brighton
 
-Whatever the make, from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic to most others sold in New Zealand, we can service and repair it. Near the coast, signs to watch for are rust on the outdoor casing, a coil that looks white or crusted, or heating that has dropped off. Our [repairs page](/heat-pump-repair/) lists the common faults.
+Whatever the make, from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic to most others sold in New Zealand, we can service and repair it. Near the coast, signs to watch for are rust on the outdoor casing, a coil that looks white or crusted, or heating that has dropped off. Any of those is a reason to book a [heat pump repair](/heat-pump-repair/) visit.
 
 ## Suburbs near New Brighton
 

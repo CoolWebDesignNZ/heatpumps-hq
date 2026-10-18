@@ -32,13 +32,13 @@ Mitsubishi Electric is one of the brands we install, and we service and repair M
 - **High wall units**, the standard single-room heat pump
 - **Floor consoles** under windows and in rooms without a suitable high wall
 - **Multi-room systems** with several indoor units on one outdoor unit
-- **Ducted systems** in the ceiling or under the floor. Our [Mitsubishi ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/) page has more on those.
+- **[Mitsubishi ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/)** in the ceiling or under the floor
 
 ## Mitsubishi heat pump repairs
 
 When a Mitsubishi heat pump has a problem, it often stops and flashes the operation light on the indoor unit, or shows a code on a wired controller. Other faults show up as weak heating, water down the wall, a rattle from the outdoor unit or a smell on start-up.
 
-We don't stop at the code. The unit's self-diagnosis tells us which part or circuit noticed the problem, and our tests confirm the actual cause. A sensor fault, a fan motor, a control board or a refrigerant leak can each produce symptoms that look alike from the couch. Our [fault finding](/heat-pump-troubleshooting/) page shows what we test.
+We don't stop at the code. The unit's self-diagnosis tells us which part or circuit noticed the problem, and our tests confirm the actual cause. A sensor fault, a fan motor, a control board or a refrigerant leak can each produce symptoms that look alike from the couch. [Fault finding](/heat-pump-troubleshooting/) is how we tell them apart.
 
 Once we know what has failed, you get a fixed price. If the unit is old enough that a repair isn't good value, we'll tell you that too, with a price for both.
 
@@ -51,11 +51,11 @@ A Mitsubishi heat pump service with us cleans the unit inside and out and checks
 3. Outdoor unit checked, its coil cleaned and leaves and garden growth cleared away from it.
 4. A performance check in heating and cooling, so we can see the unit is putting out the heat it should.
 
-Book before winter if you can. Full details are on our [heat pump servicing](/maintenance-servicing/) page, and a unit that smells musty may need our [heat pump cleaning](/heat-pump-cleaning/) service.
+Book your [heat pump servicing](/maintenance-servicing/) before winter if you can. A unit that smells musty may need [heat pump cleaning](/heat-pump-cleaning/) as well.
 
 ## Wi-Fi Control on Mitsubishi heat pumps
 
-Mitsubishi Electric's own Wi-Fi system is called [Wi-Fi Control](https://www.mitsubishi-electric.co.nz/wifi/). It uses a Wi-Fi interface that can be bought with a new heat pump or retrofitted to a compatible existing model, and an app for your phone. If the app has stopped connecting, the cause is often the router rather than the heat pump: a new router, a changed password or a 2.4 GHz band that has been switched off. Our [smart heat pump](/smart-heat-pump-systems/) page compares it with the other brands' controls.
+Mitsubishi Electric's own Wi-Fi system is called [Wi-Fi Control](https://www.mitsubishi-electric.co.nz/wifi/). It uses a Wi-Fi interface that can be bought with a new heat pump or retrofitted to a compatible existing model, and an app for your phone. If the app has stopped connecting, the cause is often the router rather than the heat pump: a new router, a changed password or a 2.4 GHz band that has been switched off. The other brands each use their own app, and [smart heat pump systems](/smart-heat-pump-systems/) compares them.
 
 ## Mitsubishi heat pumps in Christchurch homes
 

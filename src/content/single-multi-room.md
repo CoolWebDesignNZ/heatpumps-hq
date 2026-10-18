@@ -1,10 +1,10 @@
 ---
 title: "Single or Multi Room Heat Pump Installs"
-description: "Not sure if you need one heat pump, several or a ducted system? Compare single room, multi room, ducted and zoned installs, then find the page for your home."
+description: "Not sure if you need one heat pump, several or a ducted system? Compare single room, multi room, ducted and zoned installs and see which one suits your home."
 keyword: single or multi room heat pump
 secondary: [heat pump for multiple rooms, single room vs multi room heat pump]
 h1: Single or multi room heat pump, which install suits your home
-intro: The right setup depends on how many rooms you want warm, how the house is laid out and where the units can go. Start here, then read the page that fits.
+intro: The right setup depends on how many rooms you want warm, how the house is laid out and where the units can go.
 hero: installs-hero
 gallery: [installs-living, installs-hallway]
 faqHeading: "Questions about heating multiple rooms with a heat pump"
@@ -36,7 +36,7 @@ A [single room heat pump](/single-room-heat-pump-installation/) is one indoor un
 
 ## A heat pump for multiple rooms
 
-A [multi room heat pump](/multi-room-heat-pump-installation/) runs two or more indoor units from one outdoor unit, each with its own controller. It suits houses with limited outside wall space, and the page sets out the trade-offs against separate single systems.
+A [multi room heat pump](/multi-room-heat-pump-installation/) runs two or more indoor units from one outdoor unit, each with its own controller. It suits houses with limited outside wall space. The alternative is separate single systems, one outdoor unit for each room.
 
 ## The whole house
 

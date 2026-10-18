@@ -18,7 +18,7 @@ faqs:
   - q: Could a ducted heat pump work in a Parklands brick and tile house?
     a: Often, if the roof space has enough room for the ducts and the ceiling insulation can be put back properly. It puts a vent in each room with nothing on the walls. More on <a href="/ducted-heat-pumps-christchurch/">ducted systems for Christchurch homes</a>.
   - q: Where should the outdoor unit go when houses in Parklands are close together?
-    a: Beside your garage or laundry, or on a wall away from the neighbour's bedrooms, with room for air to flow. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> explains the noise limits.
+    a: Beside your garage or laundry, or on a wall away from the neighbour's bedrooms, with room for air to flow. That placement keeps it within the <a href="/heat-pump-boundary-rules-consent-nz/">noise limits at the neighbour's boundary</a>.
 related:
   - { label: Queenspark, href: /queenspark/, text: Heat pumps for Queenspark homes. }
   - { label: North New Brighton, href: /north-new-brighton/, text: Installation near the beach. }
@@ -53,7 +53,7 @@ Parklands is close enough to the coast for some salt to arrive on an easterly, s
 
 ## Heat pump repair and servicing in Parklands
 
-Repairs and servicing cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands too. A yearly service before winter covers the filters, coil, fan and drain. Book through our [servicing](/maintenance-servicing/) page, or see [repairs](/heat-pump-repair/) for faults.
+Repairs and servicing cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands too. A yearly service before winter covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold arrives, or call us for [repairs](/heat-pump-repair/) when something has failed.
 
 ## Suburbs near Parklands
 

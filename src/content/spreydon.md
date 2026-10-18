@@ -18,7 +18,7 @@ faqs:
   - q: Can the new heat pump use the old pipes?
     a: Sometimes. Old pipework can stay only if it's in good condition, the right size for the new unit, and the new unit's manufacturer allows it. We check on site and tell you in the quote whether we're reusing or replacing them.
   - q: Is my old heat pump worth repairing?
-    a: Sensors, fan motors and drain problems are usually worth repairing. A failed compressor on an old unit usually isn't worth the cost. Our <a href="/heat-pump-repair/">repair page</a> explains how we decide.
+    a: Sensors, fan motors and drain problems are usually worth a <a href="/heat-pump-repair/">repair</a>. A failed compressor on an old unit usually isn't worth the cost.
 related:
   - { label: Hillmorton, href: /hillmorton/, text: Heat pumps for Hillmorton's flat streets and lower slopes. }
   - { label: Hoon Hay, href: /hoon-hay/, text: Installs and servicing for Hoon Hay family homes. }

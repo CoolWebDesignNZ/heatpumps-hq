@@ -16,7 +16,7 @@ faqs:
   - q: Can I add a Wi-Fi controller to my existing heat pump?
     a: Often, yes. Mitsubishi Electric's Wi-Fi interface can be retrofitted to compatible existing models, and Fujitsu's adaptor plugs into a select range of units. Older and some entry-level models can't take one. Give us the model number and we'll check.
   - q: Does a Wi-Fi heat pump work with Google or Alexa?
-    a: Some do. Mitsubishi Electric lists voice control for its Wi-Fi Control, and Fujitsu describes its adaptor as voice assistant friendly. Check the brand's page for your model before relying on it.
+    a: Some do. Mitsubishi Electric lists voice control for its Wi-Fi Control, and Fujitsu describes its adaptor as voice assistant friendly. Check the brand's details for your model before relying on it.
   - q: Will a smart controller lower my power bill?
     a: Only if it means the heat pump runs less. Schedules that match when you're home, and switching it off remotely when nobody is, are what make the difference.
 related:
@@ -59,11 +59,11 @@ A Wi-Fi heat pump needs three things from your house: a signal where the indoor 
 
 ## Choosing a smart heat pump on a new install
 
-If you're getting a new heat pump, decide on Wi-Fi control before the quote is finalised. Some models have it built in, others need the adaptor ordered with the unit, and choosing a model with it built in is simpler than adding it later. We size every install from your rooms, insulation, windows and how you use the house, and include the controller you want in the fixed price. See our [heat pump installation](/heat-pump-installation-in-christchurch/) page.
+If you're getting a new heat pump, decide on Wi-Fi control before the quote is finalised. Some models have it built in, others need the adaptor ordered with the unit, and choosing a model with it built in is simpler than adding it later. We size every install from your rooms, insulation, windows and how you use the house, and include the controller you want in the fixed price for your [heat pump installation](/heat-pump-installation-in-christchurch/).
 
 ## Smart heat pump controllers and zoning
 
-A Wi-Fi controller gives you control from your phone. It doesn't give you different temperatures in different rooms on a single ducted system. That needs a zone controller, covered on our [heat pump zoning](/heat-pump-zoning/) page. In a house with several wall units, each unit can usually be added to the same app and run on its own schedule.
+A Wi-Fi controller gives you control from your phone. It doesn't give you different temperatures in different rooms on a single ducted system. That needs a zone controller, part of [heat pump zoning](/heat-pump-zoning/). In a house with several wall units, each unit can usually be added to the same app and run on its own schedule.
 
 ## Using a smart heat pump well
 
@@ -71,7 +71,7 @@ A smart heat pump earns its keep when you set it up once and let the schedule do
 
 - Set a morning and an evening schedule, then leave it to run.
 - Use the app to switch off when plans change, rather than leaving the house warm and empty.
-- Check the room temperature in the app now and then. A room that never reaches the setting is worth a look, and our [thermostat and sensor checks](/heat-pump-thermostat-calibration/) page explains why.
+- Check the room temperature in the app now and then. A room that never reaches the setting can point to a sensor problem worth a [thermostat and sensor check](/heat-pump-thermostat-calibration/).
 - Keep the app updated, and re-pair the adaptor after you change your router or Wi-Fi password.
 
 For a quote on a new smart heat pump, or to check whether your current unit can take a Wi-Fi controller, call **03 242 1023**.

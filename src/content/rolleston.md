@@ -18,7 +18,7 @@ faqs:
   - q: Is a ducted heat pump a good choice for a new Rolleston home?
     a: It can be. Ducting is easiest to fit while a house is being built or when there's good ceiling space, and it heats every room evenly with no units on the walls. In an existing home, one or two well placed wall units often give the same comfort for less. See <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split heat pumps</a>.
   - q: Which council's rules apply to a heat pump in Rolleston?
-    a: Rolleston is in Selwyn District, so the Selwyn District Plan applies rather than Christchurch's. In both, what counts is the noise at the neighbour's property. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> explains how to place the outdoor unit.
+    a: Rolleston is in Selwyn District, so the Selwyn District Plan applies rather than Christchurch's. In both, what counts is the noise at the neighbour's property. We place the outdoor unit to meet the <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules</a> for noise.
   - q: How often should a heat pump be serviced?
     a: Once a year for most homes, ideally before winter. Clean the filters yourself every few weeks while it's in heavy use.
 related:
@@ -43,13 +43,13 @@ Clear winter nights on the plains bring hard frosts, and that's when a heat pump
 ## What we do in Rolleston
 
 - **New installations.** Wall-mounted, floor console, multi-room and [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing.** Filter and coil cleans, drain checks and a full performance check. Our [servicing page](/maintenance-servicing/) lists each step.
-- **Repairs.** Fault finding and repairs on all the major brands. Our [repairs page](/heat-pump-repair/) explains how we trace a fault.
+- **[Servicing](/maintenance-servicing/).** Filter and coil cleans, drain checks and a full performance check.
+- **[Repairs](/heat-pump-repair/).** Fault finding and repairs on all the major brands.
 - **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
 ## Mitsubishi heat pumps in Rolleston
 
-We install Mitsubishi Electric heat pumps in Rolleston, and service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
+We install Mitsubishi Electric heat pumps in Rolleston, and [service and repair Mitsubishi units](/mitsubishi-heat-pump-service-christchurch/) of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install.
 
 ## Areas near Rolleston
 

@@ -16,9 +16,9 @@ faqs:
   - q: When should we talk to you about a heat pump for a new build?
     a: Before the wall linings and ceilings go in. At that stage pipes, cable and condensate drains can run inside the walls, and ducting can go through the roof space, without any patching later.
   - q: Wall units or ducted for a new Prebbleton home?
-    a: Ducted suits a home with good roof space where you'd like warmth in every room and no units on show. Wall units are simpler to retrofit and let you heat only the rooms you're using. The <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split guide</a> goes through the trade-offs.
+    a: Ducted suits a home with good roof space where you'd like warmth in every room and no units on show. Wall units are simpler to retrofit and let you heat only the rooms you're using. Those are the main trade-offs between <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted and split systems</a>.
   - q: Can several rooms run off one outdoor unit?
-    a: Yes. A multi-room system connects two or more indoor units to a single outdoor unit, which saves wall space outside. Our <a href="/multi-room-heat-pump-installation/">multi-room page</a> explains the limits on how many rooms one unit can serve.
+    a: Yes. A multi-room system connects two or more indoor units to a single outdoor unit, which saves wall space outside. There is a limit to how many rooms one outdoor unit can serve in a <a href="/multi-room-heat-pump-installation/">multi-room installation</a>.
   - q: Which council's rules apply in Prebbleton?
     a: The Selwyn District Plan. Prebbleton sits in Selwyn District, outside Christchurch City's boundary.
 related:
@@ -33,7 +33,7 @@ Prebbleton sits between Christchurch and Lincoln in Selwyn District, and the hea
 
 - **Houses in the new subdivisions** are mostly built to current insulation standards, often with double glazing and one large kitchen, dining and family space. That room keeps its heat, so one high wall unit sized for its full floor area will warm it. A unit that is too big for a house like this reaches temperature quickly, then switches off and on all evening and uses more power doing it. The bedrooms at the far end won't get much from it, so if you want them warm at night, plan a small second unit or [multi-room heads](/multi-room-heat-pump-installation/) from the start.
 - **Houses from before the subdivisions** in the original village usually have smaller rooms with doors between them. A lounge unit stays in the lounge. These homes lose more heat through the ceiling, the floor and older windows, so we look in the roof space and under the floor before settling on capacity.
-- **Homes on lifestyle blocks and larger sections** have space to put the outdoor unit well clear of bedrooms and the boundary. A house with several living areas usually suits more than one indoor unit or a ducted system, covered below.
+- **Homes on lifestyle blocks and larger sections** have space to put the outdoor unit well clear of bedrooms and the boundary. A house with several living areas usually suits more than one indoor unit or a ducted system.
 
 At the quote we measure each room, note the glazing and insulation, and work out what each unit has to deliver on a frosty Selwyn morning.
 
@@ -50,7 +50,7 @@ Talk to your builder and to us early, and the install becomes simpler and tidier
 
 ## Wall, multi-room or ducted heat pumps for Prebbleton homes
 
-In a home that's already built, the choice usually comes down to three options. A single wall unit can heat a well insulated open plan living area. A [multi-room system](/multi-room-heat-pump-installation/) adds smaller units in bedrooms, all running from one outdoor unit. A ducted system heats every room through ceiling vents, with the indoor unit hidden in the roof space. Our [ducted vs split guide](/ducted-vs-split-heat-pumps-christchurch/) sets out the differences. We size whichever you choose from the rooms, windows and insulation of your house.
+In a home that's already built, the choice usually comes down to three options. A single wall unit can heat a well insulated open plan living area. A [multi-room system](/multi-room-heat-pump-installation/) adds smaller units in bedrooms, all running from one outdoor unit. A ducted system heats every room through ceiling vents, with the indoor unit hidden in the roof space. Weighing [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) comes down to roof space and which rooms you want warm. We size whichever you choose from the rooms, windows and insulation of your house.
 
 ## Larger Prebbleton sections and rural blocks
 
@@ -58,7 +58,7 @@ On a bigger section the outdoor unit can usually sit well away from the boundary
 
 ## Selwyn District noise rules for Prebbleton heat pumps
 
-Heat pump noise in Prebbleton is a matter for the Selwyn District Plan. See our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) for how placement affects noise next door.
+Heat pump noise in Prebbleton is a matter for the Selwyn District Plan. Where the outdoor unit sits decides how much noise reaches next door, so we place it with the [boundary rules](/heat-pump-boundary-rules-consent-nz/) in mind.
 
 ## What we do in Prebbleton
 

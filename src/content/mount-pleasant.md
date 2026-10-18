@@ -20,7 +20,7 @@ faqs:
   - q: Can a heat pump cool a hot north-facing room in summer?
     a: Yes. Every split system heat pump we install can cool as well as heat. A room with a lot of glass may need a larger unit than its floor area suggests.
   - q: Do you service heat pumps on Mount Pleasant?
-    a: Yes, for all the major brands. Booking one each autumn, before the cold sets in, suits most hill homes. Our <a href="/heat-pump-servicing/">servicing page</a> lists what we check.
+    a: Yes, we <a href="/heat-pump-servicing/">service heat pumps</a> of all the major brands. Booking one each autumn, before the cold sets in, suits most hill homes.
 related:
   - { label: Redcliffs, href: /redcliffs/, text: Coastal and hillside homes near the estuary. }
   - { label: Moncks Bay, href: /moncks-bay/, text: Heat pumps for homes on the slope above the bay. }
@@ -49,11 +49,11 @@ Level ground is scarce on Mount Pleasant. The outdoor unit usually ends up on a 
 - **Drainage.** Defrost water has to run off cleanly, not drip onto steps or a path.
 - **Getting there.** Some sites are reached by long flights of steps, which we plan for at the quote visit so the price doesn't change on the day.
 
-Mount Pleasant is in Christchurch City, so the District Plan's noise limits apply. Read how those limits work in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+Mount Pleasant is in Christchurch City, where the District Plan's [boundary noise limits](/heat-pump-boundary-rules-consent-nz/) apply to every outdoor unit.
 
 ## Our work on Mount Pleasant
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, from single wall units to ducted setups in rebuilt homes. Servicing and repairs cover those four plus Panasonic and nearly every other make on the New Zealand market. If your heat pump has stopped heating properly, our [repairs page](/heat-pump-repair/) explains how we find the fault.
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, from single wall units to ducted setups in rebuilt homes. Servicing and repairs cover those four plus Panasonic and nearly every other make on the New Zealand market. If your heat pump has stopped heating properly, [heat pump repair](/heat-pump-repair/) starts with finding the fault.
 
 ## Around Mount Pleasant
 

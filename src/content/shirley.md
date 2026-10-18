@@ -11,7 +11,7 @@ intro: We install, service and repair heat pumps in Shirley's mid-century weathe
 hero: shirley-hero
 gallery: [pool-frost-outdoor, pool-bedroom-unit]
 faqHeading: "Shirley heat pump questions"
-relatedHeading: "More heat pump pages near Shirley"
+relatedHeading: Heat pumps near Shirley
 faqs:
   - q: Can a heat pump help with a damp Shirley house?
     a: It can help. Keeping rooms at a steady temperature reduces condensation, and most units have a dry mode that pulls moisture from the air. It won't fix a leak or rising damp, so those need sorting first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
@@ -29,13 +29,13 @@ related:
 
 ## Heat pump installation for damp Shirley homes
 
-A Shirley home that feels cold and damp at the same time, with condensation streaming down the windows on winter mornings, needs a heat pump that runs steadily rather than one that blasts heat for an hour in the evening. Steady warmth keeps wall and window surfaces above the point where moisture condenses, and most units have a dry mode for mild, muggy days. Our [dehumidification page](/heat-pump-dehumidification/) explains how it works.
+A Shirley home that feels cold and damp at the same time, with condensation streaming down the windows on winter mornings, needs a heat pump that runs steadily rather than one that blasts heat for an hour in the evening. Steady warmth keeps wall and window surfaces above the point where moisture condenses, and most units have a [dry mode](/heat-pump-dehumidification/) for mild, muggy days.
 
 This flat north-eastern suburb has a large stock of mid-century weatherboard and brick houses, many on concrete or timber floors, with modest insulation unless it has been upgraded. That changes the setup:
 
 - **Little or no ceiling insulation** means the lounge unit needs more capacity. Topping up the insulation lets a smaller unit do the job.
 - **Timber floors** let cold air up from underneath, so underfloor insulation matters as much as the heat pump. Concrete floors feel cold underfoot but don't let draughts through.
-- **Closed-off bedrooms** are where damp usually starts. A small unit set low overnight keeps them dry, as covered below.
+- **Closed-off bedrooms** are where damp usually starts. A small unit set low overnight keeps them dry.
 
 ## Before we size a heat pump for your Shirley home
 

@@ -43,7 +43,7 @@ The usual reasons a Panasonic needs us are the same as other brands: it has stop
 Our process:
 
 1. **Read the fault.** If the unit has stored a code, we read it using the service information for that model.
-2. **Test the system.** Power and wiring, sensors, fans, the control board, drainage and the refrigerant circuit. The steps are on our [fault finding](/heat-pump-troubleshooting/) page.
+2. **Test the system.** Power and wiring, sensors, fans, the control board, drainage and the refrigerant circuit all get checked in [fault finding](/heat-pump-troubleshooting/).
 3. **Price the fix.** You get a fixed price before any work, along with whether the part is available.
 4. **Repair and test.** The unit is run in heating and cooling before we leave.
 
@@ -60,16 +60,16 @@ Regular servicing matters on any heat pump, and an older Panasonic is no excepti
 - the outdoor unit's coil cleaned and the space around it cleared
 - a run in heating and cooling to check its output
 
-Full details are on our [servicing](/maintenance-servicing/) page. A sour or musty smell on start-up needs our [heat pump cleaning](/heat-pump-cleaning/) service.
+That is our standard [servicing](/maintenance-servicing/). A sour or musty smell on start-up needs [heat pump cleaning](/heat-pump-cleaning/) as well.
 
 ## Parts for Panasonic heat pumps
 
-Fan motors, sensors and control boards are common replacement parts on any brand. On older Panasonic units some of those can become hard to source. We check before we quote, so you're not left with a half-finished repair waiting on a part that doesn't exist. More on our [parts replacement](/heat-pump-parts-replacement/) page.
+Fan motors, sensors and control boards are common replacement parts on any brand. On older Panasonic units some of those can become hard to source. We check availability before we quote any [parts replacement](/heat-pump-parts-replacement/), so you're not left with a half-finished repair waiting on a part that doesn't exist.
 
 ## When to replace a Panasonic heat pump
 
 If the compressor has failed on an older Panasonic, parts can't be found, or the unit is running an older refrigerant and keeps needing work, a new heat pump is usually the better spend. Because we don't install Panasonic, our replacement quote will be a Mitsubishi Electric, Daikin, Fujitsu or Toshiba unit. We size it from the room, the insulation, the windows and how you use the space, not just from the size of the old unit.
 
-If you're weighing it up, our [choosing a heat pump](/choosing-heat-pump/) guide and [brand comparison](/heat-pump-brands-comparison/) are a good place to start.
+If you're weighing it up, start with [choosing a heat pump](/choosing-heat-pump/) and a [brand comparison](/heat-pump-brands-comparison/) of the four we install.
 
 To book a Panasonic heat pump repair or service, call **03 242 1023**.

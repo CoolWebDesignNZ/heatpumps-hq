@@ -32,7 +32,7 @@ How warm a Sockburn home gets from a heat pump depends less on the unit and more
 - **Older weatherboard and brick houses** often have a separate lounge, a kitchen at the back and bedrooms off a hall, with original single glazing and patchy insulation. Heat escapes through the glass, the ceiling and the floor, and closed doors keep a lounge unit's warmth in the lounge. A wall unit sized to the living room, with the bedrooms added later, is the usual start, covered next.
 - **Newer units and townhouses** are smaller and better sealed, so one high wall unit in the living area can heat it on a small capacity. A two storey townhouse may need a second small unit upstairs.
 
-Sockburn lies between Upper Riccarton and Hornby, either side of the main roads heading west, and that matters for upkeep and placement too: homes near busy roads collect dust faster, and split sections leave little room outside, both covered below.
+Sockburn lies between Upper Riccarton and Hornby, either side of the main roads heading west, and that matters for upkeep and placement too: homes near busy roads collect dust faster, and split sections leave little room outside.
 
 ## Heat pump installation in Sockburn starts with the living room
 
@@ -46,11 +46,11 @@ Some Sockburn homes back onto busy roads or commercial sites, and dust settles o
 
 ## Sockburn back sections and shared driveways
 
-Narrow Sockburn sections, especially back sections on a shared driveway, leave little room for the outdoor unit. We pick a spot where the unit has airflow, drains freely and won't be knocked. The Christchurch District Plan measures noise at the neighbouring site, so we also keep it away from next-door bedrooms. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits.
+Narrow Sockburn sections, especially back sections on a shared driveway, leave little room for the outdoor unit. We pick a spot where the unit has airflow, drains freely and won't be knocked. The Christchurch District Plan measures noise at the neighbouring site, so we also keep it away from next-door bedrooms and within the [boundary limits](/heat-pump-boundary-rules-consent-nz/).
 
 ## Repair or replace an older heat pump in Sockburn
 
-Before you pay for a new heat pump, we find out what has actually failed in the old one. A unit that has run for many winters can lose output from a worn fan, a blocked drain or a slow refrigerant leak, and many of those faults are worth fixing. If replacement is the better call, we'll say so and quote it at a fixed price. Our [heat pump repairs](/heat-pump-repair/) page explains the usual faults.
+Before you pay for a new heat pump, we find out what has actually failed in the old one. A unit that has run for many winters can lose output from a worn fan, a blocked drain or a slow refrigerant leak, and many of those are worth a [heat pump repair](/heat-pump-repair/) rather than a new unit. If replacement is the better call, we'll say so and quote it at a fixed price.
 
 ## What we do in Sockburn
 

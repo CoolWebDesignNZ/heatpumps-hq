@@ -18,7 +18,7 @@ faqs:
   - q: Our section is cut into the hill. Where does the outdoor unit go?
     a: Often on a wall bracket or on a narrow strip beside the house, with enough clearance behind and in front for air to flow. We measure the gap to the retaining wall at the quote visit and check it against the model's clearances.
   - q: How do I keep a heat pump near the sea in good condition?
-    a: Clean the indoor filters every few weeks in winter, hose the outdoor coil gently now and then, and book a yearly service. Our <a href="/maintenance-servicing/">maintenance and servicing page</a> explains what's included.
+    a: Clean the indoor filters every few weeks in winter, hose the outdoor coil gently now and then, and book a yearly <a href="/maintenance-servicing/">maintenance service</a>.
   - q: Do you repair heat pumps in Moncks Bay?
     a: Yes, all the major brands, Monday to Friday.
 related:
@@ -31,7 +31,7 @@ related:
 
 In Moncks Bay the heat pump is decided by which side of the coast road the house sits on, and by salt in the air. This small stretch of the estuary edge between Redcliffs and the foot of Mount Pleasant is only metres from the water at every address.
 
-- **Houses facing the water** across the coast road take the wind straight off the estuary, and a house in the wind loses heat faster. We size for a windy winter evening, and the outdoor unit goes on the sheltered side, as the next section explains.
+- **Houses facing the water** across the coast road take the wind straight off the estuary, and a house in the wind loses heat faster. We size for a windy winter evening, and the outdoor unit goes on the sheltered side of the house.
 - **Houses set into the slope** sit on sections cut into the hill, with retaining walls and steps up to the front door. Rooms backing onto a retaining wall get little sun and can feel damp, so they often need their own small unit, and dry mode helps on mild, damp days.
 - **Rebuilt and strengthened homes**, of which there are many since the earthquakes, usually hold heat well. One correctly sized high wall unit in the main living area may be all a modern rebuild needs, with a small unit added for bedrooms at the cold end of the house.
 
@@ -51,7 +51,7 @@ Clean your heat pump's indoor filters every few weeks during winter by vacuuming
 
 ## What we do in Moncks Bay
 
-For new systems we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For existing ones we service and [repair](/heat-pump-repair/) all of those, Panasonic too, and most other brands found in New Zealand homes. Moncks Bay falls under Christchurch City, so the District Plan's noise rules apply, as our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) describes.
+For new systems we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For existing ones we service and [repair](/heat-pump-repair/) all of those, Panasonic too, and most other brands found in New Zealand homes. Moncks Bay falls under Christchurch City, so the District Plan's [noise rules at the boundary](/heat-pump-boundary-rules-consent-nz/) apply.
 
 ## Around Moncks Bay
 
