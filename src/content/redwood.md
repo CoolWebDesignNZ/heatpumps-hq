@@ -27,7 +27,7 @@ related:
 
 ## Heat pump installation for Redwood's houses
 
-Redwood is a northern Christchurch suburb of family homes, many of them single storey brick and tile houses built from the 1960s to the 1980s. They tend to have a lounge or family room at one end, bedrooms down a hallway and a garage on the side. For heating, that layout splits neatly into two zones: the living area and the bedrooms.
+Heat pump installation in Redwood is mostly for family homes, as this northern Christchurch suburb is full of them, many single storey brick and tile houses built from the 1960s to the 1980s. They tend to have a lounge or family room at one end, bedrooms down a hallway and a garage on the side. For heating, that layout splits neatly into two zones: the living area and the bedrooms.
 
 ## Zone one: the living area
 
@@ -52,6 +52,8 @@ Most modern units have a timer and a weekly schedule. Setting the lounge to warm
 Northern Christchurch gets plenty of clear, frosty winter mornings. An outdoor unit sitting on raised feet, with room to drain its defrost water, copes much better than one sat on the ground in a garden bed. We set that up as part of every install.
 
 ## Heat pump service and repairs in Redwood
+
+Once your Redwood heat pump is in, we keep it running with yearly servicing and repairs:
 
 - **Servicing** once a year, ideally before winter. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs** for any major brand, including units someone else fitted. See [heat pump repairs](/heat-pump-repair/).

@@ -27,23 +27,25 @@ related:
 
 ## Heat pump installation for Casebrook's family homes
 
-Casebrook, on Christchurch's north-west side, is made up largely of single storey family homes from the later part of last century, many of them brick and tile on standard suburban sections. It's a suburb where a lot of houses already have a heat pump, and where many of those first units are now getting old.
+Most heat pump installation in Casebrook is in family homes, because the suburb on Christchurch's north-west side is made up largely of single storey houses from the later part of last century, many of them brick and tile on standard suburban sections. It's a suburb where a lot of houses already have a heat pump, and where many of those first units are now getting old.
 
 ## Heat pump repair or replacement in Casebrook
 
-An older unit that rattles, takes a long time to warm the room, or shows a fault light isn't always finished. We find the cause first and give you a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
+Whether to repair or replace an older heat pump in Casebrook depends on what's wrong with it. A unit that rattles, takes a long time to warm the room, or shows a fault light isn't always finished, so we find the cause first and give you a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
 
 When a replacement is the better option, it's a chance to correct the size. Many homes have had ceiling insulation topped up or windows replaced since the first heat pump went in, and that changes the capacity the room needs. We size the new unit from the room as it is now, the insulation and the windows, not from the label on the old one.
 
 ## Brick and tile Casebrook homes in winter
 
-Brick veneer houses from this era often have a long living area facing the street or the back garden, with bedrooms off a hallway. A wall unit at one end of the lounge can carry heat into the dining space if nothing blocks the airflow. Bedrooms at the far end of the hall are a different matter: they usually need a small unit each, or a [ducted system](/ducted-heat-pumps-christchurch/) if the ceiling space allows it.
+Keeping a brick and tile Casebrook home warm in winter comes down to its layout. Brick veneer houses from this era often have a long living area facing the street or the back garden, with bedrooms off a hallway. A wall unit at one end of the lounge can carry heat into the dining space if nothing blocks the airflow. Bedrooms at the far end of the hall are a different matter: they usually need a small unit each, or a [ducted system](/ducted-heat-pumps-christchurch/) if the ceiling space allows it.
 
 Garages are common on Casebrook homes, and an outside garage wall can be a good place for the outdoor unit if it is close to the room being heated. A short pipe run is cheaper to install and loses less performance.
 
 Outdoor units on these homes usually sit on raised feet against the brick wall, clear of garden beds, with a clear path for defrost water.
 
 ## Heat pump installs, service and repairs in Casebrook
+
+For Casebrook homes we handle new and replacement installs, yearly servicing and repairs:
 
 - **New and replacement installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor console, multi-room and ducted systems.
 - **Servicing.** A yearly clean and check keeps a unit running efficiently. See [maintenance and servicing](/maintenance-servicing/).

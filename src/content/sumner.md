@@ -33,7 +33,7 @@ Sumner sits at the end of the coast road, where the estuary meets the open sea. 
 
 ## Heat pump installation close to Sumner beach
 
-An outdoor unit within sight of the beach collects a fine film of salt, and on windy days, sand. Both clog the coil fins and can corrode the casing. We look for a spot that's out of the direct onshore wind but still has good airflow, often down the side of the house or behind a fence. Raised feet keep the unit above any wind-blown sand that gathers at ground level.
+Installing a heat pump near Sumner beach means planning for salt and sand. An outdoor unit within sight of the sea collects a fine film of salt, and on windy days, sand. Both clog the coil fins and can corrode the casing. We look for a spot that's out of the direct onshore wind but still has good airflow, often down the side of the house or behind a fence. Raised feet keep the unit above any wind-blown sand that gathers at ground level.
 
 A light rinse of the outdoor coil with a hose every few months helps a coastal unit. Skip the water blaster, which bends the fins.
 

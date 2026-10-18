@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation for Mairehau homes
 
-Mairehau sits on flat ground in the north-east of Christchurch, between St Albans, Shirley and the more open land of Marshland. Much of its housing is modest mid-century stock: compact weatherboard and brick homes, including former state houses, on reasonable sections. Towards its northern edge the houses get newer.
+Heat pump installation in Mairehau is mostly for modest mid-century homes: compact weatherboard and brick houses, including former state houses, on reasonable sections. The suburb sits on flat ground in the north-east of Christchurch, between St Albans, Shirley and the more open land of Marshland, and towards its northern edge the houses get newer.
 
 A compact home is a good fit for a heat pump. The rooms are small, the walls are close together and the distance from the outdoor unit to the indoor unit is short, which keeps the install simple.
 
@@ -49,11 +49,13 @@ The newer houses on Mairehau's northern side are better insulated and often open
 
 ## Heat pump service and repair in Mairehau
 
+After the install, we service and repair heat pumps across Mairehau:
+
 - **Servicing.** We clean the filters, coils and drain and check the unit's performance. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs.** We fix faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands. See [heat pump repairs](/heat-pump-repair/).
 
 ## Other areas we cover near Mairehau
 
-[Shirley](/shirley/), [Marshland](/marshland/), [St Albans](/st-albans/), [Northcote](/northcote/) and all of [Christchurch](/locations/).
+We also work in [Shirley](/shirley/), [Marshland](/marshland/), [St Albans](/st-albans/), [Northcote](/northcote/) and all of [Christchurch](/locations/).
 
 To arrange a free quote in Mairehau, ring **03 242 1023** or complete the form below.

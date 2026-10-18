@@ -29,11 +29,11 @@ related:
 
 ## Heat pump installation for smaller Northcote homes
 
-Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood. Alongside its older family houses there are plenty of flats, units and small newer homes on subdivided sections. Most of the heat pumps we fit here are for one main living space, and getting the size right matters more than anything else.
+Most of the heat pumps we fit in Northcote are for one main living space in a smaller home, and getting the size right matters more than anything else. Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood, and alongside its older family houses there are plenty of flats, units and small newer homes on subdivided sections.
 
 ## Why a smaller heat pump often suits Northcote
 
-It's tempting to buy the biggest heat pump the budget allows, but in a compact home that's usually a mistake. An oversized unit heats the room in short bursts, cycles on and off, and uses more power for less comfort. A correctly sized unit runs steadily at a low output, which is quieter and cheaper to run. See [heat pump sizing](/heat-pump-sizing/) for what goes into the calculation.
+A smaller, correctly sized heat pump suits a compact Northcote home better than the biggest one the budget allows. An oversized unit heats the room in short bursts, cycles on and off, and uses more power for less comfort. A correctly sized unit runs steadily at a low output, which is quieter and cheaper to run. See [heat pump sizing](/heat-pump-sizing/) for what goes into the calculation.
 
 ## Fitting heat pumps to Northcote units and flats
 
@@ -46,6 +46,8 @@ Outdoor units on shared sites go on wall brackets or small pads, spaced from eac
 Northcote's older houses are a different job. A three bedroom home with a separate lounge usually needs more than one unit to heat the bedrooms. We'll quote a single living area unit and a multi-room option side by side, so you can see the difference.
 
 ## Heat pump installs, service and repairs in Northcote
+
+We install, service and repair heat pumps in Northcote flats, units and family houses:
 
 - **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for the space.
 - **Servicing.** A yearly filter, coil and drain clean. See [maintenance and servicing](/maintenance-servicing/).
