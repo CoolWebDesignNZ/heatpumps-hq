@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://heatpumps-christchurch.co.nz/sitemap_index.xml
+Sitemap: https://heatpumps-christchurch.co.nz/sitemap.xml
