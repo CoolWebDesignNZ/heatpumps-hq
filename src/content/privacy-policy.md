@@ -11,7 +11,7 @@ gallery: [privacy-1, privacy-2]
 
 ## Who we are
 
-Heat Pumps HQ is a heat pump installation, servicing and repair business in Christchurch. We follow the [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) and its [information privacy principles](https://www.privacy.org.nz/privacy-principles/). Nate Thompson owns the business and looks after privacy questions. You can reach him at [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz).
+Heat Pumps HQ is a heat pump installation, servicing and repair business in Christchurch. We follow the [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) and its [information privacy principles](https://www.privacy.org.nz/privacy-principles/). Nate Thompson owns the business and looks after privacy questions. You can reach him on [03 242 1023](tel:032421023).
 
 ## What we collect
 
@@ -24,7 +24,7 @@ This website only collects the personal information you type into the quote form
 - the type of job (installation, repair or service)
 - any message you add
 
-If you phone or email us instead, we keep what you tell us in the same way. If you email us, we keep your email address too.
+If you phone us instead, we keep what you tell us in the same way.
 
 ## What we don't collect
 
@@ -56,7 +56,7 @@ This site links to our Facebook page and to government websites. Once you leave 
 
 ## Your right to see and correct your information
 
-You can ask us for a copy of the personal information we hold about you. If it's wrong, you can ask us to correct it. Email [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz) or call [03 242 1023](tel:032421023). The Privacy Commissioner explains these rights on its [your privacy rights](https://www.privacy.org.nz/your-rights/your-privacy-rights/) page. That includes the rule that a business must respond to a request within 20 working days.
+You can ask us for a copy of the personal information we hold about you. If it's wrong, you can ask us to correct it. Call us on [03 242 1023](tel:032421023). The Privacy Commissioner explains these rights on its [your privacy rights](https://www.privacy.org.nz/your-rights/your-privacy-rights/) page. That includes the rule that a business must respond to a request within 20 working days.
 
 ## Complaints
 
@@ -66,4 +66,4 @@ Think we've mishandled your information? Please tell us first, so we can put it 
 
 If what the website collects changes, we'll update this policy.
 
-Send any questions about this policy to [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz).
+For any questions about this policy, call us on [03 242 1023](tel:032421023).

@@ -24,7 +24,7 @@ faqs:
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we size and fit a new system." }
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: "Yearly cleans and checks for any brand." }
-  - { label: Contact us, href: /contact-us/, text: "Phone, email and what to have ready." }
+  - { label: Contact us, href: /contact-us/, text: "Phone, hours and what to have ready." }
 ---
 
 ## Heat pumps near you, from the city to Selwyn

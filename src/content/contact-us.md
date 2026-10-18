@@ -1,10 +1,10 @@
 ---
 title: "Contact Heat Pumps HQ"
-description: "Need a heat pump quote in Christchurch or a repair booked? Our phone, email, hours and areas, plus what to have ready so the first call covers everything."
+description: "Need a heat pump quote in Christchurch or a repair booked? Our phone number, hours and areas, plus what to have ready so the first call covers everything."
 keyword: contact heat pumps hq
 secondary: [heat pump quote christchurch, heat pumps hq phone]
 h1: Contact Heat Pumps HQ
-intro: "Call, email or send the quote form and we'll come back to you with a free, fixed-price quote. We work Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton."
+intro: "Call or send the quote form and we'll come back to you with a free, fixed-price quote. We work Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton."
 hero: contact-hero
 gallery: [contact-1, contact-2]
 faqHeading: Questions before you contact Heat Pumps HQ
@@ -12,8 +12,6 @@ relatedHeading: Read before you get in touch
 faqs:
   - q: Is a quote free?
     a: Yes. Install quotes are free, and the price is fixed up front.
-  - q: Can I send photos?
-    a: Yes. Email them to info@heatpumps-christchurch.co.nz with your name, phone number and suburb. The most useful are the outdoor unit, or the wall where it would go. A photo of any error code on the indoor unit helps too.
   - q: Do you work weekends?
     a: Our hours are 8am to 5pm, Monday to Friday. Send a message or quote request outside those hours and we'll answer when we're back.
 related:
@@ -25,7 +23,6 @@ related:
 ## How to contact Heat Pumps HQ
 
 - **Phone:** [03 242 1023](tel:032421023)
-- **Email:** [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz)
 - **Hours:** Monday to Friday, 8am to 5pm
 - **Facebook:** [facebook.com/heatpumphq](https://www.facebook.com/heatpumphq)
 
@@ -57,4 +54,4 @@ Some faults have simple checks you can do before you call. [Heat pump troublesho
 
 ## Next step
 
-Call **[03 242 1023](tel:032421023)** in office hours or email us. Or fill in the quote form and we'll ring you back.
+Call **[03 242 1023](tel:032421023)** in office hours. Or fill in the quote form and we'll ring you back.

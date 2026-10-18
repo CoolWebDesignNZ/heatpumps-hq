@@ -47,4 +47,4 @@ New Zealand law governs these terms. The New Zealand courts have jurisdiction ov
 
 We may update these terms from time to time. The version on the site now is the one that applies.
 
-Send any questions about these terms to [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz) or call **[03 242 1023](tel:032421023)**.
+For any questions about these terms, call **[03 242 1023](tel:032421023)**.

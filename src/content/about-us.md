@@ -28,7 +28,7 @@ faqs:
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan, size and fit a new system." }
   - { label: Areas we cover, href: /locations/, text: "Every Christchurch suburb and Selwyn town we work in." }
-  - { label: Contact us, href: /contact-us/, text: "Phone, email and office hours." }
+  - { label: Contact us, href: /contact-us/, text: "Phone, hours and the quote form." }
 ---
 
 ## Why Nate Thompson started Heat Pumps HQ
