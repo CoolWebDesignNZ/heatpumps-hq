@@ -18,7 +18,7 @@ const banned = [
   'rest assured', 'hassle-free', 'hassle free', 'cutting-edge', 'cutting edge', 'state-of-the-art', 'top-notch',
   'one-stop', 'second to none', 'tailored to your needs', 'nestled', 'vibrant', 'bustling', 'navigate the',
   'when it comes to', "it's worth noting", 'in conclusion', 'ever-changing', 'look no', 'trusted experts',
-  'heat pumps hq offers', 'nate sizes', 'nate installs', 'nate will', 'testimonial', 'happy customers',
+  'heat pumps hq offers', 'owner-run', 'owner run', 'nate sizes', 'nate installs', 'nate will', 'testimonial', 'happy customers',
   'fastest', 'number one', 'no.1', '#1', 'best in christchurch', 'best in canterbury', 'unrivalled', 'unmatched', 'industry leading', 'industry-leading', 'leading heat pump',
 ];
 const us = /\b(color|colors|center|centers|centered|organize|organized|neighbor|neighbors|neighborhood|favorite|liter|liters|analyze|optimize|optimized|minimize|maximize|realize|recognize|apologize|customize|customized|humidity level|aluminum|gray|program(?:s|med)? your)\b/i;
@@ -56,8 +56,9 @@ for (const f of files) {
   if (/[–—]/.test(raw)) err('em or en dash');
   if (/ - /.test(body.replace(/^\s*- /gm, '').replace(/\| --- /g, ''))) err('spaced hyphen used as a dash');
   for (const b of banned) if (text.includes(b)) err(`banned phrase "${b}"`);
+  if (/\bour (owner|founder)\b/i.test(raw)) err('says "our owner" or "our founder": name Nate instead');
   const u = raw.replace(/\]\([^)]*\)|https?:\/\/\S+/g, '').match(us); if (u) err(`US spelling "${u[0]}"`);
-  if (slug !== 'about-us' && /\bnate\b/i.test(raw)) err('names Nate outside About');
+  if (!['about-us', 'privacy-policy'].includes(slug) && /\bnate\b/i.test(raw)) err('names Nate outside About');
   for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not one of the 133 URLs`);
   for (const r of fm.related ?? []) if (!paths.has(r.href)) err(`related link ${r.href} is not one of the 133 URLs`);
 }

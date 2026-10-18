@@ -1,10 +1,10 @@
 ---
 title: "Heat Pumps HQ Christchurch: About Us"
-description: "Who is behind Heat Pumps HQ? A Christchurch heat pump company, owner-run since 2015. How we size, price and install, the brands we fit and where we work."
+description: "Who is behind Heat Pumps HQ? Nate Thompson's Christchurch heat pump company since 2015. How we size, price and install, the brands we fit and where we work."
 keyword: heat pumps hq
 secondary: [heat pumps hq christchurch, heat pump company christchurch]
 h1: About Heat Pumps HQ
-intro: A Christchurch heat pump company, owner-run since 2015. We size each system to the house it goes in and agree the price before any work begins.
+intro: Nate Thompson's Christchurch heat pump company, running since 2015. We size each system to the house it goes in and agree the price before any work begins.
 hero: about-hero
 gallery: [about-1, about-2]
 faqs:

@@ -11,7 +11,7 @@ gallery: [privacy-1, privacy-2]
 
 ## Who we are
 
-Heat Pumps HQ is a heat pump installation, servicing and repair business in Christchurch. We follow the [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) and its [information privacy principles](https://www.privacy.org.nz/privacy-principles/). Our owner looks after privacy questions for the business, and you can reach him at [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz).
+Heat Pumps HQ is a heat pump installation, servicing and repair business in Christchurch. We follow the [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) and its [information privacy principles](https://www.privacy.org.nz/privacy-principles/). Nate Thompson, who owns the business, looks after privacy questions, and you can reach him at [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz).
 
 ## What we collect
 
