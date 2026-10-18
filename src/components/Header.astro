@@ -1,22 +1,106 @@
 ---
+// Main navigation. Installs, Services and Guides menus come from
+// src/data/nav.json; the Locations menu is read from the area headings and
+// links on the locations page, so the two never drift apart.
 import site from '../data/site.json';
+import nav from '../data/nav.json';
+import locationsMd from '../content/locations.md?raw';
+
+const areas = [];
+for (const line of locationsMd.split('\n')) {
+  const h = line.match(/^## (.+)/);
+  if (h) { areas.push({ title: h[1], links: [] }); continue; }
+  const l = line.match(/^- \[([^\]]+)\]\((\/[^)]+)\)/);
+  if (l && areas.length) areas.at(-1).links.push([l[1], l[2]]);
+}
+const menus = [
+  nav.installs, nav.services, nav.guides,
+  { label: 'Locations', href: '/locations/', all: 'All locations', wide: true, groups: areas.filter((a) => a.links.length) },
+];
+const plain = site.nav.filter((n) => !menus.some((m) => m.href === n.href || m.label === n.label));
+const here = Astro.url.pathname;
 ---
 <header class="hdr">
   <div class="wrap hdr-in">
     <a href="/" class="logo">{site.name}</a>
-    <nav aria-label="Main">
-      {site.nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    <nav class="main" aria-label="Main">
+      <ul>
+        {menus.map((m) => (
+          <li class="has-menu">
+            <a href={m.href} class="top" aria-haspopup="true">{m.label}</a>
+            <div class={`menu ${m.wide ? 'wide' : ''}`}>
+              <div class="wrap menu-in">
+                {m.groups.map((g) => (
+                  <div class="col">
+                    <p class="col-h">{g.title}</p>
+                    <ul>{g.links.map(([label, href]) => <li><a href={href} aria-current={href === here ? 'page' : undefined}>{label}</a></li>)}</ul>
+                  </div>
+                ))}
+                <p class="all"><a href={m.href}>{m.all}</a></p>
+              </div>
+            </div>
+          </li>
+        ))}
+        {plain.map((n) => <li><a href={n.href} class="top">{n.label}</a></li>)}
+      </ul>
     </nav>
-    <a class="btn btn-primary call" href={site.phoneHref}>{site.phone}</a>
+    <a class="btn btn-primary call" href={site.phoneHref}><span class="call-short">Call</span><span class="call-long">{site.phone}</span></a>
+    <details class="mnav">
+      <summary>Menu</summary>
+      <div class="mnav-panel">
+        {menus.map((m) => (
+          <details>
+            <summary>{m.label}</summary>
+            {m.groups.map((g) => (
+              <div class="mgroup">
+                <p class="col-h">{g.title}</p>
+                <ul>{g.links.map(([label, href]) => <li><a href={href}>{label}</a></li>)}</ul>
+              </div>
+            ))}
+            <p class="all"><a href={m.href}>{m.all}</a></p>
+          </details>
+        ))}
+        {plain.map((n) => <a class="mtop" href={n.href}>{n.label}</a>)}
+      </div>
+    </details>
   </div>
 </header>
 <style>
   .hdr { background: #fff; position: sticky; top: 0; z-index: 10; box-shadow: 0 1px 0 rgba(0,0,0,.06); }
-  .hdr-in { display: flex; align-items: center; gap: 32px; min-height: 76px; }
-  .logo { font-weight: 800; font-size: 1.3rem; color: var(--ink); text-decoration: none; letter-spacing: -0.02em; }
-  nav { display: flex; gap: 26px; margin-left: auto; }
-  nav a { color: var(--ink); text-decoration: none; font-weight: 550; }
-  nav a:hover { color: var(--brand); }
-  .call { padding: 12px 22px; }
-  @media (max-width: 980px) { nav { display: none; } .call { margin-left: auto; } }
+  .hdr-in { display: flex; align-items: stretch; gap: 32px; min-height: 76px; }
+  .logo { align-self: center; font-weight: 800; font-size: 1.3rem; color: var(--ink); text-decoration: none; letter-spacing: -0.02em; }
+  .main { margin-left: auto; display: flex; }
+  .main > ul { display: flex; gap: 26px; list-style: none; margin: 0; padding: 0; }
+  .main > ul > li { display: flex; align-items: center; }
+  .top { color: var(--ink); text-decoration: none; font-weight: 550; }
+  .top:hover, .has-menu:hover .top, .has-menu:focus-within .top { color: var(--brand); }
+  .call { align-self: center; padding: 12px 22px; white-space: nowrap; }
+
+  .menu { display: none; position: absolute; left: 0; right: 0; top: 100%; max-height: calc(100vh - 76px); overflow-y: auto; background: #fff; box-shadow: 0 18px 40px rgba(16, 24, 32, .12); }
+  .has-menu:hover .menu, .has-menu:focus-within .menu { display: block; }
+  .menu-in { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px 40px; padding-top: 32px; padding-bottom: 32px; }
+  .menu.wide .menu-in { grid-template-columns: repeat(6, 1fr); gap: 12px 24px; }
+  .menu.wide li { margin-bottom: 4px; font-size: 1rem; }
+  .col-h { font-size: 1rem; font-weight: 700; color: var(--ink-soft); margin: 0 0 10px; }
+  .menu ul, .mnav ul { list-style: none; margin: 0; padding: 0; }
+  .menu li { margin: 0 0 8px; }
+  .menu a, .mnav a { color: var(--ink); text-decoration: none; }
+  .menu a:hover, .mnav a:hover, .menu a[aria-current] { color: var(--brand); }
+  .all { grid-column: 1 / -1; margin: 8px 0 0; font-weight: 650; }
+  .all a { color: var(--brand); }
+
+  .mnav { display: none; align-self: center; }
+  .mnav > summary { list-style: none; cursor: pointer; font-weight: 650; padding: 10px 16px; border-radius: 999px; background: var(--paper-warm); }
+  .mnav > summary::-webkit-details-marker { display: none; }
+  .mnav-panel { position: absolute; left: 0; right: 0; top: 100%; background: #fff; box-shadow: 0 18px 40px rgba(16, 24, 32, .12); padding: 8px 24px 24px; max-height: calc(100vh - 76px); overflow-y: auto; }
+  .mnav-panel details > summary { cursor: pointer; font-weight: 650; padding: 14px 0; }
+  .mnav-panel .mgroup { padding: 0 0 12px 12px; }
+  .mnav-panel li { margin: 0 0 10px; }
+  .mnav-panel .all { padding-left: 12px; }
+  .mtop { display: block; font-weight: 650; padding: 14px 0; }
+
+  @media (max-width: 1080px) { .main { display: none; } .mnav { display: block; } .call { margin-left: auto; } }
+  @media (max-width: 560px) { .hdr-in { gap: 12px; } .logo { font-size: 1.1rem; } .call { padding: 10px 16px; } .call-long { display: none; } }
+  .call-short { display: none; }
+  @media (max-width: 560px) { .call-short { display: inline; } }
 </style>

@@ -12,19 +12,27 @@ const suburbs = urls.filter((u) => u.type === 'suburb')
   .sort((a, b) => a.name.localeCompare(b.name));
 
 const services = [
-  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Single room, multi-room and floor console systems, sized for your house and installed tidy.' },
-  { img: 'home-service', h: 'Servicing', href: '/maintenance-servicing/', p: 'A yearly clean and check keeps it efficient, quiet and fresh smelling, and catches faults early.' },
-  { img: 'home-repair', h: 'Repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code. Fault finding on all the major brands.' },
-  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room and nothing on the walls. Best planned early in a build.' },
+  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Wall, floor console and multi-room systems, sized from your rooms and fitted tidy.',
+    links: [['Single room', '/single-room-heat-pump-installation/'], ['Multi-room', '/multi-room-heat-pump-installation/'], ['Air conditioning', '/air-conditioning-installation-christchurch/'], ['Smart and Wi-Fi control', '/smart-heat-pump-systems/']] },
+  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room and nothing on the walls. Easiest to plan early in a build.',
+    links: [['Daikin ducted', '/daikin-ducted-heat-pumps-christchurch/'], ['Mitsubishi Electric ducted', '/mitsubishi-ducted-heat-pumps-christchurch/'], ['Zoning', '/heat-pump-zoning/'], ['Ducted vs split', '/ducted-vs-split-heat-pumps-christchurch/']] },
+  { img: 'home-service', h: 'Servicing', href: '/maintenance-servicing/', p: 'A yearly clean and check keeps a heat pump efficient, quiet and fresh smelling.',
+    links: [['What a service includes', '/heat-pump-servicing/'], ['Cleaning', '/heat-pump-cleaning/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
+  { img: 'home-repair', h: 'Repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code. We find the fault and tell you if it is worth fixing.',
+    links: [['Urgent repairs', '/emergency-heat-pump-repair/'], ['Troubleshooting', '/heat-pump-troubleshooting/'], ['Leak detection', '/leak-detection-repair/'], ['Parts replacement', '/heat-pump-parts-replacement/']] },
+  { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service those and Panasonic.',
+    links: [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Panasonic', '/panasonic-heat-pump-service-christchurch/']] },
+  { img: 'upgrade-hero', h: 'Efficiency and air quality', href: '/heat-pump-efficiency-upgrades/', p: 'Replacing an old unit, cutting power use, and drier, cleaner air at home.',
+    links: [['Efficiency upgrades', '/heat-pump-efficiency-upgrades/'], ['Energy assessment', '/energy-efficiency-assessment/'], ['Dehumidifying', '/heat-pump-dehumidification/'], ['Air quality checks', '/air-quality-testing/']] },
 ];
 
 const guides = [
-  { h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'Noise limits, consent and where to put the outdoor unit.' },
-  { h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How kW ratings work and how to size a room properly.' },
-  { h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What goes into the price of a heat pump install.' },
-  { h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How the main brands compare for Christchurch homes.' },
-  { h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud and how to fix it.' },
-  { h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which type suits your house and budget.' },
+  { img: 'boundary-hero', h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'Noise limits, consent and where to put the outdoor unit.' },
+  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How kW ratings work and how to size a room properly.' },
+  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What goes into the price of a heat pump install.' },
+  { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How the main brands compare for Christchurch homes.' },
+  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud and how to fix it.' },
+  { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which type suits your house and budget.' },
 ];
 
 const faqs = [
@@ -47,11 +55,19 @@ const faqs = [
     <div class="wrap">
       <h2>What we do</h2>
       <p class="lead">Installation, servicing, repairs and ducted systems for homes across Christchurch.</p>
-      <div class="grid grid-2 svc">
+      <div class="grid three svc">
         {services.map((s) => (
-          <a class="card" href={s.href}><Img id={s.img} /><div class="card-body"><h3>{s.h}</h3><p>{s.p}</p></div></a>
+          <article class="card">
+            <a href={s.href} tabindex="-1" aria-hidden="true"><Img id={s.img} class="card-img" /></a>
+            <div class="card-body">
+              <h3><a href={s.href}>{s.h}</a></h3>
+              <p>{s.p}</p>
+              <ul class="card-links">{s.links.map(([label, href]) => <li><a href={href}>{label}</a></li>)}</ul>
+            </div>
+          </article>
         ))}
       </div>
+      <p class="more"><a href="/heat-pump-services/">All heat pump services</a></p>
     </div>
   </section>
 
@@ -84,9 +100,10 @@ const faqs = [
     <div class="wrap">
       <h2>Guides</h2>
       <p class="lead">Costs, sizing, brands and council rules.</p>
-      <div class="grid grid-3">
-        {guides.map((g) => <a class="card" href={g.href}><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
+      <div class="grid three">
+        {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
       </div>
+      <p class="more"><a href="/how-heat-pumps-work/">Start with how heat pumps work</a></p>
     </div>
   </section>
 
@@ -103,9 +120,18 @@ const faqs = [
 </Base>
 <style>
   :global(.banner) { margin-top: 40px; width: 100%; aspect-ratio: 21/9 !important; object-fit: cover; }
-  .svc { grid-template-columns: repeat(2, 1fr); }
-  @media (max-width: 760px) { .svc { grid-template-columns: 1fr; } }
-  .svc :global(img), .svc :global(.pending) { border-radius: 0; }
+  .three { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 980px) { .three { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .three { grid-template-columns: 1fr; } }
+  .three :global(.card-img) { border-radius: 0; width: 100%; aspect-ratio: 3/2 !important; object-fit: cover; display: block; }
+  .card h3 a { color: var(--ink); text-decoration: none; }
+  .card h3 a:hover { color: var(--brand); }
+  .card-links { list-style: none; padding: 0; margin: 16px 0 0; }
+  .card-links li { margin: 0 0 6px; }
+  .card-links a { color: var(--brand); text-decoration: none; font-weight: 550; }
+  .card-links a:hover { text-decoration: underline; }
+  .more { margin: 32px 0 0; font-weight: 650; }
+  .more a { color: var(--brand); }
   .areas { columns: 4 160px; list-style: none; padding: 0; }
   .areas li { margin-bottom: 8px; }
   .areas a { color: var(--ink); text-decoration: none; }
