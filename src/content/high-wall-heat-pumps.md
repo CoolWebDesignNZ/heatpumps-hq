@@ -26,7 +26,7 @@ brands: true
 brandsHeading: High wall heat pump brands we fit
 areas: true
 areasHeading: Wall mounted heat pumps across Christchurch and Selwyn
-areasLead: We fit wall mounted heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Choose your area to see what suits the homes there.
+areasLead: We fit wall mounted heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu.
 faqHeading: High wall heat pump questions
 relatedHeading: More on wall hung heat pumps and other types
 faqs:

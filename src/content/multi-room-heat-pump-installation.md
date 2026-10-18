@@ -24,7 +24,7 @@ brands: true
 brandsHeading: Multi split heat pump brands we fit in Christchurch
 areas: true
 areasHeading: Multi room heat pumps across Christchurch and Selwyn
-areasLead: We fit multi room and multi split systems all over Christchurch, in Lyttelton, and in Selwyn towns such as Rolleston, Lincoln and Prebbleton. Choose your area to see how we heat the homes there.
+areasLead: We fit multi room and multi split systems all over Christchurch, in Lyttelton, and in Selwyn towns such as Rolleston, Lincoln and Prebbleton.
 faqHeading: Multi room heat pump questions
 relatedHeading: Other ways to heat several rooms
 faqs:

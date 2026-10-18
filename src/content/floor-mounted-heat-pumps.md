@@ -26,7 +26,7 @@ brands: true
 brandsHeading: Floor console heat pump brands we fit
 areas: true
 areasHeading: Floor standing heat pumps across Christchurch and Selwyn
-areasLead: We fit floor standing heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Choose your area to see what suits the homes there.
+areasLead: We fit floor standing heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu.
 faqHeading: Floor mounted heat pump questions
 relatedHeading: More on the heat pump floor unit and other types
 faqs:

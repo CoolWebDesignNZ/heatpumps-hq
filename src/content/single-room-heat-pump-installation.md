@@ -12,7 +12,7 @@ brands: true
 brandsHeading: Single room heat pump brands we fit in Christchurch
 areas: true
 areasHeading: Single room heat pumps across Christchurch and Selwyn
-areasLead: We fit single room heat pumps in bedrooms, lounges, studios and sleepouts all over Christchurch, in Lyttelton and in the Selwyn towns. Choose your area to see what suits the homes there.
+areasLead: We fit single room heat pumps in bedrooms, lounges, studios and sleepouts all over Christchurch, in Lyttelton and in the Selwyn towns.
 faqHeading: Single room heat pump questions
 relatedHeading: More on sizing and heat pump installation
 faqs:

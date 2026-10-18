@@ -26,7 +26,7 @@ brands: true
 brandsHeading: Air conditioning brands we install in Christchurch
 areas: true
 areasHeading: Air conditioning installation across Christchurch and Selwyn
-areasLead: We install air conditioning in homes all over Christchurch, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Choose your area to see what suits the homes there.
+areasLead: We install air conditioning in homes all over Christchurch, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu.
 faqHeading: Questions about air conditioning in Christchurch
 relatedHeading: More on heat pump installation and cooling
 faqs:
