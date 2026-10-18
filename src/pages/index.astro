@@ -54,7 +54,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <h2>Heat pump installation, servicing and repairs</h2>
-      <p class="lead">Installation, servicing, repairs and ducted systems for homes across Christchurch.</p>
+      <p class="lead">We install, service and repair heat pumps in homes across Christchurch, from a single bedroom unit to a ducted system for the whole house.</p>
       <div class="grid three svc">
         {services.map((s) => (
           <article class="card">
@@ -74,9 +74,9 @@ const faqs = [
   <section class="section warm">
     <div class="wrap">
       <div class="prose">
-        <h2>Heat pumps sized for your home, not the biggest one</h2>
-        <p>Nate Thompson started Heat Pumps HQ in {site.founded} after years at a larger heating company, watching people get sold systems bigger and dearer than their homes needed.</p>
-        <p>So every quote starts with your house: the rooms, the insulation, the windows and how you actually live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair instead of a replacement. Either way you'll get a straight answer and a fixed price before any work starts.</p>
+        <h2>Heat pumps sized for your home, not the biggest unit</h2>
+        <p>We size every heat pump from your house: the rooms, the insulation, the windows and how you actually live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair instead of a replacement. Either way you'll get a straight answer and a fixed price before any work starts.</p>
+        <p>That is why Nate Thompson started Heat Pumps HQ in {site.founded}. After years at a larger heating company, he had watched too many people get sold systems bigger and dearer than their homes needed.</p>
         <p>We install <strong>{site.brandsInstalled.join(', ')}</strong>, and service and repair those and Panasonic.</p>
         <p><a href="/about-us/">More about Heat Pumps HQ</a></p>
       </div>
@@ -99,7 +99,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <h2>Heat pump guides for Christchurch homes</h2>
-      <p class="lead">Costs, sizing, brands and council rules.</p>
+      <p class="lead">Straight answers on what a heat pump costs, what size you need, which brand suits and the council rules on placement.</p>
       <div class="grid three">
         {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
       </div>
@@ -110,7 +110,7 @@ const faqs = [
   <section class="section warm">
     <div class="wrap">
       <h2>Heat pumps across Christchurch, Selwyn and Lyttelton</h2>
-      <p class="lead">All of Christchurch, plus Selwyn and Lyttelton.</p>
+      <p class="lead">We work in every Christchurch suburb, in Lyttelton, and in Selwyn towns including Rolleston, Lincoln and Prebbleton. Find your area below.</p>
       <ul class="areas">{suburbs.map((s) => <li><a href={s.href}>{s.name}</a></li>)}</ul>
     </div>
   </section>
