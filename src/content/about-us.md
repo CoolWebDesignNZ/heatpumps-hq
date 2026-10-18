@@ -6,7 +6,15 @@ secondary: [heat pumps hq christchurch, heat pump company christchurch]
 h1: About Heat Pumps HQ
 intro: "Nate Thompson started Heat Pumps HQ in Christchurch in 2015. We fit, service and fix heat pumps, sizing each system to the house it goes in and agreeing the price before we start."
 hero: about-hero
-gallery: [about-1, about-2]
+gallery: []
+steps:
+  - h: Sizing starts with the house
+    p: Before we suggest anything, we look at the rooms you want heated, the insulation in the ceiling, walls and floor, the windows and which way they face, and how you use the house. A sunny, well insulated lounge needs a very different unit from a cold back bedroom. <a href="/heat-pump-sizing/">How we size a heat pump</a>.
+  - h: The price is fixed first
+    p: Quotes are free. Once we know what the job involves, you get a fixed price in writing, and that's what you pay for the work quoted. If a repair makes more sense than a new unit, we'll say so.
+  - h: The electrical side is done right
+    p: On every install, a licensed electrical worker makes the connection.
+areaPhoto: about-2
 faqHeading: Questions about Heat Pumps HQ
 relatedHeading: Next steps with Heat Pumps HQ
 faqs:
@@ -22,34 +30,8 @@ related:
   - { label: Contact us, href: /contact-us/, text: Phone, email and office hours. }
 ---
 
-## Why Heat Pumps HQ started
+## Why Nate Thompson started Heat Pumps HQ
 
 Nate Thompson spent years working for a bigger heating company. He kept seeing homeowners sold heat pumps that were more powerful, and dearer, than their houses needed. So in 2015 he started Heat Pumps HQ in Christchurch.
 
 A unit that's too big costs more to buy. It doesn't make the room any warmer. It tends to switch on and off in short bursts instead of running steady. Nate set up his own company to quote the system a house really needs. He still owns and runs it.
-
-## How we work at Heat Pumps HQ
-
-Three rules shape every job.
-
-**Sizing starts with the house.** Before we suggest anything, we look at the rooms you want heated. We find out how much insulation is in the ceiling, walls and floor. We look at the size of the windows and which way they face. And we ask how you use the house through the day. A sunny, well insulated lounge needs a very different unit from a cold back bedroom with single glazing. The method we use is under [heat pump sizing](/heat-pump-sizing/).
-
-**The price is fixed first.** Quotes are free. Once we know what the job involves, you get a fixed price in writing. That's what you pay for the work quoted. If a repair makes more sense than a new unit, we'll say so.
-
-**The electrical side is done right.** On every install, a licensed electrical worker makes the connection.
-
-## The brands we install and service
-
-We fit four brands: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. With four to choose from, we compare their models for your rooms. Then we suggest the one that fits, not whatever's in stock.
-
-For servicing and repairs, we work on those four plus **Panasonic**. We also do most other split and ducted heat pumps sold in New Zealand. See [heat pump servicing](/maintenance-servicing/) and [heat pump repairs](/heat-pump-repair/).
-
-## Where we work in Canterbury
-
-We cover all of Christchurch and Lyttelton. In Selwyn we cover Rolleston, Lincoln, Prebbleton and Tai Tapu. Every suburb we work in is listed under [locations](/locations/).
-
-## Office hours
-
-We're open Monday to Friday, 8am to 5pm.
-
-Want to talk about a heat pump for your home? Call **03 242 1023** or ask for a free quote with the quote form.

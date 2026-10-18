@@ -98,6 +98,39 @@ if (fm.faqs?.length) {
       ))}
     </article></div>
   </section>
+  {fm.steps?.length && (
+    <section class="section warm">
+      <div class="wrap">
+        <h2>How we work at Heat Pumps HQ</h2>
+        <div class="grid steps">
+          {fm.steps.map((st, i) => (
+            <div class="card step"><div class="card-body"><p class="step-n">{i + 1}</p><h3>{st.h}</h3><p set:html={st.p} /></div></div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+  {fm.steps?.length && (
+    <section class="section">
+      <div class="wrap">
+        <h2>Heat pump brands we fit and service</h2>
+        <p class="lead">We install four brands and compare their models for your rooms, then suggest the one that fits, not whatever's in stock.</p>
+        <div class="brands">
+          {site.brandsServiced.map((b) => <div class="brand"><strong>{b}</strong><span>{site.brandsInstalled.includes(b) ? 'Installed and serviced' : 'Serviced and repaired'}</span></div>)}
+        </div>
+        <p>We also service and repair most other split and ducted heat pumps sold in New Zealand. See <a href="/maintenance-servicing/">heat pump servicing</a> and <a href="/heat-pump-repair/">heat pump repairs</a>.</p>
+      </div>
+    </section>
+  )}
+  {fm.areaPhoto && (
+    <section class="section warm">
+      <div class="wrap">
+        <h2>Where Heat Pumps HQ works</h2>
+        <p class="lead">All of Christchurch and Lyttelton, plus Rolleston, Lincoln, Prebbleton and Tai Tapu in Selwyn. Find your suburb under <a href="/locations/">locations</a>.</p>
+        <figure class="inline-photo"><Img id={fm.areaPhoto} /></figure>
+      </div>
+    </section>
+  )}
   {leftover.length > 0 && (
     <section class="section warm">
       <div class="wrap grid grid-2">{leftover.map((id) => <Img id={id} />)}</div>
@@ -118,3 +151,13 @@ if (fm.faqs?.length) {
   )}
   <CtaBand heading={fm.ctaHeading} />
 </Base>
+<style>
+  .steps { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 860px) { .steps { grid-template-columns: 1fr; } }
+  .step-n { font-size: 2.4rem; font-weight: 800; color: var(--brand); line-height: 1; margin: 0 0 .3em; }
+  .step p { color: var(--ink-soft); }
+  .brands { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 16px; margin: 24px 0; }
+  .brand { background: var(--paper-warm); border-radius: var(--radius); padding: 22px 20px; }
+  .brand strong { display: block; font-size: 1.15rem; }
+  .brand span { color: var(--ink-soft); font-size: 1rem; }
+</style>
