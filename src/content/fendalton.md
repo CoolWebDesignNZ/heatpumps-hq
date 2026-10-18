@@ -14,7 +14,7 @@ faqHeading: Questions about heat pumps in Fendalton
 relatedHeading: Heat pumps near Fendalton
 faqs:
   - q: What heat pump suits a large Fendalton home?
-    a: Often a ducted system. It heats every room through ceiling vents, with nothing on the walls. Ducting needs enough roof space for the indoor unit and the ducts. If that space isn't there, a multi-room system with low-key indoor units is the usual answer.
+    a: A ducted system, quite often. It heats every room through ceiling vents, with nothing on the walls. Ducting needs enough roof space for the indoor unit and the ducts. If that space isn't there, a multi-room system with low-key indoor units is the usual answer.
   - q: Can you keep the outdoor units out of sight?
     a: Usually, yes. Side and back walls work. So does behind planting, with enough room for airflow, or a low screen. The unit still has to be easy to service and quiet at the neighbour's boundary. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> explains that part.
   - q: Do big trees make a difference to heating?

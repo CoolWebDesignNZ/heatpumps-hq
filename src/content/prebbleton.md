@@ -18,7 +18,7 @@ faqs:
   - q: Wall units or ducted for a new Prebbleton home?
     a: Ducted suits a home with good roof space, where you want every room warm and no units on show. Wall units are easier to add later. They also let you heat only the rooms you're using. Those are the main trade-offs between <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted and split systems</a>.
   - q: Can several rooms run off one outdoor unit?
-    a: Yes. A multi-room system links two or more indoor units to one outdoor unit. That saves wall space outside. There's a limit on how many rooms one outdoor unit can run in a <a href="/multi-room-heat-pump-installation/">multi-room installation</a>.
+    a: Yes. A multi-room system links two or more indoor units to one outdoor unit. You need less wall space outside that way. There's a limit on how many rooms one outdoor unit can run in a <a href="/multi-room-heat-pump-installation/">multi-room installation</a>.
   - q: Which council's rules apply in Prebbleton?
     a: The Selwyn District Plan. Prebbleton is in Selwyn District, outside the Christchurch City boundary.
 related:

@@ -42,7 +42,7 @@ In houses like these, we hear the same thing a lot. The lounge is warm and the b
 
 - **A second wall unit:** in the main bedroom, or at the hall end.
 - **A multi-room system:** one outdoor unit running two or more indoor units. Read about [multi-room installs](/multi-room-heat-pump-installation/).
-- **A ducted system:** a vent in each room, if the roof space allows. Read about [ducted heat pumps](/ducted-heat-pumps-christchurch/).
+- **A ducted system:** a vent in each room, if the roof space allows. We cover these under [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
 A second wall unit is the smallest job. It heats one more room. A multi-room system heats every room with an indoor unit. Only ducting warms the hall itself as well.
 

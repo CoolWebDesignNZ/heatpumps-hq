@@ -43,7 +43,7 @@ Look for a 2°C figure that matches or beats the 7°C figure. For colder than th
 
 ## Check 2: The right size, even for the best heat pump brands
 
-No brand can make up for a unit that's the wrong size. Size comes from how much heat the room loses and the outdoor design temperature. We set out the method in [heat pump sizing](/heat-pump-sizing/). The official tool is explained under [heat pump size calculator](/calculator-single-room-heat-pump/).
+No brand can make up for a unit that's the wrong size. Size comes from how much heat the room loses and the outdoor design temperature. The method is laid out under [heat pump sizing](/heat-pump-sizing/). The official tool is explained under [heat pump size calculator](/calculator-single-room-heat-pump/).
 
 ## Check 3: Stars in the Cold zone
 
