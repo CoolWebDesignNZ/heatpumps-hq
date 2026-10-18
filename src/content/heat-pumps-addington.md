@@ -29,11 +29,13 @@ related:
 
 ## Heat pump installation in Addington's cottages and townhouses
 
-Addington is flat and close to town, with small timber workers' cottages along its older streets and a steady run of new townhouses where larger sections have been redeveloped. Houses sit close to each other. In a lot of homes the only outside wall that isn't the front is a narrow side passage beside the neighbour's fence.
+Heat pump installation in Addington is shaped by small sections and houses built close together. The suburb is flat and close to town, with small timber workers' cottages along its older streets and a steady run of new townhouses where larger sections have been redeveloped. Houses sit close to each other. In a lot of homes the only outside wall that isn't the front is a narrow side passage beside the neighbour's fence.
 
 That makes the outdoor unit the main design question. Indoors, a cottage with a lounge, kitchen and two bedrooms is simple to heat well. Outside, there may only be one or two spots where a unit can go.
 
 ## Outdoor units on a tight Addington section
+
+On a tight Addington section, the outdoor unit has to fit without blocking the path, crowding its coil or keeping the neighbours awake:
 
 - **Wall brackets save the path.** On a side passage, a bracket lifts the unit off the ground so you can still get a wheelie bin past.
 - **Mind the neighbour's bedroom.** We look at what's on the other side of the fence before choosing a wall. A laundry or a blank wall is a better neighbour than a bedroom window.
@@ -49,6 +51,8 @@ Older cottages lose heat through the ceiling and floor first. If yours has been 
 New Addington townhouses are better sealed. A single unit downstairs and a small one in the main bedroom suits a lot of them.
 
 ## Heat pump installs, service and repair in Addington
+
+In Addington we fit new systems, service existing units and repair faults:
 
 - **New installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized for small rooms.
 - **Servicing and cleaning**, including units in rentals. See [servicing](/maintenance-servicing/).

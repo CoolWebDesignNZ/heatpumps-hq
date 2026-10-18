@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation for two kinds of Papanui home
 
-Papanui is one of Christchurch's older northern suburbs, and its housing shows it. Timber villas and solid bungalows still line many streets, while plenty of original sections now hold two to four newer units or townhouses. Those two kinds of home need quite different heat pumps.
+The heat pump installation a Papanui home needs depends on whether it's an older villa or bungalow or a newer townhouse. Papanui is one of Christchurch's older northern suburbs, and its housing shows it. Timber villas and solid bungalows still line many streets, while plenty of original sections now hold two to four newer units or townhouses.
 
 An older house loses heat through its ceilings, floors and single glazed windows. A new townhouse is built tighter, with insulation and double glazing as standard, so it needs far less capacity for the same floor area. We work out the size from the actual rooms, the insulation, the windows and how you live in the house, rather than guessing from the square metres.
 
@@ -44,6 +44,8 @@ Ask us about insulation at the same time. Money spent on underfloor and ceiling 
 Infill sections leave little room down the sides of the house. The outdoor unit can sit on a wall bracket or a slim pad, with space around it for air to move and defrost water to drain. We place it so it stays quiet for the people next door, using our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) as the reference for the District Plan noise limits.
 
 ## Heat pump service and repairs in Papanui
+
+Once a Papanui heat pump is in, we look after it with servicing, repairs and, when the time comes, a replacement:
 
 - **Annual servicing.** Filter and coil cleaning, a drain check and a performance check. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs.** Fault finding on all the major brands, including older units. See [heat pump repairs](/heat-pump-repair/).

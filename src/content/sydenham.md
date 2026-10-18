@@ -27,9 +27,7 @@ related:
 
 ## How Sydenham homes shape heat pump installation
 
-Sydenham sits on flat ground just south of the city, and housing is mixed in with commercial streets. Older homes here are mostly timber villas and cottages. Many have been renovated, and the typical renovation knocks out the old back rooms to make an open plan kitchen and family room. Newer townhouses fill sections where older houses once stood.
-
-That renovation pattern decides where the heat pump goes.
+In Sydenham, the way a house has been renovated usually decides how its heat pump is installed. The suburb sits on flat ground just south of the city, and housing is mixed in with commercial streets. Older homes here are mostly timber villas and cottages. Many have been renovated, and the typical renovation knocks out the old back rooms to make an open plan kitchen and family room. Newer townhouses fill sections where older houses once stood.
 
 ## Heating a renovated Sydenham villa
 

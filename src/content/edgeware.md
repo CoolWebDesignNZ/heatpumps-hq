@@ -27,11 +27,11 @@ related:
 
 ## Heat pump installation in Edgeware's mix of old and new homes
 
-Edgeware is flat, close to the city and built tight. A lot of the original housing is small timber cottages and villas on narrow sections, many renovated and some still close to original. In between, older houses have made way for blocks of two or three townhouses. The two types need quite different heat pump setups.
+A heat pump installation in Edgeware depends on which of two kinds of home you live in: an older cottage or villa, or a newer townhouse. Edgeware is flat, close to the city and built tight. A lot of the original housing is small timber cottages and villas on narrow sections, many renovated and some still close to original. In between, older houses have made way for blocks of two or three townhouses, and each needs a quite different heat pump setup.
 
 ## Heating Edgeware villas and cottages
 
-Old timber homes have high studs, sash windows and gaps around doors and floors. Warm air rises to that high ceiling and leaks out through draughts. A few things change the result:
+Heating an Edgeware villa or cottage well means dealing with the high stud and the draughts. Old timber homes have high studs, sash windows and gaps around doors and floors. Warm air rises to that high ceiling and leaks out through draughts. A few things change the result:
 
 - **Place the indoor unit to push air down and across the room**, not straight at a ceiling rose or into a hallway.
 - **Consider a floor console** under a window in a high-stud lounge. It puts warm air at the level you sit and suits walls that are mostly windows and doors.
@@ -47,6 +47,8 @@ The newer townhouses in Edgeware are a different job. They're better insulated, 
 Outdoor space is tight. Side paths are narrow, and the next unit's bedroom may be a metre or two away, so we place the outdoor unit with noise in mind.
 
 ## Heat pump installs, service and repair in Edgeware
+
+We install, service and repair heat pumps in Edgeware cottages, villas and townhouses:
 
 - **Installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized from your rooms, insulation and windows.
 - **Servicing** for units of any age, including cleaning and drain checks. See [heat pump servicing](/maintenance-servicing/).

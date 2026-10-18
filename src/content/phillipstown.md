@@ -29,13 +29,13 @@ related:
 
 ## Heat pump installation for Phillipstown housing
 
-Phillipstown sits east of the Central City, between the city and Linwood. Its streets are flat, sections are mostly modest, and the housing is a mix: small older cottages, blocks of single-storey units and flats, and newer townhouses on redeveloped sites.
+Phillipstown housing is a mix of small older cottages, blocks of single-storey units and flats, and newer townhouses on redeveloped sites, and we plan each heat pump installation around which one you have. The suburb sits east of the Central City, between the city and Linwood, with flat streets and mostly modest sections.
 
 In a modest home like these, one well chosen unit in the living room can do a lot of the work. Getting its size and position right matters more than adding extra units.
 
 ## Heat pumps for a Phillipstown rental
 
-The healthy homes heating standard requires one or more fixed heaters that can directly heat the main living room. Heat pumps qualify. The heater has to have enough capacity for that room, and [Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) provides a heating assessment tool to work out the figure.
+A heat pump can meet the heating requirement for a Phillipstown rental. The healthy homes heating standard requires one or more fixed heaters that can directly heat the main living room, and heat pumps qualify. The heater has to have enough capacity for that room, and [Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) provides a heating assessment tool to work out the figure.
 
 What that means when we quote:
 
@@ -52,6 +52,8 @@ Older single-storey units here often have one main living space with a kitchen o
 Outdoor units on a block need thought. With several flats side by side, units on one shared wall can add up to more noise at the boundary. We space them, mount them on anti-vibration feet and check the neighbour's side. See the [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## Heat pump installs, service and repair in Phillipstown
+
+In Phillipstown we install new systems, service existing units for owners and landlords, and repair faults:
 
 - **New installs**, mainly [single-room systems](/single-room-heat-pump-installation/) for living areas, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing** of existing units in owner-occupied and rental homes. See [servicing](/maintenance-servicing/).

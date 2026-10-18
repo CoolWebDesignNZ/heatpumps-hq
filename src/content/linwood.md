@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation in Linwood houses
 
-Linwood is a large, flat suburb in the east of the city. Its housing covers several eras: older timber villas toward the city end, plenty of solid weatherboard and brick former state houses, mid-century bungalows, and blocks of units. Since the earthquakes, a fair amount of it has been repaired or rebuilt.
+Heat pump installation in Linwood means working on houses from several eras, across a large, flat suburb in the east of the city: older timber villas toward the city end, plenty of solid weatherboard and brick former state houses, mid-century bungalows, and blocks of units. Since the earthquakes, a fair amount of it has been repaired or rebuilt.
 
 A lot of these homes share one layout trait. The lounge and kitchen are at one end, bedrooms are along a hallway, and every room has a door.
 
@@ -51,7 +51,7 @@ Blocks of units are smaller and simpler inside, but the outdoor space is shared.
 
 ## Heat pump service and repair in Linwood
 
-A heat pump that runs every winter evening collects dust fast. Book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, our [repairs page](/heat-pump-repair/) explains what we check.
+A Linwood heat pump that runs every winter evening collects dust fast, so book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, our [repairs page](/heat-pump-repair/) explains what we check.
 
 ## Areas around Linwood
 

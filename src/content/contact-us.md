@@ -24,6 +24,8 @@ related:
 
 ## How to contact Heat Pumps HQ
 
+Phone or email us, or find us on Facebook:
+
 - **Phone:** [03 242 1023](tel:032421023)
 - **Email:** [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz)
 - **Hours:** Monday to Friday, 8am to 5pm

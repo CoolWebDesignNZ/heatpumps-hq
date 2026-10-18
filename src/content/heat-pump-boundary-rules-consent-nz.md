@@ -35,7 +35,7 @@ That means where the outdoor unit goes is a judgement about sound: how loud the 
 
 ## Heat pump noise rules in residential zones
 
-For sites in residential zones outside the Central City, the District Plan sets these limits (Rule 6.1.5.2.1, Table 1):
+In residential zones outside the Central City, heat pump noise at the receiving site must stay under 50 dB LAeq by day and 40 dB LAeq and 65 dB LAmax at night. The District Plan sets the limits by time of day (Rule 6.1.5.2.1, Table 1):
 
 | Time | Limit |
 | --- | --- |
@@ -52,7 +52,7 @@ If you live in Rolleston, Lincoln, Prebbleton or anywhere else in Selwyn, the Se
 
 ## Where to put the outdoor unit near a boundary
 
-A good install stays quiet at the boundary by design:
+Near a boundary, put the outdoor unit where it stays quiet at the neighbour's property:
 
 - **Away from the neighbour's bedrooms.** Put the unit beside your own garage, laundry or a blank wall rather than facing their bedroom windows.
 - **Out of corners.** A unit tucked into a corner between two walls bounces sound back out. Open wall space is quieter.
@@ -70,6 +70,6 @@ A standard residential split system is normally installed without building conse
 
 ## When a neighbour complains
 
-Christchurch City Council investigates noise complaints. If measurements show a heat pump is over the limit, the council can issue an abatement notice requiring the noise to be reduced. A Christchurch family's dispute over this went as far as the Environment Court, [as RNZ reported](https://www.rnz.co.nz/news/regions/573730/family-s-battle-with-council-over-noisy-heat-pump-reaches-environment-court), before the council cancelled the notice after further monitoring.
+When a neighbour complains, Christchurch City Council investigates. If measurements show a heat pump is over the limit, the council can issue an abatement notice requiring the noise to be reduced. A Christchurch family's dispute over this went as far as the Environment Court, [as RNZ reported](https://www.rnz.co.nz/news/regions/573730/family-s-battle-with-council-over-noisy-heat-pump-reaches-environment-court), before the council cancelled the notice after further monitoring.
 
 If you've had a complaint, the fixes are usually simple: new anti-vibration feet, a service to clean the fan and coil, a quiet or night mode setting, or moving the outdoor unit a few metres. We can look at an existing install and tell you what will make the difference. Call **03 242 1023**.

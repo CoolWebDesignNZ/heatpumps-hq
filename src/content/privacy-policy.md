@@ -27,6 +27,8 @@ If you phone or email us instead, we keep what you tell us in the same way, alon
 
 ## What we don't collect
 
+Beyond the quote form, the site collects nothing about you:
+
 - **No analytics.** We don't run Google Analytics or any other visitor tracking on this site.
 - **No tracking or advertising cookies.** The site doesn't set cookies to follow you around the web.
 - **No mailing lists.** We don't add you to a newsletter or send marketing messages.

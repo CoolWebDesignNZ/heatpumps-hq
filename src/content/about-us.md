@@ -24,11 +24,13 @@ related:
 
 ## Why Heat Pumps HQ started
 
-Nate Thompson founded Heat Pumps HQ in Christchurch in 2015. Before that he spent years working for a larger heating company, and he kept seeing the same thing: homeowners leaving with heat pumps that were more powerful and more expensive than their houses called for.
+Heat Pumps HQ started because Nate Thompson kept seeing homeowners leave with heat pumps that were more powerful and more expensive than their houses called for. He saw it during years working for a larger heating company, and founded Heat Pumps HQ in Christchurch in 2015.
 
 A unit that is too big costs more to buy and does not make a room any warmer. It tends to switch on and off in short bursts instead of running steadily. Nate set up his own company to quote the system a house actually needs, and he still owns and runs it.
 
 ## How we work at Heat Pumps HQ
+
+Three rules shape every job we take on.
 
 **Sizing starts with the house.** Before we recommend anything, we look at the rooms you want heated, how well the ceiling, walls and floor are insulated, the size and direction of the windows, and how the house is used through the day. A sunny, well insulated lounge needs a very different unit from a cold back bedroom with single glazing. Our [heat pump sizing guide](/heat-pump-sizing/) explains the method.
 
