@@ -17,16 +17,21 @@ const sizes = { '16x9': '2560x1440', '4x3': '2304x1728' };
 const tidy = ' Installed neatly: no power cord, plug or loose cables on any heat pump unit. Never more than one heat pump unit in the picture. Any outdoor unit is a small domestic split unit with one round front fan, about knee height, never a large commercial or tall box unit.';
 async function generate(id) {
   const { prompt: base, aspect } = images[id];
-  const prompt = base + tidy;
+  // Street and suburb scenes show no heat pumps at all: skip the unit wording and ban units outright.
+  const street = /no heat pump units/.test(base);
+  const prompt = street ? base : base + tidy;
   const form = new FormData();
   form.append('prompt', prompt);
+  form.append('negative_prompt', street
+    ? 'heat pump, air conditioner, outdoor unit, wall mounted box, meter box, vent unit'
+    : 'two heat pumps, multiple heat pump units, second air conditioner, large commercial condenser, power cord');
   form.append('magic_prompt', 'on');
   form.append('size', sizes[aspect] ?? 'auto');
   form.append('quality', 'high');
   const res = await fetch('https://api.ideogram.ai/v2/image/generate/ideogram-4-5', {
     method: 'POST', headers: key ? { 'Api-Key': key } : {}, body: form,
   });
-  if (!res.ok) { console.error(`${id}: ${res.status} ${await res.text()}`); return; }
+  if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
   const url = (await res.json()).data?.[0]?.url;
   if (!url) { console.error(`${id}: no image returned (safety check?)`); return; }
   const img = await fetch(url);
@@ -37,6 +42,16 @@ async function generate(id) {
     .toFile(`public/images/${id}.jpg`);
   console.log(`${id}: saved`);
 }
-// Four at a time.
+// Two at a time (Ideogram limits requests in flight).
 const queue = [...ids];
-await Promise.all(Array.from({ length: 4 }, async () => { while (queue.length) { const id = queue.shift(); try { await generate(id); } catch (e) { console.error(`${id}: ${e.message}`); } } }));
+// A 429 (too many requests in flight) waits 20 seconds and goes back in the queue, up to 3 tries.
+const tries = {};
+await Promise.all(Array.from({ length: 2 }, async () => {
+  while (queue.length) {
+    const id = queue.shift();
+    try { await generate(id); } catch (e) {
+      if (e.message.startsWith('429') && (tries[id] = (tries[id] ?? 0) + 1) < 3) { await new Promise((r) => setTimeout(r, 20000)); queue.push(id); }
+      else console.error(`${id}: ${e.message}`);
+    }
+  }
+}));
