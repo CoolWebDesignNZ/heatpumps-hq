@@ -33,6 +33,16 @@ They can't tell you if a model will heat your lounge on a frosty Christchurch mo
 
 A heat pump that's great in one house can be the wrong buy in the next. A premium unit that's too small can do worse than a mid-range one sized right. So we won't crown a brand. Instead we use eight checks that find the right model for your rooms, with facts from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
 
+## The best heat pumps for Christchurch homes
+
+The model that suits one part of Christchurch can be the wrong buy in another.
+
+- **Hard frosts on the plains.** Out west in [Templeton](/templeton/) and [Russley](/russley/), clear winter nights bring hard frosts. Give the 2°C heating figure and the maker's cold weather chart more weight than the stars.
+- **Salt and wind off the sea.** In [Moncks Bay](/moncks-bay/) and up in [Clifton](/clifton/), wind drives salt onto the outdoor coil. Ask for the corrosion protection EECA advises. Check the outdoor unit fits on the sheltered side of the house.
+- **Tight sections.** In [Addington](/heat-pumps-addington/), houses sit close together, and the outdoor unit often has to go in a narrow side passage by the neighbour's fence. Outdoor units vary in how loud they are, so compare the outdoor noise figures before the stars.
+- **High ceilings.** In big [Fendalton](/fendalton/) villas and character homes, the volume of the room sets the size, not the floor area. Work out the size first, then compare the brands' models at that size.
+- **Builder-fitted units.** In [Wigram](/wigram/), a heat pump that came with a new house was often picked as part of a package. If it struggles on cold mornings, check its capacity against the room before you blame the brand.
+
 ## Check 1: Cold weather output on the best heat pumps
 
 In a Canterbury home, start here. How much heat does the model still put out when it's cold? The label gives two heating figures. One is at 7°C outside, the other at 2°C.

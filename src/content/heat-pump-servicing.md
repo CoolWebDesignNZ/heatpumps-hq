@@ -31,6 +31,16 @@ When you book, tell us how many indoor units you have. Tell us if any are ducted
 
 We do services Monday to Friday, 8am to 5pm, anywhere in Christchurch, Selwyn and Lyttelton.
 
+## Heat pump service needs across Christchurch
+
+Where you live in Christchurch changes what a service has to deal with.
+
+- **Salt near the beach.** In [New Brighton Central](/new-brighton-central/), salt still reaches the outdoor unit. Rinse it every few months between services. At the service we check the coil and casing for corrosion.
+- **Dust from busy roads and long winter evenings.** Homes near busy roads in [Sockburn](/sockburn/) gather dust faster. In [Linwood](/linwood/), a heat pump that runs every winter evening gets dusty fast. Book the service before the cold sets in.
+- **New subdivision homes.** In [Wigram](/wigram/), a heat pump the builder fitted may not have been touched since. Its first service also clears out building dust.
+- **Hillside sites.** In [Kennedys Bush](/kennedys-bush/), the outdoor unit often sits on a bracket, on the deck or under it, and driveways are steep. Tell us when you book, so we bring the right gear.
+- **Rentals and student flats.** In [Ilam](/ilam/), heat pumps in shared flats run long hours and get little care. We can book a yearly service before each academic year starts.
+
 ## Step 1: listen and look
 
 We turn the unit on and run it before anything comes apart. We listen for rattles and bearing noise. We watch the louvres move. We check the remote talks to the unit. Some faults only show while it's running. They're easy to miss once the covers are off.

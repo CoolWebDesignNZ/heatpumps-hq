@@ -36,6 +36,15 @@ Whatever the symptom, try these four things before you call anyone:
 
 **Stay safe.** Don't take panels or covers off either unit. Don't poke anything into the fans. Don't hose the outdoor unit while it's running.
 
+## Heat pump problems in Christchurch conditions
+
+Some problems come from where the house sits. Knowing why helps you check the right thing.
+
+- **Hard frosts on open ground.** Frosts in [Marshland](/marshland/) can be harder than in the inner suburbs. That's when the outdoor unit defrosts most often, so steam outside and a paused indoor fan on a frosty morning are normal. Keep the path under the unit clear so meltwater can drain.
+- **Soft, wet ground.** Near the lagoon in [Brooklands](/brooklands/), a unit sitting low, or on a pad that sinks, collects water and drains badly when it defrosts. If ice keeps building in the base, check the unit still sits level, then call us.
+- **Salt on the easterly.** Easterly winds carry some salt as far as [Queenspark](/queenspark/). Turn the unit off, then give the outdoor coil a gentle rinse with a hose now and then.
+- **High-stud villas that never warm up.** In [Edgeware](/edgeware/), warm air heads for the high ceiling and leaks out the gaps. If the room never gets to temperature, point the louvres down before you go looking for a fault.
+
 ## Common heat pump problems, symptom by symptom
 
 ### Not heating, or blowing cool air

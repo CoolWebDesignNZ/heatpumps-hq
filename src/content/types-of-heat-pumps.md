@@ -76,6 +76,16 @@ A ducted heat pump hides the indoor unit, usually in the roof space. Warm air go
 
 **Watch for:** it needs roof or underfloor space for the unit and ducts. And it's a bigger job. Before you settle on [ducted heat pumps](/ducted-heat-pumps-christchurch/), weigh up [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) for your house.
 
+## Types of heat pumps for Christchurch houses
+
+Christchurch has most kinds of house, and each one leans towards a type.
+
+- **Cottages and villas with tall ceilings.** In [Lyttelton](/lyttelton/), many homes are timber cottages and villas with high ceilings and sash windows. A floor console under a window can suit those rooms, and it works where a fireplace takes up the wall.
+- **Open plan homes in newer subdivisions.** In [Wigram](/wigram/), one well placed high wall unit can often heat a whole open plan living area. Bedrooms need a second unit or a multi split.
+- **Older homes with closed off rooms.** In the older bungalows near the centre of [Lincoln](/lincoln/), a lounge unit won't reach the bedrooms down the hall. A multi split with a unit in each room you use suits them better.
+- **Townhouses with bedrooms upstairs.** In [St Albans](/st-albans/), two and three storey townhouses are well insulated and open plan downstairs. One unit handles the living level. Small bedroom units or a compact multi split cover upstairs.
+- **Big homes on big sections.** On a [Yaldhurst](/yaldhurst/) lifestyle block, living areas and bedrooms are spread out. Ducted suits a house that's lived in from end to end. If you only use a few rooms every day, wall units in those rooms cost less to run.
+
 ## Heat pump types side by side
 
 | Type | Heats | Best at | Main limitation |

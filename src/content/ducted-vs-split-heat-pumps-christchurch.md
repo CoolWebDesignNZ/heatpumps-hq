@@ -47,6 +47,15 @@ The biggest difference is reach. A split heats the room it's in. Ducted heats ev
 | Noise on the label | Indoor and outdoor figures, where shown | Outdoor figure only, where shown |
 | If it fails | Other rooms keep their heat | The whole system is affected |
 
+## Ducted vs split systems in Christchurch homes
+
+The kind of house you have often makes the choice for you.
+
+- **Villas with high studs.** In older homes like those in [Edgeware](/edgeware/) and [Papanui](/heat-pumps-papanui/), the rooms close off from each other and warm air heads for the high ceiling. A split in each room you use, or a floor console under the window in a high-stud lounge, puts the heat where you sit.
+- **Renovated villas.** In [Sydenham](/sydenham/), the usual renovation leaves a warm open plan space at the back and the original rooms at the front still cold. One unit can't heat both, so each part normally gets its own split, often running off one multi split outdoor unit.
+- **Post-earthquake rebuilds.** Rebuilt homes in [Bexley](/bexley/) and [Avondale](/avondale/) hold heat well. Where there's good ceiling space, often planned with services in mind, ducting can go in without opening up much.
+- **Building or renovating.** In a new [Prebbleton](/prebbleton/) home, plan the heat pump before the linings go on. Ducts then run through the roof space with no ceiling patching, and you can plan the outdoor unit's spot round the bedrooms.
+
 ## When a split system makes more sense
 
 - **You mostly want the living area warm.** One well sized unit in the lounge may be all the house needs. Maybe a second for the main bedroom.

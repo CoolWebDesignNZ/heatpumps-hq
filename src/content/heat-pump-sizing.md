@@ -47,6 +47,16 @@ The guide's example uses a site with a design temperature of +1°C. That's milde
 
 Pick a unit on its rating alone and it can look generous on paper. Then it falls behind on a July morning.
 
+## Heat pump sizing across Christchurch homes
+
+The same room size can need a very different unit depending on where the house is in Christchurch and how it's built.
+
+- **Frosty, exposed plains.** In [Yaldhurst](/yaldhurst/), nothing stands between the house and the weather off the plains, and still, clear nights bring hard frosts. We size for the cold end of the range and look at how exposed each wall is.
+- **Hill homes in the wind.** In [Clifton](/clifton/), many houses are rebuilds and well insulated, so most heat goes out through the view windows. An exposed house also loses heat faster on a windy night. We size for a cold, windy evening, not a still one.
+- **Farmhouses and villas with high ceilings.** In [Tai Tapu](/tai-tapu/), older farmhouses have high ceilings and separate rooms off long halls. Warm air collects up under the ceiling and stops at every shut door. We count the ceiling height, and these houses usually need a unit in each room you use.
+- **Newer subdivision homes.** In [Burwood](/burwood/), they have insulated ceilings, double glazing and open plan living. A high wall unit sized right can tick over gently. One that's much too big short cycles.
+- **Rentals.** Lots of homes in [Riccarton](/heat-pumps-riccarton/) are rentals. The heater for the main living room must be fixed, heat the room directly and have the capacity that room needs. A heat pump counts as long as it has a thermostat. We size rental units to the living room.
+
 ## What decides a room's heat load
 
 The heat load is how fast the room loses heat when it's cold outside. EECA's checklist looks at the building, because that's where the heat goes.

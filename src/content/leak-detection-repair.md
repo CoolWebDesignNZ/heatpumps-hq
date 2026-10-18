@@ -50,6 +50,16 @@ The fix is usually simple. We clear and flush the tray and hose. Or we re-route 
 
 In heating mode, water dripping from the outdoor unit is defrost meltwater. That's meant to happen. You'll see a steady drip, or a short burst after the unit's been steaming. What matters is where the water goes. It shouldn't pool against the foundations. It shouldn't run across a path where it'll freeze, or drip onto the neighbour's side. A drain fitting with a hose to a gully fixes that. So does raising the unit on feet over gravel.
 
+## Heat pump leaking water in Christchurch homes
+
+Where the water goes depends a lot on the house and the weather around it.
+
+- **Frosty mornings.** Out west in [Hornby](/heat-pumps-hornby/) and [Wigram](/wigram/), clear winter nights bring hard frosts, and the outdoor unit lets off defrost water. We raise the unit so that water drains away instead of freezing under it or across a path.
+- **Damp houses.** In [Shirley](/shirley/) and near the river in [Dallington](/dallington/), homes can feel damp in winter. A blocked drain can drip down the wall, so we check the drain at every service.
+- **Townhouse balconies.** In a [Ferrymead](/ferrymead/) townhouse, the outdoor unit may end up on a balcony. Its defrost water can't just drip onto the unit below, so we give it somewhere to go.
+- **Split level hill homes.** In [Heathcote Valley](/heathcote-valley/), the drain line may run under a floor or along a retaining wall. It needs a steady fall all the way to a drain or the garden. We plan that route at the quote.
+- **Rentals.** A heat pump in an [Aranui](/aranui/) rental often gets little care between tenants, and the drain blocks. A regular service between tenancies heads that off.
+
 ## Heat pump refrigerant leak
 
 A heat pump refrigerant leak is usually slow. The signs build up bit by bit. Watch for these:

@@ -63,6 +63,15 @@ A service keeps your Fujitsu putting out the heat it was sized for.
 
 The full details are under [heat pump servicing](/maintenance-servicing/). Does it smell when it starts? Then the coil and fan need a deeper [clean](/heat-pump-cleaning/).
 
+## Fujitsu heat pump service in Christchurch homes
+
+Where your Fujitsu sits changes what it needs between services.
+
+- **Salt on the east side.** In [Parklands](/parklands/) and [Queenspark](/queenspark/), easterly winds carry some salt in from the coast. Give the outdoor coil a gentle rinse now and then. We check it at every service.
+- **Hot nor'west summers.** Out by the airport in [Harewood](/harewood/), a unit that runs hard on cooling all summer can clog its filters as fast as it does in winter. Rinse them every few weeks while it's working hard.
+- **Homes that came with a heat pump.** A unit in a [Dallington](/dallington/) home may not have had a service in years. A clean of the filters, coil and fan, and a drain check, is the place to start before you pay for a repair.
+- **Frosty mornings.** In [Somerfield](/somerfield/), the streets get their share of winter frosts. We check the outdoor unit sits up on feet or a bracket, so defrost water drains and can't freeze around the base.
+
 ## Fujitsu Wi-Fi control
 
 GENERAL makes the anywAiR Wi-Fi Adaptor II. It works with a select range of General Airstage units, including the Lifestyle wall mounted series. It links them to the myanywAiR Next app.

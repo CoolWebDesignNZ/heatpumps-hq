@@ -68,6 +68,15 @@ The calculator struggles with sloped ceilings, sloped walls and tricky layouts. 
 
 The calculator also misses things it doesn't ask about, like a room that gets afternoon sun, a draughty old fireplace, or an open stairwell pulling warm air upstairs.
 
+## Using a heat pump calculator in Christchurch homes
+
+The tool knows your region. It doesn't know your house.
+
+- **High-stud villas.** In [Papanui](/heat-pumps-papanui/), a villa's high stud means more air to heat. Measure the ceiling height properly. A villa lounge usually needs more than a modern room the same size.
+- **Renovated villas.** In [Sydenham](/sydenham/), a villa can have two climates. The extension at the back is insulated and double glazed. The front rooms have high ceilings and old windows. Run the tool for each room on its own, not the house as one.
+- **Hill homes with view windows.** Up in [Kennedys Bush](/kennedys-bush/), big windows face the view and wind strips heat faster. Enter every window at its real size. Floor area alone isn't enough.
+- **Rentals.** Many [Riccarton](/heat-pumps-riccarton/) homes are rentals. Landlords run the tool for the main living room, then we quote a heat pump that meets the figure.
+
 ## What to do with the heat pump kW calculator result
 
 The kW number is the heat your room needs at the cold design temperature for your area. It's **not** the rated capacity to look for on the box.

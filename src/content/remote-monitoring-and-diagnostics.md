@@ -48,6 +48,14 @@ When something goes wrong, the app often holds clues. By the time anyone looks a
 
 Send us those screenshots when you book. Add the brand and model number. Often we turn up with a clearer idea of where to start, and the right part in the van.
 
+## Heat pump remote monitoring in Christchurch homes
+
+A few Christchurch conditions show up in what the app records.
+
+- **A stop on a frosty night.** On the western side in [Avonhead](/avonhead/), still nights bring frost. If the app shows the unit stopped in the early hours, tell us. Ice building under an outdoor unit that can't drain is one cause, a fault is another, and we check which at the unit.
+- **Heat that fades over weeks near the sea.** On the beach side of [South New Brighton](/south-new-brighton/), salt builds up on the outdoor coil. A room that warms a little slower each week can be a salty coil, not a broken part. A rinse or a service is the first check.
+- **Rentals you don't live in.** Many [Upper Riccarton](/upper-riccarton/) homes are rentals. If the heat pump has Wi-Fi and the tenants report a fault, ask them for app screenshots and the model number. We turn up with a clearer idea of where to start.
+
 ## Getting monitoring working on your heat pump
 
 Mitsubishi Electric, Daikin and Fujitsu all offer Wi-Fi control on selected models. Some older units can have an adaptor added later.

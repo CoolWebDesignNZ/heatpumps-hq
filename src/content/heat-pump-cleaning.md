@@ -36,6 +36,16 @@ Air comes in the top of the indoor unit. It goes through the filters and over th
 
 Cleaning the filters only deals with the first one.
 
+## Heat pump cleaning in Christchurch homes
+
+How fast a heat pump gets dirty depends on where you live.
+
+- **Dust from busy roads and industry.** In [Bromley](/bromley/) and [Sockburn](/sockburn/), homes near trucks, busy roads and commercial sites get more fine dust. The filters fill faster and the outdoor coil clogs. Rinse the filters every few weeks in winter and book a yearly clean.
+- **Salt near the beach.** In [New Brighton Central](/new-brighton-central/), salt still reaches the outdoor unit. Rinse it every few months. At a clean we clear the outdoor fins as well.
+- **Damp homes.** In [Shirley](/shirley/), some homes feel cold and damp at once. A blocked drain matters more in a damp house, because it can drip down the wall. We flush the tray and line at every clean.
+- **Leafy gardens.** In [Beckenham](/beckenham/), leaves and pollen from big old gardens build up on outdoor coils faster. We clear them off so the unit can breathe.
+- **Student flats.** In [Ilam](/ilam/), heat pumps in shared flats run long hours and get little care. We can book a service before each academic year starts, and show the tenants how to clean the filters.
+
 ## How to clean your heat pump filters
 
 It takes a few minutes.

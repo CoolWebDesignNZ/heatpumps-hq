@@ -65,6 +65,14 @@ Refrigerant only counts as an emission if it leaks out. Or if it's let out when 
 
 Some homes have both. They use the heat pump day to day and the burner on the coldest nights. For more on the rules for heat pumps, see our [heat pump regulations guide](/compliance-building-codes/).
 
+## Heat pump carbon footprint in Christchurch homes
+
+A few local things change how much a heat pump cuts your footprint.
+
+- **Moving off a log burner.** Lots of [Lincoln](/lincoln/) lifestyle block owners want to move off a log burner and have the whole house warm. If the burner has been the main heat, as in many [Marshland](/marshland/) farmhouses, the heat pump takes over the whole job. We size it for the volume of the living area, high ceiling included.
+- **Units fitted during earthquake repairs.** Many heat pumps in [Avondale](/avondale/) went in during earthquake repairs and may not have been serviced since. A service that checks the pressures catches a slow refrigerant leak before the gas runs low.
+- **Salt on the coast.** In [Clifton](/clifton/), wind off the sea drives salt onto the coil. A yearly service with a corrosion check, and a gentle rinse between services, helps the unit last longer before it has to be replaced.
+
 ## How to cut your heat pump's footprint
 
 Mostly, choose it well and look after it.

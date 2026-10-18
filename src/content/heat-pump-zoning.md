@@ -60,6 +60,15 @@ Set the zones by how you live in the house, not just the floor plan.
 
 The heat pump also needs enough places to push air when only one small zone is open. That limits how small a zone can be. It's one reason zoning works best when it's designed with the duct layout. Tacked on later, it's harder to get right.
 
+## Heat pump zoning in Christchurch houses
+
+The shape of the house and how you use it set the zones. In Christchurch, a few layouts come up again and again.
+
+- **Hill homes on more than one level.** In [Cashmere](/cashmere/) and [Westmorland](/westmorland/), houses follow the slope, with living areas and bedrooms on different floors. Warm air climbs the stairwell, so one setting for the whole house doesn't suit. We set each level up as its own zone.
+- **Big homes lived in end to end.** One wall unit seldom heats a big [Fendalton](/fendalton/) home, so ducted is a common choice there. Zoning lets you heat the bedrooms at night and leave the living areas off.
+- **A second lounge that sits empty.** Some [Russley](/russley/) homes have a formal lounge that's only used when guests come. Heating it every day wastes power, and leaving it cold lets damp settle in. A ducted zone you can close off and open when you need it handles both.
+- **New houses on the edge of the city.** Building in [Marshland](/marshland/)? Talk to us before the linings go up. Zoning works best when it's planned with the duct layout.
+
 ## Adding zone control to an existing ducted heat pump
 
 Got a ducted heat pump that heats the whole house? Zone control can often be added later, if the system passes these checks.

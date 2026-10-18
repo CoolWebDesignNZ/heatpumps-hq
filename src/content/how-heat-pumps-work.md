@@ -70,6 +70,15 @@ The cold works against a heat pump in two ways.
 
 That's the main reason sizing matters so much in Canterbury. EECA's guide lists the outside design temperature for Christchurch City and Selwyn District as **minus 4°C**. When [sizing a heat pump](/heat-pump-sizing/), pick a unit for its output at that temperature. Not at 7°C.
 
+## How heat pumps work in Christchurch weather
+
+The cycle is the same everywhere. Christchurch weather changes how hard each part has to work.
+
+- **Frosty plains.** In [Yaldhurst](/yaldhurst/) and [Prebbleton](/prebbleton/), still, clear nights bring hard frosts. The outdoor coil has less heat to collect and has to defrost. We size for a frosty morning and raise the unit so the meltwater drains away.
+- **Big north windows on the hills.** On [Mount Pleasant](/mount-pleasant/), winter sun can warm a north facing living area by lunchtime. Once the sun drops, the glass gives that heat away fast, and the heat pump has to replace it. We size for the evening, not the sunny afternoon.
+- **Salt air on the coast.** The outdoor coil is where the heat gets collected. In [Redcliffs](/redcliffs/) and [Moncks Bay](/moncks-bay/), salt off the estuary and the sea settles on its thin fins and shortens their life. A gentle rinse and a yearly service keep it collecting heat.
+- **Hot summer days.** The reversing valve is what lets the same unit cool. On the hill in [Cashmere](/cashmere/), rooms with big windows can get too hot on a still summer day, and the heat pump that warms them in winter cools them then.
+
 ## What the indoor and outdoor units actually do
 
 The outdoor unit collects heat. Its compressor raises the refrigerant's pressure and temperature. The indoor unit lets that heat out into the room. Behind its front panel, filters catch dust before it reaches the coil. A condensate drain carries away the water from cooling and defrost.

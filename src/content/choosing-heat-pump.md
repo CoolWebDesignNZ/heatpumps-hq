@@ -79,6 +79,15 @@ EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-reg
 
 A well chosen unit can still run badly. It might be in the wrong place. The pipework might be poor. The electrical work might be skipped. EECA's guide says lots of heat pumps that run badly come down to where the units were put. Before you pick who fits it, ask the questions in [choosing a heat pump installer](/best-heat-pump-installers-christchurch/).
 
+## Buying a heat pump for a Christchurch home
+
+The right answer changes with the house you live in.
+
+- **Lounge at one end, bedrooms down the hall.** That's most [Linwood](/linwood/) homes. A lounge unit won't push heat down the hall with the doors shut. Plan a small bedroom unit or a multi-room system from the start.
+- **Two storey townhouses.** In [Upper Riccarton](/upper-riccarton/), a narrow stairwell carries very little warm air upstairs. Budget for a small unit upstairs.
+- **Newer subdivision homes.** In [Burwood](/burwood/), they hold their heat well. A unit sized right ticks over gently. One that's too big costs more and switches on and off.
+- **Hot nor'west days.** On open rural land like [McLeans Island](/mcleans-island/), a heat pump can cool the house on hot nor'west days. Check the cooling output as well as the heating.
+
 ## A quick checklist for buying a heat pump
 
 Take this with you when you compare quotes.

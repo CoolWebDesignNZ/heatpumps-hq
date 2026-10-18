@@ -55,6 +55,15 @@ Every heat pump needs regular servicing. An older Panasonic is no different. Our
 
 That's our standard [servicing](/maintenance-servicing/). If there's a sour or musty smell at start-up, it'll need [heat pump cleaning](/heat-pump-cleaning/) too.
 
+## Panasonic heat pump service across Christchurch
+
+Where your Panasonic sits changes what we look for at a service or repair.
+
+- **Coastal suburbs.** In [Clifton](/clifton/), wind off the sea drives salt onto the outdoor coil. On an older Panasonic, we check the coil and casing for salt damage before we price a repair.
+- **Dusty semi-rural sites.** Around [Harewood](/harewood/), dry nor'west days, paddocks and gravel driveways all carry dust. If the unit runs hard on cooling, the filters can clog as fast in summer as in winter. A yearly service cleans the coils and checks the drain.
+- **Frosty flat sections.** In [Halswell](/halswell/), frost and defrost water can build up under an outdoor unit that sits too low. We check it's up on raised feet or a bracket.
+- **Rentals.** Lots of [Riccarton](/heat-pumps-riccarton/) properties are run by property managers. We can work through you to sort access with tenants, and service every heat pump on the property in one visit.
+
 ## Parts for Panasonic heat pumps
 
 Fan motors, sensors and control boards are parts we replace a lot, on every brand. On older Panasonic units, some can get hard to track down. We check before we quote any [parts replacement](/heat-pump-parts-replacement/). You won't be stuck with a half-done repair, waiting on a part that doesn't exist.

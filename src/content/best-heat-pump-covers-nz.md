@@ -36,6 +36,15 @@ Start with why you want a cover, because each reason points to a different type.
 
 A running outdoor unit doesn't need covering against normal rain or frost. It's built to live outside. People cover one for looks, or to keep sun and falling debris off it. [Heat pump covers](/covers/) explains why airflow matters, and what a cover can't fix.
 
+## Heat pump covers for Christchurch sections
+
+Where you live in Christchurch changes which cover makes sense, and whether you need one at all.
+
+- **Salt and sand at the beach.** In [New Brighton](/new-brighton/) and [South New Brighton](/south-new-brighton/), the outdoor coil needs a gentle rinse every few months to keep the salt off. Pick a cover that lifts off easily, in aluminium with stainless steel fixings, so the rinsing still gets done.
+- **Narrow side yards.** On small sections in [Sumner](/sumner/), the outdoor unit often sits in a narrow side yard, close to the house next door. There may be no room for a cabinet that keeps the clearances. A roof shelter, or no cover, is often the better choice.
+- **Pine needles and bark.** Around [Bottle Lake](/bottle-lake/), the air brings pine needles, pollen and bark dust onto the fins. A roof shelter keeps falling needles off the top. Leave the sides open so the coil can still breathe and be cleaned.
+- **Stock and machinery.** On a rural [McLeans Island](/mcleans-island/) property, a small fence or a wall bracket keeps the unit out of harm's way. Keep the fence clear of the front of the fan.
+
 ## The main types of heat pump cover
 
 ### Louvred cabinets

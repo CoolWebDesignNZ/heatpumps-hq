@@ -53,6 +53,15 @@ Some jobs are simple and you can do them yourself. The rest need a technician wi
 
 A [heat pump service](/heat-pump-servicing/) deals with the parts you can't reach. That's the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. Then we run the system and measure how well it heats and cools.
 
+## Heat pump maintenance in Christchurch conditions
+
+What wears a heat pump down depends on what's in the air around it.
+
+- **Salt by the water.** In [Moncks Bay](/moncks-bay/) and [New Brighton](/new-brighton/), salt settles on the outdoor coil and makes the fins and fixings corrode faster. Give the coil a gentle hose rinse every couple of months, and check the casing for rust spots.
+- **Dust from roads and yards.** In [Bromley](/bromley/), homes near trucks, busy roads and industrial yards get more fine dust. The filters fill faster, so wash them more often, and hose down the outdoor coil now and then.
+- **Leaves from big trees.** In [Fendalton](/fendalton/), outdoor units near trees catch leaves, twigs and blossom on the coil, which cuts efficiency. Sweep round the unit, and the yearly service clears the coil.
+- **Shared flats.** Heat pumps in [Ilam](/ilam/) student flats run long hours and get little care. We can book a yearly service before each academic year starts, and show the tenants how to clean the filters.
+
 ## A Canterbury maintenance year
 
 **Late summer and autumn.** A good time for the yearly service, before the first frosts. If you've run it hard for cooling, the coil's been wet all summer. That's when mould takes hold. A [tune-up](/heat-pump-seasonal-tune-ups/) before the season fits in here too.

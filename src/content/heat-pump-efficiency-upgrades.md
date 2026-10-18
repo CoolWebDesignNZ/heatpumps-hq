@@ -37,6 +37,16 @@ An old heat pump doesn't need replacing just because it's old. How it's working 
 
 If only one of these fits, a repair or service may be enough. See how we weigh up [heat pump repair](/heat-pump-repair/) against replacing.
 
+## Heat pump replacement in Christchurch homes
+
+Lots of Christchurch houses have changed since their old heat pump went in. That changes what the new one should be.
+
+- **Rebuilt and repaired homes.** In [Dallington](/dallington/), some houses were rebuilt after the earthquakes and others were repaired. Repair work sometimes disturbed the insulation, and it wasn't always put back. We check what the work left behind before we size the new unit, because the old size may now be wrong.
+- **Frosty mornings on the plains.** Out in [Templeton](/templeton/), clear nights bring frost, and the heat pump defrosts its outdoor coil on those mornings. If your old unit can't keep up then, we size the new one for the coldest mornings, not an average day.
+- **Salt by the sea.** On the dune streets of [North New Brighton](/north-new-brighton/), salt makes the coil fins and casing corrode faster. Rust spots, a white crust on the fins or weaker heating mean it's time for a check. If the unit is past fixing, the new one goes on the side of the house sheltered from the easterly.
+- **Units in the wrong spot.** In [Spreydon](/spreydon/), some older outdoor units went in a corner or right under a neighbour's bedroom. A replacement is the time to move it, so it runs quieter and works better.
+- **Heat pumps that came with the house.** Plenty of [Aidanfield](/aidanfield/) homes came with one, and it may be getting on. Weaker heat on cold mornings or louder running? We check it first. Sometimes a service or repair brings it back.
+
 ## Heat pump upgrades short of replacement
 
 Not every problem needs a new heat pump. Before we quote a replacement, we check whether one of these would fix it.

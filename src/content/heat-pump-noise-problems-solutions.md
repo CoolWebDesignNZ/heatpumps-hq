@@ -54,6 +54,16 @@ Match what you hear to its likely causes before you take anything apart.
 
 Buzzing with a burning smell is serious. So is any noise with smoke. Switch it off at the isolator outside and ring us. Don't keep running it.
 
+## Heat pump noise and Christchurch neighbours
+
+Outdoor unit noise is measured at your neighbour's place, and Christchurch sections don't all leave the same room.
+
+- **Infill sections.** In [Papanui](/heat-pumps-papanui/), many original sections now hold two to four homes, with little room down the sides. The unit often goes on a wall bracket or a slim pad, so anti-vibration mounts and a spot away from next door's bedroom matter more.
+- **Hillside homes.** Sound carries differently on a slope. In [Cashmere](/cashmere/), a unit below a neighbour's deck can bother them more than you'd think. We check what's above and below before we move or remount it.
+- **Bedroom units that run all night.** In [Oaklands](/oaklands/), a bedroom heat pump often runs overnight. Indoors, use the low fan setting. Outside, keep the unit off walls near the neighbour's windows. The Christchurch District Plan sets the [noise limits](/heat-pump-boundary-rules-consent-nz/) at the neighbour's site.
+- **Selwyn homes.** In [Prebbleton](/prebbleton/), heat pump noise comes under the Selwyn District Plan, not Christchurch's. Where the outdoor unit sits still decides how much noise reaches next door.
+- **Frosty mornings.** A hiss and a pause during defrost is normal. Hard frosts are part of a [Hoon Hay](/hoon-hay/) winter, so raise the unit and keep its drain path clear. Ice that builds up in the base can catch the fan and bang.
+
 ## Fixing a noisy heat pump outdoor unit
 
 The neighbours hear the outdoor unit, so fix that first.

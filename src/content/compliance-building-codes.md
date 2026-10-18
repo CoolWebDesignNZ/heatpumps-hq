@@ -37,6 +37,15 @@ Five sets of rules apply to a heat pump in a New Zealand home. A different body 
 | Rentals | Healthy Homes heating standard | Tenancy Services |
 | Noise and placement | District Plan noise limits at the boundary | Your district council |
 
+## Heat pump regulations for Christchurch and Selwyn homes
+
+The same rules land differently depending on where you live and what you own.
+
+- **Selwyn homes.** [Lincoln](/lincoln/) is in Selwyn District, not Christchurch City. The Selwyn District Plan covers noise from the outdoor unit, so check consent questions with Selwyn District Council too.
+- **Tight sections and shared paths.** In [Edgeware](/edgeware/), noise is judged at the neighbour's place. The outdoor unit often goes on a wall bracket above head height, or round the back, away from the shared path and next door's bedroom windows.
+- **Rentals.** In [Aranui](/aranui/), lots of homes are rentals, including public housing. The heater has to be fixed, at least 1.5 kW, and have a thermostat. In an older lounge with no insulation, go a bit above the minimum to keep the room comfortable on frosty mornings.
+- **Hillsides.** In [Cashmere](/cashmere/), sound carries differently on a slope. A unit below a neighbour's deck can bother them more than you'd think. We check what's above and below before we pick a spot.
+
 ## Does a heat pump need building consent?
 
 No, not in Christchurch. The council is clear on this. Heat pumps and other fixed electric heaters don't need building consent. But a registered electrician has to put them in and certify their own work.

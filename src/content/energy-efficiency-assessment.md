@@ -50,6 +50,15 @@ Which rooms you need warm, and when. Who's home during the day. Say someone's ho
 - **Other heaters.** Wood burners, gas heaters, panel and fan heaters, and how they work alongside the heat pumps.
 - **Controls.** Timers and Wi-Fi controllers, and whether they're set to match your routine. A heat pump set for the wrong hours heats an empty house.
 
+## Home energy assessment for Christchurch houses
+
+The same checks turn up different answers across Christchurch.
+
+- **Homes repaired after the earthquakes.** In [Dallington](/dallington/), repair work sometimes disturbed the ceiling and underfloor insulation, and it wasn't always put back. Some repaired homes still have their original single glazing. We look before we say what size of heat pump the house needs.
+- **The shady side of the hills.** In [Heathcote Valley](/heathcote-valley/), the hills block the low winter sun from one side of the valley. A house there leans harder on its heating, so we look at which way the living areas face, not just the floor area.
+- **Older homes that have been upgraded.** In [Queenspark](/queenspark/), homes with double glazing and wall insulation added may need a smaller heat pump than their age suggests. We work from what's in the house now.
+- **Rentals.** For a [Phillipstown](/phillipstown/) rental, the Healthy Homes heating standard sets the minimum heating for the main living room. Once you have the required capacity, we can fit a heat pump that meets it.
+
 ## What you get from the assessment
 
 We go through what we found with you on the day. We explain what we'd change. Biggest difference first, for comfort and power use. It might be a service or repair on a heat pump you have, or just new settings or timers. It might be moving a boxed-in outdoor unit, or a second heat pump for a room that's never warm. Where the old one is too small or too old, it might be a new unit. Sometimes the first job is insulation or draught stopping, done by someone else.

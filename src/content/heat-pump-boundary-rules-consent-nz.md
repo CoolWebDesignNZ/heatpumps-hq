@@ -60,6 +60,16 @@ Put it where it stays quiet at the neighbour's place.
 - **Screened, not boxed in.** A slatted timber screen helps the look and takes off a bit of sound. But the unit needs open space round it to breathe. A tight box makes it work harder and louder.
 - **The right size.** A unit that's too small runs flat out every night. The right size just ticks over. Read about [heat pump sizing](/heat-pump-sizing/).
 
+## Heat pump boundary rules in Christchurch suburbs
+
+The rules don't change across the city. How hard they are to meet depends on your section.
+
+- **Small sections in the inner suburbs.** In [Addington](/heat-pumps-addington/), houses sit close together, and the only spot may be a narrow side passage along the neighbour's fence. We check what's on the other side of the fence first. When space is tight, we compare how loud each outdoor model is.
+- **Townhouses.** In [Edgeware](/edgeware/), side paths are narrow and the next unit's bedroom may be a metre or two away. We place the outdoor unit with that bedroom in mind.
+- **Central City apartments.** In [the Central City](/central-business-district-cbd/), the District Plan has its own noise limits, separate from the suburbs. Bedrooms are close together, and your body corporate may have rules about where an outdoor unit can go.
+- **Hillside sections.** On the terraced slopes of [Westmorland](/westmorland/), noise travels. An outdoor unit beside the garage or on a lower terrace still has to stay quiet at the neighbour's place.
+- **Selwyn villages.** [Tai Tapu](/tai-tapu/) comes under the Selwyn District Plan. On a lifestyle block the nearest neighbour may be a fair way off, but in the village the sections are closer together.
+
 ## When a heat pump needs consent
 
 Meet the District Plan noise limits and it's a permitted activity. No resource consent needed. Nearly every home install fits here.

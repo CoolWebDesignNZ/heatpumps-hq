@@ -49,6 +49,15 @@ Do these in autumn, while it's still mild.
 
 **Shut doors to rooms you aren't heating.** A heat pump sized for the living area can't heat the whole house as well. Keep the warmth where you need it. Need more rooms heated? See [multi-room installation](/multi-room-heat-pump-installation/).
 
+## Heat pump winter maintenance for Christchurch homes
+
+Before winter, check the things your part of Christchurch is hard on.
+
+- **Frosty flat suburbs.** In [Spreydon](/spreydon/) and [Oaklands](/oaklands/), still, frosty mornings are the norm in winter. Check the outdoor unit still sits level on its feet or bracket, with somewhere for the defrost water to go.
+- **Low ground and big trees.** In [Beckenham](/beckenham/), by the river and under big old trees, clear the leaves from round the unit. It should sit up clear of soggy ground and garden beds.
+- **Salt on the easterly.** In [Avondale](/avondale/), a few kilometres from the coast, an easterly brings in some salt. Give the outdoor coil a gentle rinse when you clear round it in autumn.
+- **Heat pumps that run every evening.** In [Linwood](/linwood/), a heat pump that runs every winter evening gets dusty fast. Book the yearly service before the cold sets in.
+
 ## The outdoor unit in a Canterbury winter
 
 Over winter the outdoor unit copes with frost, meltwater, ice and the odd snowfall.

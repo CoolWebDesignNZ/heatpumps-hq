@@ -48,6 +48,16 @@ There's no set menu. We work it out from what's in front of us.
 
 Then we agree how often each unit gets done, and what time of year suits. A home that only heats might have one visit before winter. A home that cools all summer might add a second visit in spring.
 
+## Heat pump maintenance plans for Christchurch homes
+
+Where your heat pumps live in Christchurch shapes the plan.
+
+- **Salt by the sea.** In [Redcliffs](/redcliffs/) and [Moncks Bay](/moncks-bay/), salt builds up on the outdoor coil. Rinse it gently with a hose every couple of months. The yearly clean lets us spot corrosion early.
+- **Dust on the city edge.** In [Yaldhurst](/yaldhurst/), dust blows in off the paddocks and shingle driveways and clogs the coil. We book that visit before winter.
+- **Summer cooling.** On hot nor'west days in [Harewood](/harewood/), a unit cooling all summer can clog its filters as fast as in winter. That's the home where a second visit in spring makes sense.
+- **Student flats.** In [Ilam](/ilam/), heat pumps in shared flats run long hours and get little care. We can book a yearly service before each academic year starts.
+- **Between tenancies.** In [Aranui](/aranui/), a rental heat pump gets used hard and often gets little care between tenants. A service between tenancies heads off most repairs.
+
 ## What a heat pump maintenance contract costs
 
 We agree a fixed price per visit before the first one. It's set by the same things as any service: how many units, what type of system, how easy each one is to get at, and what shape it's in. If we find a part that needs replacing, we price it separately. Nothing gets done without your OK.

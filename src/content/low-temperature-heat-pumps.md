@@ -48,6 +48,15 @@ EECA notes that below 5.5°C outside, a heat pump has to deal with frost. Some o
 
 After a few minutes it switches back. The warm air returns. On a cold, damp morning it can happen again and again. That's normal.
 
+## Low temperature heat pump sizing in Christchurch
+
+How cold your heat pump has to work depends on where the house sits.
+
+- **The open plains.** In [Rolleston](/rolleston/) and [Templeton](/templeton/), clear winter nights bring hard frosts. That's when a heat pump works hardest. We size for the coldest mornings, not an average day.
+- **Rural blocks with no shelter.** On [McLeans Island](/mcleans-island/), houses take the full weather coming across the plains. Wind pulls heat out of the walls and windows, and frost lowers the unit's output. We put the outdoor unit out of the nor'west and size for frosty mornings.
+- **Exposed hillsides.** Up in [Kennedys Bush](/kennedys-bush/), wind across the hill strips heat faster than in the streets below, and the unit defrosts often on frosty mornings. A bracket or raised feet lets the melt water drain away.
+- **Shady corners.** In [Lincoln](/lincoln/), we keep the outdoor unit out of spots where frost hangs around longest, like a shady corner against a south wall.
+
 ## When your heat pump is not working in cold weather
 
 House still cold? Heat pump seems to be giving up? Go through these before you call.

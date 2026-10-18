@@ -35,6 +35,14 @@ Need lab results for a health concern, an insurance claim or a building dispute?
 
 An indoor unit pulls room air through its filters, over a coil and through a fan. Dust collects on all three. The coil gets damp whenever the unit cools or dries the air. So mould can grow on the fins, in the fan wheel and in the drain tray. Every time the unit runs, room air passes over that build-up. For anyone with [allergies or asthma](/allergy-asthma-solutions-heat-pumps/), that's what sets them off when the unit starts.
 
+## Air quality testing in Christchurch homes
+
+Where your house sits in Christchurch changes what we tend to find inside the unit.
+
+- **Dust from trucks, busy roads and yards.** Homes beside the commercial and industrial land in [Bromley](/bromley/) get more fine dust. It fills the filters and settles on the coil faster. We check those first, and show you how to lift the front panel and get the filters out.
+- **Damp near the river and the lagoon.** Homes close to the river in [Dallington](/dallington/) and near the lagoon in [Brooklands](/brooklands/) can feel damp in winter. We check the drain tray and look for condensation and mould in the room. Then you know whether the damp starts in the unit or in the house.
+- **Paddock dust on the city edge.** In [Yaldhurst](/yaldhurst/), dust blows in off the paddocks and shingle driveways. It builds up on the indoor filters as well as the outdoor coil. Clean the filters more often, and book the yearly check before winter.
+
 ## What we look at during an air quality test at home
 
 We check the heat pump part by part. Then the room around it.

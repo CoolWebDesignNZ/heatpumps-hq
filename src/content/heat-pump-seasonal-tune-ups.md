@@ -45,6 +45,15 @@ A heat pump can sit unused for months and still look fine. Its first real test i
 
 **Sensors.** Room never feels like the number on the remote? We check where the unit reads the temperature from. If it's still off, see [thermostat calibration](/heat-pump-thermostat-calibration/).
 
+## Heat pump tune up for Christchurch seasons
+
+Christchurch weather sets what each tune-up looks at.
+
+- **Frosty plains mornings.** In [Rolleston](/rolleston/) and [Lincoln](/lincoln/), clear winter nights bring hard frosts, and that's when a heat pump works hardest. The autumn tune-up checks the raised feet or bracket, the base and the drain path, so defrost water drains away and doesn't freeze into ice under the unit.
+- **Dusty nor'west summers.** In [Harewood](/harewood/), dry nor'west days carry dust, and a unit cooling all summer can clog its filters as fast as it does in winter. A spring tune-up before you start cooling checks the filters, drain and output. Rinse the filters every few weeks while it's working hard.
+- **Damp days by the water.** In [Moncks Bay](/moncks-bay/), rooms that back onto a retaining wall can feel damp, and dry mode helps on mild, damp days. Dry mode puts water through the drain, so the spring check makes sure it runs clear.
+- **Salt on the easterly.** Some salt blows into [Parklands](/parklands/) on an easterly. Give the outdoor coil a gentle rinse before the season starts, and we look at it again at the tune-up.
+
 ## Tune-up or full service?
 
 A tune-up is about being ready. A full [heat pump service](/heat-pump-servicing/) is about how clean it is and what shape it's in. The coil, fan wheel, drain tray and outdoor coil all get a proper clean.

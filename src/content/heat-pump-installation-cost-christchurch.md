@@ -31,6 +31,15 @@ We don't publish heat pump prices or price ranges. A published figure can't allo
 
 Knowing what moves the price also tells you what to look for in any quote, ours included.
 
+## Heat pump installation cost for Christchurch homes
+
+Your suburb and your type of house change the install work, so they change the price.
+
+- **Steep hill sections.** On [Mount Pleasant](/mount-pleasant/) and in [Heathcote Valley](/heathcote-valley/), the outdoor unit often goes on a wall bracket or a deck, and some sites are up long flights of steps. We plan the bracket, the pipe route and the access at the quote, so the price doesn't change on the day.
+- **Apartments and unit-titled townhouses.** In the [Central City](/central-business-district-cbd/), the body corporate rules can decide where the outdoor unit goes and how the pipes run. Find out what yours allows before we quote a final layout.
+- **Tight townhouse sites near the water.** In [Ferrymead](/ferrymead/), a townhouse outdoor unit may only fit in the courtyard, on a side wall, on a balcony or on the garage roof. Low sections can collect surface water, so the unit goes up on feet or a stand.
+- **New builds before the linings go on.** In a new [Belfast](/belfast/) home, pipes for wall units can run inside the walls instead of in covers outside, and ducting gets a clear path through the ceiling. That's simpler work than fitting around finished walls and ceilings.
+
 ## How the unit affects heat pump installation cost
 
 Three things about the heat pump itself change the cost.

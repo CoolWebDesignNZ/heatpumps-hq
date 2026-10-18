@@ -33,6 +33,16 @@ EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz
 
 So when you compare installers in Christchurch, or anywhere near you, look past the price and compare how they work.
 
+## What heat pump installers in Christchurch have to plan for
+
+A good installer knows the local conditions and prices them into the quote.
+
+- **Hill sections.** In [Heathcote Valley](/heathcote-valley/) and [Mount Pleasant](/mount-pleasant/), a deck or a wall bracket can be the only level spot. Ask how they'll check the structure can take the weight, and where the defrost water will drain.
+- **Wet, low ground.** Low sections by the estuary in [Bexley](/bexley/) can hold water in winter, and a pad can sink. Ask for a raised, level base, or a bracket fixed to the house framing.
+- **Selwyn homes.** In [Prebbleton](/prebbleton/) and [Tai Tapu](/tai-tapu/), noise from the outdoor unit comes under the Selwyn District Plan, not Christchurch's. Ask which rules the installer is placing the unit against.
+- **Rentals.** For a rental in [Phillipstown](/phillipstown/), the Healthy Homes standard sets the minimum heating for the main living room. The installer should size the unit to that figure and fit it to heat the room directly.
+- **Older switchboards.** In an older [Lyttelton](/lyttelton/) house, the switchboard may have no spare circuit. A good installer tells you before any work starts, not on the day.
+
 ## 1. A licensed electrical worker does the electrical work
 
 EECA's guide says only a registered electrician can hard wire the units. The [Electrical Workers Registration Board](https://www.ewrb.govt.nz/for-consumers/about-licences/) gives three tips. Ask to see the worker's licence ID, card or digital. Check it hasn't expired and the photo matches. Then search the Electrical Workers Public Register to make sure it hasn't been suspended.

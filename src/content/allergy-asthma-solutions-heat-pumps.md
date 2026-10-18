@@ -46,6 +46,16 @@ A heat pump pulls a lot of room air through its indoor unit. Over months of use:
 
 The signs are sneezing, itchy eyes or a cough that get worse when it's on, a musty smell when it starts, and dark specks on the louvres.
 
+## Heat pump allergies in Christchurch homes
+
+Some Christchurch homes give a heat pump more dust and damp to deal with than others.
+
+- **Damp homes by the river.** On the low ground near the river in [Beckenham](/beckenham/), homes run colder and damper. Steady warmth keeps walls and windows warm enough that moisture doesn't settle. So we set the unit up to run steadily, not in short evening blasts.
+- **Closed-off bedrooms.** In damp [Shirley](/shirley/) homes, the bedrooms behind closed doors are where damp usually starts. A lounge unit won't reach them. A small unit in the bedroom keeps that room warm, and the filters in it need the same care.
+- **Busy roads and commercial sites.** Some [Sockburn](/sockburn/) homes back onto them, and dust settles on the indoor filters faster there. Rinse the filters every few weeks in winter, and book a yearly clean.
+- **Dry nor'west summers.** Out by the airport in [Harewood](/harewood/), nor'west days carry dust. A unit cooling all summer can clog its filters as fast as it does in winter. Keep rinsing them while it's working hard.
+- **Rental flats.** The Healthy Homes standard only covers the main living room. In an [Ilam](/ilam/) flat, a small unit in a cold bedroom helps the tenants and keeps mould down.
+
 ## What helps when a heat pump triggers asthma
 
 ### Clean filters

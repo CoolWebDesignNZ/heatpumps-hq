@@ -36,6 +36,14 @@ A heat pump only uses as much power as the job needs, so anything that makes the
 - **The unit's size and rating.** A well-sized, well-rated unit running gently uses less than a small one running flat out.
 - **Its condition.** Dirty filters and coils, or low refrigerant, mean it runs longer for the same heat.
 
+## Heat pump power usage in Christchurch homes
+
+Where you live changes what a normal bill looks like.
+
+- **Hard frosts out west.** On the plains in [Russley](/russley/), clear nights bring hard frosts, and the outdoor unit has to defrost its coil on icy mornings. A frosty week uses more than a mild one, so compare like with like before you decide the unit has a fault.
+- **Big north windows.** On [Mount Pleasant](/mount-pleasant/), glass that soaks up winter sun can make a room far too hot in summer. In a room like that the cooling load can be higher than the heating load, so summer use shows on the bill too.
+- **Floors on piles.** In [Bromley](/bromley/), many houses have no underfloor insulation, and the floor pulls heat out of every room. The heat pump runs longer to keep up. We check under the house before we blame the unit.
+
 ## Using the energy label to estimate heat pump running cost
 
 To estimate a heat pump's running cost from its label, add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate. That's EECA's suggestion for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. EECA says they're only a guide, because every household uses power differently ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).

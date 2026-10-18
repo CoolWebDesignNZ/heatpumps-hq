@@ -83,6 +83,15 @@ Whatever the brand, these are the things we compare when we pick units for a hou
 - **Coastal protection.** Homes near the sea need it on the outdoor unit.
 - **Parts and service in Christchurch.** You want parts and repairs on hand for the years after the install.
 
+## Heat pump brands for Christchurch homes
+
+We pick models for the house in front of us. These local conditions narrow the choice.
+
+- **Salt and wind on the coast.** In [Clifton](/clifton/), wind off the sea drives salt onto the coil. We check each maker's coastal advice for the models we quote, and look for a spot in the lee of the house.
+- **Frost and fog by the estuary.** In [Bexley](/bexley/), cold, still nights bring frost and fog, and that's when the outdoor unit defrosts most. Some units keep their output in the cold better than others, so we compare the 2°C heating figure model by model.
+- **Renovations with the ceiling open.** In [Somerfield](/somerfield/), a renovation where the ceiling's coming down anyway is a good time for ducted. Where the ceiling space is tight, the slim ducted models from Daikin and Toshiba can help.
+- **Villa lounges with low windows.** In [Riccarton](/heat-pumps-riccarton/) villas, a floor console can suit a lounge with a low window. All four brands list floor consoles, so it comes down to the model that fits under the sill.
+
 ## Panasonic and other heat pump brands
 
 We don't fit Panasonic. We do service and repair Panasonic units, and most other heat pumps sold in New Zealand. See [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/).

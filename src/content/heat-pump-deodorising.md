@@ -46,6 +46,15 @@ The indoor coil gets cold and wet whenever the unit cools or dries the air. Dust
 
 Smells are often worst in spring and early summer. That's when the unit swaps from heating to cooling, and the coil gets wet again. A unit that's sat unused for months can smell stale on its first run, too.
 
+## Heat pump smell in Christchurch homes
+
+Where your house sits in Christchurch changes how fast a heat pump starts to smell, and what we check first.
+
+- **Damp near the estuary and the rivers.** Estuary-side homes in [South New Brighton](/south-new-brighton/) and houses on low ground by the river in [Beckenham](/beckenham/) can feel damp all winter. A damp house can smell musty even with a clean heat pump. We check the room as well as the unit, so you don't pay for a clean that won't fix it.
+- **Dust from busy roads and industry.** In [Bromley](/bromley/), homes near trucks, busy roads and yards get more fine dust. The filters fill faster, and dust that gets past them feeds the mould on a wet coil. Wash the filters more often than you would elsewhere.
+- **Dust and pollen on rural sections.** Units on rural properties around [Spencerville](/spencerville/) pick up dust, pollen and grass seed. A yearly service clears it out, along with the dust on the indoor coil that mould grows on.
+- **Shut, unheated bedrooms.** In [Shirley](/shirley/), damp usually starts in closed-off bedrooms. A small bedroom unit on low overnight keeps the room drier, and a dry room gives mould less of a start.
+
 ## How we remove a heat pump odour
 
 We get rid of the cause.

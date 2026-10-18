@@ -68,6 +68,15 @@ The energy star rating can't tell you how a heat pump will go in your house. It'
 
 So we use the label as one input. We size your rooms properly as well. See [what makes an energy efficient heat pump](/energy-efficient/).
 
+## Choosing an energy star heat pump for Christchurch
+
+The label is the same everywhere. Which figures matter most depends on where the unit goes.
+
+- **Frosty plains.** In [Yaldhurst](/yaldhurst/), hard frosts on still, clear nights cut what a heat pump can deliver, just when you need it most. Look hard at the 2°C heating figure, and at units built to hold their output in the cold.
+- **Cold air settling on the flat.** In [Hillmorton](/hillmorton/), cold air settles on still winter nights. No star rating covers where the outdoor unit sits. It needs to be up on feet, so defrost water runs off and doesn't ice up underneath.
+- **Infill sections.** In [Upper Riccarton](/upper-riccarton/), the outdoor unit often ends up a few steps from next door's wall, and the night noise limit is the one that counts on cold mornings. Where the label shows an outdoor noise figure, compare it.
+- **Salt air.** In [Moncks Bay](/moncks-bay/), salt deposits shorten the life of the thin aluminium coil fins. A high star rating won't protect a unit from that. A sheltered spot, a gentle rinse every couple of months and a yearly service will.
+
 ## Old labels and older units
 
 You might see heat pumps with the older Energy Rating Label. That's common on existing installs and second-hand units. EECA says that label's stars measured something different. They can't be converted to the new ones. Comparing an old heat pump with a new one? Compare their actual capacity and age, not their stars.

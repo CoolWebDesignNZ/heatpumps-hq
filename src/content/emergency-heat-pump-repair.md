@@ -71,6 +71,15 @@ Some things feel like a breakdown but turn out to be normal. Check these first.
 
 There are more [checks you can do yourself](/heat-pump-problems-troubleshooting-guide/) for common faults.
 
+## Emergency heat pump repair and Christchurch weather
+
+Some local conditions change what you should do first.
+
+- **Hard frosts on open ground.** In [Templeton](/templeton/) and [Marshland](/marshland/), clear nights bring hard frosts and the outdoor unit defrosts often. Steam on those mornings is normal. If defrost water has frozen into a block under the unit, switch off, let it thaw and call us. A unit on raised feet or a bracket lets the melt water drain away.
+- **Rural homes with a log burner.** Lots of homes on [McLeans Island](/mcleans-island/) still have a burner, and it keeps going through a power cut. Light it while the heat pump is off, and ring us first thing in the working day.
+- **Salt near the dunes.** In [North New Brighton](/north-new-brighton/), salt makes the coil fins and casing corrode faster. Rust spots, a white crust on the fins or weaker heating don't need an urgent visit. But get them checked before the damage spreads.
+- **Soft ground by the estuary.** Parts of [South New Brighton](/south-new-brighton/) settled after the earthquakes. A slab that sinks at one end tips the outdoor unit, and then it can't drain its defrost water. If yours has tipped, switch it off. We'll set it on a firm, level base or a wall bracket.
+
 ## What happens at a heat pump repair in Christchurch
 
 We find the cause first. We don't swap parts on a guess. That's how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, you get a fixed price before we start. If a [replacement part](/heat-pump-parts-replacement/) has to be ordered in, we'll tell you how to use the unit safely until it arrives. Or we'll tell you to leave it off.

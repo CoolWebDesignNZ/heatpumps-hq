@@ -67,6 +67,15 @@ How you set the heat pump makes a real difference. It changes how well it heats,
 
 With no ceiling insulation, your heat pump is heating the roof space. Insulation helps. So do draught stopping, thermal curtains and sealing gaps round doors and windows. They all cut how much heat the room needs. Then the heat pump can be smaller and run less. Planning insulation work? Do it before we size a heat pump, not after.
 
+## Energy efficient heat pumps for Christchurch conditions
+
+Local weather and housing change what an efficient setup looks like.
+
+- **Frosty open ground.** [Lincoln](/lincoln/) is flat and open, and still winter nights bring hard frosts. A unit sized for an average day struggles on a cold morning. So we size for the weather you actually get, and keep the outdoor unit up off the ground and out of shady corners where frost hangs around.
+- **Wind and big windows.** In [Kennedys Bush](/kennedys-bush/), wind across the hillside and big view windows pull heat out fast. We size from the glass, which way it faces and how exposed the site is, so the unit doesn't run flat out on the coldest days.
+- **Salt by the sea.** In [Redcliffs](/redcliffs/), salt corrodes the outdoor unit's coil fins over time, and that cuts how well it moves heat. Rinse the coil gently with a hose now and then, never a water blaster, and keep up the yearly service.
+- **Big homes used in parts.** In [Spencerville](/spencerville/), most families don't need the guest wing or the rumpus room heated every day. With [zoning](/heat-pump-zoning/), you only heat where you're living.
+
 ## Keeping it efficient over the years
 
 A heat pump loses efficiency slowly as it gets dirty. Dust builds up on the indoor coil and fan. The outdoor coil gets grubby. Sometimes the gas slowly leaks out. Each of these means the unit runs longer for the same heat. A yearly [heat pump service](/heat-pump-servicing/) gets it back to where it should be.

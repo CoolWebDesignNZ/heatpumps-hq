@@ -44,6 +44,15 @@ We test in this order, simplest first.
 5. **Sensors.** The temperature sensors on the coils, pipes and air intake. We test them against the maker's values, because a bad sensor can stop it heating.
 6. **Fault history.** Any codes it has saved, which we read with the maker's service info for that model. They can show a fault that isn't happening while we're there.
 
+## When a heat pump is not working in Christchurch
+
+Some faults have a local cause. Where you live tells us what to check first.
+
+- **Frost on the western plains.** In [Hornby](/heat-pumps-hornby/) and [Templeton](/templeton/), clear winter nights bring hard frosts, and the outdoor unit runs a defrost cycle. A few minutes of cool air is normal. If the meltwater can't drain and freezes round the base, we check how the unit sits and where the water goes.
+- **Salt and sand by the sea.** Near the beach in [Sumner](/sumner/), a fine film of salt, and sand on windy days, clogs the outdoor coil fins. A clogged coil cuts output with nothing broken, so we look at the coil before we hunt for a failed part.
+- **Dust near busy roads and yards.** In [Bromley](/bromley/), homes near trucks, busy roads and yards get more fine dust, and the filters fill faster. Blocked filters cut the heat and work the fan harder. We check them early.
+- **High stud villas.** In an [Edgeware](/edgeware/) villa or cottage, warm air heads for the high ceiling and leaks out through the draughts. A unit that runs but can't warm the room may be too small for it, not broken. We'll tell you which.
+
 ## Heat pump blowing cold air
 
 Sometimes that's normal. Sometimes it's a fault. What you're seeing tells us where to start.

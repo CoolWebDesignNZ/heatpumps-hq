@@ -31,6 +31,16 @@ Every part of the system is sized to the house. There's a central indoor unit an
 
 That's why we don't put out ducted prices or ranges. A single level new build in Rolleston and a two storey 1970s house in Cashmere are very different jobs, even with the same system. Come and get a free site visit. You'll get a fixed price for your house.
 
+## Ducted heat pump cost for Christchurch homes
+
+Where you live and the house you live in change the job, and so the price.
+
+- **New builds.** In [Prebbleton](/prebbleton/) and [Wigram](/wigram/), plan the system before the linings go on. The ducting can go through the roof space with no ceiling patching, which keeps the job simpler.
+- **Character homes.** In [Fendalton](/fendalton/), the rooms are big, the ceilings are high and there's a lot of glass. Ducting suits a house where you'd rather have nothing on the walls, but the volume of every room pushes the size up.
+- **Hill homes on several levels.** In [Clifton](/clifton/), houses are built over several levels and outdoor unit spots are hard to reach. One system has to reach each level, and the access goes into the price.
+- **Older single storey homes.** In [Parklands](/parklands/), the lounge sits at one end and the bedrooms down a hallway. Ducting gives even heat in every room if the roof space allows, so we check the roof space first.
+- **Lifestyle blocks.** Around [Lincoln](/lincoln/), bigger houses with long halls can go ducted where there's good ceiling space. A sleepout or office may suit a separate small unit, priced on its own.
+
 ## How system capacity affects ducted heat pump cost
 
 The more heat the system needs to make, the more it costs. Bigger units cost more. The indoor and outdoor units are sized to heat every room on the system on a Christchurch winter design day. A bigger house, more glass, a high stud or poor insulation all push the size up.

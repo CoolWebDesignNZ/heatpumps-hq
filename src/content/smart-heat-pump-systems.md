@@ -43,6 +43,14 @@ Each brand has its own controller and app. They don't work across brands. Here's
 
 **Toshiba.** Looking at a Toshiba? Ask us when we quote. We'll tell you if that model has Wi-Fi control and which app it uses.
 
+## Smart heat pump schedules for Christchurch homes
+
+A smart heat pump earns its keep when the schedule suits the house and the weather.
+
+- **Frosty mornings on low ground.** Around [Tai Tapu](/tai-tapu/) and in [Oaklands](/oaklands/), still nights bring heavy frosts. Set the schedule to start before you get up, so the unit brings the house up gently instead of starting from cold at full demand.
+- **Beach houses in the wind.** By the dunes in [North New Brighton](/north-new-brighton/), a beach house stays more comfortable on a steady, moderate setting than blasting on and off. A rule that turns it on when the room drops below a set temperature does that for you.
+- **Villas with a unit in each part.** A renovated [Sydenham](/sydenham/) villa often has one unit in the new extension at the back and another in the original front rooms. Each one can usually go on the same app with its own schedule.
+
 ## What your house needs for a Wi-Fi heat pump
 
 - **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room fixes it.

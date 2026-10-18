@@ -38,6 +38,15 @@ People put covers on outdoor units for a few reasons.
 
 You don't need a cover to protect the unit from normal weather. Outdoor units are built to be outside. A cover won't make it run better in winter. It won't fix noise from a worn fan, or a unit rattling on loose feet. And it won't stop frost. Frost forms on the coil from the damp in the air the unit pulls through.
 
+## Outdoor heat pump covers in Christchurch
+
+Christchurch weather tests a cover in a few ways.
+
+- **Nor'west wind.** Out on the western side in [Avonhead](/avonhead/), spring brings nor'west wind. Keep the unit out of the full force of the wind, and fix any screen down firmly. A solid box facing the wind isn't the answer, because the unit still needs steady airflow.
+- **Frosty mornings.** In [Hornby](/heat-pumps-hornby/), the outdoor unit ices up on cold mornings and runs a defrost cycle. Any cover needs an open base, so the meltwater drains away and doesn't refreeze round the feet.
+- **Leaves and shrubs.** Many [Ilam](/ilam/) homes have mature gardens. A roof shelter keeps falling leaves off the top. Keep shrubs back from the sides so air can move through the coil.
+- **Salt on an easterly.** [Parklands](/parklands/) is close enough to the coast for some salt to blow in. Choose a cover you can open or lift off, so you can give the coil a gentle rinse now and then.
+
 ## Why airflow matters under an outdoor heat pump cover
 
 Most home outdoor units pull air in through the coil at the back and sides. They push it out the front. In heating mode the unit takes heat out of that air. Anything that slows the air makes it work harder for the same heat.

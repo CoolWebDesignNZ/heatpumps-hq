@@ -47,6 +47,14 @@ A heat pump is a set of parts. Each one can fail on its own.
 
 **Feet, brackets and pipe lagging.** Perished rubber feet, rusty brackets and sun-damaged lagging. We replace them before they cause a bigger problem.
 
+## Heat pump parts that wear faster in Christchurch
+
+Where the outdoor unit lives decides which parts wear first.
+
+- **Salt air by the coast.** In [New Brighton](/new-brighton/), salt makes the fins and fixings corrode faster. In [Lyttelton](/lyttelton/), salt off the harbour settles on the outdoor coil and shortens the unit's life. We look for rust on the brackets, fixings and casing, and replace a rusty bracket before it gives way.
+- **Frost and open ground.** Out on [McLeans Island](/mcleans-island/), the outdoor unit takes frost and the nor'west, and needs a raised base well clear of the ground. If the rubber feet have perished or a bracket has shifted, we replace them, so the unit stays level and drains.
+- **Pine needles, pollen and sand.** Around [Bottle Lake](/bottle-lake/), they build up on the outdoor fins and in the base pan, and hold water against the metal. Keeping the coil and base pan clear stops that water sitting there and wearing them out.
+
 ## How we find the right heat pump spare parts
 
 1. **Find the fault first.** We only replace a part once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair. Guessing wastes your money. It's the same first step we take on any [heat pump repair](/heat-pump-repair/).

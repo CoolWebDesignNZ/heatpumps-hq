@@ -71,9 +71,15 @@ Where the outdoor unit sits changes how it copes with the cold.
 - **Away from drips and drifts.** Under a roof edge with no spouting, the unit gets dripped on and ices up. Keep it clear of where snow slides off the roof.
 - **Open air around it.** Boxed in by fences or a tight cover, it breathes its own cold air back in. That means more frost and more defrosting. Our [heat pump covers guide](/best-heat-pump-covers-nz/) shows screens that leave enough room.
 
-## Inland frosts, hills and the coast
+## Cold climate heat pumps across Christchurch and Selwyn
 
-Frosts are usually harder out on the plains than near the coast. In Rolleston, Lincoln, Prebbleton or on a rural block, plan for the cold end. On the hills and the coast, wind can matter as much as frost. Keep the outdoor unit out of the main wind where you can.
+Frosts are usually harder out on the plains than near the coast. Where your house sits changes what to plan for.
+
+- **The plains.** In [Lincoln](/lincoln/) and [Templeton](/templeton/), still, clear nights bring hard frosts. Size for a frosty morning. Keep the outdoor unit out of spots where frost hangs around longest, like a shady corner against a south wall.
+- **Low ground.** Cold air settles on the flat around [Tai Tapu](/tai-tapu/), and still nights by the estuary in [Bexley](/bexley/) bring frost and fog. Raise the unit on feet or a stand so meltwater runs away.
+- **The hills.** In [Kennedys Bush](/kennedys-bush/), wind across the hillside strips heat faster, and the outdoor unit defrosts often on frosty mornings. Keep it out of the main wind where you can.
+- **The coast.** Beach-side homes in [South New Brighton](/south-new-brighton/) take the full easterly. Wind can matter as much as frost there, so the outdoor unit goes on the sheltered side of the house.
+- **Rural blocks.** On [McLeans Island](/mcleans-island/), the outdoor unit should sit out of the prevailing nor'west, on a raised base clear of long grass.
 
 ## Getting a quote for a cold climate heat pump
 

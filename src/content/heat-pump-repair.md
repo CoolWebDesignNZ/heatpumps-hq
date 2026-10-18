@@ -36,6 +36,15 @@ Most repair calls we get in Christchurch are one of these:
 - **Ice that won't clear:** some frost on the outdoor coil is normal in a Canterbury winter. Ice that keeps building means defrost isn't working.
 - **A smell at start-up:** mould and dust in the indoor coil and fan. That needs a [heat pump clean](/heat-pump-cleaning/), not a repair.
 
+## Heat pump repairs and Christchurch conditions
+
+Christchurch wears heat pumps differently from suburb to suburb. Tell us where the unit sits when you ring.
+
+- **Salt by the sea.** In [Sumner](/sumner/) and [Redcliffs](/redcliffs/), salt air reaches the outdoor unit. It clogs the coil fins and can corrode the casing. We check both, and tell you straight whether the unit is worth fixing.
+- **Frost and nor'west wind.** In [Avonhead](/avonhead/), frost on still nights and nor'west wind in spring both work the outdoor unit hard. Ice that keeps building means the defrost needs a check. Keep the unit off the ground and out of the full force of the wind.
+- **Dust in older units.** In [Wainoni](/wainoni/), older heat pumps often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. A clean may fix what looks like a fault.
+- **Rental heat pumps.** In [Aranui](/aranui/), a rental heat pump gets used hard and gets little care between tenants. The filters clog, the drain blocks and the output drops. A [service](/heat-pump-servicing/) between tenancies heads off most repairs.
+
 ## How a heat pump repair visit works
 
 1. **You ring and tell us the fault.** Got an error code or a flash pattern? Pass it on. It often means we bring the right part.

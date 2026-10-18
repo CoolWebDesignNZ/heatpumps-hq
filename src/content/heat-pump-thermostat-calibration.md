@@ -40,6 +40,15 @@ The unit reads the air at its intake. Where you sit can be several degrees coole
 - **Cold draughts.** An open door to a cold hallway, or single glazing, cools the room faster than the sensor notices.
 - **Louvres pointing up.** Warm air never reaches the floor. In heat mode, point them down.
 
+## Heat pump thermostat readings in Christchurch homes
+
+Some Christchurch houses fool a heat pump thermostat more than others.
+
+- **High-stud front rooms.** In a [Sydenham](/sydenham/) villa, the original front rooms still have high ceilings. The air at a wall unit's intake is warmer than the air at the couch. A floor console under the window puts heat down low, where you feel it.
+- **Frosty mornings.** Northern Christchurch gets lots of clear, frosty mornings, and [Redwood](/redwood/) is no exception. On those mornings the unit puts out less heat and pauses to defrost, so the room can lag behind the setting for a while. That isn't a sensor fault.
+- **Two-level townhouses.** In [Upper Riccarton](/upper-riccarton/), infill townhouses over two levels need heat upstairs too. A unit downstairs reads the downstairs air, so it can't tell the bedrooms are cold.
+- **Rentals.** In [Phillipstown](/phillipstown/) and across the city, a heat pump used to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) must have a thermostat. We test the thermostat and sensors on rental units too, so the living room heater keeps doing its job.
+
 ## When your heat pump is not reaching temperature
 
 Sometimes the reading's right but the room still never warms up. Then the heat pump is not reaching temperature for one of these reasons:
