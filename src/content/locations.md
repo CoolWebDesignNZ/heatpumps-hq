@@ -9,6 +9,9 @@ hero: locations-hero
 gallery: []
 bandImages: [null, central-city-hero, fendalton-hero, new-brighton-hero, cashmere-hero, wigram-hero, rolleston-hero]
 bandLayout: areas
+suburbMap:
+  heading: Map of heat pump service areas in Christchurch and Selwyn
+  lead: Every dot is a suburb or town we work in, coloured by area.
 faqHeading: Questions about heat pumps near me
 relatedHeading: Heat pump services across Canterbury
 faqs:

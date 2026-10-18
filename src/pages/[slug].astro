@@ -8,6 +8,7 @@ import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import AreaCards from '../components/AreaCards.astro';
+import SuburbMap from '../components/SuburbMap.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 import nav from '../data/nav.json';
@@ -144,6 +145,7 @@ if (fm.faqs?.length) {
     )}
     </>
   ))}
+  {fm.suburbMap && <SuburbMap heading={fm.suburbMap.heading} lead={fm.suburbMap.lead} />}
   {fm.steps?.length && (
     <section class="section tint">
       <div class="wrap">

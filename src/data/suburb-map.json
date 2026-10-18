@@ -1,0 +1,492 @@
+[
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "Addington",
+  "href": "/heat-pumps-addington/",
+  "lat": -43.54294,
+  "lng": 172.61258
+ },
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "Central City",
+  "href": "/central-business-district-cbd/",
+  "lat": -43.53403,
+  "lng": 172.64417
+ },
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "Edgeware",
+  "href": "/edgeware/",
+  "lat": -43.51366,
+  "lng": 172.64721
+ },
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "Linwood",
+  "href": "/linwood/",
+  "lat": -43.53329,
+  "lng": 172.67358
+ },
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "Phillipstown",
+  "href": "/phillipstown/",
+  "lat": -43.53556,
+  "lng": 172.66351
+ },
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "St Albans",
+  "href": "/st-albans/",
+  "lat": -43.50891,
+  "lng": 172.63089
+ },
+ {
+  "area": "Heat pumps in the Central City and inner suburbs",
+  "name": "Sydenham",
+  "href": "/sydenham/",
+  "lat": -43.54616,
+  "lng": 172.63751
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Belfast",
+  "href": "/belfast/",
+  "lat": -43.44888,
+  "lng": 172.63045
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Brooklands",
+  "href": "/brooklands/",
+  "lat": -43.40211,
+  "lng": 172.69797
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Bryndwr",
+  "href": "/bryndwr/",
+  "lat": -43.50431,
+  "lng": 172.59294
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Burnside",
+  "href": "/burnside/",
+  "lat": -43.50199,
+  "lng": 172.57601
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Casebrook",
+  "href": "/casebrook/",
+  "lat": -43.47917,
+  "lng": 172.59996
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Fendalton",
+  "href": "/fendalton/",
+  "lat": -43.51952,
+  "lng": 172.5988
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Harewood",
+  "href": "/harewood/",
+  "lat": -43.47842,
+  "lng": 172.55728
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Mairehau",
+  "href": "/mairehau/",
+  "lat": -43.49397,
+  "lng": 172.64077
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Marshland",
+  "href": "/marshland/",
+  "lat": -43.47344,
+  "lng": 172.66038
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "McLeans Island",
+  "href": "/mcleans-island/",
+  "lat": -43.46858,
+  "lng": 172.47645
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Northcote",
+  "href": "/northcote/",
+  "lat": -43.48427,
+  "lng": 172.60648
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Papanui",
+  "href": "/heat-pumps-papanui/",
+  "lat": -43.49679,
+  "lng": 172.60763
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Redwood",
+  "href": "/redwood/",
+  "lat": -43.47538,
+  "lng": 172.61909
+ },
+ {
+  "area": "Heat pump installation in north and north-west Christchurch",
+  "name": "Spencerville",
+  "href": "/spencerville/",
+  "lat": -43.42839,
+  "lng": 172.70125
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Aranui",
+  "href": "/aranui/",
+  "lat": -43.51327,
+  "lng": 172.70353
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Avondale",
+  "href": "/avondale/",
+  "lat": -43.5029,
+  "lng": 172.68742
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Bexley",
+  "href": "/bexley/",
+  "lat": -43.51104,
+  "lng": 172.71838
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Bottle Lake",
+  "href": "/bottle-lake/",
+  "lat": -43.46324,
+  "lng": 172.67641
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Bromley",
+  "href": "/bromley/",
+  "lat": -43.53541,
+  "lng": 172.7004
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Burwood",
+  "href": "/burwood/",
+  "lat": -43.49942,
+  "lng": 172.68283
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Dallington",
+  "href": "/dallington/",
+  "lat": -43.51304,
+  "lng": 172.67429
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "New Brighton",
+  "href": "/new-brighton/",
+  "lat": -43.50688,
+  "lng": 172.72632
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "North New Brighton",
+  "href": "/north-new-brighton/",
+  "lat": -43.49199,
+  "lng": 172.71869
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Parklands",
+  "href": "/parklands/",
+  "lat": -43.47553,
+  "lng": 172.69654
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Queenspark",
+  "href": "/queenspark/",
+  "lat": -43.47553,
+  "lng": 172.69654
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Shirley",
+  "href": "/shirley/",
+  "lat": -43.49956,
+  "lng": 172.66112
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "South New Brighton",
+  "href": "/south-new-brighton/",
+  "lat": -43.53016,
+  "lng": 172.73651
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "Wainoni",
+  "href": "/wainoni/",
+  "lat": -43.51828,
+  "lng": 172.69103
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Aidanfield",
+  "href": "/aidanfield/",
+  "lat": -43.56479,
+  "lng": 172.5673
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Beckenham",
+  "href": "/beckenham/",
+  "lat": -43.56367,
+  "lng": 172.64336
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Cashmere",
+  "href": "/cashmere/",
+  "lat": -43.5716,
+  "lng": 172.63099
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Clifton",
+  "href": "/clifton/",
+  "lat": -43.56906,
+  "lng": 172.75004
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Cracroft",
+  "href": "/cracroft/",
+  "lat": -43.5779,
+  "lng": 172.61416
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Ferrymead",
+  "href": "/ferrymead/",
+  "lat": -43.55741,
+  "lng": 172.70216
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Halswell",
+  "href": "/halswell/",
+  "lat": -43.58556,
+  "lng": 172.57058
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Heathcote Valley",
+  "href": "/heathcote-valley/",
+  "lat": -43.57615,
+  "lng": 172.71175
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Hillmorton",
+  "href": "/hillmorton/",
+  "lat": -43.55556,
+  "lng": 172.59018
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Hoon Hay",
+  "href": "/hoon-hay/",
+  "lat": -43.56448,
+  "lng": 172.60879
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Kennedys Bush",
+  "href": "/kennedys-bush/",
+  "lat": -43.60231,
+  "lng": 172.58498
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Lyttelton",
+  "href": "/lyttelton/",
+  "lat": -43.60247,
+  "lng": 172.72057
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Moncks Bay",
+  "href": "/moncks-bay/",
+  "lat": -43.5683,
+  "lng": 172.74249
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Mount Pleasant",
+  "href": "/mount-pleasant/",
+  "lat": -43.56324,
+  "lng": 172.71881
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Oaklands",
+  "href": "/oaklands/",
+  "lat": -43.57551,
+  "lng": 172.56124
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Redcliffs",
+  "href": "/redcliffs/",
+  "lat": -43.56096,
+  "lng": 172.73693
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Somerfield",
+  "href": "/somerfield/",
+  "lat": -43.56239,
+  "lng": 172.62571
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Spreydon",
+  "href": "/spreydon/",
+  "lat": -43.55294,
+  "lng": 172.60887
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Sumner",
+  "href": "/sumner/",
+  "lat": -43.57109,
+  "lng": 172.76137
+ },
+ {
+  "area": "Heat pumps on the Port Hills, harbour and south",
+  "name": "Westmorland",
+  "href": "/westmorland/",
+  "lat": -43.57966,
+  "lng": 172.60411
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Avonhead",
+  "href": "/avonhead/",
+  "lat": -43.51987,
+  "lng": 172.55633
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Hornby",
+  "href": "/heat-pumps-hornby/",
+  "lat": -43.54317,
+  "lng": 172.5255
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Ilam",
+  "href": "/ilam/",
+  "lat": -43.51656,
+  "lng": 172.57205
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Riccarton",
+  "href": "/heat-pumps-riccarton/",
+  "lat": -43.53099,
+  "lng": 172.59479
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Russley",
+  "href": "/russley/",
+  "lat": -43.51717,
+  "lng": 172.54025
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Sockburn",
+  "href": "/sockburn/",
+  "lat": -43.5385,
+  "lng": 172.55639
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Templeton",
+  "href": "/templeton/",
+  "lat": -43.55044,
+  "lng": 172.47701
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Upper Riccarton",
+  "href": "/upper-riccarton/",
+  "lat": -43.53227,
+  "lng": 172.5765
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Wigram",
+  "href": "/wigram/",
+  "lat": -43.54979,
+  "lng": 172.54625
+ },
+ {
+  "area": "Heat pump servicing and installs in west Christchurch",
+  "name": "Yaldhurst",
+  "href": "/yaldhurst/",
+  "lat": -43.51276,
+  "lng": 172.50571
+ },
+ {
+  "area": "Heat pumps in Selwyn",
+  "name": "Lincoln",
+  "href": "/lincoln/",
+  "lat": -43.63961,
+  "lng": 172.48602
+ },
+ {
+  "area": "Heat pumps in Selwyn",
+  "name": "Prebbleton",
+  "href": "/prebbleton/",
+  "lat": -43.58007,
+  "lng": 172.51412
+ },
+ {
+  "area": "Heat pumps in Selwyn",
+  "name": "Rolleston",
+  "href": "/rolleston/",
+  "lat": -43.59665,
+  "lng": 172.385
+ },
+ {
+  "area": "Heat pumps in Selwyn",
+  "name": "Tai Tapu",
+  "href": "/tai-tapu/",
+  "lat": -43.6596,
+  "lng": 172.55023
+ },
+ {
+  "area": "Heat pumps for the eastern and coastal suburbs",
+  "name": "New Brighton Central",
+  "href": "/new-brighton-central/",
+  "lat": -43.50288,
+  "lng": 172.72032
+ }
+]
