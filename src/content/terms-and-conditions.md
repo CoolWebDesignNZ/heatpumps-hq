@@ -23,7 +23,7 @@ Rules set by councils, building regulators and other authorities change. Where a
 
 Nothing on this website is an offer to do work at a set price. When you ask for a quote, we give it to you in writing. If you accept it, the terms in that quote apply to the work, and they take priority over anything on this website.
 
-## Links to other sites
+## Links from this website to other sites
 
 We link to other websites, such as council, government and manufacturer pages, because they may be useful. We don't control those sites and aren't responsible for their content or how they handle your information.
 

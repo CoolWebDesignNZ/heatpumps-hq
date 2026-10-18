@@ -9,7 +9,7 @@ import locationsMd from '../content/locations.md?raw';
 const areas = [];
 for (const line of locationsMd.split('\n')) {
   const h = line.match(/^## (.+)/);
-  if (h) { areas.push({ title: h[1], links: [] }); continue; }
+  if (h) { const t = h[1].replace(/^heat pumps (in|for) (the )?/i, ''); areas.push({ title: t[0].toUpperCase() + t.slice(1), links: [] }); continue; }
   const l = line.match(/^- \[([^\]]+)\]\((\/[^)]+)\)/);
   if (l && areas.length) areas.at(-1).links.push([l[1], l[2]]);
 }
