@@ -26,8 +26,8 @@
  },
  "home-outdoor": {
   "aspect": "16x9",
-  "alt": "Heat pump outdoor unit beside a house on a frosty morning",
-  "prompt": "Photograph of a heat pump outdoor unit on raised feet beside a New Zealand weatherboard house on a frosty Canterbury winter morning, frost on the lawn, blue sky, clean installation with tidy pipe cover, realistic, no text, no logos"
+  "alt": "Heat pump outdoor unit on raised feet against the wall of a house on a frosty morning",
+  "prompt": "Photograph of a standard white split system heat pump outdoor unit with a round fan grille on its front, the fan grille facing out toward the camera and the back of the unit set close against the weatherboard wall of a New Zealand house, standing on raised rubber feet on a small concrete pad, insulated refrigerant pipes in a neat white duct running up the wall beside it, frosty Canterbury winter morning, low sun, frost on the lawn, hills in the distance, realistic, no people, no text, no logos"
  },
  "repair-hero": {
   "aspect": "4x3",
