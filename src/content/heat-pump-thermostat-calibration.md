@@ -5,7 +5,7 @@ keyword: heat pump thermostat
 secondary: [heat pump temperature sensor, heat pump not reaching temperature, heat pump thermostat setting]
 h1: Heat pump thermostat and temperature sensor checks
 serviceName: Heat pump thermostat and sensor calibration
-intro: "We test heat pump thermostats and sensors when the unit says 21 degrees and the couch feels like 16. We find out if it's the sensor's spot, a drifted sensor or a unit that can't keep up."
+intro: "We test heat pump thermostats and sensors when the unit says 21 degrees and the couch feels like 16. We find out if the sensor is badly placed, has drifted, or the unit can't keep up."
 hero: thermostat-hero
 gallery: [thermostat-1, thermostat-2]
 faqHeading: "Heat pump thermostat questions"
