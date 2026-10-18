@@ -8,6 +8,23 @@ serviceName: Mitsubishi Electric ducted heat pump installation
 intro: "We plan and fit Mitsubishi Electric ducted systems in Christchurch homes, with ZoneIQ room control and Lossnay ventilation. We design the ducting around your house before we quote."
 hero: mitsubishi-ducted-hero
 gallery: [mitsubishi-ducted-zones, mitsubishi-ducted-ceiling]
+stepsHeading: What we check before fitting a Mitsubishi ducted system
+steps:
+  - h: Ceiling access and height
+    p: Whether a standard or a splittable unit is the one that will get into your roof space.
+  - h: Duct routes
+    p: Clear paths from the indoor unit to every vent, with no squashed or tightly bent ducts.
+  - h: Return air
+    p: A central spot for the grille, where air can flow back from the rooms, with a filter you can reach.
+  - h: Zones
+    p: Which rooms belong together, based on when you use them.
+  - h: Outdoor unit spot
+    p: Good airflow, a short pipe run, and away from the neighbour's bedrooms.
+  - h: Electrical supply
+    p: Whether the switchboard and circuit suit the unit. A licensed electrical worker makes the connection.
+areas: true
+areasHeading: Mitsubishi Electric ducted systems near you
+areasLead: We fit Mitsubishi Electric ducted systems all over Christchurch and Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Find your suburb below.
 faqHeading: Mitsubishi Electric ducted heat pump questions
 relatedHeading: Other ducted options to compare
 faqs:
@@ -35,6 +52,15 @@ Mitsubishi Electric New Zealand builds three whole-home setups on its ducted hea
 
 All three start with picking the right ducted unit for the house. Mitsubishi Electric says its ducted models suit new builds and existing homes. It says some splittable models come apart in two pieces, to get through a ceiling hatch more easily. Source: Mitsubishi Electric, [ComfortMaster](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx) and [Power of 2](https://www.mitsubishi-electric.co.nz/heatpump/Power-of-Two-Ducted-Heat-Pump-and-Lossnay-Ventilation.aspx).
 
+## Mitsubishi Electric ducted in Christchurch houses
+
+How ZoneIQ, Lossnay and the splittable units fit in depends on your house.
+
+- **Small ceiling hatches.** [Russley](/russley/) brick homes from the 1960s to the 1980s have a bedroom wing down a hall, and ducted suits them if the ceiling space allows. Where the hatch is small, a splittable unit goes up in two pieces. ZoneIQ can make a formal lounge you rarely use its own zone that you close off.
+- **North-facing glass on the hill.** On [Mount Pleasant](/mount-pleasant/), the sun can warm a north living area by lunchtime while the rooms behind it stay cool. ZoneIQ lets you turn that zone down. The system still runs in one mode, so it can't cool the sunny room while heating the rest, and we plan the zones with that in mind.
+- **Living upstairs, bedrooms below.** Many two storey and split level homes in [Kennedys Bush](/kennedys-bush/) have the living areas upstairs for the view. Heat rises, so we set each level up as its own ZoneIQ zone with its own temperature.
+- **New Selwyn homes.** In [Rolleston](/rolleston/), the Mitsubishi Electric ducted range suits new houses as well as the wall units do. Building? Talk to us before the ceiling goes on, so the ducts and any Lossnay ventilation are planned together.
+
 ## ZoneIQ for Mitsubishi Electric ducted systems
 
 A standard ducted system runs off one thermostat. It sends air to every room at once. ZoneIQ gives you room by room control instead. Mitsubishi Electric says it:
@@ -52,17 +78,6 @@ Do you use the living areas by day and the bedrooms at night? Then [zoning](/hea
 
 Lossnay is Mitsubishi Electric's balanced pressure ventilation system. Here's how Mitsubishi Electric explains it. It pulls out stale, damp air. It takes the heat from that air. It uses that heat to warm the filtered fresh air coming in. Pair it with a ducted heat pump and that's The Power of 2. Is damp or stuffy air part of why you're looking at ducting? Bring it up when we quote. We'll talk through whether a combined system fits your plans.
 
-## What we check before fitting a Mitsubishi Electric ducted system
-
-We check six things on site.
-
-- **Ceiling access and height.** Do we need a standard or splittable unit to get into the roof space?
-- **Duct routes.** Clear paths from the indoor unit to every vent, with no squashed or tightly bent ducts.
-- **Return air.** A central spot for the grille, where air can flow back from the rooms, with a filter you can reach.
-- **Zones.** Which rooms belong together, based on when you use them.
-- **Outdoor unit spot.** Good airflow, a short pipe run, and away from the neighbour's bedrooms.
-- **Electrical supply.** Whether the switchboard and circuit suit the unit. A licensed electrical worker makes the connection.
-
 ## Mitsubishi Electric or Daikin?
 
 We fit both, plus Fujitsu and Toshiba. So it comes down to which suits your house. Want to see the alternatives? We'll put the Mitsubishi Electric option for your house next to a [Daikin ducted system](/daikin-ducted-heat-pumps-christchurch/). For how ducted compares with wall units in general, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
@@ -71,6 +86,3 @@ We fit both, plus Fujitsu and Toshiba. So it comes down to which suits your hous
 
 Clean the return air filter often. Get a service once a year to keep the indoor coil, drain and outdoor unit in good shape. Both are part of our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/). So are repairs.
 
-## Book a measure and quote
-
-Ring **[03 242 1023](tel:032421023)** or ask for a free quote online. We'll check the roof space. Then we'll give you a fixed price for a Mitsubishi Electric ducted system, anywhere in Christchurch, Selwyn or Lyttelton.

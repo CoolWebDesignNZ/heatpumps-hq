@@ -8,6 +8,23 @@ serviceName: Multi room heat pump installation
 intro: "We install multi-room heat pumps, with two or more indoor units on one outdoor unit and a controller in each room. Here's how that compares with separate units and ducting."
 hero: multi-hero
 gallery: [multi-outdoor, multi-bedrooms]
+stepsHeading: How we plan a multi head heat pump install
+steps:
+  - h: Room by room
+    p: We go through each room you want heated and note its size, insulation, glass and how you use it, so each indoor unit is sized for its own room.
+  - h: The right indoor unit for each room
+    p: A high wall unit where there's wall space up high, a floor console where there isn't, or a small ducted unit where the model allows it.
+  - h: One spot for the outdoor unit
+    p: We look for the shortest sensible pipe runs to every room, free air round the unit, and distance from your neighbour's bedroom windows.
+  - h: Pipe routes
+    p: We work out how each pair of pipes reaches the outdoor unit, through the roof, under the floor or along the outside wall, without showing where it can be helped.
+  - h: One fixed price
+    p: The quote lists the outdoor unit, each indoor unit and the pipe routes. If a multi split won't suit your house, we say so and quote what will.
+brands: true
+brandsHeading: Multi split heat pump brands we fit in Christchurch
+areas: true
+areasHeading: Multi room heat pumps across Christchurch and Selwyn
+areasLead: We fit multi room and multi split systems all over Christchurch, in Lyttelton, and in Selwyn towns such as Rolleston, Lincoln and Prebbleton. Choose your area to see how we heat the homes there.
 faqHeading: Multi room heat pump questions
 relatedHeading: Other ways to heat several rooms
 faqs:
@@ -19,6 +36,8 @@ faqs:
     a: Usually, yes. That's down to the model. You can mix high wall units, floor consoles and small ducted units on one outdoor unit. We pick each to suit its room.
   - q: Can I add another room to a multi split later?
     a: Only if the outdoor unit has a spare connection and enough capacity. That has to be planned when you first choose the system. If you think you'll add a room, tell us when we quote.
+  - q: Do I need body corporate approval for a multi split in my apartment or townhouse?
+    a: Yes, if the work affects common property or another unit. An outdoor unit on an outside wall, or a hole through one, often counts, and you need written consent first. We can describe the install in writing for your committee. More on <a href="/central-business-district-cbd/">heat pumps in Central City apartments</a>.
 related:
   - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: One room and one outdoor unit. }
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: A vent in every room and nothing on the walls. }
@@ -30,6 +49,18 @@ related:
 A multi split has one outdoor unit and several indoor units. People sometimes call them heads. Each indoor unit has its own pair of refrigerant pipes and a control cable back to the outdoor unit. Every room gets its own remote or wall controller. So you can warm the bedrooms at night and leave the lounge off.
 
 The indoor units don't all have to match. On most systems, a bedroom can have a small high wall unit and the lounge a bigger one. A room with no high wall space can have a floor console.
+
+## Multi room heat pumps for Christchurch homes
+
+Plenty of Christchurch houses need heat in more than one room. Here's what shapes a multi room install in this city, and what we do about each.
+
+- **Villas with rooms off a hall.** Older villas and bungalows in [Beckenham](/beckenham/) and [Papanui](/heat-pumps-papanui/) have separate rooms off a central hall, and lose heat through single glazing and the floor. Warm air from the lounge never reaches the bedrooms, so we size an indoor unit for each room you use.
+- **Townhouses with bedrooms upstairs.** In [St Albans](/st-albans/), [Edgeware](/edgeware/) and [Sydenham](/sydenham/), newer townhouses have the living area downstairs and the bedrooms split up above it. Small bedroom units can share one outdoor unit with the living area, as long as the pipes can run between floors.
+- **Two-level homes on the hills.** In [Westmorland](/westmorland/) and [Mount Pleasant](/mount-pleasant/), homes often follow the slope, and warm air climbs the stairwell. We give each level its own indoor unit and its own controller.
+- **Tight infill and shared driveways.** Split sections in [Sockburn](/sockburn/) and [Addington](/heat-pumps-addington/) leave little room down the sides. One outdoor unit keeps the side path clear and is easier to keep inside the District Plan noise limits at the neighbour's place.
+- **Central City apartments.** Body corporate rules and a small balcony may leave room for one outdoor unit, not several. We check what [your building allows](/central-business-district-cbd/) before we settle the layout.
+- **New builds with a bedroom wing.** In [Rolleston](/rolleston/) and [Prebbleton](/prebbleton/), one unit can heat a well insulated open plan living area, but the bedrooms down the hall stay cold. Small bedroom units on the same outdoor unit sort that. These towns come under the Selwyn District Plan, and the outdoor unit still has to stay quiet at the boundary.
+- **Frosty mornings on the plains.** On a frosty morning every room is on at once, and the outdoor unit splits its output between them. We size it for that morning, not an average day.
 
 ## When a multi split heat pump makes sense
 
@@ -54,13 +85,3 @@ A multi split isn't always the better choice. Know the downsides before you deci
 For two or three rooms, we'll often price a multi split against separate single systems. Separate units are simpler to service. Each room runs on its own. It's worth seeing both on paper.
 
 Want every room heated and nothing on the walls? A [ducted heat pump](/ducted-heat-pumps-christchurch/) is the other way. Ducting needs ceiling or underfloor space. Room by room control comes from a [zoning system](/heat-pump-zoning/), not separate indoor units. For more detail, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
-
-## How we plan a multi head heat pump install
-
-We go through each room you want heated. We note its size, insulation, glass and how you use it. That way each indoor unit is sized for its own room. Then we find a spot for the outdoor unit with the shortest sensible pipe runs to every room. We work out where the pipes can go without showing. The quote lists the outdoor unit, each indoor unit and the pipe routes. It's one fixed price.
-
-We fit multi room systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If a multi split won't suit your house, we'll say so. Then we'll quote what will.
-
-## Talk to us about your rooms
-
-Call **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us how many rooms you'd like heated. We do this work across Christchurch, Selwyn and Lyttelton.

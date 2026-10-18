@@ -8,6 +8,25 @@ serviceName: Air conditioning installation
 intro: "We install air conditioning in Christchurch homes, which nearly always means a heat pump that cools as well as heats. We size it for your hottest rooms, not just your coldest."
 hero: aircon-hero
 gallery: [aircon-upstairs, aircon-remote]
+stepsHeading: What our air conditioning installation includes
+steps:
+  - h: Site visit
+    p: You tell us which rooms get too hot, and when. We check the window size, which way the glass faces, the shading and the ceiling insulation.
+  - h: Sizing for cooling and heating
+    p: We pick a unit with enough cooling for the heat coming through the glass and roof, that still heats the room through winter.
+  - h: Indoor unit
+    p: Fitted high on the wall, with the airflow aimed across the room, not straight at a bed or a couch.
+  - h: Condensate drain
+    p: Laid to fall all the way to a drain point or outside, with no low spots where water can sit.
+  - h: Electrical connection
+    p: Done by a licensed electrical worker, with an isolating switch next to the outdoor unit.
+  - h: Test and handover
+    p: We test every unit in cooling and heating, then show you the remote, dry mode and how to clean the filters.
+brands: true
+brandsHeading: Air conditioning brands we install in Christchurch
+areas: true
+areasHeading: Air conditioning installation across Christchurch and Selwyn
+areasLead: We install air conditioning in homes all over Christchurch, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Choose your area to see what suits the homes there.
 faqHeading: Questions about air conditioning in Christchurch
 relatedHeading: More on heat pump installation and cooling
 faqs:
@@ -30,6 +49,16 @@ related:
 In Christchurch they're the same thing. The split systems sold here are reverse cycle heat pumps. The units that heat the house in July cool it in January. That's why you get shown heat pumps when you ask for air con. In cooling mode the refrigerant carries heat out of the room and dumps it outside. That's why the outdoor unit blows warm air in summer.
 
 So you're not choosing between an air conditioner and a heat pump. The real question is whether your system is sized and placed for cooling as well as heating.
+
+## Air con installation for Christchurch summers
+
+Canterbury summers bring their own problems for cooling. These are the ones we plan for.
+
+- **Hot nor'west days.** In [Harewood](/harewood/) and on the open land at [McLeans Island](/mcleans-island/), the dry nor'west can make summer days hard going. North and west facing rooms get first call on a unit, and we put the outdoor unit out of the prevailing wind. Those winds carry dust, so we show you how to keep the filters clear when the unit runs hard on cooling.
+- **Apartments with a wall of glass.** A north or west facing apartment in the [Central City](/central-business-district-cbd/) can get too hot on a summer afternoon. We size for cooling as well as heating, and check what the body corporate allows before we settle where the outdoor unit goes.
+- **View windows on the hills.** Homes on the slopes of [Westmorland](/westmorland/) and [Mount Pleasant](/mount-pleasant/) look out through big living room windows. In summer those rooms overheat, and the cooling load can be higher than the heating load. We size the living area unit for both.
+- **Salt air by the water.** In [Redcliffs](/redcliffs/) and [South New Brighton](/south-new-brighton/), salt settles on the outdoor coil and casing. We put the outdoor unit on the sheltered side of the house, out of the sea wind, and tell you how often to rinse it.
+- **Selwyn towns.** [Rolleston](/rolleston/) and [Tai Tapu](/tai-tapu/) come under the Selwyn District Plan, not Christchurch's. The same unit that cools in January has to heat through Selwyn frosts, so we size it for both seasons.
 
 ## Christchurch rooms that overheat
 
@@ -61,11 +90,3 @@ Several rooms getting too hot? You've got the same choices as for heating.
 - A [ducted system](/ducted-heat-pumps-christchurch/) with a vent in every room
 
 Ducted cooling suits upstairs bedrooms well. The ducts and indoor unit can sit in the roof space right above them.
-
-## What our air conditioning installation includes
-
-We fit air conditioning from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. The electrical connection is done by a licensed electrical worker. We test every unit in cooling and heating before we hand it over. It's the same steps as any [heat pump installation](/heat-pump-installation-in-christchurch/), from the site visit to the test run.
-
-## Get an air con installation quote
-
-Tell us which rooms get too hot, and when. Phone **[03 242 1023](tel:032421023)** or ask for a free quote. We'll come and measure up anywhere in Christchurch, Selwyn or Lyttelton.

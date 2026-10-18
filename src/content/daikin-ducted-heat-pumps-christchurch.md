@@ -8,6 +8,23 @@ serviceName: Daikin ducted heat pump installation
 intro: "We fit Daikin ducted heat pumps in Christchurch, and we'll help you pick the series that suits your ceiling space. Daikin sells several in New Zealand, each built for a different job."
 hero: daikin-ducted-hero
 gallery: [daikin-ducted-controller, daikin-ducted-outlet]
+stepsHeading: How we install a Daikin ducted heat pump
+steps:
+  - h: Indoor unit
+    p: It goes in the roof space or under the floor, in the Daikin series that suits that space.
+  - h: Ducts and vents
+    p: Insulated ducts run to a vent in each room, each sized for the heat that room loses.
+  - h: Return air grille
+    p: It goes where air can flow back from every room, with a filter you can reach.
+  - h: Outdoor unit
+    p: We put it where it gets good airflow and stays quiet at the neighbour's place.
+  - h: Electrical connection
+    p: A licensed electrical worker connects the system.
+  - h: Testing and handover
+    p: We test it fully in heating and cooling, then show you the controller and the zones.
+areas: true
+areasHeading: Daikin ducted installs around Christchurch
+areasLead: We install Daikin ducted systems in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Pick your area to see how we heat the homes there.
 faqHeading: Daikin ducted heat pump questions
 relatedHeading: More ducted options and zoning
 faqs:
@@ -39,6 +56,15 @@ Daikin's New Zealand ducted range has five series. They're Slim-Line FBA, FDMA M
 
 Daikin notes that with ducted, you only see three things inside. The controller, the return air grille and the discharge grilles.
 
+## Daikin ducted systems for Christchurch homes
+
+The Daikin series we measure for depends a lot on the house and where it is.
+
+- **Tight roof space in established homes.** A ducted retrofit in [Aidanfield](/aidanfield/) or [Hoon Hay](/hoon-hay/) works when the roof has room for the indoor unit and the ducts. Where that space is tight, we look at the Slim-Line FBA and Inverter Ducted FDYAN first.
+- **Homes that have been added to.** In plenty of [Burnside](/burnside/) houses, the old heating only covers part of the house. A Bulkhead FDYBA can heat one area with a shallow or drop ceiling. For the whole house, a Premium Inverter FDYA with zones sets each part on its own.
+- **Big homes on bigger sections.** In [Spencerville](/spencerville/) and [Marshland](/marshland/), the guest wing or rumpus room isn't used every day. A whole-home Daikin system with Airzone VAF or an AirHub Touch controller heats the zones you're in and leaves the rest.
+- **New builds.** In [Prebbleton](/prebbleton/), ducts planned before the linings go on run through the roof space with no ceiling patching. That's the time to choose between the FDMA Modern Residential and the bigger whole-home series.
+
 ## Matching a Daikin series to your house
 
 We check three things on site.
@@ -47,7 +73,7 @@ We check three things on site.
 - **What you're heating.** The whole house, the bedroom wing, or one room or area. A bulkhead unit for one area is a very different job from a whole-home system.
 - **What's there now.** Got an old ducted system? Its ducts, vents and pipe routes might be reusable. We check them before we count on it.
 
-Then we size the unit for the heat each room loses, not just the total floor area. And we lay out the vents and the return air grille.
+Then we size the unit for the heat each room loses, not just the total floor area. And we lay out the vents and the return air grille. You get a set price before the job starts.
 
 ## Zoning options for Daikin ducted systems
 
@@ -62,23 +88,7 @@ Zoning suits houses where the bedrooms and living areas get used at different ti
 
 Daikin is one of four brands we fit. The others are Mitsubishi Electric, Fujitsu and Toshiba. So the choice is yours, not ours. Already set on Daikin? We'll work within its range. Still deciding? We'll show you how the Daikin option for your house stacks up against a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). All four are side by side in [heat pump brands comparison](/heat-pump-brands-comparison/).
 
-## Installing a Daikin ducted system
-
-It's the same steps as any [ducted heat pump](/ducted-heat-pumps-christchurch/).
-
-- The indoor unit goes in the roof space or under the floor.
-- Insulated ducts run to each vent.
-- A return air grille goes in, with a filter you can reach.
-- The outdoor unit goes where it gets good airflow and stays quiet.
-- A licensed electrical worker does the connection.
-- We test it fully in heating and cooling before handover.
-
-We agree a set price with you before the job starts.
-
 ## Looking after a Daikin ducted system
 
 Clean the return air filter often. Have it serviced yearly. We service and fix Daikin systems of any age. See our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/).
 
-## Quote for a Daikin ducted system
-
-Call **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us if you've got a Daikin model in mind. We'll check the ceiling space and confirm it fits.

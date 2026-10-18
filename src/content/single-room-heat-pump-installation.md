@@ -8,6 +8,11 @@ serviceName: Single room heat pump
 intro: "We install single room heat pumps across Christchurch: one indoor and one outdoor unit, sized for the room it heats. Often it's all a bedroom, lounge or studio needs."
 hero: single-hero
 gallery: [single-bedroom, single-console]
+brands: true
+brandsHeading: Single room heat pump brands we fit in Christchurch
+areas: true
+areasHeading: Single room heat pumps across Christchurch and Selwyn
+areasLead: We fit single room heat pumps in bedrooms, lounges, studios and sleepouts all over Christchurch, in Lyttelton and in the Selwyn towns. Choose your area to see what suits the homes there.
 faqHeading: Single room heat pump questions
 relatedHeading: More on sizing and heat pump installation
 faqs:
@@ -19,11 +24,24 @@ faqs:
     a: Only if the rooms are open to each other. Warm air from a wall unit doesn't travel well down a hall or through a door. For separate rooms, look at <a href="/multi-room-heat-pump-installation/">multi room heat pumps</a> or a ducted system.
   - q: Is a small heat pump worth it for a studio or sleepout?
     a: Often, yes. A small space with a door that shuts is where one unit works best. It can cool the room in summer too.
+  - q: Will one heat pump in the living room meet the Healthy Homes standard for my rental?
+    a: It can. The <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Healthy Homes heating standard</a> needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit to the capacity that room needs and give you the model and capacity for your records.
 related:
   - { label: Single room calculator, href: /calculator-single-room-heat-pump/, text: A quick estimate of the size your room needs. }
   - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: When one room becomes three. }
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: The full install process from quote to handover. }
 ---
+
+## Single room heat pumps for Christchurch homes
+
+One unit in one room sounds simple. In Christchurch, the house and the weather still change which unit we pick and where it goes.
+
+- **Rental flats with a plug-in heater.** Flats cut out of villas in [Riccarton](/heat-pumps-riccarton/) and student rentals in [Ilam](/ilam/) often have nothing fixed in the living room. One high wall unit usually sorts it, sized to what the Healthy Homes heating standard needs for that room.
+- **Shady rooms.** Houses in [Heathcote Valley](/heathcote-valley/) and by the river in [Beckenham](/beckenham/) get little winter sun. A shady room needs a bigger unit than a sunny room the same size, so we check which way your windows face before we size it.
+- **Sunny rooms on the hills.** A north facing living area in [Mount Pleasant](/mount-pleasant/) or [Cashmere](/cashmere/) can be warm by lunchtime and cold once the sun drops. We size for the evening, and the same unit cools the room on a hot afternoon.
+- **Frosty mornings out west.** In [Templeton](/templeton/) and [Avonhead](/avonhead/), still nights bring frost. We size for the coldest mornings and put the outdoor unit on raised feet or a bracket, on the most sheltered wall we can find close to the room.
+- **Sleepouts and studios.** On lifestyle blocks in [Yaldhurst](/yaldhurst/) and [Lincoln](/lincoln/), a sleepout, studio or converted garage gets its own small unit and outdoor unit. That's simpler than running pipes across the section from the house.
+- **Open plan new builds.** In [Prebbleton](/prebbleton/), a well insulated kitchen, dining and family room holds its heat, so one high wall unit sized for the whole floor area will warm it. Prebbleton and Lincoln come under the Selwyn District Plan, and the outdoor unit still has to stay quiet at the neighbour's place.
 
 ## When a single room heat pump is the right answer
 
@@ -65,7 +83,3 @@ The outdoor unit usually goes on the wall right behind the indoor unit. The pipe
 ## Adding a second room later
 
 You can start with one room and add another later. The most flexible way is a second single system with its own outdoor unit. Already know you'll want several rooms heated? Read about [multi room heat pumps](/multi-room-heat-pump-installation/) before you decide. It changes where the first outdoor unit goes.
-
-## Get a quote for a heat pump in one room
-
-We fit single room heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. Ring **[03 242 1023](tel:032421023)** or ask for a free quote. Tell us which room is the cold one.
