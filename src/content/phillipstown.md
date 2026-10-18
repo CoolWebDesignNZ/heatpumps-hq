@@ -57,7 +57,7 @@ Outdoor units on a block take some thought. With several flats side by side, uni
 
 ## Heat pump installs, service and repair in Phillipstown
 
-Most of our Phillipstown installs are [single-room systems](/single-room-heat-pump-installation/) for living areas, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We do [servicing](/maintenance-servicing/) on existing units in owner-occupied homes and rentals, and [repairs](/heat-pump-repair/) on all the major brands, Panasonic included.
+For many Phillipstown homes, a [single-room system](/single-room-heat-pump-installation/) in the living area is enough. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We do [servicing](/maintenance-servicing/) on existing units in owner-occupied homes and rentals, and [repairs](/heat-pump-repair/) on all the major brands, Panasonic included.
 
 Nearby, we work in [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
 
