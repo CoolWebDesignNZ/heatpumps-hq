@@ -149,8 +149,10 @@ const faqs = [
   .three :global(.card-img) { border-radius: 0; width: 100%; aspect-ratio: 3/2 !important; object-fit: cover; display: block; }
   .card h3 a { color: var(--ink); text-decoration: none; }
   .card h3 a:hover { color: var(--brand); }
-  .card-links { list-style: none; padding: 0; margin: 12px 0 0; }
-  .card-links li { margin: 0; line-height: 1.5; }
+  .card-links { list-style: none; padding: 0; margin: 16px 0 0; }
+  .card-links li { display: flex; align-items: center; gap: 10px; padding: 7px 0; line-height: 1.35; border-top: 1px solid #eceff2; }
+  .card-links li:last-child { padding-bottom: 0; }
+  .card-links li::before { content: ''; flex: none; width: 6px; height: 6px; border-radius: 50%; background: var(--brand); }
   .card-links a { color: var(--link); text-decoration: none; font-weight: 500; font-size: .9rem; }
   .card-links a:hover { text-decoration: underline; }
   .more { margin: 32px 0 0; font-weight: 650; }
