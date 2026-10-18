@@ -46,7 +46,7 @@ While the heat pump's off, aim to keep one part of the house warm.
 - **Curtains:** close them as soon as the sun goes down. That holds the day's heat in.
 - **Other heating:** got a log burner, or another heat pump in a different room? Use that while you wait.
 
-## Our hours, and how to get an urgent heat pump repair sooner
+## Getting an urgent heat pump repair sooner
 
 Want an urgent heat pump repair sooner? Call us early in the working day. The earlier you call, the more options we have. We work **Monday to Friday, 8am to 5pm**. We don't run an after-hours, weekend or 24/7 call-out service. And we won't book a time we can't keep.
 

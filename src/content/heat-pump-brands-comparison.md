@@ -96,6 +96,6 @@ We pick models for the house in front of us. These local conditions narrow the c
 
 We don't fit Panasonic. We do service and repair Panasonic units, and most other heat pumps sold in New Zealand. See [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/).
 
-## Ask us to compare heat pump brands and models for your house
+## Help comparing brands for your house
 
 Tell us which rooms you want heated. We'll suggest models from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for your house. You get a free fixed-price quote. Ring **[03 242 1023](tel:032421023)** or [ask for a quote online](/contact-us/).

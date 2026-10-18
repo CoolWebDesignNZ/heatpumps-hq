@@ -43,7 +43,7 @@ The [Tenancy Services tool guide](https://www.tenancy.govt.nz/heating-tool/guide
 
 You get the result in kilowatts, rounded up to one decimal place. You can save your progress with an email address and come back to it later.
 
-## What to measure for a heat pump room size calculator
+## What to measure for a heat pump calculator
 
 You'll need the room's measurements and how it's built. Have these ready and it's much quicker:
 
@@ -77,7 +77,7 @@ The tool knows your region. It doesn't know your house.
 - **Hill homes with view windows.** Up in [Kennedys Bush](/kennedys-bush/), big windows face the view and wind strips heat faster. Enter every window at its real size. Floor area alone isn't enough.
 - **Rentals.** Many [Riccarton](/heat-pumps-riccarton/) homes are rentals. Landlords run the tool for the main living room, then we quote a heat pump that meets the figure.
 
-## What to do with the heat pump kW calculator result
+## What to do with your kW result
 
 The kW number is the heat your room needs at the cold design temperature for your area. It's **not** the rated capacity to look for on the box.
 

@@ -27,7 +27,7 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How capacity is worked out for a real house." }
 ---
 
-## Heat pumps for Heathcote Valley homes on the floor and the slopes
+## Heat pumps for Heathcote Valley homes, flat and sloping
 
 Two things decide the heat pump for a Heathcote Valley home. How much sun does your house get in winter? And how well does it hold heat? The valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton. Through winter, the hills shade one side of it.
 

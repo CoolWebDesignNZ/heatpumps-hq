@@ -59,7 +59,7 @@ Sometimes the reading's right but the room still never warms up. Then the heat p
 - **Low refrigerant.** A slow leak can cause it. We track that down through [leak detection and repair](/leak-detection-repair/).
 - **A failed or drifted sensor.** A faulty thermistor can make the unit stop early, run on too long or show a fault.
 
-## What our heat pump thermostat and temperature sensor check includes
+## What our thermostat and sensor check includes
 
 1. **Measure the room.** We take the temperature at seated height with a calibrated thermometer. Then we compare it with what the unit reads.
 2. **Test the sensors.** We test each thermistor against the resistance values in the maker's service information. If one reads out of range, we replace it.

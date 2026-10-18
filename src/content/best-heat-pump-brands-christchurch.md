@@ -51,7 +51,7 @@ EECA explains that frost forms on the outdoor coil below about 5.5°C. Some of t
 
 Look for a 2°C figure that matches or beats the 7°C figure. For colder than that, ask for the maker's performance chart. It should show output at 0°C, minus 5°C and below. EECA puts the design temperature for Christchurch and Selwyn at minus 4°C. We compare units built for frost under [cold climate heat pumps](/cold-climate-heat-pumps/).
 
-## Check 2: The right size, even for the best heat pump brands
+## Check 2: The right size for the room
 
 No brand can make up for a unit that's the wrong size. Size comes from how much heat the room loses and the outdoor design temperature. The method is laid out under [heat pump sizing](/heat-pump-sizing/). The official tool is explained under [heat pump size calculator](/calculator-single-room-heat-pump/).
 

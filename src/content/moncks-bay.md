@@ -27,7 +27,7 @@ related:
   - { label: Maintenance and servicing, href: /maintenance-servicing/, text: "Keeping a coastal unit in good order." }
 ---
 
-## Heat pumps for Moncks Bay homes on the water and the slope
+## Heat pumps for Moncks Bay homes by the water
 
 In Moncks Bay, two things decide the heat pump. Which side of the coast road is the house on? And how much salt is in the air? Moncks Bay is a small stretch of the estuary edge, between Redcliffs and the foot of Mount Pleasant. Every address is only metres from the water.
 
