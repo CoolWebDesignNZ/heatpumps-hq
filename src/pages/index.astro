@@ -11,7 +11,8 @@ const suburbs = urls.filter((u) => u.type === 'suburb')
   .map((u) => ({ href: u.path, name: u.slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()).replace('Central Business District Cbd', 'Central City') }))
   .sort((a, b) => a.name.localeCompare(b.name));
 
-// The six cards are the core services in the Services menu (src/data/nav.json).
+// The first seven cards are the core services in the Services menu
+// (src/data/nav.json), in the same order; brand servicing and efficiency follow.
 const services = [
   { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Wall and floor console heat pumps, sized from your rooms and fitted tidy.',
     links: [['Single room', '/single-room-heat-pump-installation/'], ['Installation cost', '/heat-pump-installation-cost-christchurch/'], ['Sizing guide', '/heat-pump-sizing/'], ['Buying a heat pump', '/choosing-heat-pump/']] },
@@ -22,9 +23,15 @@ const services = [
   { img: 'aircon-hero', h: 'Air conditioning', href: '/air-conditioning-installation-christchurch/', p: 'A heat pump cools as well as heats, so the same unit keeps the house comfortable on hot nor\'west days.',
     links: [['Dehumidifying', '/heat-pump-dehumidification/'], ['Energy efficient heat pumps', '/energy-efficient/'], ['Energy ratings', '/energy-star-heat-pumps/'], ['Brands compared', '/heat-pump-brands-comparison/']] },
   { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', p: 'Get it cleaned and checked once a year. It runs cheaper and quieter, and smells fresh.',
-    links: [['Heat pump cleaning', '/heat-pump-cleaning/'], ['Maintenance', '/maintenance-servicing/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
+    links: [['Maintenance', '/maintenance-servicing/'], ['Seasonal tune-ups', '/heat-pump-seasonal-tune-ups/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
   { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code? We find the fault and tell you if it\'s worth fixing.',
     links: [['Urgent repairs', '/emergency-heat-pump-repair/'], ['Troubleshooting', '/heat-pump-troubleshooting/'], ['Leak detection', '/leak-detection-repair/'], ['Parts replacement', '/heat-pump-parts-replacement/']] },
+  { img: 'cleaning-hero', h: 'Heat pump cleaning', href: '/heat-pump-cleaning/', p: 'A deep clean behind the filters gets the dust and mould off the coil and fan, so the air comes out clean.',
+    links: [['Deodorising', '/heat-pump-deodorising/'], ['Air quality checks', '/air-quality-testing/'], ['Allergies and asthma', '/allergy-asthma-solutions-heat-pumps/'], ['Heat pump covers', '/covers/']] },
+  { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service and repair those and Panasonic.',
+    links: [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Panasonic', '/panasonic-heat-pump-service-christchurch/']] },
+  { img: 'upgrade-hero', h: 'Efficiency upgrades', href: '/heat-pump-efficiency-upgrades/', p: 'Swap an old unit for a newer, more efficient one, and find out where your power is going.',
+    links: [['Energy assessment', '/energy-efficiency-assessment/'], ['Power usage checks', '/energy-consumption-monitoring/'], ['Thermostat calibration', '/heat-pump-thermostat-calibration/'], ['Remote monitoring', '/remote-monitoring-and-diagnostics/']] },
 ];
 
 const guides = [
