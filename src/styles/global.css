@@ -46,9 +46,11 @@ p, ul, ol { margin: 0 0 1.1em; }
 .inline-photo { margin: 2.4em 0 0; }
 .inline-photo img, .inline-photo .pending { width: 100%; aspect-ratio: 21/9 !important; height: auto; object-fit: cover; display: block; }
 @media (max-width: 640px) { .inline-photo img, .inline-photo .pending { aspect-ratio: 3/2 !important; } }
-.prose table { border-collapse: collapse; width: 100%; margin: 0 0 1.4em; font-size: 1rem; }
-.prose th, .prose td { text-align: left; padding: 12px 14px; background: var(--paper-warm); }
-.prose tr:nth-child(even) td { background: var(--paper); }
+.prose table { border-collapse: collapse; width: 100%; margin: 0 0 1.4em; font-size: 1rem; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: var(--shadow); }
+.prose th, .prose td { text-align: left; padding: 13px 16px; vertical-align: top; }
+.prose th { background: var(--brand-ink); color: #fff; font-weight: 650; }
+.prose tr + tr td { border-top: 1px solid #e6e9ec; }
+@media (max-width: 640px) { .prose table { display: block; overflow-x: auto; } }
 .btn { display: inline-block; padding: 16px 28px; border-radius: 999px; font-weight: 650; text-decoration: none; font-size: 1.05rem; }
 .btn-primary { background: var(--brand); color: #fff; }
 .btn-primary:hover { background: var(--brand-ink); }
