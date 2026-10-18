@@ -48,16 +48,18 @@ const here = Astro.url.pathname;
     <details class="mnav">
       <summary>Menu</summary>
       <div class="mnav-panel">
-        {menus.map((m) => (
-          <details>
-            <summary>{m.label}</summary>
+        <a class="mtop" href="/">Home</a>
+        {menus.map((m) => m.wide ? (
+          <a class="mtop" href={m.href}>{m.label}</a>
+        ) : (
+          <details class="msec">
+            <summary><a class="mtop" href={m.href}>{m.label}</a><span class="mtoggle">Show pages</span></summary>
             {m.groups.map((g) => (
               <div class="mgroup">
                 <p class="col-h">{g.title}</p>
                 <ul>{g.links.map(([label, href]) => <li><a href={href}>{label}</a></li>)}</ul>
               </div>
             ))}
-            <p class="all"><a href={m.href}>{m.all}</a></p>
           </details>
         ))}
         {plain.map((n) => <a class="mtop" href={n.href}>{n.label}</a>)}
@@ -93,11 +95,16 @@ const here = Astro.url.pathname;
   .mnav > summary { list-style: none; cursor: pointer; font-weight: 650; padding: 10px 16px; border-radius: 999px; background: var(--paper-warm); }
   .mnav > summary::-webkit-details-marker { display: none; }
   .mnav-panel { position: absolute; left: 0; right: 0; top: 100%; background: #fff; box-shadow: 0 18px 40px rgba(16, 24, 32, .12); padding: 8px 24px 24px; max-height: calc(100vh - 76px); overflow-y: auto; }
-  .mnav-panel details > summary { cursor: pointer; font-weight: 650; padding: 14px 0; }
-  .mnav-panel .mgroup { padding: 0 0 12px 12px; }
-  .mnav-panel li { margin: 0 0 10px; }
-  .mnav-panel .all { padding-left: 12px; }
-  .mtop { display: block; font-weight: 650; padding: 14px 0; }
+  .msec > summary { list-style: none; display: flex; align-items: center; justify-content: space-between; cursor: pointer; }
+  .msec > summary::-webkit-details-marker { display: none; }
+  .mtoggle { font-size: .9rem; font-weight: 600; color: var(--brand); padding: 6px 12px; border-radius: 999px; background: var(--brand-tint); }
+  .msec[open] .mtoggle { color: #fff; background: var(--brand); }
+  .mgroup { padding: 0 0 10px; }
+  .mgroup .col-h { font-size: .85rem; margin: 4px 0 6px; text-transform: uppercase; letter-spacing: .04em; }
+  .mgroup ul { columns: 2; column-gap: 16px; }
+  .mgroup li { margin: 0 0 6px; font-size: .95rem; break-inside: avoid; }
+  .mtop { display: block; font-weight: 650; padding: 12px 0; color: var(--ink); }
+  .mnav-panel > .mtop, .msec { border-bottom: 1px solid #eee; }
 
   @media (max-width: 1080px) { .main { display: none; } .mnav { display: block; } .call { margin-left: auto; } }
   @media (max-width: 560px) { .hdr-in { gap: 12px; } .logo { font-size: 1.1rem; } .call { padding: 10px 16px; } .call-long { display: none; } }
