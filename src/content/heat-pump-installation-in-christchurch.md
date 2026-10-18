@@ -14,7 +14,7 @@ faqs:
   - q: Do I need consent to install a heat pump in Christchurch?
     a: Most home split systems don't need building consent. But the District Plan controls noise at the neighbour's place. So the outdoor unit has to go where it meets those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a>.
   - q: Which heat pump brands can you install for me?
-    a: We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
+    a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
   - q: Can you replace my old heat pump?
     a: Yes. We take out the old indoor and outdoor units. We check whether the old pipe route and power supply suit the new system. Then we quote the whole job as one fixed price.
   - q: How much does a heat pump install cost?

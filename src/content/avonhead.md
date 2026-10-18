@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Avonhead
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avonhead
 suburb: Avonhead
-intro: A lot of Avonhead homes are brick and tile, built from the 1960s to the 1980s. We fit, service and fix heat pumps that suit those layouts. You get a fixed price before we start.
+intro: A lot of Avonhead homes are brick and tile, built from the 1960s to the 1980s. We fit, service and fix heat pumps that suit those layouts. The price is fixed before any work begins.
 hero: avonhead-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avonhead

@@ -73,7 +73,7 @@ It's the same steps as any [ducted heat pump](/ducted-heat-pumps-christchurch/).
 - A licensed electrical worker does the connection.
 - We test it fully in heating and cooling before handover.
 
-The price is fixed and agreed before any work.
+We agree a set price with you before the job starts.
 
 ## Looking after a Daikin ducted system
 

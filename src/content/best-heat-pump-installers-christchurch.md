@@ -106,7 +106,7 @@ Ask every installer who quotes these questions. Then compare what they say:
 
 ## How we work as heat pump installers in Christchurch
 
-We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those and Panasonic, and most other brands sold in New Zealand.
+We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those and Panasonic, and most other brands sold in New Zealand.
 
 We size every install from your rooms, insulation and windows, and how you use the house. A licensed electrical worker does the electrical connection. We agree a fixed price before any work starts, and the quote is free.
 

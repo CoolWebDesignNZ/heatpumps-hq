@@ -31,7 +31,7 @@ A healthy heat pump makes a few normal noises. Know them and you won't go huntin
 
 - **Hum or whirr:** from the outdoor unit while the compressor and fan run. On an inverter unit it rises and falls as it speeds up and slows down.
 - **Air noise:** from the indoor fan. It's louder on high, quieter on low or auto.
-- **Hiss or whoosh:** during defrost on frosty mornings. The outdoor unit switches over to melt ice off its coil, then switches back. The indoor fan stops while it does this.
+- **Hiss or whoosh:** during defrost on frosty mornings. The outdoor unit switches over to melt ice off its coil, then switches back. Meanwhile the indoor fan takes a break.
 - **Clicks and creaks:** from the indoor unit's case as it heats up and cools down.
 - **Gurgling or trickling:** gas moving through the pipes, or water draining off the coil.
 - **A click outside:** relays and valves in the outdoor unit switching at start-up and shutdown.
@@ -52,7 +52,7 @@ Each of these noises has a short list of likely causes:
 | Constant gurgle with poor heating | Possible low refrigerant charge, which needs a leak check |
 | Loud water drips or bubbling indoors | A blocked or poorly sloped condensate drain |
 
-Buzzing with a burning smell is serious. So is any noise with smoke. Turn it off at the isolating switch and call. Don't keep running it.
+Buzzing with a burning smell is serious. So is any noise with smoke. Switch it off at the isolator outside and ring us. Don't keep running it.
 
 ## Fixing a noisy heat pump outdoor unit
 

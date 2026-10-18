@@ -75,4 +75,4 @@ Got an old heat pump? Here's [how to tell if a new unit would pay off](/heat-pum
 
 ## Get a quote for an energy efficient heat pump
 
-Want an efficient heat pump sized for your home? Call **03 242 1023** or [ask for a free fixed-price quote](/contact-us/).
+Want an efficient heat pump sized for your home? Ring **03 242 1023**, or [ask us for a free fixed-price quote](/contact-us/).

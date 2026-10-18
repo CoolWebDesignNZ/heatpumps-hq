@@ -35,7 +35,7 @@ In Aranui, the heat pump you need depends on how old the house is. If it's rente
 
 ## Heat pumps for Aranui rentals
 
-Letting a home in Aranui? The [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) applies. You need one or more fixed heaters that can directly heat the main living room. They must be at least 1.5 kW. A heat pump must have a thermostat. Open fires and unflued combustion heaters don't count.
+Letting a home in Aranui? The [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) applies. You need one or more fixed heaters that can directly heat the main living room. They must be at least 1.5 kW. A heat pump must have a thermostat. An open fire won't meet it, and nor will an unflued combustion heater.
 
 The capacity you need is worked out for each living room. Tenancy Services publishes a heating assessment tool alongside the standard. Once you've got the figure, we'll quote a heat pump that meets it. In an older lounge with no insulation, go a bit above the minimum. That keeps the room comfy on frosty mornings.
 

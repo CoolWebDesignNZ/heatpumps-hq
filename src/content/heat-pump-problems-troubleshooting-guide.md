@@ -68,7 +68,7 @@ It's usually the condensate drain. It may be blocked, kinked or not sloped enoug
 
 ### Ice on the outdoor unit that won't clear
 
-A light frost that comes and goes is normal. A solid block of ice isn't, and nor is ice building up in the base. Clear the path under the unit so the meltwater can drain away. Don't chip ice off the coil. If it keeps building up, the defrost or gas side needs a check.
+A light frost that comes and goes is normal. A solid block of ice isn't, and nor is ice building up in the base. Clear the path under the unit so the meltwater can drain away. Leave the ice on the coil alone, though. If it keeps building up, the defrost or gas side needs a check.
 
 ### Bad smell
 

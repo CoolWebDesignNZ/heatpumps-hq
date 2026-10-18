@@ -30,7 +30,7 @@ related:
 Most repair calls we get in Christchurch are one of these:
 
 - **Poor heating or cooling:** clogged filters, a dirty outdoor coil, low gas from a leak, or a sensor on its way out.
-- **Dripping indoor unit:** usually a blocked or kinked condensate drain. Leave it and it can stain your walls and ceilings.
+- **Dripping indoor unit:** usually a blocked or kinked condensate drain. Left too long, the water marks walls and ceilings.
 - **Flashing lights or a code:** the unit has found its own fault. The code points to the part. That might be a sensor, a fan, or the link between the indoor and outdoor units.
 - **Rattles, buzzing or squealing:** loose panels, worn fan bearings, or a unit that's shifted on its feet.
 - **Ice that won't clear:** some frost on the outdoor coil is normal in a Canterbury winter. Ice that keeps building means defrost isn't working.

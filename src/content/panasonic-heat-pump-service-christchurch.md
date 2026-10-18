@@ -16,7 +16,7 @@ faqs:
   - q: Do you repair Panasonic air conditioners?
     a: Yes. A Panasonic split system that heats and cools is the same unit, whatever you call it. We'll fix faults on heat or on cool.
   - q: Can you get parts for an older Panasonic?
-    a: For lots of models, yes. Some older ones can be hard to find parts for. We check before we quote. That way you know if the repair can actually go ahead.
+    a: For most models we can. Some older ones can be hard to find parts for. We check before we quote. That way you know if the repair can actually go ahead.
   - q: My Panasonic heat pump is flashing a light. Is it broken?
     a: It has picked up a problem and stopped or held itself back. Note which light is flashing, and the model number. Turn it off at the remote and call us. Don't keep resetting it.
 related:

@@ -60,7 +60,7 @@ The Christchurch District Plan has its own noise limits for the Central City. Th
 
 Here's what we do for Central City apartments and townhouses:
 
-- **Installs.** Compact wall units. Or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. Our brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs.** Compact wall units. Or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. The brands we put in are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Cleaning and checks.** Units handed over with the apartment may not have been touched since. We give the filters, coil and fan a proper clean with a [service](/maintenance-servicing/).
 - **Fault finding.** Apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
 
