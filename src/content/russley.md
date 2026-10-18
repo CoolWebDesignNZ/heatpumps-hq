@@ -58,7 +58,7 @@ Russley is under the Christchurch District Plan, which judges outdoor unit noise
 
 - New Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps.
 - Replacement of older units, with the existing pipework checked.
-- Servicing, and [repairs](/heat-pump-repair/) on all the major brands.
+- Servicing of every major brand, and [repairs](/heat-pump-repair/) whoever fitted the unit.
 
 We also cover [Avonhead](/avonhead/), [Yaldhurst](/yaldhurst/), [Harewood](/harewood/) and [Burnside](/burnside/).
 

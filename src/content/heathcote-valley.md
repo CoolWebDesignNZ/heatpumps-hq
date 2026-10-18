@@ -31,7 +31,7 @@ related:
 
 Two things decide the heat pump for a Heathcote Valley home: how much winter sun the house gets, and how well it holds heat. Heathcote Valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton, and the hills shade one side of the valley through winter.
 
-- **Hillside homes rebuilt or heavily repaired after the earthquakes** tend to hold heat far better than the houses they replaced. A well insulated home with an open living area may need only one unit, with a small second unit if the bedrooms are on another level.
+- **Hillside homes rebuilt or heavily repaired after the earthquakes** tend to hold heat far better than the houses they replaced. One unit in the living area can often carry them, with a small second unit if the bedrooms are on another level.
 - **Older houses, especially on the shaded side,** lose more heat and get little sun to make up for it. They need more capacity in the living area, and usually separate heat for the bedrooms or a [multi-room system](/multi-room-heat-pump-installation/).
 - **Houses on level sections along the valley floor** have an easy outdoor spot beside the house on a pad or on raised feet.
 - **Homes that climb the slopes on either side**, with steep driveways, retaining walls and decks for outdoor living, more often take the outdoor unit on a wall bracket or a deck. We check that the structure can take it and that vibration won't travel through the floor into a bedroom.
