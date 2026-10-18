@@ -6,7 +6,7 @@ secondary: [heat pumps selwyn, heat pumps canterbury, heat pumps christchurch su
 h1: Heat pumps near me in Christchurch, Selwyn and Lyttelton
 intro: "We install, service and repair heat pumps across Christchurch, the Selwyn towns closest to the city, and Lyttelton. Find your suburb below to see how we work there."
 hero: locations-hero
-gallery: [locations-1, locations-2]
+gallery: []
 bandImages: [null, central-city-hero, fendalton-hero, new-brighton-hero, cashmere-hero, wigram-hero, rolleston-hero]
 bandLayout: areas
 faqHeading: Questions about heat pumps near me
