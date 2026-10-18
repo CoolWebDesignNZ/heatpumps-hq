@@ -71,8 +71,8 @@ A small heat pump takes the chill off a bedroom at night. A warm room also gets 
 
 For one room, you're choosing between a high wall unit and a floor console.
 
-- **High wall unit.** The usual choice. It sits high on the wall, out of the way. It pushes warm air across the room.
-- **Floor console.** A low unit at skirting height. It puts heat near the floor, where you feel it. It fits under a window. It suits rooms with no wall space up high. It does take up a bit of floor.
+- **[High wall unit](/high-wall-heat-pumps/).** The usual choice. It sits high on the wall, out of the way. It pushes warm air across the room.
+- **[Floor console](/floor-mounted-heat-pumps/).** A low unit at skirting height. It puts heat near the floor, where you feel it. It fits under a window. It suits rooms with no wall space up high. It does take up a bit of floor.
 
 For a living area, we look at where you sit, where the windows and doors are, and where the pipes can run outside. Then we'll tell you which one.
 

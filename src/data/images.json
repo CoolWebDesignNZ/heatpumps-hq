@@ -1383,5 +1383,35 @@
   "aspect": "16x9",
   "alt": "Rural house among paddocks near McLeans Island",
   "prompt": "Large rural house on a lifestyle block near the Waimakariri River outside Christchurch, like McLeans Island, gravel driveway, open paddocks, shelter belt trees, low winter sun, hoar frost on the grass, realistic editorial photograph, natural light, no people, no text, no logos"
+ },
+ "highwall-hero": {
+  "aspect": "16x9",
+  "alt": "White high wall heat pump above a doorway in a Christchurch living room",
+  "prompt": "Editorial interior photograph of a bright New Zealand living room in a weatherboard villa, a slim white high wall heat pump mounted level high on the wall above a doorway, warm air direction across the room toward a sofa, timber floor, winter morning light through sash windows, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "highwall-1": {
+  "aspect": "4x3",
+  "alt": "High wall heat pump in a modern open plan living area",
+  "prompt": "Interior photograph of a modern New Zealand open plan living and dining area with a white high wall heat pump on a long wall, pale timber floor, large sliding doors, plants, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "highwall-2": {
+  "aspect": "4x3",
+  "alt": "High wall heat pump with its front filters showing",
+  "prompt": "Close-up photograph of a white high wall heat pump indoor unit with its front panel lifted to show the mesh filters, clean wall, soft daylight, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "floor-hero": {
+  "aspect": "16x9",
+  "alt": "Floor mounted heat pump under a window in a Christchurch lounge",
+  "prompt": "Editorial interior photograph of a cosy New Zealand lounge with a white floor console heat pump sitting low on the floor under a wide sash window, armchair beside it, high stud ceiling, rimu skirting, winter light, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "floor-1": {
+  "aspect": "4x3",
+  "alt": "Floor console heat pump in a bedroom",
+  "prompt": "Interior photograph of a calm New Zealand bedroom with a compact white floor console heat pump against the wall under a window, made bed, neutral tones, morning light, natural light, realistic photograph, no people, no text, no logos"
+ },
+ "floor-2": {
+  "aspect": "4x3",
+  "alt": "Floor console heat pump beside a window seat",
+  "prompt": "Interior photograph of a white floor console heat pump set low on the wall beside a timber window seat in a renovated New Zealand villa, wool rug, soft daylight, natural light, realistic photograph, no people, no text, no logos"
  }
 }

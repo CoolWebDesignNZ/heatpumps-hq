@@ -663,5 +663,17 @@
   "path": "/contact-us/",
   "slug": "contact-us",
   "type": "contact"
+ },
+ {
+  "path": "/high-wall-heat-pumps/",
+  "slug": "high-wall-heat-pumps",
+  "type": "service",
+  "new": true
+ },
+ {
+  "path": "/floor-mounted-heat-pumps/",
+  "slug": "floor-mounted-heat-pumps",
+  "type": "service",
+  "new": true
  }
 ]

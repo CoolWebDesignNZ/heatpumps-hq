@@ -2045,5 +2045,34 @@
    "heat pump quote christchurch": null,
    "heat pumps hq phone": 0
   }
+ },
+ "high-wall-heat-pumps": {
+  "type": "service",
+  "keyword": "high wall heat pump",
+  "secondary": [
+   "wall mounted heat pump",
+   "wall hung heat pump",
+   "high wall heat pump christchurch"
+  ],
+  "volumes": {
+   "high wall heat pump": 90,
+   "wall mounted heat pump": 70,
+   "wall hung heat pump": 70
+  }
+ },
+ "floor-mounted-heat-pumps": {
+  "type": "service",
+  "keyword": "floor mounted heat pump",
+  "secondary": [
+   "floor console heat pump",
+   "floor standing heat pump",
+   "heat pump floor unit"
+  ],
+  "volumes": {
+   "floor mounted heat pump": 260,
+   "floor console heat pump": 140,
+   "floor standing heat pump": 40,
+   "heat pump floor unit": 40
+  }
  }
 }

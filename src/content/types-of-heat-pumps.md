@@ -40,13 +40,13 @@ The high wall unit is the white box you know, mounted up near the ceiling. Warm 
 
 **Good for:** bedrooms and living rooms. Rooms short on floor space. Homes that want cooling in summer. EECA's guide says high wall and ceiling units cool better and give you more freedom with furniture.
 
-**Watch for:** in a room with a very high ceiling, warm air can collect up top. Where it goes matters. Aim it at the coldest part of the room, but not at a window. EECA's guide sets a minimum of 2 metres from the floor to the bottom of a high wall unit.
+**Watch for:** in a room with a very high ceiling, warm air can collect up top. Where it goes matters. Aim it at the coldest part of the room, but not at a window. EECA's guide sets a minimum of 2 metres from the floor to the bottom of a high wall unit. More on [high wall heat pumps](/high-wall-heat-pumps/) and how we fit them.
 
 ## Floor console heat pumps
 
 A floor console sits low on the wall. It's about the height of a small cabinet. It blows warm air out at floor level. Lots of models blow from the top at the same time.
 
-**Good for:** heating. EECA's guide says floor consoles are mainly built for heating, because warm air rises and cold air falls. They suit rooms with sloped ceilings or no high wall space. They fit under a window. They're a good swap for an old fireplace or wood burner. And they suit older people who want the warmth close and filters they can reach without a ladder.
+**Good for:** heating. EECA's guide says floor consoles are mainly built for heating, because warm air rises and cold air falls. They suit rooms with sloped ceilings or no high wall space. They fit under a window. They're a good swap for an old fireplace or wood burner. And they suit older people who want the warmth close and filters they can reach without a ladder. More on [floor mounted heat pumps](/floor-mounted-heat-pumps/) and where they work best.
 
 **Watch for:** furniture in front of the unit. EECA warns that anything in the airflow can push warm air straight back into the unit. That cuts efficiency. Consoles also take up floor space.
 

@@ -3,7 +3,8 @@
 Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read README.md for the file layout.
 
 ## URLs
-- Only the 133 URLs in `src/data/urls.json`. Never add a page, never rename a slug, never add a 301. The build fails on a new URL.
+- Every URL lives in `src/data/urls.json`: the 133 from the old site, plus new pages the client has approved (marked `"new": true`). Never rename or remove an old URL, never add a 301. The build fails on a page that isn't in urls.json.
+- New pages so far: /high-wall-heat-pumps/ and /floor-mounted-heat-pumps/ (client asked for pages on each heat pump type, 2026-10-18).
 - Removed pages (heat-pump-subsidy, solar-powered-heat-pump-integration) stay gone: Nate doesn't do that work.
 
 ## Copy

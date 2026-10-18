@@ -72,8 +72,8 @@ Christchurch is hard on a heat pump in its own ways. We plan every install aroun
 
 It depends on the rooms you want heated. These are the usual options.
 
-- **One high wall unit** for an open plan living area. See [single room heat pumps](/single-room-heat-pump-installation/).
-- **A floor console** where there's no good wall space up high, or under a window.
+- **One [high wall unit](/high-wall-heat-pumps/)** for an open plan living area. See [single room heat pumps](/single-room-heat-pump-installation/).
+- **A [floor console](/floor-mounted-heat-pumps/)** where there's no good wall space up high, or under a window.
 - **Two or more indoor units.** Each on its own outdoor unit, or several on one. See [multi room heat pumps](/multi-room-heat-pump-installation/).
 - **A ducted system.** A vent in each room and nothing on the walls. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 

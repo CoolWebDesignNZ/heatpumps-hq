@@ -41,7 +41,7 @@ for (const f of files) {
   try { fm = parse(m[1]); } catch (e) { err(`frontmatter does not parse: ${e.message}`); continue; }
   const body = m[2];
   const entry = urls.find((u) => u.slug === slug);
-  if (!entry) err('not one of the 133 URLs');
+  if (!entry) err('not in urls.json');
   for (const k of ['title', 'description', 'h1', 'intro', 'hero', 'keyword']) if (!fm[k]) err(`missing ${k}`);
   if (!Array.isArray(fm.secondary)) err('missing secondary');
   const t = String(fm.title ?? ''), d = String(fm.description ?? ''), kw = String(fm.keyword ?? '').toLowerCase();
@@ -78,8 +78,8 @@ for (const f of files) {
   if (!['privacy-policy', 'terms-and-conditions'].includes(slug) && /\bpages?\b|this site\b|this guide\b/i.test(raw.replace(/^(related|  - \{ label)[^\n]*$/gm, '').replace(/\]\([^)]*\)/g, ''))) err('talks about pages or the site');
   const u = raw.replace(/\]\([^)]*\)|https?:\/\/\S+/g, '').match(us); if (u) err(`US spelling "${u[0]}"`);
   if (!['about-us', 'privacy-policy'].includes(slug) && /\bnate\b/i.test(raw)) err('names Nate outside About');
-  for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not one of the 133 URLs`);
-  for (const r of fm.related ?? []) if (!paths.has(r.href)) err(`related link ${r.href} is not one of the 133 URLs`);
+  for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not in urls.json`);
+  for (const r of fm.related ?? []) if (!paths.has(r.href)) err(`related link ${r.href} is not in urls.json`);
 }
 console.log(problems.length ? problems.join('\n') : `${files.length} pages pass`);
 process.exit(problems.length ? 1 : 0);

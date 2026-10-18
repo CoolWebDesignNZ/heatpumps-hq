@@ -1,5 +1,5 @@
-// After a build: report which of the old site's 133 URLs exist in dist/,
-// and fail if dist/ has a page that was never on the old site.
+// After a build: report which URLs in src/data/urls.json (the old site's 133 plus approved new pages) exist in dist/,
+// and fail if dist/ has a page that isn't in urls.json.
 import fs from 'node:fs';
 import path from 'node:path';
 
