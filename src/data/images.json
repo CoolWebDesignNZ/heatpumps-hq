@@ -62,7 +62,7 @@
  "rolleston-hero": {
   "aspect": "4x3",
   "alt": "New homes on a street in Rolleston, Canterbury",
-  "prompt": "Photograph of a quiet street of new single-storey brick and weatherboard homes in a growing Canterbury town like Rolleston, young street trees, wide footpaths, flat land, distant Southern Alps on a clear winter day, realistic, no people, no text, no signs"
+  "prompt": "Photograph of a quiet street of new single-storey brick and weatherboard homes in a growing Canterbury town like Rolleston, young street trees, wide footpaths, flat land, distant Southern Alps on a clear winter day, realistic, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no signs"
  },
  "rolleston-newbuild": {
   "aspect": "4x3",
@@ -77,7 +77,7 @@
  "home-van": {
   "aspect": "16x9",
   "alt": "Work van parked on a quiet Christchurch street",
-  "prompt": "Photograph of an unbranded white work van parked on a quiet leafy Christchurch suburban street outside a weatherboard bungalow, soft overcast light, realistic, no people, no text, no logos"
+  "prompt": "Photograph of an unbranded white work van parked on a quiet leafy Christchurch suburban street outside a weatherboard bungalow, soft overcast light, realistic, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "pool-weatherboard": {
   "aspect": "4x3",
@@ -122,7 +122,7 @@
  "pool-townhouse": {
   "aspect": "4x3",
   "alt": "Heat pump outdoor units beside a row of townhouses",
-  "prompt": "Photograph of heat pump outdoor units on wall brackets along the side of new two storey townhouses in a New Zealand city, cedar cladding, narrow path, natural light, realistic photograph, no people, no text, no logos"
+  "prompt": "Photograph of one compact white heat pump outdoor unit with a single round fan on a wall bracket along the side of a new two storey townhouse in a New Zealand city, cedar cladding, narrow path, natural light, realistic photograph, only one heat pump unit in the whole image, no people, no text, no logos"
  },
  "pool-filters": {
   "aspect": "4x3",
@@ -142,7 +142,7 @@
  "about-hero": {
   "aspect": "16x9",
   "alt": "White service van parked outside a weatherboard house on a Christchurch street",
-  "prompt": "Realistic editorial photograph of a plain white unmarked service van parked on the street outside a painted weatherboard bungalow in Christchurch, New Zealand, low winter sun, bare deciduous trees, Port Hills faintly in the distance, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a plain white unmarked service van parked on the street outside a painted weatherboard bungalow in Christchurch, New Zealand, low winter sun, bare deciduous trees, Port Hills faintly in the distance, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "about-1": {
   "aspect": "4x3",
@@ -207,12 +207,12 @@
  "locations-1": {
   "aspect": "4x3",
   "alt": "Row of houses on a suburban street in eastern Christchurch",
-  "prompt": "Realistic editorial photograph of a quiet suburban street in eastern Christchurch, New Zealand, single storey weatherboard and brick houses, one heat pump outdoor unit visible beside a house, flat land, clear sky, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a quiet suburban street in eastern Christchurch, New Zealand, single storey weatherboard and brick houses, one heat pump outdoor unit visible beside a house, flat land, clear sky, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "locations-2": {
   "aspect": "4x3",
   "alt": "New homes on a street in a Selwyn town",
-  "prompt": "Realistic editorial photograph of a new subdivision street in a Selwyn town near Christchurch, New Zealand, modern single storey homes with plaster and brick cladding, young trees, open plains and distant mountains, heat pump outdoor unit on raised feet beside one house, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a new subdivision street in a Selwyn town near Christchurch, New Zealand, modern single storey homes with plaster and brick cladding, young trees, open plains and distant mountains, heat pump outdoor unit on raised feet beside one house, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "hiw-hero": {
   "aspect": "16x9",
@@ -337,17 +337,17 @@
  "brandcomp-hero": {
   "aspect": "16x9",
   "alt": "Several unbranded heat pump indoor units displayed on a wall",
-  "prompt": "Realistic editorial photograph of four plain white unbranded heat pump indoor units of slightly different shapes mounted in a row on a pale wall in a bright showroom-like space, even soft lighting, no people, no text, no logos, no brand markings"
+  "prompt": "Realistic editorial photograph of one plain white unbranded high wall heat pump indoor unit mounted on a pale wall above a timber sideboard in a bright New Zealand living room, even soft lighting, only one heat pump unit in the whole image, no people, no text, no logos, no brand markings"
  },
  "brandcomp-units": {
   "aspect": "4x3",
   "alt": "Two indoor heat pump units of different styles side by side",
-  "prompt": "Realistic editorial photograph of a white high wall heat pump indoor unit and a white floor console heat pump unit side by side in a clean light-filled space, plain surfaces, no people, no text, no logos, no brand markings"
+  "prompt": "Realistic editorial photograph of one white floor console heat pump unit low on the wall under a window in a clean light-filled New Zealand living room, plain surfaces, only one heat pump unit in the whole image, no people, no text, no logos, no brand markings"
  },
  "brandcomp-outdoor": {
   "aspect": "4x3",
   "alt": "Two heat pump outdoor units on a concrete pad beside a house",
-  "prompt": "Realistic editorial photograph of two white heat pump outdoor units of different sizes on a concrete pad beside a New Zealand house wall, insulated pipework in neat covers, gravel border, overcast daylight, no people, no text, no logos, no brand markings"
+  "prompt": "Realistic editorial photograph of one compact white domestic split system heat pump outdoor unit with a single round fan on a concrete pad beside a New Zealand house wall, insulated pipework in a neat cover, gravel border, overcast daylight, only one heat pump unit in the whole image, no people, no text, no logos, no brand markings"
  },
  "bestbrands-hero": {
   "aspect": "16x9",
@@ -397,7 +397,7 @@
  "lowtemp-hero": {
   "aspect": "16x9",
   "alt": "Heat pump outdoor unit steaming during a defrost cycle on a frosty morning",
-  "prompt": "Editorial photograph of a heat pump outdoor unit beside a brick New Zealand home on a frosty morning, steam rising as it defrosts, frosted grass, pale winter light, no people, no text, no logos"
+  "prompt": "Editorial photograph of one compact white domestic split system heat pump outdoor unit with a single round fan beside a brick New Zealand home on a frosty morning, steam rising as it defrosts, frosted grass, pale winter light, only one heat pump unit in the whole image, no people, no text, no logos"
  },
  "lowtemp-ice": {
   "aspect": "4x3",
@@ -427,7 +427,7 @@
  "energystar-hero": {
   "aspect": "16x9",
   "alt": "Row of heat pump indoor units on display in a showroom",
-  "prompt": "Editorial photograph of several white wall-mounted heat pump indoor units displayed in a row on a showroom wall, labels blurred, bright clean lighting, no people, no text, no logos"
+  "prompt": "Editorial photograph of one white high wall heat pump indoor unit on a plain pale wall in a calm New Zealand living room, a blurred energy rating label resting on the sideboard below, bright clean lighting, only one heat pump unit in the whole image, no people, no text, no logos"
  },
  "energystar-label": {
   "aspect": "4x3",
@@ -632,7 +632,7 @@
  "multi-bedrooms": {
   "aspect": "4x3",
   "alt": "Hallway with open doors to two bedrooms, each with its own wall heat pump",
-  "prompt": "Realistic interior photograph looking down a hallway of a New Zealand home with two bedroom doors open, a small white wall heat pump visible high on the wall in each room, carpet, soft daylight, no people, no text, no logos"
+  "prompt": "Realistic interior photograph looking down a hallway of a New Zealand home into one open bedroom with a small white wall heat pump high on its wall, other doors closed, carpet, soft daylight, only one heat pump unit in the whole image, no people, no text, no logos"
  },
  "aircon-hero": {
   "aspect": "16x9",
@@ -697,7 +697,7 @@
  "zoning-hero": {
   "aspect": "16x9",
   "alt": "Two-storey home at dusk with some rooms lit and warm and others dark",
-  "prompt": "Realistic editorial photograph of a two storey New Zealand weatherboard home at winter dusk, downstairs living room windows glowing warm, upstairs bedrooms dark, frosty lawn, calm evening, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a two storey New Zealand weatherboard home at winter dusk, downstairs living room windows glowing warm, upstairs bedrooms dark, frosty lawn, calm evening, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "zoning-damper": {
   "aspect": "4x3",
@@ -802,12 +802,12 @@
  "plans-hero": {
   "aspect": "16x9",
   "alt": "Two-storey home with heat pump outdoor units along the side wall",
-  "prompt": "Realistic editorial photograph of a modern two-storey New Zealand home in Christchurch with two heat pump outdoor units neatly mounted along the side wall, tidy pipe covers, landscaped path, overcast daylight, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a modern two-storey New Zealand home in Christchurch with one compact white heat pump outdoor unit with a single round fan neatly placed by the side wall, tidy pipe cover, landscaped path, overcast daylight, only one heat pump unit in the whole image, no people, no text, no logos"
  },
  "plans-multi-unit": {
   "aspect": "4x3",
   "alt": "Heat pump indoor unit in a bedroom of a multi-room home",
-  "prompt": "Realistic photograph of a white wall-mounted heat pump in a calm New Zealand bedroom with a made bed and soft linen, hallway door open showing a second unit in the next room, natural daylight, no people, no text, no logos"
+  "prompt": "Realistic photograph of a white wall-mounted heat pump in a calm New Zealand bedroom with a made bed and soft linen, hallway door open, natural daylight, only one heat pump unit in the whole image, no people, no text, no logos"
  },
  "plans-rental": {
   "aspect": "4x3",
@@ -1042,347 +1042,347 @@
  "central-city-hero": {
   "aspect": "16x9",
   "alt": "New townhouses and low-rise apartments on a Christchurch Central City street",
-  "prompt": "Realistic editorial photograph of a quiet inner-city street in Christchurch, New Zealand, with new three storey townhouses and a low-rise apartment building, small balconies, timber and dark cladding, young street trees, flat land, clear winter morning light, no landmarks, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a quiet inner-city street in Christchurch, New Zealand, with new three storey townhouses and a low-rise apartment building, small balconies, timber and dark cladding, young street trees, flat land, clear winter morning light, no landmarks, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "edgeware-hero": {
   "aspect": "16x9",
   "alt": "Timber cottages and a newer townhouse on a flat Edgeware street",
-  "prompt": "Realistic editorial photograph of a flat Christchurch suburban street with small painted weatherboard cottages and a restored villa beside a newer two storey townhouse, picket fences, narrow sections, overcast winter day, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a flat Christchurch suburban street with small painted weatherboard cottages and a restored villa beside a newer two storey townhouse, picket fences, narrow sections, overcast winter day, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "addington-hero": {
   "aspect": "16x9",
   "alt": "Row of small workers' cottages close together in Addington",
-  "prompt": "Realistic editorial photograph of a row of small single-storey weatherboard workers' cottages on narrow sections close together in an older Christchurch suburb, corrugated iron roofs, low front fences, a new townhouse block at the end of the street, soft winter light, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a row of small single-storey weatherboard workers' cottages on narrow sections close together in an older Christchurch suburb, corrugated iron roofs, low front fences, a new townhouse block at the end of the street, soft winter light, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "sydenham-hero": {
   "aspect": "16x9",
   "alt": "Renovated villa with a modern rear extension in Sydenham",
-  "prompt": "Realistic editorial photograph of a renovated New Zealand weatherboard villa in a flat Christchurch suburb, original bay window at the front and a modern glazed extension visible at the side, small garden, clear winter afternoon, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a renovated New Zealand weatherboard villa in a flat Christchurch suburb, original bay window at the front and a modern glazed extension visible at the side, small garden, clear winter afternoon, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "phillipstown-hero": {
   "aspect": "16x9",
   "alt": "Older cottage and a block of single-storey units in Phillipstown",
-  "prompt": "Realistic editorial photograph of a modest flat Christchurch street with an older weatherboard cottage beside a block of single-storey brick units with a shared driveway, low hedges, overcast winter day, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a modest flat Christchurch street with an older weatherboard cottage beside a block of single-storey brick units with a shared driveway, low hedges, overcast winter day, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "linwood-hero": {
   "aspect": "16x9",
   "alt": "Brick and weatherboard former state houses on a Linwood street",
-  "prompt": "Realistic editorial photograph of a flat east Christchurch street with solid mid-century brick and weatherboard former state houses, tiled roofs, lawns and low fences, a chimney on one house, clear winter morning, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a flat east Christchurch street with solid mid-century brick and weatherboard former state houses, tiled roofs, lawns and low fences, a chimney on one house, clear winter morning, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "beckenham-hero": {
   "aspect": "16x9",
   "alt": "Character bungalow under large trees near a river in Beckenham",
-  "prompt": "Realistic editorial photograph of a character timber bungalow with a deep veranda on a leafy flat Christchurch street near a small river, large mature deciduous trees, damp lawn, soft winter light, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a character timber bungalow with a deep veranda on a leafy flat Christchurch street near a small river, large mature deciduous trees, damp lawn, soft winter light, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "cashmere-hero": {
   "aspect": "16x9",
   "alt": "Hillside homes on the Port Hills slopes in Cashmere",
-  "prompt": "Realistic editorial photograph of large hillside homes on the north-facing Port Hills slopes above Christchurch, decks and big view windows, terraced gardens and retaining walls, city and plains below, clear winter sun, no landmarks, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of large hillside homes on the north-facing Port Hills slopes above Christchurch, decks and big view windows, terraced gardens and retaining walls, city and plains below, clear winter sun, no landmarks, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "somerfield-hero": {
   "aspect": "16x9",
   "alt": "Older bungalows on a flat Somerfield street",
-  "prompt": "Realistic editorial photograph of a quiet flat Christchurch street of older weatherboard bungalows and a villa with bay windows, tidy front gardens, established street trees, light frost on the grass verge, early winter morning, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a quiet flat Christchurch street of older weatherboard bungalows and a villa with bay windows, tidy front gardens, established street trees, light frost on the grass verge, early winter morning, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "spreydon-hero": {
   "aspect": "16x9",
   "alt": "Mid-century brick and weatherboard homes in Spreydon",
-  "prompt": "Realistic editorial photograph of a flat established Christchurch suburban street with mid-century brick and weatherboard family homes, tiled roofs, concrete driveways, the Port Hills faint in the background, overcast winter day, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a flat established Christchurch suburban street with mid-century brick and weatherboard family homes, tiled roofs, concrete driveways, the Port Hills faint in the background, overcast winter day, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "hoon-hay-hero": {
   "aspect": "16x9",
   "alt": "Brick and tile family homes on a frosty morning in Hoon Hay",
-  "prompt": "Realistic editorial photograph of brick and tile family homes on a flat Christchurch suburban street on a frosty winter morning, white frost on lawns and roofs, low sun, Port Hills rising behind, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of brick and tile family homes on a flat Christchurch suburban street on a frosty winter morning, white frost on lawns and roofs, low sun, Port Hills rising behind, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "cracroft-hero": {
   "aspect": "16x9",
   "alt": "House built into a steep slope on the Port Hills in Cracroft",
-  "prompt": "Realistic editorial photograph of a split-level house built into a steep Port Hills section above Christchurch, long flight of outdoor steps, decks over the slope, native planting and rock, wide view to the plains, clear winter day, no landmarks, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a split-level house built into a steep Port Hills section above Christchurch, long flight of outdoor steps, decks over the slope, native planting and rock, wide view to the plains, clear winter day, no landmarks, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "westmorland-hero": {
   "aspect": "16x9",
   "alt": "Newer two-storey homes on terraced hillside sections in Westmorland",
-  "prompt": "Realistic editorial photograph of newer large two-storey homes on terraced sections on the lower Port Hills, Christchurch, garages below living levels, retaining walls, young gardens, clear winter afternoon, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of newer large two-storey homes on terraced sections on the lower Port Hills, Christchurch, garages below living levels, retaining walls, young gardens, clear winter afternoon, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "hillmorton-hero": {
   "aspect": "16x9",
   "alt": "Suburban homes on flat streets near the foot of the hills in Hillmorton",
-  "prompt": "Realistic editorial photograph of a flat Christchurch suburban street of weatherboard and brick bungalows, with the street rising gently toward the Port Hills at the far end, established trees, soft winter light, no signs, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a flat Christchurch suburban street of weatherboard and brick bungalows, with the street rising gently toward the Port Hills at the far end, established trees, soft winter light, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "burwood-hero": {
   "aspect": "16x9",
   "alt": "Brick and tile homes on a quiet street in Burwood, Christchurch",
-  "prompt": "Realistic editorial photograph, a quiet suburban street in north-east Christchurch with newer single-storey brick and tile homes, double garages, neat lawns and young trees, flat land, clear winter morning, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a quiet suburban street in north-east Christchurch with newer single-storey brick and tile homes, double garages, neat lawns and young trees, flat land, clear winter morning, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "dallington-hero": {
   "aspect": "16x9",
   "alt": "Repaired bungalow on a street beside open river land in Dallington",
-  "prompt": "Realistic editorial photograph, a repaired 1950s weatherboard bungalow on a Christchurch street, open grassed land with willows and the edge of a river beyond, overcast winter day, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a repaired 1950s weatherboard bungalow on a Christchurch street, open grassed land with willows and the edge of a river beyond, overcast winter day, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "new-brighton-hero": {
   "aspect": "16x9",
   "alt": "Older weatherboard cottage a short walk from the beach in New Brighton",
-  "prompt": "Realistic editorial photograph, a small older weatherboard cottage on a sandy section near a New Zealand beach, dune grass at the edge of the street, flax in the garden, grey sky with sea haze, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a small older weatherboard cottage on a sandy section near a New Zealand beach, dune grass at the edge of the street, flax in the garden, grey sky with sea haze, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "north-new-brighton-hero": {
   "aspect": "16x9",
   "alt": "Home close to the sand dunes in North New Brighton",
-  "prompt": "Realistic editorial photograph, a single-storey New Zealand home on a street right behind grassy sand dunes, marram grass bending in the wind, coastal light, salt haze, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a single-storey New Zealand home on a street right behind grassy sand dunes, marram grass bending in the wind, coastal light, salt haze, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "south-new-brighton-hero": {
   "aspect": "16x9",
   "alt": "House on the estuary side of South New Brighton",
-  "prompt": "Realistic editorial photograph, a weatherboard house on a low section beside a calm estuary in Christchurch, tidal mudflats and reflections on still water, soft morning light, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a weatherboard house on a low section beside a calm estuary in Christchurch, tidal mudflats and reflections on still water, soft morning light, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "new-brighton-central-hero": {
   "aspect": "16x9",
   "alt": "Flats and houses near the New Brighton town centre",
-  "prompt": "Realistic editorial photograph, a row of 1970s single-storey brick flats beside older houses on a small street near a seaside town centre in Christchurch, low fences, overcast sky, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a row of 1970s single-storey brick flats beside older houses on a small street near a seaside town centre in Christchurch, low fences, overcast sky, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "parklands-hero": {
   "aspect": "16x9",
   "alt": "Brick and tile family homes in Parklands, Christchurch",
-  "prompt": "Realistic editorial photograph, a flat suburban street of 1980s single-storey brick and tile family homes with concrete driveways and garages in Christchurch, clear blue winter sky, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a flat suburban street of 1980s single-storey brick and tile family homes with concrete driveways and garages in Christchurch, clear blue winter sky, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "wainoni-hero": {
   "aspect": "16x9",
   "alt": "Mid-century weatherboard houses on a street in Wainoni",
-  "prompt": "Realistic editorial photograph, a street of 1960s single-storey weatherboard and brick houses on piles in east Christchurch, wide grass berms, mature trees, winter afternoon, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a street of 1960s single-storey weatherboard and brick houses on piles in east Christchurch, wide grass berms, mature trees, winter afternoon, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "queenspark-hero": {
   "aspect": "16x9",
   "alt": "Family homes with gardens and garages in Queenspark",
-  "prompt": "Realistic editorial photograph, single-storey family homes with gardens and attached garages on a quiet flat street in Christchurch, some brick and some weatherboard, autumn leaves, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, single-storey family homes with gardens and attached garages on a quiet flat street in Christchurch, some brick and some weatherboard, autumn leaves, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "aranui-hero": {
   "aspect": "16x9",
   "alt": "Older state houses beside newer townhouses in Aranui",
-  "prompt": "Realistic editorial photograph, 1950s New Zealand state houses in weatherboard beside a row of new two-storey townhouses on a street in east Christchurch, clear winter day, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, 1950s New Zealand state houses in weatherboard beside a row of new two-storey townhouses on a street in east Christchurch, clear winter day, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "bexley-hero": {
   "aspect": "16x9",
   "alt": "New house on a raised foundation near the estuary in Bexley",
-  "prompt": "Realistic editorial photograph, a newer single-storey home on a raised foundation on low-lying land near an estuary in Christchurch, open grass nearby, frost on the lawn, still morning, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a newer single-storey home on a raised foundation on low-lying land near an estuary in Christchurch, open grass nearby, frost on the lawn, still morning, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "bottle-lake-hero": {
   "aspect": "16x9",
   "alt": "Home on the edge of a pine forest near Bottle Lake",
-  "prompt": "Realistic editorial photograph, a single-storey home on a large section at the edge of a tall pine plantation in coastal Christchurch, pine needles on the driveway, sandy soil, soft light, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a single-storey home on a large section at the edge of a tall pine plantation in coastal Christchurch, pine needles on the driveway, sandy soil, soft light, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "bromley-hero": {
   "aspect": "16x9",
   "alt": "Mid-century brick house on a street in Bromley",
-  "prompt": "Realistic editorial photograph, a 1960s single-storey brick house on a modest section in east Christchurch, a commercial yard fence visible down the street, grey winter sky, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a 1960s single-storey brick house on a modest section in east Christchurch, a commercial yard fence visible down the street, grey winter sky, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "avondale-hero": {
   "aspect": "16x9",
   "alt": "Renovated mid-century home on a street in Avondale",
-  "prompt": "Realistic editorial photograph, a renovated 1960s weatherboard home with new windows on a street in east Christchurch, open grassland and trees along a river in the distance, morning light, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, a renovated 1960s weatherboard home with new windows on a street in east Christchurch, open grassland and trees along a river in the distance, morning light, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "brooklands-hero": {
   "aspect": "16x9",
   "alt": "Older timber house on an open section in Brooklands",
-  "prompt": "Realistic editorial photograph, an older timber house on an open, windswept section near a coastal lagoon at the northern edge of Christchurch, flat land and wide sky, tussock and flax, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, an older timber house on an open, windswept section near a coastal lagoon at the northern edge of Christchurch, flat land and wide sky, tussock and flax, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "heathcote-valley-hero": {
   "aspect": "16x9",
   "alt": "Homes on the valley floor and hillsides of Heathcote Valley, Christchurch",
-  "prompt": "Realistic editorial photograph of a small valley at the foot of tussock-covered Port Hills in Christchurch, New Zealand, single-storey weatherboard and modern homes on the flat valley floor with newer houses on steep hillside sections and retaining walls above, clear winter morning, natural light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a small valley at the foot of tussock-covered Port Hills in Christchurch, New Zealand, single-storey weatherboard and modern homes on the flat valley floor with newer houses on steep hillside sections and retaining walls above, clear winter morning, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "mount-pleasant-hero": {
   "aspect": "16x9",
   "alt": "Hillside homes with large windows on Mount Pleasant above the estuary",
-  "prompt": "Realistic editorial photograph of modern and older hillside homes with large north-facing windows and timber decks on a steep slope of the Port Hills, Christchurch, New Zealand, winding road, view down over a tidal estuary, sunny winter day, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of modern and older hillside homes with large north-facing windows and timber decks on a steep slope of the Port Hills, Christchurch, New Zealand, winding road, view down over a tidal estuary, sunny winter day, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "redcliffs-hero": {
   "aspect": "16x9",
   "alt": "Bungalows on a flat Redcliffs street with houses on the hill behind",
-  "prompt": "Realistic editorial photograph of a quiet flat street of bungalows and family homes in a coastal Christchurch suburb, New Zealand, steep hillside with houses rising behind, glimpse of a tidal estuary, soft coastal light, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of a quiet flat street of bungalows and family homes in a coastal Christchurch suburb, New Zealand, steep hillside with houses rising behind, glimpse of a tidal estuary, soft coastal light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "sumner-hero": {
   "aspect": "16x9",
   "alt": "Older beach houses and hillside homes in Sumner, Christchurch",
-  "prompt": "Realistic editorial photograph of older weatherboard beach houses and newer homes on small sections close to a sandy beach in a seaside Christchurch suburb, New Zealand, houses climbing the hills on either side, overcast coastal light, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of older weatherboard beach houses and newer homes on small sections close to a sandy beach in a seaside Christchurch suburb, New Zealand, houses climbing the hills on either side, overcast coastal light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "ferrymead-hero": {
   "aspect": "16x9",
   "alt": "Townhouses on flat land near the estuary in Ferrymead",
-  "prompt": "Realistic editorial photograph of a row of modern two-storey townhouses with small courtyards on flat land near a tidal estuary in Christchurch, New Zealand, Port Hills in the background, calm winter afternoon, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of a row of modern two-storey townhouses with small courtyards on flat land near a tidal estuary in Christchurch, New Zealand, Port Hills in the background, calm winter afternoon, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "clifton-hero": {
   "aspect": "16x9",
   "alt": "Multi-level homes on a steep Clifton hillside above the sea",
-  "prompt": "Realistic editorial photograph of modern multi-level homes on steep hillside sections high above the sea in a Christchurch coastal hill suburb, New Zealand, decks and large windows facing the ocean, rocky slope, clear windy day, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of modern multi-level homes on steep hillside sections high above the sea in a Christchurch coastal hill suburb, New Zealand, decks and large windows facing the ocean, rocky slope, clear windy day, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "moncks-bay-hero": {
   "aspect": "16x9",
   "alt": "Homes along the estuary edge and up the slope at Moncks Bay",
-  "prompt": "Realistic editorial photograph of a small bay on a tidal estuary in Christchurch, New Zealand, a few houses along the waterfront road and more homes set into the hillside behind with retaining walls and steps, calm morning light, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of a small bay on a tidal estuary in Christchurch, New Zealand, a few houses along the waterfront road and more homes set into the hillside behind with retaining walls and steps, calm morning light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "lyttelton-hero": {
   "aspect": "16x9",
   "alt": "Old timber cottages on steep streets above Lyttelton Harbour",
-  "prompt": "Realistic editorial photograph of old painted timber cottages and villas packed closely on steep narrow streets and steps above a harbour in a small New Zealand port town, corrugated iron roofs, hills behind, winter light, no people, no text, no logos, no signs, no ships with names"
+  "prompt": "Realistic editorial photograph of old painted timber cottages and villas packed closely on steep narrow streets and steps above a harbour in a small New Zealand port town, corrugated iron roofs, hills behind, winter light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs, no ships with names"
  },
  "lincoln-hero": {
   "aspect": "16x9",
   "alt": "Homes on the edge of Lincoln with lifestyle blocks beyond",
-  "prompt": "Realistic editorial photograph of a quiet street of newer single-storey homes on the edge of a small Canterbury town in New Zealand, flat open farmland and lifestyle blocks with shelter belts beyond, frost on the grass on a clear winter morning, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of a quiet street of newer single-storey homes on the edge of a small Canterbury town in New Zealand, flat open farmland and lifestyle blocks with shelter belts beyond, frost on the grass on a clear winter morning, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "prebbleton-hero": {
   "aspect": "16x9",
   "alt": "New homes on larger sections in a Prebbleton subdivision",
-  "prompt": "Realistic editorial photograph of new single-storey brick and weatherboard homes on large sections in a growing Canterbury village subdivision, New Zealand, young trees, flat land, distant Port Hills, clear winter day, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of new single-storey brick and weatherboard homes on large sections in a growing Canterbury village subdivision, New Zealand, young trees, flat land, distant Port Hills, clear winter day, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "tai-tapu-hero": {
   "aspect": "16x9",
   "alt": "Farmhouse on a lifestyle block below the Port Hills near Tai Tapu",
-  "prompt": "Realistic editorial photograph of an older weatherboard farmhouse with a veranda on a lifestyle block at the foot of the Port Hills in rural Canterbury, New Zealand, paddocks, shelter trees, frosty winter morning, no people, no text, no logos, no animals"
+  "prompt": "Realistic editorial photograph of an older weatherboard farmhouse with a veranda on a lifestyle block at the foot of the Port Hills in rural Canterbury, New Zealand, paddocks, shelter trees, frosty winter morning, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no animals"
  },
  "halswell-hero": {
   "aspect": "16x9",
   "alt": "New subdivision homes in Halswell below the Port Hills",
-  "prompt": "Realistic editorial photograph of a new subdivision street of modern single-storey homes and townhouses in south-west Christchurch, New Zealand, Port Hills rising behind, young street trees, clear winter day, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of a new subdivision street of modern single-storey homes and townhouses in south-west Christchurch, New Zealand, Port Hills rising behind, young street trees, clear winter day, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "aidanfield-hero": {
   "aspect": "16x9",
   "alt": "Brick and plaster family homes on an Aidanfield street",
-  "prompt": "Realistic editorial photograph of a tidy suburban street of single-storey brick and plaster family homes on regular sections in a planned Christchurch suburb, New Zealand, low fences, established trees, clear autumn day, no people, no text, no logos, no signs"
+  "prompt": "Realistic editorial photograph of a tidy suburban street of single-storey brick and plaster family homes on regular sections in a planned Christchurch suburb, New Zealand, low fences, established trees, clear autumn day, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos, no signs"
  },
  "kennedys-bush-hero": {
   "aspect": "16x9",
   "alt": "Modern homes on sloping sections at Kennedys Bush",
-  "prompt": "Realistic editorial photograph of modern homes on large sloping sections on the western Port Hills above Christchurch, New Zealand, steep driveways and decks, view over the Canterbury Plains to snow-capped Southern Alps, crisp winter morning, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of modern homes on large sloping sections on the western Port Hills above Christchurch, New Zealand, steep driveways and decks, view over the Canterbury Plains to snow-capped Southern Alps, crisp winter morning, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "heat-pumps-papanui-hero": {
   "aspect": "16x9",
   "alt": "Older weatherboard villa beside newer townhouses on a Christchurch street",
-  "prompt": "Photograph of a quiet suburban street in northern Christchurch, New Zealand, a restored white weatherboard villa with a corrugated iron roof beside a pair of newer two storey townhouses, low fences, flat land, clear winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a quiet suburban street in northern Christchurch, New Zealand, a restored white weatherboard villa with a corrugated iron roof beside a pair of newer two storey townhouses, low fences, flat land, clear winter morning, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "casebrook-hero": {
   "aspect": "16x9",
   "alt": "Single storey brick and tile family homes on a Christchurch street",
-  "prompt": "Photograph of a suburban street of single storey 1970s and 1980s brick veneer and concrete tile roof family homes in north-west Christchurch, New Zealand, front lawns, driveways and garages, flat land, clear winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a suburban street of single storey 1970s and 1980s brick veneer and concrete tile roof family homes in north-west Christchurch, New Zealand, front lawns, driveways and garages, flat land, clear winter day, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "mairehau-hero": {
   "aspect": "16x9",
   "alt": "Compact mid-century weatherboard and brick homes in north-east Christchurch",
-  "prompt": "Photograph of modest mid-century New Zealand state house style homes, one weatherboard and one brick, with low pitched roofs and simple front gardens on a flat street in north-east Christchurch, overcast winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of modest mid-century New Zealand state house style homes, one weatherboard and one brick, with low pitched roofs and simple front gardens on a flat street in north-east Christchurch, overcast winter day, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "northcote-hero": {
   "aspect": "16x9",
   "alt": "Row of small single storey units on a subdivided Christchurch section",
-  "prompt": "Photograph of a row of small single storey brick units sharing a long driveway on a subdivided suburban section in Christchurch, New Zealand, small gardens, clotheslines, flat land, soft winter light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a row of small single storey brick units sharing a long driveway on a subdivided suburban section in Christchurch, New Zealand, small gardens, clotheslines, flat land, soft winter light, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "redwood-hero": {
   "aspect": "16x9",
   "alt": "Brick and tile family home with a side garage in northern Christchurch",
-  "prompt": "Photograph of a 1970s single storey brick and tile family home with an attached garage and front lawn on a suburban street in northern Christchurch, New Zealand, frost on the grass, low winter sun, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a 1970s single storey brick and tile family home with an attached garage and front lawn on a suburban street in northern Christchurch, New Zealand, frost on the grass, low winter sun, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "st-albans-hero": {
   "aspect": "16x9",
   "alt": "Character villa and bungalow on a tree-lined Christchurch street",
-  "prompt": "Photograph of a tree-lined inner suburban street in Christchurch, New Zealand, a restored timber villa with a bay window and veranda next to a 1920s bungalow, picket fences, autumn leaves, soft light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a tree-lined inner suburban street in Christchurch, New Zealand, a restored timber villa with a bay window and veranda next to a 1920s bungalow, picket fences, autumn leaves, soft light, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "shirley-hero": {
   "aspect": "16x9",
   "alt": "Mid-century weatherboard homes on a flat street in north-east Christchurch",
-  "prompt": "Photograph of mid-century New Zealand weatherboard and brick homes on a flat suburban street in north-east Christchurch, misty winter morning, condensation on windows, modest front gardens, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of mid-century New Zealand weatherboard and brick homes on a flat suburban street in north-east Christchurch, misty winter morning, condensation on windows, modest front gardens, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "marshland-hero": {
   "aspect": "16x9",
   "alt": "Semi-rural house among market garden fields on the edge of Christchurch",
-  "prompt": "Photograph of a semi-rural farmhouse style home on flat open land on the north-eastern edge of Christchurch, New Zealand, market garden rows and paddocks, poplar shelter belt, frosty winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a semi-rural farmhouse style home on flat open land on the north-eastern edge of Christchurch, New Zealand, market garden rows and paddocks, poplar shelter belt, frosty winter morning, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "spencerville-hero": {
   "aspect": "16x9",
   "alt": "Lifestyle block home with pine shelter belt near Christchurch",
-  "prompt": "Photograph of a large single storey lifestyle block home on a big flat section near Christchurch, New Zealand, pine shelter belt, paddock with a shed, frost on the grass, clear winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a large single storey lifestyle block home on a big flat section near Christchurch, New Zealand, pine shelter belt, paddock with a shed, frost on the grass, clear winter morning, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "belfast-hero": {
   "aspect": "16x9",
   "alt": "New subdivision homes on the northern edge of Christchurch",
-  "prompt": "Photograph of a street of new single storey brick and weatherboard homes in a new subdivision on the northern edge of Christchurch, New Zealand, young street trees, fresh lawns, flat land, clear winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a street of new single storey brick and weatherboard homes in a new subdivision on the northern edge of Christchurch, New Zealand, young street trees, fresh lawns, flat land, clear winter day, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "bryndwr-hero": {
   "aspect": "16x9",
   "alt": "Mid-century bungalow with a mature garden in Christchurch",
-  "prompt": "Photograph of a mid-century New Zealand bungalow with a tiled roof set behind a mature garden with large established trees and a hedge, quiet suburban street in Christchurch, autumn light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a mid-century New Zealand bungalow with a tiled roof set behind a mature garden with large established trees and a hedge, quiet suburban street in Christchurch, autumn light, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "burnside-hero": {
   "aspect": "16x9",
   "alt": "Extended brick family home on a large Christchurch section",
-  "prompt": "Photograph of a large single storey brick and tile family home with a newer weatherboard extension on a generous section in north-west Christchurch, New Zealand, lawn and established shrubs, clear winter day, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a large single storey brick and tile family home with a newer weatherboard extension on a generous section in north-west Christchurch, New Zealand, lawn and established shrubs, clear winter day, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "harewood-hero": {
   "aspect": "16x9",
   "alt": "Semi-rural home on open flat land on the north-west edge of Christchurch",
-  "prompt": "Photograph of a single storey home on a semi-rural property on flat open land at the north-west edge of Christchurch, New Zealand, post and wire fence, paddock, heavy frost, distant Southern Alps, clear winter morning, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a single storey home on a semi-rural property on flat open land at the north-west edge of Christchurch, New Zealand, post and wire fence, paddock, heavy frost, distant Southern Alps, clear winter morning, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "fendalton-hero": {
   "aspect": "16x9",
   "alt": "Large two storey character home among mature trees in Christchurch",
-  "prompt": "Photograph of a large two storey timber character home on a wide section surrounded by mature oak and beech trees in a leafy Christchurch suburb, New Zealand, long driveway, autumn leaves on the lawn, soft light, wide angle, natural light, realistic editorial photograph, no people, no text, no logos"
+  "prompt": "Photograph of a large two storey timber character home on a wide section surrounded by mature oak and beech trees in a leafy Christchurch suburb, New Zealand, long driveway, autumn leaves on the lawn, soft light, wide angle, natural light, realistic editorial photograph, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "hornby-hero": {
   "aspect": "16x9",
   "alt": "Older weatherboard and brick houses on a street in Hornby, Christchurch",
-  "prompt": "Street of modest 1950s and 1960s New Zealand weatherboard and brick bungalows in a western Christchurch suburb like Hornby, low fences, small front lawns, power poles, flat land, clear winter morning, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Street of modest 1950s and 1960s New Zealand weatherboard and brick bungalows in a western Christchurch suburb like Hornby, low fences, small front lawns, power poles, flat land, clear winter morning, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "wigram-hero": {
   "aspect": "16x9",
   "alt": "New homes in a Wigram subdivision",
-  "prompt": "Street of new single and two storey homes in a recent Christchurch subdivision like Wigram, brick veneer and dark cladding, young street trees, wide footpaths, flat land, Port Hills faint in the distance, clear winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Street of new single and two storey homes in a recent Christchurch subdivision like Wigram, brick veneer and dark cladding, young street trees, wide footpaths, flat land, Port Hills faint in the distance, clear winter day, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "ilam-hero": {
   "aspect": "16x9",
   "alt": "Established family home with mature trees in Ilam",
-  "prompt": "Established 1960s New Zealand family home with a tiled roof and large mature trees in a leafy Christchurch suburb like Ilam, tidy hedge, autumn leaves on the lawn, soft afternoon light, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Established 1960s New Zealand family home with a tiled roof and large mature trees in a leafy Christchurch suburb like Ilam, tidy hedge, autumn leaves on the lawn, soft afternoon light, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "upper-riccarton-hero": {
   "aspect": "16x9",
   "alt": "Infill townhouses beside an older house in Upper Riccarton",
-  "prompt": "Pair of new two storey infill townhouses beside an older weatherboard house in a Christchurch suburb like Upper Riccarton, shared driveway, small gardens, overcast winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Pair of new two storey infill townhouses beside an older weatherboard house in a Christchurch suburb like Upper Riccarton, shared driveway, small gardens, overcast winter day, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "riccarton-hero": {
   "aspect": "16x9",
   "alt": "Villa and townhouses on a Riccarton street",
-  "prompt": "Restored New Zealand weatherboard villa with a bullnose verandah next to modern townhouses on a Christchurch street like those in Riccarton, picket fence, street trees, winter light, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Restored New Zealand weatherboard villa with a bullnose verandah next to modern townhouses on a Christchurch street like those in Riccarton, picket fence, street trees, winter light, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "avonhead-hero": {
   "aspect": "16x9",
   "alt": "Single storey brick home in Avonhead",
-  "prompt": "Single storey 1970s New Zealand brick and tile home on a quiet Christchurch suburban street like those in Avonhead, concrete driveway, trimmed hedge, flat land, clear frosty morning, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Single storey 1970s New Zealand brick and tile home on a quiet Christchurch suburban street like those in Avonhead, concrete driveway, trimmed hedge, flat land, clear frosty morning, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "russley-hero": {
   "aspect": "16x9",
   "alt": "Brick family home on a cul-de-sac in Russley",
-  "prompt": "1970s to 1980s New Zealand brick family home with a tiled roof on a quiet cul-de-sac in a western Christchurch suburb like Russley, established garden, double garage, clear winter sky, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "1970s to 1980s New Zealand brick family home with a tiled roof on a quiet cul-de-sac in a western Christchurch suburb like Russley, established garden, double garage, clear winter sky, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "oaklands-hero": {
   "aspect": "16x9",
   "alt": "Brick and tile homes on an Oaklands street",
-  "prompt": "Row of 1970s and 1980s single storey brick and tile homes in a south-west Christchurch suburb like Oaklands, mature gardens, low brick fences, frost on the lawns, early morning sun, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Row of 1970s and 1980s single storey brick and tile homes in a south-west Christchurch suburb like Oaklands, mature gardens, low brick fences, frost on the lawns, early morning sun, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "sockburn-hero": {
   "aspect": "16x9",
   "alt": "Mixed older and newer housing in Sockburn",
-  "prompt": "Mixed street in a Christchurch suburb like Sockburn, an older weatherboard house beside a newer brick unit, narrow driveway to a back section, flat land, grey winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Mixed street in a Christchurch suburb like Sockburn, an older weatherboard house beside a newer brick unit, narrow driveway to a back section, flat land, grey winter day, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "yaldhurst-hero": {
   "aspect": "16x9",
   "alt": "Lifestyle block house in Yaldhurst",
-  "prompt": "Modern single storey house on a lifestyle block on the Canterbury Plains west of Christchurch like Yaldhurst, post and wire fence, paddock, shelter belt of pine trees, Southern Alps faint in the distance, clear winter day, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Modern single storey house on a lifestyle block on the Canterbury Plains west of Christchurch like Yaldhurst, post and wire fence, paddock, shelter belt of pine trees, Southern Alps faint in the distance, clear winter day, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "templeton-hero": {
   "aspect": "16x9",
   "alt": "Houses on a quiet street in Templeton",
-  "prompt": "Quiet street in a small Canterbury township like Templeton, mix of older weatherboard house and newer brick home, wide grass verge, paddocks beyond, frosty clear morning, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Quiet street in a small Canterbury township like Templeton, mix of older weatherboard house and newer brick home, wide grass verge, paddocks beyond, frosty clear morning, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "mcleans-island-hero": {
   "aspect": "16x9",
   "alt": "Rural house among paddocks near McLeans Island",
-  "prompt": "Large rural house on a lifestyle block near the Waimakariri River outside Christchurch, like McLeans Island, gravel driveway, open paddocks, shelter belt trees, low winter sun, hoar frost on the grass, realistic editorial photograph, natural light, no people, no text, no logos"
+  "prompt": "Large rural house on a lifestyle block near the Waimakariri River outside Christchurch, like McLeans Island, gravel driveway, open paddocks, shelter belt trees, low winter sun, hoar frost on the grass, realistic editorial photograph, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
  },
  "highwall-hero": {
   "aspect": "16x9",
