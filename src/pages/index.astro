@@ -11,19 +11,20 @@ const suburbs = urls.filter((u) => u.type === 'suburb')
   .map((u) => ({ href: u.path, name: u.slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase()).replace('Central Business District Cbd', 'Central City') }))
   .sort((a, b) => a.name.localeCompare(b.name));
 
+// The six cards are the core services in the Services menu (src/data/nav.json).
 const services = [
-  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Wall, floor console and multi-room systems. Sized from your rooms and fitted tidy.',
-    links: [['Single room', '/single-room-heat-pump-installation/'], ['Multi-room', '/multi-room-heat-pump-installation/'], ['Air conditioning', '/air-conditioning-installation-christchurch/'], ['Smart and Wi-Fi control', '/smart-heat-pump-systems/']] },
-  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room, nothing on the walls. It\'s easiest to plan early in a build.',
-    links: [['Daikin ducted', '/daikin-ducted-heat-pumps-christchurch/'], ['Mitsubishi Electric ducted', '/mitsubishi-ducted-heat-pumps-christchurch/'], ['Zoning', '/heat-pump-zoning/'], ['Ducted vs split', '/ducted-vs-split-heat-pumps-christchurch/']] },
-  { img: 'home-service', h: 'Servicing', href: '/maintenance-servicing/', p: 'Get it cleaned and checked once a year. It\'ll run cheaper and quieter, and smell fresh.',
-    links: [['What a service includes', '/heat-pump-servicing/'], ['Cleaning', '/heat-pump-cleaning/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
-  { img: 'home-repair', h: 'Repairs', href: '/heat-pump-repair/', p: 'Not heating? Leaking? Showing an error code? We find the fault and tell you if it\'s worth fixing.',
+  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Wall and floor console heat pumps, sized from your rooms and fitted tidy.',
+    links: [['Single room', '/single-room-heat-pump-installation/'], ['Installation cost', '/heat-pump-installation-cost-christchurch/'], ['Sizing guide', '/heat-pump-sizing/'], ['Buying a heat pump', '/choosing-heat-pump/']] },
+  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room, nothing on the walls. Easiest to plan early in a build.',
+    links: [['Daikin ducted', '/daikin-ducted-heat-pumps-christchurch/'], ['Mitsubishi Electric ducted', '/mitsubishi-ducted-heat-pumps-christchurch/'], ['Zoning', '/heat-pump-zoning/'], ['Ducted heat pump cost', '/ducted-heat-pump-cost-christchurch/']] },
+  { img: 'multi-hero', h: 'Multi-room heat pumps', href: '/multi-room-heat-pump-installation/', p: 'Several indoor units on one outdoor unit, so each room you use has its own heat and its own controller.',
+    links: [['Single or multi room', '/single-multi-room/'], ['Ducted vs split', '/ducted-vs-split-heat-pumps-christchurch/'], ['Types of heat pumps', '/types-of-heat-pumps/'], ['Smart and Wi-Fi control', '/smart-heat-pump-systems/']] },
+  { img: 'aircon-hero', h: 'Air conditioning', href: '/air-conditioning-installation-christchurch/', p: 'A heat pump cools as well as heats, so the same unit keeps the house comfortable on hot nor\'west days.',
+    links: [['Dehumidifying', '/heat-pump-dehumidification/'], ['Energy efficient heat pumps', '/energy-efficient/'], ['Energy ratings', '/energy-star-heat-pumps/'], ['Brands compared', '/heat-pump-brands-comparison/']] },
+  { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', p: 'Get it cleaned and checked once a year. It runs cheaper and quieter, and smells fresh.',
+    links: [['Heat pump cleaning', '/heat-pump-cleaning/'], ['Maintenance', '/maintenance-servicing/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
+  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code? We find the fault and tell you if it\'s worth fixing.',
     links: [['Urgent repairs', '/emergency-heat-pump-repair/'], ['Troubleshooting', '/heat-pump-troubleshooting/'], ['Leak detection', '/leak-detection-repair/'], ['Parts replacement', '/heat-pump-parts-replacement/']] },
-  { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service those, plus Panasonic.',
-    links: [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Panasonic', '/panasonic-heat-pump-service-christchurch/']] },
-  { img: 'upgrade-hero', h: 'Efficiency and air quality', href: '/heat-pump-efficiency-upgrades/', p: 'Swap out an old unit and use less power. Get drier, cleaner air at home.',
-    links: [['Efficiency upgrades', '/heat-pump-efficiency-upgrades/'], ['Energy assessment', '/energy-efficiency-assessment/'], ['Dehumidifying', '/heat-pump-dehumidification/'], ['Air quality checks', '/air-quality-testing/']] },
 ];
 
 const guides = [
