@@ -80,11 +80,11 @@ if (fm.faqs?.length) {
       <div class="wrap grid grid-2">{fm.gallery.map((id) => <Img id={id} />)}</div>
     </section>
   )}
-  {fm.faqs?.length && <Faq items={fm.faqs} />}
+  {fm.faqs?.length && <Faq items={fm.faqs} heading={fm.faqHeading} />}
   {fm.related?.length && (
     <section class="section">
       <div class="wrap">
-        <h2>Related</h2>
+        <h2>{fm.relatedHeading ?? 'Related heat pump pages'}</h2>
         <div class="grid grid-3">
           {fm.related.map((r) => (
             <a class="card" href={r.href}><div class="card-body"><h3>{r.label}</h3><p>{r.text}</p></div></a>
@@ -93,5 +93,5 @@ if (fm.faqs?.length) {
       </div>
     </section>
   )}
-  <CtaBand />
+  <CtaBand heading={fm.ctaHeading} />
 </Base>

@@ -53,7 +53,7 @@ const faqs = [
 
   <section class="section">
     <div class="wrap">
-      <h2>What we do</h2>
+      <h2>Heat pump installation, servicing and repairs</h2>
       <p class="lead">Installation, servicing, repairs and ducted systems for homes across Christchurch.</p>
       <div class="grid three svc">
         {services.map((s) => (
@@ -74,7 +74,7 @@ const faqs = [
   <section class="section warm">
     <div class="wrap">
       <div class="prose">
-        <h2>The right heat pump, not the biggest one</h2>
+        <h2>Heat pumps sized for your home, not the biggest one</h2>
         <p>Nate Thompson started Heat Pumps HQ in {site.founded} after years at a larger heating company, watching people get sold systems bigger and dearer than their homes needed.</p>
         <p>So every quote starts with your house: the rooms, the insulation, the windows and how you actually live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair instead of a replacement. Either way you'll get a straight answer and a fixed price before any work starts.</p>
         <p>We install <strong>{site.brandsInstalled.join(', ')}</strong>, and service and repair those and Panasonic.</p>
@@ -87,7 +87,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <div class="prose">
-        <h2>Made for Canterbury winters</h2>
+        <h2>Heat pumps made for Christchurch winters</h2>
         <p>Christchurch winters bring clear, frosty nights and cold mornings, especially out on the plains. A heat pump has to keep working when it's coldest outside, and the outdoor unit has to defrost without fuss.</p>
         <p>That comes down to sizing and placement. A correctly sized unit runs steadily rather than flat out, which keeps it quieter and cheaper to run. The outdoor unit goes on raised feet or a bracket, clear of corners, where defrost water drains away and the neighbours won't hear it.</p>
         <p>Not sure what size you need? Start with our <a href="/heat-pump-sizing/">heat pump sizing guide</a>.</p>
@@ -98,7 +98,7 @@ const faqs = [
 
   <section class="section">
     <div class="wrap">
-      <h2>Guides</h2>
+      <h2>Heat pump guides for Christchurch homes</h2>
       <p class="lead">Costs, sizing, brands and council rules.</p>
       <div class="grid three">
         {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
@@ -109,14 +109,14 @@ const faqs = [
 
   <section class="section warm">
     <div class="wrap">
-      <h2>Areas we cover</h2>
+      <h2>Heat pumps across Christchurch, Selwyn and Lyttelton</h2>
       <p class="lead">All of Christchurch, plus Selwyn and Lyttelton.</p>
       <ul class="areas">{suburbs.map((s) => <li><a href={s.href}>{s.name}</a></li>)}</ul>
     </div>
   </section>
 
-  <Faq items={faqs} />
-  <CtaBand />
+  <Faq items={faqs} heading="Common questions about heat pumps in Christchurch" />
+  <CtaBand heading="Get a free heat pump quote in Christchurch" />
 </Base>
 <style>
   :global(.banner) { margin-top: 40px; width: 100%; aspect-ratio: 21/9 !important; object-fit: cover; }

@@ -23,7 +23,12 @@ const banned = [
 ];
 const us = /\b(color|colors|center|centers|centered|organize|organized|neighbor|neighbors|neighborhood|favorite|liter|liters|analyze|optimize|optimized|minimize|maximize|realize|recognize|apologize|customize|customized|humidity level|aluminum|gray|program(?:s|med)? your)\b/i;
 
-const seen = { title: new Map(), description: new Map() };
+const seen = { title: new Map(), description: new Map(), h2: new Map() };
+// H2 keyword matching: word sets, plurals folded, place words optional.
+const stem = (w) => w.replace(/(ies)$/, 'y').replace(/(?<!s)s$/, '');
+const words = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter(Boolean).map(stem);
+const loose = new Set(['christchurch', 'nz', 'chch', 'new', 'zealand', 'in', 'for', 'of', 'the', 'a', 'to']);
+const hasKw = (h, kw) => { const hw = new Set(words(h)); return words(kw).filter((w) => !loose.has(w)).every((w) => hw.has(w)); };
 const problems = [];
 const files = fs.readdirSync('src/content').filter((f) => f.endsWith('.md'));
 for (const f of files) {
@@ -50,6 +55,18 @@ for (const f of files) {
   for (const [k, v] of [['title', t], ['description', d]]) {
     if (seen[k].has(v)) err(`${k} duplicates ${seen[k].get(v)}`); else seen[k].set(v, slug);
   }
+  // H2s: the main keyword in at least one, keywords (main or secondary) in at least half.
+  const h2s = [...body.matchAll(/^## (.+)$/gm)].map((x) => x[1].trim());
+  const all = [...h2s, fm.faqHeading, fm.relatedHeading].filter(Boolean);
+  if (entry && !['privacy-policy', 'terms-and-conditions'].includes(slug) && kw) {
+    const kws = [kw, ...(fm.secondary ?? [])];
+    if (!all.some((h) => hasKw(h, kw))) err(`no H2 contains the main keyword "${kw}"`);
+    const n = all.filter((h) => kws.some((k) => hasKw(h, k))).length;
+    if (n * 2 < all.length) err(`only ${n} of ${all.length} H2s carry a keyword`);
+    if (fm.faqs?.length && !fm.faqHeading) err('missing faqHeading');
+    if (fm.related?.length && !fm.relatedHeading) err('missing relatedHeading');
+  }
+  for (const h of all) { const k = h.toLowerCase(); if (seen.h2.has(k) && seen.h2.get(k) !== slug) err(`H2 "${h}" also on ${seen.h2.get(k)}`); else seen.h2.set(k, slug); }
   if (entry?.type === 'guide' && !fm.updated) err('guide without updated date');
   for (const id of [fm.hero, ...(fm.gallery ?? [])].filter(Boolean)) if (!images[id]) err(`image "${id}" not in images.json`);
   const text = raw.toLowerCase();
