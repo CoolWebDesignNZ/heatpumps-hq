@@ -11,7 +11,7 @@ gallery: [install-pipework, install-commission]
 stepsHeading: What every heat pump installation includes
 steps:
   - h: Indoor unit
-    p: Fitted level on a bracket, high enough to throw warm air across the room, and clear of curtains and furniture.
+    p: A high wall unit goes level on a bracket, high enough to throw warm air across the room. A floor console sits low, often under a window. Either way it's clear of curtains and furniture. <a href="/types-of-heat-pumps/">Types of indoor unit</a>.
   - h: Pipes and cable
     p: The refrigerant pipes, control cable and drain go through one neat hole in the wall. Outside, they run in a cover that matches the house.
   - h: Outdoor unit

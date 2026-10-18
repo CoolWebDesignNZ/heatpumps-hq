@@ -15,7 +15,7 @@ steps:
   - h: Sizing for cooling and heating
     p: We pick a unit with enough cooling for the heat coming through the glass and roof, that still heats the room through winter.
   - h: Indoor unit
-    p: Fitted high on the wall, with the airflow aimed across the room, not straight at a bed or a couch.
+    p: Usually a high wall unit, with the airflow aimed across the room, not straight at a bed or a couch. A floor console suits a room with no wall space up high.
   - h: Condensate drain
     p: Laid to fall all the way to a drain point or outside, with no low spots where water can sit.
   - h: Electrical connection
