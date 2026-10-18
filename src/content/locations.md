@@ -22,7 +22,11 @@ related:
   - { label: Contact us, href: /contact-us/, text: Phone, email and what to have ready. }
 ---
 
-We install, service and repair heat pumps in every suburb listed below, and the right setup changes from one area to the next. An older villa in St Albans loses heat through its floor and single glazing, a hillside home in Cashmere needs a bracket and a longer pipe run for the outdoor unit, and a house near New Brighton beach needs its outdoor unit placed out of the salt wind. Choose your suburb to see what suits the homes there. Wherever you live, we install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, service and repair all the major brands, and agree a fixed price before any work starts.
+We work right across Christchurch, out to Lyttelton and the Selwyn towns. Find your suburb below.
+
+What suits your home depends a lot on where you live. Older villas lose heat through the floor. Hill homes often need the outdoor unit on a bracket. Close to the beach, the unit needs a spot out of the salt wind. Tap your suburb to see what usually works there.
+
+Wherever you are, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, fix and service all the main brands, and give you a fixed price before we start.
 
 ## Heat pumps in the Central City and inner suburbs
 
