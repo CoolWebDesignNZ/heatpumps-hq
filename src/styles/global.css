@@ -89,3 +89,19 @@ a.card:hover h3, a.card:focus-visible h3 { color: var(--link); }
 .mid-cta p { margin: 0; font-size: 1.15rem; flex: 1 1 360px; }
 .mid-cta-btns { display: flex; gap: 12px; flex-wrap: wrap; }
 .mid-cta .btn { padding: 12px 22px; font-size: 1rem; }
+/* Band with a photo beside the text (alternating sides). */
+.band-split { display: grid; grid-template-columns: 5fr 7fr; gap: 48px; align-items: start; }
+.band-split.flip { grid-template-columns: 7fr 5fr; }
+.band-split.flip .band-photo { order: 2; }
+.band-photo { margin: 0; position: sticky; top: 110px; }
+.band-photo img, .band-photo .pending { width: 100%; aspect-ratio: 4/3 !important; object-fit: cover; display: block; border-radius: var(--radius); box-shadow: var(--shadow); }
+.areas-split .prose ul { list-style: none; padding: 0; margin: 18px 0 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 0 20px; }
+.areas-split .prose li { margin: 0; padding: 7px 0; border-top: 1px solid rgba(16, 24, 32, .08); font-size: 1rem; display: flex; align-items: center; gap: 10px; }
+.areas-split .prose li::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--brand); flex: none; }
+.areas-split .prose li a { font-weight: 550; }
+@media (max-width: 900px) {
+  .band-split, .band-split.flip { grid-template-columns: 1fr; gap: 24px; }
+  .band-split.flip .band-photo { order: 0; }
+  .band-photo { position: static; }
+  .areas-split .prose ul { grid-template-columns: repeat(2, 1fr); }
+}

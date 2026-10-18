@@ -29,8 +29,9 @@ const fm = mod.frontmatter;
 const sections = (await mod.compiledContent()).split(/(?=<h2[\s>])/).filter((h) => h.trim());
 const gallery = fm.gallery ?? [];
 const slots = new Map();
-if (gallery[0] && sections.length > 2) slots.set(1, gallery[0]);
-if (gallery[1] && sections.length > 3) slots.set(Math.max(2, Math.round(sections.length * 2 / 3)), gallery[1]);
+const bandImages = fm.bandImages ?? [];
+if (!bandImages.length && gallery[0] && sections.length > 2) slots.set(1, gallery[0]);
+if (!bandImages.length && gallery[1] && sections.length > 3) slots.set(Math.max(2, Math.round(sections.length * 2 / 3)), gallery[1]);
 const leftover = gallery.filter((id) => ![...slots.values()].includes(id));
 // Each H2 section of the article becomes its own band, alternating white and
 // light blue. A gallery photo slotted before section i closes the band above it.
@@ -118,15 +119,22 @@ if (fm.faqs?.length) {
   {bands.map((b, i) => (
     <>
     <section class={`band ${i % 2 ? 'band-tint' : ''}`}>
-      <div class="wrap prose">
-        <Fragment set:html={b.html} />
-        {b.photo && <figure class="inline-photo"><Img id={b.photo} /></figure>}
-      </div>
+      {bandImages[i] ? (
+        <div class={`wrap band-split ${i % 2 ? '' : 'flip'} ${fm.bandLayout === 'areas' ? 'areas-split' : ''}`}>
+          <figure class="band-photo"><Img id={bandImages[i]} /></figure>
+          <div class="prose"><Fragment set:html={b.html} /></div>
+        </div>
+      ) : (
+        <div class="wrap prose">
+          <Fragment set:html={b.html} />
+          {b.photo && <figure class="inline-photo"><Img id={b.photo} /></figure>}
+        </div>
+      )}
     </section>
     {i === 1 && bands.length > 3 && !['legal', 'contact'].includes(type) && (
       <section class="mid-cta">
         <div class="wrap mid-cta-in">
-          <p><strong>Get a free fixed-price quote{fm.suburb ? ` in ${fm.suburb}` : ''}.</strong> We come to you, Monday to Friday.</p>
+          <p><strong>Get a free fixed-price quote{fm.suburb ? ` in ${fm.suburb}` : ''}.</strong> Installs, servicing and repairs on all major brands.</p>
           <div class="mid-cta-btns">
             <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
             <a class="btn btn-ghost" href="#quote">Request a quote</a>
