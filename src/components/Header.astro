@@ -55,7 +55,8 @@ const here = Astro.url.pathname;
   .main > ul { display: flex; gap: 28px; list-style: none; margin: 0; padding: 0; }
   .main > ul > li { display: flex; align-items: center; position: relative; }
   .top { color: var(--ink); text-decoration: none; font-weight: 550; }
-  .top:hover, .has-menu:hover .top, .has-menu:focus-within .top { color: var(--brand); }
+  .top:hover, .has-menu:hover .top, .has-menu:focus-within .top { color: var(--link); }
+  .top:hover, .menu a:hover, .mnav a:hover { text-decoration: underline; }
   .call { align-self: center; padding: 12px 22px; white-space: nowrap; }
 
   .menu { display: none; position: absolute; top: 100%; left: -18px; min-width: 250px; list-style: none; margin: 0; padding: 10px 0; background: #fff; border-radius: 10px; box-shadow: 0 14px 34px rgba(16, 24, 32, .14); }
