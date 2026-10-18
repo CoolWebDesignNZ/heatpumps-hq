@@ -27,9 +27,11 @@ related:
 
 ## Heat pump installation in Dallington after the rebuild
 
-Installing a heat pump in Dallington means working with houses that came through the earthquakes in very different ways. The suburb sits inside a loop of the Avon River, and after the earthquakes much of the land closest to the river became residential red zone, so some streets now have fewer homes than they used to. The houses that remain are a mix of original bungalows that have been repaired, homes that were relevelled or repiled, and full rebuilds.
+In Dallington, what happened to a house after the earthquakes tells us more about the heat pump it needs than its age does, and two houses side by side can hold heat very differently.
 
-That history matters for a heat pump, because two houses side by side can perform very differently. A rebuild built to current standards keeps heat well. A repaired older home may have new plasterboard over walls that were never insulated.
+- **Full rebuilds** are built to current standards and keep heat well. A correctly sized high wall unit can heat the living area, with a small second unit for the bedrooms if you want them warm too.
+- **Repaired original bungalows** may have new plasterboard over walls that were never insulated. They lose heat faster, and many have a separate lounge and dining room that one lounge unit won't reach. These homes need more capacity, or a unit in each room you use on a [multi-room system](/multi-room-heat-pump-installation/).
+- **Relevelled or repiled homes** need the outdoor unit mounted so later ground movement can't strain the pipework, covered below.
 
 ## Checking a Dallington house before we size the heat pump
 
@@ -37,14 +39,14 @@ Before we recommend a size, we look at:
 
 - **Ceiling and underfloor insulation.** Repair work sometimes disturbed it and it wasn't always replaced.
 - **Windows.** Some repaired homes kept their original single glazing.
-- **The layout.** Older Dallington bungalows often have a separate lounge and dining room, which a single unit can struggle to reach.
-- **How you use the house.** A lounge used every evening needs something different from a room that is used occasionally.
+- **The layout.** Whether the lounge opens onto the dining room or is closed off decides if one unit can cover both.
+- **How you use the house.** A lounge used every evening needs a unit sized to hold it warm for hours. A room used now and then may not need its own unit if its door can stay open to a heated room.
 
 From that we work out the capacity and where the indoor unit should sit so warm air reaches the whole room.
 
 ## Mounting outdoor units on repaired foundations
 
-Ground near the river moved in the earthquakes, and some homes have been relevelled since. We fix outdoor units to solid framing or set them on a separate pad, and leave a little slack in the pipe run so small movements don't strain the joints. Wherever the unit goes, it needs clear air around it and somewhere for defrost water to drain.
+Dallington sits inside a loop of the Avon River. After the earthquakes much of the land closest to the river became residential red zone, so some streets now have fewer homes, and the ground near the river moved. Some houses have been relevelled since. We fix outdoor units to solid framing or set them on a separate pad, and leave a little slack in the pipe run so small movements don't strain the joints. Wherever the unit goes, it needs clear air around it and somewhere for defrost water to drain.
 
 ## River-side damp in Dallington
 

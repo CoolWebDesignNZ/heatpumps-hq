@@ -29,9 +29,11 @@ related:
 
 ## Heat pump installation around the New Brighton Central shops
 
-The streets around the New Brighton shops have more variety than the rest of the area. Older houses sit beside blocks of flats, units built behind original homes, and newer townhouses. Sections are smaller, buildings are closer together, and a lot of homes share at least one wall.
+Near the New Brighton shops, the first thing that shapes a heat pump install is whether your home stands on its own or shares a wall. Older houses sit beside blocks of flats, units built behind original homes and newer townhouses, and sections are smaller than in the rest of the area.
 
-That changes the questions. In a standalone cottage, the issue is usually heat loss. In a unit or townhouse, it's more often where the outdoor unit can go and how close it will be to someone else's bedroom.
+- **Standalone older houses** lose heat through the roof, walls and windows on every side, so the unit is sized for that heat loss, and the ceiling insulation is worth checking first.
+- **Flats and units** share at least one wall with a neighbour and lose less heat, so a small high wall unit often heats the living area. The harder question is where the outdoor unit can go and how close it ends up to someone else's bedroom.
+- **Newer townhouses** are usually better insulated than the houses around them, but they sit close to their neighbours too, so noise and the pipe run decide the outdoor position.
 
 ## Sizing heat pumps for New Brighton Central flats
 

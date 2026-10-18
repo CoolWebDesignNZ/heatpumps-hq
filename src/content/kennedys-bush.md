@@ -29,7 +29,13 @@ related:
 
 ## Heat pump installation on the Kennedys Bush hillside
 
-Installing a heat pump in Kennedys Bush means working on the western Port Hills above Halswell, where homes spread along winding roads up the slope. Many are modern houses on larger, sloping sections, built to take in views across the plains toward the Southern Alps. Driveways are often steep, and outdoor living tends to be on decks rather than lawn.
+A Kennedys Bush home loses heat faster than a house in a sheltered street, so the heat pump has to be sized for exposure and glass, and the outdoor unit placed on ground that's rarely level.
+
+- **Modern houses built to take in views** across the plains toward the Southern Alps have large windows on the view side. That room's unit is sized from the area and direction of the glass, not the floor area alone.
+- **Two storey and split level homes** with living upstairs and bedrooms below need heat on each level, covered further down.
+- **Larger, sloping sections where outdoor living is on decks rather than lawn** leave the outdoor unit on a bracket, on the deck or under it, each with its own drain path.
+
+Homes here spread along winding roads up the western Port Hills above Halswell, and driveways are often steep. At the quote we look at the access for the install and for later servicing, and price the brackets and pipe runs the site needs.
 
 ## Wind, frost and big windows in Kennedys Bush
 

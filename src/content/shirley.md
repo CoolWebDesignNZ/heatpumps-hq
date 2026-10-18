@@ -18,7 +18,7 @@ faqs:
   - q: Should I leave the heat pump on all day?
     a: In a cold house, running it steadily at a moderate setting is often more comfortable than switching it off and reheating from cold. A timer that brings the house up before you wake or get home works well.
   - q: How long does a heat pump service take?
-    a: It depends on the unit and how much cleaning it needs. We tell you when we book, and the price is agreed before we start.
+    a: The time is set by the unit and how much cleaning it needs. We tell you when we book, and the price is agreed before we start.
   - q: Is a heat pump suitable for a bedroom?
     a: Yes. Small wall units are designed for bedrooms and run quietly at low speed overnight. A warm, dry bedroom is easier to keep free of mould.
 related:
@@ -29,9 +29,13 @@ related:
 
 ## Heat pump installation for damp Shirley homes
 
-Shirley is a flat north-eastern suburb with a large stock of mid-century homes: weatherboard and brick houses, many on concrete or timber floors, with modest insulation unless it has been upgraded. In winter these homes can feel cold and damp at the same time, with condensation streaming down the windows in the morning.
+A Shirley home that feels cold and damp at the same time, with condensation streaming down the windows on winter mornings, needs a heat pump that runs steadily rather than one that blasts heat for an hour in the evening. Steady warmth keeps wall and window surfaces above the point where moisture condenses, and most units have a dry mode for mild, muggy days. Our [dehumidification page](/heat-pump-dehumidification/) explains how it works.
 
-A heat pump deals with both. Steady warmth keeps wall and window surfaces above the point where moisture condenses, and most units have a dry mode for mild, muggy days. Our [dehumidification page](/heat-pump-dehumidification/) explains how it works.
+This flat north-eastern suburb has a large stock of mid-century weatherboard and brick houses, many on concrete or timber floors, with modest insulation unless it has been upgraded. That changes the setup:
+
+- **Little or no ceiling insulation** means the lounge unit needs more capacity. Topping up the insulation lets a smaller unit do the job.
+- **Timber floors** let cold air up from underneath, so underfloor insulation matters as much as the heat pump. Concrete floors feel cold underfoot but don't let draughts through.
+- **Closed-off bedrooms** are where damp usually starts. A small unit set low overnight keeps them dry, as covered below.
 
 ## Before we size a heat pump for your Shirley home
 

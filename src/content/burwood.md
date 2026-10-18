@@ -27,11 +27,12 @@ related:
 
 ## What Burwood homes need from a heat pump installation
 
-What a Burwood home needs from a heat pump installation depends on which of the suburb's two kinds of housing it is. There are newer subdivisions of brick and tile homes with insulated ceilings, double glazing and open plan living, and there are older family houses on bigger sections that have had insulation added in stages. The right heat pump for one is rarely right for the other.
+Burwood has two kinds of housing, and they need different heat pump setups.
 
-In a newer Burwood home, the living area usually holds heat well once it's warm. A correctly sized high wall unit can run gently for most of the day instead of working hard morning and night. Oversizing just adds cost and short cycling, so we work the capacity out from your rooms, glazing and insulation rather than from the floor area alone.
+- **Newer subdivision homes** are brick and tile, with insulated ceilings, double glazing and open plan living. Once warm, the living area holds its heat, so a correctly sized high wall unit can run gently through the day instead of working hard morning and night. Oversizing adds cost and makes the unit short cycle, switching on and off, so we work the capacity out from your rooms, glazing and insulation rather than from the floor area alone.
+- **Older family houses on bigger sections** have usually had insulation added in stages, and heat still escapes faster through single glazing and older walls. The same room needs more capacity, and placement matters more: a unit at the far end of a long lounge leaves the other end cold, so we mount it where its airflow can run the length of the room.
 
-In an older Burwood house, heat escapes faster through single glazing and older walls. The unit has to be sized for that, and placement matters more: a unit at the far end of a long lounge will leave the other end cold.
+In either kind of house, the bedrooms down the hall are what a single lounge unit misses.
 
 ## Heating bedrooms and hallways in Burwood
 

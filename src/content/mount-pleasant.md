@@ -27,15 +27,18 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
 ---
 
-## Sunny slopes and big views on Mount Pleasant
+## Heat pumps for Mount Pleasant homes with big north windows
 
-Mount Pleasant climbs the Port Hills above the estuary, between Ferrymead and Redcliffs. Many houses face north over the water and the city, with large windows to take in the view. Plenty of homes here were rebuilt or extensively repaired after the earthquakes, so you'll find modern, well insulated houses beside older ones that are harder to keep warm.
+On Mount Pleasant the glass, more than the floor area, sets the size of the heat pump. Many houses here climb the Port Hills facing north over the estuary and the city, with large windows to take in the view. On a clear winter day the sun can warm a north-facing living area by lunchtime, then the same glass gives that heat away fast once the sun drops. We size the unit for the evening and early morning, when the house is coldest, not for the sunny afternoon.
 
-A north-facing living area on a clear winter day can feel warm by lunchtime. The problem comes after sunset, when big areas of glass lose heat fast. A heat pump sized for those evening and early morning hours, not the sunny afternoon, keeps the house comfortable.
+- **Rebuilt and extensively repaired homes**, of which there are plenty here since the earthquakes, are usually well insulated, so the windows are the main heat loss. A high wall unit on an inside wall, with the capacity to cover the glass, can heat an open plan living area on its own.
+- **Older houses that haven't been upgraded** lose heat through the ceiling, the floor and single glazing as well as the view windows, and their rooms tend to be closed off from each other. A lounge unit won't warm the bedrooms, so these homes often suit a small unit in each room you use. Insulating the ceiling and underfloor first can let every one of those units be smaller.
+
+At the quote we measure each room, note how much glass faces north and check the insulation before we settle on a size.
 
 ## Heat pumps that cool Mount Pleasant's sunny rooms
 
-The same glass that collects winter sun can make a room uncomfortably hot in summer. A heat pump cools as well as heats, so it earns its place in both seasons. When we size a unit for a room like that, we count the window area and the aspect, not just the floor area. Upstairs bedrooms that face north often benefit from a small unit of their own, and with a [multi-room system](/multi-room-heat-pump-installation/) those bedroom heads can share the living room's outdoor unit.
+The same glass that collects winter sun can make a room uncomfortably hot in summer. A heat pump cools as well as heats, so it earns its place in both seasons. For a room like that the cooling load can be higher than the heating load, so we check both before choosing the unit. Upstairs bedrooms that face north often benefit from a small unit of their own, and with a [multi-room system](/multi-room-heat-pump-installation/) those bedroom heads can share the living room's outdoor unit.
 
 ## Heat pump installation on steep Mount Pleasant sections
 

@@ -27,11 +27,13 @@ related:
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Setting different rooms to different temperatures. }
 ---
 
-## Aidanfield, a planned suburb of family homes
+## Heat pumps for Aidanfield family homes
 
-Aidanfield is a planned residential suburb on the south-west side of Christchurch, between Halswell, Hoon Hay and Wigram. Its streets are lined mostly with single-storey brick and plaster family homes on regular sections, some with the bedrooms in a wing of their own.
+In most Aidanfield homes the lounge is easy to heat and the bedrooms are not. Aidanfield is a planned suburb on the south-west side of Christchurch, between Halswell, Hoon Hay and Wigram, and its single-storey brick and plaster family homes are newer than much of the city, so they hold heat better than an old villa.
 
-Being newer than much of Christchurch, these houses are generally easier to heat than an old villa. The heating questions here are usually about getting warmth into every room, and what to do with a heat pump that came with the house.
+- **The living area.** The lounge, kitchen and dining area usually sit together, and one correctly sized high wall unit keeps that end warm.
+- **The bedrooms.** Some homes put the bedrooms in a wing of their own, down a hallway. With the doors shut, the lounge unit's warmth stays at the living end, so the bedrooms need heat of their own, as set out below.
+- **The heat pump already there.** Many homes came with one, and it may be well into its working life. Before adding units, we check whether it's still worth keeping.
 
 ## The cold bedroom wing in Aidanfield homes
 
@@ -45,7 +47,7 @@ The fix is usually one of these:
 
 ## The original heat pump in an Aidanfield home
 
-If your home came with a heat pump, it may be well into its working life. Signs it needs attention include weaker heat on cold mornings, louder running, water dripping from the indoor unit or a flashing fault light. Sometimes a good clean and service brings it back. Sometimes a [repair](/heat-pump-repair/) is worth doing. And sometimes replacement with a correctly sized modern unit makes more sense. We'll tell you which, and why.
+If your home came with a heat pump, it may be well into its working life. Signs it needs attention include weaker heat on cold mornings, louder running, water dripping from the indoor unit or a flashing fault light. Sometimes a good clean and service brings it back. Sometimes a [repair](/heat-pump-repair/) is worth doing. And sometimes replacement with a correctly sized modern unit makes more sense. After the check we tell you which of the three it is, with the fault we found and how the unit's size compares with the room.
 
 ## Outdoor unit placement on an Aidanfield section
 

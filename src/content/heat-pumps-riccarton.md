@@ -25,11 +25,13 @@ related:
   - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: Why a unit gets loud and how to quieten it. }
 ---
 
-## Riccarton's housing
+## Heat pumps for Riccarton villas, flats and townhouses
 
-Riccarton runs from the edge of Hagley Park out along Riccarton Road. Its older streets have villas and bungalows, many now split into flats. Infill has added townhouses and small blocks of units, and many homes are rented, including to students from the nearby university.
+In Riccarton the right heat pump turns on which kind of home you're heating, and, if it's let, on the Healthy Homes heating standard. Riccarton runs from the edge of Hagley Park out along Riccarton Road, and many homes are rented, including to students from the nearby university.
 
-Each type has its own heating problem. Villas lose heat through high ceilings, sash windows and suspended timber floors. Townhouses are tight and well insulated but often have bedrooms upstairs that a downstairs unit can't reach. Older flats may have only a plug-in heater.
+- **Villas and bungalows** in the older streets lose heat through high ceilings, sash windows and suspended timber floors. They need a unit sized for the room volume, covered in the next section.
+- **Flats split from those villas** may have only a plug-in heater. A single high wall unit in the living room is usually the fix, sized to the capacity the heating standard requires for that room.
+- **Townhouses and small blocks of units** from infill are tight and well insulated, so a downstairs unit heats the ground floor easily. Bedrooms upstairs are out of its reach, so they need a small unit of their own or a multi-room system.
 
 ## Heat pump installation in Riccarton villas and bungalows
 

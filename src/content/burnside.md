@@ -25,9 +25,14 @@ related:
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Heating different parts of the house separately. }
 ---
 
-## Family homes in Burnside
+## Heat pumps for Burnside family homes and extensions
 
-Burnside is an established north-western suburb of family homes, many of them brick and tile or weatherboard houses on decent sized sections, with plenty of larger homes among them. Over the years many have been added to: a new family room, a master suite, a converted garage. That often leaves a house where the original heating covers only part of the floor plan.
+Burnside is an established north-western suburb of family homes, many of them brick and tile or weatherboard houses on decent sized sections, with plenty of larger homes among them. Many have been added to over the years, and the original heating often covers only part of the house.
+
+- **A new family room** is often open plan with a lot of glass. It needs a wall unit sized for that glass, not just the floor area.
+- **A master suite** is newer and better insulated than the rest of the house, so a small wall unit of its own will heat it quietly overnight.
+- **A converted garage** often has a concrete floor and walls that weren't built to be lived in. Unless they were insulated during the conversion, it loses heat fast and needs more capacity than a bedroom of the same size.
+- **The original rooms** in a brick and tile or weatherboard house lose more heat than the additions, so we check the ceiling insulation there first.
 
 ## Heat pump installation in an extended Burnside home
 

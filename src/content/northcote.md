@@ -29,7 +29,13 @@ related:
 
 ## Heat pump installation for smaller Northcote homes
 
-Most of the heat pumps we fit in Northcote are for one main living space in a smaller home, and getting the size right matters more than anything else. Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood, and alongside its older family houses there are plenty of flats, units and small newer homes on subdivided sections.
+In a smaller Northcote home, the heat pump decision that matters most is the size. Most of what we fit here heats one main living space, and a unit that's too big for it costs more to buy and run without making the room any warmer, as the next section explains.
+
+- **Flats and units** on subdivided sections often have only one outside wall. The pipe route to the outdoor unit decides where the indoor unit can go, and a floor console suits a room where the only free wall is under a window.
+- **Small newer homes** are better insulated, so they need less capacity than their floor area suggests.
+- **Older family houses** with a separate lounge need more than one unit if the bedrooms are to be warm.
+
+Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood, and on its shared sites the outdoor units end up close to the neighbours, so we plan their placement around noise.
 
 ## Why a smaller heat pump often suits Northcote
 
@@ -43,7 +49,7 @@ Outdoor units on shared sites go on wall brackets or small pads, spaced from eac
 
 ## Older Northcote family houses
 
-Northcote's older houses are a different job. A three bedroom home with a separate lounge usually needs more than one unit to heat the bedrooms. We'll quote a single living area unit and a multi-room option side by side, so you can see the difference.
+In Northcote's older houses, the bedrooms are the issue. A three bedroom home with a separate lounge usually needs more than one unit to heat the bedrooms. We'll quote a single living area unit and a multi-room option side by side, so you can see the difference.
 
 ## Heat pump installs, service and repairs in Northcote
 

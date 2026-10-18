@@ -20,7 +20,7 @@ faqs:
   - q: Does a heat pump work well on very frosty mornings?
     a: A correctly sized unit keeps heating, with short defrost pauses. Raised feet and good drainage under the outdoor unit help it cope. Our <a href="/cold-climate-heat-pumps/">cold climate guide</a> has more.
   - q: Is the shady side of the house a good spot for the outdoor unit?
-    a: It can be. Shade helps a little when the unit is cooling in summer, but in winter the spot still needs open airflow and somewhere for defrost water to go. We weigh both when we choose the position.
+    a: It can be. Shade helps a little when the unit is cooling in summer, but in winter the spot still needs open airflow and somewhere for defrost water to go. We pick a shaded spot only where it also has that airflow and drainage.
 related:
   - { label: Burnside, href: /burnside/, text: Heat pumps for Burnside family homes. }
   - { label: McLeans Island, href: /mcleans-island/, text: Installation and servicing on McLeans Island. }
@@ -29,7 +29,12 @@ related:
 
 ## Heat pump installation in Harewood homes
 
-A heat pump installation in Harewood can be in a suburban family home on a standard section or on a semi-rural property: larger sections, lifestyle blocks and open paddocks. The suburb sits on Christchurch's north-west fringe, beside the airport, and the land is flat and open, which shapes both its winters and its summers.
+A Harewood heat pump has to do two jobs well: hold the house warm through hard frosts and cool it on hot nor'west days. The suburb sits on Christchurch's north-west fringe, beside the airport, on flat, open land with little shelter, so it gets both extremes. That makes the cooling side of a split system as useful as the heating side, and it means sizing for the coldest mornings rather than an average day.
+
+- **Suburban family homes on standard sections** usually have a lounge and a hall of bedrooms. A high wall unit sized to the lounge does the main work, and a small unit in each bedroom that stays cold covers the rest. North and west facing rooms are the ones to cool in summer, so they get first call on a unit.
+- **Semi-rural properties, lifestyle blocks and homes beside open paddocks** tend to be larger, with more living space and longer distances between rooms. They often suit a [multi-room system](/multi-room-heat-pump-installation/) or ducted heating, and the outdoor unit has to stand up to frost, wind and dust.
+
+At the quote we measure the rooms, check which way the windows face, look at the insulation and pick an outdoor spot with shelter, airflow and drainage.
 
 ## Harewood winters: open ground, hard frost
 
@@ -47,7 +52,7 @@ Canterbury's hot, dry nor'west wind can make summer days uncomfortable, especial
 
 ## Suburban and semi-rural Harewood
 
-In Harewood's suburban streets the work is familiar: a lounge unit, bedroom heating added as needed, and outdoor units placed thoughtfully near boundaries. On larger properties there's more room for the outdoor unit, but pipe runs to a bigger house can be longer, so we plan the route to keep it efficient.
+On Harewood's suburban streets the house next door is close, so we keep the outdoor unit away from the neighbour's bedroom windows and off the boundary fence where it would bounce sound back. On larger properties there's more room for the outdoor unit, but the pipe run to a bigger house can be longer. A long run loses some output, so we put the outdoor unit as close as practical to the rooms it heats.
 
 ## Heat pump service in a dusty Harewood summer
 

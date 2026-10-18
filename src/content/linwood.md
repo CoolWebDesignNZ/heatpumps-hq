@@ -14,7 +14,7 @@ faqHeading: "Questions about heat pumps in Linwood"
 relatedHeading: "More on heat pumps near Linwood"
 faqs:
   - q: Can a heat pump replace my log burner?
-    a: For a lot of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot, so the heat pump needs to be sized for the room and placed where its air reaches the whole space. We'll check that on site.
+    a: For a lot of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot, so the heat pump needs to be sized for the room and placed where its air reaches the whole space. We measure the room and check the wall the unit would go on.
   - q: How do I get heat into the bedrooms of a Linwood state house?
     a: The heat pump in the lounge won't reach rooms along a hallway with the doors shut. A small wall unit in the main bedroom, or a <a href="/multi-room-heat-pump-installation/">multi-room system</a>, is the dependable answer.
   - q: My house was repaired after the earthquakes. Does that change anything?
@@ -29,9 +29,15 @@ related:
 
 ## Heat pump installation in Linwood houses
 
-Heat pump installation in Linwood means working on houses from several eras, across a large, flat suburb in the east of the city: older timber villas toward the city end, plenty of solid weatherboard and brick former state houses, mid-century bungalows, and blocks of units. Since the earthquakes, a fair amount of it has been repaired or rebuilt.
+Most Linwood homes share one layout, and that layout decides the heat pump: the lounge and kitchen at one end, bedrooms along a hallway, and a door on every room. A unit in the lounge heats the lounge and kitchen well, but with the doors shut its warm air won't travel down the hall. If you want warm bedrooms, plan for a small wall unit in the main bedroom or a [multi-room system](/multi-room-heat-pump-installation/) from the start.
 
-A lot of these homes share one layout trait. The lounge and kitchen are at one end, bedrooms are along a hallway, and every room has a door.
+What changes from house to house across this large, flat suburb in the east of the city is the construction:
+
+- **Older timber villas toward the city end** have higher ceilings and more draughts, so the lounge unit needs more capacity than the floor area alone suggests.
+- **Solid weatherboard and brick former state houses** and **mid-century bungalows** have compact rooms, so a modest unit per room is enough once the ceiling and underfloor are insulated.
+- **Blocks of units** are small inside and simple to heat with one wall unit. The work is in fitting the outdoor unit along a shared wall.
+
+Since the earthquakes, a fair amount of Linwood has been repaired or rebuilt. That mostly affects the pipe route, as the questions below explain, not the choice of system.
 
 ## Swapping out an older heater in Linwood
 
@@ -41,7 +47,7 @@ If you're moving from a log burner, an open fire or a set of plug-in heaters to 
 - **Clear of curtains and high cupboards** that would block the airflow.
 - **Not above the couch**, where the airflow lands on people's heads.
 
-Taking a burner out also leaves a flue and hearth to deal with. That's separate building work, and we can talk through the order of jobs.
+Taking a burner out also leaves a flue and hearth to deal with. That's separate building work, so plan when it happens before the heat pump goes in, in case the indoor unit or its pipes would use the same wall.
 
 ## Heat pumps for Linwood's brick, weatherboard and unit homes
 

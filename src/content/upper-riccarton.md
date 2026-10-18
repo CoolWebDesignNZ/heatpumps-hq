@@ -29,9 +29,13 @@ related:
 
 ## Heat pump installation in Upper Riccarton rentals and units
 
-Heat pump installation in Upper Riccarton means fitting rentals, small units and townhouses as well as owner-occupied homes, because the suburb sits between Riccarton and the university. Older houses on full sections have been split into flats or replaced with two or three townhouses, and student rentals share the same streets as family homes.
+In Upper Riccarton the heat pump you need depends on what kind of dwelling you have, and whether it's a rental that has to meet the heating standard. Older houses on full sections here have been split into flats or replaced with two or three townhouses, and student rentals share the same streets as family homes, so three quite different setups turn up in one block.
 
-No single setup suits all three. A one-bedroom unit needs a compact heat pump in the living area. A new townhouse with an upstairs bedroom may need a second unit upstairs, because warm air from the ground floor doesn't reliably reach it. An older flat may need its insulation looked at before any heat pump will keep it warm.
+- **Small units and one-bedroom flats** need one compact high wall unit in the living area, sized to that room's volume and glass. A bedroom behind a closed door won't get much of its heat.
+- **Infill townhouses over two levels** need heat upstairs as well. Warm air from a ground floor unit doesn't reliably climb a narrow stairwell, so the bedrooms get a second small unit or a head on a multi-room system.
+- **Older flats in converted houses** can lose more heat through the ceiling and draughty doors and windows than a heat pump can easily replace, so we check those first, covered below.
+
+Because the suburb sits between Riccarton and the university, many of these homes are rentals. For a rental we size the living room unit to the capacity the standard requires, covered next.
 
 ## Meeting the heating standard in an Upper Riccarton rental
 
@@ -49,7 +53,7 @@ Some older Upper Riccarton flats were heated with a plug-in heater and little el
 
 ## Close neighbours and outdoor units in Upper Riccarton
 
-Infill sections leave little space between homes, so outdoor unit placement takes some thought. The Christchurch District Plan limits are measured at the neighbouring site, and the night limit is the one that matters on cold mornings. We keep units off shared walls, away from neighbouring bedroom windows and out of tight corners where sound bounces. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) has the figures.
+Infill sections leave little space between homes, so the outdoor unit is often only a few steps from the neighbour's wall. The Christchurch District Plan limits are measured at the neighbouring site, and the night limit is the one that matters on cold mornings. We keep units off shared walls, away from neighbouring bedroom windows and out of tight corners where sound bounces. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) has the figures.
 
 ## Heat pump services in Upper Riccarton
 

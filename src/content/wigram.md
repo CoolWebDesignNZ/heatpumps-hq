@@ -27,9 +27,13 @@ related:
 
 ## Heat pump installation in new Wigram subdivisions
 
-Much of Wigram has been built on the old airfield land, so the typical home here is recent: insulated walls and ceilings, double glazing, an open plan kitchen, dining and living area, and bedrooms grouped together or upstairs. Some houses came with a heat pump already fitted by the builder. Others have none, or one unit that struggles to reach the bedrooms.
+In a new Wigram home a heat pump has an easy job in the living area and a hard one in the bedrooms. Much of Wigram has been built on the old airfield land, so the typical home is recent: insulated walls and ceilings and double glazing keep heat loss low, and a modest unit can heat the open plan kitchen, dining and living area. The bedrooms are grouped together or upstairs behind closed doors, and warm air from a wall unit only reaches the space it can flow into. A bigger living area unit won't fix cold bedrooms.
 
-The good news is that a well built home needs less heating capacity. The common mistake is putting one large unit in the living area and expecting it to warm rooms behind closed doors. It won't. Heat from a wall unit stays where the air can carry it.
+- **Homes with no heat pump yet** can be planned as a whole: the living area unit sized to the room's volume and glass, and the bedrooms covered at the same time by a second unit, a multi-room system or ducting.
+- **Homes with one unit that struggles to reach the bedrooms** usually need a small second unit in the bedroom wing, not a replacement.
+- **Homes with a heat pump fitted by the builder** may have a unit chosen as part of a package, covered further down.
+
+At the quote we look at the floor plan, where the doors close off rooms, which way the living area glass faces and where the outdoor unit can go on your section.
 
 ## Choosing a heat pump layout for a Wigram home
 

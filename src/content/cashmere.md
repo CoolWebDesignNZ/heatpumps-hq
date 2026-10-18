@@ -29,9 +29,10 @@ related:
 
 ## Heat pump installation for two kinds of Cashmere home
 
-A heat pump installation in Cashmere is planned one of two ways, depending on whether the home is on the flat or on the hill. Lower Cashmere is on the flat, with established family homes on level sections near the river. Higher up, houses climb the north face of the Port Hills, with driveways that wind, sections cut into the slope and decks built for the view over the city and plains.
+In Cashmere, whether your home is on the flat or on the hill decides most of the heat pump plan.
 
-The flat homes are straightforward. The hill homes are where planning pays off.
+- **On the flat**, lower Cashmere has established family homes on level sections near the river. The outdoor unit can sit on a pad beside the house, so the decisions are indoors: a high wall unit sized for the living area, and bedroom units or a [multi-room system](/multi-room-heat-pump-installation/) if you want the bedrooms warm. We check the ceiling and underfloor insulation and the windows to set the capacity.
+- **On the hill**, houses climb the north face of the Port Hills, with winding driveways, sections cut into the slope and decks built for the view over the city and plains. Big windows lose heat after dark, rooms sit on different levels, and level ground for the outdoor unit is scarce. Each of those is covered below.
 
 ## Sun, views and glass in Cashmere
 

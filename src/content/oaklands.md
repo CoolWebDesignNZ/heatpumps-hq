@@ -25,11 +25,11 @@ related:
   - { label: Multi-room systems, href: /multi-room-heat-pump-installation/, text: Several rooms from one outdoor unit. }
 ---
 
-## Oaklands homes
+## Heat pumps for Oaklands brick homes
 
-Oaklands sits between Halswell and Hoon Hay, and its streets are mostly single storey brick and tile homes from the 1960s to the 1980s, many on cul-de-sacs with established gardens. The layout is familiar: a lounge at the front, kitchen and dining at the back, and bedrooms along a hall.
+In most Oaklands homes the lounge is already warm and the bedrooms aren't. Oaklands sits between Halswell and Hoon Hay, and its streets are mostly single storey brick and tile homes from the 1960s to the 1980s. Plenty of them have a heat pump in the front lounge as the only heater fitted, and with the kitchen and dining at the back and the bedrooms along a hall, its warmth never reaches the far end. Cold bedrooms collect condensation, and mould grows on the window frames.
 
-Plenty of these homes already have a heat pump in the lounge. The trouble is that it was often the only heater fitted, and the bedrooms at the far end of the hall stay cold and can grow mould on the window frames.
+The fix is heat in the bedrooms themselves, and three things decide which kind: how much ceiling insulation there is, how many bedrooms you want warm, and whether the lounge unit is worth keeping. On cul-de-sac sections with established gardens, we also keep the outdoor units clear of planting so air moves freely around them.
 
 ## Heating the bedroom wing of an Oaklands house
 
@@ -43,7 +43,7 @@ We look at the ceiling insulation and the windows before recommending any of the
 
 ## Repair or replace an old Oaklands lounge heat pump
 
-If your lounge heat pump is noisy, slow to warm up or losing output, it may be due for a service or a repair rather than a replacement. We'll check it and tell you honestly. Where replacement makes sense, we'll size the new unit from the room rather than copying the old one.
+If your lounge heat pump is noisy, slow to warm up or losing output, it may be due for a service or a repair rather than a replacement. We check its output against the size of the lounge and tell you which of the three is the answer. Where replacement makes sense, we'll size the new unit from the room rather than copying the old one.
 
 ## A quiet bedroom unit for Oaklands homes
 

@@ -25,11 +25,13 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heating a large home through ceiling vents. }
 ---
 
-## McLeans Island rural homes on the city's fringe
+## Heat pumps for McLeans Island rural homes
 
-McLeans Island is mostly open, rural land towards the Waimakariri River, and the homes here sit on lifestyle blocks and farm properties rather than suburban sections. Houses tend to be detached, often large, and fully exposed to the weather crossing the plains.
+On a McLeans Island property, three things decide the heat pump: the size and layout of the house, its exposure to wind and frost, and whether it has to take over from a log burner. McLeans Island is mostly open, rural land towards the Waimakariri River, and homes sit on lifestyle blocks and farm properties rather than suburban sections.
 
-That changes the job. On a rural block, noise at the boundary is rarely the deciding factor because neighbours are far away. Shelter, frost and the size of the house are what matter.
+- **Bigger houses.** Detached homes here are often large, with rooms spread out. One wall unit can't reach them all, so the choice is usually ducted heating or several wall units, as set out below.
+- **Exposure.** Houses are fully exposed to the weather crossing the plains. Wind pulls heat out through walls and windows, and frost lowers a heat pump's output, so both shape the sizing and the outdoor unit, covered below.
+- **Placement.** Noise at the boundary is rarely the deciding factor because neighbours are far away. Shelter from the nor'west, frost and stock decide where the outdoor unit goes.
 
 ## Heat pump installation for a bigger McLeans Island house
 

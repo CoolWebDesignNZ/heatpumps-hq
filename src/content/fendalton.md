@@ -14,7 +14,7 @@ faqHeading: Questions about heat pumps in Fendalton
 relatedHeading: Heat pumps near Fendalton
 faqs:
   - q: What heat pump suits a large Fendalton home?
-    a: Often a ducted system, which heats every room through ceiling vents with nothing on the walls, or a multi-room system with discreet indoor units. The right choice depends on ceiling space, room sizes and which rooms you use most.
+    a: Often a ducted system, which heats every room through ceiling vents with nothing on the walls, or a multi-room system with discreet indoor units. Ducting needs enough roof space for the indoor unit and duct runs; where that isn't there, multi-room is the usual answer.
   - q: Can you keep the outdoor units out of sight?
     a: Usually. Side and rear walls, behind planting with enough space for airflow, or a low screen all work. The unit must stay accessible for servicing and quiet at the neighbour's boundary, which our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers.
   - q: Do big trees make a difference to heating?
@@ -27,9 +27,15 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating with only vents on show. }
 ---
 
-## Fendalton's established homes
+## Heat pumps for Fendalton's larger homes
 
-Fendalton is one of Christchurch's older, leafier suburbs, west and north-west of the central city. Its streets hold large homes on wide sections: two storey character houses, substantial villas, generous mid-century homes and newer rebuilds, many surrounded by mature trees and long-established gardens. These houses have big rooms, high ceilings and lots of glass, and the heating has to match.
+A Fendalton home usually needs its heating planned room by room, because the rooms are big, the ceilings are high, there's a lot of glass, and part of the house may sit in tree shade. Fendalton is one of Christchurch's older, leafier suburbs, west and north-west of the central city, with large homes on wide sections and mature trees in long-established gardens.
+
+- **Two storey character houses and substantial villas** have high ceilings, so the room volume, not the floor area, sets the unit size. A floor console puts warm air out low where people sit, and ducting suits a house where you'd rather have nothing on the walls.
+- **Generous mid-century homes** often have big areas of glass, which lose heat fast after dark. We size for the window area as well as the room.
+- **Newer rebuilds** are well insulated, so each living zone can run on one correctly sized unit.
+
+Single wall units rarely cover a home this size, so most Fendalton jobs are multi-room or ducted, as set out below.
 
 ## Heat pump installation for big Fendalton rooms
 

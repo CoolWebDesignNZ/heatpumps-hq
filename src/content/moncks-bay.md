@@ -16,7 +16,7 @@ faqs:
   - q: How close to the water can an outdoor unit be?
     a: There's no fixed distance, but the closer it is to spray and wind off the estuary, the faster salt builds up. We place it on the most sheltered side we can and plan for more regular cleaning.
   - q: Our section is cut into the hill. Where does the outdoor unit go?
-    a: Often on a wall bracket or on a narrow strip beside the house, with enough clearance behind and in front for air to flow. We check the space at the quote visit.
+    a: Often on a wall bracket or on a narrow strip beside the house, with enough clearance behind and in front for air to flow. We measure the gap to the retaining wall at the quote visit and check it against the model's clearances.
   - q: How do I keep a heat pump near the sea in good condition?
     a: Clean the indoor filters every few weeks in winter, hose the outdoor coil gently now and then, and book a yearly service. Our <a href="/maintenance-servicing/">maintenance and servicing page</a> explains what's included.
   - q: Do you repair heat pumps in Moncks Bay?
@@ -27,11 +27,13 @@ related:
   - { label: Maintenance and servicing, href: /maintenance-servicing/, text: Keeping a coastal unit in good order. }
 ---
 
-## Two kinds of section in Moncks Bay
+## Heat pumps for Moncks Bay homes on the water and the slope
 
-Moncks Bay is a small stretch of the estuary edge between Redcliffs and the foot of Mount Pleasant. Some houses face the water directly across the coast road. Others are set into the slope behind, on sections cut into the hill with retaining walls and steps up to the front door.
+In Moncks Bay the heat pump is decided by which side of the coast road the house sits on, and by salt in the air. This small stretch of the estuary edge between Redcliffs and the foot of Mount Pleasant is only metres from the water at every address.
 
-Both have something in common: the estuary is only metres away, and the air that reaches the house carries salt.
+- **Houses facing the water** across the coast road take the wind straight off the estuary, and a house in the wind loses heat faster. We size for a windy winter evening, and the outdoor unit goes on the sheltered side, as the next section explains.
+- **Houses set into the slope** sit on sections cut into the hill, with retaining walls and steps up to the front door. Rooms backing onto a retaining wall get little sun and can feel damp, so they often need their own small unit, and dry mode helps on mild, damp days.
+- **Rebuilt and strengthened homes**, of which there are many since the earthquakes, usually hold heat well. One correctly sized high wall unit in the main living area may be all a modern rebuild needs, with a small unit added for bedrooms at the cold end of the house.
 
 ## Heat pump installation in Moncks Bay waterfront homes
 
@@ -42,8 +44,6 @@ The coil fins on the outdoor unit are thin aluminium, and salt deposits shorten 
 ## Moncks Bay homes cut into the slope
 
 Behind the road, space is the issue. A section cut into the hill may have only a narrow gap between the house and a retaining wall. The outdoor unit needs clear space around it to breathe, so a wall bracket higher up is sometimes the better choice. The condensate drain from the indoor unit needs a steady fall, which can mean taking it to a downpipe or drain rather than letting it run onto the path.
-
-Many of these homes were rebuilt or strengthened after the earthquakes, and the newer ones usually hold heat well. One correctly sized unit in the main living area may be all a modern rebuild needs, with a small unit added for the bedrooms if they're at the cold end of the house.
 
 ## Cleaning heat pump filters in Moncks Bay
 

@@ -27,9 +27,13 @@ related:
   - { label: Heat pump servicing, href: /heat-pump-servicing/, text: What a yearly service checks. }
 ---
 
-## Sumner's mix of homes
+## Choosing heat pumps for Sumner homes
 
-Sumner sits at the end of the coast road, where the estuary meets the open sea. On the flat valley floor behind the beach you'll find older beach houses, villas, bungalows and newer homes built on small sections. Houses also climb the hills on either side, many of them rebuilt after the earthquakes. The sea is close to almost every address, and so is the wind that comes off it.
+In Sumner the heat pump comes down to how well the house holds its warmth, and where the outdoor unit can sit out of the wind off the sea. Sumner is at the end of the coast road, where the estuary meets the open sea, and the sea is close to almost every address.
+
+- **Older beach houses, villas and bungalows** on the flat valley floor behind the beach lose heat through timber floors, ceilings and single glazing, and many feel damp in winter. They need more capacity than their floor area suggests, and dry mode earns its keep on muggy days. The section on damp beach houses below goes through it.
+- **Newer homes on small sections** hold heat well, so one high wall unit can usually heat an open plan living area. The harder part is outside: the outdoor unit has to fit a narrow side yard with clear air around it, away from the house next door.
+- **Homes on the hills either side**, many rebuilt after the earthquakes, are mostly well insulated. The work there is mounting the outdoor unit on a bracket or deck and running the pipes up or down the levels.
 
 ## Heat pump installation close to Sumner beach
 
@@ -41,7 +45,7 @@ A light rinse of the outdoor coil with a hose every few months helps a coastal u
 
 Some older Sumner houses started life as beach homes, with timber floors, single glazing and little insulation. They can feel damp in winter. A heat pump that keeps the main rooms at a steady temperature cuts condensation on the windows, and on mild, muggy days dry mode pulls water out of the air without heating the room much. A floor console unit under a window often suits an older house with high ceilings or limited wall space.
 
-Ceiling and underfloor insulation helps any heating hold its warmth in a house like this, so it's worth looking at alongside the heat pump.
+We check the ceiling and underfloor insulation at the quote, because insulating first can mean a smaller unit that costs less to run.
 
 ## Hill homes above Sumner beach
 

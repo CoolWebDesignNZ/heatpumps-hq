@@ -25,17 +25,19 @@ related:
   - { label: Single-room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for the main living room. }
 ---
 
-## Aranui's housing
+## Heat pumps for Aranui state houses and newer homes
 
-Aranui is an east Christchurch suburb with a large share of 1950s and 60s state housing, alongside privately owned homes of the same era and newer housing that has replaced older stock in recent years. There are also many rental homes, including public housing.
+In Aranui the heat pump you need turns on the age of the house and, if it's let, on the Healthy Homes heating standard. Aranui is an east Christchurch suburb with a large share of 1950s and 60s state housing, many rental homes including public housing, and newer housing that has replaced older stock in recent years.
 
-The older houses are mostly single-storey, on piles, with weatherboard or brick cladding and modest insulation unless they've been upgraded. The newer homes and townhouses are built to current standards and need much less heating capacity for the same floor area.
+- **State houses and private homes from the 1950s and 60s** are mostly single-storey, on piles, with weatherboard or brick cladding and modest insulation unless they've been upgraded. Heat goes out through the floor and ceiling, so they need more capacity for the floor area, and insulating first lets a smaller unit do the job. The lounge layout is covered below.
+- **Newer homes and townhouses** are built to current standards and need much less heating capacity for the same floor area. One high wall unit usually heats an open plan living area.
+- **Rentals**, old or new, must meet a minimum heating capacity in the main living room, set out in the next section.
 
 ## Heat pumps for Aranui rentals
 
 If you let a home in Aranui, the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) applies. It requires one or more fixed heaters that can directly heat the main living room, at least 1.5 kW, and heat pumps must have a thermostat. Open fires and unflued combustion heaters don't count.
 
-The required capacity depends on the room. Tenancy Services publishes a heating assessment tool on the same page. Once you know the figure, we quote a heat pump that meets it. In an older uninsulated lounge, choosing a unit with some capacity above the minimum keeps the room comfortable on frosty mornings.
+The required capacity is calculated for each living room. Tenancy Services publishes a heating assessment tool on the same page. Once you know the figure, we quote a heat pump that meets it. In an older uninsulated lounge, choosing a unit with some capacity above the minimum keeps the room comfortable on frosty mornings.
 
 ## Heat pump installation in older Aranui state houses
 

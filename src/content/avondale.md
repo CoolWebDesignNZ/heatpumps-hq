@@ -25,9 +25,15 @@ related:
   - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which system suits your house. }
 ---
 
-## Avondale homes today
+## Heat pumps for Avondale homes on piles
 
-Avondale lies along the Avon River in the east. Land close to the river became residential red zone after the earthquakes, so some streets now have open land where houses used to be. Away from the river, the suburb is mostly mid-century homes on piles, many repaired after the quakes and some replaced with new houses.
+Avondale lies along the Avon River in the east, and away from the river most of the suburb is mid-century homes on piles, many repaired after the earthquakes and some replaced with new houses. How much of the house has been upgraded is what decides the heat pump.
+
+- **A house on piles that hasn't been upgraded** loses heat through an uninsulated floor and single glazed windows, and its rooms are usually separate. It needs a unit sized for that heat loss in the lounge and its own heat in the bedrooms, covered below.
+- **A house partway through a renovation** is the easiest time to plan a ducted or multi-room system, because the walls and ceilings are open.
+- **A new house built since the earthquakes** needs far less capacity, and one modest unit can heat the living area.
+
+Land close to the river became residential red zone, so some streets now have open land where houses used to be. A house facing that open ground takes more wind on that side, which affects where we put the outdoor unit and how much heat the rooms on that side lose.
 
 ## Plan heat pump installation into an Avondale renovation
 
@@ -41,7 +47,7 @@ In an Avondale house that hasn't been renovated, the lounge is often a separate 
 
 ## Rebuilt Avondale homes
 
-A new Avondale house built since the earthquakes is a different job. With modern insulation and double glazing, an open plan living area can often be heated by one modest wall unit, and the bedrooms stay warmer on their own. If the house has good ceiling space, ducting can be added without walls or ceilings being opened up much.
+A new Avondale house built since the earthquakes loses far less heat. With modern insulation and double glazing, an open plan living area can often be heated by one modest wall unit, and the bedrooms stay warmer on their own. If the house has good ceiling space, ducting can be added without walls or ceilings being opened up much.
 
 ## Outdoor units near the Avon River
 

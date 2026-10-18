@@ -14,7 +14,7 @@ faqHeading: "Questions about heat pumps in Casebrook"
 relatedHeading: "More on heat pumps near Casebrook"
 faqs:
   - q: My Casebrook heat pump is old. Should I repair or replace it?
-    a: It depends on the fault and the unit's condition. We diagnose it first and tell you what the repair involves. If a replacement makes more sense, we quote that too, so you can compare.
+    a: The fault and the unit's condition decide it. We diagnose it first and tell you what the repair involves. If a replacement makes more sense, we quote that too, so you can compare.
   - q: Can a new heat pump use the old one's pipes?
     a: Sometimes, if the pipework is the right size, in good condition and suits the new unit's refrigerant. Often it's better to run new pipe. We check on site and include the answer in the quote.
   - q: How many heat pumps does a three bedroom Casebrook home need?
@@ -27,11 +27,19 @@ related:
 
 ## Heat pump installation for Casebrook's family homes
 
-Most heat pump installation in Casebrook is in family homes, because the suburb on Christchurch's north-west side is made up largely of single storey houses from the later part of last century, many of them brick and tile on standard suburban sections. It's a suburb where a lot of houses already have a heat pump, and where many of those first units are now getting old.
+In Casebrook the first heat pump question is often what to do about an old one. A lot of houses here already have a heat pump, and many of those first units are now getting old.
+
+The houses are mostly single storey family homes from the later part of last century, many of them brick and tile on standard suburban sections, on Christchurch's north-west side. That gives three common situations:
+
+- **The old unit still runs but has a fault or feels weak.** That isn't always the end of it, and a repair may be the better spend.
+- **The old unit is being replaced.** The new one should be sized for the house as it is now, because topped-up ceiling insulation or new windows change what a room needs.
+- **There's no heat pump yet, or only one.** The usual start is a wall unit in the long living area, with bedroom units or a ducted system for the rooms down the hallway.
+
+At the quote we check the old unit and its pipework, measure the rooms and look at the insulation, then price the repair and the replacement so you can compare them.
 
 ## Heat pump repair or replacement in Casebrook
 
-Whether to repair or replace an older heat pump in Casebrook depends on what's wrong with it. A unit that rattles, takes a long time to warm the room, or shows a fault light isn't always finished, so we find the cause first and give you a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
+Whether to repair or replace an older heat pump in Casebrook comes down to the fault, the unit's condition and whether it was the right size to begin with. A unit that rattles, takes a long time to warm the room, or shows a fault light isn't always finished, so we find the cause first and give you a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
 
 When a replacement is the better option, it's a chance to correct the size. Many homes have had ceiling insulation topped up or windows replaced since the first heat pump went in, and that changes the capacity the room needs. We size the new unit from the room as it is now, the insulation and the windows, not from the label on the old one.
 

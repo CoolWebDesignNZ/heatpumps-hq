@@ -29,9 +29,13 @@ related:
 
 ## Heat pump installation for Phillipstown housing
 
-Phillipstown housing is a mix of small older cottages, blocks of single-storey units and flats, and newer townhouses on redeveloped sites, and we plan each heat pump installation around which one you have. The suburb sits east of the Central City, between the city and Linwood, with flat streets and mostly modest sections.
+Most Phillipstown homes are modest in size, so the heat pump decision is about choosing one unit well rather than adding several. Get its capacity and position right and one unit in the living room carries most of the heating.
 
-In a modest home like these, one well chosen unit in the living room can do a lot of the work. Getting its size and position right matters more than adding extra units.
+- **Small older cottages** lose heat through the ceiling, floor and windows, so the living room unit needs capacity for that loss. We check the insulation before we settle on a size.
+- **Blocks of single-storey units and flats** have shared walls that help keep heat in, so they need less capacity per room. The section on units below covers where the indoor unit goes.
+- **Newer townhouses on redeveloped sites** are better sealed and need the least capacity of the three, though bedrooms on a second level may want a small unit of their own.
+
+The suburb sits east of the Central City, between the city and Linwood, on flat streets with mostly modest sections. We aim to put the outdoor unit on a wall near the living room, which keeps the pipe run short. If the home is a rental, the healthy homes standard sets the minimum heating, explained next.
 
 ## Heat pumps for a Phillipstown rental
 

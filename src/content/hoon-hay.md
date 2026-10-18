@@ -14,11 +14,11 @@ faqHeading: "Hoon Hay heat pump questions"
 relatedHeading: "Heat pumps near Hoon Hay"
 faqs:
   - q: What's the best way to heat a three or four bedroom Hoon Hay house?
-    a: There isn't one answer for every house. Plenty of homes are well served by a larger living area unit and smaller bedroom units where they're needed. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> runs several indoor units from one outdoor unit, and ducting suits homes with good ceiling space.
+    a: In most, a larger unit for the living area and smaller units in the bedrooms people use in the evening. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> runs several indoor units from one outdoor unit, and ducting suits homes with good ceiling space.
   - q: Why does my outdoor unit stop and steam on frosty mornings?
     a: It's defrosting. Ice forms on the outdoor coil in cold, damp air, and the unit reverses briefly to melt it. A short pause with some steam is normal. Ice that keeps building isn't.
   - q: Should I leave the heat pump on overnight in winter?
-    a: Many people run it on a lower setting overnight or set a timer to start before they get up, so the house isn't cold at breakfast. Which works better depends on your insulation and routine. We can show you the timer on your controller.
+    a: In a well insulated house, a low overnight setting holds the warmth at little cost. In a house that loses heat fast, much of that overnight heat is wasted, so a timer that starts the unit before you get up makes more sense. We can show you the timer on your controller.
 related:
   - { label: Westmorland, href: /westmorland/, text: Heat pumps for the hillside homes above Hoon Hay. }
   - { label: Halswell, href: /halswell/, text: Installs and servicing in Halswell to the south-west. }
@@ -27,9 +27,11 @@ related:
 
 ## Heat pump installation for Hoon Hay family homes
 
-Most Hoon Hay homes are family homes, where several people are using different rooms at different times, so a heat pump installation that heats one lounge is rarely enough. Much of the suburb is established family housing: brick and tile homes, weatherboard houses and some former state houses on decent sections, with newer subdivisions on the fringes.
+In a Hoon Hay family home, several people use different rooms at different times, so a heat pump installation that only heats the lounge is rarely enough. The kind of house tells us where to start.
 
-Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Port Hills rising beyond its southern streets.
+- **Brick and tile homes, weatherboard houses and former state houses** make up the established streets, many on decent sections. Where the lounge is closed off from a hallway of bedrooms, its heat stays in the lounge, so these homes usually need a living area unit plus a quiet unit in each bedroom someone uses in the evening. We check the ceiling and underfloor insulation first, because it changes the size of every unit.
+- **Newer homes in the subdivisions on the fringes** are better insulated. Where the living area is open plan, one larger unit can cover it, and a ducted system is worth comparing if the ceiling space allows.
+- **Rooms on the shady south side** stay colder through the day and need more capacity than a sunny room of the same size.
 
 ## Planning heat pumps for a whole Hoon Hay household
 
@@ -44,7 +46,7 @@ The answers decide the setup. Often that means one larger unit for the main livi
 
 ## Frost on the Hoon Hay flat
 
-Open, flat ground cools fast on clear, still nights, and land near the hills can collect cold air that settles off the slopes. Hard frosts are part of a Hoon Hay winter. A few details make the difference:
+Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Port Hills rising beyond its southern streets. Open, flat ground cools fast on clear, still nights, and the streets near the hills can collect cold air that settles off the slopes. Hard frosts are part of a Hoon Hay winter. A few details make the difference:
 
 - **Raise the outdoor unit** on feet or a bracket so defrost water drains away rather than freezing around the base.
 - **Keep the drain path clear** of garden beds and paving that could ice over and create a slip hazard.

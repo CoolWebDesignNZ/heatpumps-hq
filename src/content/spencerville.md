@@ -27,17 +27,23 @@ related:
 
 ## Spencerville homes on bigger sections
 
-Spencerville sits between Brooklands, Marshland and the pine forest of Bottle Lake, a short drive from the coast. It's a semi-rural place: houses on generous sections, many of them lifestyle properties with sheds, paddocks and shelter belts. The homes themselves tend to be larger than a typical suburban house, and some have been extended over the years.
+Spencerville homes tend to be larger than a typical suburban house, and many have been extended over the years, so the job is to heat a big floor area without paying to heat rooms nobody is using that day.
+
+- **The main living area** in a larger home usually needs more output than a standard wall unit gives. A larger high wall unit, or a ducted system where the ceiling space allows, stops the far end of the room staying cold.
+- **Extensions** often have different insulation and windows from the original house, and can sit at the end of a hallway that lounge heat never reaches. We size each one as a room of its own, and it may need its own unit.
+- **Sleepouts and converted garages** on lifestyle properties usually need heating of their own, covered further down.
+
+At the quote we measure the rooms, look at the glazing and insulation in each part of the house, and ask which rooms you heat every day and which only now and then.
 
 ## Planning a heat pump installation for a large Spencerville house
 
 In a big home, the question is less "which unit?" and more "which rooms, and when?" Most families don't need the guest wing or the rumpus room heated every day. Splitting the house into zones means you can run heating only where you're living. Our [heat pump zoning](/heat-pump-zoning/) page explains how that's set up with separate units or a ducted system.
 
-For the main living area, a larger high wall unit or a ducted system is usually the place to start. We size it from the actual room volume, glazing and insulation, so it copes on the coldest mornings without being oversized for the rest of winter.
+We size the living area unit from the actual room volume, glazing and insulation, so it copes on the coldest mornings without being oversized for the rest of winter.
 
 ## Frost and shelter in Spencerville
 
-Open ground near the forest and paddocks gets heavy frosts on still winter nights. The outdoor unit should sit off the ground on raised feet or a bracket, with defrost water able to drain away rather than freezing around the base. Shelter belts can block cold wind, but the unit still needs open air on all sides to breathe, so we keep it clear of hedges and stored gear. Gravel or a concrete pad underneath stops grass growing up into the base.
+Spencerville sits between Brooklands, Marshland and the pine forest of Bottle Lake, a short drive from the coast, and its open ground by the forest and paddocks gets heavy frosts on still winter nights. The outdoor unit should sit off the ground on raised feet or a bracket, with defrost water able to drain away rather than freezing around the base. Shelter belts can block cold wind, but the unit still needs open air on all sides to breathe, so we keep it clear of hedges and stored gear. Gravel or a concrete pad underneath stops grass growing up into the base.
 
 ## Heating rooms added over time
 

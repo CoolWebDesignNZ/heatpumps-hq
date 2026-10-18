@@ -16,7 +16,7 @@ faqs:
   - q: Do you come out to semi-rural properties in Marshland?
     a: Yes. We cover the whole of Marshland, including lifestyle blocks and rural properties, as part of our Christchurch area.
   - q: Can a heat pump replace a wood burner in a large Marshland home?
-    a: It can heat the living area well when it's sized for the space. In a big open home, some owners pair a main unit with a ducted or multi-room system for the bedrooms. We'll work out what your house needs.
+    a: It can heat the living area well when it's sized for the space. In a big open home, some owners pair a main unit with a ducted or multi-room system for the bedrooms. We size the main unit from the living area's volume and windows, and quote the bedroom option alongside it so you can compare.
   - q: Where should the outdoor unit go on an exposed site?
     a: Somewhere sheltered from the strongest wind, on raised feet or a bracket, with space for airflow and a place for defrost water to drain. On a large section there's usually more choice than in town.
   - q: Do new Marshland homes suit ducted heating?
@@ -29,7 +29,13 @@ related:
 
 ## Heat pump installation in semi-rural Marshland
 
-Marshland lies on flat, open land on Christchurch's north-eastern edge. It has long been an area of market gardens and lifestyle blocks, with farmhouses and larger rural homes set back from the road, and newer subdivisions now spread along its city side. Heating needs vary a lot from one property to the next.
+What a Marshland home needs from a heat pump comes down to two things: the kind of house it is, and the hard frosts that settle on open ground here.
+
+- **Farmhouses and older rural homes**, set back from the road on lifestyle blocks and former market gardens, often have big living areas, high ceilings and rooms added later. Warm air collects up under a high ceiling, and an addition off the main room gets little from a lounge unit. These homes usually need a larger high wall unit sized for the living area's full volume, with the bedrooms on a [multi-room system](/multi-room-heat-pump-installation/).
+- **New homes in the subdivisions on the city side** are well insulated and usually open plan, so they lose far less heat. One correctly sized high wall unit can heat the living space, and ducting is worth pricing while you are still building.
+- **Every Marshland property** needs the outdoor unit set up for frost and wind, covered in the next section.
+
+At the quote we measure each room, check the ceiling and underfloor insulation and the windows, and size the system for the coldest morning rather than an average one.
 
 ## Open ground and hard frosts in Marshland
 
@@ -43,7 +49,7 @@ Our [cold climate heat pumps](/cold-climate-heat-pumps/) guide goes into what to
 
 ## Heat pumps for larger rural homes in Marshland
 
-Older farmhouses and lifestyle homes often have big living areas, high ceilings or later additions, and may have relied on a wood burner. A single wall unit rarely heats all of that. A larger high wall unit for the living space, plus a [multi-room system](/multi-room-heat-pump-installation/) for bedrooms, is a common plan. We measure each room, check the insulation and look at the windows before suggesting anything.
+Where a wood burner has been the main heat, the heat pump takes over the whole load. We size it for the living area's volume with the high ceiling counted, not just the floor area, and the bedrooms can go on a [multi-room system](/multi-room-heat-pump-installation/) at the same time or later. Rooms in a later addition are measured on their own, because their insulation and windows often differ from the original house.
 
 ## New homes on Marshland's city side
 

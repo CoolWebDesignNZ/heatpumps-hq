@@ -25,11 +25,14 @@ related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A deep clean for a musty or dusty unit. }
 ---
 
-## Mixed older housing in Sockburn
+## Heat pumps for older Sockburn houses and newer units
 
-Sockburn lies between Upper Riccarton and Hornby, either side of the main roads heading west. Its housing is a mix: weatherboard and brick houses from the middle of last century and newer units and townhouses where sections have been split.
+How warm a Sockburn home gets from a heat pump depends less on the unit and more on how much heat the house loses and how its rooms are divided. Its housing is a mix of weatherboard and brick houses from the middle of last century and newer units and townhouses where sections have been split.
 
-Older houses here often have a separate lounge, a kitchen at the back and bedrooms off a hall, with original single glazing and patchy insulation. The newer units are smaller and better sealed. Both can be warm with a heat pump, but the plan for each is different.
+- **Older weatherboard and brick houses** often have a separate lounge, a kitchen at the back and bedrooms off a hall, with original single glazing and patchy insulation. Heat escapes through the glass, the ceiling and the floor, and closed doors keep a lounge unit's warmth in the lounge. A wall unit sized to the living room, with the bedrooms added later, is the usual start, covered next.
+- **Newer units and townhouses** are smaller and better sealed, so one high wall unit in the living area can heat it on a small capacity. A two storey townhouse may need a second small unit upstairs.
+
+Sockburn lies between Upper Riccarton and Hornby, either side of the main roads heading west, and that matters for upkeep and placement too: homes near busy roads collect dust faster, and split sections leave little room outside, both covered below.
 
 ## Heat pump installation in Sockburn starts with the living room
 
@@ -47,7 +50,7 @@ Narrow Sockburn sections, especially back sections on a shared driveway, leave l
 
 ## Repair or replace an older heat pump in Sockburn
 
-Whether to repair or replace an older Sockburn heat pump depends on what has actually failed, so we find that out before you pay for a new one. A unit that has run for many winters can lose output from a worn fan, a blocked drain or a slow refrigerant leak, and many of those faults are worth fixing. If replacement is the better call, we'll say so and quote it at a fixed price. Our [heat pump repairs](/heat-pump-repair/) page explains the usual faults.
+Before you pay for a new heat pump, we find out what has actually failed in the old one. A unit that has run for many winters can lose output from a worn fan, a blocked drain or a slow refrigerant leak, and many of those faults are worth fixing. If replacement is the better call, we'll say so and quote it at a fixed price. Our [heat pump repairs](/heat-pump-repair/) page explains the usual faults.
 
 ## What we do in Sockburn
 

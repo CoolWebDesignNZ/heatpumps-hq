@@ -27,9 +27,15 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Several rooms on one outdoor unit. }
 ---
 
-## Prebbleton, a village that has grown
+## Heat pumps for Prebbleton's new houses and older homes
 
-Prebbleton sits between Christchurch and Lincoln in Selwyn District. The original village has been joined by new subdivisions, many with larger sections than you'd find in town, and the area around it is a patchwork of lifestyle blocks. Much of the housing is new, built to current insulation standards, often with double glazing and one large kitchen, dining and family space.
+Prebbleton sits between Christchurch and Lincoln in Selwyn District, and the heat pump a home there needs comes down to when the house was built and how its rooms join up.
+
+- **Houses in the new subdivisions** are mostly built to current insulation standards, often with double glazing and one large kitchen, dining and family space. That room keeps its heat, so one high wall unit sized for its full floor area will warm it. A unit that is too big for a house like this reaches temperature quickly, then switches off and on all evening and uses more power doing it. The bedrooms at the far end won't get much from it, so if you want them warm at night, plan a small second unit or [multi-room heads](/multi-room-heat-pump-installation/) from the start.
+- **Houses from before the subdivisions** in the original village usually have smaller rooms with doors between them. A lounge unit stays in the lounge. These homes lose more heat through the ceiling, the floor and older windows, so we look in the roof space and under the floor before settling on capacity.
+- **Homes on lifestyle blocks and larger sections** have space to put the outdoor unit well clear of bedrooms and the boundary. A house with several living areas usually suits more than one indoor unit or a ducted system, covered below.
+
+At the quote we measure each room, note the glazing and insulation, and work out what each unit has to deliver on a frosty Selwyn morning.
 
 ## Plan heat pump installation during a Prebbleton build
 

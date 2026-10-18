@@ -27,11 +27,14 @@ related:
   - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which type suits a larger house. }
 ---
 
-## Tai Tapu country homes at the foot of the hills
+## Heating a Tai Tapu home, farmhouse or new build
 
-Tai Tapu is a small village in Selwyn District, on the southern side of the Port Hills where the hills meet the plains. Around it are lifestyle blocks, horse properties and farms, with houses ranging from older farmhouses to large modern homes on a few hectares. Some sit on the flat; others are tucked against the lower slopes.
+Tai Tapu is a small village in Selwyn District, surrounded by lifestyle blocks, horse properties and farms, and most of its homes are bigger than a town house, with more rooms, longer hallways and sometimes a sleepout, studio or granny flat set apart. What decides the heat pump is the age of the house and how far its rooms spread.
 
-Rural homes here are often bigger than town houses, with more rooms, longer hallways and sometimes a sleepout, studio or granny flat set apart from the main house.
+- **Older farmhouses** often have high ceilings, single glazing and separate rooms along long hallways. Warm air gathers up under a high ceiling and stops at every closed door, so a single lounge unit leaves the bedrooms and kitchen cold. These houses usually need a unit in each room you use, and the ceiling insulation is worth checking before we size them, because a cold roof space means every unit has to be larger.
+- **Large modern homes on a few hectares** hold heat far better, but their length is the problem. A [ducted system](/ducted-heat-pumps-christchurch/) with a vent in each room suits them when the roof space is clear, or a [multi-room system](/multi-room-heat-pump-installation/) where it isn't.
+- **A sleepout, studio or granny flat** away from the main house is usually too far for a long pipe run from the main system, so it gets its own small unit and outdoor unit.
+- **Houses on the lower slopes** of the Port Hills, on the southern side where the hills meet the plains, can lose winter sun to the hill earlier in the day. Rooms facing the slope stay cooler, and we size their units for that. Houses on the flat get the harder frosts, covered below.
 
 ## Replacing a Tai Tapu log burner with a heat pump
 

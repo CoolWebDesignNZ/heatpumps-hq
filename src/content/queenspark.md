@@ -27,9 +27,13 @@ related:
 
 ## Heat pump installation in Queenspark family homes
 
-Queenspark is a residential suburb on the north-east side of Christchurch, close to Parklands and Burwood. It's mainly single-storey family homes with garages and gardens, many in brick or weatherboard, built from the 1970s on. Some have been extended, and many have had their windows or insulation upgraded.
+In Queenspark we size a heat pump for the house as it is now, because many of its family homes have changed since they were built. Most are single storey, in brick or weatherboard, built from the 1970s on, with garages and gardens.
 
-Those changes matter. A house that has gained double glazing and wall insulation since it was built may need a smaller heat pump than its age suggests. We base the size on how the house is now, not how it was built.
+- **Homes that still have their original windows and insulation** lose more heat through the glass and walls, so the lounge needs more capacity than a newer house of the same size.
+- **Homes that have gained double glazing and wall insulation** may need a smaller heat pump than their age suggests.
+- **Extended homes**, where the lounge has been opened to the kitchen or carried into a family room, have a bigger heated space than the original plan shows. That is covered below.
+
+With everything on one level, a lounge unit plus bedroom units where you want them can cover the whole house.
 
 ## Wall, floor or ceiling heat pumps in Queenspark
 
@@ -47,7 +51,7 @@ Where a lounge has been opened up to the kitchen or extended into a family room,
 
 ## The outdoor unit on a Queenspark section
 
-On Queenspark's flat sections the outdoor unit usually sits on a pad or bracket on a side wall. We keep it out of corners, raise it for defrost drainage, and place it away from the neighbour's windows. Easterly winds carry some salt this far, so give the coil a light rinse from time to time.
+On Queenspark's flat sections the outdoor unit usually sits on a pad or bracket on a side wall. We keep it out of corners, raise it for defrost drainage, and place it away from the neighbour's windows. Queenspark is on the north-east side of Christchurch, close to Parklands and Burwood, and easterly winds carry some salt this far, so give the coil a light rinse from time to time.
 
 ## Heat pump repair and servicing in Queenspark
 

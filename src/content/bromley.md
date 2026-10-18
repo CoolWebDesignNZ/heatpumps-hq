@@ -25,21 +25,23 @@ related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Deep cleans for filters, coils and fans. }
 ---
 
-## Bromley homes beside industry
+## Heat pumps for Bromley's mid-century homes
 
-Bromley is an older east side suburb where residential streets run beside commercial and industrial land, including the city's wastewater treatment plant towards the estuary. The housing is mostly mid-century: single-storey weatherboard and brick homes on piles, many of them state or private houses from the 1950s to 70s, on modest sections.
+Most Bromley homes are single-storey weatherboard and brick houses on piles, many of them state or private houses from the 1950s to 70s, on modest sections. How those houses lose heat is the first thing that decides the heat pump.
 
-## What that means for heat pumps in Bromley
+- **Floors on piles** let cold air circulate under the house. Without underfloor insulation, the floor pulls heat out of every room, so we check under the house before sizing.
+- **Weatherboard walls** in houses this age may have little or no insulation unless it has been added since. A lounge in one of these needs a larger unit than the same room in a newer home.
+- **A front lounge with bedrooms off a hall** means a lounge unit heats the lounge and not much else, covered further down.
 
-Dust and close neighbours are the two things that shape a heat pump in Bromley.
+Bromley is an older east side suburb where residential streets run beside commercial and industrial land, including the city's wastewater treatment plant towards the estuary. That brings two more things to plan for: dust and close neighbours.
 
-**Dust.** Homes near trucks, busy roads and yards collect more fine dust. A heat pump draws room air through its filters all day, so those filters fill faster. Clogged filters cut the heat output, make the fan work harder and can lead to smells. Easy access to the indoor unit for cleaning is worth thinking about when choosing where it goes.
+**Dust.** Homes near trucks, busy roads and yards collect more fine dust. A heat pump draws room air through its filters all day, so those filters fill faster. Clogged filters cut the heat output, make the fan work harder and can lead to smells. We mount the indoor unit where you can reach it to lift the front panel and take the filters out.
 
-**Neighbours close by.** Smaller sections bring houses near each other. Christchurch measures heat pump noise at the neighbour's boundary, and the night limit is the one that counts on cold mornings. We place the outdoor unit away from the people next door, out of corners that bounce sound, and on anti-vibration feet.
+**Neighbours close by.** Modest sections bring houses near each other. Christchurch measures heat pump noise at the neighbour's boundary, and the night limit is the one that counts on cold mornings. We place the outdoor unit away from the people next door, out of corners that bounce sound, and on anti-vibration feet.
 
 ## Heat pump installation in a mid-century Bromley house
 
-Installing a heat pump in a mid-century Bromley house starts with its layout: usually a front lounge, a kitchen and dining area behind it, and bedrooms off a hall. Insulation varies a lot from house to house: some have been fully upgraded, others still have little in the walls. We check the ceiling, underfloor and windows, measure the rooms and size the unit from what's actually there.
+Installing a heat pump in a mid-century Bromley house starts with its layout: usually a front lounge, a kitchen and dining area behind it, and bedrooms off a hall. Some have been fully upgraded; others still have little insulation in the walls. We check the ceiling, underfloor and windows, measure the rooms and size the unit from what's actually there.
 
 For a warm lounge, one well placed wall unit is often enough. For bedrooms too, look at a second unit or a [multi-room system](/multi-room-heat-pump-installation/).
 

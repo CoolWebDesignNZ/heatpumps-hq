@@ -7,7 +7,7 @@ h1: Heat pump installation in St Albans, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: St Albans
 suburb: St Albans
-intro: St Albans mixes character villas and bungalows with new townhouses, and each needs a different heat pump plan. We install, service and repair them, with the price fixed up front.
+intro: St Albans mixes character villas and bungalows with new townhouses. Villas lose heat through tall rooms and timber floors, townhouses need heat upstairs. We install, service and repair both, with the price fixed up front.
 hero: st-albans-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in St Albans"
@@ -27,7 +27,13 @@ related:
 
 ## Heat pump installation in St Albans homes, old and new
 
-St Albans is a large inner suburb north of the central city, and its streets hold a bit of everything: timber villas, bungalows, brick homes from the middle of last century, and a growing number of two and three storey townhouses where older houses once stood. A heat pump plan that suits one of these will be wrong for the next.
+In St Albans the age of the house decides the heat pump plan. An older home needs capacity for the heat it loses; a new townhouse needs heat taken upstairs.
+
+- **Timber villas and bungalows** lose heat up into tall rooms and down through suspended timber floors. We size for the room's volume and look at draughts and underfloor insulation. A wall unit or floor console heats the main room, and bedrooms off the hall need their own.
+- **Brick homes from the middle of last century** usually have lower ceilings and more compact rooms. A lounge unit sized for the room, with a small unit for each bedroom you use, usually suits them.
+- **Two and three storey townhouses**, a growing number of them where older houses once stood, are well insulated. One unit handles the living level, and the bedrooms upstairs need small units or a multi-room system.
+
+St Albans is a large inner suburb north of the central city with all three on its streets, so two houses side by side can need completely different systems.
 
 ## Heat pumps for St Albans villas and bungalows
 

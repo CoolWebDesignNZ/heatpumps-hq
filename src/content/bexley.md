@@ -25,11 +25,13 @@ related:
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Units built for frosty mornings. }
 ---
 
-## Bexley's mix of rebuilt and remaining homes
+## Heat pumps for Bexley's rebuilt and repaired homes
 
-Bexley sits on low-lying land near the Avon River and the estuary. It was hit hard by the earthquakes, and much of the suburb became residential red zone, so there are now fewer homes than before. The houses that remain include newer homes built on improved foundations, older homes that were repaired, and a few that have been rebuilt from scratch.
+Bexley sits on low-lying land near the Avon River and the estuary. It was hit hard by the earthquakes and much of it became residential red zone, so fewer homes stand there now. The ones that remain fall into three groups.
 
-For a heat pump, that range means the sizing really does need to be done house by house.
+- **Newer homes built on improved foundations, and the few rebuilt from scratch,** have current insulation, double glazing and a well sealed shell. An open plan living area in one of these can be heated by a single modest wall unit, and a larger unit would only switch on and off.
+- **Older homes that were repaired** can still have their original windows and patchy insulation. They need more capacity for the same room size. If walls were opened up during the repair, ask whether insulation went in then, because that changes the size we fit.
+- **Every home on low ground** near the estuary needs the outdoor unit kept off wet soil, on a bracket or raised base, covered below.
 
 ## Heat pump installation in rebuilt Bexley homes
 
@@ -39,7 +41,7 @@ We size each one from the rooms, windows, insulation and how you use the house, 
 
 ## Heat pumps for repaired older Bexley homes
 
-Older homes that came through with repairs can still have original windows and patchy insulation. They need more capacity for the same room size, and the indoor unit has to be placed carefully so heat reaches the far end of the room.
+Older homes that came through with repairs can still have original windows and patchy insulation. They need more capacity for the same room size, and the indoor unit goes on the short wall, blowing along the length of the room, so the heat reaches the far end.
 
 ## Low ground and the outdoor unit in Bexley
 

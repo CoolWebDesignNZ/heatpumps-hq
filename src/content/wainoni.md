@@ -14,7 +14,7 @@ faqHeading: "Wainoni heat pump questions"
 relatedHeading: "Heat pumps near Wainoni"
 faqs:
   - q: What size heat pump does a 1960s Wainoni house need?
-    a: It depends on the room size, windows and how much insulation has been added since. A lounge in an uninsulated house can need noticeably more capacity than the same room after insulating. We measure and work it out on site.
+    a: We work it out from the room size, the window area and how much insulation has been added since it was built. A lounge in an uninsulated house can need noticeably more capacity than the same room after insulating. We measure and work it out on site.
   - q: Can the heat pump pipes run under the floor in my Wainoni home?
     a: Often, yes. Many older Wainoni houses sit on piles with space underneath, which lets us run the pipes under the floor and keep them off the outside walls.
   - q: My Wainoni heat pump smells musty when it starts. What's wrong?
@@ -27,7 +27,11 @@ related:
 
 ## Heat pump installation in mid-century Wainoni homes
 
-A heat pump installation in Wainoni usually means fitting it to a mid-century home, because much of the suburb was built from the 1950s to the 1970s, with a mix of state and private houses. Typical homes are single-storey weatherboard or brick on piles, with a separate lounge, a kitchen and dining area, and three bedrooms off a hallway. Many have had ceiling insulation added; fewer have wall insulation or double glazing. The layout, the piles and the glazing all shape where the heat pump goes and how big it needs to be.
+Most Wainoni homes need a heat pump sized for older insulation and a plan for the bedrooms, because much of the suburb was built from the 1950s to the 1970s, as a mix of state and private houses.
+
+- **A separate lounge with three bedrooms off a hallway** is the typical single-storey layout, with a kitchen and dining area alongside. A lounge unit warms the lounge and little else, so the bedrooms need their own heat. The options are below.
+- **Ceiling insulation added, walls and windows mostly not.** Many have had the ceiling done; fewer have wall insulation or double glazing. Heat leaves through the walls and the single glazing, so the unit needs more capacity than the room size alone suggests.
+- **Weatherboard or brick on piles.** The space under the floor often lets us run the pipes underneath to an outdoor unit on a side wall, out of sight.
 
 ## Sizing a heat pump for an older Wainoni house
 

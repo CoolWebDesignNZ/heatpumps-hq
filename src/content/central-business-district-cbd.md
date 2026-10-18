@@ -29,7 +29,12 @@ related:
 
 ## Heat pump installation for CBD apartments and townhouses
 
-Heat pump installation in the CBD mostly means apartments and townhouses built during the rebuild, because that's how most people live in the Central City, with a scattering of older cottages that survived. Newer buildings tend to be well sealed, double glazed and compact. That makes heating the easy part. Getting rid of heat can be the harder one: a north or west facing apartment with a wall of glass can get uncomfortably warm on a summer afternoon, so we look at cooling capacity as well as heating when we size a unit.
+In a Central City apartment or townhouse, the heat pump has to cope with summer heat and very little outdoor space, not only with winter.
+
+- **Apartments and townhouses from the rebuild** are how most people live in the Central City. They are well sealed, double glazed and compact, so they hold heat and need less heating capacity than an older house of the same floor area. A north or west facing apartment with a wall of glass can get uncomfortably warm on a summer afternoon, so we size the unit for the cooling it has to do as well as the heating. In an open plan apartment, one high wall unit usually covers the lounge and kitchen.
+- **The older cottages that survived** lose far more heat through the ceiling, floor and windows, and their rooms close off from each other. They need more capacity per room, and the bedrooms usually need a unit of their own.
+
+Before we quote, we note which way the glass faces, where an outdoor unit could physically sit, and what the body corporate allows.
 
 ## Body corporate rules come first in the Central City
 

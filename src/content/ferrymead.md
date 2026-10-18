@@ -20,18 +20,21 @@ faqs:
   - q: Is one heat pump enough for a two-storey townhouse?
     a: Heat rises, so a unit downstairs often leaves the bedrooms cooler or the stairwell warm. Many townhouses do better with a small unit upstairs too, and <a href="/multi-room-heat-pump-installation/">multi-room installation</a> lets both share one outdoor unit.
   - q: Do you service heat pumps in Ferrymead?
-    a: Yes, all the major brands. A yearly service keeps it running efficiently.
+    a: Yes, all the major brands. A yearly service cleans the filters and both coils and clears the drain, so the unit keeps its heating output.
 related:
   - { label: Heathcote Valley, href: /heathcote-valley/, text: Heat pumps on the valley floor and slopes. }
   - { label: Mount Pleasant, href: /mount-pleasant/, text: Installs for sunny hillside homes. }
   - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: One well placed unit for a living area. }
 ---
 
-## Ferrymead's flat land by the estuary
+## Heat pumps for Ferrymead townhouses and older homes
 
-Ferrymead covers the flat ground where the Heathcote River meets the estuary, at the foot of the hills leading to Mount Pleasant and Heathcote Valley. Alongside older standalone homes, it has a growing number of townhouses, terraced units and apartments, many with compact courtyards and neighbours on more than one side.
+What decides the heat pump in Ferrymead is the type of home and how much room there is outside for the outdoor unit. Ferrymead covers the flat ground where the Heathcote River meets the estuary, at the foot of the hills leading to Mount Pleasant and Heathcote Valley.
 
-That density is what shapes most heat pump decisions here. The question is less about steep sections and more about finding a spot for the outdoor unit that works for you and the people next door.
+- **Townhouses, terraced units and apartments** make up a growing share of the suburb. Most are recent and well insulated, so heat loss is low and one unit can heat an open plan floor. The hard parts are the bedrooms upstairs, covered below, and finding an outdoor unit spot in a compact courtyard with neighbours on more than one side.
+- **Older standalone homes** lose more heat through the ceiling, the floor and older windows, and their rooms are usually closed off from each other. A lounge unit with a smaller unit in the main bedroom, or a [multi-room system](/multi-room-heat-pump-installation/) with a unit in each room you use, suits them better than one large unit. We check the insulation before sizing, since topping it up can let each unit be smaller.
+
+In both, noise at the neighbour's boundary and drainage on low ground decide where the outdoor unit goes.
 
 ## Outdoor units in tight Ferrymead spaces
 

@@ -27,9 +27,14 @@ related:
 
 ## Heat pump installation in Somerfield bungalows and villas
 
-Somerfield's streets are lined with older bungalows and villas, and in character homes like these, how a heat pump install looks matters almost as much as how it heats. Many have been extended or renovated, and there are newer homes where sections have been rebuilt. Plenty of these are family homes with a lounge, a dining room or sunroom and three or more bedrooms.
+In a Somerfield bungalow or villa the heat pump has two jobs: make up for heat lost through an older house, and do it without pipework spoiling a character frontage. What suits your home comes down to how much of it is original.
 
-The suburb lies between Beckenham and Spreydon on flat ground south of the city.
+- **Original bungalows and villas** lose heat through the ceiling, bare floors on piles and single glazed windows, and their rooms open off a long hall. A unit in the hall itself rarely reaches the rooms off it, and a lounge unit won't warm the bedrooms. We put heat in the rooms you use: a high wall unit or floor console in the lounge, and small units in the bedrooms that need them. Checking the ceiling and underfloor insulation first often means a smaller unit will do.
+- **Extended or renovated homes** often join a newer living and kitchen area to the original front rooms. The newer space usually takes one larger high wall unit, while the older rooms keep their own heat loss and need their own units.
+- **Newer homes on rebuilt sections** are better insulated and double glazed. One correctly sized unit can heat the living area, with a second small unit for the bedrooms if you want them warm.
+- **Family homes with a lounge, a dining room or sunroom and three or more bedrooms** need heat in several rooms at once, which suits a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit rather than a row of separate outdoor units along the wall.
+
+At the quote we look at each room's size, insulation and windows, and where the pipes and outdoor unit can go without showing from the street.
 
 ## Keeping a Somerfield heat pump install tidy
 
@@ -49,11 +54,11 @@ High-wall units are the common choice and suit a lot of rooms. Two other options
 - **A floor console** under a bay window or in a sunroom with little wall space.
 - **A [ducted system](/ducted-heat-pumps-christchurch/)** in a renovation where the ceiling is coming down anyway, which hides the equipment apart from the vents.
 
-For bedrooms, we choose small, quiet units and place them so the air doesn't blow across the bed. In a bungalow with a long hall, a unit in the hall itself rarely reaches the rooms off it, so we put heat in the rooms you use instead.
+For bedrooms, we choose small, quiet units and place them so the air doesn't blow across the bed.
 
 ## Frost and the outdoor unit in Somerfield
 
-Somerfield's flat streets get their share of winter frosts. The outdoor unit needs to sit raised off the ground so defrost water drains away and can't freeze around the base. We use feet or a bracket rather than sitting it straight on a garden bed.
+Somerfield lies on flat ground south of the city, between Beckenham and Spreydon, and its streets get their share of winter frosts. The outdoor unit needs to sit raised off the ground so defrost water drains away and can't freeze around the base. We use feet or a bracket rather than sitting it straight on a garden bed.
 
 ## Heat pump service and repairs in Somerfield
 

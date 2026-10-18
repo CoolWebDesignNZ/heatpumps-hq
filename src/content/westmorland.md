@@ -29,9 +29,13 @@ related:
 
 ## Heat pump installation for newer Westmorland homes
 
-Westmorland is a hill suburb on the lower Port Hills, between Cashmere and Hoon Hay. Compared with the older suburbs around it, the housing is newer, the homes are generally larger, and many are built over two levels to follow the slope. Insulation and glazing in newer homes are better than in older housing, which changes the sizing.
+In a Westmorland home the hard part isn't producing enough heat. It's getting heat to every part of a large house without running one big unit flat out. Compared with the older suburbs around it, the housing here is newer and the homes are generally larger, and that shapes the system.
 
-A well insulated large house doesn't need huge capacity. It needs heat delivered to the right places.
+- **Homes built over two levels to follow the slope** have living areas and bedrooms on different floors. Warm air rises up the stairwell, so a unit downstairs overheats the landing and leaves lower rooms cool, while a unit upstairs does nothing for the floor below. Each level needs its own unit or its own zone.
+- **Large single level homes** have better insulation and glazing than older housing, so each room needs less capacity. The challenge is distance: a living wing at one end and bedrooms down a hall at the other. A [multi-room system](/multi-room-heat-pump-installation/) puts a small unit in each room you use, all on one outdoor unit.
+- **Living rooms with large windows over the city** gain strong sun by day and lose heat through the glass at night, so that room's unit is sized for both, covered below.
+
+At the quote we go through the house level by level, note which rooms you use and when, and size each unit or zone from the insulation and glass in that part of the house.
 
 ## Zoning heat pumps in a larger Westmorland house
 
@@ -51,7 +55,7 @@ On the slope, a lot of homes look out over the city through large living room wi
 
 ## Outdoor units for hillside sections
 
-Newer sections on the hill are often terraced, with retaining walls and a garage below the living level. Common positions for the outdoor unit are beside the garage, on a bracket on a solid wall, or on a pad on a lower terrace. Each needs clear airflow, a drain path and service access. The [boundary guide](/heat-pump-boundary-rules-consent-nz/) covers noise toward neighbours, which travels on slopes.
+Westmorland is on the lower Port Hills between Cashmere and Hoon Hay, and newer sections on the hill are often terraced, with retaining walls and a garage below the living level. Common positions for the outdoor unit are beside the garage, on a bracket on a solid wall, or on a pad on a lower terrace. Each needs clear airflow, a drain path and service access. The [boundary guide](/heat-pump-boundary-rules-consent-nz/) covers noise toward neighbours, which travels on slopes.
 
 ## Areas near Westmorland
 

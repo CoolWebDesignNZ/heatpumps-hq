@@ -25,11 +25,15 @@ related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and fit a new system. }
 ---
 
-## Templeton, a township on the edge of the plains
+## Heat pumps for Templeton homes on the open plains
 
-Templeton sits beyond Hornby on the road south, surrounded by paddocks and semi-rural sections. Its homes are a mix: older houses on bigger sections, newer homes in recent subdivisions, and lifestyle properties on the outskirts. Although it feels like a country town, it is part of Christchurch City.
+Templeton sits beyond Hornby on the road south, surrounded by paddocks and semi-rural sections, so it gets cold, frosty mornings and wind from the nor'west. A heat pump here has to be sized for the coldest mornings, not an average day, and its outdoor unit placed out of the wind with somewhere for defrost water to drain. Which system suits depends on the age and size of the house:
 
-Because it is out on the open plains, Templeton gets cold, frosty mornings and wind from the nor'west. A heat pump here needs to be sized and placed with that in mind.
+- **Newer homes in recent subdivisions** hold heat well, so one wall unit can heat the open plan living area. The bedrooms need their own heat.
+- **Older houses on bigger sections** lose more heat through the ceiling and floor and spread their rooms out, so they need more capacity per room, sometimes ducting.
+- **Lifestyle properties on the outskirts** add sleepouts and outbuildings that are simpler to heat with their own small unit.
+
+Each is covered below. Although Templeton feels like a country town, it is part of Christchurch City, so the Christchurch District Plan's noise rules apply to the outdoor unit.
 
 ## Heat pump installation in newer Templeton homes
 

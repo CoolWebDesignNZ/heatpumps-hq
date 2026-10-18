@@ -16,7 +16,7 @@ faqs:
   - q: Is ducting possible in an older Avonhead brick house?
     a: Often, if the roof space has enough height for the ducts and an indoor unit. We check the ceiling cavity at the quote. Ducting suits a house with bedrooms down a long hall, because vents can go into every room. See <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split</a>.
   - q: Should I replace my old heat pump or keep repairing it?
-    a: It depends on the fault and the unit's age. A failed fan motor or sensor is usually worth fixing; a failed compressor on an old unit usually isn't. We'll tell you which before any work goes ahead.
+    a: The fault and the unit's age decide it. A failed fan motor or sensor is usually worth fixing; a failed compressor on an old unit usually isn't. We'll tell you which before any work goes ahead.
   - q: Where can the outdoor unit go against a brick wall?
     a: On a wall bracket fixed into the brick or on raised feet on a pad, clear of the neighbour's bedroom windows. Both keep it off frosty ground.
 related:
@@ -25,11 +25,16 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heat every room through ceiling vents. }
 ---
 
-## Avonhead brick homes from the 1960s to the 1980s
+## Heat pumps for Avonhead's brick and tile houses
 
-Avonhead grew out towards the airport with streets of single storey brick and tile houses. The usual plan is a lounge and kitchen at one end and three or four bedrooms along a hallway. Ceilings are a standard height, windows were often single glazed when built, and the original ceiling insulation is thin by today's standards unless it has been topped up.
+Avonhead grew out towards the airport with streets of single storey brick and tile houses, and their shared layout decides the heat pump: a lounge and kitchen at one end and three or four bedrooms along a hallway.
 
-Brick veneer looks solid, but it isn't the brick that keeps heat in. The ceiling and the windows do most of the work, and those are where we look first.
+- **Standard height ceilings** suit a high wall unit. Warm air doesn't gather out of reach the way it does under a high villa ceiling, so a correctly sized unit heats the lounge and kitchen evenly.
+- **Windows that were single glazed when built** lose heat fast on a winter night. If yours are still original, the lounge needs more capacity than its floor area suggests.
+- **Original ceiling insulation** is thin by today's standards unless it has been topped up. Topping it up is often the cheaper fix, because it lets a smaller unit do the same job.
+- **The bedroom hallway** is where one lounge unit falls short, covered below.
+
+Brick veneer looks solid, but it isn't the brick that keeps heat in. The ceiling and the windows do most of the work, and those are what we check first at the quote.
 
 ## Getting heat down an Avonhead hallway
 
@@ -39,7 +44,7 @@ In houses like these, the complaint we hear is a warm lounge and cold bedrooms. 
 - **A multi-room system**, with one outdoor unit running two or more indoor heads. See [multi-room installs](/multi-room-heat-pump-installation/).
 - **A ducted system** with a vent in each room, if the roof space allows. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-We'll price the options that suit your house and explain what each one heats.
+A second wall unit is the smallest job and heats one more room. A multi-room system heats each room that has a head. Ducting is the only one of the three that also warms the hallway itself.
 
 ## Replacing an old Avonhead heat pump
 

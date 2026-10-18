@@ -18,7 +18,7 @@ faqs:
   - q: Will a heat pump work in an uninsulated old cottage?
     a: It will heat the room, but much of that heat escapes through the ceiling, floor and single glazing. Insulating first, or at the same time, means a smaller unit can keep up, and it costs less to run.
   - q: There's no room for the outdoor unit at ground level. What are the options?
-    a: A wall bracket, a deck, a flat garage roof or a spot further along the section with a longer pipe run. We look at each one when we visit and explain the trade-offs.
+    a: A wall bracket, a deck, a flat garage roof or a spot further along the section with a longer pipe run. A bracket or roof keeps the pipes short but must stay reachable for servicing, and a spot further away needs a pipe run within the manufacturer's limit.
   - q: Which council covers Lyttelton?
     a: Christchurch City Council, so the Christchurch District Plan's noise limits apply. They are set out in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
 related:
@@ -27,11 +27,13 @@ related:
   - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: Heating one living area properly. }
 ---
 
-## Lyttelton's old houses on steep streets
+## Heat pumps for Lyttelton cottages and villas
 
-Lyttelton is a port town on the hillside above the harbour. Many of its houses are timber cottages and villas built close together on small, steep sections, often reached by steps or narrow lanes rather than a driveway. Plenty of them have tall ceilings, sash windows and walls with little or no insulation.
+A heat pump in a Lyttelton home has to make up for heat lost through old construction and short winter sun. Lyttelton is a port town on the hillside above the harbour, and many of its houses are timber cottages and villas with tall ceilings, sash windows and walls with little or no insulation.
 
-They have plenty of character, and they lose heat quickly. Much of the town looks across the harbour to the south, so many homes lose direct sun early on winter afternoons.
+- **Heat loss.** Tall ceilings mean the room volume, not the floor area, sets the unit size, and uninsulated walls and ceilings let heat straight out. Insulation comes first or alongside, as the next section explains.
+- **Early shade.** Much of the town looks across the harbour to the south, so many homes lose direct sun early on winter afternoons. The heat pump carries the house from mid-afternoon, and a timer can start it before the room cools.
+- **Tight sites.** Houses are built close together on small, steep sections, often reached by steps or narrow lanes. Where the outdoor unit goes, and how we carry it in, are planned at the quote.
 
 ## Heat pump installation in a draughty Lyttelton cottage
 

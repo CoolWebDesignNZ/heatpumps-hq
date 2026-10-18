@@ -22,16 +22,18 @@ faqs:
   - q: Is my heat pump too noisy for the neighbours?
     a: Hill sites carry sound, so placement matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the common causes and fixes.
 related:
-  - { label: Sumner, href: /sumner/, text: Installs and servicing near the beach. }
+  - { label: Sumner, href: /sumner/, text: Heat pumps for beach and hill homes below Clifton. }
   - { label: Redcliffs, href: /redcliffs/, text: Heat pumps along the estuary and hill. }
   - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: Why a unit gets loud and how to quieten it. }
 ---
 
-## Living high above the sea in Clifton
+## Heat pumps for Clifton's exposed hill homes
 
-Clifton sits on the hill between Redcliffs and Sumner, with homes perched on steep sections and some right along the cliff top. Views run out over the estuary and the open sea. Many houses here are rebuilds or have had major repair work since the earthquakes, and some sites have needed rockfall or slope protection.
+For a Clifton home the heat pump is shaped by three things: houses built over several levels, wind off the sea, and outdoor unit sites that are hard to reach. Clifton sits on the hill between Redcliffs and Sumner, with homes on steep sections and some right along the cliff top, looking out over the estuary and the open sea.
 
-Those sites bring three challenges for a heat pump: getting gear to the house, finding a sound place for the outdoor unit, and protecting it from wind and salt.
+- **Heat loss through glass and wind.** Many houses here are rebuilds or have had major repair work since the earthquakes, so most are well insulated, and the main loss is through the windows facing the view. An exposed house also loses heat faster on a windy night, so we size for a cold, windy evening, not a still one.
+- **More than one level.** Warm air rises, so where bedrooms sit on a lower floor than the living area they stay cold. A separate unit for the lower level, or a [multi-room system](/multi-room-heat-pump-installation/) with an indoor unit on each floor, keeps both warm.
+- **A hard site.** Some sites have needed rockfall or slope protection, and many are reached by steps. The outdoor unit needs a spot that is sheltered, solid and reachable for servicing, which is covered below.
 
 ## Heat pump installation across Clifton's split levels
 

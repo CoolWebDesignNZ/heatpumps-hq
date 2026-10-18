@@ -29,9 +29,12 @@ related:
 
 ## Heat pump installation for Rolleston homes
 
-Heat pump installation in Rolleston often means a recent build with good insulation, double glazing and open plan living areas, and that changes what a good setup looks like. Rolleston sits on the open Canterbury Plains south-west of Christchurch, and it has grown fast.
+Most Rolleston heat pump jobs come down to one question: how to heat a well insulated open plan living area and a bedroom wing that its warmth doesn't reach. Rolleston sits on the open Canterbury Plains south-west of Christchurch and has grown fast, so many homes are recent builds with good insulation and double glazing.
 
-A well insulated open plan space holds heat, so one correctly sized unit can often heat the living, dining and kitchen area on its own. Bedrooms and a second living room are where people tend to add a second unit or move to a ducted system. We size every install from the actual rooms, the windows and how you use the house, so you're not paying for capacity you don't need.
+- **Recent builds.** An insulated open plan space holds heat, so one correctly sized high wall unit can often heat the living, dining and kitchen area on its own. Bedrooms down a hallway and a second living room are where you'd add a small second unit, a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit, or a ducted system with a vent in every room.
+- **Older homes.** Rolleston's older homes often have less ceiling and underfloor insulation and rooms closed off from each other. We check the insulation first, then usually put a unit in each main room rather than one large unit in the lounge.
+
+We size every install from the actual rooms, the windows and how you use the house, so you're not paying for capacity you don't need.
 
 ## Built for Rolleston's plains frosts
 
@@ -40,13 +43,13 @@ Clear winter nights on the plains bring hard frosts, and that's when a heat pump
 ## What we do in Rolleston
 
 - **New installations.** Wall-mounted, floor console, multi-room and [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing.** Filter and coil cleans, drain checks and a full performance check. See [heat pump servicing](/maintenance-servicing/).
-- **Repairs.** Fault finding and repairs on all the major brands. See [heat pump repairs](/heat-pump-repair/).
+- **Servicing.** Filter and coil cleans, drain checks and a full performance check. Our [servicing page](/maintenance-servicing/) lists each step.
+- **Repairs.** Fault finding and repairs on all the major brands. Our [repairs page](/heat-pump-repair/) explains how we trace a fault.
 - **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
 ## Mitsubishi heat pumps in Rolleston
 
-We install Mitsubishi Electric heat pumps in Rolleston, and service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install, and we'll show you how they compare for your house. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
+We install Mitsubishi Electric heat pumps in Rolleston, and service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
 
 ## Areas near Rolleston
 

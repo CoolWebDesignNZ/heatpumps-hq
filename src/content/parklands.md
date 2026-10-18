@@ -27,9 +27,11 @@ related:
 
 ## Heat pump installation in Parklands homes
 
-Parklands is mostly single-storey homes on flat land between Burwood and the coast, so a heat pump installation here usually means heating one level. A lot of the houses are brick and tile, built from the 1970s onward, and the later streets have newer homes with better insulation and double glazing.
+Most Parklands homes are single storey on flat land between Burwood and the coast, so the heat pump only has to heat one level, and the main decisions are capacity and how to reach the bedrooms.
 
-Brick veneer homes from the 1970s and 80s sit in the middle. They usually have ceiling insulation and some wall insulation, but often original aluminium windows. They hold heat better than an older weatherboard villa, and lose more than a new build, so we size the heat pump for the house you actually have.
+- **Brick and tile homes from the 1970s and 80s** usually have ceiling insulation and some wall insulation, but often keep their original aluminium windows. The glass is where much of the heat goes, so we measure the window area in each room. These houses hold heat better than an older weatherboard villa and lose more than a new build, and we size the unit for that middle ground.
+- **Newer homes on the later streets** have better insulation and double glazing, so a smaller unit can heat the same living area.
+- **The usual layout** puts the lounge and kitchen at one end and the bedrooms down a hallway, so a lounge unit alone leaves the bedrooms cold. The ways to fix that are further down.
 
 ## Replacing a first heat pump in Parklands
 

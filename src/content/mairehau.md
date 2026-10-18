@@ -29,9 +29,12 @@ related:
 
 ## Heat pump installation for Mairehau homes
 
-Heat pump installation in Mairehau is mostly for modest mid-century homes: compact weatherboard and brick houses, including former state houses, on reasonable sections. The suburb sits on flat ground in the north-east of Christchurch, between St Albans, Shirley and the more open land of Marshland, and towards its northern edge the houses get newer.
+Most Mairehau homes are compact, which makes them straightforward to heat with a heat pump: the rooms are small, the walls are close together and the outdoor unit sits a short distance from the indoor one, so the pipe run is short and the install simple. What decides the setup is the age of the house.
 
-A compact home is a good fit for a heat pump. The rooms are small, the walls are close together and the distance from the outdoor unit to the indoor unit is short, which keeps the install simple.
+- **Modest mid-century weatherboard and brick houses**, including former state houses, make up most of the suburb. One well placed wall unit in the lounge heats the main living space. Bedrooms with closed doors need their own heat, and a cold floor usually means there's no underfloor insulation, which changes the size we fit.
+- **Newer houses towards the northern edge**, nearer the open land of Marshland, are better insulated and often open plan, so one unit carries a larger living area, or a ducted system can heat every bedroom.
+
+Mairehau is flat ground in the north-east of Christchurch, between St Albans, Shirley and Marshland, and the sections are a reasonable size, so there's usually more than one wall that can take the outdoor unit. We choose the one nearest the indoor unit that keeps noise away from the neighbours.
 
 ## Getting heat pump placement right in Mairehau
 
@@ -45,7 +48,7 @@ Many older Mairehau homes have had some insulation added over the years, but not
 
 ## Newer Mairehau homes towards Marshland
 
-The newer houses on Mairehau's northern side are better insulated and often open plan. One unit can carry a large living area here, and some owners choose a ducted system so every bedroom is heated without wall units. We'll compare the two for your layout.
+The newer houses on Mairehau's northern side are better insulated and often open plan. One unit can carry a large living area here, and some owners choose a ducted system so every bedroom is heated without wall units. Ducted needs enough roof space for the indoor unit and the duct runs, which we check before we price it against wall units.
 
 ## Heat pump service and repair in Mairehau
 

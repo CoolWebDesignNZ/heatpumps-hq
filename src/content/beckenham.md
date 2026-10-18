@@ -25,11 +25,16 @@ related:
   - { label: Heat pump dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode to deal with damp rooms. }
 ---
 
-## Beckenham character homes by the river
+## Heat pumps for Beckenham villas and bungalows
 
-Beckenham sits on the flat between the city and the foot of the Port Hills, with the Heathcote River winding through it. It's known for its timber villas and bungalows, many on well established sections with big trees. Renovations and rebuilds sit among the older homes, but the overall feel is character housing. Some streets back onto the river itself, and others are a short walk from it.
+Most Beckenham homes are timber villas and bungalows, many on well established sections with big trees, and what decides the heat pump is how these older houses lose heat and where they stay damp.
 
-Those features shape a heat pump install here more than the size of the house does.
+- **Villas** have high ceilings and separate rooms off a central hall, often with single glazing and little under the floor. Warm air rises and sits under the ceiling, so the unit needs enough fan power to push it back down to where you sit, and every room you use needs its own unit or a head on a [multi-room system](/multi-room-heat-pump-installation/).
+- **Bungalows** have lower ceilings, so a high wall unit heats the lounge well. The bedrooms still need their own heat, because a lounge unit won't carry warmth around the hall.
+- **Renovated homes and rebuilds** among the older ones are usually better insulated and more open plan, and one correctly sized unit can often heat the whole living area.
+- **Houses that back onto the Heathcote River or sit under big trees** get less winter sun. Beckenham sits on the flat between the city and the foot of the Port Hills, and on this low ground near the river those houses run colder and damper, so we size for that and set the system up for steady heat, covered below.
+
+Before we size anything, we check the ceiling and underfloor insulation, because in an older timber house that is where most heat is lost.
 
 ## Damp, shade and cold air in Beckenham
 

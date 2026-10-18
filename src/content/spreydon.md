@@ -16,9 +16,9 @@ faqs:
   - q: Should I replace my heat pump with the same size?
     a: Not automatically. If you've added insulation, changed windows or knocked out a wall since it went in, the room now needs a different capacity. We size the new unit from the house as it is today.
   - q: Can the new heat pump use the old pipes?
-    a: Sometimes. It depends on the condition and size of the existing pipework and what the new unit's manufacturer allows. We check on site and tell you in the quote whether we're reusing or replacing them.
+    a: Sometimes. Old pipework can stay only if it's in good condition, the right size for the new unit, and the new unit's manufacturer allows it. We check on site and tell you in the quote whether we're reusing or replacing them.
   - q: Is my old heat pump worth repairing?
-    a: That depends on the fault and the age of the unit. Sensors, fan motors and drain problems are usually repairable. A failed compressor on an old unit usually isn't worth the cost. Our <a href="/heat-pump-repair/">repair page</a> explains how we decide.
+    a: Sensors, fan motors and drain problems are usually worth repairing. A failed compressor on an old unit usually isn't worth the cost. Our <a href="/heat-pump-repair/">repair page</a> explains how we decide.
 related:
   - { label: Hillmorton, href: /hillmorton/, text: Heat pumps for Hillmorton's flat streets and lower slopes. }
   - { label: Hoon Hay, href: /hoon-hay/, text: Installs and servicing for Hoon Hay family homes. }
@@ -27,9 +27,13 @@ related:
 
 ## Heat pump installation in Spreydon homes
 
-Spreydon is a flat, established suburb south-west of the city centre, running toward the foot of the Port Hills. Its housing is largely established family homes: weatherboard and brick bungalows, former state houses, and blocks of units, with townhouses on some redeveloped sections.
+Many Spreydon homes already have a heat pump, so the first question is often whether the old unit still heats the house properly or should be replaced. For a home without one, the house type decides which system suits.
 
-If your home already has a heat pump, the real decision may be what to do with the existing unit rather than whether to get one.
+- **Weatherboard and brick bungalows** have a closed lounge with bedrooms off a hall, and lose heat through the ceiling, the floor and older windows. A lounge unit won't carry heat down the hall, so cold bedrooms need a small unit each or a [multi-room system](/multi-room-heat-pump-installation/).
+- **Former state houses** are compact, with a separate lounge and the bedrooms close together. Whether the ceiling and underfloor have been insulated since they were built makes the biggest difference to the unit size, so we check both before quoting.
+- **Blocks of units and townhouses on redeveloped sections** have smaller living areas, often open plan, that one high wall unit can heat. The house next door is close, so the outdoor unit needs a spot away from the neighbour's windows.
+
+Spreydon is a flat, established suburb south-west of the city centre, running toward the foot of the Port Hills. On flat sections the outdoor unit usually has a straightforward spot at the side or back, raised on feet so defrost water drains away.
 
 ## Signs your Spreydon heat pump needs replacing
 
@@ -53,7 +57,7 @@ Replacing a heat pump is a chance to fix what wasn't right first time. Before qu
 
 ## Spreydon homes without a heat pump yet
 
-For homes without a heat pump, the approach is the same as anywhere: measure the rooms, check insulation and windows, and choose the unit and position from that. A floor console can suit a bungalow lounge with a low window across most of one wall. If the house is on piles, the pipes can often run underfloor and come up behind the unit, so little shows inside or out.
+For a home without a heat pump, we measure each room, check the insulation and windows, and choose the unit and its position from those. A floor console can suit a bungalow lounge with a low window across most of one wall. If the house is on piles, the pipes can often run underfloor and come up behind the unit, so little shows inside or out.
 
 ## Heat pump installs, service and repairs in Spreydon
 

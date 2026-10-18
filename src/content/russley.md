@@ -14,7 +14,7 @@ faqHeading: "Questions about heat pumps in Russley"
 relatedHeading: "More on heat pumps near Russley"
 faqs:
   - q: Which type of heat pump suits a Russley brick home?
-    a: It depends on the layout. A high wall unit suits an open lounge. A floor console works under a low window or where there's no wall space up high. Several bedrooms off one hall are better served by multi-room or ducted heating.
+    a: The layout decides it. A high wall unit suits an open lounge. A floor console works under a low window or where there's no wall space up high. Several bedrooms off one hall are better served by multi-room or ducted heating.
   - q: Does the nor'west wind affect a heat pump?
     a: Strong wind blowing straight into the outdoor unit's fan can disrupt its airflow. We place units on a sheltered side of the house where we can.
   - q: Do you service heat pumps in Russley?
@@ -27,9 +27,14 @@ related:
 
 ## Heat pump installation in Russley's brick homes
 
-A heat pump installation in Russley is often in a brick and tile family home from the 1960s to the 1980s, many of them on quiet cul-de-sacs, with some larger homes on bigger sections. The suburb sits beside Russley Road on the western edge of Christchurch, close to the airport and the golf course.
+Most Russley homes are brick and tile family houses from the 1960s to the 1980s with separate living rooms and a bedroom wing, and that layout decides the heat pump. Heat from one unit in the family room won't reach a bedroom wing down a hall, so one heat pump rarely heats the whole house well. Many owners started with a single unit in the family room and now want warmth in the bedrooms too.
 
-These houses tend to have separate living rooms, a formal lounge in some cases, and a bedroom wing. That shape means one heat pump rarely heats the whole house well. Many owners started with a single unit in the family room and now want warmth in the bedrooms too.
+- **Adding to an existing family room unit:** a small, quiet wall unit in each bedroom you use, or a [multi-room system](/multi-room-heat-pump-installation/) that runs the bedrooms from one new outdoor unit.
+- **Heating the whole house:** [ducted heating](/ducted-heat-pumps-christchurch/) where the ceiling space allows, with a vent in each room and nothing on the walls.
+- **A formal lounge in some homes** that's used now and then gets its own small unit or a zone you can close off, covered below.
+- **Larger homes on bigger sections** have more rooms to cover and longer pipe runs, so they more often go ducted or multi-room.
+
+Homes of this age can have thin or settled ceiling insulation, and the single glazed windows lose heat on frosty nights. At the quote we check both, because they decide how big each unit needs to be. The suburb sits beside Russley Road on the western edge of Christchurch, close to the airport and the golf course, with many homes on quiet cul-de-sacs.
 
 ## Choosing indoor units for a Russley home
 

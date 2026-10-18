@@ -29,9 +29,12 @@ related:
 
 ## Heat pump installation for two kinds of Papanui home
 
-The heat pump installation a Papanui home needs depends on whether it's an older villa or bungalow or a newer townhouse. Papanui is one of Christchurch's older northern suburbs, and its housing shows it. Timber villas and solid bungalows still line many streets, while plenty of original sections now hold two to four newer units or townhouses.
+The heat pump a Papanui home needs comes down to whether it's an older villa or bungalow or a newer townhouse, because the two lose heat at very different rates.
 
-An older house loses heat through its ceilings, floors and single glazed windows. A new townhouse is built tighter, with insulation and double glazing as standard, so it needs far less capacity for the same floor area. We work out the size from the actual rooms, the insulation, the windows and how you live in the house, rather than guessing from the square metres.
+- **Timber villas and solid bungalows** still line many streets in this older northern suburb. They lose heat through ceilings, floors and single glazed windows, and a villa's high stud adds more air to heat. They need more capacity per room, with the main unit in the lounge and extra indoor units if the hallway and bedrooms are cold, covered below.
+- **Newer units and townhouses**, two to four of them on plenty of original sections, are built tighter, with insulation and double glazing as standard. They need far less capacity for the same floor area: often one unit for the living level and a small one for an upstairs bedroom.
+
+We work out the size from the actual rooms, the insulation, the windows and how you live in the house, rather than guessing from the square metres.
 
 ## Heating an older Papanui villa or bungalow
 

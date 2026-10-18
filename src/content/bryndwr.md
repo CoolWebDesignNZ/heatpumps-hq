@@ -25,9 +25,14 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heating every room through ceiling vents. }
 ---
 
-## Bryndwr's bungalows
+## Heat pumps for Bryndwr's mid-century bungalows
 
-Bryndwr is a settled suburb between Fendalton and Papanui, with quiet streets of mid-century bungalows, many on generous sections with mature trees and long-established gardens. Most of these homes share a familiar plan: a lounge and kitchen at the front or sunny side, a central hallway and bedrooms leading off it.
+Bryndwr sits between Fendalton and Papanui, with quiet streets of mid-century bungalows on generous sections with mature trees and long-established gardens. Most share one plan: a lounge and kitchen at the front or sunny side, a central hallway, and bedrooms leading off it. That plan decides the heat pump.
+
+- **The sunny front rooms** pick up heat during the day, so their unit does most of its work in the evening and on dull days. A high wall unit sized for the lounge and kitchen is usually right.
+- **Bedrooms on the far side of the hall** get the least sun and the least warmth from the lounge, and they are the coldest rooms at night. They need their own small units or a head each on a multi-room system.
+- **Rooms shaded by big trees** need more capacity than the same room with open sky.
+- **Ceilings and floors** in bungalows this age often have gaps in the insulation, which we check before sizing anything.
 
 ## Heat pump installation for a Bryndwr hallway plan
 
@@ -37,7 +42,7 @@ The hallway plan is what a heat pump installation in Bryndwr has to work around.
 2. **Add bedroom units.** A small wall unit in each bedroom you use, or a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit.
 3. **Go ducted.** A [ducted heat pump](/ducted-heat-pumps-christchurch/) in the roof space delivers warm air to the hallway and each bedroom through ceiling vents.
 
-We'll measure the rooms, check the insulation and windows, and quote the options that make sense for your house.
+At the quote we measure the rooms and check the insulation and windows, then price each of these that fits the house, with the rooms each one heats.
 
 ## Insulation in older Bryndwr bungalows
 

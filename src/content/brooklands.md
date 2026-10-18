@@ -25,11 +25,15 @@ related:
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: Fault finding on all major brands. }
 ---
 
-## Brooklands, a small settlement near the coast
+## Heat pumps for exposed Brooklands homes
 
-Brooklands is on the northern edge of Christchurch, near Brooklands Lagoon and the mouth of the Waimakariri River. It was badly affected by the earthquakes, and much of the land became residential red zone, so far fewer homes stand there now. Those that remain are a mix of older houses, some repaired, and a small number of newer ones.
+Brooklands is on the northern edge of Christchurch, near Brooklands Lagoon and the mouth of the Waimakariri River. It was badly affected by the earthquakes and much of the land became residential red zone, so the homes that remain stand in open ground, with wind off the coast and damp air from the lagoon. Wind and damp decide the heat pump here more than anything else.
 
-Homes here are more exposed than in most of the city, with open land around them, wind off the coast and damp air from the lagoon.
+- **Older houses, some of them repaired,** have timber walls with limited insulation. Wind strips heat from them faster than from a sheltered house, so they need a unit sized for a cold, windy morning, not a still one.
+- **The small number of newer homes** are better sealed and insulated, so a single wall unit can heat the living area without being oversized.
+- **The outdoor unit** on an exposed site takes wind, salt and grit straight onto its coil, so its position matters more here than in most of the city.
+
+Each of these is covered below, starting with where the outdoor unit goes.
 
 ## Placing a heat pump in the Brooklands wind
 

@@ -7,7 +7,7 @@ h1: Heat pump installation for Edgeware homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Edgeware
 suburb: Edgeware
-intro: Edgeware mixes old timber cottages and villas with newer townhouses built behind and beside them. Each needs a different heat pump plan, and we price both before any work starts.
+intro: Edgeware mixes old timber cottages and villas with newer townhouses built behind and beside them. The cottages lose heat through high ceilings and draughts, the townhouses need heat upstairs, and we price both before any work starts.
 hero: edgeware-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Edgeware"
@@ -27,7 +27,12 @@ related:
 
 ## Heat pump installation in Edgeware's mix of old and new homes
 
-A heat pump installation in Edgeware depends on which of two kinds of home you live in: an older cottage or villa, or a newer townhouse. Edgeware is flat, close to the city and built tight. A lot of the original housing is small timber cottages and villas on narrow sections, many renovated and some still close to original. In between, older houses have made way for blocks of two or three townhouses, and each needs a quite different heat pump setup.
+An Edgeware heat pump plan starts with one question: is the house an original cottage or villa, or one of the newer townhouses? The two lose heat in different places and suit different systems.
+
+- **Timber cottages and villas** on narrow sections, many renovated and some still close to original, have high studs, sash windows and gaps around doors and floors. Heat rises to the ceiling and slips out through the draughts, and the rooms close off from one another, so a unit in the lounge seldom warms more than the lounge. They suit a wall unit or floor console placed to push air down to where you sit, plus a small unit in the main bedroom.
+- **Townhouses in blocks of two or three**, built where older houses made way, are better insulated and usually split across two levels. Heating the living area downstairs is the easy part. The bedrooms upstairs are where the plan needs thought.
+
+Edgeware is flat, close to the city and built tight, so the limit on most installs is outdoor space rather than terrain. At the same visit that we measure the rooms, we check where the outdoor unit can go and how close the next bedroom window is.
 
 ## Heating Edgeware villas and cottages
 

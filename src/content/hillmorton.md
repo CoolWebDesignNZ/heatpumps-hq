@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Hillmorton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hillmorton
 suburb: Hillmorton
-intro: Hillmorton spans flat suburban streets and sections near the base of the Port Hills. Heat pump installs and upkeep differ a little between the two, and the price is agreed before any work starts.
+intro: Hillmorton spans flat suburban streets and sections near the base of the Port Hills. On a sloping section the outdoor unit needs a bracket or a cut-in pad and a planned drain path, and the price is agreed before any work starts.
 hero: hillmorton-hero
 gallery: [pool-hill-home, pool-filters]
 faqHeading: "Questions about heat pumps in Hillmorton"
@@ -25,17 +25,19 @@ related:
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: What a yearly service checks and cleans. }
 ---
 
-## Hillmorton's flat streets and lower slopes
+## Heat pumps for Hillmorton homes on the flat and the slope
 
-Hillmorton sits between Spreydon, Hoon Hay and Cashmere. Most of its homes are on flat ground, with established bungalows, brick and weatherboard houses and units. On its southern side, closer to the Port Hills, some sections have more of a fall.
+Most Hillmorton homes have a separate lounge and a hallway of closed bedrooms rather than one open plan space, and that layout decides the heat pump more than anything else. Warm air from a lounge unit stops at the hall, so the rooms you want heated each need their own source of heat.
 
-That split means two kinds of install, often a few streets apart.
+- **Established bungalows, brick and weatherboard houses** lose heat through the ceiling, the floor and older single glazed windows. A high wall unit sized to the lounge, with a compact unit in each bedroom that stays cold, works far better than one large unit turned up high. A [multi-room system](/multi-room-heat-pump-installation/) runs those indoor units from one outdoor unit. Topping up ceiling and underfloor insulation first can bring down the size of unit each room needs.
+- **Units** have a smaller living area, and one correctly sized high wall unit there usually heats it. A small second unit suits the main bedroom if it sits at the cold end of the building.
+- **Sections on the southern side, closer to the Port Hills,** have more of a fall. That changes the outdoor work rather than the indoor unit: the outdoor unit may go on a bracket or a pad cut into the bank, covered below.
+
+Hillmorton sits between Spreydon, Hoon Hay and Cashmere, so flat and sloping installs are often a few streets apart. At the quote we measure each room, check the insulation and windows, and work out where the outdoor unit can sit, drain and be reached for servicing.
 
 ## Heat pumps on flat Hillmorton sections
 
-Flat sections make the outdoor work simple, and frost is the main thing to plan for. Cold air settles on still winter nights, so the unit goes up on feet, letting meltwater from defrosting run off instead of icing up beneath it. The unit goes on a concrete pad or raised feet beside the house, usually at the side or back, with a short pipe run through the wall or underfloor. The thought goes into position: away from a neighbour's bedroom window, clear of downpipes that could drip onto it, and out of a tight corner.
-
-Indoors, Hillmorton's family homes usually have a separate lounge and a hallway of bedrooms. A lounge unit sized to that room, with a compact unit in each bedroom that needs it, keeps the setup simple.
+Flat sections make the outdoor work simple, and frost is the main thing to plan for. Cold air settles on still winter nights, so the unit goes up on feet, letting meltwater from defrosting run off instead of icing up beneath it. The unit goes on a concrete pad or raised feet beside the house, usually at the side or back, with a short pipe run through the wall or underfloor. We place it away from a neighbour's bedroom window, clear of downpipes that could drip onto it, and out of a tight corner where it would draw back its own cold air.
 
 ## Hillmorton sections on a slope
 

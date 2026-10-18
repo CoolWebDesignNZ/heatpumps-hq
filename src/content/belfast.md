@@ -27,13 +27,17 @@ related:
   - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which system suits your house. }
 ---
 
-## New subdivisions and older Belfast
+## Heat pumps for Belfast homes, new and established
 
-Belfast sits at Christchurch's northern edge, on open land towards the Waimakariri River. Its older part has the houses of an established settlement, while large new subdivisions have filled much of the surrounding land with modern homes. Most heat pump work here is for those newer houses.
+Belfast sits at Christchurch's northern edge, and the heat pump a home there needs comes down to whether it is in one of the large new subdivisions or the older part of the settlement.
+
+- **New subdivision homes** are well insulated and double glazed, so the job is sizing accurately rather than adding power. Most of our heat pump work in Belfast is for these houses, covered in the next section.
+- **Houses in the older part** have the separate rooms of an established settlement, with a lounge, a kitchen and bedrooms off a hall. They lose more heat through the ceiling and windows, and one lounge unit doesn't heat the bedrooms.
+- **Homes facing open land** towards the Waimakariri River take more wind and frost than houses deeper in the suburb. The outdoor unit goes on a sheltered wall, up on feet or a bracket, so defrost water drains and the wind doesn't work against its fan.
 
 ## Heat pump installation in a new Belfast build
 
-A new Belfast build is well insulated and double glazed, and it holds heat. That makes them cheaper to heat, but it also means an oversized unit will overshoot and cycle. We size every install from the rooms, the windows, the insulation and how you use the house.
+A new Belfast build is well insulated and double glazed, and it holds heat. That makes it cheaper to heat, but it also means an oversized unit will overshoot and cycle. We size every install from the rooms, the windows, the insulation and how you use the house.
 
 New homes in Belfast tend to follow a pattern: an open plan kitchen, dining and living area, a separate lounge or media room, and three or four bedrooms. There are two sound ways to heat that:
 
@@ -46,9 +50,9 @@ If your house isn't finished yet, the best time to plan heating is now. Ducting 
 
 ## Adding heat pumps to older Belfast houses
 
-In Belfast's older homes, adding heat pumps looks more like the rest of the north: a lounge unit to start, bedroom heating added as needed, and attention to insulation before buying more capacity.
+In Belfast's older homes, start with a wall unit sized for the lounge alone. Check the ceiling insulation before buying more capacity, because topping it up can let a smaller unit do the job.
 
-Many Belfast houses were built with one living area unit as standard. Adding bedroom units later is straightforward if there's a sensible wall for each and a route for the pipes.
+Many Belfast houses were built with one living area unit as standard. Adding bedroom units later is straightforward if each bedroom has an outside wall for the indoor unit and a clear route for the pipes to the outdoor unit.
 
 ## What we do in Belfast
 

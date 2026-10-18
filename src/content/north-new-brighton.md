@@ -27,7 +27,11 @@ related:
 
 ## Heat pump installation on the North New Brighton beachfront
 
-North New Brighton runs along the coast with the dunes on one side, and the closest streets get the sea wind with nothing to break it. That's the main thing that sets a heat pump install here apart from one a few kilometres inland. The outdoor unit is where the problems show up.
+On the North New Brighton streets closest to the dunes, the sea wind reaches the house with nothing to break it. A house a few kilometres inland wouldn't face this, and here it shapes the whole install:
+
+- **The outdoor unit** needs a spot that shelters it from the easterly without boxing it in. The next section explains how we choose one.
+- **The indoor unit** has to make up for the heat the wind strips from walls and windows, so we size it from your rooms, glazing and insulation and set it up to run steadily rather than in bursts.
+- **The model** is checked against the manufacturer's coastal installation guidance before we quote it.
 
 ## Wind, salt and sand on the dune streets
 

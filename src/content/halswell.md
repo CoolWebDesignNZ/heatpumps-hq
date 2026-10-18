@@ -27,11 +27,14 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating through ceiling vents. }
 ---
 
-## Halswell's old village and new streets
+## Heat pumps for Halswell homes, village and subdivision
 
-Halswell sits on the south-west edge of Christchurch, below the Port Hills. Its original village has older weatherboard and brick houses, many on good-sized sections. Around that core, large new subdivisions have added street after street of modern homes, townhouses and terraces. Kennedys Bush rises on the hill above.
+Halswell sits on the south-west edge of Christchurch, below the Port Hills, and the heat pump that suits a home there comes down to which part of the suburb it is in.
 
-That spread means two very different kinds of heat pump job.
+- **Weatherboard and brick houses in the original village** have smaller, separate rooms, and unless they have been upgraded they lose heat through the ceiling, under the floor and through single glazing. One unit in the lounge won't reach the bedrooms. Many sit on good-sized sections, which gives a choice of spots for the outdoor unit well away from your bedrooms and the neighbour's.
+- **Modern homes in the new subdivisions** are well insulated and usually open plan, so the living area needs one correctly sized unit. The common problem is a builder-fitted unit that is too small, or one that leaves the bedrooms cold.
+- **Townhouses and terraces** have small courtyards and shared walls. The indoor unit goes on an outside wall so its pipes can run straight through, and the outdoor unit usually goes on a courtyard wall bracket, with its fan facing away from the bedroom windows next door.
+- **Homes up the hill in [Kennedys Bush](/kennedys-bush/)** have their own page.
 
 ## Heat pump installation in new Halswell subdivisions
 
@@ -39,11 +42,9 @@ Many new Halswell houses are well insulated and double glazed, with an open plan
 
 Fixing that might mean a second unit, a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit, or, for a house with roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/). We check the size of what you already have and work out what each room needs before recommending anything.
 
-Townhouses and terraces in the newer streets have their own limits: small courtyards, shared walls and bedrooms close to the neighbours. Outdoor unit placement takes more thought there.
-
 ## Heat pumps for older Halswell homes
 
-The older houses near the village vary much more. A weatherboard house may have had insulation added, or none at all. Brick bungalows on the same streets can have the same gaps. Long hallways and separate rooms often suit one unit for the lounge and compact units for the bedrooms, rather than one big unit trying to push heat down the hall.
+In the older houses near the village, insulation is the first thing to check. A weatherboard house may have had insulation added, or none at all. Brick bungalows on the same streets can have the same gaps. Long hallways and separate rooms often suit one unit for the lounge and compact units for the bedrooms, rather than one big unit trying to push heat down the hall.
 
 If the house is lightly insulated, adding ceiling and underfloor insulation lets a smaller system do the work.
 

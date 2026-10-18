@@ -27,9 +27,11 @@ related:
 
 ## Heat pump installation in older New Brighton cottages
 
-Much of New Brighton's housing is older: timber cottages, former baches that became full-time homes, and weatherboard houses from the middle of last century. Many have been added to over the years, so the floor plan can be a string of rooms rather than one open space.
+In New Brighton, the layout of an older house and the salt in the air decide most of the heat pump plan.
 
-That shapes the install. A single unit in a front lounge rarely carries heat through a narrow hallway into rooms at the back. In a cottage with a closed-off kitchen or sunroom, a second small unit or a [multi-room system](/multi-room-heat-pump-installation/) often makes more sense than one large unit turned up high.
+- **Timber cottages and former baches** that became full-time homes have often been added to over the years, so the floor plan is a string of rooms rather than one open space. A unit in the front lounge rarely carries heat through a narrow hallway to the rooms at the back. A second small unit, or a [multi-room system](/multi-room-heat-pump-installation/), heats a closed-off kitchen or sunroom better than one large unit turned up high.
+- **Weatherboard houses from the middle of last century** lose a lot of heat through their walls and windows. The next section covers what to fix before we size the unit.
+- **Every home this close to the sand** needs the outdoor unit placed and mounted for salt and loose ground, covered further down.
 
 ## Fix the heat loss in New Brighton homes first
 

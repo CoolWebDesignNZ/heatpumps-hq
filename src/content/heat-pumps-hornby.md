@@ -27,9 +27,12 @@ related:
 
 ## Heat pump installation for Hornby's housing
 
-A heat pump installation in Hornby has to suit a real mix of homes. Along the older streets you'll find weatherboard and brick houses with separate lounges, long hallways and bedrooms off to one side, many of them built before insulation was taken seriously. Newer townhouses and units have filled in sections between them.
+What decides the heat pump in a Hornby home is its layout and its insulation, and Hornby has two very different kinds of house.
 
-That mix matters because the same heat pump behaves very differently in each. In a well sealed unit, one wall-mounted heat pump can carry the whole living area. In an older house with a closed-off lounge, the heat stays in the room the unit is in, and the hallway and bedrooms stay cold.
+- **Older weatherboard and brick houses** along the older streets have a separate lounge, a long hallway and bedrooms off to one side, and many were built before insulation was taken seriously. They lose heat through the ceiling, the floor and older windows. A unit in a closed-off lounge keeps its heat in that room, so the hallway and bedrooms stay cold. These houses usually need a lounge unit sized for that heat loss plus a small unit in the main bedroom, or several indoor units on one outdoor unit, as the next section explains.
+- **Newer townhouses and units**, built on sections between the older houses, are well sealed and mostly open plan. One high wall unit, placed so its air travels along the living area rather than across a doorway, can carry the kitchen, dining and lounge on its own.
+
+So the first things we establish in Hornby are which kind of house you have and which rooms you actually want warm on a winter evening.
 
 ## Older Hornby houses: insulation first, then size
 

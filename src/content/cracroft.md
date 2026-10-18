@@ -27,7 +27,11 @@ related:
 
 ## Heat pump installation for Cracroft hill homes
 
-Every heat pump install on a Cracroft hill home starts with the site rather than the unit. Cracroft sits on the Port Hills, on the slopes beside Cashmere. Sections are steep, homes are often built into the slope over two or more levels, and some sit well above or below the road. The outlook across the city shapes how many of the houses are designed, with living rooms facing the view and glass to match.
+On a Cracroft hill home, the site decides what is practical before the unit does. Cracroft sits on the Port Hills beside Cashmere, and three things about its homes shape the install.
+
+- **Steep sections, with some homes well above or below the road.** Level ground is scarce and the route in can be long, so the outdoor unit usually goes on a bracket or a deck, in a spot that can still be reached for servicing.
+- **Houses built into the slope over two or more levels.** One unit won't carry heat well up or down a flight of stairs, so the living level and the bedroom level usually get a unit each, and the manufacturer's limits on pipe length and height difference decide which model fits.
+- **Living rooms facing the view across the city, with glass to match.** Large windows lose heat fast after dark, so we size the living room unit for the glass, not just the floor area.
 
 ## Getting the gear to a Cracroft house
 

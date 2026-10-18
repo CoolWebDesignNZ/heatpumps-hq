@@ -25,17 +25,21 @@ related:
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Which units keep heating in hard frosts. }
 ---
 
-## Yaldhurst lifestyle blocks on the plains
+## Heat pumps for Yaldhurst lifestyle blocks and larger homes
 
-Past the edge of the suburbs, Yaldhurst opens out into lifestyle blocks and larger homes on bigger sections, with a few newer subdivisions closer to town. Houses here are often bigger than a city home and more exposed. There's nothing between them and the weather coming across the plains.
+A Yaldhurst home needs a heat pump sized for hard frosts on still, clear nights and an outdoor unit placed out of the dry nor'west wind. Past the edge of the suburbs, there's nothing between these houses and the weather coming across the plains, and that exposure drives both choices.
 
-That exposure is the main thing that shapes a heat pump install in Yaldhurst. Two problems in particular: hard frosts on still, clear nights and the dry nor'west wind.
+- **Lifestyle block houses and larger homes on bigger sections** are often bigger than a city home, with several living areas and bedrooms spread out. One wall unit won't reach them all, so these homes suit [ducted heating](/ducted-heat-pumps-christchurch/) where the roof space allows, or two or three wall units in the rooms used every day.
+- **Homes in the newer subdivisions closer to town** are better insulated and more compact. A high wall unit in the open plan living area, with a smaller unit for the bedrooms, usually covers them, and neighbours are close enough that boundary noise counts.
+- **Sleepouts, studios and converted garages** on lifestyle properties take their own small unit, covered below.
+
+At the quote we size every unit for the cold end of the range, look at how exposed each wall is, and find an outdoor spot with shelter and somewhere for defrost water to go.
 
 ## Heat pump installation sized for Yaldhurst frosts
 
 We size a Yaldhurst heat pump installation for the cold end of the range, not for a mild day. A heat pump moves heat from the outside air into the house, and the colder it is outside, the less heat it can deliver, which is the opposite of what you need on a frosty morning. For an exposed house, we also look at units designed to hold their output at low temperatures; see [cold climate heat pumps](/cold-climate-heat-pumps/).
 
-Larger homes in Yaldhurst often suit [ducted heating](/ducted-heat-pumps-christchurch/), with a vent in each room and the indoor unit out of sight in the roof space. Others are better served by two or three wall units in the rooms that are used every day.
+A ducted system puts a vent in each room and the indoor unit out of sight in the roof space, which suits a large Yaldhurst home that's lived in end to end. Where only a few rooms are used every day, wall units in those rooms cost less to run.
 
 ## Where the outdoor unit goes on an open Yaldhurst section
 

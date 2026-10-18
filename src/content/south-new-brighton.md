@@ -27,9 +27,10 @@ related:
 
 ## Heat pump installation on both sides of South New Brighton
 
-South New Brighton is a narrow stretch of land, with the beach on one side and the Avon Heathcote Estuary on the other. Homes on the beach side take sea spray and the full easterly. Homes on the estuary side are more sheltered from spray, but the air off the water is often damp, and low-lying sections can stay wet through winter.
+In South New Brighton, the side of the suburb your home is on sets most of the heat pump plan. The suburb is a narrow stretch of land with the beach on one side and the Avon Heathcote Estuary on the other.
 
-So the install depends on which side of the suburb you're on. A beach-side home needs the outdoor unit tucked away from the sea wind. An estuary-side home needs the unit kept well clear of wet ground and the indoor unit placed to deal with damp.
+- **Beach-side homes** take sea spray and the full easterly. The outdoor unit goes on the sheltered side of the house, out of the sea wind, and its coil needs rinsing often to keep the salt off.
+- **Estuary-side homes** are more sheltered from spray, but the air off the water is often damp, and low-lying sections can stay wet through winter. The outdoor unit sits on a raised base or a wall bracket clear of the wet ground, and indoor units go where they keep the bedrooms warm enough to stop condensation, covered in the next section.
 
 ## Damp homes near the estuary
 

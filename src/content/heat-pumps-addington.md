@@ -16,7 +16,7 @@ faqs:
   - q: My cottage is right on the boundary. Can I still have a heat pump?
     a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site rather than by a set distance from the fence. Placement and unit choice matter more than the gap. Read our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> for the limits.
   - q: What size heat pump does a two-bedroom Addington cottage need?
-    a: It depends on the room sizes, how much insulation is in the ceiling and floor, and the windows. We measure those on site rather than guess from the number of bedrooms. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
+    a: That comes from the room sizes, the ceiling and floor insulation and the windows, not the number of bedrooms. We measure all of those on site. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
   - q: Do you service heat pumps in Addington rentals?
     a: Yes. We clean, service and repair heat pumps in rental homes for landlords and property managers, on all the major brands.
   - q: Can the outdoor unit go on the front of the house?
@@ -29,9 +29,12 @@ related:
 
 ## Heat pump installation in Addington's cottages and townhouses
 
-Heat pump installation in Addington is shaped by small sections and houses built close together. The suburb is flat and close to town, with small timber workers' cottages along its older streets and a steady run of new townhouses where larger sections have been redeveloped. Houses sit close to each other. In a lot of homes the only outside wall that isn't the front is a narrow side passage beside the neighbour's fence.
+In Addington the indoor side of a heat pump is usually simple, and the outdoor side decides the job. Houses sit close to each other on small sections, and in a lot of homes the only outside wall other than the front is a narrow side passage beside the neighbour's fence. There may be just one or two spots where an outdoor unit has air around it and stays quiet at the fence, and those spots set which system and which model you can have.
 
-That makes the outdoor unit the main design question. Indoors, a cottage with a lounge, kitchen and two bedrooms is simple to heat well. Outside, there may only be one or two spots where a unit can go.
+- **Small timber workers' cottages** on the older streets often have just a lounge, a kitchen and two bedrooms. One well placed wall unit can serve that layout if the ceiling and floor are insulated, as covered below.
+- **New townhouses**, where larger sections have been redeveloped, are better sealed and need less capacity, but their outdoor units still have to fit the same narrow spaces.
+
+The suburb is flat and close to town, so slope is never the problem here; space is. At the quote we go round every outside wall with you before we settle on a system.
 
 ## Outdoor units on a tight Addington section
 

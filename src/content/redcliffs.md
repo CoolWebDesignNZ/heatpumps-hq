@@ -16,22 +16,26 @@ faqs:
   - q: Does salt air shorten the life of a heat pump in Redcliffs?
     a: Salt settles on the outdoor unit's coil and casing and can speed up corrosion. A sheltered position, a gentle rinse with fresh water every so often and a yearly service all help the unit last.
   - q: Where should the outdoor unit go on a Redcliffs house?
-    a: Ideally on the side away from the prevailing wind off the water, with clear airflow around it and away from bedroom windows. We'll suggest the best spot when we visit.
+    a: Ideally on the side away from the prevailing wind off the water, with clear airflow around it and away from bedroom windows. We confirm the spot at the quote visit, once we've seen the wind and the space around the house.
   - q: How often should a coastal heat pump be serviced?
     a: At least once a year. Near the sea we also check the outdoor coil and casing for corrosion each time. Our <a href="/heat-pump-cleaning/">cleaning page</a> covers what a coastal clean involves.
   - q: Do you repair older units in Redcliffs?
-    a: Yes. We fault find and repair all the major brands, and we'll tell you honestly if an old unit is worth fixing.
+    a: Yes. We fault find and repair all the major brands. If parts are no longer made for an old unit, or salt has eaten into the coil, we say so before any repair work starts.
 related:
   - { label: Moncks Bay, href: /moncks-bay/, text: Heat pumps for homes along the bay. }
   - { label: Sumner, href: /sumner/, text: Installs and servicing near the beach. }
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Filter and coil cleans for a unit that works hard. }
 ---
 
-## Redcliffs homes between the cliffs and the estuary
+## Choosing heat pumps for Redcliffs homes, flat and hill
 
-Redcliffs lies along the coast road between Moncks Bay and Sumner, with the estuary on one side and steep cliffs and hillside on the other. The flat streets hold bungalows, family homes and some newer infill. Behind them, houses step up the hillside. After the earthquakes, some streets under the cliffs changed a great deal, and many hill homes are now rebuilds.
+Two things decide the heat pump for a Redcliffs home: how the house holds heat, and how much salt air off the estuary and the sea reaches the outdoor unit. Redcliffs runs along the coast road between Moncks Bay and Sumner, with the estuary on one side and steep cliffs and hillside on the other, so almost every house gets both wind and salt.
 
-Flat or hill, the common thread here is salt air off the estuary and the sea. It affects where we put the outdoor unit and how it should be looked after.
+- **Bungalows on the flat streets** often have a living room at the front and bedrooms down a long hallway. A high wall unit in the living area heats that end, but its warm air stops at closed bedroom doors, so a smaller second unit in the bedroom wing is the usual addition. If the ceiling, floor or windows haven't been upgraded, we check that first, because it changes the size of both units.
+- **Family homes and newer infill** on the flat are better insulated and often open plan. One correctly sized unit can heat the living, dining and kitchen space, with a [multi-room system](/multi-room-heat-pump-installation/) if you want the bedrooms warm from the same outdoor unit.
+- **Houses stepping up the hillside** are now often rebuilds, as are some homes in the streets under the cliffs that changed a great deal after the earthquakes. A rebuild holds heat well, so the work is less about capacity and more about mounting the outdoor unit and running the pipes, covered below.
+
+Whatever the house, the outdoor unit has to be placed and looked after for salt air, which the next section covers.
 
 ## Heat pump installation near salt water in Redcliffs
 
@@ -41,11 +45,11 @@ Salt carried on the wind settles on the outdoor unit's coil fins and metal casin
 - **Keep it off the ground.** Raised feet or a bracket keep it clear of puddles and wind-blown debris.
 - **Leave room to clean.** A unit jammed into a corner can't be rinsed or serviced properly.
 
-We'll talk through which models suit a coastal site and follow the manufacturer's installation guidance for it.
+We follow each manufacturer's installation guidance for a coastal site, including the clearances around the unit.
 
 ## Flat and hill sections in Redcliffs
 
-On the flat, a bungalow with a long hallway often suits one unit in the main living area and a smaller unit in the bedroom wing. On the hill, we usually work with wall brackets or decks and longer pipe runs, and the condensate drain needs a clear path downhill. Either way we size the system from your rooms, insulation and windows. The [sizing guide](/heat-pump-sizing/) walks through the method.
+On the hill, the outdoor unit usually goes on a wall bracket or a deck, which can mean a longer pipe run to the indoor unit, and the condensate drain needs a clear path downhill. On the flat, the limit is more often a narrow side yard with the neighbour close by. In both cases we size the system from your rooms, insulation and windows. The [sizing guide](/heat-pump-sizing/) walks through the method.
 
 ## Looking after a coastal heat pump in Redcliffs
 

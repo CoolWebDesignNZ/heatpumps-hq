@@ -25,11 +25,15 @@ related:
   - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: One outdoor unit, several rooms. }
 ---
 
-## Living beside the forest at Bottle Lake
+## Heat pumps for homes on the Bottle Lake forest edge
 
-Bottle Lake is largely made up of Bottle Lake Forest Park, a big pine plantation behind the dunes north of New Brighton. The homes here sit around its edges, close to Parklands, North New Brighton and the coast, and some are on bigger sections with trees on one or more sides.
+Bottle Lake is largely made up of Bottle Lake Forest Park, a big pine plantation behind the dunes north of New Brighton. For the homes around its edges, close to Parklands, North New Brighton and the coast, the heat pump comes down to how much winter sun the house gets and how far apart its rooms are.
 
-That setting gives an outdoor unit more to cope with than one on a suburban street.
+- **A house with pines on its north or west side** loses afternoon sun in winter, and the rooms on that side stay cooler all day. Those rooms need units sized for the room itself, not a share of one big unit.
+- **A single storey house on a street towards Parklands or North New Brighton** usually heats well with one high wall unit in the living area, plus a second small unit or [multi-room heads](/multi-room-heat-pump-installation/) in the bedrooms.
+- **A bigger home on a larger section with trees on several sides** often has living at one end and bedrooms at the other, which one unit can't cover. That is covered further down.
+
+Whichever it is, the outdoor unit here takes in pine needles, pollen, sand and salt, so where it goes matters as much as which one you choose.
 
 ## Pine needles, pollen and sand on Bottle Lake heat pumps
 
@@ -50,7 +54,7 @@ Longer distances between rooms also mean longer pipe runs. Every model has a max
 
 ## Sizing for shaded Bottle Lake homes
 
-We work out the size from your rooms, glazing, insulation and how you use the home. Homes shaded by tall trees get less winter sun, so they can need more heat than an open site with the same floor area.
+We work out the size from your rooms, glazing, insulation and how you use the home, and we note where the trees shade the house in winter, because a shaded home can need more heat than an open site with the same floor area.
 
 ## Servicing and repairs in Bottle Lake
 
