@@ -26,7 +26,7 @@ brands: true
 brandsHeading: Ducted heat pump brands we install in Christchurch
 areas: true
 areasHeading: Ducted heat pumps installed across Christchurch and Selwyn
-areasLead: We fit ducted heat pumps across Christchurch and Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Choose your suburb to see the homes we work on there.
+areasLead: We fit ducted heat pumps across Christchurch and Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu.
 faqHeading: Ducted heat pump questions
 relatedHeading: Ducted brands and comparisons
 faqs:

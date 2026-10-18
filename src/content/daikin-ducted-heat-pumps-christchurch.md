@@ -24,7 +24,7 @@ steps:
     p: We test it fully in heating and cooling, then show you the controller and the zones.
 areas: true
 areasHeading: Daikin ducted installs around Christchurch
-areasLead: We install Daikin ducted systems in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Pick your area to see how we heat the homes there.
+areasLead: We install Daikin ducted systems in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu.
 faqHeading: Daikin ducted heat pump questions
 relatedHeading: More ducted options and zoning
 faqs:
