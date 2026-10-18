@@ -8,13 +8,13 @@ import sharp from 'sharp';
 
 const key = process.env.IDEOGRAM_API_KEY;
 const images = JSON.parse(fs.readFileSync('src/data/images.json', 'utf8'));
-const only = process.argv[2];
-const ids = only ? [only] : Object.keys(images).filter((id) => !fs.existsSync(`public/images/${id}.jpg`));
+const only = process.argv.slice(2);
+const ids = only.length ? only : Object.keys(images).filter((id) => !fs.existsSync(`public/images/${id}.jpg`));
 
 // Ideogram 4.5 with magic prompt on. 2K presets: 16x9 heroes, 4x3 gallery.
 const sizes = { '16x9': '2560x1440', '4x3': '2304x1728' };
 // Real installs are hardwired; magic prompt otherwise tends to add a power cord.
-const tidy = ' Installed neatly: no power cord, plug or loose cables on any heat pump unit.';
+const tidy = ' Installed neatly: no power cord, plug or loose cables on any heat pump unit. Any outdoor unit is a small domestic split unit with one round front fan, about knee height, never a large commercial or tall box unit.';
 async function generate(id) {
   const { prompt: base, aspect } = images[id];
   const prompt = base + tidy;

@@ -37,7 +37,7 @@
  "repair-outdoor": {
   "aspect": "4x3",
   "alt": "Heat pump outdoor unit with its service panel removed",
-  "prompt": "Close-up photograph of a heat pump outdoor unit with the side service panel removed showing wiring and the compressor area, technician's gloved hands, overcast daylight, realistic, no text, no logos"
+  "prompt": "Close-up photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall with the side service panel removed showing wiring and the compressor area, technician's gloved hands, overcast daylight, realistic, no text, no logos"
  },
  "repair-drain": {
   "aspect": "4x3",
@@ -102,7 +102,7 @@
  "pool-coastal-home": {
   "aspect": "4x3",
   "alt": "Heat pump outdoor unit at a coastal home",
-  "prompt": "Photograph of a heat pump outdoor unit on a concrete pad beside a seaside bach style home, sand dune grass, sea haze in the background, natural light, realistic photograph, no people, no text, no logos"
+  "prompt": "Photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a concrete pad beside a seaside bach style home, sand dune grass, sea haze in the background, natural light, realistic photograph, no people, no text, no logos"
  },
  "pool-bedroom-unit": {
   "aspect": "4x3",
@@ -222,7 +222,7 @@
  "hiw-outdoor": {
   "aspect": "4x3",
   "alt": "Close view of a heat pump outdoor unit fan grille and coil",
-  "prompt": "Realistic editorial close-up photograph of the side of a white split system heat pump outdoor unit showing the fan grille and the finned aluminium coil, insulated copper pipes entering the unit, set against a New Zealand weatherboard wall, soft overcast light, no people, no text, no logos"
+  "prompt": "Realistic editorial close-up photograph of the side of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall showing the fan grille and the finned aluminium coil, insulated copper pipes entering the unit, set against a New Zealand weatherboard wall, soft overcast light, no people, no text, no logos"
  },
  "hiw-indoor": {
   "aspect": "4x3",
@@ -297,7 +297,7 @@
  "instcost-backtoback": {
   "aspect": "4x3",
   "alt": "Pipe cover running a short distance from the wall to an outdoor unit",
-  "prompt": "Realistic editorial photograph of a neat white plastic pipe cover running a short distance down an exterior weatherboard wall from the wall penetration into a white heat pump outdoor unit on a small concrete pad directly below, tidy garden edge, daylight, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a neat white plastic pipe cover running a short distance down an exterior weatherboard wall from the wall penetration into a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a small concrete pad directly below, tidy garden edge, daylight, no people, no text, no logos"
  },
  "instcost-bracket": {
   "aspect": "4x3",
@@ -372,7 +372,7 @@
  "installers-licence": {
   "aspect": "4x3",
   "alt": "Electrician wiring an isolating switch beside an outdoor unit",
-  "prompt": "Realistic documentary photograph of an anonymous electrician's hands in plain navy workwear wiring a grey lockable isolating switch mounted on an exterior house wall beside a white heat pump outdoor unit, screwdriver in hand, daylight, no faces, no text, no logos"
+  "prompt": "Realistic documentary photograph of an anonymous electrician's hands in plain navy workwear wiring a grey lockable isolating switch mounted on an exterior house wall beside a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall, screwdriver in hand, daylight, no faces, no text, no logos"
  },
  "installers-commission": {
   "aspect": "4x3",
@@ -382,12 +382,12 @@
  "coldclimate-hero": {
   "aspect": "16x9",
   "alt": "Heat pump outdoor unit on raised feet beside a weatherboard house on a frosty Canterbury morning",
-  "prompt": "Editorial photograph of a white heat pump outdoor unit on raised rubber feet beside a weatherboard house on the Canterbury Plains, hard white frost on the lawn and fence, low winter sun, clear blue sky, breath of steam rising from the unit, no people, no text, no logos"
+  "prompt": "Editorial photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on raised rubber feet beside a weatherboard house on the Canterbury Plains, hard white frost on the lawn and fence, low winter sun, clear blue sky, breath of steam rising from the unit, no people, no text, no logos"
  },
  "coldclimate-frost": {
   "aspect": "4x3",
   "alt": "Close view of light frost on the rear coil of a heat pump outdoor unit",
-  "prompt": "Close-up documentary photograph of light white frost on the aluminium fins of a heat pump outdoor unit coil at dawn, New Zealand garden behind, soft focus, no people, no text, no logos"
+  "prompt": "Close-up documentary photograph of light white frost on the aluminium fins of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall coil at dawn, New Zealand garden behind, soft focus, no people, no text, no logos"
  },
  "coldclimate-label": {
   "aspect": "4x3",
@@ -402,7 +402,7 @@
  "lowtemp-ice": {
   "aspect": "4x3",
   "alt": "Ice built up around the base of a heat pump outdoor unit",
-  "prompt": "Documentary photograph of ice built up around the base and drain of a heat pump outdoor unit on a concrete pad, frozen meltwater puddle, cold blue morning light, no people, no text, no logos"
+  "prompt": "Documentary photograph of ice built up around the base and drain of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a concrete pad, frozen meltwater puddle, cold blue morning light, no people, no text, no logos"
  },
  "lowtemp-isolator": {
   "aspect": "4x3",
@@ -467,7 +467,7 @@
  "power-outdoor": {
   "aspect": "4x3",
   "alt": "Heat pump outdoor unit with clear space around it",
-  "prompt": "Photograph of a heat pump outdoor unit on feet with open space at the sides and front, tidy garden bed, beside a modern New Zealand home, no people, no text, no logos"
+  "prompt": "Photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on feet with open space at the sides and front, tidy garden bed, beside a modern New Zealand home, no people, no text, no logos"
  },
  "carbon-hero": {
   "aspect": "16x9",
@@ -547,17 +547,17 @@
  "noise-hero": {
   "aspect": "16x9",
   "alt": "Heat pump outdoor unit near a fence between two houses",
-  "prompt": "Editorial photograph of a heat pump outdoor unit on anti-vibration feet near a timber boundary fence between two New Zealand houses, bedroom window of the neighbouring house in the background, no people, no text, no logos"
+  "prompt": "Editorial photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on anti-vibration feet near a timber boundary fence between two New Zealand houses, bedroom window of the neighbouring house in the background, no people, no text, no logos"
  },
  "noise-feet": {
   "aspect": "4x3",
   "alt": "Rubber anti-vibration feet under a heat pump outdoor unit",
-  "prompt": "Close-up photograph of black rubber anti-vibration feet under a heat pump outdoor unit on a concrete pad, no people, no text, no logos"
+  "prompt": "Low angle photograph of a compact white domestic split system heat pump outdoor unit with one large round fan grille filling most of its front, about knee height, standing on four black rubber anti-vibration feet on a concrete pad beside a New Zealand weatherboard house, the feet clearly visible, overcast daylight, no people, no text, no logos"
  },
  "noise-fan": {
   "aspect": "4x3",
   "alt": "Technician checking the fan of a heat pump outdoor unit",
-  "prompt": "Photograph of a technician's gloved hands checking the fan guard of a heat pump outdoor unit, plain navy sleeve, no face, garden background, no text, no logos"
+  "prompt": "Photograph of a technician's gloved hands checking the fan guard of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall, plain navy sleeve, no face, garden background, no text, no logos"
  },
  "diyguide-hero": {
   "aspect": "16x9",
@@ -572,7 +572,7 @@
  "diyguide-outdoor": {
   "aspect": "4x3",
   "alt": "Leaves packed against the back of a heat pump outdoor unit",
-  "prompt": "Documentary photograph of autumn leaves and twigs packed against the rear coil of a heat pump outdoor unit beside a New Zealand house, no people, no text, no logos"
+  "prompt": "Documentary photograph of autumn leaves and twigs packed against the rear coil of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall beside a New Zealand house, no people, no text, no logos"
  },
  "coverguide-hero": {
   "aspect": "16x9",
@@ -732,7 +732,7 @@
  "services-outdoor": {
   "aspect": "4x3",
   "alt": "Technician cleaning the coil of an outdoor unit",
-  "prompt": "Documentary photograph of an anonymous technician in plain navy workwear gently rinsing the coil fins of a heat pump outdoor unit with a low pressure spray, New Zealand garden path, overcast day, no text, no logos"
+  "prompt": "Documentary photograph of an anonymous technician in plain navy workwear gently rinsing the coil fins of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall with a low pressure spray, New Zealand garden path, overcast day, no text, no logos"
  },
  "services-filters": {
   "aspect": "4x3",
@@ -752,7 +752,7 @@
  "servicing-outdoor": {
   "aspect": "4x3",
   "alt": "Heat pump outdoor unit with its side panel removed for a service check",
-  "prompt": "Realistic photograph of a heat pump outdoor unit on raised rubber feet beside a painted weatherboard wall, side service panel removed, small toolbag and torch on the concrete pad, overcast Canterbury day, no people, no text, no logos"
+  "prompt": "Realistic photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on raised rubber feet beside a painted weatherboard wall, side service panel removed, small toolbag and torch on the concrete pad, overcast Canterbury day, no people, no text, no logos"
  },
  "maint-hero": {
   "aspect": "16x9",
@@ -767,7 +767,7 @@
  "maint-outdoor-clear": {
   "aspect": "4x3",
   "alt": "Leaves being swept away from a heat pump outdoor unit",
-  "prompt": "Realistic photograph of a soft broom sweeping autumn leaves away from the base of a heat pump outdoor unit on a concrete pad beside a brick New Zealand house, garden edge trimmed back, only hands and broom visible, no text, no logos"
+  "prompt": "Realistic photograph of a soft broom sweeping autumn leaves away from the base of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a concrete pad beside a brick New Zealand house, garden edge trimmed back, only hands and broom visible, no text, no logos"
  },
  "tuneup-hero": {
   "aspect": "16x9",
@@ -792,7 +792,7 @@
  "winter-defrost": {
   "aspect": "4x3",
   "alt": "Meltwater draining from the base of a heat pump outdoor unit onto gravel",
-  "prompt": "Close-up realistic photograph of meltwater dripping from the base of a heat pump outdoor unit raised on rubber feet onto a bed of grey gravel, light frost on surrounding ground, early morning light, New Zealand home, no people, no text, no logos"
+  "prompt": "Close-up realistic photograph of meltwater dripping from the base of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall raised on rubber feet onto a bed of grey gravel, light frost on surrounding ground, early morning light, New Zealand home, no people, no text, no logos"
  },
  "winter-louvres": {
   "aspect": "4x3",
@@ -917,7 +917,7 @@
  "troubleshoot-2": {
   "aspect": "4x3",
   "alt": "Refrigerant gauges connected to the service valves of a heat pump outdoor unit",
-  "prompt": "Realistic editorial photograph, close up of refrigerant manifold gauges with blue and red hoses connected to the service valves of a heat pump outdoor unit, copper pipes with insulation, New Zealand backyard, overcast light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph, close up of refrigerant manifold gauges with blue and red hoses connected to the service valves of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall, copper pipes with insulation, New Zealand backyard, overcast light, no people, no text, no logos"
  },
  "leak-hero": {
   "aspect": "16x9",
@@ -997,7 +997,7 @@
  "mitsubishi-hero": {
   "aspect": "16x9",
   "alt": "Technician checking a heat pump outdoor unit beside a weatherboard house",
-  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear checking the fan of a heat pump outdoor unit on a wall bracket beside a painted weatherboard house in Christchurch, Port Hills faint in the background, winter sun, face not visible, no text, no logos"
+  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear checking the fan of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a wall bracket beside a painted weatherboard house in Christchurch, Port Hills faint in the background, winter sun, face not visible, no text, no logos"
  },
  "mitsubishi-1": {
   "aspect": "4x3",
@@ -1017,7 +1017,7 @@
  "fujitsu-1": {
   "aspect": "4x3",
   "alt": "Technician vacuuming dust from a heat pump outdoor coil",
-  "prompt": "Realistic editorial photograph of gloved hands using a soft brush attachment to clean leaves and dust from the rear coil fins of a heat pump outdoor unit, New Zealand garden, autumn leaves on the ground, no face, no text, no logos"
+  "prompt": "Realistic editorial photograph of gloved hands using a soft brush attachment to clean leaves and dust from the rear coil fins of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall, New Zealand garden, autumn leaves on the ground, no face, no text, no logos"
  },
  "fujitsu-2": {
   "aspect": "4x3",
@@ -1037,7 +1037,7 @@
  "panasonic-2": {
   "aspect": "4x3",
   "alt": "Heat pump outdoor unit with replacement parts laid on a mat beside it",
-  "prompt": "Realistic editorial photograph of a heat pump outdoor unit with its side panel off and a new fan motor and small circuit board laid on a rubber mat beside it, concrete path, New Zealand house, overcast light, no people, no text, no logos"
+  "prompt": "Realistic editorial photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall with its side panel off and a new fan motor and small circuit board laid on a rubber mat beside it, concrete path, New Zealand house, overcast light, no people, no text, no logos"
  },
  "central-city-hero": {
   "aspect": "16x9",
