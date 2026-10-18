@@ -54,7 +54,8 @@ const faqs = [
 <Base
   title="Heat Pumps Christchurch, Install & Repair"
   description="Heat pump installation, servicing and repairs in Christchurch. Mitsubishi, Daikin, Fujitsu and Toshiba, sized to your home with a fixed price upfront."
-  image="home-hero">
+  image="home-hero"
+  schema={[{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) }]}>
 
   <Hero image="home-hero" h1="Heat pump installation, service and repairs in Christchurch"
         intro={`We fit, service and fix heat pumps across Christchurch, Selwyn and Lyttelton. Every unit is sized for your home, and you get a fixed price before we start. Locally owned since ${site.founded}.`} />

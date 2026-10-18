@@ -15,9 +15,18 @@ const business = {
   url: `${site.domain}/`,
   telephone: '+64 3 242 1023',
   email: site.email,
+  image: `${site.domain}/images/home-hero.jpg`,
+  logo: `${site.domain}/logo.png`,
   founder: { '@type': 'Person', name: site.owner },
   foundingDate: String(site.founded),
-  areaServed: ['Christchurch', 'Selwyn District', 'Lyttelton'],
+  // A service-area business: no street address is published, only the locality.
+  address: { '@type': 'PostalAddress', addressLocality: 'Christchurch', addressRegion: 'Canterbury', addressCountry: 'NZ' },
+  areaServed: [
+    { '@type': 'City', name: 'Christchurch' },
+    { '@type': 'AdministrativeArea', name: 'Selwyn District' },
+    { '@type': 'Place', name: 'Lyttelton' },
+  ],
+  knowsAbout: ['Heat pump installation', 'Heat pump servicing', 'Heat pump repair', 'Ducted heat pumps'],
   openingHoursSpecification: [{
     '@type': 'OpeningHoursSpecification',
     dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
@@ -25,7 +34,8 @@ const business = {
   }],
   sameAs: [site.facebook],
 };
-const graph = [business, ...schema];
+const website = { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${site.domain}/#website`, name: site.name, url: `${site.domain}/`, publisher: { '@id': `${site.domain}/#business` } };
+const graph = Astro.url.pathname === '/' ? [business, website, ...schema] : [business, ...schema];
 ---
 <!doctype html>
 <html lang="en-NZ">

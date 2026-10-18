@@ -71,21 +71,33 @@ schema.push({
   '@context': 'https://schema.org', '@type': 'BreadcrumbList',
   itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.label, item: `${site.domain}${c.href}` })),
 });
+// Suburb pages name the place fully; Selwyn towns sit in Selwyn District.
+const selwyn = ['Rolleston', 'Lincoln', 'Prebbleton', 'Tai Tapu'];
+const place = fm.suburb
+  ? { '@type': 'Place', name: `${fm.suburb}, ${selwyn.includes(fm.suburb) ? 'Selwyn District' : 'Christchurch'}, New Zealand` }
+  : { '@type': 'City', name: 'Christchurch' };
+const heroUrl = fm.hero ? `${site.domain}/images/${fm.hero}.jpg` : undefined;
 if (type === 'service' || type === 'suburb') {
   schema.push({
     '@context': 'https://schema.org', '@type': 'Service',
-    name: fm.serviceName ?? fm.h1, url,
+    name: fm.serviceName ?? fm.h1, serviceType: fm.serviceName ?? fm.h1, url,
     provider: { '@id': `${site.domain}/#business` },
-    areaServed: fm.areaServed ?? 'Christchurch',
+    areaServed: place,
+    ...(heroUrl && { image: heroUrl }),
   });
 }
 if (type === 'guide') {
   schema.push({
     '@context': 'https://schema.org', '@type': 'Article',
-    headline: fm.h1, url, dateModified: fm.updated,
-    author: { '@type': 'Person', name: site.owner },
+    headline: fm.h1, url, image: heroUrl,
+    datePublished: fm.updated, dateModified: fm.updated,
+    author: { '@type': 'Person', name: site.owner, url: `${site.domain}/about-us/` },
     publisher: { '@id': `${site.domain}/#business` },
+    mainEntityOfPage: url,
   });
+}
+if (type === 'about' || type === 'contact') {
+  schema.push({ '@context': 'https://schema.org', '@type': type === 'about' ? 'AboutPage' : 'ContactPage', url, name: fm.title, about: { '@id': `${site.domain}/#business` } });
 }
 if (fm.faqs?.length) {
   schema.push({
