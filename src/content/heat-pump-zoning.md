@@ -47,7 +47,7 @@ There are two levels of zoning, and the difference matters:
 1. **On and off zoning.** You choose which zones get air. The heat pump still works to one thermostat, so the open zones all aim for the same temperature.
 2. **Temperature control in each zone.** Each zone has its own sensor and set point. The lounge can sit warmer than the bedrooms while both are on.
 
-Daikin and Mitsubishi Electric both offer the second kind. Daikin lists the [Airzone VAF zoning system and AirHub Touch zone controller](https://www.daikin.co.nz/pages/ducted-heat-pumps) for its ducted units, and Mitsubishi Electric pairs its ducted units with [ZoneIQ in its ComfortMaster system](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx). The brand pages for [Daikin ducted](/daikin-ducted-heat-pumps-christchurch/) and [Mitsubishi Electric ducted](/mitsubishi-ducted-heat-pumps-christchurch/) go into each.
+Daikin and Mitsubishi Electric both offer the second kind. Daikin lists the [Airzone VAF zoning system and AirHub Touch zone controller](https://www.daikin.co.nz/pages/ducted-heat-pumps) for its ducted units, and Mitsubishi Electric pairs its ducted units with [ZoneIQ in its ComfortMaster system](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx). We install both: [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/) and [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
 
 ## Planning the zones
 

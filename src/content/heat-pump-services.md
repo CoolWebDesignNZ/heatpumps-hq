@@ -24,7 +24,7 @@ related:
 
 ## How our heat pump services work
 
-Every job starts the same way. We find out what the heat pump needs to do, look at the house or the unit, and give you a fixed price before any work starts. We install four brands and service and repair those plus Panasonic and most others sold in New Zealand, so one call covers a new system, a yearly service or a fault. The pages below explain each service in detail.
+Every job starts the same way. We find out what the heat pump needs to do, look at the house or the unit, and give you a fixed price before any work starts. We install four brands and service and repair those plus Panasonic and most others sold in New Zealand, so one call covers a new system, a yearly service or a fault.
 
 ## New heat pump installations
 
@@ -67,7 +67,7 @@ We find and fix faults on all major brands, from a unit that has stopped to a re
 
 ## Heat pump service by brand
 
-Each brand we look after has its own service page.
+We service and repair each of these brands, including Panasonic, which we don't install.
 
 - [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/): servicing and repairs for Mitsubishi Electric wall, floor and ducted units.
 - [Daikin heat pump service](/daikin-heat-pump-service-christchurch/): servicing and repairs for Daikin split and ducted systems.

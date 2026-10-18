@@ -35,7 +35,7 @@ A heat pump that's been running for many years doesn't automatically need replac
 - **The power bill has crept up** with no change in how you use it.
 - **The house has changed.** A renovation, an extension or new insulation means the room needs a different size of unit.
 
-If only one of these applies, a repair or service may be enough. Our [repairs page](/heat-pump-repair/) covers how we decide between repair and replacement.
+If only one of these applies, a repair or service may be enough. [Heat pump repair](/heat-pump-repair/) explains how we weigh up repairing against replacing.
 
 ## Heat pump upgrades short of replacement
 
@@ -59,7 +59,7 @@ Replacing an old heat pump runs in six steps, from looking at the house to showi
 
 ## Comparing old and new heat pump efficiency
 
-The energy label changed in 2021. EECA says the stars on the old Energy Rating Label measured something different and can't be compared with the stars on the current Zoned Energy Rating Label ([EECA guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). So we don't promise a percentage saving. What we can tell you is how the new unit's rated output compares with what your room needs, and how it rates against other models of the same size. For more on the label, see our [energy rating guide](/energy-star-heat-pumps/).
+The energy label changed in 2021. EECA says the stars on the old Energy Rating Label measured something different and can't be compared with the stars on the current Zoned Energy Rating Label ([EECA guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). So we don't promise a percentage saving. What we can tell you is how the new unit's rated output compares with what your room needs, and how it rates against other models of the same size. For each part of the label, see [reading the energy rating label](/energy-star-heat-pumps/).
 
 ## Brands we install and replace
 

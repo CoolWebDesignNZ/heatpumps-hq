@@ -16,7 +16,7 @@ faqs:
   - q: Should I switch my heat pump off at the switchboard?
     a: Yes, if you smell burning, see smoke or sparks, or hear crackling from the unit or its wiring. Use the isolating switch outside or the heat pump's breaker on the switchboard, and leave it off until it has been checked.
   - q: Can I keep using a heat pump that is dripping water?
-    a: Switch it off. Water running near the electrical parts inside the indoor unit is a hazard, and running on can soak the wall. Our <a href="/leak-detection-repair/">leak repair page</a> explains the usual causes.
+    a: Switch it off. Water running near the electrical parts inside the indoor unit is a hazard, and running on can soak the wall. <a href="/leak-detection-repair/">Leak detection and repair</a> goes through the usual causes.
   - q: How quickly can you get to me?
     a: That depends on the day's bookings, so we won't promise a time before you call. Ringing early in the morning gives us the most room to fit you in.
 related:
@@ -64,16 +64,16 @@ When you call, have this ready:
 
 Some things feel like a breakdown and turn out to be normal. Check these before you assume the worst:
 
-- **Steam from the outdoor unit and the indoor fan stops.** That's the defrost cycle on a frosty morning, and it clears by itself. Our [repair page](/heat-pump-repair/) explains what normal defrost looks like.
+- **Steam from the outdoor unit and the indoor fan stops.** That's the defrost cycle on a frosty morning, and it clears by itself. If you're not sure it's defrost, [heat pump repair](/heat-pump-repair/) describes what normal looks like.
 - **It won't start straight after a power cut.** Many units wait a few minutes before they restart once the power comes back.
 - **The remote does nothing.** Try new batteries, and check it isn't set to cool, dry or fan only.
 - **A timer has switched it off.** A timer set months ago can still be running.
 
-Our [troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) goes through more checks you can do yourself.
+There are more [checks you can do yourself](/heat-pump-problems-troubleshooting-guide/) for common faults.
 
 ## What happens at a heat pump repair in Christchurch
 
-We start by finding the cause rather than replacing parts on a guess, which is how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, you get a fixed price for the repair before any work starts. If a part has to be ordered in, we'll tell you how to use the unit safely until it arrives, or whether it should stay off. Details on parts are on our [parts replacement](/heat-pump-parts-replacement/) page.
+We start by finding the cause rather than replacing parts on a guess, which is how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, you get a fixed price for the repair before any work starts. If a [replacement part](/heat-pump-parts-replacement/) has to be ordered in, we'll tell you how to use the unit safely until it arrives, or whether it should stay off.
 
 We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other heat pumps sold in New Zealand, across Christchurch, Selwyn and Lyttelton.
 

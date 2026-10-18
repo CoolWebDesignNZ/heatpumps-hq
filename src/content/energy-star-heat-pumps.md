@@ -31,7 +31,7 @@ In New Zealand the label to compare is the Zoned Energy Rating Label, not the bl
 
 In New Zealand, heat pumps are covered by Minimum Energy Performance Standards and mandatory energy labelling, regulated by EECA under the Energy Efficiency (Energy Using Products) Regulations 2002. Every heat pump model new to the market since 1 July 2021 has had to carry the **Zoned Energy Rating Label**.
 
-Source for this page: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
+Source: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
 
 ## How to read a heat pump's Zoned Energy Rating Label
 
@@ -49,15 +49,15 @@ The stars compare a heat pump with others of similar capacity. More stars means 
 
 ### The kWh per year figures
 
-At the right hand edge of each star row is a kWh per year figure for heating and one for cooling. They indicate how much electricity the heat pump may use in that zone over a year. EECA is clear that they are only an indication, because every household uses a heat pump differently. They're most useful for comparing two models side by side. To estimate a running cost, EECA suggests adding the heating and cooling kWh for your zone and multiplying by your own electricity tariff. Our [heat pump power usage page](/energy-consumption-monitoring/) explains why your real figure will differ.
+At the right hand edge of each star row is a kWh per year figure for heating and one for cooling. They indicate how much electricity the heat pump may use in that zone over a year. EECA is clear that they are only an indication, because every household uses a heat pump differently. They're most useful for comparing two models side by side. To estimate a running cost, EECA suggests adding the heating and cooling kWh for your zone and multiplying by your own electricity tariff. Your real figure will differ, and [heat pump power usage](/energy-consumption-monitoring/) explains why.
 
 ### The capacity figures
 
-Near the top of the label are three capacity numbers: cooling at 35°C outside, and heating at 7°C and at 2°C outside. Size the unit on the 7°C heating figure if heating is its main job. If your area gets overnight winter temperatures of 2°C or less, EECA advises checking that the 2°C heating figure is the same as or greater than the 7°C one. Our [cold climate guide](/cold-climate-heat-pumps/) covers why that number matters.
+Near the top of the label are three capacity numbers: cooling at 35°C outside, and heating at 7°C and at 2°C outside. Size the unit on the 7°C heating figure if heating is its main job. If your area gets overnight winter temperatures of 2°C or less, EECA advises checking that the 2°C heating figure is the same as or greater than the 7°C one. That 2°C figure is the one to check on [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 ### The noise figures
 
-A house icon at the bottom can show indoor and outdoor sound levels, though showing noise is optional in New Zealand. Our [heat pump noise guide](/heat-pump-noise-problems-solutions/) explains how those figures are measured and how to use them.
+A house icon at the bottom can show indoor and outdoor sound levels, though showing noise is optional in New Zealand. [Heat pump noise](/heat-pump-noise-problems-solutions/) explains how those figures are measured and how to use them.
 
 ## What the energy star rating doesn't tell you
 

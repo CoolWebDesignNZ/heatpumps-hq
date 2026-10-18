@@ -4,7 +4,7 @@ description: "Mitsubishi vs Daikin, Daikin vs Fujitsu, and Toshiba: a plain heat
 keyword: heat pump brands comparison
 secondary: [heat pump brands, mitsubishi vs daikin, daikin vs fujitsu]
 h1: "Heat pump brands comparison: Mitsubishi Electric, Daikin, Fujitsu and Toshiba"
-intro: These are the four brands we install. Each has a full New Zealand range and local support. This page sets out what each one sells here, so you can compare them on facts rather than advertising.
+intro: These are the four brands we install. Each has a full New Zealand range and local support. You can compare what each one sells in New Zealand on facts rather than advertising.
 hero: brandcomp-hero
 updated: 2026-10-17
 gallery: [brandcomp-units, brandcomp-outdoor]
@@ -27,7 +27,7 @@ related:
 
 ## How to read this heat pump brands comparison
 
-Brand reputation tells you less than the model. Each brand sells more than one range, and the gap between two models from one brand can be bigger than the gap between brands. So this page sticks to facts each brand publishes on its own New Zealand website, checked in October 2026. For judging individual models, see [best heat pumps NZ](/best-heat-pump-brands-christchurch/).
+Brand reputation tells you less than the model. Each brand sells more than one range, and the gap between two models from one brand can be bigger than the gap between brands. Every brand detail here comes from that brand's own New Zealand website, checked in October 2026. For judging individual models, see [best heat pumps NZ](/best-heat-pump-brands-christchurch/).
 
 We install all four, so we have no reason to push one over another. The right choice is the model that fits the room, the outdoor unit position and your budget.
 
@@ -38,7 +38,7 @@ We install all four, so we have no reason to push one over another. The right ch
 **Features it publishes:**
 
 - **HyperCore.** Mitsubishi Electric says its [HyperCore models](https://www.mitsubishi-electric.co.nz/heatpump/hypercore.aspx) keep their full rated heating capacity from +7°C down to minus 15°C. That's a manufacturer's claim about specific models, not the whole range.
-- **Sizing tool.** Its [sizing page](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) suggests models from room size, insulation and region, and recommends an in-home consultation before you buy.
+- **Sizing tool.** Its [online sizing tool](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) suggests models from room size, insulation and region, and recommends an in-home consultation before you buy.
 - **Ducted zoning.** It lists a ZoneIQ ducted zone controller.
 
 We also service and repair Mitsubishi Electric units. See [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) and [Mitsubishi ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
@@ -47,7 +47,7 @@ We also service and repair Mitsubishi Electric units. See [Mitsubishi heat pump 
 
 **Who sells it here:** Daikin New Zealand. Its site says Daikin is sold through a specialist dealer network, and that appointed dealers are independently owned and operated businesses.
 
-**What it lists:** its [split system page](https://www.daikin.co.nz/pages/split-system-heat-pumps) shows wall mounted ranges including Alira X, Alira, Zena Vogue, Cora, Standard Series and Lite Series, plus the Aura floor standing unit. Its [ducted page](https://www.daikin.co.nz/pages/ducted-heat-pumps) lists slim-line ducted units for limited ceiling space, a ducted model with a 700mm depth designed for New Zealand homes, an inverter ducted series with R22 retrofit capability, bulkhead units, and two zoning systems.
+**What it lists:** its [split system range](https://www.daikin.co.nz/pages/split-system-heat-pumps) shows wall mounted ranges including Alira X, Alira, Zena Vogue, Cora, Standard Series and Lite Series, plus the Aura floor standing unit. Its [ducted range](https://www.daikin.co.nz/pages/ducted-heat-pumps) includes slim-line ducted units for limited ceiling space, a ducted model with a 700mm depth designed for New Zealand homes, an inverter ducted series with R22 retrofit capability, bulkhead units, and two zoning systems.
 
 We also service and repair Daikin. See [Daikin heat pump service](/daikin-heat-pump-service-christchurch/) and [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/).
 
@@ -63,7 +63,7 @@ If you already have a Fujitsu unit, nothing about it changes. We still service a
 
 **Who sells it here:** Toshiba heat pumps are distributed in New Zealand by AHI Carrier, which its [website](https://ahi-carrier.co.nz/) describes as the authorised distributor of Carrier and Toshiba HVAC products in New Zealand.
 
-**What it lists:** split system high wall units, floor consoles, multi split systems and ducted systems, with Wi-Fi control. Its floor console page describes dual air discharge and R32 refrigerant, and its ducted page lists slimline ceiling concealed models and zoning.
+**What it lists:** split system high wall units, floor consoles, multi split systems and ducted systems, with Wi-Fi control. AHI Carrier describes the Toshiba floor console as having dual air discharge and R32 refrigerant, and lists slimline ceiling concealed ducted models and zoning.
 
 ## Mitsubishi vs Daikin vs Fujitsu vs Toshiba, side by side
 

@@ -79,6 +79,6 @@ We agree a fixed price with you before any work starts.
 
 ## How heat pump servicing fits with the rest of the year
 
-A service is one visit. Looking after a heat pump between visits is covered on our [heat pump maintenance](/maintenance-servicing/) page, and a quicker pre-season check is described under [seasonal tune-ups](/heat-pump-seasonal-tune-ups/). If the unit has stopped working, that's a [repair](/heat-pump-repair/), not a service.
+A service is one visit. Looking after a heat pump between visits is [regular maintenance](/maintenance-servicing/), and a quicker pre-season check is a [seasonal tune-up](/heat-pump-seasonal-tune-ups/). If the unit has stopped working, that's a [repair](/heat-pump-repair/), not a service.
 
 To book a service, call **03 242 1023** or [request a quote](/contact-us/).

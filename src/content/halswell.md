@@ -16,7 +16,7 @@ faqs:
   - q: Our new Halswell house came with one heat pump. Should we add another?
     a: If the bedrooms are cold or the unit runs flat out to heat the living area, a second smaller unit or a multi-room system usually fixes it. We check the existing unit's size against the room before suggesting anything.
   - q: Can a ducted system be added to a house that's already built?
-    a: Often, if there's enough roof space for the indoor unit and duct runs. Single-storey homes with a standard pitched roof are usually easiest. More on our <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps page</a>.
+    a: Often, if there's enough roof space for the indoor unit and duct runs. Single-storey homes with a standard pitched roof are usually the easiest to fit with <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
   - q: Is Halswell under Selwyn or Christchurch rules?
     a: Christchurch. Halswell is inside the city boundary, so it's the Christchurch District Plan rather than Selwyn's.
   - q: Do you service the heat pump that came with our new home?
@@ -34,7 +34,7 @@ Halswell sits on the south-west edge of Christchurch, below the Port Hills, and 
 - **Weatherboard and brick houses in the original village** have smaller, separate rooms, and unless they have been upgraded they lose heat through the ceiling, under the floor and through single glazing. One unit in the lounge won't reach the bedrooms. Many sit on good-sized sections, which gives a choice of spots for the outdoor unit well away from your bedrooms and the neighbour's.
 - **Modern homes in the new subdivisions** are well insulated and usually open plan, so the living area needs one correctly sized unit. The common problem is a builder-fitted unit that is too small, or one that leaves the bedrooms cold.
 - **Townhouses and terraces** have small courtyards and shared walls. The indoor unit goes on an outside wall so its pipes can run straight through, and the outdoor unit usually goes on a courtyard wall bracket, with its fan facing away from the bedroom windows next door.
-- **Homes up the hill in [Kennedys Bush](/kennedys-bush/)** have their own page.
+- **Homes up the hill in [Kennedys Bush](/kennedys-bush/)** take more wind and frost than the streets below, and their big view windows change how a unit is sized.
 
 ## Heat pump installation in new Halswell subdivisions
 
@@ -50,7 +50,7 @@ If the house is lightly insulated, adding ceiling and underfloor insulation lets
 
 ## Outdoor unit placement in Halswell
 
-Wherever you live in Halswell, the outdoor unit needs raised feet or a bracket for frosty mornings, clear air around it, and a position that keeps noise away from bedrooms. Halswell is in Christchurch City, and the District Plan limits heat pump noise at the neighbour's property. More on that in the [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+Wherever you live in Halswell, the outdoor unit needs raised feet or a bracket for frosty mornings, clear air around it, and a position that keeps noise away from bedrooms. Halswell is in Christchurch City, and the District Plan limits [heat pump noise at the neighbour's property](/heat-pump-boundary-rules-consent-nz/).
 
 ## What we do in Halswell
 

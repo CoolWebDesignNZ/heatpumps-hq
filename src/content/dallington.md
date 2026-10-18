@@ -31,7 +31,7 @@ In Dallington, what happened to a house after the earthquakes tells us more abou
 
 - **Full rebuilds** are built to current standards and keep heat well. A correctly sized high wall unit can heat the living area, with a small second unit for the bedrooms if you want them warm too.
 - **Repaired original bungalows** may have new plasterboard over walls that were never insulated. They lose heat faster, and many have a separate lounge and dining room that one lounge unit won't reach. These homes need more capacity, or a unit in each room you use on a [multi-room system](/multi-room-heat-pump-installation/).
-- **Relevelled or repiled homes** need the outdoor unit mounted so later ground movement can't strain the pipework, covered below.
+- **Relevelled or repiled homes** need the outdoor unit mounted so later ground movement can't strain the pipework.
 
 ## Checking a Dallington house before we size the heat pump
 
@@ -50,11 +50,11 @@ Dallington sits inside a loop of the Avon River. After the earthquakes much of t
 
 ## River-side damp in Dallington
 
-Homes close to the river can feel damp in winter. A heat pump's dry mode helps on mild damp days, though it doesn't replace ventilation or fixing a leak. More on that in our [dehumidification](/heat-pump-dehumidification/) page.
+Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild damp days, though it doesn't replace ventilation or fixing a leak.
 
 ## Heat pump repair and servicing in Dallington
 
-If your Dallington home came with a heat pump already fitted, it may not have been serviced in years. A service cleans the filters, coil and fan and checks the drain and refrigerant performance. That covers Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands. More detail is on our [servicing](/maintenance-servicing/) and [repair](/heat-pump-repair/) pages.
+If your Dallington home came with a heat pump already fitted, it may not have been serviced in years. A [service](/maintenance-servicing/) cleans the filters, coil and fan and checks the drain and refrigerant performance. Servicing and [repairs](/heat-pump-repair/) cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Suburbs around Dallington
 

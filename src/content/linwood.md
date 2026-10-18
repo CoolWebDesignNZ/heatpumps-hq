@@ -20,7 +20,7 @@ faqs:
   - q: My house was repaired after the earthquakes. Does that change anything?
     a: Only in the details. Repaired walls and new linings are fine to mount on. If the floor was relevelled or the foundations replaced, we check the underfloor access before planning the pipe route.
   - q: How often do the filters on a Linwood heat pump need cleaning?
-    a: Rinse them every few weeks through the heating season. It takes a few minutes and keeps output up. Our <a href="/heat-pump-cleaning/">cleaning page</a> covers the deeper clean we do.
+    a: Rinse them every few weeks through the heating season. It takes a few minutes and keeps output up. For the parts behind the filters, book a deeper <a href="/heat-pump-cleaning/">heat pump clean</a>.
 related:
   - { label: Phillipstown, href: /phillipstown/, text: Heat pumps for Phillipstown cottages, units and rentals. }
   - { label: Bromley, href: /bromley/, text: Installs and servicing in neighbouring Bromley. }
@@ -57,7 +57,7 @@ Blocks of units are smaller and simpler inside, but the outdoor space is shared.
 
 ## Heat pump service and repair in Linwood
 
-A Linwood heat pump that runs every winter evening collects dust fast, so book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, our [repairs page](/heat-pump-repair/) explains what we check.
+A Linwood heat pump that runs every winter evening collects dust fast, so book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, call us for a [heat pump repair](/heat-pump-repair/).
 
 ## Areas around Linwood
 

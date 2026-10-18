@@ -35,13 +35,13 @@ EECA's label guidance gives a sense of the scale. A one star heat pump on the Zo
 
 How efficient a heat pump can be starts with the unit itself: the compressor, the size of the coils, the fans and how well it runs at part load, which is where the inverter comes in. Modern inverter heat pumps slow down and speed up to match the heat the room needs instead of running flat out and stopping.
 
-To compare models, use the heating stars in the Cold zone on the energy label, which is where all of New Zealand sits. Stars compare a unit with others of similar capacity, so compare a 6 kW unit with other 6 kW units. Our [energy rating label guide](/energy-star-heat-pumps/) explains each part of the label.
+To compare models, use the heating stars in the Cold zone on the energy label, which is where all of New Zealand sits. Stars compare a unit with others of similar capacity, so compare a 6 kW unit with other 6 kW units. [How to read the energy rating label](/energy-star-heat-pumps/) goes through each part of it.
 
 ## 2. The size of the heat pump
 
 A correctly sized heat pump spends most of its time running gently, which is how inverter units are designed to work. An undersized unit runs flat out on cold mornings and still can't keep up. An oversized one reaches temperature quickly, then runs in short bursts.
 
-We size every install from the rooms, the insulation, the windows and how the house is used. The [sizing guide](/heat-pump-sizing/) explains the method.
+We [size every install](/heat-pump-sizing/) from the rooms, the insulation, the windows and how the house is used.
 
 ## 3. How it is installed
 
@@ -71,7 +71,7 @@ A heat pump in a house with no ceiling insulation is heating the roof space. Ins
 
 Efficiency drops slowly as a heat pump gets dirty. Dust on the indoor coil and fan, a dirty outdoor coil, or a refrigerant charge that's slowly leaking all mean the unit runs longer for the same heat. A yearly [heat pump service](/heat-pump-servicing/) puts it back to where it should be.
 
-If your heat pump is old, our [replacement and upgrade page](/heat-pump-efficiency-upgrades/) explains how to tell whether a new unit would pay off.
+If your heat pump is old, here's [how to tell whether a new unit would pay off](/heat-pump-efficiency-upgrades/).
 
 ## Get a quote for an energy efficient heat pump
 

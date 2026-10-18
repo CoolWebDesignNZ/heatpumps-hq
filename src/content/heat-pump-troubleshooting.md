@@ -31,7 +31,7 @@ Fault finding comes first because a symptom like "not heating" can start in any 
 
 Swapping parts until the problem goes away is slow and expensive. We test each system in turn and only quote a repair once we know which part has failed and why.
 
-If you'd like to rule out the simple things yourself first, our [DIY troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) covers the checks that don't need tools.
+If you'd like to rule out the simple things yourself first, there are [DIY troubleshooting checks](/heat-pump-problems-troubleshooting-guide/) that don't need tools.
 
 ## What we test when your heat pump is not working
 
@@ -50,7 +50,7 @@ A heat pump blowing cold air is sometimes normal and sometimes a fault. What you
 
 - **Cold air for a few minutes, then warm.** On a frosty morning the outdoor unit melts its ice by running in reverse for a short time. That's normal.
 - **Cold air all the time in heat mode.** Something is stopping the refrigerant circuit from heating. Low refrigerant, an outdoor fan that isn't spinning, a compressor that won't start, or a stuck reversing valve are the usual suspects.
-- **Lukewarm air that never gets hot.** Often blocked filters or a dirty coil, sometimes a sensor reading the wrong temperature. Our [thermostat and sensor checks](/heat-pump-thermostat-calibration/) page covers that case.
+- **Lukewarm air that never gets hot.** Often blocked filters or a dirty coil, sometimes a sensor reading the wrong temperature, which we test through [thermostat and sensor calibration](/heat-pump-thermostat-calibration/).
 
 ## Heat pump flashing lights and error codes
 
@@ -70,10 +70,10 @@ A unit that shows no sign of life is often a power problem rather than a heat pu
 
 ## Runs but the house stays cold
 
-If the unit is running and blowing warm air but the room never gets comfortable, the heat pump may be undersized for the space, losing heat to open doors or a cold room next door, or losing output through a dirty outdoor coil. We'll tell you whether it's a fault or a sizing issue. Sizing is covered in our [heat pump sizing guide](/heat-pump-sizing/).
+If the unit is running and blowing warm air but the room never gets comfortable, the heat pump may be undersized for the space, losing heat to open doors or a cold room next door, or losing output through a dirty outdoor coil. We'll tell you whether it's a fault or a [sizing](/heat-pump-sizing/) issue.
 
 ## After the diagnosis
 
-Once we've found the fault you get a fixed price to repair it, before we start. If the repair isn't worth it on an older unit, we'll say so and explain why. You can read more about the repair side on our [heat pump repairs](/heat-pump-repair/) page.
+Once we've found the fault you get a fixed price to repair it, before we start. If the [heat pump repair](/heat-pump-repair/) isn't worth it on an older unit, we'll say so and explain why.
 
 We diagnose faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps, and most other brands sold in New Zealand. To book fault finding anywhere in Christchurch, Selwyn or Lyttelton, call **03 242 1023**.

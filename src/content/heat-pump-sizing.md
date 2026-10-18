@@ -4,7 +4,7 @@ description: "What size heat pump do you need? How kW ratings work, why Christch
 keyword: heat pump size guide
 secondary: [what size heat pump do i need, heat pump sizing, heat pump size]
 h1: "Heat pump size guide: what size do you need?"
-intro: A heat pump's size is its heating output in kilowatts, and the right size is the output your room needs on a cold Canterbury morning. This guide explains how that's worked out, using EECA's method.
+intro: A heat pump's size is its heating output in kilowatts, and the right size is the output your room needs on a cold Canterbury morning. EECA sets out how to work that out, and it's the method we follow.
 hero: sizing-hero
 updated: 2026-10-17
 gallery: [sizing-label, sizing-frost]
@@ -12,7 +12,7 @@ faqHeading: "Heat pump size guide questions"
 relatedHeading: "More on heat pump sizing"
 faqs:
   - q: What size heat pump do I need for my room?
-    a: It depends on the room's heat loss, which comes from its size, ceiling height, windows, insulation and how exposed it is, and on how cold it gets outside. There is no reliable figure based on floor area alone. Our <a href="/calculator-single-room-heat-pump/">size calculator page</a> links to the official tool and explains each input.
+    a: It depends on the room's heat loss, which comes from its size, ceiling height, windows, insulation and how exposed it is, and on how cold it gets outside. There is no reliable figure based on floor area alone. For a starting figure, the official Tenancy Services <a href="/calculator-single-room-heat-pump/">heat pump size calculator</a> works it out from your measurements.
   - q: Is it better to go bigger with a heat pump?
     a: Slightly bigger, yes. EECA's guide says a slightly oversized unit gives a safety margin and can improve efficiency, and that the extra running cost of an undersized unit generally outweighs the cost of the next size up. Significant oversizing should be avoided.
   - q: What does the kW number on a heat pump mean?
@@ -78,10 +78,10 @@ An open plan space often needs two smaller units or a multi split system rather 
 
 ## Rental homes
 
-For the main living room of a rental, the Healthy Homes Standards set a minimum heating capacity. EECA recommends using the same calculation for living rooms in any home, so a heat pump would still comply if the house were rented later. Our [size calculator page](/calculator-single-room-heat-pump/) covers the official tool.
+For the main living room of a rental, the Healthy Homes Standards set a minimum heating capacity. EECA recommends using the same calculation for living rooms in any home, so a heat pump would still comply if the house were rented later. The official Tenancy Services [heat pump size calculator](/calculator-single-room-heat-pump/) runs that calculation.
 
 ## Beyond an online heat pump size guide
 
-Online estimates are a useful starting point, but they rely on your measurements and guesses about insulation. Manufacturers make the same point: Mitsubishi Electric's [sizing page](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) recommends an in-home consultation before purchase, and notes that sub-zero areas such as most of the South Island need either a larger capacity unit or one of its HyperCore models, compared with the same room in Auckland.
+Online estimates are a useful starting point, but they rely on your measurements and guesses about insulation. Manufacturers make the same point: Mitsubishi Electric's [advice on choosing a size](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) recommends an in-home consultation before purchase, and notes that sub-zero areas such as most of the South Island need either a larger capacity unit or one of its HyperCore models, compared with the same room in Auckland.
 
 We size every install on site. We measure the room, look at the insulation, the glazing and which way the windows face, ask how you use the space, and then pick a model by its output at Christchurch's design temperature. If a smaller unit will do the job, we'll tell you. Call **03 242 1023** or [request a free quote](/contact-us/), with a fixed price agreed before work starts.

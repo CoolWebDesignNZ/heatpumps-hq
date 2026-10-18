@@ -51,7 +51,7 @@ We replace controllers, fan motors, sensors, control boards, louvre motors, cond
 
 The right spare part starts with the right diagnosis, then the exact model number:
 
-1. **Find the fault first.** A part is only replaced once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair, and guessing wastes your money. Diagnosis is covered on our [repair](/heat-pump-repair/) page.
+1. **Find the fault first.** A part is only replaced once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair, and guessing wastes your money. That diagnosis is the same first step we take on any [heat pump repair](/heat-pump-repair/).
 2. **Read the model number.** Every brand uses different parts across its models, even when the units look the same.
 3. **Source the part.** We order parts to suit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other brands sold in New Zealand.
 4. **Price it before we order.** You get a fixed price for the part and fitting. If the part is expensive compared with the age and value of the unit, we'll say so.

@@ -16,9 +16,9 @@ faqs:
   - q: Can the outdoor unit go on a deck instead of the ground?
     a: Often, yes. On a sloping section a deck or a wall bracket can be the only level spot. We check the framing will carry the weight, fit anti-vibration mounts, and make sure defrost water drains away rather than pooling on the boards.
   - q: Will one heat pump be enough for a house on the shady side of the valley?
-    a: Only if the house holds heat well. A well insulated home with an open living area may need only one unit. An older house that gets little winter sun usually needs more capacity, or a second unit for the bedrooms. See our <a href="/heat-pump-sizing/">sizing guide</a>.
+    a: Only if the house holds heat well. A well insulated home with an open living area may need only one unit. An older house that gets little winter sun usually needs more capacity, or a second unit for the bedrooms. Getting the <a href="/heat-pump-sizing/">heat pump size</a> right settles which.
   - q: Which council's rules apply in Heathcote Valley?
-    a: Christchurch City Council's, through its District Plan. That plan deals with heat pumps by limiting the sound reaching next door, as our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> sets out.
+    a: Christchurch City Council's, through its District Plan. That plan deals with heat pumps by limiting the <a href="/heat-pump-boundary-rules-consent-nz/">sound reaching next door</a>.
   - q: Do you service heat pumps you didn't install?
     a: Yes. Whoever fitted it, we can service or repair a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit, along with most other makes here.
 related:
@@ -49,7 +49,7 @@ On a hillside the tricky part is often the route between the two units. Refriger
 ## What we do in Heathcote Valley
 
 - **New systems.** Single-room, [multi-room](/multi-room-heat-pump-installation/) and ducted installs from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing.** A yearly clean and check keeps a hard-working valley unit efficient, as our [servicing page](/heat-pump-servicing/) describes.
+- **Servicing.** A yearly [clean and check](/heat-pump-servicing/) keeps a hard-working valley unit efficient.
 - **Repairs.** Units that blow cold, leak or show a fault light get diagnosed and [repaired](/heat-pump-repair/).
 
 A licensed electrical worker wires in each new system.

@@ -46,7 +46,7 @@ The signs that a Fujitsu needs a repair are much the same as any heat pump: the 
 
 We read any stored fault, then test the parts it points to: sensors, fans, the control board, the wiring between the units and the refrigerant circuit. If the fault is a part, we tell you what it is, whether it's in stock, and what the repair costs before any work. If it's something you can avoid next time, like a blocked filter or a drain hose that has sagged, we'll show you.
 
-Our [fault finding](/heat-pump-troubleshooting/) page has the full list of what we check.
+[Fault finding](/heat-pump-troubleshooting/) lists everything we check.
 
 ## Fujitsu air conditioner repair
 
@@ -65,7 +65,7 @@ See [heat pump servicing](/maintenance-servicing/) for the full details. If the 
 
 ## Fujitsu Wi-Fi control
 
-GENERAL's anywAiR Wi-Fi Adaptor II works with a select range of General Airstage units, including the Lifestyle wall mounted series, and connects them to the myanywAiR Next app. Older Fujitsu units may use a different adaptor and app, so check the model before buying anything. Our [smart heat pump](/smart-heat-pump-systems/) page covers Wi-Fi control across the brands.
+GENERAL's anywAiR Wi-Fi Adaptor II works with a select range of General Airstage units, including the Lifestyle wall mounted series, and connects them to the myanywAiR Next app. Older Fujitsu units may use a different adaptor and app, so check the model before buying anything. For Wi-Fi control across the brands, see [smart heat pump systems](/smart-heat-pump-systems/).
 
 ## Repair or replace a Fujitsu heat pump
 

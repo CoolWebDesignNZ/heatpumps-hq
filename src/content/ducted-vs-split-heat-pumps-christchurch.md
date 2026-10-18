@@ -29,7 +29,7 @@ related:
 
 A **split system** has an indoor unit in the room, usually a high wall unit or floor console, piped to an outdoor unit. One split heats one room or one open space. You can have several around the house.
 
-A **ducted system** has one indoor unit hidden in the roof space or under the floor. It pushes warm air through insulated ducts to an outlet in each room, and draws air back through a return grille. As Daikin's [NZ ducted page](https://www.daikin.co.nz/pages/ducted-heat-pumps) puts it, once installed only the controller and the grilles are visible in the house.
+A **ducted system** has one indoor unit hidden in the roof space or under the floor. It pushes warm air through insulated ducts to an outlet in each room, and draws air back through a return grille. As [Daikin New Zealand](https://www.daikin.co.nz/pages/ducted-heat-pumps) puts it, once installed only the controller and the grilles are visible in the house.
 
 Between the two sits the **multi split**: one outdoor unit running two or more indoor units in different rooms.
 
@@ -88,7 +88,7 @@ Zoning is one of the main ways to keep a ducted system's running cost down, beca
 
 With a split system the indoor fan is in the room. Modern units are quiet on low fan, but you'll hear them at full output on a cold morning. With ducted, the indoor unit is in the roof space, and what you hear is air moving at the outlets.
 
-Outdoors, both have a compressor and fan. Ducted outdoor units for a whole house are often larger. EECA's label guidance notes the outdoor noise figure matters if the unit is near a window, a bedroom or a neighbour. For the Christchurch noise limits, see our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+Outdoors, both have a compressor and fan. Ducted outdoor units for a whole house are often larger. EECA's label guidance notes the outdoor noise figure matters if the unit is near a window, a bedroom or a neighbour. [Christchurch noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) apply to either type.
 
 ## Servicing ducted and split systems
 
@@ -104,4 +104,4 @@ Start from how many rooms you want warm and what the house allows:
 
 ## Get both options priced
 
-We install split, multi split and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, so we can price the options side by side for your house. We look at the rooms, the roof space, the insulation and how you live there, and give you a free quote with a fixed price before work starts. Call **03 242 1023** or [book a free quote](/contact-us/). See our [ducted heat pump cost](/ducted-heat-pump-cost-christchurch/) guide for what drives a ducted price.
+We install split, multi split and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, so we can price the options side by side for your house. We look at the rooms, the roof space, the insulation and how you live there, and give you a free quote with a fixed price before work starts. [Ducted heat pump cost](/ducted-heat-pump-cost-christchurch/) explains what drives a ducted price. Call **03 242 1023** or [book a free quote](/contact-us/).

@@ -51,7 +51,7 @@ Smells are often worst in spring and early summer, when the unit switches from h
 We treat smells by removing what causes them:
 
 1. **Find the source.** We open the unit and look at the filters, coil, fan wheel and drain tray. If the unit looks clean, we look beyond it, at the drain line outlet, the room and the ceiling space.
-2. **Clean the coil and fan wheel.** These hold most of the growth. The unit is bagged, cleaned and rinsed, as described on our [heat pump cleaning](/heat-pump-cleaning/) page.
+2. **Clean the coil and fan wheel.** These hold most of the growth. The unit is bagged, cleaned and rinsed, the same way as a full [heat pump clean](/heat-pump-cleaning/).
 3. **Clear the drain.** The tray and line are flushed so water doesn't sit and go sour.
 4. **Replace worn filters.** Torn mesh filters and spent deodorising filters are replaced where the model uses them.
 5. **Dry the unit out.** It runs in fan or heat mode after the clean so the coil isn't left wet.
@@ -69,6 +69,6 @@ Once the unit is clean, four habits keep the musty smell from coming back:
 
 ## When it isn't the heat pump
 
-If the heat pump is clean and the room still smells damp, the moisture may be in the house: a wet subfloor, a leak, or not enough ventilation. A heat pump moves air around the room; it can't remove a damp smell that's coming from the building. Our [air quality testing](/air-quality-testing/) page and [dry mode guide](/heat-pump-dehumidification/) cover the next steps.
+If the heat pump is clean and the room still smells damp, the moisture may be in the house: a wet subfloor, a leak, or not enough ventilation. A heat pump moves air around the room; it can't remove a damp smell that's coming from the building. From there, [air quality testing](/air-quality-testing/) and running the heat pump in [dry mode](/heat-pump-dehumidification/) are the next steps.
 
 Call **03 242 1023** to book a heat pump deodorise and clean, or [request a quote](/contact-us/).

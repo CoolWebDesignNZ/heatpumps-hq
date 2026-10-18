@@ -71,7 +71,7 @@ A full clean takes longer than a standard [service](/heat-pump-servicing/), beca
 
 Book a clean when you notice any of these:
 
-- The unit smells when it starts. Our [heat pump smells](/heat-pump-deodorising/) page helps tell a dirt smell from a fault.
+- The unit smells when it starts. A dirt smell and a fault smell differ, and [heat pump smells](/heat-pump-deodorising/) explains how to tell them apart.
 - You can see black spots inside the outlet when the louvres open.
 - There are grey marks on the wall or ceiling above the unit.
 - Someone in the house has allergies or asthma and the unit hasn't been cleaned in a while.

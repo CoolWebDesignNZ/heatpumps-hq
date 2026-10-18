@@ -18,7 +18,7 @@ faqs:
   - q: What is The Power of 2?
     a: It is Mitsubishi Electric's pairing of a ducted heat pump with Lossnay heat recovery ventilation. The Power of 3 adds ZoneIQ zoning to that pair.
   - q: Do you service Mitsubishi ducted heat pumps?
-    a: Yes. We service and repair Mitsubishi Electric heat pumps of any age, ducted systems included. See our <a href="/mitsubishi-heat-pump-service-christchurch/">Mitsubishi service page</a>.
+    a: Yes. We service and repair <a href="/mitsubishi-heat-pump-service-christchurch/">Mitsubishi Electric heat pumps</a> of any age, ducted systems included.
 related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: How ducted heating works in a Christchurch home. }
   - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: Daikin's ducted series and zoning options. }
@@ -33,7 +33,7 @@ Mitsubishi Electric New Zealand presents its ducted heat pumps as the base of th
 - **The Power of 2.** A ducted heat pump with Lossnay heat recovery ventilation.
 - **The Power of 3.** Ducted, ZoneIQ and Lossnay together.
 
-All three start with choosing the right ducted unit for the house. Mitsubishi Electric says its ducted models suit both new builds and existing homes, and that selected splittable models can be separated into two parts for easier access through a ceiling opening. Details are on Mitsubishi Electric's [ComfortMaster page](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx) and [Power of 2 page](https://www.mitsubishi-electric.co.nz/heatpump/Power-of-Two-Ducted-Heat-Pump-and-Lossnay-Ventilation.aspx).
+All three start with choosing the right ducted unit for the house. Mitsubishi Electric says its ducted models suit both new builds and existing homes, and that selected splittable models can be separated into two parts for easier access through a ceiling opening. Source: Mitsubishi Electric, [ComfortMaster](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx) and [Power of 2](https://www.mitsubishi-electric.co.nz/heatpump/Power-of-Two-Ducted-Heat-Pump-and-Lossnay-Ventilation.aspx).
 
 ## ZoneIQ for Mitsubishi Electric ducted systems
 
@@ -46,7 +46,7 @@ ZoneIQ gives a Mitsubishi Electric ducted system room by room control, where a s
 
 Mitsubishi Electric notes that a zoned system does not heat some rooms and cool others at the same time. The whole system runs in one mode.
 
-For a household that uses the living areas by day and the bedrooms at night, zoning lets the system heat the rooms in use and leave the rest. Our general [heat pump zoning](/heat-pump-zoning/) page explains the parts involved.
+For a household that uses the living areas by day and the bedrooms at night, [zoning](/heat-pump-zoning/) lets the system heat the rooms in use and leave the rest.
 
 ## Lossnay ventilation
 
@@ -69,7 +69,7 @@ We install both, along with Fujitsu and Toshiba, so the choice comes down to whi
 
 ## Looking after a Mitsubishi Electric ducted system
 
-A ducted system needs its return air filter cleaned regularly and a yearly service to keep the indoor coil, drain and outdoor unit in good order. Our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page covers servicing and repairs.
+A ducted system needs its return air filter cleaned regularly and a yearly service to keep the indoor coil, drain and outdoor unit in good order. Both are part of our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/), along with repairs.
 
 ## Book a measure and quote
 

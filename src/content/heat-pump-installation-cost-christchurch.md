@@ -27,7 +27,7 @@ related:
 
 ## Why we don't list heat pump prices
 
-We don't publish heat pump prices or price ranges. A figure on a web page can't account for your house, and the cost of an install is set by the house as much as the heat pump. A free quote on site gives you one fixed price that covers your job.
+We don't publish heat pump prices or price ranges. A published figure can't account for your house, and the cost of an install is set by the house as much as the heat pump. A free quote on site gives you one fixed price that covers your job.
 
 What follows is every factor that moves the price, so you know what to look for in any quote, ours included.
 
@@ -35,9 +35,9 @@ What follows is every factor that moves the price, so you know what to look for 
 
 Three things about the heat pump itself change what the install costs: its size, its type and the model range it comes from.
 
-**Size.** A larger capacity unit costs more than a smaller one in the same range. Correct sizing protects you from paying for capacity you don't need, and from a unit too small to keep up. See our [heat pump size guide](/heat-pump-sizing/).
+**Size.** A larger capacity unit costs more than a smaller one in the same range. Correct sizing protects you from paying for capacity you don't need, and from a unit too small to keep up, so we work out the [right heat pump size](/heat-pump-sizing/) before we price the job.
 
-**Type.** High wall units, floor consoles, ceiling cassettes and multi split systems are priced differently, and the install work differs too. Each type is explained in our [types of heat pumps](/types-of-heat-pumps/) guide.
+**Type.** High wall units, floor consoles, ceiling cassettes and multi split systems are priced differently, and the install work differs too, so the [type of heat pump](/types-of-heat-pumps/) that suits your rooms shapes the quote.
 
 **Model and range.** Brands sell more than one range. Higher ranges may add better low-temperature output, quieter running, more efficient operation or built-in Wi-Fi. Compare models of the same kW size on their energy labels.
 
@@ -68,7 +68,7 @@ Where the outdoor unit is mounted changes the cost. A ground-level pad beside th
 - on brackets fixed to a wall or foundation
 - on a roof, only where the installation has been specifically designed for the load and wind forces.
 
-Wherever it goes, the unit also has to sit clear of obstructions, away from the neighbour's bedrooms and where defrost water can drain. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers the noise side.
+Wherever it goes, the unit also has to sit clear of obstructions, away from the neighbour's bedrooms and where defrost water can drain. The noise side is governed by the [heat pump boundary rules](/heat-pump-boundary-rules-consent-nz/).
 
 ## Electrical work and the switchboard
 

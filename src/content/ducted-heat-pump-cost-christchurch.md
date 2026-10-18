@@ -81,7 +81,7 @@ Old refrigerant has to be recovered, not released. Some manufacturers make units
 
 ## Ducted outdoor unit position
 
-Ducted outdoor units are often larger than single-room units. They need clear airflow, a solid base or brackets, service access and a spot that keeps noise at the boundary within limits. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains those limits.
+Ducted outdoor units are often larger than single-room units. They need clear airflow, a solid base or brackets, service access and a spot that keeps noise at the boundary within limits. Those limits are in the [heat pump boundary rules](/heat-pump-boundary-rules-consent-nz/).
 
 ## Adding fresh air and ventilation
 
@@ -102,4 +102,4 @@ A ducted heat pump price should spell out:
 
 ## Get a fixed price for a ducted heat pump
 
-We install ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We look at the roof space, the rooms, the insulation and how you use the house, then give you a free quote with a fixed price agreed before work starts. If a couple of wall units would do the job better for your house, we'll tell you that too. Call **03 242 1023** to arrange a visit, or [request a quote](/contact-us/) online. Our [ducted heat pumps](/ducted-heat-pumps-christchurch/) page has more on how we install them.
+We install [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We look at the roof space, the rooms, the insulation and how you use the house, then give you a free quote with a fixed price agreed before work starts. If a couple of wall units would do the job better for your house, we'll tell you that too. Call **03 242 1023** to arrange a visit, or [request a quote](/contact-us/) online.

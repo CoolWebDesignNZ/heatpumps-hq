@@ -45,9 +45,9 @@ The room feels colder than the setting because the unit reads the air at its own
 If the reading is right but the room still never warms up, the heat pump is not reaching temperature for one of these reasons:
 
 - **Dirty filters or coils** cut the airflow and the heat output.
-- **The unit is undersized** for the room, or is trying to heat a whole open plan floor it was never sized for. Our [sizing guide](/heat-pump-sizing/) explains how output is matched to a space.
+- **The unit is undersized** for the room, or is trying to heat a whole open plan floor it was never sized for. Output has to be [matched to the space](/heat-pump-sizing/) it heats.
 - **Output drops on very cold mornings.** All air source heat pumps produce less heat as the outdoor temperature falls, and they pause to defrost.
-- **Low refrigerant** from a slow leak. Our [leak detection and repair](/leak-detection-repair/) page covers the signs.
+- **Low refrigerant** from a slow leak, which we track down through [leak detection and repair](/leak-detection-repair/).
 - **A sensor that has failed or drifted.** A faulty thermistor can make the unit stop early, run on too long or show a fault.
 
 ## What our heat pump thermostat and temperature sensor check includes
@@ -71,6 +71,6 @@ In winter, the right setting is Heat mode, one steady temperature and the fan on
 - Leave the fan on auto unless the room needs a stronger push of air.
 - If one setting is never right for both the lounge and the bedrooms, separate control may help. See [heat pump zoning](/heat-pump-zoning/).
 
-Wi-Fi controls can show you the temperature the unit is reading from your phone, which makes it easier to spot a mismatch. More on our [smart heat pump](/smart-heat-pump-systems/) page.
+Wi-Fi controls on [smart heat pump systems](/smart-heat-pump-systems/) can show you the temperature the unit is reading from your phone, which makes it easier to spot a mismatch.
 
 If your heat pump never seems to reach the setting, call **03 242 1023** and we'll test the sensors and controls on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.

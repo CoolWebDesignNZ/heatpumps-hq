@@ -64,7 +64,7 @@ In winter, keeping rooms warm and letting damp air out is what keeps condensatio
 
 ## Dry mode and musty smells
 
-Dry mode leaves the indoor coil wet. If the coil and fan are dirty, that's when mould grows and smells start. After running dry mode, let the unit dry itself if it has that setting, or run it in fan mode for a short while. If it already smells musty, see our [heat pump smell](/heat-pump-deodorising/) page.
+Dry mode leaves the indoor coil wet. If the coil and fan are dirty, that's when mould grows and smells start. After running dry mode, let the unit dry itself if it has that setting, or run it in fan mode for a short while. If it already smells musty, it needs a [deodorising clean](/heat-pump-deodorising/).
 
 ## What we do to keep dry mode working
 
@@ -75,7 +75,7 @@ On a service or a dedicated visit we:
 3. **Clean the coil if needed.** A clean coil removes moisture better and doesn't add smells.
 4. **Show you the settings.** Which mode to use in which weather, how the timer helps, and whether your model has a coil-drying function.
 
-If your home stays damp whatever you do, we can talk you through what a heat pump can and can't do there, and point you to our [air quality testing](/air-quality-testing/) page. In homes where someone has breathing problems, our [allergy and asthma guide](/allergy-asthma-solutions-heat-pumps/) is worth reading.
+If your home stays damp whatever you do, we can talk you through what a heat pump can and can't do there, and whether [air quality testing](/air-quality-testing/) would help. In homes where someone has breathing problems, read about [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
 
 ## Dry mode on different heat pump brands
 

@@ -12,13 +12,13 @@ faqHeading: Heat pump installation questions
 relatedHeading: More on choosing a heat pump install
 faqs:
   - q: Do I need consent to install a heat pump in Christchurch?
-    a: A standard home split system normally goes in without building consent. The District Plan controls noise at the neighbour's property, so the outdoor unit has to be placed with that in mind. The noise limits are in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
+    a: A standard home split system normally goes in without building consent. The District Plan controls noise at the neighbour's property, so the outdoor unit has to be placed with those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a> in mind.
   - q: Which heat pump brands can you install for me?
     a: We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We'll recommend the model that suits your rooms and explain why, rather than pushing one brand.
   - q: Can you replace my old heat pump?
     a: Yes. We remove the old indoor and outdoor units, check whether the existing pipe route and electrical supply suit the new system, and quote the whole job as one fixed price.
   - q: How much does a heat pump install cost?
-    a: It depends on the size and type of unit, the length of the pipe run, how hard the outdoor unit is to reach and what electrical work is needed. Our <a href="/heat-pump-installation-cost-christchurch/">installation cost guide</a> explains each factor, and the quote is free.
+    a: It depends on the size and type of unit, the length of the pipe run, how hard the outdoor unit is to reach and what electrical work is needed. We look at each of those <a href="/heat-pump-installation-cost-christchurch/">installation cost factors</a> when we visit, and the quote is free.
 related:
   - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for a bedroom or living area. }
   - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: Several indoor units from one outdoor unit. }
@@ -40,7 +40,7 @@ Choosing the right system depends on the rooms you want heated. The usual option
 - **Two or more indoor units** on separate outdoor units, or several on one outdoor unit. See [multi room heat pumps](/multi-room-heat-pump-installation/).
 - **A ducted system** with a vent in each room and nothing on the walls. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-The brands we fit are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. Our [brand comparison](/heat-pump-brands-comparison/) covers how they differ, and on site we'll tell you which models we'd shortlist for your rooms.
+The brands we fit are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We can talk you through [how the brands compare](/heat-pump-brands-comparison/), and on site we'll tell you which models we'd shortlist for your rooms.
 
 ## What a heat pump install includes
 
@@ -55,15 +55,15 @@ Every install we do covers the same six steps.
 
 ## Where the outdoor unit goes
 
-The outdoor unit goes where it has free air on all sides, a spot where frost melt can drain, and distance from your neighbour's bedroom windows. People tend to think about it least, yet its position decides whether the system stays quiet and copes with a frost. Corners and tight alcoves make it louder. In Christchurch the District Plan sets limits on noise at the neighbouring property, which our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains in full.
+The outdoor unit goes where it has free air on all sides, a spot where frost melt can drain, and distance from your neighbour's bedroom windows. People tend to think about it least, yet its position decides whether the system stays quiet and copes with a frost. Corners and tight alcoves make it louder. In Christchurch the District Plan sets [limits on noise at the neighbouring property](/heat-pump-boundary-rules-consent-nz/).
 
 ## Replacing an older system
 
-If you already have a heat pump that is failing or past its best, we check whether the old pipe route, the drain and the electrical circuit can be used for the new unit. Sometimes they can; sometimes the new model needs a different pipe size or a new circuit. We tell you which before you agree to anything, and if the old unit is worth repairing we'll say so. Our [repair page](/heat-pump-repair/) covers that decision.
+If you already have a heat pump that is failing or past its best, we check whether the old pipe route, the drain and the electrical circuit can be used for the new unit. Sometimes they can; sometimes the new model needs a different pipe size or a new circuit. We tell you which before you agree to anything, and if the old unit is worth [repairing](/heat-pump-repair/) we'll say so.
 
 ## What changes the price of a heat pump installation
 
-The price of a heat pump installation changes with the unit's capacity and type, the distance between the indoor and outdoor units, the wall and floor construction, access to the outdoor spot, and whether the switchboard needs work. No two installs cost the same. The [installation cost guide](/heat-pump-installation-cost-christchurch/) goes through each one. Your quote is free and the price is fixed before work starts.
+The [price of a heat pump installation](/heat-pump-installation-cost-christchurch/) changes with the unit's capacity and type, the distance between the indoor and outdoor units, the wall and floor construction, access to the outdoor spot, and whether the switchboard needs work. No two installs cost the same. Your quote is free and the price is fixed before work starts.
 
 ## Book a home visit in Christchurch
 

@@ -51,7 +51,7 @@ An electric fan heater or oil column heater turns 1 unit of electricity into 1 u
 
 EECA's guide illustrates it like this: if 1 kWh of electricity drives the heat pump and 2 kWh is drawn from the outside air, up to 3 kWh of heat arrives indoors. That ratio is the **coefficient of performance (COP)**, heat out divided by electricity in. The guide treats a COP of at least 3 as acceptable, with better products reaching 4 or more.
 
-Every heat pump sold in New Zealand carries an energy rating label, so you can compare models. Our [energy efficient heat pumps](/energy-efficient/) page goes through what affects running costs.
+Every heat pump sold in New Zealand carries an energy rating label, so you can compare models and pick an [energy efficient heat pump](/energy-efficient/) that costs less to run.
 
 ## How inverter compressors change the cycle
 
@@ -65,10 +65,10 @@ A heat pump's output and efficiency are not fixed numbers. They fall as the gap 
 
 Two things happen in the cold:
 
-- **Less heat out.** The colder the air, the less heat the outdoor coil can collect. Some models keep working well below freezing and others struggle, which is why the label also shows heating output at 2°C. See our [cold climate heat pumps](/cold-climate-heat-pumps/) guide.
+- **Less heat out.** The colder the air, the less heat the outdoor coil can collect. Some models keep working well below freezing and others struggle, which is why the label also shows heating output at 2°C. That difference is what sets [cold climate heat pumps](/cold-climate-heat-pumps/) apart.
 - **Defrost cycles.** Below about 7°C, moisture in the air can freeze onto the outdoor coil. The unit reverses for a few minutes to melt it, and no heat is delivered while it does. You may see steam rising from the outdoor unit. EECA notes that an undersized heat pump has to defrost more often.
 
-This is the main reason sizing matters so much in Canterbury. EECA's guide lists the external design temperature for Christchurch City and Selwyn District as **minus 4°C**, and a unit should be chosen for its output at that temperature, not at 7°C. Our [heat pump size guide](/heat-pump-sizing/) explains how.
+This is the main reason sizing matters so much in Canterbury. EECA's guide lists the external design temperature for Christchurch City and Selwyn District as **minus 4°C**, and when [sizing a heat pump](/heat-pump-sizing/) a unit should be chosen for its output at that temperature, not at 7°C.
 
 ## What the indoor and outdoor units actually do
 
@@ -82,7 +82,7 @@ The outdoor unit collects heat and the compressor in it raises the refrigerant's
 | Filters | Behind the indoor unit's front panel | Catch dust before it reaches the coil |
 | Condensate drain | From the indoor unit, and outside | Carries away water from cooling and defrost |
 
-The indoor unit can be a high wall unit, a floor console, a ceiling cassette or a ducted system feeding vents in several rooms. They all work on the same cycle. Our [types of heat pumps](/types-of-heat-pumps/) guide compares them.
+The indoor unit can be a high wall unit, a floor console, a ceiling cassette or a ducted system feeding vents in several rooms. These [types of heat pumps](/types-of-heat-pumps/) all work on the same cycle.
 
 ## Keeping a heat pump working well
 

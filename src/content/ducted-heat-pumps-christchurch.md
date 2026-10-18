@@ -14,13 +14,13 @@ faqs:
   - q: Can a ducted heat pump go into an existing house?
     a: Often, yes, if there is enough ceiling space or a suitable underfloor to fit the indoor unit and run the ducts. Low pitched roofs, flat roofs and concrete slab homes with no ceiling cavity are harder. We check the space before quoting.
   - q: Is ducted better than a split system?
-    a: That comes down to the house. Ducted heats every room evenly with nothing on the walls, but it costs more and needs space to install. One or two wall units can give a similar result in a compact or open plan home. The <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split guide</a> sets the two side by side.
+    a: That comes down to the house. Ducted heats every room evenly with nothing on the walls, but it costs more and needs space to install. One or two wall units can give a similar result in a compact or open plan home. See <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split heat pumps</a> for the trade-offs.
   - q: Can I heat only some rooms with a ducted system?
     a: Yes, with a zoning system. Motorised dampers in the ducts open and close to send air only to the rooms or zones you choose. See <a href="/heat-pump-zoning/">heat pump zoning</a>.
   - q: How do I look after a ducted heat pump?
-    a: Clean or replace the filter at the return air grille regularly, keep the vents clear of furniture, and have the system serviced yearly. Our <a href="/maintenance-servicing/">servicing page</a> explains what a service covers.
+    a: Clean or replace the filter at the return air grille regularly, keep the vents clear of furniture, and have the system <a href="/maintenance-servicing/">serviced</a> yearly.
   - q: What does a ducted heat pump cost?
-    a: That depends on the size of the house, the number of outlets, access to the roof space and whether you want zoning. Our <a href="/ducted-heat-pump-cost-christchurch/">ducted cost guide</a> explains each factor.
+    a: That depends on the size of the house, the number of outlets, access to the roof space and whether you want zoning. <a href="/ducted-heat-pump-cost-christchurch/">Ducted heat pump cost</a> goes through each factor in turn.
 related:
   - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: Daikin's ducted range and zone controllers. }
   - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: Ducted systems with ZoneIQ control. }
@@ -59,11 +59,11 @@ A ducted system is sized for the whole area it heats, room by room. Each room ne
 
 ## Zoning a ducted system
 
-Zoning a ducted system adds motorised dampers so you can turn zones on and off, or in some systems set a different temperature in each. Without it, a plain ducted system heats every room at once from one thermostat. If the bedrooms only need heat at night and the living areas during the day, zoning is worth considering. Our [heat pump zoning](/heat-pump-zoning/) page explains how it works.
+[Zoning](/heat-pump-zoning/) a ducted system adds motorised dampers so you can turn zones on and off, or in some systems set a different temperature in each. Without it, a plain ducted system heats every room at once from one thermostat. If the bedrooms only need heat at night and the living areas during the day, zoning is worth considering.
 
 ## Ducted heat pump brands we install
 
-We install ducted systems from Daikin, Mitsubishi Electric, Fujitsu and Toshiba. Two have their own pages:
+We install ducted systems from Daikin, Mitsubishi Electric, Fujitsu and Toshiba. More on the Daikin and Mitsubishi Electric ducted ranges:
 
 - [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/)
 - [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/)

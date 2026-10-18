@@ -18,7 +18,7 @@ faqs:
   - q: Should I insulate before I put a heat pump in an old cottage?
     a: If the ceiling or underfloor has little or no insulation, it pays to sort that first or at the same time. A heat pump sized for an uninsulated room has to be bigger than one for the same room once it's insulated.
   - q: My townhouse shares a side path with the neighbours. Where can the outdoor unit go?
-    a: Often on a wall bracket above head height, or at the back of the unit away from the shared path and any bedroom windows next door. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary guide</a> explains how noise at the neighbour's place is judged.
+    a: Often on a wall bracket above head height, or at the back of the unit away from the shared path and any bedroom windows next door. Noise is judged at the neighbour's place, under the <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules for heat pumps</a>.
 related:
   - { label: St Albans, href: /st-albans/, text: Heat pumps for the character homes next door in St Albans. }
   - { label: Central City, href: /central-business-district-cbd/, text: Apartments and townhouses inside the avenues. }
@@ -57,7 +57,7 @@ We install, service and repair heat pumps in Edgeware cottages, villas and townh
 
 - **Installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized from your rooms, insulation and windows.
 - **Servicing** for units of any age, including cleaning and drain checks. See [heat pump servicing](/maintenance-servicing/).
-- **Repairs** and fault finding across the major brands, covered on our [repairs page](/heat-pump-repair/).
+- **[Repairs](/heat-pump-repair/)** and fault finding across the major brands.
 
 Close by, we cover [St Albans](/st-albans/) and [the Central City](/central-business-district-cbd/), with [Mairehau](/mairehau/) a little further north.
 

@@ -11,9 +11,9 @@ faqHeading: Questions about heat pumps near me
 relatedHeading: Heat pump services across Canterbury
 faqs:
   - q: Do you come to my suburb?
-    a: If it's listed on this page, yes. We cover every suburb of Christchurch, the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu, and Lyttelton. If you're just outside these areas, call and ask.
+    a: If your suburb is one of the areas listed, yes. We cover every suburb of Christchurch, the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu, and Lyttelton. If you're just outside these areas, call and ask.
   - q: Do you work in Selwyn as well as Christchurch?
-    a: Yes. We install and service heat pumps in Rolleston, Lincoln, Prebbleton and Tai Tapu. Selwyn has its own district plan, which our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> touches on.
+    a: Yes. We install and service heat pumps in Rolleston, Lincoln, Prebbleton and Tai Tapu. Selwyn has its own district plan, and that's the one whose <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules</a> apply to your outdoor unit.
   - q: Is the quote still free outside the city?
     a: Yes. Quotes are free in every area we cover, and the price is fixed before any work starts.
 related:
@@ -126,4 +126,4 @@ Towns in Selwyn District, where the Selwyn District Plan applies instead of Chri
 
 ## Heat pumps for suburbs not on this list
 
-If your street is near one of these areas and you're not sure we cover it, call **03 242 1023** and ask, or request a free quote with the form at the top of this page.
+If your street is near one of these areas and you're not sure we cover it, call **03 242 1023** and ask, or request a free quote with the quote form at the top.

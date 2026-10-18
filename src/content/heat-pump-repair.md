@@ -34,7 +34,7 @@ Most repair calls in Christchurch come down to a short list of problems:
 - **Flashing lights or an error code.** The unit has found its own fault. The code points to the part, whether that's a sensor, a fan or the communication between the indoor and outdoor units.
 - **Loud rattles, buzzing or squealing.** Loose panels, worn fan bearings or a unit that has moved on its feet.
 - **Ice that won't clear.** Some frost on the outdoor coil is normal in a Canterbury winter. Ice that keeps building means the defrost cycle isn't working.
-- **Bad smell when it starts.** Mould and dust in the indoor coil and fan. That's a clean, not a repair, and it's covered on our [heat pump cleaning](/heat-pump-cleaning/) page.
+- **Bad smell when it starts.** Mould and dust in the indoor coil and fan. That's a [heat pump clean](/heat-pump-cleaning/), not a repair.
 
 ## How a heat pump repair visit works
 
@@ -47,7 +47,7 @@ A repair visit runs in four steps, from your call to a tested fix:
 
 ## Heat pump brands we repair
 
-We repair the brands we install, **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**, and service **Panasonic** and most other split and ducted heat pumps sold in New Zealand. Brand guides: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
+We repair the brands we install, **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**, and service **Panasonic** and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
 
 ## Repair or replace your heat pump?
 

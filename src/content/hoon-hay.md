@@ -51,11 +51,11 @@ Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Po
 - **Raise the outdoor unit** on feet or a bracket so defrost water drains away rather than freezing around the base.
 - **Keep the drain path clear** of garden beds and paving that could ice over and create a slip hazard.
 - **Avoid a frost pocket** like a low, enclosed corner where cold air sits.
-- **Size for the cold end.** Output falls as the outdoor temperature drops, so capacity needs to cover the coldest mornings, not an average day. Our [cold climate heat pumps guide](/cold-climate-heat-pumps/) explains more.
+- **Size for the cold end.** Output falls as the outdoor temperature drops, so capacity needs to cover the coldest mornings, not an average day, and some [cold climate heat pumps](/cold-climate-heat-pumps/) keep working well below freezing where others struggle.
 
 ## Heat pump service through a Hoon Hay winter
 
-A unit working through Hoon Hay winters benefits from a yearly [service](/maintenance-servicing/) before the cold sets in. If one has stopped heating, see our [repair page](/heat-pump-repair/).
+A unit working through Hoon Hay winters benefits from a yearly [service](/maintenance-servicing/) before the cold sets in. If one has stopped heating, we can [repair it](/heat-pump-repair/).
 
 ## Where else we work near Hoon Hay
 

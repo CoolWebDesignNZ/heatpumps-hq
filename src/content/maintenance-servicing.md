@@ -53,7 +53,7 @@ Between services, your jobs are the filters, the outdoor unit, the drain outlet 
 
 ## What our heat pump servicing covers
 
-A technician service deals with the parts you can't reach: the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. We then run the system and measure how well it's heating and cooling. The full step-by-step list is on our [heat pump servicing](/heat-pump-servicing/) page.
+A technician [heat pump service](/heat-pump-servicing/) deals with the parts you can't reach: the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. We then run the system and measure how well it's heating and cooling.
 
 ## A Canterbury maintenance year
 
@@ -61,7 +61,7 @@ Each Canterbury season brings its own heat pump jobs.
 
 **Late summer and autumn.** A good time for the yearly service, before the first frosts. If you've used the unit hard for cooling, the coil will have been wet all summer, which is when mould takes hold. A pre-season [tune-up](/heat-pump-seasonal-tune-ups/) fits here too.
 
-**Winter.** The heat pump works hardest now. Wash the filters regularly, keep the outdoor unit's base clear so defrost water can drain, and watch for ice that builds up and stays. Our [winter maintenance](/winterisation-of-heat-pumps/) page covers settings and frost.
+**Winter.** The heat pump works hardest now. Wash the filters regularly, keep the outdoor unit's base clear so defrost water can drain, and watch for ice that builds up and stays. [Winterising your heat pump](/winterisation-of-heat-pumps/) also means getting the settings right for frost.
 
 **Spring.** A quick filter wash once heating eases off. Check the outdoor unit for anything that has blown in or grown up around it.
 

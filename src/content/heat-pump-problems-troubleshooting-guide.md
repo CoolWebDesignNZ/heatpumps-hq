@@ -4,12 +4,12 @@ description: "Got heat pump problems? A symptom by symptom troubleshooting guide
 keyword: heat pump problems
 secondary: [heat pump not heating, common heat pump problems, heat pump troubleshooting guide]
 h1: Heat pump problems you can check yourself
-intro: Plenty of heat pump problems come down to a setting, a dirty filter or something blocking the outdoor unit. This guide goes symptom by symptom through the safe checks you can do before you book a technician.
+intro: Plenty of heat pump problems come down to a setting, a dirty filter or something blocking the outdoor unit. Work through the safe checks for your symptom before you book a technician.
 hero: diyguide-hero
 updated: 2026-10-17
 gallery: [diyguide-remote, diyguide-outdoor]
 faqHeading: "Heat pump not heating and other questions"
-relatedHeading: "More heat pump troubleshooting guides"
+relatedHeading: "More help with heat pump faults"
 faqs:
   - q: Why is my heat pump not heating?
     a: Check it's in heat mode with the set temperature above the room temperature, clean the filters, and make sure the outdoor unit isn't blocked or iced solid. On a frosty morning it may be in a defrost cycle for a few minutes. If it still blows cool air after that, it needs a technician.
@@ -72,11 +72,11 @@ A light frost that comes and goes is normal. A solid block of ice, or ice buildi
 
 ### Bad smell
 
-A musty smell at start-up means mould and dust on the coil and fan. Clean the filters; if it persists, the coil needs a proper clean. A burning or electrical smell is different: turn it off at the isolating switch and call. More on smells on our [deodorising page](/heat-pump-deodorising/).
+A musty smell at start-up means mould and dust on the coil and fan. Clean the filters; if it persists, the coil needs a proper clean. A burning or electrical smell is different: turn it off at the isolating switch and call. Other smells, and how we clear them, come under [heat pump deodorising](/heat-pump-deodorising/).
 
 ### Noisy
 
-Rattles, buzzing and grinding usually come from loose panels, vibration or worn fan bearings. Our [noise guide](/heat-pump-noise-problems-solutions/) explains each sound and what fixes it.
+Rattles, buzzing and grinding usually come from loose panels, vibration or worn fan bearings. Each sound has its own cause and fix, explained under [heat pump noise problems and solutions](/heat-pump-noise-problems-solutions/).
 
 ### Room never gets to temperature
 
@@ -85,7 +85,7 @@ Rattles, buzzing and grinding usually come from loose panels, vibration or worn 
 - Fan on low?
 - Unit too small for the room?
 
-If the room gets close but never quite there, the temperature sensor may be reading wrong. See [thermostat calibration](/heat-pump-thermostat-calibration/). If it falls well short on cold mornings only, the unit may be undersized; our [sizing guide](/heat-pump-sizing/) explains why.
+If the room gets close but never quite there, the temperature sensor may be reading wrong. See [thermostat calibration](/heat-pump-thermostat-calibration/). If it falls well short on cold mornings only, the unit may be undersized, and [heat pump sizing](/heat-pump-sizing/) explains why that shows up in the cold.
 
 ### Turning on and off often
 
@@ -93,7 +93,7 @@ Short bursts of running and stopping can come from a set temperature close to th
 
 ### Power bill has jumped
 
-Check the timer, the mode and the set temperature, then clean the filters. If nothing obvious has changed, our [power usage page](/energy-consumption-monitoring/) lists what else can drive usage up.
+Check the timer, the mode and the set temperature, then clean the filters. If nothing obvious has changed, look at the other causes of high [heat pump power use](/energy-consumption-monitoring/).
 
 ## When to stop troubleshooting and call a technician
 
