@@ -60,3 +60,7 @@ p, ul, ol { margin: 0 0 1.1em; }
 .faq h3 { margin-top: 1.4em; }
 .crumbs { font-size: 1rem; color: var(--ink-soft); padding-top: 24px; }
 .crumbs a { color: var(--ink-soft); }
+/* Standalone "next step" links: bold with a thick blue underline. */
+.more { margin: 32px 0 0; }
+.more a { color: var(--link); font-weight: 700; text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; }
+.more a:hover { color: var(--brand-ink); }
