@@ -48,6 +48,8 @@ Signs to look for: sneezing, itchy eyes or a cough that are worse when the heat 
 
 ## What helps when a heat pump triggers asthma
 
+When a heat pump triggers asthma, what helps is a clean unit inside and out, a drier house, filters suited to the job and less dust in the room.
+
 ### Clean filters
 
 The filters behind the front panel are designed to be cleaned by you. Every few weeks while the heat pump is in heavy use is a good habit. Vacuum or rinse them, let them dry fully, and put them back. Don't run the heat pump with the filters out.

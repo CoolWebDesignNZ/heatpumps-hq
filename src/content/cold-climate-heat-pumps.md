@@ -36,6 +36,8 @@ A cold climate heat pump is one that copes with both. It keeps enough output to 
 
 ## What to look for in a cold climate heat pump
 
+In a cold climate heat pump, look at three figures for the exact model: the 2°C heating capacity, the Cold zone heating stars and the heating operating range.
+
 ### The 2°C heating figure on the label
 
 New heat pump models sold in New Zealand carry the Zoned Energy Rating Label. It shows the heating capacity at two outdoor temperatures, 7°C and 2°C. EECA's guidance is that if you live where overnight winter temperatures get down to 2°C or less, you should check that the 2°C heating capacity is the same as or greater than the 7°C figure, and use it to compare models. Some units are not well designed to cope with frost and give less heat at 2°C than at 7°C.

@@ -35,17 +35,23 @@ You'll find it on the mode button, usually shown as "Dry" or a water droplet.
 
 ## When to dehumidify with your heat pump
 
+Dry mode is worth using when the air is warm and damp:
+
 - **Muggy summer days.** Warm, humid weather after rain, when a room feels sticky rather than hot.
 - **Closed-up rooms in warm weather.** A spare room or sleepout that smells stale in summer.
 - **After cooking or showering in warmer months.** As a short boost alongside opening windows and running extractor fans.
 
 ## When dry mode doesn't help
 
+Dry mode doesn't help in the cold, against damp coming from the building, or in rooms the unit doesn't serve:
+
 - **Cold winter days.** Dry mode can't heat. In a cold room it makes things cooler, and the coil may struggle to pull much water from cold air.
 - **Persistent damp from the building.** A wet subfloor, a leaking roof or a bathroom with no extraction will keep putting moisture back. No heat pump setting fixes the source.
 - **Rooms away from the unit.** It only treats the air in the space the indoor unit serves.
 
 ## Heat pump or dehumidifier?
+
+Use heat pump dry mode for a warm, humid room the unit serves, and a portable dehumidifier for cold rooms, indoor washing and rooms with no heat pump.
 
 | Situation | Better choice |
 | --- | --- |

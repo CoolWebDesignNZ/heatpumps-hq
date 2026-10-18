@@ -67,6 +67,8 @@ If you already have a Fujitsu unit, nothing about it changes. We still service a
 
 ## Mitsubishi vs Daikin vs Fujitsu vs Toshiba, side by side
 
+Side by side, Mitsubishi Electric, Daikin, Fujitsu and Toshiba all list high wall, floor console, multi room and ducted systems, with their own ducted zoning:
+
 | | Mitsubishi Electric | Daikin | Fujitsu | Toshiba |
 | --- | --- | --- | --- | --- |
 | NZ company | Mitsubishi Electric New Zealand | Daikin New Zealand | GENERAL New Zealand | AHI Carrier |

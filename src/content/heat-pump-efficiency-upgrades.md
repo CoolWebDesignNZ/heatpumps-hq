@@ -48,6 +48,8 @@ Not every efficiency problem needs a new heat pump. Before we quote for a replac
 
 ## How we replace an old heat pump
 
+Replacing an old heat pump runs in six steps, from looking at the house to showing you the new controls:
+
 1. **We look at the old system and the house.** The rooms, the insulation, the windows and how you use the space. The old unit's size is a starting point, not the answer, because the house or how you use it may have changed since it went in.
 2. **You get options with a fixed price.** Usually a like-for-like position and, where it helps, a better one. For each model we show you the Cold zone heating stars and heating capacity at 2°C from the energy label, so you can compare running efficiency.
 3. **We remove the old unit.** The refrigerant is recovered before the old unit leaves your property.

@@ -37,6 +37,8 @@ Do these in autumn, while the days are still mild:
 
 ## Heat pump winter settings that work
 
+The winter settings that work are heat mode, a steady temperature, the fan on auto, the louvres down, a timer and closed doors.
+
 **Choose heat mode, not auto.** Auto can flick between heating and cooling on a mild winter afternoon. Heat mode keeps it doing one job.
 
 **Pick a steady temperature.** Setting it very high doesn't warm the room much faster. The unit keeps working hard for longer, and the room overshoots. Choose a comfortable number and leave it.
@@ -51,6 +53,8 @@ Do these in autumn, while the days are still mild:
 
 ## The outdoor unit in a Canterbury winter
 
+Through a Canterbury winter the outdoor unit deals with frost, meltwater, ice and the odd snowfall, and each needs handling differently.
+
 **Frost and defrost.** On a cold, clear night, moisture in the air freezes on the outdoor coil. The unit reverses for a few minutes to melt it, and you'll see steam and hear a whoosh. The indoor fan pauses while this happens, so the room may feel cooler briefly. That's normal.
 
 **Where the meltwater goes.** Defrost water drips from the base. On a concrete path it can freeze into a slippery patch overnight. If the unit sits above a path or a doorway, ask us about a drain tray or a gravel soak area.
@@ -62,6 +66,8 @@ Do these in autumn, while the days are still mild:
 **Don't box it in.** A tight box or a tarp over the unit while it's running blocks airflow and traps defrost water. Our [heat pump covers](/covers/) page explains what kind of cover is safe.
 
 ## Heat pump winter faults worth catching early
+
+These winter faults are worth a call before they get worse:
 
 - Warm air that is only lukewarm at the indoor unit
 - The outdoor unit running constantly but the room never getting warm

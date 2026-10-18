@@ -43,7 +43,7 @@ If an insulation upgrade is planned for next year, say so when you get a quote. 
 
 ## Step 3: Pick which heat pump type suits the house
 
-There are three ways to set a house up:
+The type comes down to how many rooms one outdoor unit serves. There are three ways to set a house up:
 
 - **Single split.** One outdoor unit, one indoor unit, one room or open plan area. The most common setup in New Zealand homes.
 - **Multi split.** One outdoor unit running two or more indoor units in different rooms.
@@ -73,7 +73,7 @@ EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-reg
 
 ## Step 6: Check the practical details
 
-Before you settle on a model, think about:
+The practical details are the outdoor unit's spot and noise, the controls, coastal protection and filter access. Before you settle on a model, think about:
 
 - **Where the outdoor unit can go.** It needs clear air around it, a spot clear of the neighbour's bedroom windows and somewhere the defrost water can drain. The District Plan noise limits are set out in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 - **The outdoor noise figure.** Worth checking if the only spot is close to a fence or a bedroom.
@@ -86,6 +86,8 @@ Before you settle on a model, think about:
 A well chosen unit can still perform badly if it's put in the wrong place, the pipework is poor or the electrical work is skipped. EECA's guide says many problems with poorly performing heat pumps come down to where the units were located. Our [installer checklist](/best-heat-pump-installers-christchurch/) lists what to ask.
 
 ## A quick checklist for buying a heat pump
+
+Take this list with you when you compare quotes:
 
 - The room, its size and what it's used for
 - Insulation and glazing, and any upgrades planned

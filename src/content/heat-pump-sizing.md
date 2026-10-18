@@ -33,7 +33,7 @@ The catch is the test condition. On the Zoned Energy Rating Label the main heati
 
 ## Size for the cold, not the brochure
 
-EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) sets out the method installers should follow:
+A heat pump should be chosen by the heat it delivers on the coldest mornings in your area, not by the rated figure on the box. EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) sets out the method installers should follow:
 
 1. **Work out the heating the room needs** (its heat load) in kW.
 2. **Find the external design temperature** for the area. The guide lists it by council, taken from the Healthy Homes Standards. For **Christchurch City and Selwyn District it is minus 4°C**. Waimakariri is also minus 4°C.
@@ -63,7 +63,7 @@ There is no honest single figure for watts per square metre. Two rooms the same 
 
 ## What happens when heat pump sizing goes wrong
 
-EECA's guide sets out what happens when the size is wrong:
+An undersized heat pump leaves the room cold and runs up costs, while one that is significantly oversized short cycles, which also costs more and adds noise and wear. EECA's guide sets out both cases:
 
 | If the unit is | What happens | Effects |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ In Canterbury the bigger risk is undersizing, because output drops in the cold j
 
 ## What size heat pump do I need for open plan spaces?
 
-For a big open plan area, one very large unit isn't always the answer. EECA's guide notes that two smaller units, or a multi split system, can spread heat better and give better control than a single high-capacity unit. A living area that runs into a kitchen and dining space, or a lounge with a long hallway off it, is a common case. See [multi-room installation](/multi-room-heat-pump-installation/).
+An open plan space often needs two smaller units or a multi split system rather than one very large unit. EECA's guide notes that two smaller units, or a multi split, can spread heat better and give better control than a single high-capacity unit. A living area that runs into a kitchen and dining space, or a lounge with a long hallway off it, is a common case. See [multi-room installation](/multi-room-heat-pump-installation/).
 
 ## Rental homes
 

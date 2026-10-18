@@ -37,6 +37,8 @@ The unit is switched on and run before anything comes apart. We listen for rattl
 
 ## Step 2: the indoor unit
 
+The indoor unit gets the most attention, from the filters through to the drain line:
+
 1. **Power off at the isolator.** Nothing is cleaned while the unit is live.
 2. **Filters out and washed.** The mesh filters are washed, dried and checked for tears. Any extra filters your model has, such as deodorising or allergen filters, are checked and replaced if needed.
 3. **Coil cleaned.** The aluminium fins behind the filters are where dust and mould build up. We clean them with a coil cleaner and rinse them, catching the run-off.
@@ -44,6 +46,8 @@ The unit is switched on and run before anything comes apart. We listen for rattl
 5. **Drain tray and drain line flushed.** Water is poured into the tray to prove it runs away freely. A slow drain is the usual cause of a unit dripping down the wall.
 
 ## Step 3: the outdoor unit
+
+Outside, we clear the coil and check the fan, the base, the feet, the brackets and the pipe insulation:
 
 1. **Coil cleared.** Leaves, cobwebs, lint and grass clippings come off the fins so the unit can move air.
 2. **Fan and guard checked.** We make sure the blade turns freely, isn't chipped and isn't rubbing.

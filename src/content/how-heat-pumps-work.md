@@ -72,6 +72,8 @@ This is the main reason sizing matters so much in Canterbury. EECA's guide lists
 
 ## What the indoor and outdoor units actually do
 
+The outdoor unit collects heat and the compressor in it raises the refrigerant's pressure and temperature, while the indoor unit releases that heat into the room:
+
 | Part | Where | Job in heating mode |
 | --- | --- | --- |
 | Outdoor coil and fan | Outside | Collects heat from the outdoor air |

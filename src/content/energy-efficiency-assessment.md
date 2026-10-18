@@ -27,11 +27,13 @@ related:
 
 ## What our home energy assessment is
 
-A full home energy audit covers everything that uses energy in a house: hot water, lighting, appliances, insulation and heating. That's not what we do.
+Our home energy assessment covers the **heating** side of your home. A full home energy audit covers everything that uses energy in a house: hot water, lighting, appliances, insulation and heating. That's not what we do.
 
-We assess the **heating** side of your home. As heat pump specialists, we look at how each room is heated, why some rooms stay cold, whether your existing heat pumps are the right size and in good condition, and what would give you warmer rooms for less power. It's the same thinking we use for every install quote, done as a dedicated visit.
+As heat pump specialists, we look at how each room is heated, why some rooms stay cold, whether your existing heat pumps are the right size and in good condition, and what would give you warmer rooms for less power. It's the same thinking we use for every install quote, done as a dedicated visit.
 
 ## What the energy efficiency assessment looks at
+
+The assessment looks at three things: the rooms themselves, how you use the house, and the heating you already have.
 
 ### The rooms
 
@@ -65,7 +67,7 @@ Any heat pump work comes with a fixed price before it starts. Insulation and oth
 
 ## Why it isn't a full home energy audit
 
-So there's no confusion:
+It isn't a full home energy audit because we only look at heating, and we don't certify anything:
 
 - We don't issue an energy rating, certificate or a certified assessment for a house.
 - We don't do thermal imaging, blower door tests or wall insulation testing.

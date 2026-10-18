@@ -33,6 +33,8 @@ That figure is a limit, not a promise of full output. Two things happen as the t
 
 ## What happens to a heat pump below zero
 
+Below zero, two things happen: the heat pump's output drops, and frost forms on the outdoor coil so the unit has to spend some of its effort defrosting.
+
 ### Output drops
 
 A heat pump moves heat from the outdoor air into the house. The colder the outdoor air, the more work it takes to move each unit of heat. Some models hold their output well as the temperature falls; others give less heat on a frosty morning than on a mild afternoon, just when the house needs more. That's why sizing for cold mornings matters.
@@ -73,6 +75,8 @@ When a heat pump works fine in autumn and falls short every July, the cause is u
 A service before winter rules out the last one. If the unit is undersized or old, we'll tell you whether a second unit, a larger unit or a replacement makes more sense. Our [cold climate heat pump guide](/cold-climate-heat-pumps/) covers what to look for in a new one.
 
 ## Heat pump settings for low temperatures and cold snaps
+
+The best settings for a cold snap keep the unit ticking over and put the heat only where you need it:
 
 - **Keep it running steadily.** Starting from a cold house on the coldest part of the morning asks the most of the unit when it has the least to give.
 - **Use the timer.** Have it start before you get up rather than switching it on high when you're already cold.

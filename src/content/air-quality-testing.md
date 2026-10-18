@@ -37,6 +37,8 @@ An indoor unit pulls room air through its filters, across a coil and through a f
 
 ## What we look at during an air quality test at home
 
+At home, we check the heat pump part by part, then the room around it:
+
 1. **Filters.** How clogged they are and whether they're damaged or missing.
 2. **The indoor coil.** Dust, grime and mould on the fins.
 3. **The fan wheel.** The barrel fan inside the outlet, where mould often builds up and which is hard to clean yourself.

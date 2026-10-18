@@ -51,6 +51,8 @@ Each brand has its own controller and app, and they don't work across brands. Th
 
 ## What your house needs for a Wi-Fi heat pump
 
+A Wi-Fi heat pump needs three things from your house: a signal where the indoor unit sits, a 2.4 GHz network and a model that takes an adaptor.
+
 - **Wi-Fi signal where the heat pump is.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal in that spot, so will the heat pump. A mesh point or extender in that room fixes it.
 - **A 2.4 GHz network.** Many heat pump adaptors only connect on 2.4 GHz. Most home routers broadcast it, but some combine bands under one name in a way that confuses the adaptor during set-up.
 - **A compatible model.** Not every indoor unit takes an adaptor. This matters most on older units, where we check the model before you buy anything.
@@ -64,6 +66,8 @@ If you're getting a new heat pump, decide on Wi-Fi control before the quote is f
 A Wi-Fi controller gives you control from your phone. It doesn't give you different temperatures in different rooms on a single ducted system. That needs a zone controller, covered on our [heat pump zoning](/heat-pump-zoning/) page. In a house with several wall units, each unit can usually be added to the same app and run on its own schedule.
 
 ## Using a smart heat pump well
+
+A smart heat pump earns its keep when you set it up once and let the schedule do the work:
 
 - Set a morning and an evening schedule, then leave it to run.
 - Use the app to switch off when plans change, rather than leaving the house warm and empty.

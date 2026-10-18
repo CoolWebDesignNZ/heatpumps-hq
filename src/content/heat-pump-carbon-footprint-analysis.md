@@ -55,7 +55,7 @@ Refrigerant only becomes an emission if it leaks out or is released when the uni
 
 ## Heat pump vs wood burner
 
-People often weigh a heat pump against a wood burner. They differ in more than carbon.
+A heat pump and a wood burner differ on air quality, the Christchurch rules, carbon and convenience, which is worth knowing if you're weighing one against the other.
 
 **Air quality.** A wood burner gives off smoke, both outside and when you open the door to load it. The Cardiac and Respiratory Foundation NZ says newer wood and pellet burners burn relatively cleanly with dry, well-seasoned wood, but still create some air pollution, and it lists heat pumps among the good heating options for respiratory health ([Cardiac and Respiratory Foundation NZ, your home and your health](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/)).
 
@@ -68,6 +68,8 @@ People often weigh a heat pump against a wood burner. They differ in more than c
 Some homes have both, using the heat pump day to day and the burner on the coldest nights. Our [heat pump regulations guide](/compliance-building-codes/) covers the rules for heat pumps in more detail.
 
 ## How to cut your heat pump's footprint
+
+You cut a heat pump's footprint mostly by choosing it well and looking after it:
 
 - Size it properly so it runs gently, not flat out.
 - Choose a model with good Cold zone heating stars.

@@ -38,6 +38,8 @@ A filter clean only deals with the first one.
 
 ## How to clean your heat pump filters
 
+You can clean the filters yourself in a few minutes:
+
 1. Turn the unit off with the remote, then at the isolator if you can reach it.
 2. Lift the front panel until it clicks open.
 3. Slide the filters down and out.
@@ -48,6 +50,8 @@ A filter clean only deals with the first one.
 Do this every few weeks while the unit is in daily use. Some units have extra filters clipped behind the main ones; your manual says whether those can be washed or need replacing.
 
 ## What our heat pump cleaning service involves
+
+Our cleaning service wet-cleans the indoor unit part by part and clears the outdoor unit as well.
 
 **The unit is protected.** We fit a waterproof cleaning bag around the indoor unit to collect the run-off, and cover the floor and furniture below.
 
@@ -64,6 +68,8 @@ Do this every few weeks while the unit is in daily use. Some units have extra fi
 A full clean takes longer than a standard [service](/heat-pump-servicing/), because the indoor unit is properly wet-cleaned rather than inspected and wiped.
 
 ## When to book heat pump cleaning in Christchurch
+
+Book a clean when you notice any of these:
 
 - The unit smells when it starts. Our [heat pump smells](/heat-pump-deodorising/) page helps tell a dirt smell from a fault.
 - You can see black spots inside the outlet when the louvres open.

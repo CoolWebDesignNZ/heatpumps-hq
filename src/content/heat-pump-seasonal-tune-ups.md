@@ -31,6 +31,8 @@ A heat pump can sit unused for months and still look fine. The first real test i
 
 ## What a heat pump tune-up checks
 
+A tune-up checks output, start-up, defrost or drain readiness, filters, settings and sensors.
+
 **Heating or cooling output.** We run the unit in the mode you're about to rely on and measure the air going in and out of the indoor unit. A weak result tells us to look further at airflow or refrigerant before winter, not during it.
 
 **Start-up and ramp-up.** We watch the outdoor unit start, speed up and settle. Hesitation, short cycling or a loud start are early warnings.
@@ -57,6 +59,8 @@ We'll tell you which one your unit needs when you book, and agree the price befo
 
 ## Seasonal heat pump maintenance in autumn and spring
 
+The autumn check gets the unit ready for heating and the spring check gets it ready for cooling.
+
 **Autumn, for heating.** If you only do one check a year, make it this one. Book it once the summer heat has gone but before the frosts, so there's time to sort anything we find.
 
 **Spring, for cooling.** Worth doing if you cool bedrooms through summer, run a north-facing living area, or use dry mode on muggy days. The focus is the drain, the coil and cooling output.
@@ -64,6 +68,8 @@ We'll tell you which one your unit needs when you book, and agree the price befo
 If you'd like both done each year without having to remember, we can put them on a [service plan](/customised-heat-pump-service-plans/).
 
 ## What you can check yourself first
+
+You can do four quick checks yourself before you book:
 
 - Run the unit for twenty minutes in the mode you'll need and feel the airflow.
 - Wash the filters.

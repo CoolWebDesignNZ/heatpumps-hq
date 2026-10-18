@@ -27,7 +27,7 @@ related:
 
 ## Four checks for any heat pump problem
 
-Whatever the symptom, try these first:
+Before you call anyone about a heat pump problem, try these four checks, whatever the symptom:
 
 1. **The remote.** Fresh batteries, the right mode, a set temperature that makes sense, and no timer or weekly schedule switching it off.
 2. **The filters.** Open the front panel, slide out the filters, and vacuum or rinse them. Let them dry before refitting.
@@ -37,6 +37,8 @@ Whatever the symptom, try these first:
 **Stay safe:** don't remove panels or covers on either unit, don't poke anything into the fans, and don't hose the outdoor unit while it's running.
 
 ## Common heat pump problems, symptom by symptom
+
+Find the symptom your heat pump is showing below, then work through the checks listed under it.
 
 ### Not heating, or blowing cool air
 

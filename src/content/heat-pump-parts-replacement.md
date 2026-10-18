@@ -27,7 +27,7 @@ related:
 
 ## Heat pump parts we replace
 
-A heat pump is a set of parts that can each fail on their own. The parts we replace fall into these groups:
+We replace controllers, fan motors, sensors, control boards, louvre motors, condensate pumps, filters, fan blades, feet, brackets and pipe insulation. A heat pump is a set of parts that can each fail on their own:
 
 **Remote controllers and wall controllers.** Lost, dropped, chewed by the dog, or just stopped working. Wall-mounted controllers on ducted systems fail too.
 
@@ -48,6 +48,8 @@ A heat pump is a set of parts that can each fail on their own. The parts we repl
 **Feet, brackets and pipe insulation.** Perished anti-vibration feet, corroded brackets and sun-damaged pipe lagging.
 
 ## How we find the right heat pump spare parts
+
+The right spare part starts with the right diagnosis, then the exact model number:
 
 1. **Find the fault first.** A part is only replaced once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair, and guessing wastes your money. Diagnosis is covered on our [repair](/heat-pump-repair/) page.
 2. **Read the model number.** Every brand uses different parts across its models, even when the units look the same.
@@ -70,6 +72,8 @@ Sometimes the failed part is the compressor, or the unit has several parts weari
 If the problem is refrigerant leaking rather than a failed part, see [leak detection and repair](/leak-detection-repair/).
 
 ## Before you call about a heat pump part
+
+Three details help us find the right part faster:
 
 - Note the model numbers from the indoor and outdoor labels.
 - Write down any error code or the pattern of flashing lights.

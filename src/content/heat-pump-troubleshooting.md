@@ -27,13 +27,15 @@ related:
 
 ## Why fault finding comes first
 
-A heat pump has a few separate systems working together: the power supply, the controls, the fans and airflow, the refrigerant circuit, the sensors and the communication link between the indoor and outdoor units. A symptom like "not heating" can start in any of them.
+Fault finding comes first because a symptom like "not heating" can start in any of a heat pump's separate systems: the power supply, the controls, the fans and airflow, the refrigerant circuit, the sensors and the communication link between the indoor and outdoor units.
 
 Swapping parts until the problem goes away is slow and expensive. We test each system in turn and only quote a repair once we know which part has failed and why.
 
 If you'd like to rule out the simple things yourself first, our [DIY troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) covers the checks that don't need tools.
 
 ## What we test when your heat pump is not working
+
+When your heat pump is not working, we test each system in this order:
 
 1. **Power and wiring.** Supply voltage at the outdoor unit, the isolating switch, the breaker and the connections between the two units.
 2. **Controls and settings.** Mode, timers, the remote or wall controller, and any settings that limit output.
@@ -44,7 +46,7 @@ If you'd like to rule out the simple things yourself first, our [DIY troubleshoo
 
 ## Heat pump blowing cold air
 
-What you see tells us where to start looking:
+A heat pump blowing cold air is sometimes normal and sometimes a fault. What you see tells us where to start looking:
 
 - **Cold air for a few minutes, then warm.** On a frosty morning the outdoor unit melts its ice by running in reverse for a short time. That's normal.
 - **Cold air all the time in heat mode.** Something is stopping the refrigerant circuit from heating. Low refrigerant, an outdoor fan that isn't spinning, a compressor that won't start, or a stuck reversing valve are the usual suspects.

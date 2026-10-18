@@ -27,6 +27,8 @@ related:
 
 ## What a heat pump smell is telling you
 
+Each kind of smell points to a different cause, and an electrical burning smell means turning the unit off at the isolator:
+
 | Smell | Likely cause | What to do |
 | --- | --- | --- |
 | Musty, damp, old socks | Mould and bacteria on the coil, fan wheel or drain tray | Book a clean |
@@ -57,6 +59,8 @@ We treat smells by removing what causes them:
 If the smell is electrical, it's a fault rather than a clean, and it's handled as a [repair](/heat-pump-repair/).
 
 ## Stopping a musty heat pump smell coming back
+
+Once the unit is clean, four habits keep the musty smell from coming back:
 
 - **Wash the filters regularly.** Less dust on the coil means less for mould to feed on.
 - **Dry the coil after cooling.** Some units have a setting that runs the fan briefly after cooling or dry mode to dry the coil. If yours doesn't, run it in fan mode for a short while before turning it off.

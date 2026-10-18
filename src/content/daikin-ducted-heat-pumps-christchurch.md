@@ -27,7 +27,7 @@ related:
 
 ## The Daikin ducted heat pump range in New Zealand
 
-Daikin's New Zealand site lists these ducted series. The notes below follow how Daikin describes each one; check [Daikin's ducted heat pump page](https://www.daikin.co.nz/pages/ducted-heat-pumps) for the current models and full specifications.
+Daikin's New Zealand ducted range has five series on its NZ site: Slim-Line FBA, FDMA Modern Residential, Premium Inverter FDYA, Inverter Ducted FDYAN and Bulkhead FDYBA. The notes below follow how Daikin describes each one; check [Daikin's ducted heat pump page](https://www.daikin.co.nz/pages/ducted-heat-pumps) for the current models and full specifications.
 
 | Series | What Daikin designed it for |
 | --- | --- |
@@ -60,7 +60,7 @@ Zoning suits houses where the bedrooms and living areas are used at different ti
 
 ## Daikin or another brand?
 
-We install Daikin, Mitsubishi Electric, Fujitsu and Toshiba, so we're not tied to one. If you've already settled on Daikin, we'll work within its range. If you're still deciding, we'll show you how the Daikin option for your house compares with a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). The broader comparison is in our [brand comparison guide](/heat-pump-brands-comparison/).
+Daikin is one of four brands we install, with Mitsubishi Electric, Fujitsu and Toshiba, so the choice is yours rather than ours. If you've already settled on Daikin, we'll work within its range. If you're still deciding, we'll show you how the Daikin option for your house compares with a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). The broader comparison is in our [brand comparison guide](/heat-pump-brands-comparison/).
 
 ## Installing a Daikin ducted system
 
