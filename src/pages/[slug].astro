@@ -7,6 +7,7 @@ import Img from '../components/Img.astro';
 import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
+import AreaCards from '../components/AreaCards.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 import nav from '../data/nav.json';
@@ -101,7 +102,7 @@ if (fm.faqs?.length) {
   {fm.steps?.length && (
     <section class="section warm">
       <div class="wrap">
-        <h2>How we work at Heat Pumps HQ</h2>
+        <h2>{fm.stepsHeading ?? 'How we work at Heat Pumps HQ'}</h2>
         <div class="grid steps">
           {fm.steps.map((st, i) => (
             <div class="card step"><div class="card-body"><p class="step-n">{i + 1}</p><h3>{st.h}</h3><p set:html={st.p} /></div></div>
@@ -110,15 +111,24 @@ if (fm.faqs?.length) {
       </div>
     </section>
   )}
-  {fm.steps?.length && (
+  {fm.brands && (
     <section class="section">
       <div class="wrap">
-        <h2>Heat pump brands we fit and service</h2>
+        <h2>{fm.brandsHeading ?? 'Heat pump brands we fit and service'}</h2>
         <p class="lead">We install four brands and compare their models for your rooms, then suggest the one that fits, not whatever's in stock.</p>
         <div class="brands">
           {site.brandsServiced.map((b) => <div class="brand"><strong>{b}</strong><span>{site.brandsInstalled.includes(b) ? 'Installed and serviced' : 'Serviced and repaired'}</span></div>)}
         </div>
         <p>We also service and repair most other split and ducted heat pumps sold in New Zealand. See <a href="/maintenance-servicing/">heat pump servicing</a> and <a href="/heat-pump-repair/">heat pump repairs</a>.</p>
+      </div>
+    </section>
+  )}
+  {fm.areas && (
+    <section class="section warm">
+      <div class="wrap">
+        <h2>{fm.areasHeading}</h2>
+        <p class="lead">{fm.areasLead}</p>
+        <AreaCards />
       </div>
     </section>
   )}

@@ -8,11 +8,32 @@ serviceName: Heat pump installation
 intro: "We install heat pumps across Christchurch, planned from your rooms, insulation and windows. We put the units where they work best and stay quiet, and fix the price first."
 hero: install-hero
 gallery: [install-pipework, install-commission]
+stepsHeading: What every heat pump installation includes
+steps:
+  - h: Indoor unit
+    p: Fitted level on a bracket, high enough to throw warm air across the room, and clear of curtains and furniture.
+  - h: Pipes and cable
+    p: The refrigerant pipes, control cable and drain go through one neat hole in the wall. Outside, they run in a cover that matches the house.
+  - h: Outdoor unit
+    p: On raised feet, a pad or a wall bracket, with room round it for air to move and frost melt to drain away.
+  - h: Electrical connection
+    p: Done by a licensed electrical worker, with an isolating switch next to the outdoor unit.
+  - h: Commissioning
+    p: We pressure test and vacuum the pipes, let the refrigerant in, then run the system in heating and cooling to check it's right.
+  - h: Handover
+    p: We show you the remote, the settings that make the biggest difference to comfort and running cost, and how to clean the filters.
+brands: true
+brandsHeading: Heat pump brands we install in Christchurch
+areas: true
+areasHeading: Heat pump installation across Christchurch and Selwyn
+areasLead: We install heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Pick your area to see what suits the homes there.
 faqHeading: Heat pump installation questions
 relatedHeading: More on choosing a heat pump install
 faqs:
   - q: Do I need consent to install a heat pump in Christchurch?
     a: Most home split systems don't need building consent. But the District Plan controls noise at the neighbour's place. So the outdoor unit has to go where it meets those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a>.
+  - q: I'm a landlord. Will the heat pump meet the Healthy Homes standard?
+    a: The <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Healthy Homes heating standard</a> needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit for that room and give you the model and capacity for your records.
   - q: Which heat pump brands can you install for me?
     a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
   - q: Can you replace my old heat pump?
@@ -35,6 +56,18 @@ That visit tells us three things.
 - Which type of indoor unit suits it.
 - Where both units can go. We want a short pipe run, warm air reaching where you sit, and a quiet outdoor unit at the boundary.
 
+## Heat pump installation for Christchurch homes
+
+Christchurch is hard on a heat pump in its own ways. We plan every install around them.
+
+- **Frosty nights on the plains.** Out west in [Hornby](/heat-pumps-hornby/), [Wigram](/wigram/) and [Rolleston](/rolleston/), clear winter nights bring hard frosts. We size the unit for a frosty morning, not an average day, and raise the outdoor unit so defrost water drains away instead of freezing under it.
+- **Hillside homes.** On the Port Hills in [Cashmere](/cashmere/), [Cracroft](/cracroft/) and [Lyttelton](/lyttelton/), the outdoor unit often goes on a wall bracket or a deck, with a longer pipe run. We plan the access and the bracket at the quote, so it's in the price.
+- **Salt air by the sea.** Near the beach in [Sumner](/sumner/) and [New Brighton](/new-brighton/), we put the outdoor unit out of the onshore wind and follow the maker's guidance for coastal installs.
+- **Older villas and bungalows.** Homes like those in [St Albans](/st-albans/) lose heat through the floor and single glazing, and their rooms are closed off. They usually need a unit in each room you use, not one big unit in the lounge.
+- **Newer, well insulated homes.** In subdivisions like [Halswell](/halswell/) and Wigram, one well placed unit can often heat a whole open plan living area.
+- **Hot nor'west days.** Every heat pump we fit cools as well as heats, so the same unit keeps the house comfortable in summer.
+- **Selwyn has its own rules.** Rolleston, Lincoln, Prebbleton and Tai Tapu come under the Selwyn District Plan, not Christchurch's. The outdoor unit still has to stay quiet at the neighbour's place.
+
 ## Choosing the right heat pump system
 
 It depends on the rooms you want heated. These are the usual options.
@@ -45,17 +78,6 @@ It depends on the rooms you want heated. These are the usual options.
 - **A ducted system.** A vent in each room and nothing on the walls. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
 Our four install brands are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We can talk you through [how the brands compare](/heat-pump-brands-comparison/). On site, we'll tell you which models we'd shortlist for your rooms.
-
-## What a heat pump install includes
-
-Every install we do has the same six steps.
-
-1. **Indoor unit.** Fitted level on a bracket. It's high enough to throw warm air across the room. It's clear of curtains and furniture.
-2. **Pipes and cable.** The refrigerant pipes, control cable and drain go through one neat hole in the wall. Outside, they run in a cover that matches the house.
-3. **Outdoor unit.** On raised feet, a pad or a wall bracket. It has space round it for air to move and defrost water to drain.
-4. **Electrical connection.** Done by a licensed electrical worker. There's an isolating switch next to the outdoor unit.
-5. **Commissioning.** We pressure test and vacuum the pipes, then let the refrigerant in. We run the system in heating and cooling to check it's working properly.
-6. **Handover.** We show you the remote. We show you the settings that make the biggest difference to comfort and running cost. And we show you how to clean the filters.
 
 ## Where the outdoor unit goes
 
@@ -76,7 +98,3 @@ These things change the [price of a heat pump installation](/heat-pump-installat
 - whether the switchboard needs work
 
 No two installs cost the same. Your quote costs nothing, and the price is locked in up front.
-
-## Book a home visit in Christchurch
-
-We fit heat pumps across Christchurch, Selwyn and Lyttelton, Monday to Friday. Call **[03 242 1023](tel:032421023)** or send the quote form. We'll book a time to come round and see the house.

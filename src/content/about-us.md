@@ -15,6 +15,7 @@ steps:
   - h: The electrical side is done right
     p: On every install, a licensed electrical worker makes the connection.
 areaPhoto: about-2
+brands: true
 faqHeading: Questions about Heat Pumps HQ
 relatedHeading: Next steps with Heat Pumps HQ
 faqs:
