@@ -22,7 +22,7 @@ related:
   - { label: Contact us, href: /contact-us/, text: Phone, email and what to have ready. }
 ---
 
-Each suburb page covers the local housing, what that means for choosing and placing a heat pump, and the services we offer there. Every area gets the same thing: installation from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, servicing and repairs on all major brands, and a fixed price agreed before work starts.
+We install, service and repair heat pumps in every suburb listed below, and the right setup changes from one area to the next. An older villa in St Albans loses heat through its floor and single glazing, a hillside home in Cashmere needs a bracket and a longer pipe run for the outdoor unit, and a house near New Brighton beach needs its outdoor unit placed out of the salt wind. Choose your suburb to see what suits the homes there. Wherever you live, we install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, service and repair all the major brands, and agree a fixed price before any work starts.
 
 ## Heat pumps in the Central City and inner suburbs
 
