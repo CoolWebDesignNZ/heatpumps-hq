@@ -64,3 +64,14 @@ p, ul, ol { margin: 0 0 1.1em; }
 .more { margin: 32px 0 0; }
 .more a { color: var(--link); font-weight: 700; text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; }
 .more a:hover { color: var(--brand-ink); }
+/* Cards that link somewhere lift on hover. */
+.card, .brand, .area-card { transition: transform .18s ease, box-shadow .18s ease; }
+a.card:hover, a.card:focus-visible, .card:has(a):hover, .brand:has(a):hover, .area-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 2px 4px rgba(16, 24, 32, .08), 0 18px 40px rgba(16, 24, 32, .16);
+}
+a.card:hover h3, a.card:focus-visible h3 { color: var(--link); }
+@media (prefers-reduced-motion: reduce) {
+  .card, .brand, .area-card { transition: box-shadow .18s ease; }
+  a.card:hover, a.card:focus-visible, .card:has(a):hover, .brand:has(a):hover, .area-card:hover { transform: none; }
+}
