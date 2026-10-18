@@ -26,7 +26,7 @@ brands: true
 brandsHeading: Heat pump brands we install in Christchurch
 areas: true
 areasHeading: Heat pump installation across Christchurch and Selwyn
-areasLead: We install heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu. Pick your area to see what suits the homes there.
+areasLead: We install heat pumps in every Christchurch suburb, in Lyttelton, and in Rolleston, Lincoln, Prebbleton and Tai Tapu.
 faqHeading: Heat pump installation questions
 relatedHeading: More on choosing a heat pump install
 faqs:

@@ -18,7 +18,7 @@ const banned = [
   'rest assured', 'hassle-free', 'hassle free', 'cutting-edge', 'cutting edge', 'state-of-the-art', 'top-notch',
   'one-stop', 'second to none', 'tailored to your needs', 'nestled', 'vibrant', 'bustling', 'navigate the',
   'when it comes to', "it's worth noting", 'in conclusion', 'ever-changing', 'look no', 'trusted experts',
-  'heat pumps hq offers', 'owner-run', 'owner run', 'nate sizes', 'nate installs', 'nate will', 'testimonial', 'happy customers',
+  'heat pumps hq offers', 'tap your', 'tap the', 'click here', 'click your', 'pick your area', 'choose your suburb', 'owner-run', 'owner run', 'nate sizes', 'nate installs', 'nate will', 'testimonial', 'happy customers',
   'fastest', 'number one', 'no.1', '#1', 'best in christchurch', 'best in canterbury', 'unrivalled', 'unmatched', 'industry leading', 'industry-leading', 'leading heat pump',
 ];
 const us = /\b(color|colors|center|centers|centered|organize|organized|neighbor|neighbors|neighborhood|favorite|liter|liters|analyze|optimize|optimized|minimize|maximize|realize|recognize|apologize|customize|customized|humidity level|aluminum|gray|program(?:s|med)? your)\b/i;
