@@ -7,7 +7,7 @@ h1: Contact Heat Pumps HQ
 intro: Call us, email us or send the quote form on this page. We work Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton.
 hero: contact-hero
 gallery: [contact-1, contact-2]
-faqHeading: Questions before you call Heat Pumps HQ
+faqHeading: Questions before you contact Heat Pumps HQ
 relatedHeading: Read before you get in touch
 faqs:
   - q: Is a quote free?
