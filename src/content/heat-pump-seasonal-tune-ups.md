@@ -20,9 +20,9 @@ faqs:
   - q: Can you check my settings and timer at the same time?
     a: Yes. We go through the remote with you. We set the modes and timer to suit how you live. And we show you which buttons matter.
 related:
-  - { label: Full heat pump service, href: /heat-pump-servicing/, text: The complete clean and check, step by step. }
-  - { label: Winter settings, href: /winterisation-of-heat-pumps/, text: How to run a heat pump through frosty months. }
-  - { label: Thermostat calibration, href: /heat-pump-thermostat-calibration/, text: When the room temperature doesn't match the setting. }
+  - { label: Full heat pump service, href: /heat-pump-servicing/, text: "The complete clean and check, step by step." }
+  - { label: Winter settings, href: /winterisation-of-heat-pumps/, text: "How to run a heat pump through frosty months." }
+  - { label: Thermostat calibration, href: /heat-pump-thermostat-calibration/, text: "When the room temperature doesn't match the setting." }
 ---
 
 ## Why a pre-season heat pump check up

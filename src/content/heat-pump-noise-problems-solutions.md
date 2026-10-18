@@ -20,9 +20,9 @@ faqs:
   - q: My neighbour says my heat pump is too loud. What can I do?
     a: Get it checked for worn fan bearings or vibration. Fit anti-vibration feet. Use a quiet or night mode. Or move the outdoor unit away from their bedrooms. In Christchurch the rules go by the noise at their place, not by distance. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the details.
 related:
-  - { label: Boundary rules and noise limits, href: /heat-pump-boundary-rules-consent-nz/, text: The District Plan limits and where to put the outdoor unit. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: When a noise turns out to be a failing part. }
-  - { label: Heat pump servicing, href: /heat-pump-servicing/, text: A yearly check that catches wear early. }
+  - { label: Boundary rules and noise limits, href: /heat-pump-boundary-rules-consent-nz/, text: "The District Plan limits and where to put the outdoor unit." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "When a noise turns out to be a failing part." }
+  - { label: Heat pump servicing, href: /heat-pump-servicing/, text: "A yearly check that catches wear early." }
 ---
 
 ## Normal heat pump noises

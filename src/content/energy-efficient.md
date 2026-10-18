@@ -20,9 +20,9 @@ faqs:
   - q: Does running a heat pump all day use more power than switching it on and off?
     a: It depends on your house and how long you're out. In a well insulated home, a steady setting can use less than heating a cold house from scratch. In a draughty house that's empty all day, a timer is usually better. Set it to come on before you get home.
 related:
-  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: Reading the stars and kWh figures on the label. }
-  - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: What decides how much power your heat pump uses. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: Getting the capacity right for each room. }
+  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: "Reading the stars and kWh figures on the label." }
+  - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: "What decides how much power your heat pump uses." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "Getting the capacity right for each room." }
 ---
 
 ## Why a heat pump is more energy efficient than a heater

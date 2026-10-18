@@ -22,9 +22,9 @@ faqs:
   - q: My newer home already has a heat pump. Do I still need servicing?
     a: Yes. Filters, coils and drains need a clean however new the unit is. A yearly <a href="/maintenance-servicing/">service</a> keeps it running the way it was built to.
 related:
-  - { label: Cracroft, href: /cracroft/, text: Heat pumps for steep sections next door. }
-  - { label: Hoon Hay, href: /hoon-hay/, text: Installs for the family homes below Westmorland. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Heating different parts of the house to different temperatures. }
+  - { label: Cracroft, href: /cracroft/, text: "Heat pumps for steep sections next door." }
+  - { label: Hoon Hay, href: /hoon-hay/, text: "Installs for the family homes below Westmorland." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Heating different parts of the house to different temperatures." }
 ---
 
 ## Heat pump installation for newer Westmorland homes

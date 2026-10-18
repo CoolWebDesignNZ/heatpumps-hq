@@ -20,9 +20,9 @@ faqs:
   - q: Can I put a heat pump in a bay window?
     a: A floor console often fits well under a bay or a wide window sill. It blows warm air low into the room. That suits a room where windows and doors take up the wall space.
 related:
-  - { label: Beckenham, href: /beckenham/, text: Heat pumps for Beckenham's villas and river streets. }
-  - { label: Spreydon, href: /spreydon/, text: Installs and servicing next door in Spreydon. }
-  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: Wall and console units for one room. }
+  - { label: Beckenham, href: /beckenham/, text: "Heat pumps for Beckenham's villas and river streets." }
+  - { label: Spreydon, href: /spreydon/, text: "Installs and servicing next door in Spreydon." }
+  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: "Wall and console units for one room." }
 ---
 
 ## Heat pump installation in Somerfield bungalows and villas

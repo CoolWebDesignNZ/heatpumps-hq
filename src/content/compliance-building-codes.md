@@ -20,9 +20,9 @@ faqs:
   - q: Do landlords have to install a heat pump?
     a: Not a heat pump as such. The Healthy Homes heating standard asks for one or more fixed heaters that can directly heat the main living room and meet its required capacity. In a bigger living room, a heat pump is often the practical choice. That's because other electric heaters can't be used once the required capacity is over 2.4 kW.
 related:
-  - { label: Boundary rules and noise, href: /heat-pump-boundary-rules-consent-nz/, text: District Plan noise limits and where to put the outdoor unit. }
-  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: The label every new heat pump must carry. }
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: What happens from quote to commissioning. }
+  - { label: Boundary rules and noise, href: /heat-pump-boundary-rules-consent-nz/, text: "District Plan noise limits and where to put the outdoor unit." }
+  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: "The label every new heat pump must carry." }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "What happens from quote to commissioning." }
 ---
 
 ## Heat pump regulations in NZ at a glance

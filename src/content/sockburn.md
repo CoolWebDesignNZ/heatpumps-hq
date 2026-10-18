@@ -20,9 +20,9 @@ faqs:
   - q: Can a heat pump go on a unit that shares a driveway?
     a: Yes. The outdoor unit just has to sit where cars won't hit it. It also has to stay within the noise limits at your neighbour's site.
 related:
-  - { label: Hornby, href: /heat-pumps-hornby/, text: Heat pumps for Hornby homes. }
-  - { label: Upper Riccarton, href: /upper-riccarton/, text: Installs for Upper Riccarton rentals and units. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A deep clean for a musty or dusty unit. }
+  - { label: Hornby, href: /heat-pumps-hornby/, text: "Heat pumps for Hornby homes." }
+  - { label: Upper Riccarton, href: /upper-riccarton/, text: "Installs for Upper Riccarton rentals and units." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "A deep clean for a musty or dusty unit." }
 ---
 
 ## Heat pumps for older Sockburn houses and newer units

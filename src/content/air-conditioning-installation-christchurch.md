@@ -39,9 +39,9 @@ faqs:
   - q: Which rooms need air conditioning most?
     a: Rooms with big west or north facing windows get hottest. So do upstairs bedrooms under the roof, and open plan living with lots of glass. We look at those rooms first.
 related:
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How every install is planned and carried out. }
-  - { label: Dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode to deal with damp air. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: Why kW output matters for heating and cooling. }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How every install is planned and carried out." }
+  - { label: Dehumidification, href: /heat-pump-dehumidification/, text: "Using dry mode to deal with damp air." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "Why kW output matters for heating and cooling." }
 ---
 
 ## Heat pump or air conditioning?

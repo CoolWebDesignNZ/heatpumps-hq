@@ -20,9 +20,9 @@ faqs:
   - q: Do you repair heat pumps that were fitted during earthquake repairs in Avondale?
     a: Yes. It doesn't matter who fitted it. If it's a brand sold in New Zealand, we can service and fix it.
 related:
-  - { label: Dallington, href: /dallington/, text: Heat pumps for Dallington homes. }
-  - { label: Wainoni, href: /wainoni/, text: Installation and servicing in Wainoni. }
-  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which system suits your house. }
+  - { label: Dallington, href: /dallington/, text: "Heat pumps for Dallington homes." }
+  - { label: Wainoni, href: /wainoni/, text: "Installation and servicing in Wainoni." }
+  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Which system suits your house." }
 ---
 
 ## Heat pumps for Avondale homes on piles

@@ -20,9 +20,9 @@ faqs:
   - q: Are all these types heat pumps or air conditioners?
     a: They're the same thing. In New Zealand homes, a reverse-cycle air conditioner is called a heat pump. Every type here can heat and cool.
 related:
-  - { label: Ducted vs split systems, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which layout suits your house and budget. }
-  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: One unit for a lounge or bedroom. }
-  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Two or more rooms on one outdoor unit. }
+  - { label: Ducted vs split systems, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Which layout suits your house and budget." }
+  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: "One unit for a lounge or bedroom." }
+  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: "Two or more rooms on one outdoor unit." }
 ---
 
 ## Why types of heat pumps come down to two choices

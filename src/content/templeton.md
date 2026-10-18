@@ -20,9 +20,9 @@ faqs:
   - q: Can you fit a heat pump while we're building in Templeton?
     a: Yes, and it's the easiest time. Get in touch before the linings go on. Then the pipes or ducting can go into the framing.
 related:
-  - { label: Rolleston, href: /rolleston/, text: The Selwyn town just down the road. }
-  - { label: Hornby, href: /heat-pumps-hornby/, text: Installs and servicing in Hornby. }
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and fit a new system. }
+  - { label: Rolleston, href: /rolleston/, text: "The Selwyn town just down the road." }
+  - { label: Hornby, href: /heat-pumps-hornby/, text: "Installs and servicing in Hornby." }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan and fit a new system." }
 ---
 
 ## Heat pumps for Templeton homes on the open plains

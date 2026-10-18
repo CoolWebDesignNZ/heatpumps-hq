@@ -22,9 +22,9 @@ faqs:
   - q: Is one heat pump enough for a Papanui townhouse?
     a: Often, for the living level. Upstairs bedrooms in a two storey townhouse usually need their own small unit. Warm air from downstairs doesn't spread evenly through closed doors.
 related:
-  - { label: St Albans, href: /st-albans/, text: Heat pumps for St Albans villas and townhouses. }
-  - { label: Bryndwr, href: /bryndwr/, text: Installation and servicing in Bryndwr. }
-  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: Heating bedrooms and living areas from one outdoor unit. }
+  - { label: St Albans, href: /st-albans/, text: "Heat pumps for St Albans villas and townhouses." }
+  - { label: Bryndwr, href: /bryndwr/, text: "Installation and servicing in Bryndwr." }
+  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: "Heating bedrooms and living areas from one outdoor unit." }
 ---
 
 ## Heat pump installation for two kinds of Papanui home

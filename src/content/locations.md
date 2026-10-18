@@ -17,9 +17,9 @@ faqs:
   - q: Is the quote still free outside the city?
     a: Yes. Quotes are free in every area we cover, and the price is fixed before any work starts.
 related:
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we size and fit a new system. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: Yearly cleans and checks for any brand. }
-  - { label: Contact us, href: /contact-us/, text: Phone, email and what to have ready. }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we size and fit a new system." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "Yearly cleans and checks for any brand." }
+  - { label: Contact us, href: /contact-us/, text: "Phone, email and what to have ready." }
 ---
 
 We work right across Christchurch, out to Lyttelton and the Selwyn towns. Find your suburb below.

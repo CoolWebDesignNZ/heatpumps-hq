@@ -20,9 +20,9 @@ faqs:
   - q: Can a heat pump bring in smells from outside?
     a: A standard split system moves the room's own air around. It doesn't pull air from outside. Smell cigarette smoke, cooking or damp? It's usually coming from the room. Or it's soaked into a dirty coil and filters.
 related:
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: The full coil, fan and drain clean. }
-  - { label: Dry mode and dehumidifying, href: /heat-pump-dehumidification/, text: Using dry mode without making smells worse. }
-  - { label: Air quality testing, href: /air-quality-testing/, text: When the smell might be the house, not the heat pump. }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "The full coil, fan and drain clean." }
+  - { label: Dry mode and dehumidifying, href: /heat-pump-dehumidification/, text: "Using dry mode without making smells worse." }
+  - { label: Air quality testing, href: /air-quality-testing/, text: "When the smell might be the house, not the heat pump." }
 ---
 
 ## What a heat pump smell is telling you

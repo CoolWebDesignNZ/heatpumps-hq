@@ -20,9 +20,9 @@ faqs:
   - q: My heat pump outdoor unit in North New Brighton is full of sand. What should I do?
     a: Turn it off at the isolating switch. Don't touch the inside of the unit. We can clean the coil and fan and check for damage. We'll also suggest a better spot or a raised bracket.
 related:
-  - { label: New Brighton, href: /new-brighton/, text: Heat pumps for older New Brighton cottages. }
-  - { label: Parklands, href: /parklands/, text: Installation and servicing in Parklands. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: Yearly servicing for coastal units. }
+  - { label: New Brighton, href: /new-brighton/, text: "Heat pumps for older New Brighton cottages." }
+  - { label: Parklands, href: /parklands/, text: "Installation and servicing in Parklands." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "Yearly servicing for coastal units." }
 ---
 
 ## Heat pump installation on the North New Brighton beachfront

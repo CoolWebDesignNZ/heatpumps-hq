@@ -20,9 +20,9 @@ faqs:
   - q: My Oaklands heat pump is blowing cold air in heating mode. What's wrong?
     a: Check the mode and the filters. See if the outdoor unit is defrosting. If it still blows cold after that, you need a technician. Our <a href="/heat-pump-problems-troubleshooting-guide/">troubleshooting guide</a> lists the checks.
 related:
-  - { label: Halswell, href: /halswell/, text: Heat pump work across Halswell. }
-  - { label: Hoon Hay, href: /hoon-hay/, text: Heat pumps for Hoon Hay homes. }
-  - { label: Multi-room systems, href: /multi-room-heat-pump-installation/, text: Several rooms from one outdoor unit. }
+  - { label: Halswell, href: /halswell/, text: "Heat pump work across Halswell." }
+  - { label: Hoon Hay, href: /hoon-hay/, text: "Heat pumps for Hoon Hay homes." }
+  - { label: Multi-room systems, href: /multi-room-heat-pump-installation/, text: "Several rooms from one outdoor unit." }
 ---
 
 ## Heat pumps for Oaklands brick homes

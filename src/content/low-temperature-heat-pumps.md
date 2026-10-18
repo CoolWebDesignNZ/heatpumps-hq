@@ -20,9 +20,9 @@ faqs:
   - q: Should I turn my heat pump off overnight in winter?
     a: In a real cold snap, turning it off overnight makes it start from a cold house at the coldest time of the morning. A lower overnight setting is usually easier on it. So is a timer that starts it before you get up. Our <a href="/energy-efficient/">energy efficient heat pump guide</a> covers settings.
 related:
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: What to look for when buying for a frosty area. }
-  - { label: Winter settings and maintenance, href: /winterisation-of-heat-pumps/, text: Preparing your heat pump for winter. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: When the cold weather problem turns out to be a fault. }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "What to look for when buying for a frosty area." }
+  - { label: Winter settings and maintenance, href: /winterisation-of-heat-pumps/, text: "Preparing your heat pump for winter." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "When the cold weather problem turns out to be a fault." }
 ---
 
 ## The minimum temperature a heat pump will run at

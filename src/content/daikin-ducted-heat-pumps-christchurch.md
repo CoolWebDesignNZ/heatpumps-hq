@@ -37,9 +37,9 @@ faqs:
   - q: Do you service Daikin ducted systems?
     a: Yes. We service and fix Daikin heat pumps, ducted systems included. Book a <a href="/daikin-heat-pump-service-christchurch/">Daikin heat pump service</a> any time.
 related:
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: How ducted systems work and what your house needs. }
-  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: Ducted systems with ZoneIQ room control. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Dampers and controllers for room by room heating. }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "How ducted systems work and what your house needs." }
+  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "Ducted systems with ZoneIQ room control." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Dampers and controllers for room by room heating." }
 ---
 
 ## The Daikin ducted heat pump range in New Zealand

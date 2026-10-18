@@ -22,9 +22,9 @@ faqs:
   - q: Do you repair older units in Redcliffs?
     a: Yes. We find and fix faults on all the major brands. Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts.
 related:
-  - { label: Moncks Bay, href: /moncks-bay/, text: Heat pumps for homes along the bay. }
-  - { label: Sumner, href: /sumner/, text: Installs and servicing near the beach. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Filter and coil cleans for a unit that works hard. }
+  - { label: Moncks Bay, href: /moncks-bay/, text: "Heat pumps for homes along the bay." }
+  - { label: Sumner, href: /sumner/, text: "Installs and servicing near the beach." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "Filter and coil cleans for a unit that works hard." }
 ---
 
 ## Choosing heat pumps for Redcliffs homes, flat and hill

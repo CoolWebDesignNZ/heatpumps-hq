@@ -22,9 +22,9 @@ faqs:
   - q: What's the difference between ducted and wall units for a farmhouse?
     a: Ducted heats every room through ceiling vents, from one hidden indoor unit. It needs the roof space for it. Wall units go in room by room. Our <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split guide</a> lays out the choice.
 related:
-  - { label: Lincoln, href: /lincoln/, text: Heat pumps for Lincoln township and blocks. }
-  - { label: Halswell, href: /halswell/, text: Installs in Halswell's new and older homes. }
-  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which type suits a larger house. }
+  - { label: Lincoln, href: /lincoln/, text: "Heat pumps for Lincoln township and blocks." }
+  - { label: Halswell, href: /halswell/, text: "Installs in Halswell's new and older homes." }
+  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Which type suits a larger house." }
 ---
 
 ## Heating a Tai Tapu home, farmhouse or new build

@@ -20,9 +20,9 @@ faqs:
   - q: Does a fixed-price quote change once work starts?
     a: Not ours. We agree it before we start, once we've looked at the pipe route, mounting and electrical work on site. That's why the site visit comes first.
 related:
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and carry out an install. }
-  - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: What drives the price of a ducted system. }
-  - { label: Heat pump size guide, href: /heat-pump-sizing/, text: The right size keeps both purchase and running costs down. }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan and carry out an install." }
+  - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: "What drives the price of a ducted system." }
+  - { label: Heat pump size guide, href: /heat-pump-sizing/, text: "The right size keeps both purchase and running costs down." }
 ---
 
 ## Why we don't list heat pump prices

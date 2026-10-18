@@ -20,9 +20,9 @@ faqs:
   - q: Do ducted systems heat bedrooms as well as living areas?
     a: Yes, if each bedroom has a vent and the system is sized for every room on it. With zoning, you can heat the bedrooms at night and the living areas by day.
 related:
-  - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: What decides the price of a ducted system. }
-  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: Every indoor unit style compared. }
-  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: The middle ground between one unit and ducted. }
+  - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: "What decides the price of a ducted system." }
+  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Every indoor unit style compared." }
+  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: "The middle ground between one unit and ducted." }
 ---
 
 ## How a ducted or split system works

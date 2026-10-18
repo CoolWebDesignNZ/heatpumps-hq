@@ -20,9 +20,9 @@ faqs:
   - q: Where should the outdoor unit go in a frosty area?
     a: Up off the ground, on feet or a bracket. Clear of roof drips and drifting snow. The defrost water needs a clear path away. Don't let it pool on a path or driveway where it can freeze.
 related:
-  - { label: Low temperature performance, href: /low-temperature-heat-pumps/, text: How heat pumps behave below zero and what to do when output drops. }
-  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: How to read the stars and kWh figures on the label. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: Working out the kW your rooms need. }
+  - { label: Low temperature performance, href: /low-temperature-heat-pumps/, text: "How heat pumps behave below zero and what to do when output drops." }
+  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: "How to read the stars and kWh figures on the label." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "Working out the kW your rooms need." }
 ---
 
 ## Why cold weather changes the heat pump you need

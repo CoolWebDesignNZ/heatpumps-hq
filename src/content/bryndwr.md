@@ -20,9 +20,9 @@ faqs:
   - q: Do trees affect where the outdoor unit can go?
     a: Yes. Leaves and blossom can block the coil. Roots and garden beds can make a level base hard. We pick a spot with clear air round it, and easy to get at for servicing.
 related:
-  - { label: Fendalton, href: /fendalton/, text: Heat pumps for Fendalton's larger homes. }
-  - { label: Burnside, href: /burnside/, text: Installation and servicing in Burnside. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heating every room through ceiling vents. }
+  - { label: Fendalton, href: /fendalton/, text: "Heat pumps for Fendalton's larger homes." }
+  - { label: Burnside, href: /burnside/, text: "Installation and servicing in Burnside." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Heating every room through ceiling vents." }
 ---
 
 ## Heat pumps for Bryndwr's mid-century bungalows

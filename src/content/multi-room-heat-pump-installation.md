@@ -39,9 +39,9 @@ faqs:
   - q: Do I need body corporate approval for a multi split in my apartment or townhouse?
     a: Yes, if the work affects common property or another unit. An outdoor unit on an outside wall, or a hole through one, often counts, and you need written consent first. We can describe the install in writing for your committee. More on <a href="/central-business-district-cbd/">heat pumps in Central City apartments</a>.
 related:
-  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: One room and one outdoor unit. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: A vent in every room and nothing on the walls. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Room by room control on a whole-home system. }
+  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: "One room and one outdoor unit." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "A vent in every room and nothing on the walls." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Room by room control on a whole-home system." }
 ---
 
 ## How a multi room heat pump works

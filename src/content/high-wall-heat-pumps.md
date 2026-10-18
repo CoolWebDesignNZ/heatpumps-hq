@@ -41,9 +41,9 @@ faqs:
   - q: How do I clean the filters on a high wall unit?
     a: Lift the front cover, slide the filters out, rinse them and let them dry. You'll need a step stool. If you'd rather not, our <a href="/heat-pump-cleaning/">heat pump cleaning</a> covers it.
 related:
-  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: Wall, floor, ceiling and ducted units compared. }
-  - { label: Floor mounted heat pumps, href: /floor-mounted-heat-pumps/, text: A low console under a window or in a tall room. }
-  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: One unit sized for one bedroom or lounge. }
+  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Wall, floor, ceiling and ducted units compared." }
+  - { label: Floor mounted heat pumps, href: /floor-mounted-heat-pumps/, text: "A low console under a window or in a tall room." }
+  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: "One unit sized for one bedroom or lounge." }
 ---
 
 ## What a high wall heat pump is and who it suits

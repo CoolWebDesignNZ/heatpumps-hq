@@ -20,9 +20,9 @@ faqs:
   - q: Can I add a second heat pump later?
     a: Yes. Plenty of people start with the living area and add bedroom units later. We can also plan the first install so adding one later is easy.
 related:
-  - { label: Northcote, href: /northcote/, text: Heat pumps for Northcote homes and units. }
-  - { label: Belfast, href: /belfast/, text: New and older homes in Belfast. }
-  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: Several rooms from one outdoor unit. }
+  - { label: Northcote, href: /northcote/, text: "Heat pumps for Northcote homes and units." }
+  - { label: Belfast, href: /belfast/, text: "New and older homes in Belfast." }
+  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: "Several rooms from one outdoor unit." }
 ---
 
 ## Heat pump installation for Redwood's houses

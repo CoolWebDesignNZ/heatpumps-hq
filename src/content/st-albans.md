@@ -20,9 +20,9 @@ faqs:
   - q: Can a townhouse outdoor unit go on a balcony?
     a: Sometimes. It needs room for airflow and a way to drain defrost water. A wall bracket is often better. What counts is the noise at the neighbour's place, as our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> explains.
 related:
-  - { label: Edgeware, href: /edgeware/, text: Heat pumps for Edgeware homes. }
-  - { label: Mairehau, href: /mairehau/, text: Installation and servicing in Mairehau. }
-  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: Keeping an outdoor unit quiet on a tight site. }
+  - { label: Edgeware, href: /edgeware/, text: "Heat pumps for Edgeware homes." }
+  - { label: Mairehau, href: /mairehau/, text: "Installation and servicing in Mairehau." }
+  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: "Keeping an outdoor unit quiet on a tight site." }
 ---
 
 ## Heat pump installation in St Albans homes, old and new

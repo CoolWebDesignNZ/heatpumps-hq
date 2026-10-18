@@ -22,9 +22,9 @@ faqs:
   - q: Will a heat pump suit a high-ceilinged room?
     a: Yes, as long as it's sized for all that air. High-stud rooms take more heating. The unit needs to go where warm air reaches you, not where it sits up by the ceiling.
 related:
-  - { label: Bryndwr, href: /bryndwr/, text: Heat pumps for Bryndwr bungalows. }
-  - { label: Ilam, href: /ilam/, text: Installation and servicing in Ilam. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating with only vents on show. }
+  - { label: Bryndwr, href: /bryndwr/, text: "Heat pumps for Bryndwr bungalows." }
+  - { label: Ilam, href: /ilam/, text: "Installation and servicing in Ilam." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating with only vents on show." }
 ---
 
 ## Heat pumps for Fendalton's larger homes

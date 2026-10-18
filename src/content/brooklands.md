@@ -20,9 +20,9 @@ faqs:
   - q: My Brooklands heat pump is old and noisy. Is it worth fixing?
     a: We'll find the fault and tell you what the repair involves. If the unit's near the end of its life, we'll quote a replacement too. Then you can compare.
 related:
-  - { label: Spencerville, href: /spencerville/, text: Heat pumps for Spencerville homes. }
-  - { label: Marshland, href: /marshland/, text: Installation and servicing in Marshland. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: Fault finding on all major brands. }
+  - { label: Spencerville, href: /spencerville/, text: "Heat pumps for Spencerville homes." }
+  - { label: Marshland, href: /marshland/, text: "Installation and servicing in Marshland." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "Fault finding on all major brands." }
 ---
 
 ## Heat pumps for exposed Brooklands homes

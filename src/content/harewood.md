@@ -22,9 +22,9 @@ faqs:
   - q: Is the shady side of the house a good spot for the outdoor unit?
     a: It can be. Shade helps a little when the unit is cooling in summer. But in winter the spot still needs open airflow and somewhere for defrost water to go. We only pick a shady spot if it has both.
 related:
-  - { label: Burnside, href: /burnside/, text: Heat pumps for Burnside family homes. }
-  - { label: McLeans Island, href: /mcleans-island/, text: Installation and servicing on McLeans Island. }
-  - { label: Air conditioning, href: /air-conditioning-installation-christchurch/, text: Using a heat pump to cool in summer. }
+  - { label: Burnside, href: /burnside/, text: "Heat pumps for Burnside family homes." }
+  - { label: McLeans Island, href: /mcleans-island/, text: "Installation and servicing on McLeans Island." }
+  - { label: Air conditioning, href: /air-conditioning-installation-christchurch/, text: "Using a heat pump to cool in summer." }
 ---
 
 ## Heat pump installation in Harewood homes

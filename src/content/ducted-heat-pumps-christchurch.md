@@ -43,9 +43,9 @@ faqs:
   - q: What does a ducted heat pump cost?
     a: It depends on the size of the house and the number of vents. It also depends on access to the roof space, and whether you want zoning. <a href="/ducted-heat-pump-cost-christchurch/">Ducted heat pump cost</a> goes through each one.
 related:
-  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: Daikin's ducted range and zone controllers. }
-  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: Ducted systems with ZoneIQ control. }
-  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which type suits your house. }
+  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Daikin's ducted range and zone controllers." }
+  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "Ducted systems with ZoneIQ control." }
+  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Which type suits your house." }
 ---
 
 ## How a ducted heat pump works

@@ -20,9 +20,9 @@ faqs:
   - q: Where can the outdoor unit go against a brick wall?
     a: On a wall bracket fixed into the brick. Or on raised feet on a pad. Either way, keep it clear of the neighbour's bedroom windows. Both options keep it off frosty ground.
 related:
-  - { label: Russley, href: /russley/, text: Heat pumps for Russley homes. }
-  - { label: Ilam, href: /ilam/, text: Installs for Ilam homes and rentals. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heat every room through ceiling vents. }
+  - { label: Russley, href: /russley/, text: "Heat pumps for Russley homes." }
+  - { label: Ilam, href: /ilam/, text: "Installs for Ilam homes and rentals." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Heat every room through ceiling vents." }
 ---
 
 ## Heat pumps for Avonhead's brick and tile houses

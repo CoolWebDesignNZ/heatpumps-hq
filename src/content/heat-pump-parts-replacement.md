@@ -20,9 +20,9 @@ faqs:
   - q: What are the signs of a failing fan motor?
     a: The fan runs slowly. Or it hums but doesn't turn. Or it grinds or squeals. Or it stops while the rest of the unit keeps going. On the outdoor unit, it may shut down with an error code.
 related:
-  - { label: Heat pump repair, href: /heat-pump-repair/, text: Fault finding before any part is ordered. }
-  - { label: Leak detection and repair, href: /leak-detection-repair/, text: When the fault is refrigerant, not a part. }
-  - { label: Troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: Checks to do before you call. }
+  - { label: Heat pump repair, href: /heat-pump-repair/, text: "Fault finding before any part is ordered." }
+  - { label: Leak detection and repair, href: /leak-detection-repair/, text: "When the fault is refrigerant, not a part." }
+  - { label: Troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: "Checks to do before you call." }
 ---
 
 ## Heat pump parts we replace

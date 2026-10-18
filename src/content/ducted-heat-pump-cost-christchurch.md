@@ -20,9 +20,9 @@ faqs:
   - q: Can an old ducted system be replaced without new ducting?
     a: Sometimes. If the old ducts are in good nick, well insulated and sized for the new unit, some can stay. We check them before we quote.
 related:
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Our ducted installs across Christchurch. }
-  - { label: Ducted vs split systems, href: /ducted-vs-split-heat-pumps-christchurch/, text: Whether ducted is the right call for your house. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Controlling rooms or zones separately. }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Our ducted installs across Christchurch." }
+  - { label: Ducted vs split systems, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Whether ducted is the right call for your house." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Controlling rooms or zones separately." }
 ---
 
 ## Why ducted heat pump prices vary so much

@@ -20,9 +20,9 @@ faqs:
   - q: How can I reduce my heat pump's environmental impact?
     a: Pick a well rated unit that's the right size. Run it at a steady, sensible temperature. Keep it serviced so leaks get caught early. And repair it rather than replace it, when a repair makes sense.
 related:
-  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: Getting more heat from each unit of power. }
-  - { label: Leak detection and repair, href: /leak-detection-repair/, text: Finding and fixing refrigerant leaks. }
-  - { label: Heat pump replacement, href: /heat-pump-efficiency-upgrades/, text: When a newer unit makes sense. }
+  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: "Getting more heat from each unit of power." }
+  - { label: Leak detection and repair, href: /leak-detection-repair/, text: "Finding and fixing refrigerant leaks." }
+  - { label: Heat pump replacement, href: /heat-pump-efficiency-upgrades/, text: "When a newer unit makes sense." }
 ---
 
 ## Where a heat pump's carbon footprint comes from

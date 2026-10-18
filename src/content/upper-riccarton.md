@@ -22,9 +22,9 @@ faqs:
   - q: Can you service every unit in a block of flats in one visit?
     a: Yes, if we can get into each one. When you book, tell us how many units there are and which brands.
 related:
-  - { label: Ilam, href: /ilam/, text: Heat pumps for Ilam homes and student flats. }
-  - { label: Riccarton, href: /heat-pumps-riccarton/, text: Installs and servicing in Riccarton. }
-  - { label: Single room installs, href: /single-room-heat-pump-installation/, text: One unit, sized to one room. }
+  - { label: Ilam, href: /ilam/, text: "Heat pumps for Ilam homes and student flats." }
+  - { label: Riccarton, href: /heat-pumps-riccarton/, text: "Installs and servicing in Riccarton." }
+  - { label: Single room installs, href: /single-room-heat-pump-installation/, text: "One unit, sized to one room." }
 ---
 
 ## Heat pump installation in Upper Riccarton rentals and units

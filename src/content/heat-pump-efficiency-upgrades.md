@@ -20,9 +20,9 @@ faqs:
   - q: What happens to the old heat pump?
     a: We take it away as part of the job. We recover the refrigerant first. It doesn't get let out into the air.
 related:
-  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: What actually makes a heat pump efficient. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: When fixing the old unit is the better choice. }
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: Planning and fitting a new heat pump from scratch. }
+  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: "What actually makes a heat pump efficient." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "When fixing the old unit is the better choice." }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "Planning and fitting a new heat pump from scratch." }
 ---
 
 ## Is it time for a heat pump replacement?

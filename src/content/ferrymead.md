@@ -22,9 +22,9 @@ faqs:
   - q: Do you service heat pumps in Ferrymead?
     a: Yes, all the major brands. A yearly service cleans the filters and both coils and clears the drain. That way the unit keeps its heating output.
 related:
-  - { label: Heathcote Valley, href: /heathcote-valley/, text: Heat pumps on the valley floor and slopes. }
-  - { label: Mount Pleasant, href: /mount-pleasant/, text: Installs for sunny hillside homes. }
-  - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: One well placed unit for a living area. }
+  - { label: Heathcote Valley, href: /heathcote-valley/, text: "Heat pumps on the valley floor and slopes." }
+  - { label: Mount Pleasant, href: /mount-pleasant/, text: "Installs for sunny hillside homes." }
+  - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: "One well placed unit for a living area." }
 ---
 
 ## Heat pumps for Ferrymead townhouses and older homes

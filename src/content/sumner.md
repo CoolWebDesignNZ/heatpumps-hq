@@ -22,9 +22,9 @@ faqs:
   - q: Do you come to Sumner for repairs?
     a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> in Sumner on weekdays, on every major brand.
 related:
-  - { label: Clifton, href: /clifton/, text: Heat pumps for cliff-top and hillside homes. }
-  - { label: Redcliffs, href: /redcliffs/, text: Installs and servicing along the estuary. }
-  - { label: Heat pump servicing, href: /heat-pump-servicing/, text: What a yearly service checks. }
+  - { label: Clifton, href: /clifton/, text: "Heat pumps for cliff-top and hillside homes." }
+  - { label: Redcliffs, href: /redcliffs/, text: "Installs and servicing along the estuary." }
+  - { label: Heat pump servicing, href: /heat-pump-servicing/, text: "What a yearly service checks." }
 ---
 
 ## Choosing heat pumps for Sumner homes

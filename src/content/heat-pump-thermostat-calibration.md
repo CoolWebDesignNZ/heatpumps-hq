@@ -20,9 +20,9 @@ faqs:
   - q: Can the sensor be moved?
     a: The sensor inside the indoor unit stays put. But some systems can be set to read the temperature at a wired wall controller instead. On ducted systems, where the controller sits matters. If it's in the wrong spot, we can move it.
 related:
-  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: How we diagnose a heat pump that isn't working. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Separate temperature control for different areas. }
-  - { label: Smart heat pump control, href: /smart-heat-pump-systems/, text: Wi-Fi controllers and schedules. }
+  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: "How we diagnose a heat pump that isn't working." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Separate temperature control for different areas." }
+  - { label: Smart heat pump control, href: /smart-heat-pump-systems/, text: "Wi-Fi controllers and schedules." }
 ---
 
 ## How a heat pump thermostat works

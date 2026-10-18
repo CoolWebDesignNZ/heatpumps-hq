@@ -20,9 +20,9 @@ faqs:
   - q: How do I find the most efficient heat pump in NZ?
     a: First work out the heating capacity your room needs. Then compare the Cold zone heating stars across models of that size. More heating stars means less power for the same heat. We'll show you those figures for every model we quote.
 related:
-  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: Sizing, installation and settings that change efficiency. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Using the 2°C figure for frosty areas. }
-  - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: Turning the label's kWh into a real running estimate. }
+  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: "Sizing, installation and settings that change efficiency." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Using the 2°C figure for frosty areas." }
+  - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: "Turning the label's kWh into a real running estimate." }
 ---
 
 ## ENERGY STAR heat pumps and the New Zealand label

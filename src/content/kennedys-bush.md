@@ -22,9 +22,9 @@ faqs:
   - q: Do you service heat pumps up on the hill?
     a: Yes. We work 8am to 5pm on weekdays, and we service every major brand.
 related:
-  - { label: Halswell, href: /halswell/, text: Heat pumps for Halswell homes below the hill. }
-  - { label: Aidanfield, href: /aidanfield/, text: Installs and servicing in Aidanfield. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity. }
+  - { label: Halswell, href: /halswell/, text: "Heat pumps for Halswell homes below the hill." }
+  - { label: Aidanfield, href: /aidanfield/, text: "Installs and servicing in Aidanfield." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the right capacity." }
 ---
 
 ## Heat pump installation on the Kennedys Bush hillside

@@ -22,9 +22,9 @@ faqs:
   - q: Which council covers Lyttelton?
     a: Christchurch City Council. So the Christchurch District Plan's noise limits apply. You'll find them in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
 related:
-  - { label: Heathcote Valley, href: /heathcote-valley/, text: Heat pumps on the city side of the tunnel. }
-  - { label: Sumner, href: /sumner/, text: Installs and servicing in another coastal suburb. }
-  - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: Heating one living area properly. }
+  - { label: Heathcote Valley, href: /heathcote-valley/, text: "Heat pumps on the city side of the tunnel." }
+  - { label: Sumner, href: /sumner/, text: "Installs and servicing in another coastal suburb." }
+  - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: "Heating one living area properly." }
 ---
 
 ## Heat pumps for Lyttelton cottages and villas

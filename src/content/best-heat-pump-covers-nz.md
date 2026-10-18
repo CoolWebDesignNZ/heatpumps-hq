@@ -20,9 +20,9 @@ faqs:
   - q: Can I build my own heat pump cover?
     a: Yes. Leave the fan outlet open. Give the unit the clearances in its install manual. Keep the base open. And make sure it lifts off for servicing. The full airflow rules are under <a href="/covers/">heat pump covers</a>.
 related:
-  - { label: Heat pump covers and screens, href: /covers/, text: Our advice on choosing and placing a cover. }
-  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: What a screen can and can't do for noise. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Placing the outdoor unit for frost. }
+  - { label: Heat pump covers and screens, href: /covers/, text: "Our advice on choosing and placing a cover." }
+  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: "What a screen can and can't do for noise." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Placing the outdoor unit for frost." }
 ---
 
 ## Decide what the heat pump cover is for

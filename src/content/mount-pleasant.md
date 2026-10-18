@@ -22,9 +22,9 @@ faqs:
   - q: Do you service heat pumps on Mount Pleasant?
     a: Yes, we <a href="/heat-pump-servicing/">service heat pumps</a> of all the major brands. For most hill homes, book one each autumn, before the cold sets in.
 related:
-  - { label: Redcliffs, href: /redcliffs/, text: Coastal and hillside homes near the estuary. }
-  - { label: Moncks Bay, href: /moncks-bay/, text: Heat pumps for homes on the slope above the bay. }
-  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
+  - { label: Redcliffs, href: /redcliffs/, text: "Coastal and hillside homes near the estuary." }
+  - { label: Moncks Bay, href: /moncks-bay/, text: "Heat pumps for homes on the slope above the bay." }
+  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: "Heating several rooms from one outdoor unit." }
 ---
 
 ## Heat pumps for Mount Pleasant homes with big north windows

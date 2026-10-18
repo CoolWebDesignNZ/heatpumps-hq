@@ -20,9 +20,9 @@ faqs:
   - q: What does a Queenspark heat pump service include?
     a: We clean the filters, indoor coil and fan, and check the drain. We clean the outdoor coil. Then we check the unit heats as it should. That's a standard <a href="/maintenance-servicing/">heat pump service</a> with us.
 related:
-  - { label: Parklands, href: /parklands/, text: Heat pumps for Parklands homes. }
-  - { label: Burwood, href: /burwood/, text: Installation and servicing in Burwood. }
-  - { label: Choosing a heat pump, href: /choosing-heat-pump/, text: How to pick the right type and size. }
+  - { label: Parklands, href: /parklands/, text: "Heat pumps for Parklands homes." }
+  - { label: Burwood, href: /burwood/, text: "Installation and servicing in Burwood." }
+  - { label: Choosing a heat pump, href: /choosing-heat-pump/, text: "How to pick the right type and size." }
 ---
 
 ## Heat pump installation in Queenspark family homes

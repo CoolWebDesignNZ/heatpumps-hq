@@ -20,9 +20,9 @@ faqs:
   - q: My Wainoni heat pump smells musty when it starts. What's wrong?
     a: Usually it's a dirty filter, coil or drain tray. Clean the filters first. If the smell stays, a professional clean will sort the coil and fan. See <a href="/heat-pump-deodorising/">heat pump deodorising</a>.
 related:
-  - { label: Aranui, href: /aranui/, text: Heat pumps for Aranui homes. }
-  - { label: Avondale, href: /avondale/, text: Installation and servicing in Avondale. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity. }
+  - { label: Aranui, href: /aranui/, text: "Heat pumps for Aranui homes." }
+  - { label: Avondale, href: /avondale/, text: "Installation and servicing in Avondale." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the right capacity." }
 ---
 
 ## Heat pump installation in mid-century Wainoni homes

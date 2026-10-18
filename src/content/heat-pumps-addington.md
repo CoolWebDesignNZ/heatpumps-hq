@@ -22,9 +22,9 @@ faqs:
   - q: Can the outdoor unit go on the front of the house?
     a: It can. The side or back is usually tidier, though. If the front's the only practical spot, a slatted screen and neat pipe covers help it look right.
 related:
-  - { label: Sydenham, href: /sydenham/, text: Heat pumps for Sydenham cottages and townhouses. }
-  - { label: Riccarton, href: /heat-pumps-riccarton/, text: Installs and servicing to the west in Riccarton. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity for a room. }
+  - { label: Sydenham, href: /sydenham/, text: "Heat pumps for Sydenham cottages and townhouses." }
+  - { label: Riccarton, href: /heat-pumps-riccarton/, text: "Installs and servicing to the west in Riccarton." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the right capacity for a room." }
 ---
 
 ## Heat pump installation in Addington's cottages and townhouses

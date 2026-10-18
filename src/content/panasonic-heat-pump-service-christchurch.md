@@ -20,9 +20,9 @@ faqs:
   - q: My Panasonic heat pump is flashing a light. Is it broken?
     a: It has picked up a problem and stopped or held itself back. Note which light is flashing, and the model number. Turn it off at the remote and call us. Don't keep resetting it.
 related:
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: What a repair visit involves on any brand. }
-  - { label: Parts replacement, href: /heat-pump-parts-replacement/, text: Fans, sensors, boards and other parts we replace. }
-  - { label: Choosing a heat pump, href: /choosing-heat-pump/, text: What to weigh up if it's time for a new one. }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "What a repair visit involves on any brand." }
+  - { label: Parts replacement, href: /heat-pump-parts-replacement/, text: "Fans, sensors, boards and other parts we replace." }
+  - { label: Choosing a heat pump, href: /choosing-heat-pump/, text: "What to weigh up if it's time for a new one." }
 ---
 
 ## Panasonic heat pumps we service and repair

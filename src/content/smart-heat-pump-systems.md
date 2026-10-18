@@ -20,9 +20,9 @@ faqs:
   - q: Will a smart controller lower my power bill?
     a: Only if the heat pump runs less. Set schedules that match when you're home. Switch it off from your phone when nobody is. That's what makes the difference.
 related:
-  - { label: Remote monitoring, href: /remote-monitoring-and-diagnostics/, text: What the app shows and how it helps with faults. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Different temperatures in different parts of the house. }
-  - { label: Energy use monitoring, href: /energy-consumption-monitoring/, text: Keeping track of what it costs to run. }
+  - { label: Remote monitoring, href: /remote-monitoring-and-diagnostics/, text: "What the app shows and how it helps with faults." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Different temperatures in different parts of the house." }
+  - { label: Energy use monitoring, href: /energy-consumption-monitoring/, text: "Keeping track of what it costs to run." }
 ---
 
 ## What makes a heat pump smart

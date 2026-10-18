@@ -20,9 +20,9 @@ faqs:
   - q: Do you service heat pumps near me?
     a: Anywhere in Christchurch, Selwyn and Lyttelton. See our <a href="/locations/">locations</a> for the full list.
 related:
-  - { label: What a service visit includes, href: /heat-pump-servicing/, text: Every step of a technician service, in order. }
-  - { label: Winter maintenance, href: /winterisation-of-heat-pumps/, text: Settings and outdoor unit care for frosty months. }
-  - { label: Service plans, href: /customised-heat-pump-service-plans/, text: A schedule set around your systems. }
+  - { label: What a service visit includes, href: /heat-pump-servicing/, text: "Every step of a technician service, in order." }
+  - { label: Winter maintenance, href: /winterisation-of-heat-pumps/, text: "Settings and outdoor unit care for frosty months." }
+  - { label: Service plans, href: /customised-heat-pump-service-plans/, text: "A schedule set around your systems." }
 ---
 
 ## Two sets of heat pump maintenance jobs

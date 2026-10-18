@@ -20,9 +20,9 @@ faqs:
   - q: Should I leave the heat pump on overnight in winter?
     a: In a well insulated house, a low setting overnight holds the warmth and doesn't cost much. In a house that loses heat fast, a lot of that overnight heat is wasted. There it's better to set a timer that starts the unit before you get up. We can show you the timer on your controller.
 related:
-  - { label: Westmorland, href: /westmorland/, text: Heat pumps for the hillside homes above Hoon Hay. }
-  - { label: Halswell, href: /halswell/, text: Installs and servicing in Halswell to the south-west. }
-  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
+  - { label: Westmorland, href: /westmorland/, text: "Heat pumps for the hillside homes above Hoon Hay." }
+  - { label: Halswell, href: /halswell/, text: "Installs and servicing in Halswell to the south-west." }
+  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: "Heating several rooms from one outdoor unit." }
 ---
 
 ## Heat pump installation for Hoon Hay family homes

@@ -22,9 +22,9 @@ faqs:
   - q: Do you service heat pumps you didn't install?
     a: Yes. Whoever fitted it, we can service or fix a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit. The same goes for most other makes in the valley.
 related:
-  - { label: Ferrymead, href: /ferrymead/, text: Heat pumps for townhouses and homes by the estuary. }
-  - { label: Lyttelton, href: /lyttelton/, text: Installs in older cottages on steep harbour sections. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How capacity is worked out for a real house. }
+  - { label: Ferrymead, href: /ferrymead/, text: "Heat pumps for townhouses and homes by the estuary." }
+  - { label: Lyttelton, href: /lyttelton/, text: "Installs in older cottages on steep harbour sections." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How capacity is worked out for a real house." }
 ---
 
 ## Heat pumps for Heathcote Valley homes on the floor and the slopes

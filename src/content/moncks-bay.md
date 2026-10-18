@@ -22,9 +22,9 @@ faqs:
   - q: Do you repair heat pumps in Moncks Bay?
     a: Yes, all the major brands, Monday to Friday.
 related:
-  - { label: Redcliffs, href: /redcliffs/, text: Heat pumps for homes along the coast road. }
-  - { label: Mount Pleasant, href: /mount-pleasant/, text: Installs for hillside homes above the bay. }
-  - { label: Maintenance and servicing, href: /maintenance-servicing/, text: Keeping a coastal unit in good order. }
+  - { label: Redcliffs, href: /redcliffs/, text: "Heat pumps for homes along the coast road." }
+  - { label: Mount Pleasant, href: /mount-pleasant/, text: "Installs for hillside homes above the bay." }
+  - { label: Maintenance and servicing, href: /maintenance-servicing/, text: "Keeping a coastal unit in good order." }
 ---
 
 ## Heat pumps for Moncks Bay homes on the water and the slope

@@ -22,9 +22,9 @@ faqs:
   - q: Is Lincoln covered by the Christchurch District Plan?
     a: No. Lincoln comes under Selwyn District Council and its own district plan. You still need to plan around noise at the neighbour's boundary.
 related:
-  - { label: Rolleston, href: /rolleston/, text: Heat pumps for Rolleston's newer homes. }
-  - { label: Prebbleton, href: /prebbleton/, text: Installs in Prebbleton subdivisions and blocks. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: How units cope with hard frosts. }
+  - { label: Rolleston, href: /rolleston/, text: "Heat pumps for Rolleston's newer homes." }
+  - { label: Prebbleton, href: /prebbleton/, text: "Installs in Prebbleton subdivisions and blocks." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "How units cope with hard frosts." }
 ---
 
 ## Heat pumps for Lincoln homes, old and new

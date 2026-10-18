@@ -22,9 +22,9 @@ faqs:
   - q: Can another indoor unit be added to our existing outdoor unit?
     a: Only if it's a multi-room outdoor unit with a spare connection and capacity left over. A single-room outdoor unit can't run a second indoor unit. So a new room usually gets its own system.
 related:
-  - { label: Halswell, href: /halswell/, text: Heat pumps for Halswell's new and older homes. }
-  - { label: Wigram, href: /wigram/, text: Installs and servicing in Wigram. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Setting different rooms to different temperatures. }
+  - { label: Halswell, href: /halswell/, text: "Heat pumps for Halswell's new and older homes." }
+  - { label: Wigram, href: /wigram/, text: "Installs and servicing in Wigram." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Setting different rooms to different temperatures." }
 ---
 
 ## Heat pumps for Aidanfield family homes

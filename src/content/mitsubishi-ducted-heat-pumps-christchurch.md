@@ -37,9 +37,9 @@ faqs:
   - q: Do you service Mitsubishi ducted heat pumps?
     a: Yes. We service and fix <a href="/mitsubishi-heat-pump-service-christchurch/">Mitsubishi Electric heat pumps</a> of any age, ducted systems included.
 related:
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: How ducted heating works in a Christchurch home. }
-  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: Daikin's ducted series and zoning options. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: What zoning does and when it is worth it. }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "How ducted heating works in a Christchurch home." }
+  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Daikin's ducted series and zoning options." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "What zoning does and when it is worth it." }
 ---
 
 ## How Mitsubishi Electric packages its ducted heat pumps

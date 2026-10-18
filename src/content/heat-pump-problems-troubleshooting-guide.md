@@ -20,9 +20,9 @@ faqs:
   - q: When should I stop troubleshooting and call someone?
     a: Stop if you get a burning smell, smoke, sparks or buzzing from the electrics. The same goes for water leaking inside, ice that won't clear, or a fault that comes back after a reset. Turn it off at the isolating switch and ring us.
 related:
-  - { label: Heat pump fault finding, href: /heat-pump-troubleshooting/, text: How we test each part when the simple checks don't fix it. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: Repair visits on all the major brands. }
-  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: What each noise means and how to quieten it. }
+  - { label: Heat pump fault finding, href: /heat-pump-troubleshooting/, text: "How we test each part when the simple checks don't fix it." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "Repair visits on all the major brands." }
+  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: "What each noise means and how to quieten it." }
 ---
 
 ## Four checks for any heat pump problem

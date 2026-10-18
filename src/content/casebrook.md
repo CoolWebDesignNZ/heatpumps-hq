@@ -20,9 +20,9 @@ faqs:
   - q: How many heat pumps does a three bedroom Casebrook home need?
     a: Lots of families start with one unit for the living area. They add small bedroom units later. Want to do it all at once? A <a href="/multi-room-heat-pump-installation/">multi-room system</a> covers several rooms from one outdoor unit.
 related:
-  - { label: Redwood, href: /redwood/, text: Heat pumps for Redwood family homes. }
-  - { label: Harewood, href: /harewood/, text: Installation and servicing in Harewood. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity for each room. }
+  - { label: Redwood, href: /redwood/, text: "Heat pumps for Redwood family homes." }
+  - { label: Harewood, href: /harewood/, text: "Installation and servicing in Harewood." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the right capacity for each room." }
 ---
 
 ## Heat pump installation for Casebrook's family homes

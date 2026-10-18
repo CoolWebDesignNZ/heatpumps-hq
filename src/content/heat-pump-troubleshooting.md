@@ -20,9 +20,9 @@ faqs:
   - q: Is it worth paying for a diagnosis on an old heat pump?
     a: Usually, yes. Without one, you can't tell a cheap sensor fault from a dead compressor. Once we know, you can choose between repair and a new unit with real numbers in front of you.
 related:
-  - { label: DIY troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: Checks you can do yourself before you book. }
-  - { label: Thermostat and sensor checks, href: /heat-pump-thermostat-calibration/, text: When the room never reaches the set temperature. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: How a repair visit works and when to replace. }
+  - { label: DIY troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: "Checks you can do yourself before you book." }
+  - { label: Thermostat and sensor checks, href: /heat-pump-thermostat-calibration/, text: "When the room never reaches the set temperature." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "How a repair visit works and when to replace." }
 ---
 
 ## Why fault finding comes first

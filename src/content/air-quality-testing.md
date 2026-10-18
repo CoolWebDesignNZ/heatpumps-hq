@@ -20,9 +20,9 @@ faqs:
   - q: Will a heat pump clean the air?
     a: Its filters catch dust. They're not an air purifier, though. Some models have extra filters, and the maker's specs say what they do. We compare filters and purifiers under <a href="/allergy-asthma-solutions-heat-pumps/">heat pumps for allergies and asthma</a>.
 related:
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A full clean of the coil, fan and drain. }
-  - { label: Heat pump smells, href: /heat-pump-deodorising/, text: What a smell tells you and how to get rid of it. }
-  - { label: Heat pump allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: Filters, purifiers and keeping the home dry. }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "A full clean of the coil, fan and drain." }
+  - { label: Heat pump smells, href: /heat-pump-deodorising/, text: "What a smell tells you and how to get rid of it." }
+  - { label: Heat pump allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: "Filters, purifiers and keeping the home dry." }
 ---
 
 ## What our indoor air quality testing covers, and what it doesn't

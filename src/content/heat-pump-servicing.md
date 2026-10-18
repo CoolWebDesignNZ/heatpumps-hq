@@ -20,9 +20,9 @@ faqs:
   - q: Do I need to be home for the service?
     a: Someone needs to let us in to get to the indoor units and the remote. We can do the outdoor unit without you, as long as we can reach it safely.
 related:
-  - { label: Heat pump maintenance, href: /maintenance-servicing/, text: The jobs you and a technician each do across the year. }
-  - { label: Seasonal tune-ups, href: /heat-pump-seasonal-tune-ups/, text: A pre-season check of performance and settings. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A deeper clean for smells, dust and mould. }
+  - { label: Heat pump maintenance, href: /maintenance-servicing/, text: "The jobs you and a technician each do across the year." }
+  - { label: Seasonal tune-ups, href: /heat-pump-seasonal-tune-ups/, text: "A pre-season check of performance and settings." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "A deeper clean for smells, dust and mould." }
 ---
 
 ## Booking heat pump servicing in Christchurch

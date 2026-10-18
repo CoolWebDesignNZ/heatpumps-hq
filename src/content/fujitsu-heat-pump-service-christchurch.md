@@ -20,9 +20,9 @@ faqs:
   - q: Should I get a Fujitsu heat pump serviced every year?
     a: Yes, for most homes. A yearly service before winter keeps it heating well. Between services, clean the filters yourself every few weeks in winter.
 related:
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: Filters, coils, drains and a performance check. }
-  - { label: Leaks and drips, href: /leak-detection-repair/, text: Water or refrigerant leaking from a heat pump. }
-  - { label: Best heat pump brands, href: /best-heat-pump-brands-christchurch/, text: How the main brands compare in Christchurch. }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "Filters, coils, drains and a performance check." }
+  - { label: Leaks and drips, href: /leak-detection-repair/, text: "Water or refrigerant leaking from a heat pump." }
+  - { label: Best heat pump brands, href: /best-heat-pump-brands-christchurch/, text: "How the main brands compare in Christchurch." }
 ---
 
 ## Fujitsu, General and Airstage

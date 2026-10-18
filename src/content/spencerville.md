@@ -20,9 +20,9 @@ faqs:
   - q: Can one outdoor unit heat a whole lifestyle home?
     a: A multi-room system can run several indoor units off one outdoor unit, up to its capacity. In a big home, two separate systems sometimes cover it better. We'll show you both on the quote.
 related:
-  - { label: Brooklands, href: /brooklands/, text: Heat pumps for Brooklands homes. }
-  - { label: Marshland, href: /marshland/, text: Semi-rural and new homes in Marshland. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Heating only the parts of a big house you're using. }
+  - { label: Brooklands, href: /brooklands/, text: "Heat pumps for Brooklands homes." }
+  - { label: Marshland, href: /marshland/, text: "Semi-rural and new homes in Marshland." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Heating only the parts of a big house you're using." }
 ---
 
 ## Spencerville homes on bigger sections

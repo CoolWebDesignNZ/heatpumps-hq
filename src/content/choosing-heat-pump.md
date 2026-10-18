@@ -20,9 +20,9 @@ faqs:
   - q: Can I buy a heat pump and have it installed separately?
     a: You can. But get the installer to check the size and spot before you buy. A good install can't fix a unit that's too small for the room. Or one with nowhere sensible for the outdoor unit.
 related:
-  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: Wall and floor and ducted units side by side. }
-  - { label: Heat pump size calculator, href: /calculator-single-room-heat-pump/, text: The inputs that decide how many kW a room needs. }
-  - { label: Choosing an installer, href: /best-heat-pump-installers-christchurch/, text: What to ask before you sign a quote. }
+  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Wall and floor and ducted units side by side." }
+  - { label: Heat pump size calculator, href: /calculator-single-room-heat-pump/, text: "The inputs that decide how many kW a room needs." }
+  - { label: Choosing an installer, href: /best-heat-pump-installers-christchurch/, text: "What to ask before you sign a quote." }
 ---
 
 ## Step 1: Decide what job it's doing

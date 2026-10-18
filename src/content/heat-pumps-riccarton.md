@@ -20,9 +20,9 @@ faqs:
   - q: How do I keep a heat pump in a townhouse quiet for the neighbours?
     a: Put it on your own wall, away from their bedrooms. Use anti-vibration feet or a bracket, and leave open space round it. Already got a noisy one? Our <a href="/heat-pump-noise-problems-solutions/">noise guide</a> has the fixes.
 related:
-  - { label: Upper Riccarton, href: /upper-riccarton/, text: Heat pumps for Upper Riccarton rentals and units. }
-  - { label: Ilam, href: /ilam/, text: Installs for Ilam homes and student flats. }
-  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: Why a unit gets loud and how to quieten it. }
+  - { label: Upper Riccarton, href: /upper-riccarton/, text: "Heat pumps for Upper Riccarton rentals and units." }
+  - { label: Ilam, href: /ilam/, text: "Installs for Ilam homes and student flats." }
+  - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: "Why a unit gets loud and how to quieten it." }
 ---
 
 ## Heat pumps for Riccarton villas, flats and townhouses

@@ -20,9 +20,9 @@ faqs:
   - q: Do I size for heating or cooling?
     a: Size for the job you'll use it for most. EECA's label guidance says to size on the 7°C heating capacity if you'll mainly heat. If you'll mainly cool, size on the 35°C cooling capacity.
 related:
-  - { label: Heat pump size calculator, href: /calculator-single-room-heat-pump/, text: The official tool and the measurements it asks for. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Units that hold their output below freezing. }
-  - { label: Buying a heat pump, href: /choosing-heat-pump/, text: The full checklist from room to installer. }
+  - { label: Heat pump size calculator, href: /calculator-single-room-heat-pump/, text: "The official tool and the measurements it asks for." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Units that hold their output below freezing." }
+  - { label: Buying a heat pump, href: /choosing-heat-pump/, text: "The full checklist from room to installer." }
 ---
 
 ## What heat pump size means in kW

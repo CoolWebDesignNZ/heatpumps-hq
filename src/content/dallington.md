@@ -20,9 +20,9 @@ faqs:
   - q: Do you service older heat pumps in Dallington that came with the house?
     a: Yes. We service and fix most brands sold in New Zealand, whatever their age. If a unit isn't worth fixing any more, we'll tell you straight.
 related:
-  - { label: Avondale, href: /avondale/, text: Heat pumps for Avondale homes. }
-  - { label: Burwood, href: /burwood/, text: Installation and servicing in Burwood. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: What a yearly service covers. }
+  - { label: Avondale, href: /avondale/, text: "Heat pumps for Avondale homes." }
+  - { label: Burwood, href: /burwood/, text: "Installation and servicing in Burwood." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "What a yearly service covers." }
 ---
 
 ## Heat pump installation in Dallington after the rebuild

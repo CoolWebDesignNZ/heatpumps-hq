@@ -20,9 +20,9 @@ faqs:
   - q: Should I leave my heat pump on all night in winter?
     a: It depends on the house. In a well insulated home, a low overnight setting can be comfy. It also saves a cold start. In a draughty home, most of that heat is gone by morning. Try the timer and see what suits your place.
 related:
-  - { label: Seasonal tune-ups, href: /heat-pump-seasonal-tune-ups/, text: Book an autumn check before the frosts. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Models built to keep heating in hard frosts. }
-  - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: When winter running gets loud. }
+  - { label: Seasonal tune-ups, href: /heat-pump-seasonal-tune-ups/, text: "Book an autumn check before the frosts." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Models built to keep heating in hard frosts." }
+  - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: "When winter running gets loud." }
 ---
 
 ## How to prepare your heat pump for winter

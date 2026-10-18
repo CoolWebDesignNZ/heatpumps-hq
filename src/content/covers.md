@@ -20,9 +20,9 @@ faqs:
   - q: Which cover should I buy?
     a: It depends on the unit and where it sits. Our <a href="/best-heat-pump-covers-nz/">heat pump covers guide</a> compares the main types. Getting a unit fitted or serviced? Ask us. We'll look at the spot with you.
 related:
-  - { label: Heat pump covers guide, href: /best-heat-pump-covers-nz/, text: Comparing cover and screen types. }
-  - { label: Boundary rules, href: /heat-pump-boundary-rules-consent-nz/, text: Placing the outdoor unit near a neighbour. }
-  - { label: Winter maintenance, href: /winterisation-of-heat-pumps/, text: Looking after the outdoor unit through frosts. }
+  - { label: Heat pump covers guide, href: /best-heat-pump-covers-nz/, text: "Comparing cover and screen types." }
+  - { label: Boundary rules, href: /heat-pump-boundary-rules-consent-nz/, text: "Placing the outdoor unit near a neighbour." }
+  - { label: Winter maintenance, href: /winterisation-of-heat-pumps/, text: "Looking after the outdoor unit through frosts." }
 ---
 
 ## What heat pump covers are for

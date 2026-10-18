@@ -20,9 +20,9 @@ faqs:
   - q: Should the installer visit before quoting?
     a: Yes. Sizing a heat pump properly means measuring the room. It means checking the insulation and glazing, and where the outdoor unit can go. A phone price from a room size can't cover the pipe run, the mounting or the electrical work.
 related:
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: Our install process from site visit to handover. }
-  - { label: Heat pump installation cost, href: /heat-pump-installation-cost-christchurch/, text: What should be on an install quote. }
-  - { label: Compliance and building codes, href: /compliance-building-codes/, text: Consent and electrical and building rules for installs. }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "Our install process from site visit to handover." }
+  - { label: Heat pump installation cost, href: /heat-pump-installation-cost-christchurch/, text: "What should be on an install quote." }
+  - { label: Compliance and building codes, href: /compliance-building-codes/, text: "Consent and electrical and building rules for installs." }
 ---
 
 ## What separates the best heat pump installers

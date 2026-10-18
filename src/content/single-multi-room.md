@@ -17,9 +17,9 @@ faqs:
   - q: Can I start with one room and add more later?
     a: Yes. Adding a second single system later is easy. If you want to add rooms to a multi split later, though, pick an outdoor unit with spare capacity from the start.
 related:
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How capacity is matched to each room. }
-  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: A detailed comparison of the two approaches. }
-  - { label: Installation cost, href: /heat-pump-installation-cost-christchurch/, text: What drives the price of each type of install. }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How capacity is matched to each room." }
+  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: "A detailed comparison of the two approaches." }
+  - { label: Installation cost, href: /heat-pump-installation-cost-christchurch/, text: "What drives the price of each type of install." }
 ---
 
 ## Choosing a single or multi room heat pump starts with the rooms

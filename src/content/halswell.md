@@ -22,9 +22,9 @@ faqs:
   - q: Do you service the heat pump that came with our new home?
     a: Yes. We can service whichever of the main brands your builder used. Panasonic too.
 related:
-  - { label: Aidanfield, href: /aidanfield/, text: Heat pumps for Aidanfield's brick and plaster homes. }
-  - { label: Kennedys Bush, href: /kennedys-bush/, text: Installs on the hill above Halswell. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating through ceiling vents. }
+  - { label: Aidanfield, href: /aidanfield/, text: "Heat pumps for Aidanfield's brick and plaster homes." }
+  - { label: Kennedys Bush, href: /kennedys-bush/, text: "Installs on the hill above Halswell." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating through ceiling vents." }
 ---
 
 ## Heat pumps for Halswell homes, village and subdivision

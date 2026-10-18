@@ -20,9 +20,9 @@ faqs:
   - q: Is there a set distance the outdoor unit has to be from my fence?
     a: Not in Christchurch. The District Plan sets noise limits at the neighbouring site instead. Placement matters more on a narrow section. That's why we plan it at the quote.
 related:
-  - { label: Hornby, href: /heat-pumps-hornby/, text: Heat pumps for older and newer Hornby homes. }
-  - { label: Halswell, href: /halswell/, text: Installs and servicing in Halswell. }
-  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which type suits your floor plan. }
+  - { label: Hornby, href: /heat-pumps-hornby/, text: "Heat pumps for older and newer Hornby homes." }
+  - { label: Halswell, href: /halswell/, text: "Installs and servicing in Halswell." }
+  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Which type suits your floor plan." }
 ---
 
 ## Heat pump installation in new Wigram subdivisions

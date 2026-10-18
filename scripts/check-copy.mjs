@@ -79,6 +79,8 @@ for (const f of files) {
   const u = raw.replace(/\]\([^)]*\)|https?:\/\/\S+/g, '').match(us); if (u) err(`US spelling "${u[0]}"`);
   if (!['about-us', 'privacy-policy'].includes(slug) && /\bnate\b/i.test(raw)) err('names Nate outside About');
   for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not in urls.json`);
+  // Unquoted text with a comma gets cut short by YAML, so catch suspiciously short card text.
+  for (const r of fm.related ?? []) if (String(r.text ?? '').trim().split(/\s+/).length < 3) err(`related card text "${r.text}" looks cut off (quote it)`);
   for (const r of fm.related ?? []) if (!paths.has(r.href)) err(`related link ${r.href} is not in urls.json`);
 }
 console.log(problems.length ? problems.join('\n') : `${files.length} pages pass`);

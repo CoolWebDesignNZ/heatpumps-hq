@@ -20,9 +20,9 @@ faqs:
   - q: Can you service several heat pumps across rental properties in Aranui?
     a: Yes. Give us all the addresses when you book. We'll plan the visits together. Every unit gets the same full service.
 related:
-  - { label: Wainoni, href: /wainoni/, text: Heat pumps for Wainoni homes. }
-  - { label: Bromley, href: /bromley/, text: Installation and servicing in Bromley. }
-  - { label: Single-room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for the main living room. }
+  - { label: Wainoni, href: /wainoni/, text: "Heat pumps for Wainoni homes." }
+  - { label: Bromley, href: /bromley/, text: "Installation and servicing in Bromley." }
+  - { label: Single-room heat pumps, href: /single-room-heat-pump-installation/, text: "One unit for the main living room." }
 ---
 
 ## Heat pumps for Aranui state houses and newer homes

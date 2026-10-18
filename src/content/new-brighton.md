@@ -20,9 +20,9 @@ faqs:
   - q: Where should the outdoor unit go on a small New Brighton section?
     a: On the side of the house most sheltered from the sea wind. It needs clear air around it. Set it well back from the neighbour's bedroom windows. That keeps it inside the <a href="/heat-pump-boundary-rules-consent-nz/">noise limits at the boundary</a>.
 related:
-  - { label: North New Brighton, href: /north-new-brighton/, text: Heat pumps for beachfront homes. }
-  - { label: South New Brighton, href: /south-new-brighton/, text: Installation on the estuary side. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Coil and filter cleans for salty air. }
+  - { label: North New Brighton, href: /north-new-brighton/, text: "Heat pumps for beachfront homes." }
+  - { label: South New Brighton, href: /south-new-brighton/, text: "Installation on the estuary side." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "Coil and filter cleans for salty air." }
 ---
 
 ## Heat pump installation in older New Brighton cottages

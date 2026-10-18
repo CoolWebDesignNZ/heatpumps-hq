@@ -20,9 +20,9 @@ faqs:
   - q: Can I reset the heat pump myself?
     a: Yes. Switch it off at the isolating switch outside for a few minutes. That clears some errors. If the fault comes back, write down the error code or the flash pattern and call us. That code saves time once we're there.
 related:
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: A yearly service catches most faults before they stop the unit. }
-  - { label: Emergency repair, href: /emergency-heat-pump-repair/, text: When the house is cold and it can't wait. }
-  - { label: Troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: Checks you can do yourself before you call. }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "A yearly service catches most faults before they stop the unit." }
+  - { label: Emergency repair, href: /emergency-heat-pump-repair/, text: "When the house is cold and it can't wait." }
+  - { label: Troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: "Checks you can do yourself before you call." }
 ---
 
 ## Common heat pump faults we repair in Christchurch

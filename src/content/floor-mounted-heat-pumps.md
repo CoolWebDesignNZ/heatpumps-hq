@@ -41,9 +41,9 @@ faqs:
   - q: Can you replace my old floor console?
     a: Yes. We check the size against the room first, then whether the new console can use the old pipe route through the floor or wall. We take the old units away and quote the whole job as one fixed price.
 related:
-  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: Wall, floor, ceiling and ducted units compared. }
-  - { label: High wall heat pumps, href: /high-wall-heat-pumps/, text: The usual choice for bedrooms and open plan rooms. }
-  - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: A console in the lounge and wall units in the bedrooms. }
+  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Wall, floor, ceiling and ducted units compared." }
+  - { label: High wall heat pumps, href: /high-wall-heat-pumps/, text: "The usual choice for bedrooms and open plan rooms." }
+  - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: "A console in the lounge and wall units in the bedrooms." }
 ---
 
 ## What a floor mounted heat pump is and who it suits

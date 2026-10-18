@@ -20,9 +20,9 @@ faqs:
   - q: Does a heat pump use less power than an electric heater?
     a: For the same heat, yes. A plain electric heater turns each unit of power into one unit of heat. A heat pump adds the heat it collects from outside. EECA treats a heat pump that delivers at least three times the power it uses as acceptable.
 related:
-  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: High wall units and floor consoles and ducted systems compared. }
-  - { label: Heat pump size guide, href: /heat-pump-sizing/, text: How kW ratings work and what size a room needs. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: How output holds up on frosty Canterbury nights. }
+  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "High wall units and floor consoles and ducted systems compared." }
+  - { label: Heat pump size guide, href: /heat-pump-sizing/, text: "How kW ratings work and what size a room needs." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "How output holds up on frosty Canterbury nights." }
 ---
 
 ## What is a heat pump?

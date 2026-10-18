@@ -22,9 +22,9 @@ faqs:
   - q: Do you service heat pumps in rental properties?
     a: Yes. We service and fix heat pumps for owners and property managers all over Northcote. The owner or manager sorts out access, and we agree the price first.
 related:
-  - { label: Papanui, href: /heat-pumps-papanui/, text: Heat pumps for Papanui homes. }
-  - { label: Redwood, href: /redwood/, text: Installation and servicing in Redwood. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: Why the right capacity matters more than the biggest one. }
+  - { label: Papanui, href: /heat-pumps-papanui/, text: "Heat pumps for Papanui homes." }
+  - { label: Redwood, href: /redwood/, text: "Installation and servicing in Redwood." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "Why the right capacity matters more than the biggest one." }
 ---
 
 ## Heat pump installation for smaller Northcote homes

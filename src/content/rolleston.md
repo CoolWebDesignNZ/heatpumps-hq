@@ -22,9 +22,9 @@ faqs:
   - q: How often should a heat pump be serviced?
     a: Once a year for most homes. Before winter is best. While it's working hard, clean the filters yourself every few weeks.
 related:
-  - { label: Lincoln, href: /lincoln/, text: Heat pumps for Lincoln homes and lifestyle blocks. }
-  - { label: Prebbleton, href: /prebbleton/, text: Installation and servicing in Prebbleton. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating for new builds. }
+  - { label: Lincoln, href: /lincoln/, text: "Heat pumps for Lincoln homes and lifestyle blocks." }
+  - { label: Prebbleton, href: /prebbleton/, text: "Installation and servicing in Prebbleton." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating for new builds." }
 ---
 
 ## Heat pump installation for Rolleston homes

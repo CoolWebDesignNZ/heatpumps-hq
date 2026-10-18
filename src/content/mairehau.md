@@ -22,9 +22,9 @@ faqs:
   - q: Does the heat pump help with condensation?
     a: Steady heating can cut condensation on cold mornings. So can the dry mode most units have. It works best with good ventilation too, like extractor fans in the bathroom and kitchen.
 related:
-  - { label: Shirley, href: /shirley/, text: Heat pumps for Shirley homes. }
-  - { label: Marshland, href: /marshland/, text: Semi-rural and new homes in Marshland. }
-  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for one main living space. }
+  - { label: Shirley, href: /shirley/, text: "Heat pumps for Shirley homes." }
+  - { label: Marshland, href: /marshland/, text: "Semi-rural and new homes in Marshland." }
+  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: "One unit for one main living space." }
 ---
 
 ## Heat pump installation for Mairehau homes

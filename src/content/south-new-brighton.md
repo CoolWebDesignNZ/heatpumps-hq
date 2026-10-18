@@ -20,9 +20,9 @@ faqs:
   - q: How do you mount an outdoor unit on soft, sandy ground in South New Brighton?
     a: We use a firm, level pad on a compacted base. Or we fix a wall bracket to the house framing, so the unit doesn't rely on the ground at all.
 related:
-  - { label: New Brighton, href: /new-brighton/, text: Heat pumps for older New Brighton homes. }
-  - { label: Bexley, href: /bexley/, text: Installation and servicing in Bexley. }
-  - { label: Heat pump dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode in damp homes. }
+  - { label: New Brighton, href: /new-brighton/, text: "Heat pumps for older New Brighton homes." }
+  - { label: Bexley, href: /bexley/, text: "Installation and servicing in Bexley." }
+  - { label: Heat pump dehumidification, href: /heat-pump-dehumidification/, text: "Using dry mode in damp homes." }
 ---
 
 ## Heat pump installation on both sides of South New Brighton

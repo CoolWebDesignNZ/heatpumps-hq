@@ -20,9 +20,9 @@ faqs:
   - q: My Daikin controller is showing a code. What does it mean?
     a: It means the unit has logged a fault. Daikin's codes are specific to each model. Write the code down, along with the model number from the indoor unit. Give us both when you call.
 related:
-  - { label: Daikin ducted heat pumps, href: /daikin-ducted-heat-pumps-christchurch/, text: Whole-home Daikin systems we install and look after. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: How a repair visit works on any brand. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: What a yearly service includes. }
+  - { label: Daikin ducted heat pumps, href: /daikin-ducted-heat-pumps-christchurch/, text: "Whole-home Daikin systems we install and look after." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "How a repair visit works on any brand." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "What a yearly service includes." }
 ---
 
 ## Daikin systems we work on

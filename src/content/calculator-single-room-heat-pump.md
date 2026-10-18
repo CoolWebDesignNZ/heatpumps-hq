@@ -20,9 +20,9 @@ faqs:
   - q: Does the calculator work for open plan living areas?
     a: Only roughly. Tenancy Services suggests asking a professional for tricky layouts. And an open plan space often heats better with two units than one.
 related:
-  - { label: Heat pump size guide, href: /heat-pump-sizing/, text: How design temperature and kW output fit together. }
-  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: Our installs for one lounge or bedroom. }
-  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: Which indoor unit suits the room you measured. }
+  - { label: Heat pump size guide, href: /heat-pump-sizing/, text: "How design temperature and kW output fit together." }
+  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: "Our installs for one lounge or bedroom." }
+  - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Which indoor unit suits the room you measured." }
 ---
 
 ## The official heat pump size calculator

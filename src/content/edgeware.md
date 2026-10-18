@@ -20,9 +20,9 @@ faqs:
   - q: My townhouse shares a side path with the neighbours. Where can the outdoor unit go?
     a: Often on a wall bracket above head height. Or round the back, away from the shared path and any bedroom windows next door. Noise is judged at the neighbour's place, under the <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules for heat pumps</a>.
 related:
-  - { label: St Albans, href: /st-albans/, text: Heat pumps for the character homes next door in St Albans. }
-  - { label: Central City, href: /central-business-district-cbd/, text: Apartments and townhouses inside the avenues. }
-  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
+  - { label: St Albans, href: /st-albans/, text: "Heat pumps for the character homes next door in St Albans." }
+  - { label: Central City, href: /central-business-district-cbd/, text: "Apartments and townhouses inside the avenues." }
+  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: "Heating several rooms from one outdoor unit." }
 ---
 
 ## Heat pump installation in Edgeware's mix of old and new homes

@@ -26,9 +26,9 @@ faqs:
   - q: Do you charge for a quote?
     a: No. Quotes are free. The price we quote is fixed before we start.
 related:
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan, size and fit a new system. }
-  - { label: Areas we cover, href: /locations/, text: Every Christchurch suburb and Selwyn town we work in. }
-  - { label: Contact us, href: /contact-us/, text: Phone, email and office hours. }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan, size and fit a new system." }
+  - { label: Areas we cover, href: /locations/, text: "Every Christchurch suburb and Selwyn town we work in." }
+  - { label: Contact us, href: /contact-us/, text: "Phone, email and office hours." }
 ---
 
 ## Why Nate Thompson started Heat Pumps HQ

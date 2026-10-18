@@ -20,9 +20,9 @@ faqs:
   - q: Why does my Bexley heat pump outdoor unit steam on cold mornings?
     a: It's defrosting. On cold, damp mornings frost builds up on the outdoor coil. Every so often the unit melts it off, and that gives off steam. It's normal, unless it's doing it all the time.
 related:
-  - { label: Aranui, href: /aranui/, text: Heat pumps for Aranui homes. }
-  - { label: South New Brighton, href: /south-new-brighton/, text: Installation on the estuary side. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Units built for frosty mornings. }
+  - { label: Aranui, href: /aranui/, text: "Heat pumps for Aranui homes." }
+  - { label: South New Brighton, href: /south-new-brighton/, text: "Installation on the estuary side." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Units built for frosty mornings." }
 ---
 
 ## Heat pumps for Bexley's rebuilt and repaired homes

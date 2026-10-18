@@ -17,9 +17,9 @@ faqs:
   - q: Do you work weekends?
     a: Our hours are 8am to 5pm, Monday to Friday. Send a message or quote request outside those hours and we'll answer when we're back.
 related:
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: Fault finding and repairs on all the major brands. }
-  - { label: Installation cost, href: /heat-pump-installation-cost-christchurch/, text: What goes into the price of a new install. }
-  - { label: About us, href: /about-us/, text: Who we are and how we size and price every job. }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "Fault finding and repairs on all the major brands." }
+  - { label: Installation cost, href: /heat-pump-installation-cost-christchurch/, text: "What goes into the price of a new install." }
+  - { label: About us, href: /about-us/, text: "Who we are and how we size and price every job." }
 ---
 
 ## How to contact Heat Pumps HQ

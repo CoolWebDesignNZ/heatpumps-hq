@@ -22,9 +22,9 @@ faqs:
   - q: If I rent out a flat near the town centre, does it need a heat pump?
     a: Under the Healthy Homes heating standard, a rental must have fixed heating that can heat the main living room. A heat pump is one of the accepted options. See the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard on tenancy.govt.nz</a>.
 related:
-  - { label: New Brighton, href: /new-brighton/, text: Heat pumps for older New Brighton cottages. }
-  - { label: North New Brighton, href: /north-new-brighton/, text: Installation for beachfront homes. }
-  - { label: Single-room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for one living space. }
+  - { label: New Brighton, href: /new-brighton/, text: "Heat pumps for older New Brighton cottages." }
+  - { label: North New Brighton, href: /north-new-brighton/, text: "Installation for beachfront homes." }
+  - { label: Single-room heat pumps, href: /single-room-heat-pump-installation/, text: "One unit for one living space." }
 ---
 
 ## Heat pump installation around the New Brighton Central shops

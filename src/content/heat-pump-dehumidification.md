@@ -20,9 +20,9 @@ faqs:
   - q: Where does the water go in dry mode?
     a: Down the same drain line it uses for cooling. That's usually to the outside wall or a drain. Water dripping inside instead? The drain is blocked, or the unit isn't level.
 related:
-  - { label: Heat pump smells, href: /heat-pump-deodorising/, text: Musty smells after running dry mode. }
-  - { label: Allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: Damp, dust and sensitive lungs. }
-  - { label: Air quality testing, href: /air-quality-testing/, text: Checking a home that stays damp. }
+  - { label: Heat pump smells, href: /heat-pump-deodorising/, text: "Musty smells after running dry mode." }
+  - { label: Allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: "Damp, dust and sensitive lungs." }
+  - { label: Air quality testing, href: /air-quality-testing/, text: "Checking a home that stays damp." }
 ---
 
 ## How heat pump dry mode works

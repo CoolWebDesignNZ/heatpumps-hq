@@ -20,9 +20,9 @@ faqs:
   - q: What can I do myself between services?
     a: In winter, give the indoor filters a clean every few weeks. Keep leaves and plants clear of the outdoor unit. Don't stack anything against it. Leave the coil, fan and electrics to us.
 related:
-  - { label: Spreydon, href: /spreydon/, text: Heat pump replacements and installs next door. }
-  - { label: Cashmere, href: /cashmere/, text: Hillside and flat homes in Cashmere. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: What a yearly service checks and cleans. }
+  - { label: Spreydon, href: /spreydon/, text: "Heat pump replacements and installs next door." }
+  - { label: Cashmere, href: /cashmere/, text: "Hillside and flat homes in Cashmere." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "What a yearly service checks and cleans." }
 ---
 
 ## Heat pumps for Hillmorton homes on the flat and the slope

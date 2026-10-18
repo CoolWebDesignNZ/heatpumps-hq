@@ -22,9 +22,9 @@ faqs:
   - q: Is a heat pump gas leak dangerous?
     a: Switch the unit off and open a window. Keep naked flames and heaters away. Don't try to tighten or fix the pipe joints yourself. Then call us to trace it.
 related:
-  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: What we test when a heat pump stops working. }
-  - { label: Dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode, and why it makes water. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: A yearly service includes a drain check. }
+  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: "What we test when a heat pump stops working." }
+  - { label: Dehumidification, href: /heat-pump-dehumidification/, text: "Using dry mode, and why it makes water." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "A yearly service includes a drain check." }
 ---
 
 ## Heat pump leaking water or refrigerant?

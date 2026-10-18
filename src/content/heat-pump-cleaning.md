@@ -20,9 +20,9 @@ faqs:
   - q: How long does a heat pump stay clean?
     a: It depends how much it runs and what's in the air. Pets, cooking, summer cooling and dusty sites all make it build up faster.
 related:
-  - { label: Heat pump smells, href: /heat-pump-deodorising/, text: Tracking down a musty or burning smell. }
-  - { label: Heat pump servicing, href: /heat-pump-servicing/, text: The full service visit, step by step. }
-  - { label: Allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: Heat pumps in homes with sensitive lungs. }
+  - { label: Heat pump smells, href: /heat-pump-deodorising/, text: "Tracking down a musty or burning smell." }
+  - { label: Heat pump servicing, href: /heat-pump-servicing/, text: "The full service visit, step by step." }
+  - { label: Allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: "Heat pumps in homes with sensitive lungs." }
 ---
 
 ## What gets dirty inside a heat pump, and where

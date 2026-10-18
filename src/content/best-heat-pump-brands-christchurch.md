@@ -20,9 +20,9 @@ faqs:
   - q: Are more stars always better?
     a: Only between units of about the same capacity. Stars compare a model with others of a similar size. So you can't rank a small unit against a big one on stars.
 related:
-  - { label: Heat pump brands comparison, href: /heat-pump-brands-comparison/, text: What each of the four brands sells in New Zealand. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Models that hold output below freezing. }
-  - { label: Energy rated heat pumps, href: /energy-star-heat-pumps/, text: How the energy rating label works. }
+  - { label: Heat pump brands comparison, href: /heat-pump-brands-comparison/, text: "What each of the four brands sells in New Zealand." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Models that hold output below freezing." }
+  - { label: Energy rated heat pumps, href: /energy-star-heat-pumps/, text: "How the energy rating label works." }
 ---
 
 ## Why the best heat pump depends on the house

@@ -22,9 +22,9 @@ faqs:
   - q: Do you service heat pumps in older Belfast homes too?
     a: Yes. We service and fix all the major brands, in homes of any age.
 related:
-  - { label: Redwood, href: /redwood/, text: Heat pumps for Redwood family homes. }
-  - { label: Casebrook, href: /casebrook/, text: Installation and servicing in Casebrook. }
-  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which system suits your house. }
+  - { label: Redwood, href: /redwood/, text: "Heat pumps for Redwood family homes." }
+  - { label: Casebrook, href: /casebrook/, text: "Installation and servicing in Casebrook." }
+  - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: "Which system suits your house." }
 ---
 
 ## Heat pumps for Belfast homes, new and established

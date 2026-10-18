@@ -22,9 +22,9 @@ faqs:
   - q: Do hill homes need anything different at a service?
     a: Exposed units pick up more grit and wind-blown rubbish. Brackets need checking for rust and movement. We cover both at each <a href="/maintenance-servicing/">service</a>.
 related:
-  - { label: Cracroft, href: /cracroft/, text: Heat pumps for steep sections higher on the hill. }
-  - { label: Westmorland, href: /westmorland/, text: Newer hillside homes to the west. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating with hidden ducts and zoned control. }
+  - { label: Cracroft, href: /cracroft/, text: "Heat pumps for steep sections higher on the hill." }
+  - { label: Westmorland, href: /westmorland/, text: "Newer hillside homes to the west." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating with hidden ducts and zoned control." }
 ---
 
 ## Heat pump installation for two kinds of Cashmere home

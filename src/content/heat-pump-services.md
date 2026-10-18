@@ -17,9 +17,9 @@ faqs:
   - q: Do you give a price before starting?
     a: Yes. Quotes are free. We fix the price and agree it with you before we start.
 related:
-  - { label: Installs, href: /single-multi-room/, text: Single room multi room and ducted systems compared. }
-  - { label: Locations, href: /locations/, text: The suburbs and towns we cover. }
-  - { label: Contact us, href: /contact-us/, text: Ask a question or book a visit. }
+  - { label: Installs, href: /single-multi-room/, text: "Single room multi room and ducted systems compared." }
+  - { label: Locations, href: /locations/, text: "The suburbs and towns we cover." }
+  - { label: Contact us, href: /contact-us/, text: "Ask a question or book a visit." }
 ---
 
 ## How our heat pump services work

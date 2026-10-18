@@ -22,9 +22,9 @@ faqs:
   - q: How often do the filters on a Linwood heat pump need cleaning?
     a: Rinse them every few weeks through the heating season. It takes a few minutes and keeps the output up. For the parts behind the filters, book a deeper <a href="/heat-pump-cleaning/">heat pump clean</a>.
 related:
-  - { label: Phillipstown, href: /phillipstown/, text: Heat pumps for Phillipstown cottages, units and rentals. }
-  - { label: Bromley, href: /bromley/, text: Installs and servicing in neighbouring Bromley. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Filter, coil and fan cleans for units that smell or underperform. }
+  - { label: Phillipstown, href: /phillipstown/, text: "Heat pumps for Phillipstown cottages, units and rentals." }
+  - { label: Bromley, href: /bromley/, text: "Installs and servicing in neighbouring Bromley." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "Filter, coil and fan cleans for units that smell or underperform." }
 ---
 
 ## Heat pump installation in Linwood houses

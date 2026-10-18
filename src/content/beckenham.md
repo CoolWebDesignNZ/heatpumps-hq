@@ -20,9 +20,9 @@ faqs:
   - q: Can a heat pump go in a villa without spoiling its character?
     a: Yes, if it's placed with care. We find a wall where the indoor unit sits clear of mouldings and fireplaces. We run the pipes under the floor, so nothing shows from the street.
 related:
-  - { label: Somerfield, href: /somerfield/, text: Heat pumps for Somerfield's older family homes. }
-  - { label: Cashmere, href: /cashmere/, text: Hillside and flat homes just south in Cashmere. }
-  - { label: Heat pump dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode to deal with damp rooms. }
+  - { label: Somerfield, href: /somerfield/, text: "Heat pumps for Somerfield's older family homes." }
+  - { label: Cashmere, href: /cashmere/, text: "Hillside and flat homes just south in Cashmere." }
+  - { label: Heat pump dehumidification, href: /heat-pump-dehumidification/, text: "Using dry mode to deal with damp rooms." }
 ---
 
 ## Heat pumps for Beckenham villas and bungalows

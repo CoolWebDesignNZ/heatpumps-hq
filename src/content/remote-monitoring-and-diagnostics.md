@@ -20,9 +20,9 @@ faqs:
   - q: Why does my heat pump keep dropping off the Wi-Fi?
     a: Usually the signal at the indoor unit is weak. Or the router's changed. Or the adaptor needs a 2.4 GHz network and the router has moved it to 5 GHz. A new router or password means pairing the adaptor again.
 related:
-  - { label: Smart heat pump control, href: /smart-heat-pump-systems/, text: Wi-Fi controllers by brand and what they do. }
-  - { label: Energy use monitoring, href: /energy-consumption-monitoring/, text: Tracking what your heat pump costs to run. }
-  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: How we diagnose a fault on site. }
+  - { label: Smart heat pump control, href: /smart-heat-pump-systems/, text: "Wi-Fi controllers by brand and what they do." }
+  - { label: Energy use monitoring, href: /energy-consumption-monitoring/, text: "Tracking what your heat pump costs to run." }
+  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: "How we diagnose a fault on site." }
 ---
 
 ## What remote monitoring means for a home heat pump

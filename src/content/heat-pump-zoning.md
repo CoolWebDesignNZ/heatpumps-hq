@@ -20,9 +20,9 @@ faqs:
   - q: Do multi split heat pumps need zoning?
     a: No. Each indoor unit on a <a href="/multi-room-heat-pump-installation/">multi room system</a> has its own controller. So every room is already its own zone.
 related:
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating with a vent in each room. }
-  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: ComfortMaster and ZoneIQ room control. }
-  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: Airzone and AirHub zoning for Daikin units. }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating with a vent in each room." }
+  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "ComfortMaster and ZoneIQ room control." }
+  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Airzone and AirHub zoning for Daikin units." }
 ---
 
 ## The problem heat pump zoning solves

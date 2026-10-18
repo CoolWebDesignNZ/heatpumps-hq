@@ -20,9 +20,9 @@ faqs:
   - q: Can a heat pump replace a log burner in a rural house?
     a: It can. It has to be sized for the coldest mornings, and the house needs to be fairly well insulated. Some owners keep the burner as a backup for the hardest frosts.
 related:
-  - { label: Yaldhurst, href: /yaldhurst/, text: Heat pumps for Yaldhurst lifestyle blocks. }
-  - { label: Templeton, href: /templeton/, text: Installs and servicing in Templeton. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heating a large home through ceiling vents. }
+  - { label: Yaldhurst, href: /yaldhurst/, text: "Heat pumps for Yaldhurst lifestyle blocks." }
+  - { label: Templeton, href: /templeton/, text: "Installs and servicing in Templeton." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Heating a large home through ceiling vents." }
 ---
 
 ## Heat pumps for McLeans Island rural homes

@@ -22,9 +22,9 @@ faqs:
   - q: Can I have one outdoor unit for two flats?
     a: Not usually. Each flat normally needs its own system. That way each tenant controls and pays for their own heating.
 related:
-  - { label: Linwood, href: /linwood/, text: Heat pumps for Linwood homes and units to the east. }
-  - { label: Central City, href: /central-business-district-cbd/, text: Apartments and townhouses just across the avenues. }
-  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: One well sized unit for the main living area. }
+  - { label: Linwood, href: /linwood/, text: "Heat pumps for Linwood homes and units to the east." }
+  - { label: Central City, href: /central-business-district-cbd/, text: "Apartments and townhouses just across the avenues." }
+  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: "One well sized unit for the main living area." }
 ---
 
 ## Heat pump installation for Phillipstown housing

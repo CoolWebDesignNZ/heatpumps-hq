@@ -20,9 +20,9 @@ faqs:
   - q: Can I measure a heat pump with a plug-in power meter?
     a: Not usually. Wall heat pumps are normally wired straight into their own circuit, so there's no plug. Use your power company's usage data instead. Or use the energy readings in some Wi-Fi apps.
 related:
-  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: Settings and sizing that cut power use. }
-  - { label: Remote monitoring, href: /remote-monitoring-and-diagnostics/, text: Using a Wi-Fi app to see how the unit has been running. }
-  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: Reading the kWh figures on the label. }
+  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: "Settings and sizing that cut power use." }
+  - { label: Remote monitoring, href: /remote-monitoring-and-diagnostics/, text: "Using a Wi-Fi app to see how the unit has been running." }
+  - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: "Reading the kWh figures on the label." }
 ---
 
 ## What decides heat pump power usage

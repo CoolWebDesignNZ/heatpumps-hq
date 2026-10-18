@@ -20,9 +20,9 @@ faqs:
   - q: Do you do yearly servicing in Burnside?
     a: Yes, for all major brands. We clean the filters, indoor coil and drain. We check the outdoor unit and test how it's running.
 related:
-  - { label: Bryndwr, href: /bryndwr/, text: Heat pumps for Bryndwr bungalows. }
-  - { label: Avonhead, href: /avonhead/, text: Installation and servicing in Avonhead. }
-  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Heating different parts of the house separately. }
+  - { label: Bryndwr, href: /bryndwr/, text: "Heat pumps for Bryndwr bungalows." }
+  - { label: Avonhead, href: /avonhead/, text: "Installation and servicing in Avonhead." }
+  - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "Heating different parts of the house separately." }
 ---
 
 ## Heat pumps for Burnside family homes and extensions

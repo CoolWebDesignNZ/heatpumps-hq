@@ -22,9 +22,9 @@ faqs:
   - q: Which council's rules apply in Prebbleton?
     a: The Selwyn District Plan. Prebbleton is in Selwyn District, outside the Christchurch City boundary.
 related:
-  - { label: Rolleston, href: /rolleston/, text: Heat pumps for Rolleston homes. }
-  - { label: Lincoln, href: /lincoln/, text: Installs for Lincoln and its lifestyle blocks. }
-  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Several rooms on one outdoor unit. }
+  - { label: Rolleston, href: /rolleston/, text: "Heat pumps for Rolleston homes." }
+  - { label: Lincoln, href: /lincoln/, text: "Installs for Lincoln and its lifestyle blocks." }
+  - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: "Several rooms on one outdoor unit." }
 ---
 
 ## Heat pumps for Prebbleton's new houses and older homes

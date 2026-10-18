@@ -22,9 +22,9 @@ faqs:
   - q: Is my heat pump too noisy for the neighbours?
     a: Sound carries on a hill, so where the unit goes matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the usual causes and fixes.
 related:
-  - { label: Sumner, href: /sumner/, text: Heat pumps for beach and hill homes below Clifton. }
-  - { label: Redcliffs, href: /redcliffs/, text: Heat pumps along the estuary and hill. }
-  - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: Why a unit gets loud and how to quieten it. }
+  - { label: Sumner, href: /sumner/, text: "Heat pumps for beach and hill homes below Clifton." }
+  - { label: Redcliffs, href: /redcliffs/, text: "Heat pumps along the estuary and hill." }
+  - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: "Why a unit gets loud and how to quieten it." }
 ---
 
 ## Heat pumps for Clifton's exposed hill homes

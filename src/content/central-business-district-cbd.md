@@ -22,9 +22,9 @@ faqs:
   - q: Can you service a heat pump that came with my apartment?
     a: Yes. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Plus most other brands on sale in New Zealand.
 related:
-  - { label: Edgeware, href: /edgeware/, text: Heat pumps for the villas and townhouses just north of the avenues. }
-  - { label: Sydenham, href: /sydenham/, text: Installs and servicing south of Moorhouse Avenue. }
-  - { label: Boundary rules and consent, href: /heat-pump-boundary-rules-consent-nz/, text: Noise limits and where an outdoor unit can sit. }
+  - { label: Edgeware, href: /edgeware/, text: "Heat pumps for the villas and townhouses just north of the avenues." }
+  - { label: Sydenham, href: /sydenham/, text: "Installs and servicing south of Moorhouse Avenue." }
+  - { label: Boundary rules and consent, href: /heat-pump-boundary-rules-consent-nz/, text: "Noise limits and where an outdoor unit can sit." }
 ---
 
 ## Heat pump installation for CBD apartments and townhouses

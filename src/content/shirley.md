@@ -22,9 +22,9 @@ faqs:
   - q: Is a heat pump suitable for a bedroom?
     a: Yes. Small wall units are made for bedrooms. They run quietly on low speed overnight. A warm, dry bedroom is easier to keep free of mould.
 related:
-  - { label: Mairehau, href: /mairehau/, text: Heat pumps for Mairehau homes. }
-  - { label: Dallington, href: /dallington/, text: Installation and servicing in Dallington. }
-  - { label: Dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode to cut damp and condensation. }
+  - { label: Mairehau, href: /mairehau/, text: "Heat pumps for Mairehau homes." }
+  - { label: Dallington, href: /dallington/, text: "Installation and servicing in Dallington." }
+  - { label: Dehumidification, href: /heat-pump-dehumidification/, text: "Using dry mode to cut damp and condensation." }
 ---
 
 ## Heat pump installation for damp Shirley homes

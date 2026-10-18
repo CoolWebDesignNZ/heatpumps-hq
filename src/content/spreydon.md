@@ -20,9 +20,9 @@ faqs:
   - q: Is my old heat pump worth repairing?
     a: Sensors, fan motors and drain problems are usually worth a <a href="/heat-pump-repair/">repair</a>. A dead compressor on an old unit usually isn't worth the cost.
 related:
-  - { label: Hillmorton, href: /hillmorton/, text: Heat pumps for Hillmorton's flat streets and lower slopes. }
-  - { label: Hoon Hay, href: /hoon-hay/, text: Installs and servicing for Hoon Hay family homes. }
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: Fault finding and repairs on all the major brands. }
+  - { label: Hillmorton, href: /hillmorton/, text: "Heat pumps for Hillmorton's flat streets and lower slopes." }
+  - { label: Hoon Hay, href: /hoon-hay/, text: "Installs and servicing for Hoon Hay family homes." }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "Fault finding and repairs on all the major brands." }
 ---
 
 ## Heat pump installation in Spreydon homes

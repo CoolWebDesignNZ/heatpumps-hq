@@ -20,9 +20,9 @@ faqs:
   - q: Do you service heat pumps in Russley?
     a: Yes. A yearly service covers the filters, coil and drain, plus a check on how it's performing. See <a href="/maintenance-servicing/">heat pump servicing</a>.
 related:
-  - { label: Avonhead, href: /avonhead/, text: Heat pumps for Avonhead brick homes. }
-  - { label: Yaldhurst, href: /yaldhurst/, text: Installs for Yaldhurst lifestyle properties. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Units built to keep heating on frosty mornings. }
+  - { label: Avonhead, href: /avonhead/, text: "Heat pumps for Avonhead brick homes." }
+  - { label: Yaldhurst, href: /yaldhurst/, text: "Installs for Yaldhurst lifestyle properties." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Units built to keep heating on frosty mornings." }
 ---
 
 ## Heat pump installation in Russley's brick homes

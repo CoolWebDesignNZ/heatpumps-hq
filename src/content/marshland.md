@@ -22,9 +22,9 @@ faqs:
   - q: Do new Marshland homes suit ducted heating?
     a: Many do. It's easiest if you plan it before the ceiling is lined. Ducting heats each room through vents in the ceiling. See <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
 related:
-  - { label: Spencerville, href: /spencerville/, text: Heat pumps for Spencerville lifestyle homes. }
-  - { label: Mairehau, href: /mairehau/, text: Installation and servicing in Mairehau. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Choosing a unit for frosty, open ground. }
+  - { label: Spencerville, href: /spencerville/, text: "Heat pumps for Spencerville lifestyle homes." }
+  - { label: Mairehau, href: /mairehau/, text: "Installation and servicing in Mairehau." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Choosing a unit for frosty, open ground." }
 ---
 
 ## Heat pump installation in semi-rural Marshland

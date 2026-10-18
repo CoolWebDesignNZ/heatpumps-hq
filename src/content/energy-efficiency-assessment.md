@@ -20,9 +20,9 @@ faqs:
   - q: Do I need to do insulation before a heat pump?
     a: If ceiling or underfloor insulation is missing, do it first. A well insulated room needs less heat. So the heat pump can be smaller and cheaper to run. We'll tell you if we spot gaps.
 related:
-  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: What makes a heat pump run efficiently. }
-  - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: Finding out what your heat pump actually uses. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: The method behind choosing a unit's capacity. }
+  - { label: Energy efficient heat pumps, href: /energy-efficient/, text: "What makes a heat pump run efficiently." }
+  - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: "Finding out what your heat pump actually uses." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "The method behind choosing a unit's capacity." }
 ---
 
 ## What our home energy assessment is

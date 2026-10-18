@@ -22,9 +22,9 @@ faqs:
   - q: What if a neighbour complains?
     a: The council can measure the noise. If it's over the limit, they can issue an abatement notice that says it has to be fixed. The usual fixes are moving the unit, fitting anti-vibration feet or a screen, or running a lower fan speed overnight.
 related:
-  - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: What causes a noisy unit and how to quieten it. }
-  - { label: Compliance and building codes, href: /compliance-building-codes/, text: The rules that apply to any heat pump install. }
-  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and install a new system. }
+  - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: "What causes a noisy unit and how to quieten it." }
+  - { label: Compliance and building codes, href: /compliance-building-codes/, text: "The rules that apply to any heat pump install." }
+  - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan and install a new system." }
 ---
 
 ## The short answer on heat pump boundary rules

@@ -41,9 +41,9 @@ faqs:
   - q: How much does a heat pump install cost?
     a: It depends on the size and type of unit, and the length of the pipe run. It also depends on how hard the outdoor spot is to get to, and what electrical work is needed. We look at each of those <a href="/heat-pump-installation-cost-christchurch/">installation cost factors</a> when we visit. The quote is free.
 related:
-  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for a bedroom or living area. }
-  - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: Several indoor units from one outdoor unit. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the kW a room needs. }
+  - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: "One unit for a bedroom or living area." }
+  - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: "Several indoor units from one outdoor unit." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the kW a room needs." }
 ---
 
 ## What a good heat pump installation starts with

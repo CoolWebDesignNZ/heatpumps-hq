@@ -20,9 +20,9 @@ faqs:
   - q: Do you come out to rural properties in Yaldhurst?
     a: Yes. Yaldhurst is in our area, lifestyle blocks along the rural roads included.
 related:
-  - { label: McLeans Island, href: /mcleans-island/, text: Heat pumps for McLeans Island properties. }
-  - { label: Russley, href: /russley/, text: Installs for Russley homes. }
-  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Which units keep heating in hard frosts. }
+  - { label: McLeans Island, href: /mcleans-island/, text: "Heat pumps for McLeans Island properties." }
+  - { label: Russley, href: /russley/, text: "Installs for Russley homes." }
+  - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: "Which units keep heating in hard frosts." }
 ---
 
 ## Heat pumps for Yaldhurst lifestyle blocks and larger homes

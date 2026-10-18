@@ -20,9 +20,9 @@ faqs:
   - q: How far can the outdoor unit be from the indoor unit at a Bottle Lake property?
     a: Each model has a maximum pipe length, set by the maker. We keep within it and put the outdoor unit as close as we sensibly can. A shorter run is tidier and loses less.
 related:
-  - { label: Parklands, href: /parklands/, text: Heat pumps for Parklands homes. }
-  - { label: North New Brighton, href: /north-new-brighton/, text: Installation for beachfront homes. }
-  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: One outdoor unit, several rooms. }
+  - { label: Parklands, href: /parklands/, text: "Heat pumps for Parklands homes." }
+  - { label: North New Brighton, href: /north-new-brighton/, text: "Installation for beachfront homes." }
+  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: "One outdoor unit, several rooms." }
 ---
 
 ## Heat pumps for homes on the Bottle Lake forest edge

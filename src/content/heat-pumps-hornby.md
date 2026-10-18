@@ -20,9 +20,9 @@ faqs:
   - q: Will you fix a Hornby heat pump another company fitted?
     a: Yes. We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We fix most other brands sold in New Zealand too, whoever put them in.
 related:
-  - { label: Sockburn, href: /sockburn/, text: Heat pumps for Sockburn homes and units. }
-  - { label: Wigram, href: /wigram/, text: Installs for newer homes in Wigram. }
-  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we match capacity to a room. }
+  - { label: Sockburn, href: /sockburn/, text: "Heat pumps for Sockburn homes and units." }
+  - { label: Wigram, href: /wigram/, text: "Installs for newer homes in Wigram." }
+  - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we match capacity to a room." }
 ---
 
 ## Heat pump installation for Hornby's housing

@@ -20,9 +20,9 @@ faqs:
   - q: Can I get a heat pump with an air purifier built in?
     a: Some models come with extra filters or air cleaning features. What they remove, and how well, changes from model to model. Check the maker's specs for the exact unit. Don't go on the feature name alone.
 related:
-  - { label: Indoor air quality check, href: /air-quality-testing/, text: What we check in the heat pump when the air seems stale. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A deep clean of the coil, fan and drain. }
-  - { label: Using dry mode, href: /heat-pump-dehumidification/, text: When a heat pump can help with damp. }
+  - { label: Indoor air quality check, href: /air-quality-testing/, text: "What we check in the heat pump when the air seems stale." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "A deep clean of the coil, fan and drain." }
+  - { label: Using dry mode, href: /heat-pump-dehumidification/, text: "When a heat pump can help with damp." }
 ---
 
 ## Why a home's heating matters for allergies and asthma

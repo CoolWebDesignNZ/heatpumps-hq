@@ -20,9 +20,9 @@ faqs:
   - q: Can you work around tenants?
     a: Yes. We arrange access through you or your property manager. We keep the work to the rooms involved.
 related:
-  - { label: Upper Riccarton, href: /upper-riccarton/, text: Heat pumps for Upper Riccarton flats and homes. }
-  - { label: Avonhead, href: /avonhead/, text: Installs for Avonhead brick homes. }
-  - { label: Heat pump servicing, href: /maintenance-servicing/, text: Yearly servicing for homes and rental flats. }
+  - { label: Upper Riccarton, href: /upper-riccarton/, text: "Heat pumps for Upper Riccarton flats and homes." }
+  - { label: Avonhead, href: /avonhead/, text: "Installs for Avonhead brick homes." }
+  - { label: Heat pump servicing, href: /maintenance-servicing/, text: "Yearly servicing for homes and rental flats." }
 ---
 
 ## Heat pumps for Ilam family homes and student flats

@@ -20,9 +20,9 @@ faqs:
   - q: Where should the outdoor unit go when houses in Parklands are close together?
     a: Beside your garage or laundry. Or on a wall away from the neighbour's bedrooms, with room for air to flow. That keeps it within the <a href="/heat-pump-boundary-rules-consent-nz/">noise limits at the neighbour's boundary</a>.
 related:
-  - { label: Queenspark, href: /queenspark/, text: Heat pumps for Queenspark homes. }
-  - { label: North New Brighton, href: /north-new-brighton/, text: Installation near the beach. }
-  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating with ceiling vents. }
+  - { label: Queenspark, href: /queenspark/, text: "Heat pumps for Queenspark homes." }
+  - { label: North New Brighton, href: /north-new-brighton/, text: "Installation near the beach." }
+  - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating with ceiling vents." }
 ---
 
 ## Heat pump installation in Parklands homes

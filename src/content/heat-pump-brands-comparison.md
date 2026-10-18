@@ -20,9 +20,9 @@ faqs:
   - q: Do you service brands you don't install?
     a: Yes. As well as the four we fit, we service and repair Panasonic and most other heat pumps sold in New Zealand.
 related:
-  - { label: Best heat pumps NZ, href: /best-heat-pump-brands-christchurch/, text: How to judge which model suits your house. }
-  - { label: Mitsubishi heat pump service, href: /mitsubishi-heat-pump-service-christchurch/, text: Servicing and repairs for Mitsubishi Electric units. }
-  - { label: Daikin heat pump service, href: /daikin-heat-pump-service-christchurch/, text: Servicing and repairs for Daikin units. }
+  - { label: Best heat pumps NZ, href: /best-heat-pump-brands-christchurch/, text: "How to judge which model suits your house." }
+  - { label: Mitsubishi heat pump service, href: /mitsubishi-heat-pump-service-christchurch/, text: "Servicing and repairs for Mitsubishi Electric units." }
+  - { label: Daikin heat pump service, href: /daikin-heat-pump-service-christchurch/, text: "Servicing and repairs for Daikin units." }
 ---
 
 ## How to read this heat pump brands comparison

@@ -20,9 +20,9 @@ faqs:
   - q: How quickly can you get to me?
     a: It depends on the day's bookings, so we won't promise a time before you call. Ring early in the morning. That gives us the most room to fit you in.
 related:
-  - { label: Heat pump repairs, href: /heat-pump-repair/, text: Common faults and how a repair visit works. }
-  - { label: Leaks and drips, href: /leak-detection-repair/, text: Water from the indoor unit or a refrigerant leak. }
-  - { label: DIY troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: Simple checks before you book a visit. }
+  - { label: Heat pump repairs, href: /heat-pump-repair/, text: "Common faults and how a repair visit works." }
+  - { label: Leaks and drips, href: /leak-detection-repair/, text: "Water from the indoor unit or a refrigerant leak." }
+  - { label: DIY troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: "Simple checks before you book a visit." }
 ---
 
 ## Make it safe before an emergency heat pump repair

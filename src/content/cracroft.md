@@ -20,9 +20,9 @@ faqs:
   - q: Can the indoor and outdoor units be on different levels?
     a: Yes, within the maker's limits on pipe length and height difference. On a split-level hill home, that often decides which model we suggest.
 related:
-  - { label: Cashmere, href: /cashmere/, text: Heat pumps for Cashmere's hillside and flat homes. }
-  - { label: Westmorland, href: /westmorland/, text: Newer homes on the slopes next door. }
-  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: Wall and console units sized for one room. }
+  - { label: Cashmere, href: /cashmere/, text: "Heat pumps for Cashmere's hillside and flat homes." }
+  - { label: Westmorland, href: /westmorland/, text: "Newer homes on the slopes next door." }
+  - { label: Single room installation, href: /single-room-heat-pump-installation/, text: "Wall and console units sized for one room." }
 ---
 
 ## Heat pump installation for Cracroft hill homes

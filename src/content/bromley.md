@@ -20,9 +20,9 @@ faqs:
   - q: Can a heat pump help keep dust and pollen down inside a Bromley home?
     a: A bit. The filters catch some dust as air goes through, but only if you keep them clean. If allergies are the worry, read about <a href="/allergy-asthma-solutions-heat-pumps/">heat pumps for allergies and asthma</a>.
 related:
-  - { label: Linwood, href: /linwood/, text: Heat pumps for Linwood homes. }
-  - { label: Aranui, href: /aranui/, text: Installation and servicing in Aranui. }
-  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Deep cleans for filters, coils and fans. }
+  - { label: Linwood, href: /linwood/, text: "Heat pumps for Linwood homes." }
+  - { label: Aranui, href: /aranui/, text: "Installation and servicing in Aranui." }
+  - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "Deep cleans for filters, coils and fans." }
 ---
 
 ## Heat pumps for Bromley's mid-century homes

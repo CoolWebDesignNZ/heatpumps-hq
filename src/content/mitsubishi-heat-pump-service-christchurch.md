@@ -20,9 +20,9 @@ faqs:
   - q: How long does a Mitsubishi heat pump service take?
     a: It depends on the unit and how dirty it is. A ducted system takes longer than a single wall unit. So does a unit that hasn't been cleaned in years. We'll give you an idea when you book.
 related:
-  - { label: Mitsubishi ducted heat pumps, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: Whole-home Mitsubishi Electric systems. }
-  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: How we find what has failed. }
-  - { label: Brand comparison, href: /heat-pump-brands-comparison/, text: How Mitsubishi Electric compares with other brands. }
+  - { label: Mitsubishi ducted heat pumps, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "Whole-home Mitsubishi Electric systems." }
+  - { label: Fault finding, href: /heat-pump-troubleshooting/, text: "How we find what has failed." }
+  - { label: Brand comparison, href: /heat-pump-brands-comparison/, text: "How Mitsubishi Electric compares with other brands." }
 ---
 
 ## Mitsubishi Electric units we look after

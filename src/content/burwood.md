@@ -20,9 +20,9 @@ faqs:
   - q: Is Burwood far enough inland to avoid salt problems?
     a: Burwood is further from the beach than New Brighton, so salt is less of a worry. The easterly still gets here, though. A service with a coil clean once a year is a good idea anywhere on the east side.
 related:
-  - { label: Parklands, href: /parklands/, text: Heat pumps for Parklands homes. }
-  - { label: Dallington, href: /dallington/, text: Installation and servicing in Dallington. }
-  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: Heating bedrooms as well as the lounge. }
+  - { label: Parklands, href: /parklands/, text: "Heat pumps for Parklands homes." }
+  - { label: Dallington, href: /dallington/, text: "Installation and servicing in Dallington." }
+  - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: "Heating bedrooms as well as the lounge." }
 ---
 
 ## What Burwood homes need from a heat pump installation

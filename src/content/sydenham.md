@@ -20,9 +20,9 @@ faqs:
   - q: Is there anything different about heat pumps in Sydenham townhouses?
     a: Not the units themselves. The difference is space. Courtyards are small, walls are shared and the neighbours are close. We plan the outdoor unit round noise and access first.
 related:
-  - { label: Addington, href: /heat-pumps-addington/, text: Heat pumps for cottages and townhouses in Addington. }
-  - { label: Somerfield, href: /somerfield/, text: Installs and servicing just south in Somerfield. }
-  - { label: Heat pump troubleshooting, href: /heat-pump-troubleshooting/, text: When an older unit isn't keeping up. }
+  - { label: Addington, href: /heat-pumps-addington/, text: "Heat pumps for cottages and townhouses in Addington." }
+  - { label: Somerfield, href: /somerfield/, text: "Installs and servicing just south in Somerfield." }
+  - { label: Heat pump troubleshooting, href: /heat-pump-troubleshooting/, text: "When an older unit isn't keeping up." }
 ---
 
 ## How Sydenham homes shape heat pump installation
