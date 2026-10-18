@@ -22,7 +22,14 @@ export async function getStaticPaths() {
 
 const { mod } = Astro.props;
 const fm = mod.frontmatter;
-const { Content } = mod;
+// The gallery photos go inside the article, between sections: the first
+// after the opening section, the second about two thirds of the way down.
+const sections = (await mod.compiledContent()).split(/(?=<h2[\s>])/);
+const gallery = fm.gallery ?? [];
+const slots = new Map();
+if (gallery[0] && sections.length > 2) slots.set(1, gallery[0]);
+if (gallery[1] && sections.length > 3) slots.set(Math.max(2, Math.round(sections.length * 2 / 3)), gallery[1]);
+const leftover = gallery.filter((id) => ![...slots.values()].includes(id));
 const { slug } = Astro.params;
 const entry = urls.find((u) => u.slug === slug);
 const type = entry.type;
@@ -73,11 +80,18 @@ if (fm.faqs?.length) {
     </nav>
   </Hero>
   <section class="section">
-    <div class="wrap"><article class="prose"><Content /></article></div>
+    <div class="wrap"><article class="prose">
+      {sections.map((html, i) => (
+        <>
+          {slots.has(i) && <figure class="inline-photo"><Img id={slots.get(i)} /></figure>}
+          <Fragment set:html={html} />
+        </>
+      ))}
+    </article></div>
   </section>
-  {fm.gallery?.length && (
+  {leftover.length > 0 && (
     <section class="section warm">
-      <div class="wrap grid grid-2">{fm.gallery.map((id) => <Img id={id} />)}</div>
+      <div class="wrap grid grid-2">{leftover.map((id) => <Img id={id} />)}</div>
     </section>
   )}
   {fm.faqs?.length && <Faq items={fm.faqs} heading={fm.faqHeading} />}
