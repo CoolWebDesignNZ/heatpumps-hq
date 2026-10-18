@@ -74,6 +74,8 @@ for (const f of files) {
   if (/ - /.test(body.replace(/^\s*- /gm, '').replace(/\| --- /g, ''))) err('spaced hyphen used as a dash');
   for (const b of banned) if (text.includes(b)) err(`banned phrase "${b}"`);
   if (/\bour (owner|founder)\b/i.test(raw)) err('says "our owner" or "our founder": name Nate instead');
+  // Copy talks to the reader about heat pumps, not about the website's pages.
+  if (!['privacy-policy', 'terms-and-conditions'].includes(slug) && /\bpages?\b|this site\b|this guide\b/i.test(raw.replace(/^(related|  - \{ label)[^\n]*$/gm, '').replace(/\]\([^)]*\)/g, ''))) err('talks about pages or the site');
   const u = raw.replace(/\]\([^)]*\)|https?:\/\/\S+/g, '').match(us); if (u) err(`US spelling "${u[0]}"`);
   if (!['about-us', 'privacy-policy'].includes(slug) && /\bnate\b/i.test(raw)) err('names Nate outside About');
   for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not one of the 133 URLs`);

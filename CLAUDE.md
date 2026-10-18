@@ -12,6 +12,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 - Voice: we and you. "We size every install", never "Nate sizes" or "Heat Pumps HQ offers". Nate is named only as the owner and founder. It is Nate's business: never "our owner", "our founder" or "owner-run". Name him ("Nate Thompson started Heat Pumps HQ").
 - NZ English (colour, centre, organise, metres, neighbour). No em dashes or en dashes anywhere.
 - Never invent facts: no testimonials, success stories, Nate quotes, stats, prices or claims ("most often", "fastest") unless Nate supplies them. Laws, rules and limits need an official source linked in the copy.
+- Talk to the reader about their home and heat pump, never about the website: no "this page", "each suburb page covers", "our X page explains". Put links on the topic words instead.
 - Old site copy is not reused. Only its URLs.
 
 ## SEO per page
