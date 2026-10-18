@@ -5,6 +5,8 @@ import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import site from '../data/site.json';
+import urls from '../data/urls.json';
+const serviceCount = urls.filter((u) => u.type === 'service').length;
 
 // Area groups come from the locations page (its ## headings and suburb links).
 import locationsMd from '../content/locations.md?raw';
@@ -81,7 +83,7 @@ const faqs = [
           </article>
         ))}
       </div>
-      <p class="more"><a href="/heat-pump-services/">All heat pump services</a></p>
+      <p class="more"><a href="/heat-pump-services/">See all {serviceCount} heat pump services</a></p>
     </div>
   </section>
 
@@ -117,7 +119,7 @@ const faqs = [
       <div class="grid three">
         {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
       </div>
-      <p class="more"><a href="/how-heat-pumps-work/">Start with how heat pumps work</a></p>
+      <p class="more"><a href="/how-heat-pumps-work/">Start with how a heat pump works</a></p>
     </div>
   </section>
 
@@ -134,7 +136,7 @@ const faqs = [
           </div>
         ))}
       </div>
-      <p class="more"><a href="/locations/">All locations</a></p>
+      <p class="more"><a href="/locations/">See all {areaGroups.reduce((n, g) => n + g.links.length, 0)} suburbs and towns we cover</a></p>
     </div>
   </section>
 
@@ -156,7 +158,8 @@ const faqs = [
   .card-links a { color: var(--link); text-decoration: none; font-weight: 500; font-size: .9rem; }
   .card-links a:hover { text-decoration: underline; }
   .more { margin: 32px 0 0; font-weight: 650; }
-  .more a { color: var(--link); }
+  .more a { color: var(--link); font-weight: 700; text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; }
+  .more a:hover { color: var(--brand-ink); }
   .area-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 8px; }
   @media (max-width: 980px) { .area-grid { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 640px) { .area-grid { grid-template-columns: 1fr; } }

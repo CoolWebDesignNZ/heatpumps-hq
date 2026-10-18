@@ -38,7 +38,7 @@ const map = 'https://www.openstreetmap.org/export/embed.html?bbox=172.36%2C-43.7
     <div>
       <p class="f-head">Heat pump services</p>
       <ul>{services.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>
-      <a class="f-more" href="/heat-pump-services/">All heat pump services →</a>
+      <a class="f-more" href="/heat-pump-services/">See all heat pump services</a>
     </div>
     <div>
       <p class="f-head">Service area</p>
@@ -46,7 +46,7 @@ const map = 'https://www.openstreetmap.org/export/embed.html?bbox=172.36%2C-43.7
       <p class="f-biz">{site.name}</p>
       <p>Every Christchurch suburb, Lyttelton, and the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu.</p>
       <p><a class="f-phone" href={site.phoneHref}>{site.phone}</a></p>
-      <a class="f-more" href="/locations/">All locations →</a>
+      <a class="f-more" href="/locations/">See every suburb we cover</a>
     </div>
     <div>
       <p class="f-head">Company</p>
@@ -79,6 +79,8 @@ const map = 'https://www.openstreetmap.org/export/embed.html?bbox=172.36%2C-43.7
   .ftr .f-call:hover { text-decoration: none; background: var(--brand-tint); color: var(--brand-ink); }
   .f-call span { display: block; font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; font-weight: 700; }
   .ftr .f-more, .ftr .f-phone { color: #8fd0f5; font-weight: 700; }
+  .ftr .f-more { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; }
+  .ftr .f-more:hover { color: #fff; }
   .f-map { width: 100%; aspect-ratio: 1; border: 0; border-radius: 10px; margin-bottom: 14px; background: #1c3d55; }
   .f-biz { font-weight: 700; color: #fff; margin-bottom: 4px !important; }
   .legal { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba(255, 255, 255, .14); font-size: .95rem; color: rgba(255, 255, 255, .7); }
