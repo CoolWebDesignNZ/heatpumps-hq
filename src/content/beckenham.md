@@ -14,7 +14,7 @@ faqHeading: Questions about heat pumps in Beckenham
 relatedHeading: Heat pumps near Beckenham
 faqs:
   - q: Will a heat pump help with a damp house near the Heathcote River?
-    a: It helps. Heating a room raises the air temperature and lowers the chance of condensation on cold walls and windows, and many heat pumps have a dry mode for mild, damp days. Ventilation and fixing any leaks still matter. See our <a href="/heat-pump-dehumidification/">dehumidification page</a>.
+    a: It helps. Heating a room raises the air temperature and lowers the chance of condensation on cold walls and windows, and many heat pumps have a dry mode for mild, damp days. Ventilation and fixing any leaks still matter. Dry mode is explained under <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
   - q: Is it a problem if the outdoor unit is in the shade under trees?
     a: Shade itself is fine. Falling leaves and blossom are the issue, because they clog the outdoor coil. Keep the area around the unit clear and have the coil checked at each service.
   - q: Can a heat pump go in a villa without spoiling its character?
@@ -54,7 +54,7 @@ Outside, the unit goes where it can breathe and drain. Under a big tree is accep
 
 ## Heat pump service in leafy Beckenham
 
-Leaf litter and pollen build up on outdoor coils faster where gardens are mature. An annual [service](/maintenance-servicing/) cleans the coil and checks the drain lines. If your unit is already struggling, see our [repair page](/heat-pump-repair/).
+Leaf litter and pollen build up on outdoor coils faster where gardens are mature. An annual [service](/maintenance-servicing/) cleans the coil and checks the drain lines. If your unit is already struggling, we can find the fault with a [heat pump repair](/heat-pump-repair/) visit.
 
 ## Other suburbs close to Beckenham
 

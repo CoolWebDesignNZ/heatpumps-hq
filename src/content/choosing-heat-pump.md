@@ -12,7 +12,7 @@ faqHeading: "Questions about buying a heat pump"
 relatedHeading: "More help with buying a heat pump"
 faqs:
   - q: What heat pump do I need for my lounge?
-    a: That depends on the room's size, its insulation and glazing, how much window it has and how cold it gets outside. In Christchurch the unit should be chosen for its output on a frosty morning, not its headline rating. Our <a href="/heat-pump-sizing/">heat pump size guide</a> explains how that's worked out.
+    a: That depends on the room's size, its insulation and glazing, how much window it has and how cold it gets outside. In Christchurch the unit should be chosen for its output on a frosty morning, not its headline rating. How that's worked out is explained under <a href="/heat-pump-sizing/">heat pump sizing</a>.
   - q: Which heat pump brand should I buy?
     a: Compare models of the same size from different brands using their energy labels, then weigh up noise, controls and local service. Our <a href="/heat-pump-brands-comparison/">brands comparison</a> sets out the four we install.
   - q: Should I insulate before buying a heat pump?
@@ -49,13 +49,13 @@ The type comes down to how many rooms one outdoor unit serves. There are three w
 - **Multi split.** One outdoor unit running two or more indoor units in different rooms.
 - **Ducted.** One central unit in the ceiling or under the floor feeding vents in each room.
 
-Then pick the indoor unit style: high wall, floor console or ceiling unit. EECA's checklist notes that a floor unit can suit an older person who wants direct warmth at floor level and easy filter access, while a high wall unit gives more freedom to arrange furniture. Our [types of heat pumps](/types-of-heat-pumps/) guide compares each one, and [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) covers the bigger decision.
+Then pick the indoor unit style: high wall, floor console or ceiling unit. EECA's checklist notes that a floor unit can suit an older person who wants direct warmth at floor level and easy filter access, while a high wall unit gives more freedom to arrange furniture. Each style is compared under [types of heat pumps](/types-of-heat-pumps/), and the bigger decision between [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) comes first.
 
 ## Step 4: What size heat pump do I need?
 
 Size is the step to get right. In a Christchurch winter a heat pump delivers less than its rated output, so the unit has to be picked for the room's heat loss at a cold outdoor temperature. Too small and it runs flat out, defrosts often and leaves the room cool. Too big and it short-cycles, blows draughts and costs more to buy.
 
-Our [heat pump size guide](/heat-pump-sizing/) covers the method, and our [size calculator page](/calculator-single-room-heat-pump/) explains the inputs and links to the official calculation tool.
+The method is set out in [heat pump sizing](/heat-pump-sizing/), and the inputs to the official calculation tool are explained under [single room size calculator](/calculator-single-room-heat-pump/).
 
 ## Step 5: Read the energy label
 
@@ -69,13 +69,13 @@ New heat pumps carry the **Zoned Energy Rating Label**. EECA's guidance on readi
 | kWh per year | Estimated electricity use in that zone. Lower is better |
 | House icon | Noise in decibels, inside and outside the house |
 
-EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/Zoned-Energy-Rating-Label-Poster.pdf) makes the key point: **compare units of the same kW size**. Stars only mean something against models of similar capacity. Displaying noise on the label is optional in New Zealand, so not every label shows it. See our [energy rated heat pumps](/energy-star-heat-pumps/) page for more on the label.
+EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/Zoned-Energy-Rating-Label-Poster.pdf) makes the key point: **compare units of the same kW size**. Stars only mean something against models of similar capacity. Displaying noise on the label is optional in New Zealand, so not every label shows it. Reading the rest of the label is covered under [energy rated heat pumps](/energy-star-heat-pumps/).
 
 ## Step 6: Check the practical details
 
 The practical details are the outdoor unit's spot and noise, the controls, coastal protection and filter access. Before you settle on a model, think about:
 
-- **Where the outdoor unit can go.** It needs clear air around it, a spot clear of the neighbour's bedroom windows and somewhere the defrost water can drain. The District Plan noise limits are set out in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+- **Where the outdoor unit can go.** It needs clear air around it, a spot clear of the neighbour's bedroom windows and somewhere the defrost water can drain. The District Plan [noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) decide how close it can go.
 - **The outdoor noise figure.** Worth checking if the only spot is close to a fence or a bedroom.
 - **Controls.** Wi-Fi control lets you warm the house before you get home. Check it's built in or available as an adaptor.
 - **Coastal sites.** In Sumner, Redcliffs or New Brighton, EECA advises corrosion protection for the outdoor cabinet and coils.
@@ -83,7 +83,7 @@ The practical details are the outdoor unit's spot and noise, the controls, coast
 
 ## Step 7: Choose the installer as carefully as the unit
 
-A well chosen unit can still perform badly if it's put in the wrong place, the pipework is poor or the electrical work is skipped. EECA's guide says many problems with poorly performing heat pumps come down to where the units were located. Our [installer checklist](/best-heat-pump-installers-christchurch/) lists what to ask.
+A well chosen unit can still perform badly if it's put in the wrong place, the pipework is poor or the electrical work is skipped. EECA's guide says many problems with poorly performing heat pumps come down to where the units were located. Before you choose who installs it, ask the questions in [choosing a heat pump installer](/best-heat-pump-installers-christchurch/).
 
 ## A quick checklist for buying a heat pump
 

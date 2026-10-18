@@ -42,7 +42,7 @@ From there the choices are:
 
 - **Separate units per zone.** Each sized for its room, each controlled on its own.
 - **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units on one outdoor unit, which saves wall space outside.
-- **Ducted with zones.** One system, vents in each room, and control over which areas are heated. Our [zoning page](/heat-pump-zoning/) explains it.
+- **Ducted with zones.** One system, vents in each room, and control over which areas are heated. This is [heat pump zoning](/heat-pump-zoning/).
 
 ## Heat pump repair or replacement in Burnside
 
@@ -54,7 +54,7 @@ Busy Burnside households run their heat pumps hard, which is why a regular servi
 
 ## Matching old and new parts of a Burnside house
 
-An original lounge and a new family room can feel very different on a winter evening. The older room loses heat through its walls and windows faster, so it often needs a slightly larger unit than its floor area suggests. Sizing each zone separately avoids one room being too warm while the other never quite gets there. More on how that works in our [sizing guide](/heat-pump-sizing/).
+An original lounge and a new family room can feel very different on a winter evening. The older room loses heat through its walls and windows faster, so it often needs a slightly larger unit than its floor area suggests. Sizing each zone separately avoids one room being too warm while the other never quite gets there. Each zone is sized with the same [heat pump sizing](/heat-pump-sizing/) method we use for a single room.
 
 ## Heat pump brands we work on in Burnside
 

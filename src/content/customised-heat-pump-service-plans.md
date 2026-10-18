@@ -31,7 +31,7 @@ A plan is useful when keeping track of servicing is the hard part. That tends to
 
 - **Homes with several units.** A multi-room or ducted setup, plus a wall unit in the garage or sleepout, is easy to lose track of.
 - **Landlords and property managers.** One schedule across one rental or several, with a record of each visit.
-- **Households with allergies or asthma.** Cleaner coils and filters matter more when someone reacts to dust and mould. Our [allergy and asthma guide](/allergy-asthma-solutions-heat-pumps/) explains why.
+- **Households with allergies or asthma.** Cleaner coils and filters matter more when someone reacts to dust and mould. More on [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
 - **Heat pumps that work hard.** Units heating a home office all day, or cooling bedrooms all summer.
 - **Holiday homes and baches.** Units that sit idle for months and need checking before the house is used.
 
@@ -54,7 +54,7 @@ We agree a fixed price per visit before the first visit. It's based on the same 
 
 ## What each planned visit includes
 
-Each planned visit follows our full service checklist: filters, indoor coil, fan wheel, drain tray and line, outdoor coil and base, electrical connections, and a test run in heating and cooling. The step-by-step list is on our [heat pump servicing](/heat-pump-servicing/) page.
+Each planned visit follows our full service checklist: filters, indoor coil, fan wheel, drain tray and line, outdoor coil and base, electrical connections, and a test run in heating and cooling. Each step is explained under [heat pump servicing](/heat-pump-servicing/).
 
 After each visit you get a short note per unit of what was done and anything we'd keep an eye on. Over a few years that becomes a useful record of how each unit is ageing.
 
@@ -66,6 +66,6 @@ A plan gives you a dated record for each unit, which is handy when tenants chang
 
 ## Looking after the heat pump between planned visits
 
-Filters still need a wash every few weeks in heavy use, and the outdoor unit needs a clear space around it. Our [heat pump maintenance](/maintenance-servicing/) page lists the owner jobs.
+Filters still need a wash every few weeks in heavy use, and the outdoor unit needs a clear space around it. The jobs you can do yourself are listed under [heat pump maintenance](/maintenance-servicing/).
 
 To set up a service plan, call **03 242 1023** or [request a quote](/contact-us/). Tell us how many units you have and where, and we'll suggest a schedule.

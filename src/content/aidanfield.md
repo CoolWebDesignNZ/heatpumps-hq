@@ -14,9 +14,9 @@ faqHeading: Questions about heat pumps in Aidanfield
 relatedHeading: Heat pumps near Aidanfield
 faqs:
   - q: Should I replace my old heat pump or repair it?
-    a: We look at the fault itself, the unit's age and whether replacement parts are still made for it, then give you a straight answer. Our <a href="/heat-pump-repair/">repairs page</a> explains how.
+    a: We look at the fault itself, the unit's age and whether replacement parts are still made for it, then give you a straight answer. More on how we judge that is under <a href="/heat-pump-repair/">heat pump repairs</a>.
   - q: Can I heat different parts of the house to different temperatures?
-    a: Yes. Separate indoor units each have their own control, and some ducted systems can be zoned so the bedrooms and living areas are set independently. Our <a href="/heat-pump-zoning/">zoning page</a> has the detail.
+    a: Yes. Separate indoor units each have their own control, and some ducted systems can be zoned so the bedrooms and living areas are set independently. How the zones are split is explained in <a href="/heat-pump-zoning/">heat pump zoning</a>.
   - q: Are there rules about where the outdoor unit can go in Aidanfield?
     a: Christchurch's District Plan controls noise at the neighbour's property. Some subdivisions also have land covenants on the title that cover external fittings, so check yours before the install.
   - q: Can another indoor unit be added to our existing outdoor unit?

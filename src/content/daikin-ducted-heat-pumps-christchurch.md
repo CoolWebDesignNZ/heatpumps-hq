@@ -18,7 +18,7 @@ faqs:
   - q: Can I control Daikin ducted heating room by room?
     a: Yes, by adding zoning. Daikin offers the Airzone VAF system, which gives individual temperature control in each zone, and the AirHub Touch zone controller. We'll explain the difference for your layout.
   - q: Do you service Daikin ducted systems?
-    a: Yes. We service and repair Daikin heat pumps, including ducted systems. See our <a href="/daikin-heat-pump-service-christchurch/">Daikin service page</a>.
+    a: Yes. We service and repair Daikin heat pumps, including ducted systems. Book a <a href="/daikin-heat-pump-service-christchurch/">Daikin heat pump service</a> any time.
 related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: How ducted systems work and what your house needs. }
   - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: Ducted systems with ZoneIQ room control. }
@@ -27,7 +27,7 @@ related:
 
 ## The Daikin ducted heat pump range in New Zealand
 
-Daikin's New Zealand ducted range has five series on its NZ site: Slim-Line FBA, FDMA Modern Residential, Premium Inverter FDYA, Inverter Ducted FDYAN and Bulkhead FDYBA. The notes below follow how Daikin describes each one; check [Daikin's ducted heat pump page](https://www.daikin.co.nz/pages/ducted-heat-pumps) for the current models and full specifications.
+Daikin's New Zealand ducted range has five series: Slim-Line FBA, FDMA Modern Residential, Premium Inverter FDYA, Inverter Ducted FDYAN and Bulkhead FDYBA. The notes below follow how Daikin describes each one; check [Daikin's ducted heat pumps](https://www.daikin.co.nz/pages/ducted-heat-pumps) for the current models and full specifications.
 
 | Series | What Daikin designed it for |
 | --- | --- |
@@ -51,16 +51,16 @@ From there we size the unit for the heat each room loses, not the total floor ar
 
 ## Zoning options for Daikin ducted systems
 
-Daikin lists two ways to add room by room control on its ducted page:
+Daikin lists two ways to add room by room control to its ducted systems:
 
 - **Airzone VAF.** A variable airflow zoning system that Daikin says is compatible with its residential and commercial ducted indoor units. It gives individual temperature control in each zone and adjusts fan speed to suit.
 - **AirHub Touch zone controller.** A touch screen zone controller for controlling the temperature of individual rooms, with timers to switch zones on and off through the day.
 
-Zoning suits houses where the bedrooms and living areas are used at different times. How it works in general is on our [heat pump zoning](/heat-pump-zoning/) page.
+Zoning suits houses where the bedrooms and living areas are used at different times. The same principles apply to [heat pump zoning](/heat-pump-zoning/) with any brand.
 
 ## Daikin or another brand?
 
-Daikin is one of four brands we install, with Mitsubishi Electric, Fujitsu and Toshiba, so the choice is yours rather than ours. If you've already settled on Daikin, we'll work within its range. If you're still deciding, we'll show you how the Daikin option for your house compares with a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). The broader comparison is in our [brand comparison guide](/heat-pump-brands-comparison/).
+Daikin is one of four brands we install, with Mitsubishi Electric, Fujitsu and Toshiba, so the choice is yours rather than ours. If you've already settled on Daikin, we'll work within its range. If you're still deciding, we'll show you how the Daikin option for your house compares with a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). All four are compared side by side in [heat pump brands comparison](/heat-pump-brands-comparison/).
 
 ## Installing a Daikin ducted system
 
@@ -68,7 +68,7 @@ The install follows the same steps as any [ducted heat pump](/ducted-heat-pumps-
 
 ## Looking after a Daikin ducted system
 
-Clean the return air filter regularly and book a yearly service. We service and repair Daikin systems of any age, covered on our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/) page.
+Clean the return air filter regularly and book a yearly service. We service and repair Daikin systems of any age, through our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/).
 
 ## Quote for a Daikin ducted system
 

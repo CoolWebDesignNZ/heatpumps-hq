@@ -14,7 +14,7 @@ faqHeading: "Questions about heat pumps in Burwood"
 relatedHeading: "Heat pumps near Burwood"
 faqs:
   - q: My Burwood house was built in the last twenty years. Will one heat pump be enough?
-    a: Often it will heat the main living area well, because newer homes keep warmth in. Bedrooms down a hallway usually stay cooler, so many owners add a small unit there later or plan a multi-room system from the start. Our <a href="/multi-room-heat-pump-installation/">multi-room page</a> shows how that works in a Burwood layout.
+    a: Often it will heat the main living area well, because newer homes keep warmth in. Bedrooms down a hallway usually stay cooler, so many owners add a small unit there later or plan a multi-room system from the start. A <a href="/multi-room-heat-pump-installation/">multi-room heat pump installation</a> can cover both.
   - q: Can you replace an old heat pump in Burwood without moving the outdoor unit?
     a: Usually, if the existing spot has good airflow, drains well and keeps noise away from the neighbours. We check the pipe run and the wiring first, because an older unit's pipework isn't always reusable.
   - q: Is Burwood far enough inland to avoid salt problems?
@@ -40,11 +40,11 @@ The usual complaint in Burwood homes is a warm lounge and cold bedrooms. You hav
 
 - A second **high wall unit** in the main bedroom or a hallway.
 - A **multi-room system**, with one outdoor unit running two to several indoor units.
-- A **ducted system** with a vent in each room, which suits homes with enough ceiling space. Compare them on our [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) page.
+- A **ducted system** with a vent in each room, which suits homes with enough ceiling space. See how they compare in [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
 
 ## Outdoor units on Burwood sections
 
-Burwood sections are mostly flat, which makes the outdoor unit easy to place. We set it on a level pad or a wall bracket with clearance below for defrost water, and keep it away from bedroom windows next door. Christchurch measures heat pump noise at the neighbour's boundary, not by distance, and our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains what that means for where the unit goes.
+Burwood sections are mostly flat, which makes the outdoor unit easy to place. We set it on a level pad or a wall bracket with clearance below for defrost water, and keep it away from bedroom windows next door. Christchurch measures heat pump noise at the neighbour's boundary, not by distance, so the unit goes where it stays within the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/).
 
 ## Heat pump service and repairs in Burwood
 

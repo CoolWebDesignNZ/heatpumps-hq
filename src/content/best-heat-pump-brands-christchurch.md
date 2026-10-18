@@ -29,17 +29,17 @@ related:
 
 The best heat pump is the one that suits your house, its rooms and its site, not the one at the top of a list. Search for the best heat pumps in New Zealand and you'll find rankings, awards and satisfaction surveys. They can tell you how owners feel about a brand. They can't tell you whether a particular model will heat your lounge on a frosty Christchurch morning, fit the wall you have, or stay quiet enough beside your neighbour's bedroom.
 
-A heat pump that's excellent in one house can be the wrong buy in the next. An undersized premium unit can perform worse than a correctly sized mid-range one. So rather than crown a brand, this guide gives you the checks that pick out the right model for your rooms. The facts come from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
+A heat pump that's excellent in one house can be the wrong buy in the next. An undersized premium unit can perform worse than a correctly sized mid-range one. So rather than crown a brand, here are the checks that pick out the right model for your rooms. The facts come from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
 
 ## Check 1: Cold weather output on the best heat pumps
 
 For a Canterbury home, how much heat a model still gives out in cold weather is the check to start with. The label shows two heating capacities, one at 7°C and one at 2°C outside. EECA explains that frost forms on the outdoor coil below about 5.5°C, and part of the unit's effort goes into defrosting. Some models are better designed for frosty conditions and some give out noticeably less heat at 2°C than at 7°C.
 
-What to look for: a 2°C figure that is the same as or higher than the 7°C figure. For colder still, ask for the manufacturer's performance chart showing output at 0°C, minus 5°C and below. EECA lists Christchurch and Selwyn's design temperature as minus 4°C. Our [cold climate heat pumps](/cold-climate-heat-pumps/) page goes further.
+What to look for: a 2°C figure that is the same as or higher than the 7°C figure. For colder still, ask for the manufacturer's performance chart showing output at 0°C, minus 5°C and below. EECA lists Christchurch and Selwyn's design temperature as minus 4°C. Units built for frost are compared under [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 ## Check 2: The right size, even for the best heat pump brands
 
-Even the best heat pump brands can't make up for a unit that's the wrong size for the room. Size is set by the room's heat loss and the outdoor design temperature. Our [heat pump size guide](/heat-pump-sizing/) explains the method and our [size calculator page](/calculator-single-room-heat-pump/) links to the official tool.
+Even the best heat pump brands can't make up for a unit that's the wrong size for the room. Size is set by the room's heat loss and the outdoor design temperature. The method is set out in [heat pump sizing](/heat-pump-sizing/), and the official tool is explained under [heat pump size calculator](/calculator-single-room-heat-pump/).
 
 ## Check 3: Stars in the Cold zone
 
@@ -92,4 +92,4 @@ Even the best heat pump brand will let you down if it's badly installed. EECA's 
 
 ## How we pick the best heat pump for your home
 
-We pick the best heat pump for your home on a site visit, without a favourite brand. We size the room from its measurements, insulation, windows and how you use it, look at where the outdoor unit can go, and then compare suitable models from all four brands on their cold-weather output, efficiency and noise. You get our recommendation and a fixed price before any work starts. The quote is free. Phone **03 242 1023** or [request a quote through our contact page](/contact-us/). For what each brand sells, see our [heat pump brands comparison](/heat-pump-brands-comparison/).
+We pick the best heat pump for your home on a site visit, without a favourite brand. We size the room from its measurements, insulation, windows and how you use it, look at where the outdoor unit can go, and then compare suitable models from all four brands on their cold-weather output, efficiency and noise. You get our recommendation and a fixed price before any work starts. The quote is free. Phone **03 242 1023** or [request a quote](/contact-us/). For what each brand sells, see our [heat pump brands comparison](/heat-pump-brands-comparison/).

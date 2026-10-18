@@ -27,7 +27,7 @@ related:
 
 ## The official heat pump size calculator
 
-The free tool to use is the **[Tenancy Services heating assessment tool](https://tools.tenancy.govt.nz/heating-tool)**, run by the Ministry of Business, Innovation and Employment. It calculates the minimum heating capacity, in kW, that a main living room needs under the Healthy Homes Standards. Tenancy Services describes it on its [heating capacity page](https://www.tenancy.govt.nz/healthy-homes/heating-standard/calculating-heating-capacity/).
+The free tool to use is the **[Tenancy Services heating assessment tool](https://tools.tenancy.govt.nz/heating-tool)**, run by the Ministry of Business, Innovation and Employment. It calculates the minimum heating capacity, in kW, that a main living room needs under the Healthy Homes Standards. Tenancy Services explains [how heating capacity is calculated](https://www.tenancy.govt.nz/healthy-homes/heating-standard/calculating-heating-capacity/).
 
 It was built for landlords, but it isn't only for rentals. EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) tells installers to use this tool, or the formula behind it, to size heat pumps for the living room in any home and for other rooms such as bedrooms.
 
@@ -78,7 +78,7 @@ The heating figure shown on a heat pump's label is its output at 7°C outside. E
 2. Look at the manufacturer's performance chart for the model, which shows output at low outdoor temperatures.
 3. Pick a model whose output at the nearest temperature at or below minus 4°C meets or exceeds your figure.
 
-If a model's chart isn't available, EECA's [energy label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) suggests at least checking that the 2°C heating figure on the label holds up against the 7°C figure. Our [heat pump size guide](/heat-pump-sizing/) walks through EECA's worked example.
+If a model's chart isn't available, EECA's [energy label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) suggests at least checking that the 2°C heating figure on the label holds up against the 7°C figure. EECA's worked example is set out step by step in [heat pump sizing](/heat-pump-sizing/).
 
 ## Brand sizing tools
 

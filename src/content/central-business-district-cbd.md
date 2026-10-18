@@ -18,7 +18,7 @@ faqs:
   - q: Where does the outdoor unit go in an apartment with only a small balcony?
     a: On the balcony floor on feet, on a wall bracket, or in a plant area if the building has one. It needs clear air in front of the coil and a way to drain defrost water without dripping onto the balcony below.
   - q: Are the noise rules different in the Central City?
-    a: Yes. The District Plan sets separate noise limits for the Central City, different from the suburban residential zones. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers how noise is measured and how to place a unit.
+    a: Yes. The District Plan sets separate noise limits for the Central City, different from the suburban residential zones. How noise is measured, and how to place a unit, is explained under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
   - q: Can you service a heat pump that came with my apartment?
     a: Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and most other brands sold in New Zealand.
 related:
@@ -54,15 +54,15 @@ Outside, the coil needs room to breathe. A unit jammed into a balcony corner rec
 
 ## Heat pump noise limits in the Central City
 
-The Christchurch District Plan sets its own noise limits for the Central City, separate from the suburbs. Apartments put bedrooms close together, and a unit outside your lounge may sit metres from someone else's window. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how noise is judged and what helps.
+The Christchurch District Plan sets its own noise limits for the Central City, separate from the suburbs. Apartments put bedrooms close together, and a unit outside your lounge may sit metres from someone else's window. We place the unit with the [noise rules at the boundary](/heat-pump-boundary-rules-consent-nz/) in mind.
 
 ## Heat pump installs, service and repair in the CBD
 
 For Central City apartments and townhouses we install new units, clean and check the ones handed over with the building, and diagnose faults:
 
 - **Installing** compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where outdoor space allows only one unit. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Cleaning and checking** units that were handed over with the apartment and may have had no attention since. Details are on our [servicing page](/maintenance-servicing/).
-- **Diagnosing faults** in apartment systems of any major brand, covered on the [repairs page](/heat-pump-repair/).
+- **Cleaning and checking** units that were handed over with the apartment and may have had no attention since. A [service](/maintenance-servicing/) cleans the filters, coil and fan.
+- **Diagnosing faults** in apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
 
 We also work in [Edgeware](/edgeware/), [Addington](/heat-pumps-addington/), [Sydenham](/sydenham/), [Phillipstown](/phillipstown/) and [Linwood](/linwood/).
 

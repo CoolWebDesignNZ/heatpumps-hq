@@ -31,13 +31,13 @@ In Aranui the heat pump you need turns on the age of the house and, if it's let,
 
 - **State houses and private homes from the 1950s and 60s** are mostly single-storey, on piles, with weatherboard or brick cladding and modest insulation unless they've been upgraded. Heat goes out through the floor and ceiling, so they need more capacity for the floor area, and insulating first lets a smaller unit do the job. The lounge layout is covered below.
 - **Newer homes and townhouses** are built to current standards and need much less heating capacity for the same floor area. One high wall unit usually heats an open plan living area.
-- **Rentals**, old or new, must meet a minimum heating capacity in the main living room, set out in the next section.
+- **Rentals**, old or new, must meet a minimum heating capacity in the main living room, set out below.
 
 ## Heat pumps for Aranui rentals
 
 If you let a home in Aranui, the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) applies. It requires one or more fixed heaters that can directly heat the main living room, at least 1.5 kW, and heat pumps must have a thermostat. Open fires and unflued combustion heaters don't count.
 
-The required capacity is calculated for each living room. Tenancy Services publishes a heating assessment tool on the same page. Once you know the figure, we quote a heat pump that meets it. In an older uninsulated lounge, choosing a unit with some capacity above the minimum keeps the room comfortable on frosty mornings.
+The required capacity is calculated for each living room. Tenancy Services publishes a heating assessment tool alongside the standard. Once you know the figure, we quote a heat pump that meets it. In an older uninsulated lounge, choosing a unit with some capacity above the minimum keeps the room comfortable on frosty mornings.
 
 ## Heat pump installation in older Aranui state houses
 
@@ -45,7 +45,7 @@ In an original state house, the lounge is usually a separate room at the front w
 
 ## Newer Aranui homes and townhouses
 
-Newer Aranui homes are better insulated, so a smaller unit can heat an open plan living area. In townhouses with shared walls, the outdoor unit has to go where it won't disturb the people next door. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how Christchurch measures heat pump noise.
+Newer Aranui homes are better insulated, so a smaller unit can heat an open plan living area. In townhouses with shared walls, the outdoor unit has to go where it won't disturb the people next door. Christchurch measures heat pump noise at the boundary, and [boundary rules and consent](/heat-pump-boundary-rules-consent-nz/) explains how.
 
 ## Running costs in older Aranui houses
 

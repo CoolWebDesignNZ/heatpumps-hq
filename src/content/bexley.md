@@ -49,7 +49,7 @@ Low-lying sections near the estuary can hold water in winter. An outdoor unit si
 
 ## Frost and damp air in Bexley
 
-Cold, still nights near the estuary bring frost and fog. That's when the outdoor unit runs its defrost cycle most often, and good drainage around it matters most. Our [cold climate heat pumps](/cold-climate-heat-pumps/) page covers how different units handle low temperatures.
+Cold, still nights near the estuary bring frost and fog. That's when the outdoor unit runs its defrost cycle most often, and good drainage around it matters most. Some units hold their output in the cold better than others, which [cold climate heat pumps](/cold-climate-heat-pumps/) explains.
 
 The estuary air also carries some salt, so rinsing the outdoor coil from time to time is worthwhile.
 

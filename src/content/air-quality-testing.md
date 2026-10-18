@@ -18,7 +18,7 @@ faqs:
   - q: How do I know if my heat pump has mould in it?
     a: A musty or damp smell when it starts, black specks on the louvres or the fan wheel you can see through the outlet, or sneezing and stuffiness that are worse when it's running. A torch pointed into the air outlet often shows it.
   - q: Will a heat pump clean the air?
-    a: Its filters catch dust, but they're not an air purifier. Some models have extra filters, and the manufacturer's specifications say what those do. Our <a href="/allergy-asthma-solutions-heat-pumps/">heat pump allergies guide</a> covers filters and purifiers in more detail.
+    a: Its filters catch dust, but they're not an air purifier. Some models have extra filters, and the manufacturer's specifications say what those do. Filters and purifiers are compared in more detail under <a href="/allergy-asthma-solutions-heat-pumps/">heat pumps for allergies and asthma</a>.
 related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A full clean of the coil, fan and drain. }
   - { label: Heat pump smells, href: /heat-pump-deodorising/, text: What a smell tells you and how to get rid of it. }
@@ -33,7 +33,7 @@ If you want laboratory results, for a health concern, an insurance claim or a bu
 
 ## How a heat pump can affect the air in your home
 
-An indoor unit pulls room air through its filters, across a coil and through a fan. Dust collects on all three, and the coil gets damp whenever the unit cools or dehumidifies, so mould can grow on the fins, in the fan wheel and in the drain tray. Each time the unit runs, room air passes over that build-up. Our [heat pump allergies guide](/allergy-asthma-solutions-heat-pumps/) explains how that affects people with allergies or asthma.
+An indoor unit pulls room air through its filters, across a coil and through a fan. Dust collects on all three, and the coil gets damp whenever the unit cools or dehumidifies, so mould can grow on the fins, in the fan wheel and in the drain tray. Each time the unit runs, room air passes over that build-up. For anyone with [allergies or asthma](/allergy-asthma-solutions-heat-pumps/), that build-up is what sets off symptoms when the unit starts.
 
 ## What we look at during an air quality test at home
 
@@ -49,7 +49,7 @@ At home, we check the heat pump part by part, then the room around it:
 
 ## What happens after the air quality testing
 
-You get a plain explanation of what we found. If the unit is dirty, we clean it properly, with the indoor unit wrapped and the run-off caught. That's covered on our [heat pump cleaning](/heat-pump-cleaning/) page. If there's a persistent smell, see [heat pump deodorising](/heat-pump-deodorising/). If the drain is blocked or damaged, we clear or repair it.
+You get a plain explanation of what we found. If the unit is dirty, we clean it properly, with the indoor unit wrapped and the run-off caught. That [heat pump cleaning](/heat-pump-cleaning/) reaches the coil, fan wheel and drain tray, not just the filters. If there's a persistent smell, see [heat pump deodorising](/heat-pump-deodorising/). If the drain is blocked or damaged, we clear or repair it.
 
 Any work comes with a fixed price before it starts.
 
@@ -57,7 +57,7 @@ Any work comes with a fixed price before it starts.
 
 A heat pump can only do so much in a damp house. The Cardiac and Respiratory Foundation NZ notes that cold, damp, poorly ventilated homes encourage mould, dust mites and condensation, which can trigger respiratory symptoms, and recommends venting moisture at the source with extractor fans in the bathroom, kitchen and laundry ([Cardiac and Respiratory Foundation NZ](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/)).
 
-If we see condensation and mould well away from the heat pump, we'll tell you. A heat pump's dry mode can help in some conditions; our [heat pump dehumidification](/heat-pump-dehumidification/) page explains when.
+If we see condensation and mould well away from the heat pump, we'll tell you. A heat pump's dry mode can help in some conditions; [heat pump dehumidification](/heat-pump-dehumidification/) explains when it's worth using.
 
 ## Keeping the air cleaner between visits
 

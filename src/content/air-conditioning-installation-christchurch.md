@@ -50,7 +50,7 @@ The condensate drain matters more for cooling than for heating. In cooling mode 
 
 ## Dry mode and humid days
 
-Many heat pumps have a dry mode that lowers the moisture in the air with less cooling. It is useful on muggy, overcast days when the room feels clammy rather than hot. Our [dehumidification page](/heat-pump-dehumidification/) explains how and when to use it.
+Many heat pumps have a dry mode that lowers the moisture in the air with less cooling. It is useful on muggy, overcast days when the room feels clammy rather than hot. When to use it, and how it differs from cooling, is covered in [heat pump dehumidification](/heat-pump-dehumidification/).
 
 ## Air conditioning for more than one room
 
@@ -58,7 +58,7 @@ If several rooms overheat, you have the same choices as for heating: a unit in e
 
 ## What our air conditioning installation includes
 
-We install air conditioning systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, with the electrical connection done by a licensed electrical worker. Every unit is tested in cooling and heating before we hand it over. The general install process is on our [heat pump installation](/heat-pump-installation-in-christchurch/) page.
+We install air conditioning systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, with the electrical connection done by a licensed electrical worker. Every unit is tested in cooling and heating before we hand it over. The same steps apply as for any [heat pump installation](/heat-pump-installation-in-christchurch/), from the site visit to the test run.
 
 ## Get an air con installation quote
 

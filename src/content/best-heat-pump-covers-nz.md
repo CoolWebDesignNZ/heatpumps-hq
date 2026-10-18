@@ -18,7 +18,7 @@ faqs:
   - q: Is an air conditioner cover the same as a heat pump cover?
     a: Yes. In New Zealand the same outdoor unit does heating and cooling, so covers sold for air conditioners and for heat pumps are the same products. What matters is the size and the airflow, not the name.
   - q: Can I build my own heat pump cover?
-    a: Yes, if it leaves the fan outlet open, gives the unit the clearances in its installation manual, has an open base and lifts off for servicing. Our <a href="/covers/">heat pump covers service page</a> explains the airflow rules in full.
+    a: Yes, if it leaves the fan outlet open, gives the unit the clearances in its installation manual, has an open base and lifts off for servicing. The airflow rules are set out in full under <a href="/covers/">heat pump covers</a>.
 related:
   - { label: Heat pump covers and screens, href: /covers/, text: Our advice on choosing and placing a cover. }
   - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: What a screen can and can't do for noise. }
@@ -34,7 +34,7 @@ Covers are bought for different reasons, and each reason points to a different t
 - **To protect it while it's switched off** for a long stretch, such as at a bach: a fitted storage cover.
 - **To tidy the indoor side:** an indoor unit cover or pipe trunking.
 
-A running outdoor unit doesn't need covering against ordinary rain or frost. It's built to be outside. Our [heat pump covers page](/covers/) explains why airflow matters and what a cover can't fix; this guide compares the products.
+A running outdoor unit doesn't need covering against ordinary rain or frost. It's built to be outside. People cover one for looks, or to keep sun and falling debris off it. Why airflow matters, and what a cover can't fix, is set out under [heat pump covers](/covers/).
 
 ## The main types of heat pump cover
 
@@ -102,7 +102,7 @@ Any heat pump or air conditioner cover, whatever its type, has to pass these air
 4. The cover lifts off or opens for a technician.
 5. It's sized for your actual unit, measured, not guessed from the brand.
 
-Our [covers page](/covers/) explains what happens when a cover blocks airflow, and why it costs heat in winter.
+A cover that blocks airflow costs you heat in winter; [heat pump covers](/covers/) explains why.
 
 ## Thinking of a cover at install time
 

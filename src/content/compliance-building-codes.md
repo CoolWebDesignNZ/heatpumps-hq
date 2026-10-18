@@ -4,7 +4,7 @@ description: "Heat pump regulations in NZ explained: when building consent appli
 keyword: heat pump regulations nz
 secondary: [heat pump building consent, does a heat pump need consent, heat pump building code]
 h1: Heat pump regulations in NZ, and when you need consent
-intro: Installing a heat pump in a New Zealand home touches four sets of rules, building consent, electrical safety, product labelling and, for rentals, the Healthy Homes standards. Noise at the boundary is a fifth, covered in its own guide.
+intro: Installing a heat pump in a New Zealand home touches four sets of rules, building consent, electrical safety, product labelling and, for rentals, the Healthy Homes standards. Noise at the boundary is a fifth.
 hero: compliance-hero
 updated: 2026-10-17
 gallery: [compliance-certificate, compliance-switchboard]
@@ -16,7 +16,7 @@ faqs:
   - q: What paperwork should I get after a heat pump install?
     a: A Certificate of Compliance for the electrical work. WorkSafe says electricians must issue one for fixed wiring work, and that you should keep it, because it may be needed for insurance claims or when selling your home.
   - q: Is there a building code rule about how far a heat pump must be from the boundary?
-    a: Not in Christchurch. The District Plan controls heat pumps through noise limits at the neighbouring property rather than a set distance. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> lists the Christchurch figures.
+    a: Not in Christchurch. The District Plan controls heat pumps through noise limits at the neighbouring property rather than a set distance. The Christchurch figures are listed under <a href="/heat-pump-boundary-rules-consent-nz/">heat pump boundary rules</a>.
   - q: Do landlords have to install a heat pump?
     a: Not specifically a heat pump. Under the Healthy Homes heating standard, a rental needs one or more fixed heaters that can directly heat the main living room and meet its required capacity. In larger living rooms, a heat pump is often the practical option, because other electric heaters can't be used once the required capacity is over 2.4 kW.
 related:
@@ -41,7 +41,7 @@ Five sets of rules touch a heat pump in a New Zealand home, and each one is set 
 
 No. A heat pump doesn't need building consent in Christchurch. The council's guidance is direct: fixed electric space heaters, including heat pumps, do not require building consent, but they must be installed by registered electricians who certify their own work.
 
-That's different from other heating. The same page says you must get building consent to install or move a solid or liquid fuel heater such as a wood burner, and that systems using reticulated water, such as radiators or underfloor heating connected to the drinking water supply, also need consent.
+That's different from other heating. The same council guidance says you must get building consent to install or move a solid or liquid fuel heater such as a wood burner, and that systems using reticulated water, such as radiators or underfloor heating connected to the drinking water supply, also need consent.
 
 Source: [Christchurch City Council, building and renovation projects](https://ccc.govt.nz/building-and-renovation-projects).
 
@@ -64,7 +64,7 @@ On our installs, the electrical connection is done by a licensed electrical work
 
 ## Product rules: efficiency standards and the label
 
-Heat pumps sold in New Zealand must meet Minimum Energy Performance Standards and carry a mandatory energy label, regulated by EECA under the Energy Efficiency (Energy Using Products) Regulations 2002. Models new to the market since 1 July 2021 must display the Zoned Energy Rating Label ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). These rules sit with the supplier and retailer, not with you, but they mean every new unit has comparable stars and capacity figures. Our [energy rating guide](/energy-star-heat-pumps/) explains how to read them.
+Heat pumps sold in New Zealand must meet Minimum Energy Performance Standards and carry a mandatory energy label, regulated by EECA under the Energy Efficiency (Energy Using Products) Regulations 2002. Models new to the market since 1 July 2021 must display the Zoned Energy Rating Label ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). These rules sit with the supplier and retailer, not with you, but they mean every new unit has comparable stars and capacity figures. How to read them is explained under [energy rated heat pumps](/energy-star-heat-pumps/).
 
 ## Rentals: the Healthy Homes heating standard
 
@@ -78,11 +78,11 @@ Under the Healthy Homes heating standard, a rental needs fixed heating in the ma
 
 Source: [Tenancy Services, heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/). The required capacity can be calculated with the [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool).
 
-If you're a landlord, run the tool first, then ask us to quote a heat pump that meets the figure. Our [home energy assessment](/energy-efficiency-assessment/) page explains how we work from it.
+If you're a landlord, run the tool first, then ask us to quote a heat pump that meets the figure. A [home energy assessment](/energy-efficiency-assessment/) starts from that figure.
 
 ## Noise and where the outdoor unit goes
 
-Christchurch has no fixed distance from the boundary for heat pumps. The District Plan sets noise limits measured at the neighbour's property, and those limits are tightest at night. We've covered the limits, the Selwyn and Waimakariri differences and how to place the outdoor unit in our [boundary rules and consent guide](/heat-pump-boundary-rules-consent-nz/).
+Christchurch has no fixed distance from the boundary for heat pumps. The District Plan sets noise limits measured at the neighbour's property, and those limits are tightest at night. The limits, the Selwyn and Waimakariri differences and how to place the outdoor unit are set out under [boundary rules and consent](/heat-pump-boundary-rules-consent-nz/).
 
 ## Apartments, townhouses and body corporates
 
