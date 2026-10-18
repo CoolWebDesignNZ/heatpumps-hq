@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation in Harewood homes
 
-Harewood sits on Christchurch's north-west fringe, beside the airport. Part of it is suburban, with family homes on standard sections, and part is semi-rural, with larger properties, lifestyle blocks and open paddocks. The land is flat and open, which shapes both its winters and its summers.
+A heat pump installation in Harewood can be in a suburban family home on a standard section or on a semi-rural property: larger sections, lifestyle blocks and open paddocks. The suburb sits on Christchurch's north-west fringe, beside the airport, and the land is flat and open, which shapes both its winters and its summers.
 
 ## Harewood winters: open ground, hard frost
 

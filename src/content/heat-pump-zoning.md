@@ -27,11 +27,13 @@ related:
 
 ## The problem heat pump zoning solves
 
-A ducted heat pump without zoning has one thermostat, usually on the wall controller, and it sends air to every outlet whenever it runs. Warm the lounge on a winter afternoon and you also warm the empty bedrooms. Turn it on for the bedrooms at night and the living areas get heated too.
+Without zoning, a ducted heat pump heats every room at once, whether anyone is in them or not. A ducted heat pump without zoning has one thermostat, usually on the wall controller, and it sends air to every outlet whenever it runs. Warm the lounge on a winter afternoon and you also warm the empty bedrooms. Turn it on for the bedrooms at night and the living areas get heated too.
 
 Zoning splits the house into areas that can be switched and controlled separately, so the system works on the rooms you're in.
 
 ## How ducted heat pump zoning works
+
+Ducted zoning works through motorised dampers in the ducts, a zone controller, temperature sensors on more advanced systems, and a way of handling the extra air when zones close:
 
 - **Dampers.** Motorised dampers sit in the duct runs, either in the main ducts to each zone or in the duct to each room. They open to let air through or close to shut it off.
 - **Zone controller.** A wall controller, and often a phone app, where you turn zones on and off and set times.
@@ -60,7 +62,7 @@ The heat pump also needs enough air going somewhere when only one small zone is 
 
 ## Adding zone control to an existing ducted heat pump
 
-If your ducted heat pump heats the whole house and you'd like control, zoning can often be retrofitted. We look at:
+Zone control can often be retrofitted to an existing ducted heat pump that heats the whole house. To tell whether yours can take it, we look at:
 
 - whether the indoor unit works with the zone controller you want
 - the duct layout, and whether each zone can be isolated with a damper

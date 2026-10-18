@@ -47,7 +47,7 @@ Many of these homes were rebuilt or strengthened after the earthquakes, and the 
 
 ## Cleaning heat pump filters in Moncks Bay
 
-Indoor filters fill with dust and lint whatever the location. Clean them every few weeks during winter by vacuuming or rinsing in lukewarm water and letting them dry before you refit them. A unit with clogged filters works harder and heats less. Our [maintenance and servicing](/maintenance-servicing/) visits cover the coil, fan and drain as well.
+Clean your heat pump's indoor filters every few weeks during winter by vacuuming them or rinsing them in lukewarm water, then let them dry before you refit them. They fill with dust and lint in Moncks Bay as anywhere else. A unit with clogged filters works harder and heats less. Our [maintenance and servicing](/maintenance-servicing/) visits cover the coil, fan and drain as well.
 
 ## What we do in Moncks Bay
 

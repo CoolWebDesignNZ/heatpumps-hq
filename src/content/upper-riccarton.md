@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation in Upper Riccarton rentals and units
 
-Upper Riccarton sits between Riccarton and the university, and its housing reflects that. Older houses on full sections have been split into flats or replaced with two or three townhouses. Student rentals, small units and owner-occupied homes share the same streets.
+Heat pump installation in Upper Riccarton means fitting rentals, small units and townhouses as well as owner-occupied homes, because the suburb sits between Riccarton and the university. Older houses on full sections have been split into flats or replaced with two or three townhouses, and student rentals share the same streets as family homes.
 
 No single setup suits all three. A one-bedroom unit needs a compact heat pump in the living area. A new townhouse with an upstairs bedroom may need a second unit upstairs, because warm air from the ground floor doesn't reliably reach it. An older flat may need its insulation looked at before any heat pump will keep it warm.
 

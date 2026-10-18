@@ -33,6 +33,8 @@ What follows is every factor that moves the price, so you know what to look for 
 
 ## How the unit affects heat pump installation cost
 
+Three things about the heat pump itself change what the install costs: its size, its type and the model range it comes from.
+
 **Size.** A larger capacity unit costs more than a smaller one in the same range. Correct sizing protects you from paying for capacity you don't need, and from a unit too small to keep up. See our [heat pump size guide](/heat-pump-sizing/).
 
 **Type.** High wall units, floor consoles, ceiling cassettes and multi split systems are priced differently, and the install work differs too. Each type is explained in our [types of heat pumps](/types-of-heat-pumps/) guide.
@@ -41,7 +43,7 @@ What follows is every factor that moves the price, so you know what to look for 
 
 ## Heat pump install price for a wall unit or floor console
 
-A high wall unit usually has its pipes leave through the wall directly behind it. A floor console sits low, so the pipes may go down through the floor and under the house, or out through the wall at skirting height. On a concrete slab with no crawl space, the route has to go through the wall or up and over, which can mean more pipe and cover.
+A wall unit and a floor console can cost different amounts to install, because their pipes leave the room in different places. A high wall unit usually has its pipes leave through the wall directly behind it. A floor console sits low, so the pipes may go down through the floor and under the house, or out through the wall at skirting height. On a concrete slab with no crawl space, the route has to go through the wall or up and over, which can mean more pipe and cover.
 
 ## Back-to-back or a longer pipe run
 
@@ -58,7 +60,7 @@ A longer run means more copper pipe, insulation and labour. EECA's [installation
 
 ## How outdoor unit mounting changes the cost
 
-EECA's guide lists the common ways to mount an outdoor unit:
+Where the outdoor unit is mounted changes the cost. A ground-level pad beside the house is usually the simplest, wall brackets add hardware and time, and a two-storey wall adds access work. EECA's guide lists the common ways to mount an outdoor unit:
 
 - on a concrete pad or pre-cast slab
 - on a concrete patio
@@ -66,7 +68,7 @@ EECA's guide lists the common ways to mount an outdoor unit:
 - on brackets fixed to a wall or foundation
 - on a roof, only where the installation has been specifically designed for the load and wind forces.
 
-A ground-level pad beside the house is usually the simplest. Wall brackets add hardware and time, and a two-storey wall adds access work. The unit also has to sit clear of obstructions, away from the neighbour's bedrooms and where defrost water can drain. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers the noise side.
+Wherever it goes, the unit also has to sit clear of obstructions, away from the neighbour's bedrooms and where defrost water can drain. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers the noise side.
 
 ## Electrical work and the switchboard
 
@@ -87,7 +89,7 @@ Sometimes the old position can be reused, which helps. Sometimes it was a poor s
 
 ## Access and the house itself
 
-Smaller things add up: a weatherboard wall versus brick or block, fixing into framing that needs extra dwangs, a cramped underfloor space, or a unit high up a stairwell that needs scaffolding or a tower. We look at all of this on the site visit so it's in the price rather than a surprise later.
+Access and the build of the house add smaller costs that add up: a weatherboard wall versus brick or block, fixing into framing that needs extra dwangs, a cramped underfloor space, or a unit high up a stairwell that needs scaffolding or a tower. We look at all of this on the site visit so it's in the price rather than a surprise later.
 
 ## Comparing heat pump quotes fairly
 

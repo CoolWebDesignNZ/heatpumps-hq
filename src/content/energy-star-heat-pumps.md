@@ -27,13 +27,15 @@ related:
 
 ## ENERGY STAR heat pumps and the New Zealand label
 
-Someone looking for an energy star heat pump may mean one of two things: the blue ENERGY STAR mark, or the star rating printed on the energy label. They're different.
+In New Zealand the label to compare is the Zoned Energy Rating Label, not the blue ENERGY STAR mark. Someone looking for an energy star heat pump may mean either one: the ENERGY STAR mark, or the star rating printed on the energy label. They're different.
 
-In New Zealand, heat pumps are covered by Minimum Energy Performance Standards and mandatory energy labelling, regulated by EECA under the Energy Efficiency (Energy Using Products) Regulations 2002. Every heat pump model new to the market since 1 July 2021 has had to carry the **Zoned Energy Rating Label**. That label, not the ENERGY STAR mark, is the one to compare.
+In New Zealand, heat pumps are covered by Minimum Energy Performance Standards and mandatory energy labelling, regulated by EECA under the Energy Efficiency (Energy Using Products) Regulations 2002. Every heat pump model new to the market since 1 July 2021 has had to carry the **Zoned Energy Rating Label**.
 
 Source for this page: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
 
 ## How to read a heat pump's Zoned Energy Rating Label
+
+The Zoned Energy Rating Label has five parts to read: the zone map, the heating and cooling stars, the kWh per year figures, the capacity figures and the noise figures.
 
 ### The map and the zones
 
@@ -59,7 +61,7 @@ A house icon at the bottom can show indoor and outdoor sound levels, though show
 
 ## What the energy star rating doesn't tell you
 
-A star rating is a fair comparison between similar sized units under test conditions. It doesn't account for:
+The energy star rating doesn't tell you how a heat pump will perform in your house. It's a fair comparison between similar sized units under test conditions, but it doesn't account for:
 
 - **Sizing.** A five star unit that's too small for the room will run flat out and still leave it cold.
 - **Installation.** A boxed-in outdoor unit or a poorly placed indoor unit loses efficiency.
@@ -74,6 +76,6 @@ You may see heat pumps with the older Energy Rating Label, especially on existin
 
 ## Comparing models for the most efficient heat pump
 
-When we quote, we size the heat pump for your rooms, then show you the Cold zone heating stars, the kWh figures and the 2°C heating capacity for each model we suggest. Our installs cover Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
+To find the most efficient heat pump for your house, we size it for your rooms first, then show you the Cold zone heating stars, the kWh figures and the 2°C heating capacity for each model we suggest. Our installs cover Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
 
 Call **03 242 1023** or [request a free fixed-price quote](/contact-us/).

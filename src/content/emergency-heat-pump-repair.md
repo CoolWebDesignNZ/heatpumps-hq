@@ -27,7 +27,7 @@ related:
 
 ## Make it safe before an emergency heat pump repair
 
-A heat pump that has stopped working is an inconvenience. A heat pump with an electrical or water problem can be a hazard. Before anything else, deal with the signs below.
+If you see any of the signs below, switch the heat pump off and make it safe before you call us. A unit that has simply stopped working is an inconvenience, but one with an electrical or water problem can be a hazard.
 
 - **Burning smell, smoke, sparks or crackling.** Switch the unit off at the isolating switch beside the outdoor unit, or at its breaker on the switchboard. Do not turn it back on to see if it was a one-off. If there are flames, get everyone out and call 111.
 - **Water pouring from the indoor unit.** Turn it off, put a towel and a bucket underneath, and move anything plugged in away from the drip. If water is running near a power point, switch that circuit off too.
@@ -39,6 +39,8 @@ Once it's off, leave it off. Resetting a unit that has a real fault can turn a s
 
 ## Keep the house warm in the meantime
 
+While the heat pump stays off, the aim is to keep one part of the house warm until it's repaired:
+
 - Pick one room, close its door and heat that room only with a plug-in heater.
 - Keep portable heaters well clear of curtains, bedding and clothes, and switch them off when you leave the room or go to sleep.
 - Close curtains as soon as the sun goes down to hold the day's heat in.
@@ -46,9 +48,9 @@ Once it's off, leave it off. Resetting a unit that has a real fault can turn a s
 
 ## Our hours, and how to get an urgent heat pump repair sooner
 
-We work **Monday to Friday, 8am to 5pm**. We don't run an after-hours, weekend or 24/7 call-out service, and we won't book a time we can't keep.
+The way to get an urgent heat pump repair sooner is to call us early in the working day, because the earlier you call, the more options we have. We work **Monday to Friday, 8am to 5pm**. We don't run an after-hours, weekend or 24/7 call-out service, and we won't book a time we can't keep.
 
-The earlier in the day you call, the more options we have. A fault reported at 8am has a much better chance of being looked at soon than one reported at 4.30pm. If your heat pump fails on a Friday night or a Sunday, make it safe, use another heater, and ring us at the start of Monday.
+A fault reported at 8am has a much better chance of being looked at soon than one reported at 4.30pm. If your heat pump fails on a Friday night or a Sunday, make it safe, use another heater, and ring us at the start of Monday.
 
 Tell us if there's a baby, an elderly person or someone unwell in the house, so we understand how urgent it is.
 

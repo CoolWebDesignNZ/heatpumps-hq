@@ -45,7 +45,7 @@ If the existing unit is ageing, it's worth deciding now whether to keep it and a
 
 ## Heat pump service for busy Burnside households
 
-Bigger households run their heat pumps hard. Filters clog faster with more people and pets, and a dirty filter makes the unit work harder for less heat. Rinse the filters every few weeks in winter and book a professional clean once a year. See [maintenance and servicing](/maintenance-servicing/).
+Busy Burnside households run their heat pumps hard, which is why a regular service matters. Filters clog faster with more people and pets, and a dirty filter makes the unit work harder for less heat. Rinse the filters every few weeks in winter and book a professional clean once a year. See [maintenance and servicing](/maintenance-servicing/).
 
 ## Matching old and new parts of a Burnside house
 

@@ -33,7 +33,7 @@ Homes here are more exposed than in most of the city, with open land around them
 
 ## Placing a heat pump in the Brooklands wind
 
-On an open site, wind can blow straight into an outdoor unit, working against its fan and pushing salt and grit onto the coil. We walk around the house before choosing a position, looking for a wall that's sheltered but still has open air in front. Where every wall is exposed, a slatted screen set back from the unit can soften the wind without boxing it in.
+Placing a heat pump in Brooklands means keeping the outdoor unit out of the wind, because on an open site wind blows straight into it, working against its fan and pushing salt and grit onto the coil. We walk around the house before choosing a position, looking for a wall that's sheltered but still has open air in front. Where every wall is exposed, a slatted screen set back from the unit can soften the wind without boxing it in.
 
 ## Damp air and soft ground near the lagoon
 
@@ -43,7 +43,7 @@ Damp air indoors is common in older homes near water. A heat pump keeps rooms ev
 
 ## Heat pump installation in an older Brooklands house
 
-Many Brooklands homes are older timber houses with limited insulation. They lose heat faster, especially when the wind is up, so they need a unit sized for the coldest mornings. We check the insulation and windows, measure the rooms and work out the capacity from there. If the house has a separate living room and kitchen, two smaller units can heat it better than one large one.
+Heat pump installation in an older Brooklands house means sizing for timber walls with limited insulation. These houses lose heat faster, especially when the wind is up, so they need a unit sized for the coldest mornings. We check the insulation and windows, measure the rooms and work out the capacity from there. If the house has a separate living room and kitchen, two smaller units can heat it better than one large one.
 
 ## Brooklands bedrooms and sleepouts
 
@@ -51,7 +51,7 @@ Some Brooklands properties have a sleepout, a studio or a bedroom wing that's we
 
 ## Heat pump servicing and repairs in Brooklands
 
-Units in exposed places wear faster. A yearly service keeps the coil, fan and drain clean and picks up corrosion early. We look after Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps, and most other brands found in New Zealand homes. Details are on our [servicing](/maintenance-servicing/) and [repairs](/heat-pump-repair/) pages.
+Heat pumps in Brooklands sit in exposed places, and units there wear faster, so servicing matters. A yearly service keeps the coil, fan and drain clean and picks up corrosion early. We look after Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps, and most other brands found in New Zealand homes. Details are on our [servicing](/maintenance-servicing/) and [repairs](/heat-pump-repair/) pages.
 
 ## Suburbs near Brooklands
 

@@ -27,7 +27,7 @@ related:
 
 ## Heat pump installation in Dallington after the rebuild
 
-Dallington sits inside a loop of the Avon River. After the earthquakes, much of the land closest to the river became residential red zone, so some streets now have fewer homes than they used to. The houses that remain are a mix of original bungalows that have been repaired, homes that were relevelled or repiled, and full rebuilds.
+Installing a heat pump in Dallington means working with houses that came through the earthquakes in very different ways. The suburb sits inside a loop of the Avon River, and after the earthquakes much of the land closest to the river became residential red zone, so some streets now have fewer homes than they used to. The houses that remain are a mix of original bungalows that have been repaired, homes that were relevelled or repiled, and full rebuilds.
 
 That history matters for a heat pump, because two houses side by side can perform very differently. A rebuild built to current standards keeps heat well. A repaired older home may have new plasterboard over walls that were never insulated.
 

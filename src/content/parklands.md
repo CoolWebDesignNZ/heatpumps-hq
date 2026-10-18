@@ -27,9 +27,9 @@ related:
 
 ## Heat pump installation in Parklands homes
 
-Parklands is a residential suburb of mostly single-storey homes on flat land between Burwood and the coast. A lot of the houses are brick and tile, built from the 1970s onward, and the later streets have newer homes with better insulation and double glazing.
+Parklands is mostly single-storey homes on flat land between Burwood and the coast, so a heat pump installation here usually means heating one level. A lot of the houses are brick and tile, built from the 1970s onward, and the later streets have newer homes with better insulation and double glazing.
 
-Brick veneer homes from the 1970s and 80s sit in the middle. They usually have ceiling insulation and some wall insulation, but often original aluminium windows. They hold heat better than an older weatherboard villa, and lose more than a new build.
+Brick veneer homes from the 1970s and 80s sit in the middle. They usually have ceiling insulation and some wall insulation, but often original aluminium windows. They hold heat better than an older weatherboard villa, and lose more than a new build, so we size the heat pump for the house you actually have.
 
 ## Replacing a first heat pump in Parklands
 

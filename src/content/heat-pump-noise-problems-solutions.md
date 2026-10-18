@@ -27,7 +27,7 @@ related:
 
 ## Normal heat pump noises
 
-Before chasing a problem, it helps to know what a healthy heat pump sounds like:
+A healthy heat pump makes several normal noises, and knowing them saves you chasing a problem that isn't there:
 
 - **A steady hum or whirr** from the outdoor unit while the compressor and fan run. It rises and falls as an inverter unit speeds up and slows down.
 - **Air noise** from the indoor fan. Louder on high fan, quieter on low or auto.
@@ -39,6 +39,8 @@ Before chasing a problem, it helps to know what a healthy heat pump sounds like:
 If the noise is one of these and not unusually loud, the unit is doing its job.
 
 ## Heat pump noises that point to a problem
+
+Each of these noises points to a short list of likely causes:
 
 | Noise | Likely causes |
 | --- | --- |
@@ -67,6 +69,8 @@ Noise from the outdoor unit is the kind neighbours notice, so it's worth fixing 
 A screen can hide the unit and soften some sound, but it needs open space around it. See our [heat pump covers guide](/best-heat-pump-covers-nz/).
 
 ## Fixing a noisy indoor unit
+
+Start with these checks and fixes when the noise comes from inside:
 
 - **Clean the filters.** Clogged filters make the fan work harder and whistle.
 - **Check the louvres.** Switching the unit off at the isolating switch for a few minutes sometimes clears a louvre that ticks or sticks. If it keeps happening, the louvre motor may need replacing.

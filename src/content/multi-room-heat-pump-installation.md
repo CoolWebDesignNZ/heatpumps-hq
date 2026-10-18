@@ -33,6 +33,8 @@ The indoor units do not all have to be the same. On most systems a bedroom can h
 
 ## When a multi split heat pump makes sense
 
+A multi split heat pump makes sense when one or more of these applies to your house:
+
 - **Not much outside wall space.** Townhouses, units and homes built close to the boundary often have room for one outdoor unit, not three.
 - **Noise near a neighbour.** One well placed outdoor unit is easier to keep quiet than several. The District Plan noise limits at the boundary are explained in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 - **Looks.** One outdoor unit on the side of the house instead of a row of them.

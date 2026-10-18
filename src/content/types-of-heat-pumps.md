@@ -27,7 +27,7 @@ related:
 
 ## Why types of heat pumps come down to two choices
 
-When people talk about types of heat pumps they're usually mixing two decisions:
+Choosing between the types of heat pumps comes down to two separate decisions, which people often mix together:
 
 1. **The system layout.** Single split, multi split or ducted. This decides how many rooms are heated and how many outdoor units you need.
 2. **The indoor unit.** High wall, floor console, ceiling cassette, bulkhead or ducted vents. This decides how warm air moves around the room and what you see on the wall or ceiling.
@@ -78,6 +78,8 @@ A ducted heat pump puts the indoor unit out of sight, usually in the roof space,
 
 ## Heat pump types side by side
 
+The table puts the five types next to each other: what each one heats, what it's best at and its main limitation.
+
 | Type | Heats | Best at | Main limitation |
 | --- | --- | --- | --- |
 | High wall | One room | Bedrooms, living rooms, cooling | Warm air can sit high in tall rooms |
@@ -92,6 +94,6 @@ A ducted heat pump puts the indoor unit out of sight, usually in the roof space,
 
 ## Which heat pump type suits your home
 
-The building usually narrows it down quickly. An older villa with a high stud and a fireplace can suit a console. A new Selwyn build with good roof space is a natural candidate for ducted. A two-bedroom unit might need one high wall unit in the living area and nothing else.
+The type that suits your home is usually decided by the building itself, and that narrows it down quickly. An older villa with a high stud and a fireplace can suit a console. A new Selwyn build with good roof space is a natural candidate for ducted. A two-bedroom unit might need one high wall unit in the living area and nothing else.
 
 We install high wall, floor console, multi split and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We'll look at the rooms and tell you which type fits, with a fixed price before any work. Call **03 242 1023** or [request a free quote](/contact-us/).

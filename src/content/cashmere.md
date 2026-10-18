@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation for two kinds of Cashmere home
 
-Lower Cashmere is on the flat, with established family homes on level sections near the river. Higher up, houses climb the north face of the Port Hills, with driveways that wind, sections cut into the slope and decks built for the view over the city and plains.
+A heat pump installation in Cashmere is planned one of two ways, depending on whether the home is on the flat or on the hill. Lower Cashmere is on the flat, with established family homes on level sections near the river. Higher up, houses climb the north face of the Port Hills, with driveways that wind, sections cut into the slope and decks built for the view over the city and plains.
 
 The flat homes are straightforward. The hill homes are where planning pays off.
 

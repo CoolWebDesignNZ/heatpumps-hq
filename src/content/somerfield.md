@@ -27,9 +27,9 @@ related:
 
 ## Heat pump installation in Somerfield bungalows and villas
 
-Somerfield lies between Beckenham and Spreydon on flat ground south of the city. The streets are lined with older bungalows and villas, many extended or renovated, plus newer homes where sections have been rebuilt. Plenty of these are family homes with a lounge, a dining room or sunroom and three or more bedrooms.
+Somerfield's streets are lined with older bungalows and villas, and in character homes like these, how a heat pump install looks matters almost as much as how it heats. Many have been extended or renovated, and there are newer homes where sections have been rebuilt. Plenty of these are family homes with a lounge, a dining room or sunroom and three or more bedrooms.
 
-With character homes like these, how the install looks matters almost as much as how it heats.
+The suburb lies between Beckenham and Spreydon on flat ground south of the city.
 
 ## Keeping a Somerfield heat pump install tidy
 

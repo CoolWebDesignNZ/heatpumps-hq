@@ -38,6 +38,8 @@ Most repair calls in Christchurch come down to a short list of problems:
 
 ## How a heat pump repair visit works
 
+A repair visit runs in four steps, from your call to a tested fix:
+
 1. **You call and describe the fault.** If there's an error code or a pattern of flashing lights, tell us. It often means the right part is in the van.
 2. **We diagnose it on site.** We check the electrical supply, the refrigerant pressures, the sensors and the controls until we find the cause.
 3. **You get a clear price before any work.** If the repair costs more than the unit is worth, you'll hear that too.
@@ -52,6 +54,8 @@ We repair the brands we install, **Mitsubishi Electric, Daikin, Fujitsu and Tosh
 A repair is usually the better choice when the unit is under ten years old and the fault is a part such as a sensor, fan motor, drain or board. Replacement starts to make sense when the compressor has failed, the unit uses an old refrigerant that is hard to get, or repairs are becoming a yearly event. We'll give you both prices when it's close, so the decision is yours.
 
 ## Quick checks before you call us
+
+These take a few minutes, so try them before you ring about a fault:
 
 - Check the remote has batteries and is set to the right mode.
 - Clean the filters behind the front panel.

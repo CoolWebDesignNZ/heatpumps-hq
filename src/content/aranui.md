@@ -47,11 +47,11 @@ Newer Aranui homes are better insulated, so a smaller unit can heat an open plan
 
 ## Running costs in older Aranui houses
 
-A heat pump in a draughty house runs longer to hold the same temperature. Simple fixes help it: thick curtains that reach the floor, draught stopping around doors, and ceiling and underfloor insulation if the house doesn't have it yet. They let a correctly sized unit cruise rather than labour through the evening.
+Running costs climb in a draughty older Aranui house, because the heat pump runs longer to hold the same temperature. Simple fixes help it: thick curtains that reach the floor, draught stopping around doors, and ceiling and underfloor insulation if the house doesn't have it yet. They let a correctly sized unit cruise rather than labour through the evening.
 
 ## Heat pump repair and servicing in Aranui
 
-A heat pump in a rental gets heavy use and often little care between tenants. Filters clog, drains block and output drops. Our servicing and repair work covers Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other makes on the New Zealand market. A regular [service](/maintenance-servicing/) between tenancies avoids most [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps in Aranui, plus most other makes on the New Zealand market. A heat pump in a rental gets heavy use and often little care between tenants. Filters clog, drains block and output drops. A regular [service](/maintenance-servicing/) between tenancies avoids most [repairs](/heat-pump-repair/).
 
 ## Suburbs near Aranui
 

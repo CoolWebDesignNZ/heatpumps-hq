@@ -27,7 +27,7 @@ related:
 
 ## Heat pump or air conditioning?
 
-Ask for air conditioning in Christchurch and you'll be shown heat pumps. That is because the split systems sold here are reverse cycle units: the same outdoor and indoor units that heat the house in July cool it in January. In cooling mode the refrigerant carries heat out of the room and releases it outside, which is why the outdoor unit blows warm air in summer.
+In Christchurch they are the same thing. The split systems sold here are reverse cycle heat pumps: the same outdoor and indoor units that heat the house in July cool it in January, which is why you'll be shown heat pumps when you ask for air conditioning. In cooling mode the refrigerant carries heat out of the room and releases it outside, which is why the outdoor unit blows warm air in summer.
 
 So the question is not whether to buy an air conditioner or a heat pump. It is whether the system you choose has been sized and placed for cooling as well as heating.
 

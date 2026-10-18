@@ -27,7 +27,7 @@ related:
 
 ## Heat pump installation in Russley's brick homes
 
-Russley sits beside Russley Road on the western edge of Christchurch, close to the airport and the golf course. Many of its streets are lined with brick and tile family homes from the 1960s to the 1980s, many of them on quiet cul-de-sacs, with some larger homes on bigger sections.
+A heat pump installation in Russley is often in a brick and tile family home from the 1960s to the 1980s, many of them on quiet cul-de-sacs, with some larger homes on bigger sections. The suburb sits beside Russley Road on the western edge of Christchurch, close to the airport and the golf course.
 
 These houses tend to have separate living rooms, a formal lounge in some cases, and a bedroom wing. That shape means one heat pump rarely heats the whole house well. Many owners started with a single unit in the family room and now want warmth in the bedrooms too.
 

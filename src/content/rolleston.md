@@ -29,7 +29,7 @@ related:
 
 ## Heat pump installation for Rolleston homes
 
-Rolleston sits on the open Canterbury Plains south-west of Christchurch, and it has grown fast. A lot of homes here are recent builds with good insulation, double glazing and open plan living areas. That changes what a good heat pump setup looks like.
+Heat pump installation in Rolleston often means a recent build with good insulation, double glazing and open plan living areas, and that changes what a good setup looks like. Rolleston sits on the open Canterbury Plains south-west of Christchurch, and it has grown fast.
 
 A well insulated open plan space holds heat, so one correctly sized unit can often heat the living, dining and kitchen area on its own. Bedrooms and a second living room are where people tend to add a second unit or move to a ducted system. We size every install from the actual rooms, the windows and how you use the house, so you're not paying for capacity you don't need.
 
@@ -42,11 +42,11 @@ Clear winter nights on the plains bring hard frosts, and that's when a heat pump
 - **New installations.** Wall-mounted, floor console, multi-room and [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing.** Filter and coil cleans, drain checks and a full performance check. See [heat pump servicing](/maintenance-servicing/).
 - **Repairs.** Fault finding and repairs on all the major brands. See [heat pump repairs](/heat-pump-repair/).
+- **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
 ## Mitsubishi heat pumps in Rolleston
 
 We install Mitsubishi Electric heat pumps in Rolleston, and service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install, and we'll show you how they compare for your house. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
-- **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
 ## Areas near Rolleston
 

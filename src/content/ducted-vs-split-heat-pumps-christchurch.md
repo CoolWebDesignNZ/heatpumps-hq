@@ -35,6 +35,8 @@ Between the two sits the **multi split**: one outdoor unit running two or more i
 
 ## Ducted vs split system side by side
 
+Side by side, the biggest difference is reach: a split heats the room it's in, and a ducted system heats every room with an outlet.
+
 | | Split system | Ducted system |
 | --- | --- | --- |
 | Rooms heated | The room it's in | Every room with an outlet |
@@ -72,13 +74,13 @@ The trade-offs are a larger upfront job, the need for roof or floor space, and o
 
 ## Comfort and airflow from ducted vs high wall heat pumps
 
-A high wall unit blows warm air across the room from one point. A floor console releases it low down. Either can leave a large or L-shaped room uneven if placed badly.
+The comfort difference between ducted and high wall heat pumps comes down to where the warm air enters the room. A high wall unit blows it across the room from one point. A floor console releases it low down. Either can leave a large or L-shaped room uneven if placed badly.
 
 Ducted outlets spread the air from several points, usually in the ceiling. Because warm air rises, outlet placement and airflow matter for keeping heat down where people sit. A good ducted design places the outlets and return air path so each room gets an even supply.
 
 ## Running costs of ducted vs split heat pumps
 
-The comparison only makes sense like for like. Heating one lounge with a wall unit uses less electricity than heating the whole house with ducted. Heating the whole house with four or five separate wall units versus one ducted system is a closer contest, and depends on the models, their efficiency at low temperatures and how you run them. Check the energy labels: EECA's [label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) explains the kWh figures and star ratings for the Cold zone that applies to New Zealand.
+Running costs of ducted and split heat pumps can only be compared like for like. Heating one lounge with a wall unit uses less electricity than heating the whole house with ducted. Heating the whole house with four or five separate wall units versus one ducted system is a closer contest, and depends on the models, their efficiency at low temperatures and how you run them. Check the energy labels: EECA's [label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) explains the kWh figures and star ratings for the Cold zone that applies to New Zealand.
 
 Zoning is one of the main ways to keep a ducted system's running cost down, because it stops you heating empty rooms.
 
@@ -93,6 +95,8 @@ Outdoors, both have a compressor and fan. Ducted outdoor units for a whole house
 Split systems need their filters cleaned in each room and a regular service of each unit. Ducted systems usually have a filter at or near the return air grille, which needs regular cleaning, and the unit in the roof space needs access for servicing. Either way, a yearly [service](/maintenance-servicing/) keeps it efficient.
 
 ## Ducted or split system? A quick way to decide
+
+Start from how many rooms you want warm and what the house allows:
 
 - Want one or two rooms warm, older house, tight roof: **split system**.
 - Want three or four rooms warm, limited roof space: **multi split** or several splits.

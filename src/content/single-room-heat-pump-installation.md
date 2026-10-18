@@ -33,7 +33,7 @@ It is not the right answer for a string of separate bedrooms off a hallway. Warm
 
 ## Sizing a small heat pump properly
 
-A heat pump's heating kW rating is the heat it puts into the room. Too small and it runs flat out on frosty mornings without catching up. Too big and it overshoots, switches off, cools down and starts again, which is noisier, less comfortable and harder on the unit.
+Sizing a small heat pump properly means matching its heating kW rating, the heat it puts into the room, to that particular room. Too small and it runs flat out on frosty mornings without catching up. Too big and it overshoots, switches off, cools down and starts again, which is noisier, less comfortable and harder on the unit.
 
 We size from the room, not a rule of thumb:
 
@@ -50,6 +50,8 @@ Our [single room calculator](/calculator-single-room-heat-pump/) gives you a rou
 A small heat pump in a bedroom takes the chill off at night, and a room kept warm gets less condensation on cold windows, which is a familiar problem in older Christchurch homes. The indoor unit should sit where the airflow does not blow straight onto the bed. Many people set it to a low fan speed overnight, so we check the unit we choose still holds the room's temperature at that setting.
 
 ## Choosing a wall unit or floor console
+
+For one room, the choice is between a high wall unit and a floor console.
 
 - **High wall unit.** The common choice. It sits high on the wall, out of the way, and pushes warm air across the room.
 - **Floor console.** A low unit at skirting height. It puts heat near the floor where you feel it, fits under a window, and suits rooms with no wall space up high. It takes up a little floor space.

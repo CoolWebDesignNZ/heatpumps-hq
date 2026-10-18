@@ -55,6 +55,8 @@ Oaklands gets the cold, still frosty mornings typical of the flat south-west of 
 
 ## Heat pump installation in Oaklands
 
+We install, service and repair heat pumps across Oaklands:
+
 - Heat pump installs: Mitsubishi Electric, Daikin, Fujitsu or Toshiba.
 - Yearly [servicing](/maintenance-servicing/).
 - [Repairs](/heat-pump-repair/) on the major brands and most others sold in New Zealand.

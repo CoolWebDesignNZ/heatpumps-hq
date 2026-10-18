@@ -27,7 +27,7 @@ related:
 
 ## Heat pump installation in mid-century Wainoni homes
 
-Much of Wainoni was built from the 1950s to the 1970s, with a mix of state and private houses. Typical homes are single-storey weatherboard or brick on piles, with a separate lounge, a kitchen and dining area, and three bedrooms off a hallway. Many have had ceiling insulation added; fewer have wall insulation or double glazing.
+A heat pump installation in Wainoni usually means fitting it to a mid-century home, because much of the suburb was built from the 1950s to the 1970s, with a mix of state and private houses. Typical homes are single-storey weatherboard or brick on piles, with a separate lounge, a kitchen and dining area, and three bedrooms off a hallway. Many have had ceiling insulation added; fewer have wall insulation or double glazing. The layout, the piles and the glazing all shape where the heat pump goes and how big it needs to be.
 
 ## Sizing a heat pump for an older Wainoni house
 

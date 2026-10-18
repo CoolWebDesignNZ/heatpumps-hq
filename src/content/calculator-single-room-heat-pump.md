@@ -45,7 +45,7 @@ The result comes out in kilowatts, rounded up to one decimal place. You can save
 
 ## What to measure for a heat pump room size calculator
 
-Have these ready and the tool takes far less time:
+The room size calculator needs measurements of the room and details of how it's built. Have these ready and the tool takes far less time:
 
 1. **Floor area of the room.** Length times width in metres. For an L-shaped room, split it into rectangles and add them.
 2. **Ceiling height.** Measure at the highest point if the ceiling slopes.
@@ -60,7 +60,7 @@ The tool guide's advice is that the more accurate the information, the more accu
 
 ## Where the calculator gets it wrong
 
-The tool guide is open about its limits:
+The calculator gets sloped ceilings, sloped walls and complex layouts wrong, and the Tenancy Services tool guide is open about it:
 
 - **Sloped or irregular ceilings.** The tool assumes a 45 degree slope and works out the room volume using the highest wall height, as if the room were a box. That usually overestimates what the room needs.
 - **Sloped external walls** may also be overestimated.

@@ -33,7 +33,7 @@ Belfast sits at Christchurch's northern edge, on open land towards the Waimakari
 
 ## Heat pump installation in a new Belfast build
 
-Modern homes are well insulated and double glazed, and they hold heat. That makes them cheaper to heat, but it also means an oversized unit will overshoot and cycle. We size every install from the rooms, the windows, the insulation and how you use the house.
+A new Belfast build is well insulated and double glazed, and it holds heat. That makes them cheaper to heat, but it also means an oversized unit will overshoot and cycle. We size every install from the rooms, the windows, the insulation and how you use the house.
 
 New homes in Belfast tend to follow a pattern: an open plan kitchen, dining and living area, a separate lounge or media room, and three or four bedrooms. There are two sound ways to heat that:
 
@@ -46,9 +46,9 @@ If your house isn't finished yet, the best time to plan heating is now. Ducting 
 
 ## Adding heat pumps to older Belfast houses
 
-Many of these houses were built with one living area unit as standard. Adding bedroom units later is straightforward if there's a sensible wall for each and a route for the pipes.
+In Belfast's older homes, adding heat pumps looks more like the rest of the north: a lounge unit to start, bedroom heating added as needed, and attention to insulation before buying more capacity.
 
-In Belfast's older homes, the work looks more like the rest of the north: a lounge unit to start, bedroom heating added as needed, and attention to insulation before buying more capacity.
+Many Belfast houses were built with one living area unit as standard. Adding bedroom units later is straightforward if there's a sensible wall for each and a route for the pipes.
 
 ## What we do in Belfast
 

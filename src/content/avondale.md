@@ -31,7 +31,7 @@ Avondale lies along the Avon River in the east. Land close to the river became r
 
 ## Plan heat pump installation into an Avondale renovation
 
-A lot of Avondale homes are still being upgraded, one room or one project at a time. If you're renovating, that's the moment to plan heating. With linings off, pipes and cables can run inside walls instead of along the outside, and ducting can go into the ceiling before it's closed in. A ducted system that would be awkward to retrofit becomes much simpler. Our [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) page sets out how they compare.
+If you're renovating an Avondale home, plan the heat pump installation before the linings go back on. A lot of houses here are still being upgraded one room or one project at a time, and with linings off, pipes and cables can run inside walls instead of along the outside, and ducting can go into the ceiling before it's closed in. A ducted system that would be awkward to retrofit becomes much simpler. Our [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) page sets out how they compare.
 
 Renovations also change how much heat the house needs. New insulation and double glazing can drop the size of unit required. Tell us what's planned and we'll size for the finished house.
 
@@ -51,7 +51,7 @@ Avondale is a few kilometres from the coast. An easterly brings some salt, so gi
 
 ## Heat pump servicing and repairs in Avondale
 
-A heat pump fitted during earthquake repairs may not have been serviced since. A service cleans the filters, coil and fan and checks the drain and output. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units are all covered, along with most other brands. Our [servicing page](/maintenance-servicing/) explains the visit, and [repairs](/heat-pump-repair/) covers faults.
+We service and repair heat pumps all over Avondale, and many were fitted during earthquake repairs and may not have been serviced since. A service cleans the filters, coil and fan and checks the drain and output. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units are all covered, along with most other brands. Our [servicing page](/maintenance-servicing/) explains the visit, and [repairs](/heat-pump-repair/) covers faults.
 
 ## Suburbs around Avondale
 

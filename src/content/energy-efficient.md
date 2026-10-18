@@ -27,13 +27,13 @@ related:
 
 ## Why a heat pump is more energy efficient than a heater
 
-An electric fan heater or panel heater turns electricity directly into heat, one for one. A heat pump uses electricity to run a compressor and fans that move heat from the outdoor air into the house. Because it's moving heat rather than making it, it puts out more heat than the electricity it uses.
+A heat pump moves heat from the outdoor air into the house rather than making it, so it puts out more heat than the electricity it uses. An electric fan heater or panel heater turns electricity directly into heat, one for one. A heat pump uses its electricity to run a compressor and fans that do the moving.
 
 EECA's label guidance gives a sense of the scale. A one star heat pump on the Zoned Energy Rating Label has a heating seasonal performance factor of between 2.5 and 3, and a three star unit between 4.5 and 5 ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). In plain terms, even a poorly rated heat pump gives around two and a half to three times the heat per unit of power of a resistive heater, and a well rated one does better again.
 
 ## 1. The unit and its inverter
 
-Efficiency is built into the design: the compressor, the size of the coils, the fans and how well the unit runs at part load. Modern inverter heat pumps slow down and speed up to match the heat the room needs instead of running flat out and stopping.
+How efficient a heat pump can be starts with the unit itself: the compressor, the size of the coils, the fans and how well it runs at part load, which is where the inverter comes in. Modern inverter heat pumps slow down and speed up to match the heat the room needs instead of running flat out and stopping.
 
 To compare models, use the heating stars in the Cold zone on the energy label, which is where all of New Zealand sits. Stars compare a unit with others of similar capacity, so compare a 6 kW unit with other 6 kW units. Our [energy rating label guide](/energy-star-heat-pumps/) explains each part of the label.
 
@@ -54,7 +54,7 @@ A well chosen unit can lose efficiency through a poor install:
 
 ## 4. Settings that keep your heating energy efficient
 
-Settings make a real difference to your power bill:
+How you set the heat pump makes a real difference to how efficiently it heats, and to your power bill:
 
 - **Pick a set temperature and leave it.** Turning it up to 30°C won't warm the room faster.
 - **Use heat mode, not auto, in winter.** Auto can switch to cooling on a sunny afternoon.

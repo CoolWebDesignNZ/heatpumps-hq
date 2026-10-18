@@ -44,7 +44,7 @@ Once we know what has failed, you get a fixed price. If the unit is old enough t
 
 ## Mitsubishi heat pump service
 
-Heat pumps in Christchurch work hard through the winter months, and a dirty unit heats less for the same power. A Mitsubishi service with us includes:
+A Mitsubishi heat pump service with us cleans the unit inside and out and checks its output, because heat pumps in Christchurch work hard through the winter months and a dirty unit heats less for the same power. The service includes:
 
 1. Filters out and washed, and the indoor coil and fan cleaned.
 2. Drain tray and hose cleared, then tested with water.

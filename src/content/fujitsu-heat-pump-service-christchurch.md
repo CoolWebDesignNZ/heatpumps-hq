@@ -27,11 +27,13 @@ related:
 
 ## Fujitsu, General and Airstage
 
-If you're searching for help with a Fujitsu heat pump, you may find the brand looks different now. In New Zealand, Fujitsu General has changed its trading name to GENERAL, and its residential heat pumps are sold as **General Airstage**, described on the [GENERAL New Zealand website](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) as formerly Fujitsu.
+Fujitsu heat pumps are now sold in New Zealand as **General Airstage**, because Fujitsu General has changed its trading name here to GENERAL. Its residential range is described on the [GENERAL New Zealand website](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) as formerly Fujitsu.
 
 For repairs and servicing, nothing changes. A unit badged Fujitsu and a newer one badged General are the same company's products, and we install, service and repair both.
 
 ## Fujitsu heat pumps we service and repair
+
+We service and repair each of these Fujitsu heat pump types:
 
 - **Wall-mounted splits** in living rooms and bedrooms
 - **Floor and ceiling consoles**, where a high wall isn't practical

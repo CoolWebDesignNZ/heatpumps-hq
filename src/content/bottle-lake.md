@@ -33,7 +33,7 @@ That setting gives an outdoor unit more to cope with than one on a suburban stre
 
 ## Pine needles, pollen and sand on Bottle Lake heat pumps
 
-A heat pump outdoor unit pulls a lot of air across its coil. Near pine trees, that air carries needles, pollen and bark dust. Close to the dunes it also carries sand and some salt. Over time this builds up on the fins and in the base pan, which reduces heating and can hold water against the metal.
+Pine needles, pollen and bark dust get drawn onto the outdoor unit of a Bottle Lake heat pump, because it pulls a lot of air across its coil. Close to the dunes that air also carries sand and some salt. Over time this builds up on the fins and in the base pan, which reduces heating and can hold water against the metal.
 
 To keep it to a minimum:
 

@@ -50,7 +50,7 @@ Dust from paddocks and gravel drives gets into outdoor coils and indoor filters.
 
 ## Heat pump or log burner on McLeans Island
 
-Many rural homes have a log burner already. A heat pump doesn't need firewood carted, stacked or lit, it heats on a timer before you get up, and it can cool the house on hot nor'west days. A burner keeps working through a power cut. Some owners on McLeans Island keep both: the heat pump for everyday heating, the burner for the coldest nights. We'll size the heat pump on the basis that it carries the house on its own.
+A heat pump and a log burner each do something the other can't, and many rural homes on McLeans Island have a burner already. A heat pump doesn't need firewood carted, stacked or lit, it heats on a timer before you get up, and it can cool the house on hot nor'west days. A burner keeps working through a power cut. Some owners on McLeans Island keep both: the heat pump for everyday heating, the burner for the coldest nights. We'll size the heat pump on the basis that it carries the house on its own.
 
 ## Noise rules that apply on McLeans Island
 

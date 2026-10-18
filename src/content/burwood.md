@@ -27,7 +27,7 @@ related:
 
 ## What Burwood homes need from a heat pump installation
 
-Burwood has two quite different kinds of housing. There are newer subdivisions of brick and tile homes with insulated ceilings, double glazing and open plan living, and there are older family houses on bigger sections that have had insulation added in stages. The right heat pump for one is rarely right for the other.
+What a Burwood home needs from a heat pump installation depends on which of the suburb's two kinds of housing it is. There are newer subdivisions of brick and tile homes with insulated ceilings, double glazing and open plan living, and there are older family houses on bigger sections that have had insulation added in stages. The right heat pump for one is rarely right for the other.
 
 In a newer Burwood home, the living area usually holds heat well once it's warm. A correctly sized high wall unit can run gently for most of the day instead of working hard morning and night. Oversizing just adds cost and short cycling, so we work the capacity out from your rooms, glazing and insulation rather than from the floor area alone.
 

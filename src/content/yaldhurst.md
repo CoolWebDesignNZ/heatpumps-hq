@@ -33,7 +33,7 @@ That exposure is the main thing that shapes a heat pump install in Yaldhurst. Tw
 
 ## Heat pump installation sized for Yaldhurst frosts
 
-A heat pump moves heat from the outside air into the house. The colder it is outside, the less heat it can deliver, which is the opposite of what you need on a frosty morning. So we size for the cold end of the range, not for a mild day. For an exposed house, we also look at units designed to hold their output at low temperatures; see [cold climate heat pumps](/cold-climate-heat-pumps/).
+We size a Yaldhurst heat pump installation for the cold end of the range, not for a mild day. A heat pump moves heat from the outside air into the house, and the colder it is outside, the less heat it can deliver, which is the opposite of what you need on a frosty morning. For an exposed house, we also look at units designed to hold their output at low temperatures; see [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 Larger homes in Yaldhurst often suit [ducted heating](/ducted-heat-pumps-christchurch/), with a vent in each room and the indoor unit out of sight in the roof space. Others are better served by two or three wall units in the rooms that are used every day.
 

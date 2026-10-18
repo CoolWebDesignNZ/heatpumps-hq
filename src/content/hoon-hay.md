@@ -27,9 +27,9 @@ related:
 
 ## Heat pump installation for Hoon Hay family homes
 
-Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Port Hills rising beyond its southern streets. Much of it is established family housing: brick and tile homes, weatherboard houses and some former state houses on decent sections, with newer subdivisions on the fringes.
+Most Hoon Hay homes are family homes, where several people are using different rooms at different times, so a heat pump installation that heats one lounge is rarely enough. Much of the suburb is established family housing: brick and tile homes, weatherboard houses and some former state houses on decent sections, with newer subdivisions on the fringes.
 
-These are homes where several people are using different rooms at different times. Heating one lounge is rarely enough.
+Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Port Hills rising beyond its southern streets.
 
 ## Planning heat pumps for a whole Hoon Hay household
 

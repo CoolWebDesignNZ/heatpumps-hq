@@ -49,6 +49,8 @@ Riccarton has plenty of properties looked after by property managers rather than
 
 ## Heat pump service work we do in Riccarton
 
+Our heat pump work in Riccarton covers three kinds of job:
+
 - **Installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps.
 - **Servicing** for owners, landlords and property managers.
 - **Fault finding and repairs** for Panasonic and the other major brands, plus most units sold in New Zealand.

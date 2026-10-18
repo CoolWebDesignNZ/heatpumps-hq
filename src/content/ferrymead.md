@@ -47,7 +47,7 @@ If your home is unit titled, the outside walls and common areas may belong to th
 
 ## Heat pump installation for a Ferrymead townhouse
 
-Modern townhouses are often well insulated, and a single [wall-mounted unit](/single-room-heat-pump-installation/) can heat an open plan ground floor comfortably. The bedrooms upstairs are another matter. Warm air collects at the top of the stairs, but closed bedroom doors keep it out, so a small second unit upstairs is a common choice. We size each unit from the room, its windows and how you use it.
+In a modern Ferrymead townhouse, a single [wall-mounted unit](/single-room-heat-pump-installation/) can often heat the open plan ground floor comfortably, because these homes are usually well insulated. The bedrooms upstairs are another matter. Warm air collects at the top of the stairs, but closed bedroom doors keep it out, so a small second unit upstairs is a common choice. We size each unit from the room, its windows and how you use it.
 
 ## What we do in Ferrymead
 

@@ -28,6 +28,8 @@ Every job starts the same way. We find out what the heat pump needs to do, look 
 
 ## New heat pump installations
 
+Our new installations run from a single room unit to multi room and ducted systems, plus air conditioning and smart controls.
+
 - [Heat pump installation](/heat-pump-installation-in-christchurch/): how we size, place and install a new system.
 - [Single room heat pumps](/single-room-heat-pump-installation/): one unit for a bedroom, lounge or studio.
 - [Multi room heat pumps](/multi-room-heat-pump-installation/): several indoor units on one outdoor unit.
@@ -40,6 +42,8 @@ Every job starts the same way. We find out what the heat pump needs to do, look 
 
 ## Heat pump service and maintenance
 
+Service and maintenance keeps an existing unit clean and working, from the yearly service to a deep clean or a winter check.
+
 - [Maintenance and servicing](/maintenance-servicing/): what a yearly service covers.
 - [Heat pump servicing](/heat-pump-servicing/): booking a routine service.
 - [Heat pump cleaning](/heat-pump-cleaning/): a deep clean of the indoor coil, fan and filters.
@@ -51,6 +55,8 @@ Every job starts the same way. We find out what the heat pump needs to do, look 
 
 ## Repairs and fault finding on all brands
 
+We find and fix faults on all major brands, from a unit that has stopped to a refrigerant leak.
+
 - [Heat pump repair](/heat-pump-repair/): faults on all major brands, with a price before work starts.
 - [Emergency heat pump repair](/emergency-heat-pump-repair/): when the unit has stopped and the house is cold.
 - [Heat pump troubleshooting](/heat-pump-troubleshooting/): diagnosing a unit that isn't working properly.
@@ -61,12 +67,16 @@ Every job starts the same way. We find out what the heat pump needs to do, look 
 
 ## Heat pump service by brand
 
+Each brand we look after has its own service page.
+
 - [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/): servicing and repairs for Mitsubishi Electric wall, floor and ducted units.
 - [Daikin heat pump service](/daikin-heat-pump-service-christchurch/): servicing and repairs for Daikin split and ducted systems.
 - [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/): servicing and repairs for Fujitsu heat pumps.
 - [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/): servicing and repairs for Panasonic units, which we service but don't install.
 
 ## Efficiency and air quality upgrades
+
+These services look at how much warmth you get for the power used, and at the air in the rooms the heat pump serves.
 
 - [Efficiency upgrades](/heat-pump-efficiency-upgrades/): getting more warmth for the power used.
 - [Energy efficiency assessment](/energy-efficiency-assessment/): a check of how a home's heating is performing.

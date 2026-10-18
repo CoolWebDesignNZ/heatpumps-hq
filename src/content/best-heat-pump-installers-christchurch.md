@@ -27,7 +27,7 @@ related:
 
 ## What separates the best heat pump installers
 
-A well made heat pump can still leave a room cold, defrost constantly, annoy the neighbours or drip down the wall if it's the wrong size or put in the wrong place. EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) says many problems with poorly performing heat pumps are due to poor location of the units.
+The best heat pump installers get the size and the position right. A well made heat pump can still leave a room cold, defrost constantly, annoy the neighbours or drip down the wall if either is wrong. EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) says many problems with poorly performing heat pumps are due to poor location of the units.
 
 So when you compare heat pump installers in Christchurch, or anywhere near you, compare how they work, not only the price. These are the checks that matter.
 
@@ -87,6 +87,8 @@ You should be handed the electrical Certificate of Compliance, a record of the c
 Ask who services and repairs the unit once it's in, and whether they work on that brand. A yearly service keeps a heat pump running efficiently. Find out who you call if something goes wrong in the first winter.
 
 ## Questions to ask any heat pump installer
+
+Put these to every installer who quotes, and compare the answers:
 
 1. Who does the electrical connection, and can I see their licence?
 2. Who handles the refrigerant, and what certificate do they hold?

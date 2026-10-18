@@ -41,9 +41,9 @@ In houses like these, the complaint we hear is a warm lounge and cold bedrooms. 
 
 We'll price the options that suit your house and explain what each one heats.
 
-## When an old Avonhead heat pump is due for replacement
+## Replacing an old Avonhead heat pump
 
-Some Avonhead homes have a heat pump that has been on the wall for a long time. Newer units are generally quieter and more efficient, and they run on current refrigerants. When we replace one, we check whether the existing pipe run can be reused and whether the old unit was the right size in the first place.
+Some Avonhead homes have a heat pump that has been on the wall for a long time, and replacing it gets you a unit that is generally quieter and more efficient, running on current refrigerants. When we replace one, we check whether the existing pipe run can be reused and whether the old unit was the right size in the first place.
 
 ## Frost and wind on Avonhead's western side
 
@@ -54,6 +54,8 @@ Avonhead is on the western edge of the city, open to frost on still nights and n
 If you've topped up the ceiling insulation or replaced windows since the house was built, the heat pump you need may be smaller than the one a neighbour with an identical house has. Tell us what has been done when you book, or we'll check in the roof space when we come to quote.
 
 ## Heat pump installation and servicing in Avonhead
+
+Our Avonhead work covers installing, servicing and repairing heat pumps:
 
 - New installs, using Mitsubishi Electric, Daikin, Fujitsu or Toshiba units.
 - [Servicing](/maintenance-servicing/) with filter, coil and drain cleans.

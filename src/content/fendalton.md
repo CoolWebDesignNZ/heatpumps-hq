@@ -47,9 +47,9 @@ Mature trees are a feature of Fendalton, and they affect heating in two ways. Ro
 
 ## Keeping a Fendalton house looking right
 
-Where houses have been rebuilt or extended, older and newer wings often perform very differently, and we size each part on its own terms.
+On a Fendalton character home, pipe covers and outdoor units should be as unobtrusive as possible. Where we can, we run pipework inside walls or under floors, and place outdoor units on side or rear walls rather than the street frontage.
 
-On a character home, pipe covers and outdoor units should be as unobtrusive as possible. Where we can, we run pipework inside walls or under floors, and place outdoor units on side or rear walls rather than the street frontage.
+Where houses have been rebuilt or extended, older and newer wings often perform very differently, and we size each part on its own terms.
 
 ## Heat pump service for larger Fendalton systems
 

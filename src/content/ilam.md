@@ -43,7 +43,7 @@ Heat pumps in shared flats tend to run long hours and get little attention. Clog
 
 ## Heat pump installation in Ilam family homes
 
-Larger Ilam houses often have more than one living area and bedrooms down a long hall. A single unit in the lounge leaves much of the house cold. Options include a [multi-room system](/multi-room-heat-pump-installation/), separate units for the main rooms, or ducting where there's ceiling space. We size from the rooms, insulation and windows, and from how your family uses the house.
+A heat pump installation in a larger Ilam family home has to reach more than one living area, and often bedrooms down a long hall. A single unit in the lounge leaves much of the house cold. Options include a [multi-room system](/multi-room-heat-pump-installation/), separate units for the main rooms, or ducting where there's ceiling space. We size from the rooms, insulation and windows, and from how your family uses the house.
 
 ## What we offer in Ilam
 

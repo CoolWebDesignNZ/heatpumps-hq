@@ -27,14 +27,14 @@ related:
 
 ## Panasonic heat pumps we service and repair
 
-Many Panasonic units were put in by another company or a previous owner, and that's no barrier. We work on:
+We service and repair Panasonic heat pumps whoever put them in, and many were installed by another company or a previous owner. We work on:
 
 - **Wall-mounted split systems**, the standard single-room unit
 - **Floor consoles**
 - **Multi-split systems**, with one outdoor unit serving several rooms
 - **Ducted systems**
 
-It doesn't matter who installed the unit or when. We look at it fresh.
+It doesn't matter when the unit went in. We look at each one fresh.
 
 ## Panasonic heat pump repair
 

@@ -35,7 +35,7 @@ Rural homes here are often bigger than town houses, with more rooms, longer hall
 
 ## Replacing a Tai Tapu log burner with a heat pump
 
-Older country houses were often built around a fire in the lounge, with the rest of the house left cold. Owners who want warmth in every room, without stacking wood, often look at heat pumps. One large unit in the lounge won't do it in a big house with doors between rooms. The usual answers are:
+Tai Tapu owners replacing a log burner with heat pumps usually want warmth in every room, without stacking wood. Older country houses were often built around a fire in the lounge, with the rest of the house left cold. One large unit in the lounge won't do it in a big house with doors between rooms. The usual answers are:
 
 - **A ducted system**, if the roof space allows, with vents in each room and a single controller.
 - **Several wall or floor console units**, sized room by room, on one or more outdoor units.

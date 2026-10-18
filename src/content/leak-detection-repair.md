@@ -29,7 +29,7 @@ related:
 
 ## Heat pump leaking water or refrigerant?
 
-These are two different problems with different fixes.
+Water from a heat pump is condensation or defrost meltwater, while refrigerant is the sealed gas in the pipes, so the two are different problems with different fixes.
 
 - **Water** comes from condensation. When the indoor unit cools or dehumidifies, moisture collects on the cold coil, drips into a tray and runs away through a drain hose. In heating mode the outdoor unit makes water instead, when it defrosts.
 - **Refrigerant** is the gas sealed inside the copper pipes that carries heat between the units. It should never escape. If it does, the unit loses heating power and eventually stops.
@@ -48,11 +48,11 @@ The repair is usually a clear-out and flush of the tray and hose, re-routing or 
 
 ## Heat pump dripping water from the outdoor unit
 
-In heating mode a steady drip or a short burst of water from the outdoor unit after it has been steaming is defrost meltwater. It's what should happen. Where the water ends up is the part to get right: it shouldn't pool against the foundations, run across a path where it will freeze, or drip on a neighbour's side. A drain fitting with a hose to a gully, or raising the unit on feet over gravel, sorts that out.
+Water dripping from the outdoor unit in heating mode is defrost meltwater, and it's what should happen. It shows up as a steady drip, or a short burst after the unit has been steaming. Where the water ends up is the part to get right: it shouldn't pool against the foundations, run across a path where it will freeze, or drip on a neighbour's side. A drain fitting with a hose to a gully, or raising the unit on feet over gravel, sorts that out.
 
 ## Heat pump refrigerant leak
 
-Refrigerant leaks are usually slow. Signs to watch for:
+A heat pump refrigerant leak is usually slow, so the signs build up gradually. Watch for:
 
 - The unit takes longer to heat the room each week.
 - Oily residue around the pipe connections at either unit. Refrigerant carries a little oil with it.
@@ -63,6 +63,8 @@ Refrigerant leaks are usually slow. Signs to watch for:
 Leaks tend to start at joints, especially the flare joints where the pipes connect to the units. Pipes rubbing against a bracket or wall, and corrosion on the outdoor coil, are other causes.
 
 ## How we find and repair a refrigerant leak
+
+We confirm the charge is low, pinpoint where the gas is escaping, repair it and recharge the system:
 
 1. **Pressure and temperature readings** confirm whether the charge is low.
 2. **Electronic leak detection and bubble testing** around the joints, valves and coils pinpoints where it is escaping.

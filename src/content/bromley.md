@@ -31,7 +31,7 @@ Bromley is an older east side suburb where residential streets run beside commer
 
 ## What that means for heat pumps in Bromley
 
-Two things stand out for Bromley homes.
+Dust and close neighbours are the two things that shape a heat pump in Bromley.
 
 **Dust.** Homes near trucks, busy roads and yards collect more fine dust. A heat pump draws room air through its filters all day, so those filters fill faster. Clogged filters cut the heat output, make the fan work harder and can lead to smells. Easy access to the indoor unit for cleaning is worth thinking about when choosing where it goes.
 
@@ -39,17 +39,17 @@ Two things stand out for Bromley homes.
 
 ## Heat pump installation in a mid-century Bromley house
 
-A typical Bromley house has a front lounge, a kitchen and dining area behind it, and bedrooms off a hall. Insulation varies a lot from house to house: some have been fully upgraded, others still have little in the walls. We check the ceiling, underfloor and windows, measure the rooms and size the unit from what's actually there.
+Installing a heat pump in a mid-century Bromley house starts with its layout: usually a front lounge, a kitchen and dining area behind it, and bedrooms off a hall. Insulation varies a lot from house to house: some have been fully upgraded, others still have little in the walls. We check the ceiling, underfloor and windows, measure the rooms and size the unit from what's actually there.
 
 For a warm lounge, one well placed wall unit is often enough. For bedrooms too, look at a second unit or a [multi-room system](/multi-room-heat-pump-installation/).
 
 ## Outdoor units on Bromley sections
 
-The ground is flat, which keeps placement simple. We use a level pad or a wall bracket, lifted for drainage and clear of rubbish bins and fences. Where the outdoor unit is near a driveway or yard with dust, a regular hose down of the coil helps it keep breathing.
+Bromley sections are flat, which keeps outdoor unit placement simple. We use a level pad or a wall bracket, lifted for drainage and clear of rubbish bins and fences. Where the outdoor unit is near a driveway or yard with dust, a regular hose down of the coil helps it keep breathing.
 
 ## Heat pump servicing and repairs in Bromley
 
-A yearly service matters more where dust is heavy. We clean the filters, indoor coil, fan and drain, check the outdoor unit and test the heating output. Brands we work on include Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold locally. See [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
+We service and repair heat pumps across Bromley, and a yearly service matters more here because the dust is heavy. We clean the filters, indoor coil, fan and drain, check the outdoor unit and test the heating output. Brands we work on include Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold locally. See [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
 
 ## Suburbs near Bromley
 

@@ -38,6 +38,8 @@ A running outdoor unit doesn't need covering against ordinary rain or frost. It'
 
 ## The main types of heat pump cover
 
+There are five main types of heat pump cover: louvred cabinets, slatted timber screens, roof shelters, storage covers, and covers for the indoor unit and pipes.
+
 ### Louvred cabinets
 
 A box with louvred sides and front that sits over the outdoor unit, usually made in powder-coated aluminium or steel.
@@ -79,6 +81,8 @@ Decorative panels for the indoor unit, and plastic or metal trunking that hides 
 
 ## Cover materials compared
 
+Heat pump covers are made from four main materials, and each has its own strengths and weak points.
+
 | Material | Strengths | Watch for |
 | --- | --- | --- |
 | Powder-coated aluminium | Light, doesn't rust, low maintenance, suits coastal sites | Thin sheet can dent and rattle |
@@ -90,7 +94,7 @@ Near the coast, use stainless steel fixings whatever the material.
 
 ## Airflow checks for any air conditioner cover
 
-Whatever type you choose, it has to pass these checks:
+Any heat pump or air conditioner cover, whatever its type, has to pass these airflow checks:
 
 1. Nothing solid directly in front of the fan.
 2. The back and sides leave at least the clearance the unit's installation manual asks for.

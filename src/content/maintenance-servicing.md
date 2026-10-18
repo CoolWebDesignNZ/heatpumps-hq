@@ -27,7 +27,7 @@ related:
 
 ## Two sets of heat pump maintenance jobs
 
-A heat pump that's looked after runs quieter, smells cleaner and heats the room for less power. Most of that care is simple. The rest needs someone with the right gear. Here is how the work divides.
+Heat pump maintenance splits into two sets of jobs: simple ones you do yourself, and the rest, which need a technician with the right gear. A heat pump that's looked after runs quieter, smells cleaner and heats the room for less power. Here is how the work divides.
 
 | Job | Who | How often |
 | --- | --- | --- |
@@ -40,6 +40,8 @@ A heat pump that's looked after runs quieter, smells cleaner and heats the room 
 | Check refrigerant side if performance drops | Technician | When there's a sign of trouble |
 
 ## Your jobs between services
+
+Between services, your jobs are the filters, the outdoor unit, the drain outlet and noticing when something changes.
 
 **Filters.** Lift the front panel and slide the mesh filters out. Rinse them under a lukewarm tap from the back, let them dry in the shade, and slide them back in. Never run the unit without them. A clogged filter cuts airflow fast, and it takes five minutes to fix.
 
@@ -55,6 +57,8 @@ A technician service deals with the parts you can't reach: the coil behind the f
 
 ## A Canterbury maintenance year
 
+Each Canterbury season brings its own heat pump jobs.
+
 **Late summer and autumn.** A good time for the yearly service, before the first frosts. If you've used the unit hard for cooling, the coil will have been wet all summer, which is when mould takes hold. A pre-season [tune-up](/heat-pump-seasonal-tune-ups/) fits here too.
 
 **Winter.** The heat pump works hardest now. Wash the filters regularly, keep the outdoor unit's base clear so defrost water can drain, and watch for ice that builds up and stays. Our [winter maintenance](/winterisation-of-heat-pumps/) page covers settings and frost.
@@ -64,6 +68,8 @@ A technician service deals with the parts you can't reach: the coil behind the f
 **Summer.** If you run it for cooling or dry mode, give the filters the same attention as in winter. Check the drain outlet is dripping as it should.
 
 ## Signs it needs a technician now
+
+Call a technician straight away if you notice any of these:
 
 - Water dripping from the indoor unit
 - A musty or burning smell

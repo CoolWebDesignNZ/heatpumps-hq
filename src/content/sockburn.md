@@ -43,11 +43,11 @@ Some Sockburn homes back onto busy roads or commercial sites, and dust settles o
 
 ## Sockburn back sections and shared driveways
 
-Sockburn sections can be narrow, especially where a back section shares a driveway. We pick a spot where the unit has airflow, drains freely and won't be knocked. The Christchurch District Plan measures noise at the neighbouring site, so we also keep it away from next-door bedrooms. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits.
+Narrow Sockburn sections, especially back sections on a shared driveway, leave little room for the outdoor unit. We pick a spot where the unit has airflow, drains freely and won't be knocked. The Christchurch District Plan measures noise at the neighbouring site, so we also keep it away from next-door bedrooms. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits.
 
 ## Repair or replace an older heat pump in Sockburn
 
-A heat pump that has run for many winters can lose output from a worn fan, a blocked drain or a slow refrigerant leak. Before you pay for a new one, we'll find out what has actually failed and whether it's worth fixing. If replacement is the better call, we'll say so and quote it at a fixed price. Our [heat pump repairs](/heat-pump-repair/) page explains the usual faults.
+Whether to repair or replace an older Sockburn heat pump depends on what has actually failed, so we find that out before you pay for a new one. A unit that has run for many winters can lose output from a worn fan, a blocked drain or a slow refrigerant leak, and many of those faults are worth fixing. If replacement is the better call, we'll say so and quote it at a fixed price. Our [heat pump repairs](/heat-pump-repair/) page explains the usual faults.
 
 ## What we do in Sockburn
 

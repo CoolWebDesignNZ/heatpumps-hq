@@ -27,13 +27,13 @@ related:
 
 ## How a heat pump thermostat works
 
-You set a target on the remote. A small temperature sensor, called a thermistor, measures the air being drawn back into the indoor unit. The unit compares the two and speeds up or slows down to close the gap. When the room gets close to the setting, a modern inverter unit drops to a low, steady output instead of switching off and on.
+A heat pump thermostat is a small temperature sensor, called a thermistor, that measures the air being drawn back into the indoor unit and checks it against the target you set on the remote. The unit compares the two and speeds up or slows down to close the gap. When the room gets close to the setting, a modern inverter unit drops to a low, steady output instead of switching off and on.
 
 That means the unit only knows the temperature of the air at its own intake. On a wall-mounted unit that's high on the wall, near the ceiling, which is where the warmest air in the room collects.
 
 ## Why the room feels colder than the setting
 
-The number on the remote and the temperature where you sit can be several degrees apart. Common reasons:
+The room feels colder than the setting because the unit reads the air at its own intake, and the temperature where you sit can be several degrees lower than the number on the remote. Common reasons:
 
 - **Warm air near the ceiling.** In a room with high or raking ceilings, or a stairwell nearby, the air at the unit is warmer than the air at couch height. The unit thinks it has done its job.
 - **Sun or a heat source near the unit.** Afternoon sun on the wall or a TV underneath warms the intake air and fools the sensor.
@@ -42,7 +42,7 @@ The number on the remote and the temperature where you sit can be several degree
 
 ## When your heat pump is not reaching temperature
 
-Sometimes the reading is right and the unit simply can't get there:
+If the reading is right but the room still never warms up, the heat pump is not reaching temperature for one of these reasons:
 
 - **Dirty filters or coils** cut the airflow and the heat output.
 - **The unit is undersized** for the room, or is trying to heat a whole open plan floor it was never sized for. Our [sizing guide](/heat-pump-sizing/) explains how output is matched to a space.
@@ -51,6 +51,8 @@ Sometimes the reading is right and the unit simply can't get there:
 - **A sensor that has failed or drifted.** A faulty thermistor can make the unit stop early, run on too long or show a fault.
 
 ## What our heat pump thermostat and temperature sensor check includes
+
+Our check runs through five steps, from a reading at seated height to whether the unit can heat the space at all:
 
 1. **Measure the room.** We record the temperature at seated height with a calibrated thermometer and compare it with what the unit is reading.
 2. **Test the sensors.** Each thermistor is tested against the resistance values in the manufacturer's service information. One that reads out of range is replaced.
@@ -61,6 +63,8 @@ Sometimes the reading is right and the unit simply can't get there:
 You get a plain answer on which of these is causing the problem and a fixed price for anything that needs fixing.
 
 ## Getting the heat pump thermostat setting right
+
+In winter, the right setting is Heat mode, one steady temperature and the fan on auto:
 
 - Choose **Heat** rather than **Auto** in winter, so the unit doesn't swap to cooling when the room overshoots.
 - Pick a temperature and leave it. Small changes up and down make the unit work harder for no gain.

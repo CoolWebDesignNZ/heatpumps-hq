@@ -38,13 +38,13 @@ A heat pump only uses as much power as the job asks of it. The main factors are:
 
 ## Using the energy label to estimate heat pump running cost
 
-New heat pump models carry the Zoned Energy Rating Label, with a kWh per year figure for heating and cooling in each climate zone. New Zealand is in the Cold zone. EECA says these figures are only an indication, because use varies by household, and suggests adding the heating and cooling kWh for your zone and multiplying by your electricity tariff for a rough yearly cost ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
+To estimate a heat pump's running cost from its energy label, add the heating and cooling kWh per year figures for the Cold zone, which is the zone New Zealand sits in, and multiply by your electricity tariff. That's EECA's suggestion for a rough yearly cost. New models carry these figures on the Zoned Energy Rating Label, and EECA says they are only an indication, because use varies by household ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
 
 That makes the label good for comparing two models, and less good for predicting your bill. More on the label in our [energy rating guide](/energy-star-heat-pumps/).
 
 ## How much power does your heat pump use?
 
-To see what your heat pump actually uses:
+The only way to know how much power your heat pump uses in your house is to measure it. There are three ways to do that:
 
 - **Your power retailer's usage data.** If you have a smart meter, your retailer may show hourly or half-hourly use in their app or online account. Compare a cold week with the heat pump running against a mild week without it.
 - **The heat pump's app.** Some Wi-Fi controllers show an energy reading. It's an estimate from the unit, not a meter, but it's useful for spotting change over time. See [remote monitoring](/remote-monitoring-and-diagnostics/).
