@@ -89,13 +89,13 @@ For a room with a standard ceiling and good wall space up high, read about [high
 
 ## What changes the price of a floor console install
 
-The main factors:
+The console is only part of the price. The rest comes down to the room and what's under it.
 
-- the size of unit the room needs, based on its volume
-- whether the pipes go through the wall or down through the floor
-- how much room there is under the house to run them
-- the distance to the outdoor unit and how it's mounted
-- whether the switchboard or circuit needs work
+- **The size of unit.** A high stud room holds more air, so it needs more heat output, and a bigger unit costs more.
+- **Through the wall or the floor.** A console on an outside wall can pipe straight through. Otherwise the pipes go down through the floor and out under the house.
+- **Room under the house.** A good crawl space makes that pipe run easy. A low or tight one takes longer.
+- **Where the outdoor unit goes.** The further away it is, the more pipe and cover. A bracket or a sloping site adds time.
+- **The switchboard.** If there's no room for a new circuit, the board needs work first.
 
 We look at each of these, and the other [installation cost factors](/heat-pump-installation-cost-christchurch/), when we visit. You get one fixed price before we start.
 

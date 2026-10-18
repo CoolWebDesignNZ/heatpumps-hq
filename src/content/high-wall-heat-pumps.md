@@ -89,13 +89,13 @@ If the room points to a console, read about [floor mounted heat pumps](/floor-mo
 
 ## What changes the price of a wall hung heat pump
 
-The main factors:
+The unit is only part of the price. The rest comes down to your house.
 
-- the size of unit the room needs
-- whether it goes on an outside or inside wall
-- the length of pipe between the indoor and outdoor units
-- how the outdoor unit is mounted, on feet, a pad or a wall bracket
-- whether the switchboard or circuit needs work
+- **The size of unit.** A big or cold room needs more heat output, and a bigger unit costs more.
+- **Outside or inside wall.** On an outside wall the pipes go straight through to the outdoor unit. On an inside wall they have to run through the ceiling or under the floor first.
+- **How far apart the units are.** A longer run means more pipe, insulation and cover on the outside of the house.
+- **How the outdoor unit is mounted.** Feet on flat ground are simplest. A wall bracket, a deck or a steep section takes more time and gear.
+- **The switchboard.** If there's no room for a new circuit, the board needs work first.
 
 We cover these and other [installation cost factors](/heat-pump-installation-cost-christchurch/) at the quote. You get one fixed price before we start.
 
