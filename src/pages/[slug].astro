@@ -52,6 +52,17 @@ const crumbName = (isInstallHub ? 'Installation options' : undefined) ?? fm.subu
   ?? site.nav.find((n) => n.href === path)?.label ?? fm.title;
 const crumbs = [{ label: 'Home', href: '/' }, ...(crumbParent ? [crumbParent] : []), { label: crumbName, href: path }];
 
+// Brand tiles: what we do with each brand and where its pages are.
+const brandPages = {
+  'Mitsubishi Electric': [['Service and repair', '/mitsubishi-heat-pump-service-christchurch/'], ['Ducted systems', '/mitsubishi-ducted-heat-pumps-christchurch/']],
+  'Daikin': [['Service and repair', '/daikin-heat-pump-service-christchurch/'], ['Ducted systems', '/daikin-ducted-heat-pumps-christchurch/']],
+  'Fujitsu': [['Service and repair', '/fujitsu-heat-pump-service-christchurch/']],
+  'Toshiba': [['How the brands compare', '/heat-pump-brands-comparison/'], ['Service and repair', '/heat-pump-repair/']],
+  'Panasonic': [['Service and repair', '/panasonic-heat-pump-service-christchurch/']],
+};
+const brandNotes = { 'Fujitsu': 'Now also sold as General Airstage.' };
+const brandTiles = site.brandsServiced.map((name) => ({ name, installed: site.brandsInstalled.includes(name), note: brandNotes[name], links: brandPages[name] ?? [] }));
+
 const schema = [];
 schema.push({
   '@context': 'https://schema.org', '@type': 'BreadcrumbList',
@@ -117,9 +128,21 @@ if (fm.faqs?.length) {
         <h2>{fm.brandsHeading ?? 'Heat pump brands we fit and service'}</h2>
         <p class="lead">We install four brands and compare their models for your rooms, then suggest the one that fits, not whatever's in stock.</p>
         <div class="brands">
-          {site.brandsServiced.map((b) => <div class="brand"><strong>{b}</strong><span>{site.brandsInstalled.includes(b) ? 'Installed and serviced' : 'Serviced and repaired'}</span></div>)}
+          {brandTiles.map((t) => (
+            <div class="brand">
+              <p class="brand-tag">{t.installed ? 'Install and service' : 'Service and repair'}</p>
+              <h3>{t.name}</h3>
+              {t.note && <p class="brand-note">{t.note}</p>}
+              {t.links.length > 0 && <ul>{t.links.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>}
+            </div>
+          ))}
+          <div class="brand">
+            <p class="brand-tag">Service and repair</p>
+            <h3>Other brands</h3>
+            <p class="brand-note">Most other split and ducted heat pumps sold in New Zealand.</p>
+            <ul><li><a href="/maintenance-servicing/">Heat pump servicing</a></li><li><a href="/heat-pump-repair/">Heat pump repairs</a></li></ul>
+          </div>
         </div>
-        <p>We also service and repair most other split and ducted heat pumps sold in New Zealand. See <a href="/maintenance-servicing/">heat pump servicing</a> and <a href="/heat-pump-repair/">heat pump repairs</a>.</p>
       </div>
     </section>
   )}
@@ -166,8 +189,14 @@ if (fm.faqs?.length) {
   @media (max-width: 860px) { .steps { grid-template-columns: 1fr; } }
   .step-n { font-size: 2.4rem; font-weight: 800; color: var(--brand); line-height: 1; margin: 0 0 .3em; }
   .step p { color: var(--ink-soft); }
-  .brands { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 16px; margin: 24px 0; }
-  .brand { background: var(--paper-warm); border-radius: var(--radius); padding: 22px 20px; }
-  .brand strong { display: block; font-size: 1.15rem; }
-  .brand span { color: var(--ink-soft); font-size: 1rem; }
+  .brands { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 24px 0 0; }
+  @media (max-width: 900px) { .brands { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 560px) { .brands { grid-template-columns: 1fr; } }
+  .brand { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 22px 24px; }
+  .brand h3 { margin: 0 0 4px; font-size: 1.3rem; }
+  .brand-tag { display: inline-block; margin: 0 0 10px; padding: 3px 10px; border-radius: 999px; background: var(--brand-tint); color: var(--brand-ink); font-size: .8rem; font-weight: 700; letter-spacing: .02em; }
+  .brand-note { color: var(--ink-soft); font-size: .95rem; margin: 0 0 8px; }
+  .brand ul { list-style: none; padding: 0; margin: 10px 0 0; }
+  .brand li { display: flex; align-items: center; gap: 10px; padding: 6px 0; border-top: 1px solid #eceff2; font-size: .95rem; }
+  .brand li::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--brand); flex: none; }
 </style>
