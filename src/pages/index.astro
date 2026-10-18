@@ -36,11 +36,11 @@ const services = [
 
 const guides = [
   { img: 'boundary-hero', h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go.' },
-  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'What a kW rating means. How to size a room properly.' },
-  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What makes up the price of a heat pump install.' },
-  { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How the main brands stack up in Christchurch homes.' },
-  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, and how to quieten it.' },
-  { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which one suits your house and your budget.' },
+  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How to work out the kW a room needs, so you don\'t pay for a unit that\'s too big.' },
+  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What makes up the price of an install, so you can compare quotes properly.' },
+  { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How Mitsubishi Electric, Daikin, Fujitsu and Toshiba compare for Christchurch homes.' },
+  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, and the fixes that quieten it.' },
+  { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which suits your house and budget, and what each one needs to fit.' },
 ];
 
 const faqs = [
@@ -85,7 +85,6 @@ const faqs = [
         <h2>Heat pumps sized for your home, not the biggest unit</h2>
         <p>We size every heat pump from your house. We look at the rooms, the insulation and the windows. And we ask how you really live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair, not a new one. Either way, you'll get a straight answer and a fixed price up front.</p>
         <p>That's why Nate Thompson started Heat Pumps HQ in {site.founded}. He'd spent years at a bigger heating company. He saw too many people sold systems bigger and dearer than their homes needed.</p>
-        <p>We fit <strong>{site.brandsInstalled.join(', ')}</strong>. We service and fix those, and Panasonic.</p>
         <p class="more"><a href="/about-us/">More about Heat Pumps HQ</a></p>
       </div>
       <Img id="home-van" class="banner" />
@@ -107,7 +106,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <h2>Heat pump guides for Christchurch homes</h2>
-      <p class="lead">What does a heat pump cost? What size do you need? Which brand suits? Where does the council let it go? Straight answers here.</p>
+      <p class="lead">What a heat pump costs, what size you need, which brand suits your house, and where the council lets the outdoor unit go.</p>
       <div class="grid three">
         {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
       </div>
