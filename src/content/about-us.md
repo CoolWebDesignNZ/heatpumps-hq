@@ -7,6 +7,8 @@ h1: About Heat Pumps HQ
 intro: Nate Thompson's Christchurch heat pump company, running since 2015. We size each system to the house it goes in and agree the price before any work begins.
 hero: about-hero
 gallery: [about-1, about-2]
+faqHeading: Questions about Heat Pumps HQ
+relatedHeading: Next steps with Heat Pumps HQ
 faqs:
   - q: Who owns Heat Pumps HQ?
     a: Nate Thompson, who founded the company in Christchurch in 2015 and still runs it.
@@ -26,7 +28,7 @@ Nate Thompson founded Heat Pumps HQ in Christchurch in 2015. Before that he spen
 
 A unit that is too big costs more to buy and does not make a room any warmer. It tends to switch on and off in short bursts instead of running steadily. Nate set up his own company to quote the system a house actually needs, and he still owns and runs it.
 
-## How we work
+## How we work at Heat Pumps HQ
 
 **Sizing starts with the house.** Before we recommend anything, we look at the rooms you want heated, how well the ceiling, walls and floor are insulated, the size and direction of the windows, and how the house is used through the day. A sunny, well insulated lounge needs a very different unit from a cold back bedroom with single glazing. Our [heat pump sizing guide](/heat-pump-sizing/) explains the method.
 
@@ -34,13 +36,13 @@ A unit that is too big costs more to buy and does not make a room any warmer. It
 
 **The electrical side is done properly.** A licensed electrical worker makes the electrical connection on every install.
 
-## Brands
+## The brands we install and service
 
 We install four brands: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. With four brands to choose from, we compare their models for your rooms and recommend the one that fits, rather than whatever happens to be in stock.
 
 For servicing and repairs we work on those four plus **Panasonic**, and on most other split and ducted heat pumps sold in New Zealand. See [heat pump servicing](/maintenance-servicing/) and [heat pump repairs](/heat-pump-repair/).
 
-## Where we work
+## Where we work in Canterbury
 
 We cover all of Christchurch, the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu, and Lyttelton. The [locations page](/locations/) lists every suburb.
 

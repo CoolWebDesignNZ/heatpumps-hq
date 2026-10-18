@@ -10,6 +10,8 @@ suburb: Avonhead
 intro: A lot of Avonhead is brick and tile homes from the 1960s to the 1980s. We install, service and repair heat pumps that suit those layouts, with a fixed price before work starts.
 hero: avonhead-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
+faqHeading: Questions about heat pumps in Avonhead
+relatedHeading: Heat pumps near Avonhead
 faqs:
   - q: Is ducting possible in an older Avonhead brick house?
     a: Often, if the roof space has enough height for the ducts and an indoor unit. We check the ceiling cavity at the quote. Ducting suits a house with bedrooms down a long hall, because vents can go into every room. See <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split</a>.
@@ -23,13 +25,13 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Heat every room through ceiling vents. }
 ---
 
-## Brick homes from the 1960s to the 1980s
+## Avonhead brick homes from the 1960s to the 1980s
 
 Avonhead grew out towards the airport with streets of single storey brick and tile houses. The usual plan is a lounge and kitchen at one end and three or four bedrooms along a hallway. Ceilings are a standard height, windows were often single glazed when built, and the original ceiling insulation is thin by today's standards unless it has been topped up.
 
 Brick veneer looks solid, but it isn't the brick that keeps heat in. The ceiling and the windows do most of the work, and those are where we look first.
 
-## Getting heat down the hallway
+## Getting heat down an Avonhead hallway
 
 In houses like these, the complaint we hear is a warm lounge and cold bedrooms. A wall unit in the lounge won't push heat around a corner and down a corridor. There are three ways to fix it:
 
@@ -39,11 +41,11 @@ In houses like these, the complaint we hear is a warm lounge and cold bedrooms. 
 
 We'll price the options that suit your house and explain what each one heats.
 
-## When the old heat pump is due for replacement
+## When an old Avonhead heat pump is due for replacement
 
 Some Avonhead homes have a heat pump that has been on the wall for a long time. Newer units are generally quieter and more efficient, and they run on current refrigerants. When we replace one, we check whether the existing pipe run can be reused and whether the old unit was the right size in the first place.
 
-## Frost and wind on the western side
+## Frost and wind on Avonhead's western side
 
 Avonhead is on the western edge of the city, open to frost on still nights and nor'west wind in spring. Outdoor units are best kept off the ground and out of the full force of the wind, so defrost water drains and airflow stays steady. Avonhead is under the Christchurch District Plan; our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers outdoor unit noise.
 
@@ -51,7 +53,7 @@ Avonhead is on the western edge of the city, open to frost on still nights and n
 
 If you've topped up the ceiling insulation or replaced windows since the house was built, the heat pump you need may be smaller than the one a neighbour with an identical house has. Tell us what has been done when you book, or we'll check in the roof space when we come to quote.
 
-## Our Avonhead services
+## Heat pump installation and servicing in Avonhead
 
 - New installs, using Mitsubishi Electric, Daikin, Fujitsu or Toshiba units.
 - [Servicing](/maintenance-servicing/) with filter, coil and drain cleans.

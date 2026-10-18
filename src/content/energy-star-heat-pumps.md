@@ -8,6 +8,8 @@ intro: The stars that matter on a heat pump in New Zealand are on the Zoned Ener
 hero: energystar-hero
 updated: 2026-10-17
 gallery: [energystar-label, energystar-showroom]
+faqHeading: "ENERGY STAR heat pump questions"
+relatedHeading: "More on heat pump efficiency"
 faqs:
   - q: Is ENERGY STAR the same as the star rating on a heat pump?
     a: No. ENERGY STAR is a separate mark that you may still see on older units or overseas websites. The stars that New Zealand regulations require on every new heat pump are on the Zoned Energy Rating Label, which shows separate heating and cooling stars for each climate zone.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump power usage, href: /energy-consumption-monitoring/, text: Turning the label's kWh into a real running estimate. }
 ---
 
-## ENERGY STAR and the New Zealand label
+## ENERGY STAR heat pumps and the New Zealand label
 
 Someone looking for an energy star heat pump may mean one of two things: the blue ENERGY STAR mark, or the star rating printed on the energy label. They're different.
 
@@ -31,7 +33,7 @@ In New Zealand, heat pumps are covered by Minimum Energy Performance Standards a
 
 Source for this page: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
 
-## How to read the Zoned Energy Rating Label
+## How to read a heat pump's Zoned Energy Rating Label
 
 ### The map and the zones
 
@@ -55,7 +57,7 @@ Near the top of the label are three capacity numbers: cooling at 35°C outside, 
 
 A house icon at the bottom can show indoor and outdoor sound levels, though showing noise is optional in New Zealand. Our [heat pump noise guide](/heat-pump-noise-problems-solutions/) explains how those figures are measured and how to use them.
 
-## What the stars don't tell you
+## What the energy star rating doesn't tell you
 
 A star rating is a fair comparison between similar sized units under test conditions. It doesn't account for:
 
@@ -70,7 +72,7 @@ That's why we use the label as one input, alongside a proper sizing of your room
 
 You may see heat pumps with the older Energy Rating Label, especially on existing installs or second-hand units. EECA says the stars on that label measured something different and can't be converted to the new ones. If you're comparing an old heat pump with a new one, compare their actual capacity and age, not their stars.
 
-## Comparing models with us
+## Comparing models for the most efficient heat pump
 
 When we quote, we size the heat pump for your rooms, then show you the Cold zone heating stars, the kWh figures and the 2°C heating capacity for each model we suggest. Our installs cover Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
 

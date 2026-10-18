@@ -8,6 +8,8 @@ intro: These are the four brands we install. Each has a full New Zealand range a
 hero: brandcomp-hero
 updated: 2026-10-17
 gallery: [brandcomp-units, brandcomp-outdoor]
+faqHeading: "Heat pump brand comparison questions"
+relatedHeading: "More on heat pump brands"
 faqs:
   - q: Mitsubishi vs Daikin, which is better?
     a: Both sell full ranges of wall, floor, ceiling, multi-room and ducted heat pumps in New Zealand. Neither is better across the board. The useful comparison is between two specific models of the same size, on their heating output at 2°C, star rating and noise figures, and on what suits the room.
@@ -23,13 +25,13 @@ related:
   - { label: Daikin heat pump service, href: /daikin-heat-pump-service-christchurch/, text: Servicing and repairs for Daikin units. }
 ---
 
-## How to read this comparison
+## How to read this heat pump brands comparison
 
 Brand reputation tells you less than the model. Each brand sells more than one range, and the gap between two models from one brand can be bigger than the gap between brands. So this page sticks to facts each brand publishes on its own New Zealand website, checked in October 2026. For judging individual models, see [best heat pumps NZ](/best-heat-pump-brands-christchurch/).
 
 We install all four, so we have no reason to push one over another. The right choice is the model that fits the room, the outdoor unit position and your budget.
 
-## Mitsubishi Electric
+## Mitsubishi Electric heat pumps compared
 
 **Who sells it here:** Mitsubishi Electric New Zealand. Its [NZ site](https://www.mitsubishi-electric.co.nz/heatpump/) lists the residential heat pump types it sells: high wall, floor console, ceiling cassette, ceiling suspended, ceiling concealed, central ducted and multi room systems.
 
@@ -41,7 +43,7 @@ We install all four, so we have no reason to push one over another. The right ch
 
 We also service and repair Mitsubishi Electric units. See [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) and [Mitsubishi ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
 
-## Daikin
+## Daikin heat pumps compared
 
 **Who sells it here:** Daikin New Zealand. Its site says Daikin is sold through a specialist dealer network, and that appointed dealers are independently owned and operated businesses.
 
@@ -49,7 +51,7 @@ We also service and repair Mitsubishi Electric units. See [Mitsubishi heat pump 
 
 We also service and repair Daikin. See [Daikin heat pump service](/daikin-heat-pump-service-christchurch/) and [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/).
 
-## Fujitsu (now GENERAL New Zealand)
+## Fujitsu heat pumps (now GENERAL New Zealand)
 
 **Who sells it here:** this has changed. According to the company's [announcement](https://www.generalairstage.co.nz/about-us/company-information/our-business-name-has-changed), Fujitsu General Limited was acquired by Paloma Rheem Holdings in August 2025, and the New Zealand business changed its trading name from Fujitsu General New Zealand to **GENERAL New Zealand** from 1 January 2026. It says it will keep marketing products under both the Fujitsu and General Airstage brands while it moves away from the Fujitsu name over time.
 
@@ -57,13 +59,13 @@ We also service and repair Daikin. See [Daikin heat pump service](/daikin-heat-p
 
 If you already have a Fujitsu unit, nothing about it changes. We still service and repair them. See [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/).
 
-## Toshiba
+## Toshiba heat pumps compared
 
 **Who sells it here:** Toshiba heat pumps are distributed in New Zealand by AHI Carrier, which its [website](https://ahi-carrier.co.nz/) describes as the authorised distributor of Carrier and Toshiba HVAC products in New Zealand.
 
 **What it lists:** split system high wall units, floor consoles, multi split systems and ducted systems, with Wi-Fi control. Its floor console page describes dual air discharge and R32 refrigerant, and its ducted page lists slimline ceiling concealed models and zoning.
 
-## The four side by side
+## Mitsubishi vs Daikin vs Fujitsu vs Toshiba, side by side
 
 | | Mitsubishi Electric | Daikin | Fujitsu | Toshiba |
 | --- | --- | --- | --- | --- |
@@ -88,10 +90,10 @@ When we compare units for a house, these are the things we look at, whichever br
 - **Coastal protection** for homes near the sea.
 - **Parts and service** in Christchurch for the years after the install.
 
-## Panasonic and other brands
+## Panasonic and other heat pump brands
 
 We don't install Panasonic, but we service and repair Panasonic units and most other heat pumps sold in New Zealand. See [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/).
 
-## Ask us to compare models for your house
+## Ask us to compare heat pump brands and models for your house
 
 Tell us the rooms you want heated and we'll recommend specific models from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized to your house, with a free fixed-price quote. Ring **03 242 1023** or [ask for a quote online](/contact-us/).

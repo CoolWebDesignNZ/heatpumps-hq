@@ -7,6 +7,8 @@ h1: Single or multi room heat pump, which install suits your home
 intro: The right setup depends on how many rooms you want warm, how the house is laid out and where the units can go. Start here, then read the page that fits.
 hero: installs-hero
 gallery: [installs-living, installs-hallway]
+faqHeading: "Questions about heating multiple rooms with a heat pump"
+relatedHeading: "More on single or multi room heat pump installs"
 faqs:
   - q: How do I know if I need more than one heat pump?
     a: If the rooms you want heated are separated by walls, doors or a hallway, one wall unit will not reach them all. Open plan spaces can often be heated by a single unit. We look at the layout before recommending anything.
@@ -20,7 +22,7 @@ related:
   - { label: Installation cost, href: /heat-pump-installation-cost-christchurch/, text: What drives the price of each type of install. }
 ---
 
-## Start with the rooms
+## Choosing a single or multi room heat pump starts with the rooms
 
 Before choosing a system, list the rooms you want warm and when you use them. A lounge heated in the evenings, bedrooms heated overnight and a home office used during the day can point to three different answers. Whatever you choose, we size each unit from the room it serves.
 
@@ -32,7 +34,7 @@ Every install, whatever its size, follows the same steps: a home visit, sizing, 
 
 A [single room heat pump](/single-room-heat-pump-installation/) is one indoor unit and one outdoor unit, sized for a lounge, an open plan living area, a bedroom or a studio. It is the simplest setup and suits spaces that are open to each other.
 
-## Several rooms
+## A heat pump for multiple rooms
 
 A [multi room heat pump](/multi-room-heat-pump-installation/) runs two or more indoor units from one outdoor unit, each with its own controller. It suits houses with limited outside wall space, and the page sets out the trade-offs against separate single systems.
 
@@ -50,7 +52,7 @@ If you're comparing brands for ducting, see [Daikin ducted heat pumps](/daikin-d
 
 The same systems cool in summer. [Air conditioning installation](/air-conditioning-installation-christchurch/) covers sizing and placement for rooms that overheat, such as upstairs bedrooms and living areas with big west facing windows.
 
-## A quick comparison
+## Single room vs multi room heat pump comparison
 
 | Setup | Indoor units | Outdoor units | Suits |
 | --- | --- | --- | --- |
@@ -59,6 +61,6 @@ The same systems cool in summer. [Air conditioning installation](/air-conditioni
 | Multi split | One per room | One | Several rooms, little outside wall space |
 | Ducted | One, hidden | One | Every room, with ceiling or underfloor space |
 
-## Not sure which fits?
+## Not sure if you need a single or multi room heat pump?
 
 We'll look at the house and tell you which option suits it, with a fixed price. Call **03 242 1023** to book a visit, or request a free quote with the form.

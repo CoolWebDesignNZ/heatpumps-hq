@@ -10,6 +10,8 @@ suburb: Spreydon
 intro: Spreydon's flat streets hold mid-century bungalows, brick homes and blocks of units. We install new heat pumps, replace tired ones and repair the ones worth keeping.
 hero: spreydon-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
+faqHeading: "Questions about heat pumps in Spreydon"
+relatedHeading: "Heat pumps near Spreydon"
 faqs:
   - q: Should I replace my heat pump with the same size?
     a: Not automatically. If you've added insulation, changed windows or knocked out a wall since it went in, the room now needs a different capacity. We size the new unit from the house as it is today.
@@ -23,13 +25,13 @@ related:
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: Fault finding and repairs on all the major brands. }
 ---
 
-## Spreydon homes
+## Heat pump installation in Spreydon homes
 
 Spreydon is a flat, established suburb south-west of the city centre, running toward the foot of the Port Hills. Its housing is largely established family homes: weatherboard and brick bungalows, former state houses, and blocks of units, with townhouses on some redeveloped sections.
 
 If your home already has a heat pump, the real decision may be what to do with the existing unit rather than whether to get one.
 
-## Signs it's time to replace
+## Signs your Spreydon heat pump needs replacing
 
 A heat pump that's reached the end of its life tends to show it:
 
@@ -40,7 +42,7 @@ A heat pump that's reached the end of its life tends to show it:
 
 If you're not sure, start with a [service](/maintenance-servicing/). Clogged filters and dirty coils make plenty of sound units seem worn out.
 
-## Getting the replacement right
+## What we check before quoting a replacement
 
 Replacing a heat pump is a chance to fix what wasn't right first time. Before quoting, we look at:
 
@@ -49,11 +51,11 @@ Replacing a heat pump is a chance to fix what wasn't right first time. Before qu
 - **The outdoor position.** Units from years ago were sometimes put in a corner or right under a neighbour's bedroom. Moving it can make it quieter and more efficient.
 - **Whether you need more than one room heated.** If the bedrooms are always cold, a [multi-room system](/multi-room-heat-pump-installation/) may be a better replacement than a like-for-like swap.
 
-## Homes without a heat pump yet
+## Spreydon homes without a heat pump yet
 
 For homes without a heat pump, the approach is the same as anywhere: measure the rooms, check insulation and windows, and choose the unit and position from that. A floor console can suit a bungalow lounge with a low window across most of one wall. If the house is on piles, the pipes can often run underfloor and come up behind the unit, so little shows inside or out.
 
-## What we do in Spreydon
+## Heat pump installs, service and repairs in Spreydon
 
 New installs of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, replacements of older units, plus servicing and [repairs](/heat-pump-repair/) on those brands and Panasonic.
 

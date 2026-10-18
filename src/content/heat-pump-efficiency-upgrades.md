@@ -8,6 +8,8 @@ serviceName: Heat pump replacement and upgrades
 intro: An old heat pump that can't keep up, breaks down every winter or runs up the power bill may be due for replacement. Sometimes a smaller change fixes it. We'll tell you which, with a fixed price for each option.
 hero: upgrade-hero
 gallery: [upgrade-old-unit, upgrade-new-unit]
+faqHeading: "Heat pump replacement questions"
+relatedHeading: "More on heat pump upgrades"
 faqs:
   - q: When should I replace an old heat pump?
     a: When the compressor has failed, when repairs have become a yearly cost, when it uses an old refrigerant that's hard to get, or when it simply can't heat the room on cold mornings. If none of those apply, a service or repair is usually the better spend.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: Planning and fitting a new heat pump from scratch. }
 ---
 
-## Is it time to replace your heat pump?
+## Is it time for a heat pump replacement?
 
 A heat pump that's been running for many years doesn't automatically need replacing. These are the signs that it might:
 
@@ -35,7 +37,7 @@ A heat pump that's been running for many years doesn't automatically need replac
 
 If only one of these applies, a repair or service may be enough. Our [repairs page](/heat-pump-repair/) covers how we decide between repair and replacement.
 
-## Upgrades short of replacement
+## Heat pump upgrades short of replacement
 
 Not every efficiency problem needs a new heat pump. Before we quote for a replacement, we look at whether one of these would fix it:
 
@@ -44,7 +46,7 @@ Not every efficiency problem needs a new heat pump. Before we quote for a replac
 - **Better controls.** A [Wi-Fi controller](/smart-heat-pump-systems/) lets you run timers and schedules properly instead of leaving the unit on all day or switching it on high when the house is cold.
 - **Adding a unit.** If one heat pump is trying to heat a whole open plan house, a second smaller unit in the far end may suit better than one bigger replacement. See [multi-room installation](/multi-room-heat-pump-installation/).
 
-## What a replacement involves
+## How we replace an old heat pump
 
 1. **We look at the old system and the house.** The rooms, the insulation, the windows and how you use the space. The old unit's size is a starting point, not the answer, because the house or how you use it may have changed since it went in.
 2. **You get options with a fixed price.** Usually a like-for-like position and, where it helps, a better one. For each model we show you the Cold zone heating stars and heating capacity at 2°C from the energy label, so you can compare running efficiency.
@@ -53,14 +55,14 @@ Not every efficiency problem needs a new heat pump. Before we quote for a replac
 5. **The electrical connection is done by a licensed electrical worker.** WorkSafe says electricians must issue a Certificate of Compliance for fixed wiring work, and you should keep it with your house records ([WorkSafe, getting electrical work done](https://www.worksafe.govt.nz/managing-health-and-safety/consumers/safe-living-with-electricity/getting-electrical-work-done)).
 6. **We commission and test it** in heating and cooling, then show you how to use the controls.
 
-## Comparing old and new efficiency
+## Comparing old and new heat pump efficiency
 
 The energy label changed in 2021. EECA says the stars on the old Energy Rating Label measured something different and can't be compared with the stars on the current Zoned Energy Rating Label ([EECA guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). So we don't promise a percentage saving. What we can tell you is how the new unit's rated output compares with what your room needs, and how it rates against other models of the same size. For more on the label, see our [energy rating guide](/energy-star-heat-pumps/).
 
-## Brands
+## Brands we install and replace
 
 We install **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**, and replace old units of any brand, including Panasonic and most other brands sold in New Zealand.
 
-## Get a replacement quote
+## Get a heat pump replacement quote
 
 We replace heat pumps across Christchurch, Selwyn and Lyttelton. Call **03 242 1023** or [request a free fixed-price quote](/contact-us/), and tell us the brand and rough age of your current heat pump.

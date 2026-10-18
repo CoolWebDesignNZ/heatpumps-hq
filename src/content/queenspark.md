@@ -10,6 +10,8 @@ suburb: Queenspark
 intro: We install, service and repair heat pumps across Queenspark, a suburb of family homes on quiet, flat streets. The price is agreed before we begin.
 hero: queenspark-hero
 gallery: [pool-console-unit, pool-newbuild-living]
+faqHeading: "Questions about heat pumps in Queenspark"
+relatedHeading: "Heat pumps near Queenspark"
 faqs:
   - q: Is a floor console heat pump a good option in Queenspark?
     a: It suits rooms with low windows, little wall space above head height or a long wall of glass. A console sits low and pushes warm air across the floor, which some people find more comfortable.
@@ -23,13 +25,13 @@ related:
   - { label: Choosing a heat pump, href: /choosing-heat-pump/, text: How to pick the right type and size. }
 ---
 
-## Family homes in Queenspark
+## Heat pump installation in Queenspark family homes
 
 Queenspark is a residential suburb on the north-east side of Christchurch, close to Parklands and Burwood. It's mainly single-storey family homes with garages and gardens, many in brick or weatherboard, built from the 1970s on. Some have been extended, and many have had their windows or insulation upgraded.
 
 Those changes matter. A house that has gained double glazing and wall insulation since it was built may need a smaller heat pump than its age suggests. We base the size on how the house is now, not how it was built.
 
-## Wall, floor or ceiling units in Queenspark
+## Wall, floor or ceiling heat pumps in Queenspark
 
 Most Queenspark living rooms suit a high wall unit, mounted where the airflow can reach across the room without blowing straight at the couch. But it isn't the only choice:
 
@@ -39,19 +41,19 @@ Most Queenspark living rooms suit a high wall unit, mounted where the airflow ca
 
 Our [choosing a heat pump](/choosing-heat-pump/) guide goes through the trade-offs in more detail.
 
-## Open plan living and extensions
+## Open plan living and extensions in Queenspark
 
 Where a lounge has been opened up to the kitchen or extended into a family room, the heated space is bigger than it looks from the original plan. One unit can cover it if it's sized for the whole area and placed centrally. If the extension is at an angle to the original room, two smaller units may heat it more evenly.
 
-## The outdoor unit
+## The outdoor unit on a Queenspark section
 
 On Queenspark's flat sections the outdoor unit usually sits on a pad or bracket on a side wall. We keep it out of corners, raise it for defrost drainage, and place it away from the neighbour's windows. Easterly winds carry some salt this far, so give the coil a light rinse from time to time.
 
-## Servicing and repairs
+## Heat pump repair and servicing in Queenspark
 
 If your heat pump is blowing cold, cycling on and off or leaking water indoors, we'll find the fault. We handle Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, along with most other brands you'll find in Queenspark homes. More on [repairs](/heat-pump-repair/).
 
-## Nearby
+## Suburbs near Queenspark
 
 We also cover [Parklands](/parklands/), [Burwood](/burwood/) and [North New Brighton](/north-new-brighton/).
 

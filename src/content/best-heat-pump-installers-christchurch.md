@@ -8,6 +8,8 @@ intro: The installer decides how well a heat pump works as much as the brand doe
 hero: installers-hero
 updated: 2026-10-17
 gallery: [installers-licence, installers-commission]
+faqHeading: Questions about choosing a heat pump installer
+relatedHeading: More on getting a heat pump installed
 faqs:
   - q: How do I check a heat pump installer's electrical licence?
     a: Ask to see the licence ID of the person doing the electrical work, physical or digital, then search their name or registration number on the Electrical Workers Public Register run by the EWRB. Check the licence hasn't expired and the photo matches.
@@ -23,7 +25,7 @@ related:
   - { label: Compliance and building codes, href: /compliance-building-codes/, text: Consent and electrical and building rules for installs. }
 ---
 
-## What separates a careful installer
+## What separates the best heat pump installers
 
 A well made heat pump can still leave a room cold, defrost constantly, annoy the neighbours or drip down the wall if it's the wrong size or put in the wrong place. EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) says many problems with poorly performing heat pumps are due to poor location of the units.
 
@@ -45,7 +47,7 @@ Installing a split system means connecting refrigerant pipework, pressure testin
 
 Ask: who handles the refrigerant, and what certificate do they hold? If an old unit is being removed, ask how its refrigerant will be recovered.
 
-## 4. The unit is sized on site
+## 4. The installer sizes the heat pump on site
 
 A heat pump should be sized from the room's heat loss at the local design temperature, which EECA's guide lists as minus 4°C for Christchurch and Selwyn. That needs someone to look at the room: its size and ceiling height, the windows and which way they face, the insulation, and how you use the space.
 
@@ -69,7 +71,7 @@ A good quote lists:
 
 If a detail isn't on the quote, ask before you accept. Our [installation cost guide](/heat-pump-installation-cost-christchurch/) explains why each item moves the price.
 
-## 7. The system is commissioned and explained
+## 7. The installer commissions and explains the heat pump
 
 Before the installer leaves, EECA's guide expects the system to be leak tested, evacuated, charged correctly for the pipe length, and test run. The installer should also:
 
@@ -80,11 +82,11 @@ Before the installer leaves, EECA's guide expects the system to be leak tested, 
 
 You should be handed the electrical Certificate of Compliance, a record of the commissioning data, the operating manual, the warranty and a contact for after-sales support.
 
-## 8. The installer will look after it afterwards
+## 8. The heat pump installer will look after it afterwards
 
 Ask who services and repairs the unit once it's in, and whether they work on that brand. A yearly service keeps a heat pump running efficiently. Find out who you call if something goes wrong in the first winter.
 
-## Questions to ask any installer
+## Questions to ask any heat pump installer
 
 1. Who does the electrical connection, and can I see their licence?
 2. Who handles the refrigerant, and what certificate do they hold?
@@ -94,7 +96,7 @@ Ask who services and repairs the unit once it's in, and whether they work on tha
 6. What paperwork will I get when the job is finished?
 7. Who services it, and who do I call if there's a problem?
 
-## How we do it
+## How we work as heat pump installers in Christchurch
 
 We cover Christchurch, Selwyn and Lyttelton, Monday to Friday 8am to 5pm. We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service and repair those and Panasonic, plus most other brands sold in New Zealand.
 

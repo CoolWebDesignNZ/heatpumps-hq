@@ -8,6 +8,8 @@ intro: The right heat pump is the one that suits the room, the house and how you
 hero: choose-hero
 updated: 2026-10-17
 gallery: [choose-label, choose-measure]
+faqHeading: "Questions about buying a heat pump"
+relatedHeading: "More help with buying a heat pump"
 faqs:
   - q: What heat pump do I need for my lounge?
     a: That depends on the room's size, its insulation and glazing, how much window it has and how cold it gets outside. In Christchurch the unit should be chosen for its output on a frosty morning, not its headline rating. Our <a href="/heat-pump-sizing/">heat pump size guide</a> explains how that's worked out.
@@ -39,7 +41,7 @@ A heat pump replaces the heat a room loses. The less it loses, the smaller and c
 
 If an insulation upgrade is planned for next year, say so when you get a quote. It can change the size of unit that makes sense.
 
-## Step 3: Pick the type
+## Step 3: Pick which heat pump type suits the house
 
 There are three ways to set a house up:
 
@@ -49,7 +51,7 @@ There are three ways to set a house up:
 
 Then pick the indoor unit style: high wall, floor console or ceiling unit. EECA's checklist notes that a floor unit can suit an older person who wants direct warmth at floor level and easy filter access, while a high wall unit gives more freedom to arrange furniture. Our [types of heat pumps](/types-of-heat-pumps/) guide compares each one, and [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) covers the bigger decision.
 
-## Step 4: Get the size right
+## Step 4: What size heat pump do I need?
 
 Size is the step to get right. In a Christchurch winter a heat pump delivers less than its rated output, so the unit has to be picked for the room's heat loss at a cold outdoor temperature. Too small and it runs flat out, defrosts often and leaves the room cool. Too big and it short-cycles, blows draughts and costs more to buy.
 
@@ -83,7 +85,7 @@ Before you settle on a model, think about:
 
 A well chosen unit can still perform badly if it's put in the wrong place, the pipework is poor or the electrical work is skipped. EECA's guide says many problems with poorly performing heat pumps come down to where the units were located. Our [installer checklist](/best-heat-pump-installers-christchurch/) lists what to ask.
 
-## A quick buying checklist
+## A quick checklist for buying a heat pump
 
 - The room, its size and what it's used for
 - Insulation and glazing, and any upgrades planned
@@ -94,6 +96,6 @@ A well chosen unit can still perform badly if it's put in the wrong place, the p
 - Outdoor unit location and noise figure
 - A written quote with the model number and both unit positions
 
-## Get advice on your house
+## Get advice on how to choose a heat pump for your house
 
 We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, so we can recommend from four brands rather than one. We look at your rooms, insulation, windows and how you use the house, then give you a free quote with a fixed price before anything starts. To book a visit, call **03 242 1023** or [send us your details](/contact-us/).

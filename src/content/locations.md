@@ -7,6 +7,8 @@ h1: Heat pumps near me in Christchurch, Selwyn and Lyttelton
 intro: We install, service and repair heat pumps across Christchurch, the Selwyn towns closest to the city, and Lyttelton. Find your suburb below.
 hero: locations-hero
 gallery: [locations-1, locations-2]
+faqHeading: Questions about heat pumps near me
+relatedHeading: Heat pump services across Canterbury
 faqs:
   - q: Do you come to my suburb?
     a: If it's listed on this page, yes. We cover every suburb of Christchurch, the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu, and Lyttelton. If you're just outside these areas, call and ask.
@@ -22,7 +24,7 @@ related:
 
 Each suburb page covers the local housing, what that means for choosing and placing a heat pump, and the services we offer there. Every area gets the same thing: installation from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, servicing and repairs on all major brands, and a fixed price agreed before work starts.
 
-## Central City and inner suburbs
+## Heat pumps in the Central City and inner suburbs
 
 The Central City and the older inner suburbs around it, with a mix of villas, cottages, townhouses and apartments.
 
@@ -113,7 +115,7 @@ Riccarton, Ilam and the western suburbs out to Hornby, Templeton and Yaldhurst.
 - [Wigram](/wigram/)
 - [Yaldhurst](/yaldhurst/)
 
-## Selwyn
+## Heat pumps in Selwyn
 
 Towns in Selwyn District, where the Selwyn District Plan applies instead of Christchurch's.
 
@@ -122,6 +124,6 @@ Towns in Selwyn District, where the Selwyn District Plan applies instead of Chri
 - [Rolleston](/rolleston/)
 - [Tai Tapu](/tai-tapu/)
 
-## Not on the list?
+## Heat pumps for suburbs not on this list
 
 If your street is near one of these areas and you're not sure we cover it, call **03 242 1023** and ask, or request a free quote with the form at the top of this page.

@@ -8,6 +8,8 @@ intro: Plenty of heat pump problems come down to a setting, a dirty filter or so
 hero: diyguide-hero
 updated: 2026-10-17
 gallery: [diyguide-remote, diyguide-outdoor]
+faqHeading: "Heat pump not heating and other questions"
+relatedHeading: "More heat pump troubleshooting guides"
 faqs:
   - q: Why is my heat pump not heating?
     a: Check it's in heat mode with the set temperature above the room temperature, clean the filters, and make sure the outdoor unit isn't blocked or iced solid. On a frosty morning it may be in a defrost cycle for a few minutes. If it still blows cool air after that, it needs a technician.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: What each noise means and how to quieten it. }
 ---
 
-## Start here: four checks for any problem
+## Four checks for any heat pump problem
 
 Whatever the symptom, try these first:
 
@@ -34,7 +36,7 @@ Whatever the symptom, try these first:
 
 **Stay safe:** don't remove panels or covers on either unit, don't poke anything into the fans, and don't hose the outdoor unit while it's running.
 
-## Symptom by symptom
+## Common heat pump problems, symptom by symptom
 
 ### Not heating, or blowing cool air
 
@@ -91,7 +93,7 @@ Short bursts of running and stopping can come from a set temperature close to th
 
 Check the timer, the mode and the set temperature, then clean the filters. If nothing obvious has changed, our [power usage page](/energy-consumption-monitoring/) lists what else can drive usage up.
 
-## When to call a technician
+## When to stop troubleshooting and call a technician
 
 Turn the heat pump off at the isolating switch and book a visit if you have:
 

@@ -8,6 +8,8 @@ intro: Every heat pump makes some noise. Hums, hisses and the odd click are norm
 hero: noise-hero
 updated: 2026-10-17
 gallery: [noise-feet, noise-fan]
+faqHeading: Questions about a heat pump making noise
+relatedHeading: More on noise limits and repairs
 faqs:
   - q: Why is my heat pump rattling?
     a: Usually a loose panel or screw, a fan guard that has worked loose, debris such as a twig inside the outdoor unit, or a unit that has shifted on its feet or bracket. Turn it off at the isolating switch and look for anything caught in the fan. If nothing is obvious, it needs a technician.
@@ -36,7 +38,7 @@ Before chasing a problem, it helps to know what a healthy heat pump sounds like:
 
 If the noise is one of these and not unusually loud, the unit is doing its job.
 
-## Noises that point to a problem
+## Heat pump noises that point to a problem
 
 | Noise | Likely causes |
 | --- | --- |
@@ -50,7 +52,7 @@ If the noise is one of these and not unusually loud, the unit is doing its job.
 
 Buzzing with a burning smell, or any noise with smoke, means turn it off at the isolating switch and call. Don't keep running it.
 
-## Fixing a noisy outdoor unit
+## Fixing a noisy heat pump outdoor unit
 
 Noise from the outdoor unit is the kind neighbours notice, so it's worth fixing first. The usual fixes:
 
@@ -72,13 +74,13 @@ A screen can hide the unit and soften some sound, but it needs open space around
 - **Fix the drain.** Bubbling and gurgling from the indoor unit often mean the condensate drain is blocked or has no fall.
 - **Check the mounting.** An indoor unit that isn't firmly fixed to its back plate can buzz against the wall.
 
-## What the energy label says about noise
+## What the energy label says about heat pump noise
 
 The Zoned Energy Rating Label can show indoor and outdoor sound levels. EECA notes that showing noise is optional in New Zealand, so some labels have it and some don't. The figures are measured at full capacity on cooling, so for much of the time a unit runs quieter than its label figure. For comparison, EECA puts a quiet home at about 30 dBA and a typical conversation at about 60 dBA ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
 
 If you're buying a new heat pump for a spot near a bedroom or a neighbour, compare the outdoor sound figure between models.
 
-## Noise and the neighbours
+## Noise and the neighbours in Christchurch
 
 In Christchurch, there is no fixed distance a heat pump has to be from the boundary. What counts is the noise level at the neighbour's property, and the night-time limit is the one to watch. We've set out the limits and the complaint process in our [boundary rules and consent guide](/heat-pump-boundary-rules-consent-nz/) rather than repeat them here.
 

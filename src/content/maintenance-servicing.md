@@ -8,6 +8,8 @@ serviceName: Heat pump maintenance and servicing
 intro: Good heat pump maintenance is split between you and a technician. You keep the filters and the outdoor unit clear; we do the parts that need tools, cleaning chemicals and test gear.
 hero: maint-hero
 gallery: [maint-filter-sink, maint-outdoor-clear]
+faqHeading: Heat pump maintenance questions
+relatedHeading: More on heat pump servicing
 faqs:
   - q: How often does a heat pump need maintenance?
     a: Owner jobs such as washing the filters happen every few weeks while the unit is working hard. A technician service is normally yearly, and more often for a unit that runs most of the day or lives with pets, dust or salt air.
@@ -23,7 +25,7 @@ related:
   - { label: Service plans, href: /customised-heat-pump-service-plans/, text: A schedule set around your systems. }
 ---
 
-## Two sets of jobs
+## Two sets of heat pump maintenance jobs
 
 A heat pump that's looked after runs quieter, smells cleaner and heats the room for less power. Most of that care is simple. The rest needs someone with the right gear. Here is how the work divides.
 
@@ -37,7 +39,7 @@ A heat pump that's looked after runs quieter, smells cleaner and heats the room 
 | Check wiring and test performance | Technician | At each service |
 | Check refrigerant side if performance drops | Technician | When there's a sign of trouble |
 
-## Your jobs
+## Your jobs between services
 
 **Filters.** Lift the front panel and slide the mesh filters out. Rinse them under a lukewarm tap from the back, let them dry in the shade, and slide them back in. Never run the unit without them. A clogged filter cuts airflow fast, and it takes five minutes to fix.
 
@@ -47,7 +49,7 @@ A heat pump that's looked after runs quieter, smells cleaner and heats the room 
 
 **Notice changes.** New noises, a smell when it starts, weaker airflow or ice that won't clear are all worth a call before they become a repair.
 
-## Our jobs
+## What our heat pump servicing covers
 
 A technician service deals with the parts you can't reach: the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. We then run the system and measure how well it's heating and cooling. The full step-by-step list is on our [heat pump servicing](/heat-pump-servicing/) page.
 
@@ -72,7 +74,7 @@ A technician service deals with the parts you can't reach: the coil behind the f
 
 Some of these are a clean, and some are a [repair](/heat-pump-repair/). We'll tell you which once we've looked.
 
-## Systems we maintain
+## Systems and brands we maintain
 
 We maintain wall-mounted, floor console, multi-room and ducted systems from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands sold in New Zealand. If you have more than one unit, or a rental to keep on top of, a [service plan](/customised-heat-pump-service-plans/) keeps every unit on a schedule.
 

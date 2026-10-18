@@ -7,6 +7,8 @@ h1: Contact Heat Pumps HQ
 intro: Call us, email us or send the quote form on this page. We work Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton.
 hero: contact-hero
 gallery: [contact-1, contact-2]
+faqHeading: Questions before you call Heat Pumps HQ
+relatedHeading: Read before you get in touch
 faqs:
   - q: Is a quote free?
     a: Yes. Installation quotes are free, and the price is fixed before any work starts.
@@ -20,7 +22,7 @@ related:
   - { label: About us, href: /about-us/, text: Who we are and how we size and price every job. }
 ---
 
-## How to reach us
+## How to contact Heat Pumps HQ
 
 - **Phone:** [03 242 1023](tel:032421023)
 - **Email:** [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz)
@@ -33,7 +35,7 @@ For a quote, the form at the top of this page asks for your name, phone number, 
 
 We work across all of Christchurch, in Selwyn (Rolleston, Lincoln, Prebbleton and Tai Tapu) and in Lyttelton. If you're not sure whether your street is in our area, check the [locations page](/locations/) or ask when you call.
 
-## What to have ready
+## What to have ready for a heat pump quote
 
 A few details on the first call let us give you a useful answer straight away.
 

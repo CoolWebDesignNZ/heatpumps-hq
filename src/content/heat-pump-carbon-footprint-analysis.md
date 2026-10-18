@@ -8,6 +8,8 @@ intro: A heat pump's emissions come from the electricity it uses, the refrigeran
 hero: carbon-hero
 updated: 2026-10-17
 gallery: [carbon-hydro, carbon-woodburner]
+faqHeading: "Heat pump carbon footprint questions"
+relatedHeading: "More on heat pump efficiency and running costs"
 faqs:
   - q: Does a heat pump have a low carbon footprint in New Zealand?
     a: Low compared with heating that burns fuel in the home, because most New Zealand electricity comes from renewable sources. MBIE reported a record 96.4% of generation from renewables in the October to December 2025 quarter. The share moves with hydro conditions, so it is lower in some periods.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump replacement, href: /heat-pump-efficiency-upgrades/, text: When a newer unit makes sense. }
 ---
 
-## Where a heat pump's footprint comes from
+## Where a heat pump's carbon footprint comes from
 
 A heat pump doesn't burn anything in your house. Its carbon footprint comes from three places:
 
@@ -31,7 +33,7 @@ A heat pump doesn't burn anything in your house. Its carbon footprint comes from
 2. **The refrigerant.** The refrigerant gases used in heat pumps are greenhouse gases if they escape. A sealed, well installed system keeps them in. A leaking one doesn't.
 3. **Making, shipping and disposal.** The metal, plastic and energy that go into the unit, and how it's dealt with at the end.
 
-## New Zealand's electricity is mostly renewable
+## New Zealand's renewable electricity and heat pump emissions
 
 Most of New Zealand's electricity comes from hydro, geothermal, wind and solar. MBIE reported that from October to December 2025, a record 96.4% of electricity generation came from renewable sources, driven by favourable hydro conditions ([MBIE, record high share of electricity generation from renewables](https://www.mbie.govt.nz/about/news/favourable-hydro-conditions-see-record-high-share-of-electricity-generation-from-renewables)).
 
@@ -43,7 +45,7 @@ A heat pump moves heat from the outdoor air into the house rather than making it
 
 So the two things that shrink the electricity part of the footprint are a well rated unit and a correct install, then running it well. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
 
-## Keeping the refrigerant in
+## Refrigerant leaks and a heat pump's environmental impact
 
 Refrigerant only becomes an emission if it leaks out or is released when the unit is removed. That makes the install and maintenance side important:
 
@@ -65,7 +67,7 @@ People often weigh a heat pump against a wood burner. They differ in more than c
 
 Some homes have both, using the heat pump day to day and the burner on the coldest nights. Our [heat pump regulations guide](/compliance-building-codes/) covers the rules for heat pumps in more detail.
 
-## What you can do
+## How to cut your heat pump's footprint
 
 - Size it properly so it runs gently, not flat out.
 - Choose a model with good Cold zone heating stars.

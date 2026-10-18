@@ -8,6 +8,8 @@ intro: There is no set distance a heat pump has to be from your boundary in Chri
 hero: boundary-hero
 updated: 2026-10-17
 gallery: [boundary-screen, boundary-bracket]
+faqHeading: Heat pump boundary rule questions
+relatedHeading: More on heat pump noise and compliance
 faqs:
   - q: How far from the boundary does a heat pump need to be in Christchurch?
     a: The Christchurch District Plan does not set a fixed distance for heat pumps. It sets noise limits measured at the neighbouring site. A unit right by the fence can comply if it's quiet enough, and a unit further away can breach the limits if it's loud.
@@ -25,13 +27,13 @@ related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and install a new system. }
 ---
 
-## The short answer
+## The short answer on heat pump boundary rules
 
 The Christchurch District Plan controls heat pumps through **noise**, not distance. Any activity that makes noise, including a heat pump outdoor unit, has to meet the zone noise limits at the site receiving the noise. There is no rule that a heat pump must be a set number of metres from the fence.
 
 That means where the outdoor unit goes is a judgement about sound: how loud the unit is, how close it is to the neighbour's bedroom windows, and what's around it.
 
-## The noise limits in residential zones
+## Heat pump noise rules in residential zones
 
 For sites in residential zones outside the Central City, the District Plan sets these limits (Rule 6.1.5.2.1, Table 1):
 
@@ -48,7 +50,7 @@ Source: [Christchurch District Plan, Chapter 6.1 Noise](https://www.proposeddist
 
 If you live in Rolleston, Lincoln, Prebbleton or anywhere else in Selwyn, the Selwyn District Plan applies, not Christchurch's. Kaiapoi and Rangiora are under Waimakariri District Council, which publishes its own [fact sheet on noisy heat pumps](https://www.waimakariri.govt.nz/__data/assets/pdf_file/0024/181194/QD-ENV-Information-012-Noisy-Heat-Pumps.PDF). The principle is the same everywhere: noise is measured at the neighbour's property.
 
-## Where to put the outdoor unit
+## Where to put the outdoor unit near a boundary
 
 A good install stays quiet at the boundary by design:
 
@@ -58,7 +60,7 @@ A good install stays quiet at the boundary by design:
 - **Screened, not boxed in.** A slatted timber screen helps with looks and some sound, but the unit needs open space around it to breathe. A tight box makes it work harder and louder.
 - **The right size unit.** An undersized unit runs flat out every night. A correctly sized one cruises. See our [heat pump sizing guide](/heat-pump-sizing/).
 
-## When consent comes into it
+## When a heat pump needs consent
 
 A heat pump that meets the District Plan noise limits is a permitted activity, so no resource consent is needed. In practice nearly every domestic install falls into this group.
 

@@ -8,6 +8,8 @@ serviceName: Heat pump cleaning
 intro: Filters you can clean yourself. The coil and fan wheel behind them are where the real dirt and mould sit, and they need a proper clean with the unit wrapped and the run-off caught.
 hero: cleaning-hero
 gallery: [cleaning-blower, cleaning-bag]
+faqHeading: "Heat pump cleaning questions"
+relatedHeading: "More on looking after a heat pump"
 faqs:
   - q: How do I clean my heat pump myself?
     a: Turn it off, lift the front panel, slide out the mesh filters and rinse them from the back under a lukewarm tap. Let them dry out of direct sun and refit them. Wipe the front panel and louvres with a damp cloth. Leave the coil and fan alone.
@@ -23,7 +25,7 @@ related:
   - { label: Allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: Heat pumps in homes with sensitive lungs. }
 ---
 
-## What gets dirty, and where
+## What gets dirty inside a heat pump, and where
 
 Air is drawn into the top of the indoor unit, through the filters, across the cold or hot coil, and pushed out by a long barrel-shaped fan. Each stage collects something different:
 
@@ -45,7 +47,7 @@ A filter clean only deals with the first one.
 
 Do this every few weeks while the unit is in daily use. Some units have extra filters clipped behind the main ones; your manual says whether those can be washed or need replacing.
 
-## What a professional clean involves
+## What our heat pump cleaning service involves
 
 **The unit is protected.** We fit a waterproof cleaning bag around the indoor unit to collect the run-off, and cover the floor and furniture below.
 
@@ -61,7 +63,7 @@ Do this every few weeks while the unit is in daily use. Some units have extra fi
 
 A full clean takes longer than a standard [service](/heat-pump-servicing/), because the indoor unit is properly wet-cleaned rather than inspected and wiped.
 
-## When to book a clean
+## When to book heat pump cleaning in Christchurch
 
 - The unit smells when it starts. Our [heat pump smells](/heat-pump-deodorising/) page helps tell a dirt smell from a fault.
 - You can see black spots inside the outlet when the louvres open.
@@ -70,11 +72,11 @@ A full clean takes longer than a standard [service](/heat-pump-servicing/), beca
 - You've moved into a house and don't know when the heat pump was last cleaned.
 - The unit has cooled through a long summer.
 
-## Ducted and floor console units
+## Cleaning ducted and floor console heat pumps
 
 Ducted systems have a return air filter in a ceiling grille, an indoor unit in the roof space, and ducts to each room. We clean the filter and the indoor unit; heavily soiled ducts are a bigger job we'll discuss with you. Floor consoles clean much like wall units, with the advantage that they're at floor level.
 
-## Brands
+## Heat pump brands we clean
 
 We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps, plus most other brands sold in New Zealand. The price is fixed before we start and depends on the number of units, the type and how dirty they are.
 

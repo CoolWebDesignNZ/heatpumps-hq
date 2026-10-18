@@ -8,6 +8,8 @@ serviceName: Single room heat pump
 intro: One indoor unit and one outdoor unit, sized for the room it heats. It's the simplest heat pump setup and often all a space needs.
 hero: single-hero
 gallery: [single-bedroom, single-console]
+faqHeading: Single room heat pump questions
+relatedHeading: More on sizing and heat pump installation
 faqs:
   - q: What size heat pump do I need for a bedroom?
     a: Bedrooms usually need one of the smallest units a brand makes, but the right size depends on the room's floor area, ceiling height, insulation and windows. Our <a href="/calculator-single-room-heat-pump/">single room calculator</a> gives a starting point and we confirm it on site.
@@ -23,13 +25,13 @@ related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: The full install process from quote to handover. }
 ---
 
-## When one unit is the right answer
+## When a single room heat pump is the right answer
 
 A single room system suits a space you can close off or that is open to the rooms around it: a lounge, an open plan kitchen and dining area, a main bedroom, a home office, a sleepout or a granny flat. It is also the usual way to add heating to one cold room in a house that is otherwise fine.
 
 It is not the right answer for a string of separate bedrooms off a hallway. Warm air from a wall unit stays in the room it is in, so a heat pump in the lounge will not heat the bedrooms behind closed doors.
 
-## Sizing a single room properly
+## Sizing a small heat pump properly
 
 A heat pump's heating kW rating is the heat it puts into the room. Too small and it runs flat out on frosty mornings without catching up. Too big and it overshoots, switches off, cools down and starts again, which is noisier, less comfortable and harder on the unit.
 
@@ -47,21 +49,21 @@ Our [single room calculator](/calculator-single-room-heat-pump/) gives you a rou
 
 A small heat pump in a bedroom takes the chill off at night, and a room kept warm gets less condensation on cold windows, which is a familiar problem in older Christchurch homes. The indoor unit should sit where the airflow does not blow straight onto the bed. Many people set it to a low fan speed overnight, so we check the unit we choose still holds the room's temperature at that setting.
 
-## Wall unit or floor console
+## Choosing a wall unit or floor console
 
 - **High wall unit.** The common choice. It sits high on the wall, out of the way, and pushes warm air across the room.
 - **Floor console.** A low unit at skirting height. It puts heat near the floor where you feel it, fits under a window, and suits rooms with no wall space up high. It takes up a little floor space.
 
 For a living area, we'll look at where you sit, where the windows and doors are, and where the pipes can run outside before recommending one.
 
-## Placing the outdoor unit
+## Placing the outdoor unit for a single room system
 
 With a single room system, the outdoor unit usually goes on the wall directly behind the indoor unit, which keeps the pipe run short. If that wall faces a neighbour's bedroom or sits in a tight corner, we'll suggest a better spot and run the pipes further. The rules on noise at the boundary are covered in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
-## Adding more rooms later
+## Adding a second room later
 
 You can start with one room and add a second unit later. A second single system on its own outdoor unit is the most flexible way to do that. If you already know you'll want several rooms heated, read about [multi room heat pumps](/multi-room-heat-pump-installation/) before you commit, because the choice affects where the first outdoor unit goes.
 
-## Get a quote for one room
+## Get a quote for a heat pump in one room
 
 We install single room heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. Call **03 242 1023** or request a free quote, and tell us which room you want to heat.

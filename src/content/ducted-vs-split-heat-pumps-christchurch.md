@@ -8,6 +8,8 @@ intro: A split system heats the room it's in. A ducted system heats the house th
 hero: dvs-hero
 updated: 2026-10-17
 gallery: [dvs-vent, dvs-highwall]
+faqHeading: Ducted vs split heat pump questions
+relatedHeading: More on choosing ducted or split
 faqs:
   - q: Is ducted or split system better for a Christchurch home?
     a: Neither is better in general. Ducted suits a house where you want every room warm with nothing on the walls and there's roof space for the unit and ducts. Split systems suit heating the living area and a few chosen rooms, especially in an older house with limited ceiling space.
@@ -23,7 +25,7 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: The middle ground between one unit and ducted. }
 ---
 
-## The basic difference
+## How a ducted or split system works
 
 A **split system** has an indoor unit in the room, usually a high wall unit or floor console, piped to an outdoor unit. One split heats one room or one open space. You can have several around the house.
 
@@ -31,7 +33,7 @@ A **ducted system** has one indoor unit hidden in the roof space or under the fl
 
 Between the two sits the **multi split**: one outdoor unit running two or more indoor units in different rooms.
 
-## Side by side
+## Ducted vs split system side by side
 
 | | Split system | Ducted system |
 | --- | --- | --- |
@@ -68,29 +70,29 @@ Ducted is worth serious thought when:
 
 The trade-offs are a larger upfront job, the need for roof or floor space, and one system serving every room, so a fault affects the whole house.
 
-## Comfort and airflow
+## Comfort and airflow from ducted vs high wall heat pumps
 
 A high wall unit blows warm air across the room from one point. A floor console releases it low down. Either can leave a large or L-shaped room uneven if placed badly.
 
 Ducted outlets spread the air from several points, usually in the ceiling. Because warm air rises, outlet placement and airflow matter for keeping heat down where people sit. A good ducted design places the outlets and return air path so each room gets an even supply.
 
-## Running costs
+## Running costs of ducted vs split heat pumps
 
 The comparison only makes sense like for like. Heating one lounge with a wall unit uses less electricity than heating the whole house with ducted. Heating the whole house with four or five separate wall units versus one ducted system is a closer contest, and depends on the models, their efficiency at low temperatures and how you run them. Check the energy labels: EECA's [label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) explains the kWh figures and star ratings for the Cold zone that applies to New Zealand.
 
 Zoning is one of the main ways to keep a ducted system's running cost down, because it stops you heating empty rooms.
 
-## Noise
+## Noise from ducted and split systems
 
 With a split system the indoor fan is in the room. Modern units are quiet on low fan, but you'll hear them at full output on a cold morning. With ducted, the indoor unit is in the roof space, and what you hear is air moving at the outlets.
 
 Outdoors, both have a compressor and fan. Ducted outdoor units for a whole house are often larger. EECA's label guidance notes the outdoor noise figure matters if the unit is near a window, a bedroom or a neighbour. For the Christchurch noise limits, see our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
-## Servicing
+## Servicing ducted and split systems
 
 Split systems need their filters cleaned in each room and a regular service of each unit. Ducted systems usually have a filter at or near the return air grille, which needs regular cleaning, and the unit in the roof space needs access for servicing. Either way, a yearly [service](/maintenance-servicing/) keeps it efficient.
 
-## A quick way to decide
+## Ducted or split system? A quick way to decide
 
 - Want one or two rooms warm, older house, tight roof: **split system**.
 - Want three or four rooms warm, limited roof space: **multi split** or several splits.

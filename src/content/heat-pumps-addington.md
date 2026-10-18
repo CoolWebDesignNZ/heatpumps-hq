@@ -10,6 +10,8 @@ suburb: Addington
 intro: Addington's workers' cottages and newer townhouses sit close together on small sections. We install heat pumps that fit the space and stay quiet at the fence, with a fixed price agreed first.
 hero: addington-hero
 gallery: [pool-townhouse, pool-weatherboard]
+faqHeading: "Questions about heat pumps in Addington"
+relatedHeading: "More on heat pumps near Addington"
 faqs:
   - q: My cottage is right on the boundary. Can I still have a heat pump?
     a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site rather than by a set distance from the fence. Placement and unit choice matter more than the gap. Read our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> for the limits.
@@ -25,7 +27,7 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity for a room. }
 ---
 
-## Small sections, close neighbours
+## Heat pump installation in Addington's cottages and townhouses
 
 Addington is flat and close to town, with small timber workers' cottages along its older streets and a steady run of new townhouses where larger sections have been redeveloped. Houses sit close to each other. In a lot of homes the only outside wall that isn't the front is a narrow side passage beside the neighbour's fence.
 
@@ -40,13 +42,13 @@ That makes the outdoor unit the main design question. Indoors, a cottage with a 
 
 Christchurch sets noise limits rather than a minimum distance from the boundary. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) has the numbers.
 
-## Heating a cottage properly
+## Heating an Addington cottage properly
 
 Older cottages lose heat through the ceiling and floor first. If yours has been insulated, one well sized wall unit in the living area may warm the lounge and kitchen, with doors open to let it reach a bedroom. If it hasn't, the unit has to be larger, and running costs go up. We tell you which situation you're in when we quote.
 
 New Addington townhouses are better sealed. A single unit downstairs and a small one in the main bedroom suits a lot of them.
 
-## What we do in Addington
+## Heat pump installs, service and repair in Addington
 
 - **New installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized for small rooms.
 - **Servicing and cleaning**, including units in rentals. See [servicing](/maintenance-servicing/).

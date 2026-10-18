@@ -8,6 +8,8 @@ intro: Heat pumps keep working below zero, but their output drops and they stop 
 hero: lowtemp-hero
 updated: 2026-10-17
 gallery: [lowtemp-ice, lowtemp-isolator]
+faqHeading: "Questions about heat pumps in low temperatures"
+relatedHeading: "More on heat pumps and frost"
 faqs:
   - q: What is the minimum temperature a heat pump works at?
     a: It depends on the model. The manufacturer states a lowest outdoor temperature for heating in the specifications. Some Mitsubishi Electric models are rated to heat down to minus 25°C. Other models stop at a higher temperature, so check the sheet for yours.
@@ -23,13 +25,13 @@ related:
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: When the cold weather problem turns out to be a fault. }
 ---
 
-## How low can a heat pump go?
+## The minimum temperature a heat pump will run at
 
 There is no single answer, because every model has its own heating operating range. The manufacturer sets a lowest outdoor temperature at which the unit will keep heating, and it's in the specification sheet for that model. Some Mitsubishi Electric models are rated to heat down to minus 25°C ([Mitsubishi Electric NZ](https://www.mitsubishi-electric.co.nz/publications/heat-pump/Heat-Pump-HyperCore-Technology-South-Island)).
 
 That figure is a limit, not a promise of full output. Two things happen as the temperature falls well before the limit is reached.
 
-## What happens below zero
+## What happens to a heat pump below zero
 
 ### Output drops
 
@@ -46,7 +48,7 @@ EECA notes that below 5.5°C outside, a heat pump has to deal with frosting cond
 
 After a few minutes it switches back and the warm air returns. On a cold, damp morning it can happen again and again. That's normal.
 
-## When it's not working in cold weather
+## When your heat pump is not working in cold weather
 
 If the house stays cold and the heat pump seems to be giving up, work through these before you call:
 
@@ -70,7 +72,7 @@ When a heat pump works fine in autumn and falls short every July, the cause is u
 
 A service before winter rules out the last one. If the unit is undersized or old, we'll tell you whether a second unit, a larger unit or a replacement makes more sense. Our [cold climate heat pump guide](/cold-climate-heat-pumps/) covers what to look for in a new one.
 
-## Settings for a cold snap
+## Heat pump settings for low temperatures and cold snaps
 
 - **Keep it running steadily.** Starting from a cold house on the coldest part of the morning asks the most of the unit when it has the least to give.
 - **Use the timer.** Have it start before you get up rather than switching it on high when you're already cold.

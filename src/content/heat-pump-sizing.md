@@ -8,6 +8,8 @@ intro: A heat pump's size is its heating output in kilowatts, and the right size
 hero: sizing-hero
 updated: 2026-10-17
 gallery: [sizing-label, sizing-frost]
+faqHeading: "Heat pump size guide questions"
+relatedHeading: "More on heat pump sizing"
 faqs:
   - q: What size heat pump do I need for my room?
     a: It depends on the room's heat loss, which comes from its size, ceiling height, windows, insulation and how exposed it is, and on how cold it gets outside. There is no reliable figure based on floor area alone. Our <a href="/calculator-single-room-heat-pump/">size calculator page</a> links to the official tool and explains each input.
@@ -23,7 +25,7 @@ related:
   - { label: Buying a heat pump, href: /choosing-heat-pump/, text: The full checklist from room to installer. }
 ---
 
-## What the kW rating means
+## What heat pump size means in kW
 
 Every heat pump has a **heating capacity** and a **cooling capacity**, given in kilowatts (kW). That's the amount of heat it can deliver, not the electricity it uses. A unit rated at 6 kW heating can put about 6 kW of heat into a room under test conditions while drawing much less from the wall.
 
@@ -59,7 +61,7 @@ The checklist also asks what type of home it is (old, new, insulated), and wheth
 
 There is no honest single figure for watts per square metre. Two rooms the same size can need very different units: a north-facing room in an insulated, double-glazed Rolleston house loses heat far more slowly than a high-stud villa room in Sydenham with single glazing and an open fireplace. Ceiling height counts too, because you're heating the volume of air, not the floor.
 
-## Too small or too big
+## What happens when heat pump sizing goes wrong
 
 EECA's guide sets out what happens when the size is wrong:
 
@@ -70,7 +72,7 @@ EECA's guide sets out what happens when the size is wrong:
 
 In Canterbury the bigger risk is undersizing, because output drops in the cold just when the room needs the most heat. A unit slightly above the calculated minimum gives a margin for the coldest mornings.
 
-## Large and open plan spaces
+## What size heat pump do I need for open plan spaces?
 
 For a big open plan area, one very large unit isn't always the answer. EECA's guide notes that two smaller units, or a multi split system, can spread heat better and give better control than a single high-capacity unit. A living area that runs into a kitchen and dining space, or a lounge with a long hallway off it, is a common case. See [multi-room installation](/multi-room-heat-pump-installation/).
 
@@ -78,7 +80,7 @@ For a big open plan area, one very large unit isn't always the answer. EECA's gu
 
 For the main living room of a rental, the Healthy Homes Standards set a minimum heating capacity. EECA recommends using the same calculation for living rooms in any home, so a heat pump would still comply if the house were rented later. Our [size calculator page](/calculator-single-room-heat-pump/) covers the official tool.
 
-## Getting it sized properly
+## Beyond an online heat pump size guide
 
 Online estimates are a useful starting point, but they rely on your measurements and guesses about insulation. Manufacturers make the same point: Mitsubishi Electric's [sizing page](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) recommends an in-home consultation before purchase, and notes that sub-zero areas such as most of the South Island need either a larger capacity unit or one of its HyperCore models, compared with the same room in Auckland.
 

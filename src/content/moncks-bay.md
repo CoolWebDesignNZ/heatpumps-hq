@@ -10,6 +10,8 @@ suburb: Moncks Bay
 intro: Heat pump installation, servicing and repairs for Moncks Bay, on the waterfront and up the slope behind it. Your quote is free and the price is set before we begin.
 hero: moncks-bay-hero
 gallery: [pool-coastal-home, pool-filters]
+faqHeading: "Questions about heat pumps in Moncks Bay"
+relatedHeading: "More on heat pumps near Moncks Bay"
 faqs:
   - q: How close to the water can an outdoor unit be?
     a: There's no fixed distance, but the closer it is to spray and wind off the estuary, the faster salt builds up. We place it on the most sheltered side we can and plan for more regular cleaning.
@@ -25,25 +27,25 @@ related:
   - { label: Maintenance and servicing, href: /maintenance-servicing/, text: Keeping a coastal unit in good order. }
 ---
 
-## A small bay with two kinds of section
+## Two kinds of section in Moncks Bay
 
 Moncks Bay is a small stretch of the estuary edge between Redcliffs and the foot of Mount Pleasant. Some houses face the water directly across the coast road. Others are set into the slope behind, on sections cut into the hill with retaining walls and steps up to the front door.
 
 Both have something in common: the estuary is only metres away, and the air that reaches the house carries salt.
 
-## Waterfront homes
+## Heat pump installation in Moncks Bay waterfront homes
 
 A house facing the bay is open to the wind and spray off the water. The outdoor unit is best placed on the far side of the house or behind a solid fence, rather than on the front deck looking at the view. That keeps it out of the worst of the salt and also stops it being the first thing you see and hear when you sit outside.
 
 The coil fins on the outdoor unit are thin aluminium, and salt deposits shorten their life. A gentle hose rinse every couple of months, a check of the casing for rust spots and a yearly service all help.
 
-## Homes cut into the slope
+## Moncks Bay homes cut into the slope
 
 Behind the road, space is the issue. A section cut into the hill may have only a narrow gap between the house and a retaining wall. The outdoor unit needs clear space around it to breathe, so a wall bracket higher up is sometimes the better choice. The condensate drain from the indoor unit needs a steady fall, which can mean taking it to a downpipe or drain rather than letting it run onto the path.
 
 Many of these homes were rebuilt or strengthened after the earthquakes, and the newer ones usually hold heat well. One correctly sized unit in the main living area may be all a modern rebuild needs, with a small unit added for the bedrooms if they're at the cold end of the house.
 
-## Filters and cleaning
+## Cleaning heat pump filters in Moncks Bay
 
 Indoor filters fill with dust and lint whatever the location. Clean them every few weeks during winter by vacuuming or rinsing in lukewarm water and letting them dry before you refit them. A unit with clogged filters works harder and heats less. Our [maintenance and servicing](/maintenance-servicing/) visits cover the coil, fan and drain as well.
 

@@ -10,6 +10,8 @@ suburb: Riccarton
 intro: From older villas near Hagley Park to new townhouses and rental flats off Riccarton Road, we install, service and repair heat pumps across Riccarton at a fixed price.
 hero: riccarton-hero
 gallery: [pool-townhouse, pool-console-unit]
+faqHeading: Questions about heat pumps in Riccarton
+relatedHeading: Heat pumps near Riccarton
 faqs:
   - q: Which room needs the heat pump in a Riccarton rental?
     a: For the Healthy Homes heating standard, the main living room, which is the largest room used for everyday living. The heater must be fixed and able to heat that room directly. <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a> sets out the details.
@@ -29,11 +31,11 @@ Riccarton runs from the edge of Hagley Park out along Riccarton Road. Its older 
 
 Each type has its own heating problem. Villas lose heat through high ceilings, sash windows and suspended timber floors. Townhouses are tight and well insulated but often have bedrooms upstairs that a downstairs unit can't reach. Older flats may have only a plug-in heater.
 
-## Riccarton villas and bungalows
+## Heat pump installation in Riccarton villas and bungalows
 
 In a villa, we work out the heat pump size from the room volume, not just the floor area, and check what insulation is in the ceiling and under the floor. A [floor console](/single-room-heat-pump-installation/) can suit a villa lounge with a low window. Separate units for the lounge and the main bedroom are common where the hallway closes rooms off.
 
-## Rentals and the heating standard
+## Heat pumps for Riccarton rentals and the heating standard
 
 Riccarton landlords need to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) in the main living room. The heater must be fixed, heat the room directly and have the capacity that room requires. A heat pump counts, as long as it has a thermostat. We size rental units to the living room so the capacity is met, and we can service every heat pump on a property in one visit.
 
@@ -41,11 +43,11 @@ Riccarton landlords need to meet the [Healthy Homes heating standard](https://ww
 
 Two storey townhouses usually need heat upstairs and down. A [multi-room system](/multi-room-heat-pump-installation/) with one outdoor unit can save wall space outside, which matters on a narrow site. Riccarton is under the Christchurch District Plan, where noise at the neighbour's site is what's measured, so placement gets planned at the quote. The limits are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
-## For property managers
+## For Riccarton property managers
 
 Riccarton has plenty of properties looked after by property managers rather than owners. We can work through you to arrange access with tenants, quote several units on one property together, and report back on each heat pump's condition after a service: the filters, the drain, the outdoor coil and whether it's heating as it should. That gives you a record to keep with the tenancy file.
 
-## What we do here
+## Heat pump service work we do in Riccarton
 
 - **Installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps.
 - **Servicing** for owners, landlords and property managers.

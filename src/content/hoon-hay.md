@@ -10,6 +10,8 @@ suburb: Hoon Hay
 intro: Hoon Hay is mostly flat, with brick and weatherboard family homes and newer houses toward its southern edge. We size heat pumps for the whole household's rooms and for frosty mornings, and fix the price first.
 hero: hoon-hay-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
+faqHeading: "Hoon Hay heat pump questions"
+relatedHeading: "Heat pumps near Hoon Hay"
 faqs:
   - q: What's the best way to heat a three or four bedroom Hoon Hay house?
     a: There isn't one answer for every house. Plenty of homes are well served by a larger living area unit and smaller bedroom units where they're needed. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> runs several indoor units from one outdoor unit, and ducting suits homes with good ceiling space.
@@ -23,13 +25,13 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
 ---
 
-## Family homes on the flat
+## Heat pump installation for Hoon Hay family homes
 
 Hoon Hay sits south-west of the city, between Spreydon and Halswell, with the Port Hills rising beyond its southern streets. Much of it is established family housing: brick and tile homes, weatherboard houses and some former state houses on decent sections, with newer subdivisions on the fringes.
 
 These are homes where several people are using different rooms at different times. Heating one lounge is rarely enough.
 
-## Planning heat for the whole household
+## Planning heat pumps for a whole Hoon Hay household
 
 We start with how you live in the house. Questions we ask:
 
@@ -40,7 +42,7 @@ We start with how you live in the house. Questions we ask:
 
 The answers decide the setup. Often that means one larger unit for the main living area and a quiet bedroom unit wherever someone spends evenings. In a house with good ceiling access and plans to stay long term, [ducted heating](/ducted-heat-pumps-christchurch/) is worth comparing. We size each unit to its room rather than rounding up.
 
-## Frost on the flat
+## Frost on the Hoon Hay flat
 
 Open, flat ground cools fast on clear, still nights, and land near the hills can collect cold air that settles off the slopes. Hard frosts are part of a Hoon Hay winter. A few details make the difference:
 
@@ -49,7 +51,7 @@ Open, flat ground cools fast on clear, still nights, and land near the hills can
 - **Avoid a frost pocket** like a low, enclosed corner where cold air sits.
 - **Size for the cold end.** Output falls as the outdoor temperature drops, so capacity needs to cover the coldest mornings, not an average day. Our [cold climate heat pumps guide](/cold-climate-heat-pumps/) explains more.
 
-## Upkeep through a Hoon Hay winter
+## Heat pump service through a Hoon Hay winter
 
 A unit working through Hoon Hay winters benefits from a yearly [service](/maintenance-servicing/) before the cold sets in. If one has stopped heating, see our [repair page](/heat-pump-repair/).
 

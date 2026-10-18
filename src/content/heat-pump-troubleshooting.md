@@ -8,6 +8,8 @@ serviceName: Heat pump fault finding
 intro: When a heat pump stops heating, blows cold air or starts flashing a light, the fix depends on finding the actual cause. We test the system step by step until we know what has failed.
 hero: troubleshoot-hero
 gallery: [troubleshoot-1, troubleshoot-2]
+faqHeading: "Questions about a heat pump not working"
+relatedHeading: "More help when your heat pump is not working"
 faqs:
   - q: Why is my heat pump blowing cold air in heat mode?
     a: For a few minutes on a frosty morning it can be the defrost cycle. If it keeps blowing cold, common causes are a mode or setting problem, a dirty coil or filters, low refrigerant from a leak, or a fault with the outdoor fan, the compressor or the valve that switches between heating and cooling.
@@ -31,7 +33,7 @@ Swapping parts until the problem goes away is slow and expensive. We test each s
 
 If you'd like to rule out the simple things yourself first, our [DIY troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) covers the checks that don't need tools.
 
-## What we test
+## What we test when your heat pump is not working
 
 1. **Power and wiring.** Supply voltage at the outdoor unit, the isolating switch, the breaker and the connections between the two units.
 2. **Controls and settings.** Mode, timers, the remote or wall controller, and any settings that limit output.
@@ -48,7 +50,7 @@ What you see tells us where to start looking:
 - **Cold air all the time in heat mode.** Something is stopping the refrigerant circuit from heating. Low refrigerant, an outdoor fan that isn't spinning, a compressor that won't start, or a stuck reversing valve are the usual suspects.
 - **Lukewarm air that never gets hot.** Often blocked filters or a dirty coil, sometimes a sensor reading the wrong temperature. Our [thermostat and sensor checks](/heat-pump-thermostat-calibration/) page covers that case.
 
-## Flashing lights and error codes
+## Heat pump flashing lights and error codes
 
 When a heat pump detects a fault it usually stops, flashes its operation or timer light in a set pattern, or shows a code on the remote or wall controller. Every brand has its own system, and the same code can mean different things on different models.
 

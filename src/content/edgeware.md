@@ -10,6 +10,8 @@ suburb: Edgeware
 intro: Edgeware mixes old timber cottages and villas with newer townhouses built behind and beside them. Each needs a different heat pump plan, and we price both before any work starts.
 hero: edgeware-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
+faqHeading: "Questions about heat pumps in Edgeware"
+relatedHeading: "More on heat pumps near Edgeware"
 faqs:
   - q: Will one heat pump warm a whole Edgeware villa?
     a: Rarely. A villa's rooms open off a long central hallway with doors that close, so one unit in the lounge heats the lounge. Bedrooms at the far end of the hall usually need their own small units or a multi-room system.
@@ -23,11 +25,11 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
 ---
 
-## Old timber homes, new infill
+## Heat pump installation in Edgeware's mix of old and new homes
 
 Edgeware is flat, close to the city and built tight. A lot of the original housing is small timber cottages and villas on narrow sections, many renovated and some still close to original. In between, older houses have made way for blocks of two or three townhouses. The two types need quite different heat pump setups.
 
-## Villas and cottages
+## Heating Edgeware villas and cottages
 
 Old timber homes have high studs, sash windows and gaps around doors and floors. Warm air rises to that high ceiling and leaks out through draughts. A few things change the result:
 
@@ -38,13 +40,13 @@ Old timber homes have high studs, sash windows and gaps around doors and floors.
 
 Pipe runs in an old cottage can usually go through the underfloor, which keeps them off the front of the house.
 
-## Townhouses and units
+## Edgeware townhouses and units
 
 The newer townhouses in Edgeware are a different job. They're better insulated, often over two levels, with the living area downstairs and bedrooms above. A single wall unit in the open plan living area handles the ground floor. Bedrooms upstairs may need a small unit or two, or a [multi-room system](/multi-room-heat-pump-installation/) that runs several indoor units from one outdoor unit, which saves wall space outside.
 
 Outdoor space is tight. Side paths are narrow, and the next unit's bedroom may be a metre or two away, so we place the outdoor unit with noise in mind.
 
-## What we do in Edgeware
+## Heat pump installs, service and repair in Edgeware
 
 - **Installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized from your rooms, insulation and windows.
 - **Servicing** for units of any age, including cleaning and drain checks. See [heat pump servicing](/maintenance-servicing/).

@@ -10,6 +10,8 @@ suburb: Heathcote Valley
 intro: We install, service and repair heat pumps in Heathcote Valley, from houses on the valley floor to homes high on the slopes. The price is agreed before any work begins.
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
+faqHeading: "Questions about heat pumps in Heathcote Valley"
+relatedHeading: "More on heat pumps near Heathcote Valley"
 faqs:
   - q: Can the outdoor unit go on a deck instead of the ground?
     a: Often, yes. On a sloping section a deck or a wall bracket can be the only level spot. We check the framing will carry the weight, fit anti-vibration mounts, and make sure defrost water drains away rather than pooling on the boards.
@@ -25,17 +27,17 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How capacity is worked out for a real house. }
 ---
 
-## Two kinds of home in one valley
+## Two kinds of home in Heathcote Valley
 
 Heathcote Valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton. Some houses are on level sections along the valley floor. Others climb the slopes on either side, with steep driveways, retaining walls and decks for outdoor living. A good number of the hillside homes were rebuilt or heavily repaired after the earthquakes, and those tend to hold heat far better than the houses they replaced.
 
 Each setting changes how we install. On the flat, the outdoor unit usually sits beside the house on a pad or on raised feet. On a slope it more often goes on a wall bracket or a deck, and we check that the structure can take it and that vibration won't travel through the floor into a bedroom.
 
-## Less winter sun on one side
+## Heat pumps for the shady side of Heathcote Valley
 
 The hills block the low winter sun, so one side of the valley sees much less direct light than the other through June and July. A house on the shaded side stays cooler all day and leans harder on its heating. We work out the heat load room by room, looking at insulation, glazing and which way the living areas face, rather than going by floor area alone. On the sunnier side, a heat pump may only need to carry the house through the evening and early morning.
 
-## Pipe runs on a sloping section
+## Heat pump installation on a sloping Heathcote Valley section
 
 On a hillside the tricky part is often the route between the two units. Refrigerant pipes, cable and the condensate drain all have to get from the indoor unit to the outdoor one, and on a split-level house that can mean going under a floor, through a garage or along a retaining wall. The condensate line also needs a steady fall to a drain or garden. We plan that route at the quote visit, so the fixed price covers the whole job.
 

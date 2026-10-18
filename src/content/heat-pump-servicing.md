@@ -8,6 +8,8 @@ serviceName: Heat pump servicing
 intro: A service visit covers the indoor unit, the outdoor unit, the wiring and a full test run. Here is exactly what happens, in order, so you know what you're paying for.
 hero: servicing-hero
 gallery: [servicing-coil, servicing-outdoor]
+faqHeading: "Heat pump servicing questions"
+relatedHeading: "More on heat pump service and maintenance"
 faqs:
   - q: What does a heat pump service include?
     a: Filters, indoor coil, fan wheel, drain tray and drain line on the inside; coil, fan, base and mounting on the outside; a check of the electrical connections; and a test run in heating and cooling with the air temperatures measured. You get a written note of what we found.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: A deeper clean for smells, dust and mould. }
 ---
 
-## Before we arrive
+## Booking heat pump servicing in Christchurch
 
 When you book, tell us how many indoor units you have, whether any are ducted, and roughly where the outdoor units sit. A unit on a second-storey bracket or under a deck changes the gear we bring. If something has been bothering you, such as a drip, a noise or a smell, mention it. We'll look at that first.
 
@@ -56,11 +58,11 @@ We check the isolating switch, the terminal connections and the interconnecting 
 
 With everything back together, the unit runs in heating and then cooling. We measure the air temperature going in and coming out of the indoor unit. A healthy system shows a clear difference between the two; a weak difference points to a refrigerant or airflow problem worth looking into. We also check the outdoor unit starts, ramps up and runs smoothly.
 
-## Step 6: what you get
+## Step 6: after the heat pump service
 
 Before we leave, we tell you what we did and what we found, in plain words. If a part is worn, we explain what it is, whether it needs doing now or can wait, and what it would cost to replace. You decide. Nothing extra is done without your agreement.
 
-## What sets the cost of a service
+## What sets the cost of a heat pump service
 
 There's no single price, because no two homes are the same. These are the things that move it:
 
@@ -71,7 +73,7 @@ There's no single price, because no two homes are the same. These are the things
 
 We agree a fixed price with you before any work starts.
 
-## How this fits with the rest of the year
+## How heat pump servicing fits with the rest of the year
 
 A service is one visit. Looking after a heat pump between visits is covered on our [heat pump maintenance](/maintenance-servicing/) page, and a quicker pre-season check is described under [seasonal tune-ups](/heat-pump-seasonal-tune-ups/). If the unit has stopped working, that's a [repair](/heat-pump-repair/), not a service.
 

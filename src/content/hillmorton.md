@@ -10,6 +10,8 @@ suburb: Hillmorton
 intro: Hillmorton spans flat suburban streets and sections near the base of the Port Hills. Heat pump installs and upkeep differ a little between the two, and the price is agreed before any work starts.
 hero: hillmorton-hero
 gallery: [pool-hill-home, pool-filters]
+faqHeading: "Questions about heat pumps in Hillmorton"
+relatedHeading: "Heat pumps near Hillmorton"
 faqs:
   - q: Does it matter whether my Hillmorton house is on the flat or the slope?
     a: For the indoor unit, not much. Outside, a sloping section may need a bracket or a cut-in pad instead of a ground-level spot, and a planned drain path for defrost water.
@@ -23,23 +25,23 @@ related:
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: What a yearly service checks and cleans. }
 ---
 
-## Flat streets and lower slopes
+## Hillmorton's flat streets and lower slopes
 
 Hillmorton sits between Spreydon, Hoon Hay and Cashmere. Most of its homes are on flat ground, with established bungalows, brick and weatherboard houses and units. On its southern side, closer to the Port Hills, some sections have more of a fall.
 
 That split means two kinds of install, often a few streets apart.
 
-## On the flat
+## Heat pumps on flat Hillmorton sections
 
 Flat sections make the outdoor work simple, and frost is the main thing to plan for. Cold air settles on still winter nights, so the unit goes up on feet, letting meltwater from defrosting run off instead of icing up beneath it. The unit goes on a concrete pad or raised feet beside the house, usually at the side or back, with a short pipe run through the wall or underfloor. The thought goes into position: away from a neighbour's bedroom window, clear of downpipes that could drip onto it, and out of a tight corner.
 
 Indoors, Hillmorton's family homes usually have a separate lounge and a hallway of bedrooms. A lounge unit sized to that room, with a compact unit in each bedroom that needs it, keeps the setup simple.
 
-## On a slope
+## Hillmorton sections on a slope
 
 Where the section falls away, the outdoor unit may need a galvanised bracket or a small pad cut into the bank. The drain path matters more here, because water from the defrost cycle will follow the slope. Access for future servicing is part of the plan from the start.
 
-## Looking after an existing unit
+## Heat pump service for an existing Hillmorton unit
 
 A heat pump that runs for years without a service gradually loses output. A yearly service covers:
 
@@ -50,7 +52,7 @@ A heat pump that runs for years without a service gradually loses output. A year
 
 If something is wrong, see [heat pump repairs](/heat-pump-repair/), or for a deeper clean, [heat pump cleaning](/heat-pump-cleaning/).
 
-## Installing a new heat pump in Hillmorton
+## New heat pump installation in Hillmorton
 
 We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps in Hillmorton, sized from your rooms, insulation, windows and how you use the house. Servicing and repairs cover the same four makes and Panasonic.
 

@@ -8,6 +8,8 @@ intro: A heat pump that suits a frosty Canterbury winter keeps its heating outpu
 hero: coldclimate-hero
 updated: 2026-10-17
 gallery: [coldclimate-frost, coldclimate-label]
+faqHeading: "Cold climate heat pump questions"
+relatedHeading: "More on heat pumps in winter"
 faqs:
   - q: What is the best heat pump for a cold climate?
     a: There isn't one model that suits every house. The right choice holds its heating capacity at low outdoor temperatures, has good heating stars for the Cold zone on the energy label, and is sized for your rooms on the coldest mornings. We compare those figures for the models we quote.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: Working out the kW your rooms need. }
 ---
 
-## Why cold weather changes the choice
+## Why cold weather changes the heat pump you need
 
 A heat pump heats your house by pulling heat out of the outdoor air. The colder that air gets, the harder the job. Two things happen on a frosty Canterbury night:
 
@@ -32,7 +34,7 @@ A heat pump heats your house by pulling heat out of the outdoor air. The colder 
 
 A cold climate heat pump is one that copes with both. It keeps enough output to hold the room at temperature on the coldest mornings, and it defrosts without leaving the room cold for long.
 
-## What to look for
+## What to look for in a cold climate heat pump
 
 ### The 2°C heating figure on the label
 
@@ -52,13 +54,13 @@ Manufacturers state the lowest outdoor temperature a model will keep heating at.
 
 Some outdoor units have a heater in the drain tray that stops ice building up in the base. Mitsubishi Electric says the de-icer on its HyperCore units doesn't add heat to the room and won't run in most conditions above 0°C. It's useful where frosts are heavy and regular.
 
-## Sizing for the coldest mornings
+## Sizing a heat pump for the coldest mornings
 
 When a heat pump struggles in winter, the brand is rarely the problem. More often the unit was chosen for an average day rather than a cold one. When we size an install we work from the rooms, the insulation, the windows and how the house is used, then check the chosen unit's output at low outdoor temperatures, not just its headline kW.
 
 That matters most in rooms with high ceilings, big glass, open stairwells or poor insulation, where the heat loss on a frosty morning is well above what the room needs on a mild day. The [heat pump sizing guide](/heat-pump-sizing/) covers how that calculation works.
 
-## Placing the outdoor unit for frost
+## Placing the heat pump outdoor unit for frost
 
 Where the outdoor unit sits affects how well it handles cold weather:
 
@@ -71,7 +73,7 @@ Where the outdoor unit sits affects how well it handles cold weather:
 
 Frosts tend to be harder out on the plains than near the coast. If you're in Rolleston, Lincoln, Prebbleton or on a rural block, plan for the colder end. On the hills and the coast, wind can matter as much as frost, so keep the outdoor unit out of the prevailing wind where you can.
 
-## Getting a quote
+## Getting a quote for a cold climate heat pump
 
 When we quote, we size the unit for your coldest rooms and show you the 2°C heating capacity and the Cold zone heating stars for each model we suggest, so you can compare like with like. The brands we install are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 

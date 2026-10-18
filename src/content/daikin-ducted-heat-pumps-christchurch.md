@@ -8,6 +8,8 @@ serviceName: Daikin ducted heat pump installation
 intro: Daikin sells several ducted series in New Zealand, each built for a different kind of ceiling space or job. We help you pick the one that fits your house, then install it.
 hero: daikin-ducted-hero
 gallery: [daikin-ducted-controller, daikin-ducted-outlet]
+faqHeading: Daikin ducted heat pump questions
+relatedHeading: More ducted options and zoning
 faqs:
   - q: Which Daikin ducted unit suits a narrow ceiling space?
     a: Daikin lists its Slim-Line FBA series for installs where ceiling space is at a premium, and its Inverter Ducted FDYAN series for tight roof spaces. Which one suits depends on how many rooms you're heating and how much space there is. We measure the ceiling before recommending a model.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Dampers and controllers for room by room heating. }
 ---
 
-## The Daikin ducted range in New Zealand
+## The Daikin ducted heat pump range in New Zealand
 
 Daikin's New Zealand site lists these ducted series. The notes below follow how Daikin describes each one; check [Daikin's ducted heat pump page](https://www.daikin.co.nz/pages/ducted-heat-pumps) for the current models and full specifications.
 
@@ -37,7 +39,7 @@ Daikin's New Zealand site lists these ducted series. The notes below follow how 
 
 Daikin notes that with a ducted system the only parts visible inside the house are the controller, the return air grille and the discharge grilles.
 
-## Matching the series to your house
+## Matching a Daikin series to your house
 
 The right Daikin unit comes down to three things we check on site:
 
@@ -47,7 +49,7 @@ The right Daikin unit comes down to three things we check on site:
 
 From there we size the unit for the heat each room loses, not the total floor area alone, and lay out the outlets and return air grille.
 
-## Daikin zoning options
+## Zoning options for Daikin ducted systems
 
 Daikin lists two ways to add room by room control on its ducted page:
 
@@ -64,7 +66,7 @@ We install Daikin, Mitsubishi Electric, Fujitsu and Toshiba, so we're not tied t
 
 The install follows the same steps as any [ducted heat pump](/ducted-heat-pumps-christchurch/): indoor unit fitted in the roof space or underfloor, insulated ducts run to each outlet, a return air grille with an accessible filter, the outdoor unit placed for airflow and noise, the electrical connection by a licensed electrical worker, and a full test in heating and cooling before handover. You get a fixed price before any work starts.
 
-## After the install
+## Looking after a Daikin ducted system
 
 Clean the return air filter regularly and book a yearly service. We service and repair Daikin systems of any age, covered on our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/) page.
 

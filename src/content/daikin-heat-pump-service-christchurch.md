@@ -8,6 +8,8 @@ serviceName: Daikin heat pump repair and servicing
 intro: We install, service and repair Daikin heat pumps across Christchurch, from single wall units to ducted systems. Tell us the model and the fault, and we'll work out what has gone wrong.
 hero: daikin-hero
 gallery: [daikin-1, daikin-2]
+faqHeading: "Daikin heat pump questions"
+relatedHeading: "More on Daikin heat pumps"
 faqs:
   - q: Do you repair older Daikin heat pumps?
     a: Yes. We work on current and older Daikin models. On an older unit we'll check whether parts are still available and whether the repair makes sense against the unit's age, and tell you before any work starts.

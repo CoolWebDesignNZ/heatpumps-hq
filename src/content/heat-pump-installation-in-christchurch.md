@@ -8,6 +8,8 @@ serviceName: Heat pump installation
 intro: We plan each install from your rooms, insulation and windows, put the units where they work and sound best, and agree a fixed price before we start.
 hero: install-hero
 gallery: [install-pipework, install-commission]
+faqHeading: Heat pump installation questions
+relatedHeading: More on choosing a heat pump install
 faqs:
   - q: Do I need consent to install a heat pump in Christchurch?
     a: A standard home split system normally goes in without building consent. The District Plan controls noise at the neighbour's property, so the outdoor unit has to be placed with that in mind. The noise limits are in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
@@ -23,13 +25,13 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the kW a room needs. }
 ---
 
-## What a good install starts with
+## What a good heat pump installation starts with
 
 A heat pump that is the wrong size or in the wrong spot will cost more to run and never feel quite right. So before we quote, we look at the house itself: the size and shape of each room, how well the ceiling, walls and floor are insulated, how much glass there is and which way it faces, and how you use the space through a winter day.
 
 That visit tells us three things. What capacity the room really needs, which type of indoor unit suits it, and where both units can go so the pipe run is short, the airflow reaches where you sit, and the outdoor unit stays quiet at the boundary.
 
-## Choosing the system
+## Choosing the right heat pump system
 
 The usual options are:
 
@@ -40,7 +42,7 @@ The usual options are:
 
 The brands we fit are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. Our [brand comparison](/heat-pump-brands-comparison/) covers how they differ, and on site we'll tell you which models we'd shortlist for your rooms.
 
-## What the install includes
+## What a heat pump install includes
 
 1. **Indoor unit.** Mounted level on a bracket, high enough to throw warm air across the room, clear of curtains and furniture.
 2. **Pipework and cable.** Refrigerant pipes, the control cable and the condensate drain run through one neat hole in the wall. Where they run outside, they go in a cover that matches the house.
@@ -57,10 +59,10 @@ People tend to think about the outdoor unit least, yet its position decides whet
 
 If you already have a heat pump that is failing or past its best, we check whether the old pipe route, the drain and the electrical circuit can be used for the new unit. Sometimes they can; sometimes the new model needs a different pipe size or a new circuit. We tell you which before you agree to anything, and if the old unit is worth repairing we'll say so. Our [repair page](/heat-pump-repair/) covers that decision.
 
-## What changes the price
+## What changes the price of a heat pump installation
 
 No two installs cost the same. The main drivers are the unit's capacity and type, the distance between the indoor and outdoor units, the wall and floor construction, access to the outdoor spot, and whether the switchboard needs work. The [installation cost guide](/heat-pump-installation-cost-christchurch/) goes through each one. Your quote is free and the price is fixed before work starts.
 
-## Book a home visit
+## Book a home visit in Christchurch
 
 We install across Christchurch, Selwyn and Lyttelton, Monday to Friday. Call **03 242 1023** or send the quote form and we'll arrange a time to look at the house.

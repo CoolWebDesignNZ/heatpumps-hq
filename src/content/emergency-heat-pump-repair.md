@@ -8,6 +8,8 @@ serviceName: Urgent heat pump repair
 intro: If your heat pump has stopped, is pouring water or smells of burning, make it safe first and keep one room warm. Then call us as early in the working day as you can.
 hero: emergency-hero
 gallery: [emergency-1, emergency-2]
+faqHeading: "Emergency heat pump repair questions"
+relatedHeading: "More on heat pump faults and repairs"
 faqs:
   - q: Do you do after-hours or weekend heat pump repairs?
     a: No. We work Monday to Friday, 8am to 5pm. If the unit fails in the evening or over a weekend, make it safe, use another heater, and call us when we open.
@@ -23,7 +25,7 @@ related:
   - { label: DIY troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: Simple checks before you book a visit. }
 ---
 
-## Make it safe first
+## Make it safe before an emergency heat pump repair
 
 A heat pump that has stopped working is an inconvenience. A heat pump with an electrical or water problem can be a hazard. Before anything else, deal with the signs below.
 
@@ -42,7 +44,7 @@ Once it's off, leave it off. Resetting a unit that has a real fault can turn a s
 - Close curtains as soon as the sun goes down to hold the day's heat in.
 - If you have a log burner or another heat pump in a different room, use that while you wait.
 
-## Our hours, and how to get on the list sooner
+## Our hours, and how to get an urgent heat pump repair sooner
 
 We work **Monday to Friday, 8am to 5pm**. We don't run an after-hours, weekend or 24/7 call-out service, and we won't book a time we can't keep.
 
@@ -67,7 +69,7 @@ Some things feel like a breakdown and turn out to be normal. Check these before 
 
 Our [troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) goes through more checks you can do yourself.
 
-## What happens when we arrive
+## What happens at a heat pump repair in Christchurch
 
 We start by finding the cause rather than replacing parts on a guess, which is how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, you get a fixed price for the repair before any work starts. If a part has to be ordered in, we'll tell you how to use the unit safely until it arrives, or whether it should stay off. Details on parts are on our [parts replacement](/heat-pump-parts-replacement/) page.
 

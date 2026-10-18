@@ -10,6 +10,8 @@ suburb: Aranui
 intro: We install, service and repair heat pumps in Aranui, from older state houses to newer rebuilt homes and rentals. Each job is quoted at a fixed price before anything is installed.
 hero: aranui-hero
 gallery: [pool-townhouse, pool-filters]
+faqHeading: Questions about heat pumps in Aranui
+relatedHeading: Heat pumps near Aranui
 faqs:
   - q: Does a rental home in Aranui need a heat pump?
     a: A rental must have fixed heating that can directly heat the main living room under the Healthy Homes standards. A heat pump with a thermostat is one accepted way to meet it. See the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard</a>.
@@ -29,29 +31,29 @@ Aranui is an east Christchurch suburb with a large share of 1950s and 60s state 
 
 The older houses are mostly single-storey, on piles, with weatherboard or brick cladding and modest insulation unless they've been upgraded. The newer homes and townhouses are built to current standards and need much less heating capacity for the same floor area.
 
-## Heating rules for rental homes
+## Heat pumps for Aranui rentals
 
 If you let a home in Aranui, the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) applies. It requires one or more fixed heaters that can directly heat the main living room, at least 1.5 kW, and heat pumps must have a thermostat. Open fires and unflued combustion heaters don't count.
 
 The required capacity depends on the room. Tenancy Services publishes a heating assessment tool on the same page. Once you know the figure, we quote a heat pump that meets it. In an older uninsulated lounge, choosing a unit with some capacity above the minimum keeps the room comfortable on frosty mornings.
 
-## Older state houses
+## Heat pump installation in older Aranui state houses
 
 In an original state house, the lounge is usually a separate room at the front with the kitchen behind. A single high wall unit, placed to blow along the length of the lounge, heats it well. Bedrooms need their own unit or a [multi-room system](/multi-room-heat-pump-installation/) if you want them warm too. Underfloor space often lets us run pipes beneath the house to the outdoor unit.
 
-## Newer homes and townhouses
+## Newer Aranui homes and townhouses
 
 Newer Aranui homes are better insulated, so a smaller unit can heat an open plan living area. In townhouses with shared walls, the outdoor unit has to go where it won't disturb the people next door. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how Christchurch measures heat pump noise.
 
-## Running costs in older houses
+## Running costs in older Aranui houses
 
 A heat pump in a draughty house runs longer to hold the same temperature. Simple fixes help it: thick curtains that reach the floor, draught stopping around doors, and ceiling and underfloor insulation if the house doesn't have it yet. They let a correctly sized unit cruise rather than labour through the evening.
 
-## Servicing and repairs
+## Heat pump repair and servicing in Aranui
 
 A heat pump in a rental gets heavy use and often little care between tenants. Filters clog, drains block and output drops. Our servicing and repair work covers Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other makes on the New Zealand market. A regular [service](/maintenance-servicing/) between tenancies avoids most [repairs](/heat-pump-repair/).
 
-## Nearby
+## Suburbs near Aranui
 
 We also cover [Wainoni](/wainoni/), [Bromley](/bromley/), [Linwood](/linwood/), [Avondale](/avondale/) and [Bexley](/bexley/).
 

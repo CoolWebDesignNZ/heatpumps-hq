@@ -8,6 +8,8 @@ serviceName: Mitsubishi Electric heat pump repair and servicing
 intro: We install, service and repair Mitsubishi Electric heat pumps across Christchurch and Selwyn. From a ten-year-old wall unit to a new ducted system, we find the fault and price the fix before any work.
 hero: mitsubishi-hero
 gallery: [mitsubishi-1, mitsubishi-2]
+faqHeading: "Mitsubishi heat pump questions"
+relatedHeading: "More on Mitsubishi heat pumps"
 faqs:
   - q: Do you repair Mitsubishi heat pumps you didn't install?
     a: Yes. It doesn't matter who put it in. We repair and service Mitsubishi Electric units whoever installed them.

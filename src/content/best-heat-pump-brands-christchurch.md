@@ -8,6 +8,8 @@ intro: There's no single best heat pump brand in New Zealand. There is a best mo
 hero: bestbrands-hero
 updated: 2026-10-17
 gallery: [bestbrands-labelcheck, bestbrands-quiet]
+faqHeading: Questions about the best heat pumps in NZ
+relatedHeading: More on choosing the best heat pump brand
 faqs:
   - q: What is the best heat pump brand in NZ?
     a: No brand is ahead on every model. Mitsubishi Electric, Daikin, Fujitsu and Toshiba all sell full ranges here, and each has models that suit some rooms better than others. Compare specific models of the same size on heating output at 2°C, Cold zone stars, kWh per year and noise.
@@ -23,19 +25,19 @@ related:
   - { label: Energy rated heat pumps, href: /energy-star-heat-pumps/, text: How the energy rating label works. }
 ---
 
-## Why "best" depends on the house
+## Why the best heat pump depends on the house
 
 Search for the best heat pumps in New Zealand and you'll find rankings, awards and satisfaction surveys. They can tell you how owners feel about a brand. They can't tell you whether a particular model will heat your lounge on a frosty Christchurch morning, fit the wall you have, or stay quiet enough beside your neighbour's bedroom.
 
 A heat pump that's excellent in one house can be the wrong buy in the next. An undersized premium unit can perform worse than a correctly sized mid-range one. So rather than crown a brand, this guide gives you the checks that pick out the right model for your rooms. The facts come from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
 
-## Check 1: Heating output in the cold
+## Check 1: Cold weather output on the best heat pumps
 
 For a Canterbury home, this is the check to start with. The label shows two heating capacities, one at 7°C and one at 2°C outside. EECA explains that frost forms on the outdoor coil below about 5.5°C, and part of the unit's effort goes into defrosting. Some models are better designed for frosty conditions and some give out noticeably less heat at 2°C than at 7°C.
 
 What to look for: a 2°C figure that is the same as or higher than the 7°C figure. For colder still, ask for the manufacturer's performance chart showing output at 0°C, minus 5°C and below. EECA lists Christchurch and Selwyn's design temperature as minus 4°C. Our [cold climate heat pumps](/cold-climate-heat-pumps/) page goes further.
 
-## Check 2: The right size
+## Check 2: The right size, even for the best heat pump brands
 
 No quality of model makes up for the wrong size. Size is set by the room's heat loss and the outdoor design temperature. Our [heat pump size guide](/heat-pump-sizing/) explains the method and our [size calculator page](/calculator-single-room-heat-pump/) links to the official tool.
 
@@ -49,7 +51,7 @@ Because stars are relative to capacity, compare a 6 kW unit with other 6 kW unit
 
 Next to the stars is an estimate of the electricity the unit will use each year for heating and cooling in each zone. EECA suggests adding the heating and cooling figures for your zone and multiplying by your electricity price to get a rough annual running cost. It's an indication only, because every household uses its heat pump differently, but it's a fair way to compare two models of the same size.
 
-## Check 5: Noise
+## Check 5: Indoor and outdoor noise levels
 
 The house icon on the label shows sound levels in decibels: inside the house for the indoor unit, outside for the outdoor unit. Lower is quieter. EECA's guidance points out:
 
@@ -84,10 +86,10 @@ A heat pump should last many years, so think about what happens after the instal
 
 We install four brands and service Panasonic and most others sold here, so we can compare models without favouring one.
 
-## The installer matters as much as the brand
+## The best heat pump brand still needs a good installer
 
 EECA's installation guide says many problems with poorly performing heat pumps come from the units being put in the wrong place. A good model badly sized or badly placed will disappoint. Our [installer checklist](/best-heat-pump-installers-christchurch/) covers what to ask.
 
-## How we recommend a model
+## How we pick the best heat pump for your home
 
 We don't have a favourite brand. On a site visit we size the room from its measurements, insulation, windows and how you use it, look at where the outdoor unit can go, and then compare suitable models from all four brands on their cold-weather output, efficiency and noise. You get our recommendation and a fixed price before any work starts. The quote is free. Phone **03 242 1023** or [request a quote through our contact page](/contact-us/). For what each brand sells, see our [heat pump brands comparison](/heat-pump-brands-comparison/).

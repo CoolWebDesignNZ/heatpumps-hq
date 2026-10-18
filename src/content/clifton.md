@@ -10,6 +10,8 @@ suburb: Clifton
 intro: We install, service and repair heat pumps for Clifton homes on the hill between Redcliffs and Sumner. Access, pipe runs and exposure are all planned before we give you a fixed price.
 hero: clifton-hero
 gallery: [pool-hill-home, pool-coastal-home]
+faqHeading: "Questions about heat pumps in Clifton"
+relatedHeading: "More on heat pumps near Clifton"
 faqs:
   - q: Is there a limit on how far apart the indoor and outdoor units can be?
     a: Yes. Each model has a maximum pipe length and height difference set by the manufacturer. On a multi-level Clifton house we check those figures for the model before we confirm the layout.
@@ -25,23 +27,23 @@ related:
   - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: Why a unit gets loud and how to quieten it. }
 ---
 
-## Living high above the sea
+## Living high above the sea in Clifton
 
 Clifton sits on the hill between Redcliffs and Sumner, with homes perched on steep sections and some right along the cliff top. Views run out over the estuary and the open sea. Many houses here are rebuilds or have had major repair work since the earthquakes, and some sites have needed rockfall or slope protection.
 
 Those sites bring three challenges for a heat pump: getting gear to the house, finding a sound place for the outdoor unit, and protecting it from wind and salt.
 
-## Access and pipe runs
+## Heat pump installation across Clifton's split levels
 
 Clifton houses are often built over several levels, with the living area on top for the view and the garage or entry below. The best place for an indoor unit and the only workable place for the outdoor unit can be a long way apart. Pipe length and the rise between the two units both have manufacturer limits, and we confirm the chosen model sits inside them.
 
 Where the route crosses floors, we look for a path through a garage, a service cavity or along the outside under neat ducting. Some homes are reached by steep paths or steps rather than a driveway, and the carry-in is built into the quote.
 
-## Brackets and decks
+## Brackets and decks on Clifton hill sites
 
 On a hillside, a galvanised wall bracket or a deck is usually the mounting point. The fixing has to go into solid framing, the unit needs anti-vibration mounts, and it has to stay within reach for servicing. A position that needs scaffolding to get to is a poor long-term choice.
 
-## Wind and salt
+## Protecting Clifton heat pumps from wind and salt
 
 Much of Clifton is exposed to the weather coming in off the sea. Wind blowing straight into the outdoor unit disrupts its airflow and drives salt onto the coil. We favour a spot in the lee of the house, still with clear space around the unit. A yearly service includes checking the coil and casing for corrosion, and a gentle rinse with a hose between services helps.
 

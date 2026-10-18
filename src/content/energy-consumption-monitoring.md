@@ -8,6 +8,8 @@ serviceName: Heat pump power usage check
 intro: How much power a heat pump uses depends on the unit, the house, the weather and how you run it. Here is how to find your own figure, and what we look at when the usage seems too high.
 hero: power-hero
 gallery: [power-meter, power-outdoor]
+faqHeading: "Questions about heat pump running costs"
+relatedHeading: "More ways to use less power"
 faqs:
   - q: How much power does a heat pump use?
     a: It varies with the size of the unit, the outdoor temperature, the set temperature and how long it runs. The energy label gives a kWh per year figure for heating in the Cold zone, which is a useful comparison between models. Your real use can be higher or lower.
@@ -23,7 +25,7 @@ related:
   - { label: Energy rating labels, href: /energy-star-heat-pumps/, text: Reading the kWh figures on the label. }
 ---
 
-## What decides how much power a heat pump uses
+## What decides heat pump power usage
 
 A heat pump only uses as much power as the job asks of it. The main factors are:
 
@@ -34,13 +36,13 @@ A heat pump only uses as much power as the job asks of it. The main factors are:
 - **The unit's size and efficiency.** A correctly sized, well rated unit running gently uses less than an undersized one running flat out.
 - **Its condition.** Dirty filters and coils, or a refrigerant charge that is low, mean longer run times for the same heat.
 
-## Using the energy label
+## Using the energy label to estimate heat pump running cost
 
 New heat pump models carry the Zoned Energy Rating Label, with a kWh per year figure for heating and cooling in each climate zone. New Zealand is in the Cold zone. EECA says these figures are only an indication, because use varies by household, and suggests adding the heating and cooling kWh for your zone and multiplying by your electricity tariff for a rough yearly cost ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
 
 That makes the label good for comparing two models, and less good for predicting your bill. More on the label in our [energy rating guide](/energy-star-heat-pumps/).
 
-## Finding your real figure
+## How much power does your heat pump use?
 
 To see what your heat pump actually uses:
 
@@ -48,7 +50,7 @@ To see what your heat pump actually uses:
 - **The heat pump's app.** Some Wi-Fi controllers show an energy reading. It's an estimate from the unit, not a meter, but it's useful for spotting change over time. See [remote monitoring](/remote-monitoring-and-diagnostics/).
 - **Your own notes.** Write down your settings and hours for a week. A spike in use usually lines up with a change in settings, a cold snap or a fault.
 
-## When the power use seems too high
+## When heat pump energy consumption seems too high
 
 If your bill has gone up and the weather and your habits haven't changed, the heat pump may be working harder than it should. On a visit we check:
 
@@ -65,6 +67,6 @@ You get a plain explanation of what we found and what will bring the usage down,
 
 The savings you control yourself come from settings: a steady set temperature, heat mode rather than auto, doors closed to unheated rooms and timers that match when you're home. Clean filters and a yearly service keep the unit from drifting back up. Our [energy efficient heat pump guide](/energy-efficient/) covers each of these in detail.
 
-## Book a check
+## Book a heat pump power check
 
 If your heat pump power usage looks wrong, call **03 242 1023** or [request a quote](/contact-us/). We visit homes across Christchurch, Selwyn and Lyttelton.

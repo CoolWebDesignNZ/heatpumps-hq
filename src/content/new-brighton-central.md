@@ -10,6 +10,8 @@ suburb: New Brighton Central
 intro: We install, service and repair heat pumps around the New Brighton town centre, in standalone houses, flats and blocks of units. Each job has a fixed price agreed first.
 hero: new-brighton-central-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
+faqHeading: "New Brighton Central heat pump questions"
+relatedHeading: "Heat pumps near New Brighton Central"
 faqs:
   - q: Can I put a heat pump in a unit or flat in New Brighton Central?
     a: Usually, yes. Check with your body corporate or landlord first, since the outdoor unit and pipe run often go on a shared wall. We can give you the details they need to approve it.
@@ -25,13 +27,13 @@ related:
   - { label: Single-room heat pumps, href: /single-room-heat-pump-installation/, text: One unit for one living space. }
 ---
 
-## A mix of homes around the town centre
+## Heat pump installation around the New Brighton Central shops
 
 The streets around the New Brighton shops have more variety than the rest of the area. Older houses sit beside blocks of flats, units built behind original homes, and newer townhouses. Sections are smaller, buildings are closer together, and a lot of homes share at least one wall.
 
 That changes the questions. In a standalone cottage, the issue is usually heat loss. In a unit or townhouse, it's more often where the outdoor unit can go and how close it will be to someone else's bedroom.
 
-## Sizing for flats and units
+## Sizing heat pumps for New Brighton Central flats
 
 A flat with neighbours on both sides loses less heat than a standalone house of the same size, because the shared walls stay warm. That means a smaller heat pump often does the job. Upstairs units can gain heat from below, and top floor units lose more through the roof. We size every job from the actual rooms and how the home is built, so a compact flat isn't sold a unit meant for a family house. For a single living space, see [single-room installation](/single-room-heat-pump-installation/).
 
@@ -46,15 +48,15 @@ Where there's little or no yard, we look at:
 
 If you're in a body corporate, get approval before booking. We can supply the unit's size, position and pipe route for the application.
 
-## Rental homes
+## Rental homes near the town centre
 
 If you let a house or flat near the town centre, the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) means it needs fixed heating that can directly heat the main living room. A heat pump with a thermostat is one of the accepted options. We size it from the room, not just from the minimum.
 
-## Salt and servicing
+## Salt and heat pump service in New Brighton Central
 
 The town centre is only a short distance from the beach, so salt still reaches the outdoor unit. A rinse every few months and a yearly [service](/maintenance-servicing/) keep it running well. We service and repair all the major brands, including Panasonic.
 
-## Nearby
+## Suburbs near New Brighton Central
 
 We also cover [New Brighton](/new-brighton/), [North New Brighton](/north-new-brighton/), [South New Brighton](/south-new-brighton/) and [Wainoni](/wainoni/).
 

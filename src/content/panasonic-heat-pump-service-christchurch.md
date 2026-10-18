@@ -8,6 +8,8 @@ serviceName: Panasonic heat pump repair and servicing
 intro: We service and repair Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. We don't sell or install Panasonic, so if a unit is past saving, we'll say so plainly and quote a replacement from the brands we do install.
 hero: panasonic-hero
 gallery: [panasonic-1, panasonic-2]
+faqHeading: Panasonic heat pump questions
+relatedHeading: More on repairs and replacement
 faqs:
   - q: Do you install Panasonic heat pumps?
     a: No. We service and repair Panasonic, but the brands we install are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
@@ -23,7 +25,7 @@ related:
   - { label: Choosing a heat pump, href: /choosing-heat-pump/, text: What to weigh up if it's time for a new one. }
 ---
 
-## Panasonic units we service and repair
+## Panasonic heat pumps we service and repair
 
 Many Panasonic units were put in by another company or a previous owner, and that's no barrier. We work on:
 
@@ -64,7 +66,7 @@ Full details are on our [servicing](/maintenance-servicing/) page. A sour or mus
 
 Fan motors, sensors and control boards are common replacement parts on any brand. On older Panasonic units some of those can become hard to source. We check before we quote, so you're not left with a half-finished repair waiting on a part that doesn't exist. More on our [parts replacement](/heat-pump-parts-replacement/) page.
 
-## When replacement makes more sense
+## When to replace a Panasonic heat pump
 
 If the compressor has failed on an older Panasonic, parts can't be found, or the unit is running an older refrigerant and keeps needing work, a new heat pump is usually the better spend. Because we don't install Panasonic, our replacement quote will be a Mitsubishi Electric, Daikin, Fujitsu or Toshiba unit. We size it from the room, the insulation, the windows and how you use the space, not just from the size of the old unit.
 

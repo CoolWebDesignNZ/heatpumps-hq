@@ -8,6 +8,8 @@ serviceName: Heat pump leak detection and repair
 intro: A heat pump can leak two things, water and refrigerant gas. Water from the indoor unit is usually a drain problem. A refrigerant leak slowly takes the heat away. We find which one you have and repair it.
 hero: leak-hero
 gallery: [leak-1, leak-2]
+faqHeading: "Questions about a heat pump leaking water"
+relatedHeading: "More heat pump repair guides"
 faqs:
   - q: Why is my heat pump dripping water inside?
     a: The indoor unit makes water when it cools or dries the air, and that water runs out through a drain hose. If the hose is blocked, kinked or sagging, or the unit isn't level, the water overflows the tray and drips down the wall.
@@ -25,7 +27,7 @@ related:
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: A yearly service includes a drain check. }
 ---
 
-## Water or refrigerant?
+## Heat pump leaking water or refrigerant?
 
 These are two different problems with different fixes.
 
@@ -44,7 +46,7 @@ If water is dripping from the indoor unit or staining the wall below it, the cau
 
 The repair is usually a clear-out and flush of the tray and hose, re-routing or replacing the hose, or levelling the unit. Our [heat pump cleaning](/heat-pump-cleaning/) service deals with mould in the tray and coil.
 
-## Water from the outdoor unit
+## Heat pump dripping water from the outdoor unit
 
 In heating mode a steady drip or a short burst of water from the outdoor unit after it has been steaming is defrost meltwater. It's what should happen. Where the water ends up is the part to get right: it shouldn't pool against the foundations, run across a path where it will freeze, or drip on a neighbour's side. A drain fitting with a hose to a gully, or raising the unit on feet over gravel, sorts that out.
 
@@ -70,7 +72,7 @@ Leaks tend to start at joints, especially the flare joints where the pipes conne
 
 Some newer Daikin wired controllers can detect and alert to an R32 refrigerant leak, according to [Daikin New Zealand's controller range](https://www.daikin.co.nz/pages/controllers). Most heat pumps rely on falling performance or a fault code instead.
 
-## If you think you have a gas leak
+## If you think you have a heat pump gas leak
 
 Switch the heat pump off, open a window in the room, and keep naked flames and portable heaters away. Don't tighten the pipe nuts or try a repair kit. Over-tightened flare joints crack, and the leak gets worse.
 

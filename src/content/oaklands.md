@@ -10,6 +10,8 @@ suburb: Oaklands
 intro: Oaklands is mainly brick family homes from the 1960s to the 1980s, in the south-west of the city. We install, service and repair heat pumps to suit them, with a fixed price agreed first.
 hero: oaklands-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
+faqHeading: Questions about heat pumps in Oaklands
+relatedHeading: Heat pumps near Oaklands
 faqs:
   - q: Can I add a bedroom heat pump to the one I already have?
     a: Yes. A separate small unit is the simplest way. If you want several rooms heated, a multi-room system can run more than one indoor unit from a single outdoor unit, though it usually means replacing the existing one.
@@ -29,7 +31,7 @@ Oaklands sits between Halswell and Hoon Hay, and its streets are mostly single s
 
 Plenty of these homes already have a heat pump in the lounge. The trouble is that it was often the only heater fitted, and the bedrooms at the far end of the hall stay cold and can grow mould on the window frames.
 
-## Heating the bedroom wing
+## Heating the bedroom wing of an Oaklands house
 
 There are a few ways to get warmth into the bedrooms of an Oaklands house:
 
@@ -39,19 +41,19 @@ There are a few ways to get warmth into the bedrooms of an Oaklands house:
 
 We look at the ceiling insulation and the windows before recommending any of them. A bedroom with thin insulation and single glazing needs more capacity than its size suggests.
 
-## Replacing an old lounge unit
+## Repair or replace an old Oaklands lounge heat pump
 
 If your lounge heat pump is noisy, slow to warm up or losing output, it may be due for a service or a repair rather than a replacement. We'll check it and tell you honestly. Where replacement makes sense, we'll size the new unit from the room rather than copying the old one.
 
-## A quiet bedroom unit
+## A quiet bedroom unit for Oaklands homes
 
 A bedroom heat pump should be quiet enough to sleep beside. Indoor units have a low fan setting for night use, and placing the unit away from the bed head means the airflow doesn't blow across you. Outside, the unit for a bedroom often runs through the night, so we keep it off walls near the neighbour's windows.
 
-## Frost in the south-west
+## Oaklands frosts and the outdoor unit
 
 Oaklands gets the cold, still frosty mornings typical of the flat south-west of the city. Outdoor units are best set on raised feet or a wall bracket, clear of ice and with somewhere for defrost water to go. Oaklands is under the Christchurch District Plan, which judges noise at the neighbouring site; our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits.
 
-## Services we provide
+## Heat pump installation in Oaklands
 
 - Heat pump installs: Mitsubishi Electric, Daikin, Fujitsu or Toshiba.
 - Yearly [servicing](/maintenance-servicing/).

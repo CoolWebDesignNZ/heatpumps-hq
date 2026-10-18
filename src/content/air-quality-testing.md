@@ -8,6 +8,8 @@ serviceName: Heat pump air quality check
 intro: If the air in your home seems stale, dusty or musty when the heat pump runs, the unit itself is often part of the problem. We check the heat pump for what it could be adding to the air, and clean it out.
 hero: airquality-hero
 gallery: [airquality-coil, airquality-drain]
+faqHeading: "Air quality testing questions"
+relatedHeading: "More on clean heat pump air"
 faqs:
   - q: Do you do laboratory indoor air quality testing?
     a: No. We don't take air samples, test for mould spores or measure pollutants for a lab report. We inspect the heat pump for dust, mould and moisture that could be affecting the air, and clean or repair it. If you need a formal air quality test, use a specialist who offers laboratory sampling.
@@ -23,17 +25,17 @@ related:
   - { label: Heat pump allergies and asthma, href: /allergy-asthma-solutions-heat-pumps/, text: Filters, purifiers and keeping the home dry. }
 ---
 
-## What we check, and what we don't
+## What our indoor air quality testing covers, and what it doesn't
 
 A formal indoor air quality test samples the air and sends it to a lab, or measures pollutants with calibrated instruments. **We don't do that.** We're heat pump specialists, and what we check is the heat pump: whether it's clean, dry and draining, and whether it could be spreading dust or mould around the room.
 
 If you want laboratory results, for a health concern, an insurance claim or a building dispute, get a specialist who offers air sampling. If the heat pump turns out to be part of the problem, we can clean or fix it.
 
-## How a heat pump can affect the air
+## How a heat pump can affect the air in your home
 
 An indoor unit pulls room air through its filters, across a coil and through a fan. Dust collects on all three, and the coil gets damp whenever the unit cools or dehumidifies, so mould can grow on the fins, in the fan wheel and in the drain tray. Each time the unit runs, room air passes over that build-up. Our [heat pump allergies guide](/allergy-asthma-solutions-heat-pumps/) explains how that affects people with allergies or asthma.
 
-## What we look at
+## What we look at during an air quality test at home
 
 1. **Filters.** How clogged they are and whether they're damaged or missing.
 2. **The indoor coil.** Dust, grime and mould on the fins.
@@ -43,7 +45,7 @@ An indoor unit pulls room air through its filters, across a coil and through a f
 6. **Moisture in the room.** Condensation on windows and mould on walls or ceilings near the unit, which tell us whether the house has a damp problem beyond the heat pump.
 7. **Ducted systems.** Return air filters and the grilles, and the parts of the ducting we can reach.
 
-## What happens next
+## What happens after the air quality testing
 
 You get a plain explanation of what we found. If the unit is dirty, we clean it properly, with the indoor unit wrapped and the run-off caught. That's covered on our [heat pump cleaning](/heat-pump-cleaning/) page. If there's a persistent smell, see [heat pump deodorising](/heat-pump-deodorising/). If the drain is blocked or damaged, we clear or repair it.
 
@@ -59,6 +61,6 @@ If we see condensation and mould well away from the heat pump, we'll tell you. A
 
 Clean filters, a yearly [service](/heat-pump-servicing/) that checks the coil and drain, and dealing with damp at its source do most of the work. After running cooling or dry mode, a spell on fan or heat lets the coil dry out.
 
-## Book a check
+## Book air quality testing in Christchurch
 
 To have your heat pump checked anywhere in Christchurch, Selwyn or Lyttelton, call **03 242 1023** or [book online](/contact-us/).

@@ -10,6 +10,8 @@ suburb: Marshland
 intro: Marshland covers lifestyle blocks, older rural houses and new subdivisions on the city edge. We install, service and repair heat pumps across all of it, at a price fixed before we begin.
 hero: marshland-hero
 gallery: [pool-lifestyle, pool-newbuild-living]
+faqHeading: "Questions about heat pumps in Marshland"
+relatedHeading: "Heat pumps around Marshland"
 faqs:
   - q: Do you come out to semi-rural properties in Marshland?
     a: Yes. We cover the whole of Marshland, including lifestyle blocks and rural properties, as part of our Christchurch area.
@@ -25,11 +27,11 @@ related:
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Choosing a unit for frosty, open ground. }
 ---
 
-## Semi-rural Marshland
+## Heat pump installation in semi-rural Marshland
 
 Marshland lies on flat, open land on Christchurch's north-eastern edge. It has long been an area of market gardens and lifestyle blocks, with farmhouses and larger rural homes set back from the road, and newer subdivisions now spread along its city side. Heating needs vary a lot from one property to the next.
 
-## Open ground and hard frosts
+## Open ground and hard frosts in Marshland
 
 With few buildings or trees to shelter it, open land loses heat fast on clear winter nights, and frosts here can be harder than in the inner suburbs. That's when an outdoor unit works hardest and defrosts most often. We:
 
@@ -39,25 +41,25 @@ With few buildings or trees to shelter it, open land loses heat fast on clear wi
 
 Our [cold climate heat pumps](/cold-climate-heat-pumps/) guide goes into what to look for in a unit for this kind of site.
 
-## Larger rural homes
+## Heat pumps for larger rural homes in Marshland
 
 Older farmhouses and lifestyle homes often have big living areas, high ceilings or later additions, and may have relied on a wood burner. A single wall unit rarely heats all of that. A larger high wall unit for the living space, plus a [multi-room system](/multi-room-heat-pump-installation/) for bedrooms, is a common plan. We measure each room, check the insulation and look at the windows before suggesting anything.
 
-## New homes on the city side
+## New homes on Marshland's city side
 
 The new houses on Marshland's edge are well insulated and usually open plan. If you're building, talk to us early: ducting and pipe routes are far easier to plan before the linings go up. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-## Power and access
+## Power and access on Marshland properties
 
 On a rural property we check the switchboard capacity and the route for the electrical supply to the outdoor unit. A licensed electrical worker does the electrical connection on every install.
 
-## Services
+## Heat pump installs, service and repairs in Marshland
 
 - **Installation** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems.
 - **Servicing** of all the major brands. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs**, including Panasonic and other brands. See [heat pump repairs](/heat-pump-repair/).
 
-## Nearby
+## Areas near Marshland
 
 We also cover [Spencerville](/spencerville/), [Mairehau](/mairehau/), [Parklands](/parklands/), [Burwood](/burwood/) and the rest of [the Christchurch area](/locations/).
 

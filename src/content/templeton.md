@@ -10,6 +10,8 @@ suburb: Templeton
 intro: Templeton is a small township on the city's south-western fringe, with newer streets, older houses and semi-rural sections around it. We install, service and repair heat pumps across all of it.
 hero: templeton-hero
 gallery: [pool-frost-outdoor, pool-newbuild-living]
+faqHeading: "Questions about heat pumps in Templeton"
+relatedHeading: "More on heat pumps near Templeton"
 faqs:
   - q: Is Templeton under Christchurch or Selwyn rules?
     a: Templeton is within Christchurch City, so the Christchurch District Plan applies, even though Selwyn starts close by. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> sets out the noise rules that follow from that.
@@ -23,31 +25,31 @@ related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: How we plan and fit a new system. }
 ---
 
-## A township on the edge of the plains
+## Templeton, a township on the edge of the plains
 
 Templeton sits beyond Hornby on the road south, surrounded by paddocks and semi-rural sections. Its homes are a mix: older houses on bigger sections, newer homes in recent subdivisions, and lifestyle properties on the outskirts. Although it feels like a country town, it is part of Christchurch City.
 
 Because it is out on the open plains, Templeton gets cold, frosty mornings and wind from the nor'west. A heat pump here needs to be sized and placed with that in mind.
 
-## Newer homes
+## Heat pump installation in newer Templeton homes
 
 Recent Templeton homes usually have insulation, double glazing and an open plan living area. One well placed wall unit can often heat that space. Bedrooms grouped down one end or upstairs typically need their own heating, either a separate small unit or a [multi-room system](/multi-room-heat-pump-installation/). If you're building, plan pipe runs or ducting before the walls are lined. A new home also gives a choice of where the outdoor unit sits: a side wall away from bedrooms, on a concrete pad, is easier to arrange before the paths and fences go in.
 
-## Older houses and bigger sections
+## Older Templeton houses and bigger sections
 
 Older Templeton houses can be harder to heat, with thinner insulation and rooms spread out. We check the ceiling and underfloor at the quote, then size the unit for the room it heats on a cold morning, not an average day. For a long, spread-out house, [ducted heating](/ducted-heat-pumps-christchurch/) can be worth pricing.
 
-## Semi-rural sections
+## Heat pumps on semi-rural Templeton sections
 
 On the larger sections around Templeton, there's usually more freedom in where the outdoor unit goes, since neighbours are further away. That lets us put it on the most sheltered wall, close to the indoor unit for a short pipe run. Where a house has outbuildings or a sleepout, a separate small heat pump can heat that space without running pipes across the section.
 
 Rural houses can also have older switchboards. On every install, the electrical connection is done by a licensed electrical worker.
 
-## Built for the cold mornings
+## Outdoor units built for Templeton's cold mornings
 
 Outdoor units in Templeton face frost on clear nights. A heat pump defrosts its outdoor coil now and then on those mornings, and that meltwater has to go somewhere. We fit units on raised feet or a bracket, clear of the ground and grass, on a side of the house that's sheltered from the strongest wind where possible.
 
-## Our Templeton services
+## Our Templeton heat pump services
 
 - **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing** before winter, with filters, coil and drain cleaned. See [servicing](/maintenance-servicing/).

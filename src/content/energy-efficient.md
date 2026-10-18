@@ -8,6 +8,8 @@ intro: A heat pump's efficiency comes from four places, the unit itself, how it 
 hero: efficient-hero
 updated: 2026-10-17
 gallery: [efficient-filter, efficient-curtains]
+faqHeading: Questions about heat pump energy efficiency
+relatedHeading: More on energy efficient heating
 faqs:
   - q: Which is the most energy efficient heat pump?
     a: There's no single answer. Efficiency is rated against other heat pumps of a similar capacity, so compare the Cold zone heating stars on the energy label for units of the size your room needs. A highly rated unit that is too big or too small for the room won't run at its best.
@@ -23,25 +25,25 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: Getting the capacity right for each room. }
 ---
 
-## How a heat pump can be efficient at all
+## Why a heat pump is more energy efficient than a heater
 
 An electric fan heater or panel heater turns electricity directly into heat, one for one. A heat pump uses electricity to run a compressor and fans that move heat from the outdoor air into the house. Because it's moving heat rather than making it, it puts out more heat than the electricity it uses.
 
 EECA's label guidance gives a sense of the scale. A one star heat pump on the Zoned Energy Rating Label has a heating seasonal performance factor of between 2.5 and 3, and a three star unit between 4.5 and 5 ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). In plain terms, even a poorly rated heat pump gives around two and a half to three times the heat per unit of power of a resistive heater, and a well rated one does better again.
 
-## 1. The unit
+## 1. The unit and its inverter
 
 Efficiency is built into the design: the compressor, the size of the coils, the fans and how well the unit runs at part load. Modern inverter heat pumps slow down and speed up to match the heat the room needs instead of running flat out and stopping.
 
 To compare models, use the heating stars in the Cold zone on the energy label, which is where all of New Zealand sits. Stars compare a unit with others of similar capacity, so compare a 6 kW unit with other 6 kW units. Our [energy rating label guide](/energy-star-heat-pumps/) explains each part of the label.
 
-## 2. The size
+## 2. The size of the heat pump
 
 A correctly sized heat pump spends most of its time running gently, which is how inverter units are designed to work. An undersized unit runs flat out on cold mornings and still can't keep up. An oversized one reaches temperature quickly, then runs in short bursts.
 
 We size every install from the rooms, the insulation, the windows and how the house is used. The [sizing guide](/heat-pump-sizing/) explains the method.
 
-## 3. The installation
+## 3. How it is installed
 
 A well chosen unit can lose efficiency through a poor install:
 
@@ -50,7 +52,7 @@ A well chosen unit can lose efficiency through a poor install:
 - **Pipe runs.** Kept as short and tidy as the house allows, insulated, and within the manufacturer's limits.
 - **Commissioning.** The system tested in heating and cooling once it's running, so any problem shows up on day one.
 
-## 4. How you run it
+## 4. Settings that keep your heating energy efficient
 
 Settings make a real difference to your power bill:
 
@@ -61,7 +63,7 @@ Settings make a real difference to your power bill:
 - **Use the timer.** Have it come on before you get home or get up, rather than leaving it on all day in an empty house or blasting a cold one.
 - **Clean the filters.** Every few weeks in winter. Blocked filters cut airflow and make the unit work harder for the same heat.
 
-## The house matters as much as the heat pump
+## How the house affects heat pump energy efficiency
 
 A heat pump in a house with no ceiling insulation is heating the roof space. Insulation, draught stopping, thermal curtains and sealing gaps around doors and windows reduce how much heat the room needs, so the heat pump can be smaller and run less. If you're planning insulation work, do it before you size a heat pump, not after.
 
@@ -71,6 +73,6 @@ Efficiency drops slowly as a heat pump gets dirty. Dust on the indoor coil and f
 
 If your heat pump is old, our [replacement and upgrade page](/heat-pump-efficiency-upgrades/) explains how to tell whether a new unit would pay off.
 
-## Next step
+## Get a quote for an energy efficient heat pump
 
 For an energy efficient heat pump sized for your home, call **03 242 1023** or [request a free fixed-price quote](/contact-us/).

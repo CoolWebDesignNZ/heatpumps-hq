@@ -8,6 +8,8 @@ serviceName: Heat pump deodorising
 intro: A heat pump should blow air that smells of nothing. When it doesn't, the smell usually tells you where the problem is, and the fix is to remove the source rather than cover it up.
 hero: deodorise-hero
 gallery: [deodorise-coil-mould, deodorise-drain]
+faqHeading: "Heat pump smell questions"
+relatedHeading: "More on keeping a heat pump fresh"
 faqs:
   - q: Why does my heat pump smell musty?
     a: Mould and bacteria growing on the wet coil, the fan wheel or the slime in the drain tray. It's worst when the unit first starts, and after it has been used for cooling or dry mode.
@@ -23,7 +25,7 @@ related:
   - { label: Air quality testing, href: /air-quality-testing/, text: When the smell might be the house, not the heat pump. }
 ---
 
-## What the smell is telling you
+## What a heat pump smell is telling you
 
 | Smell | Likely cause | What to do |
 | --- | --- | --- |
@@ -42,7 +44,7 @@ The indoor coil gets cold and wet whenever the unit cools or dehumidifies. Dust 
 
 Smells are often worst in spring and early summer, when the unit switches from heating to cooling and the coil gets wet again. A unit that has sat unused for months can also smell stale on its first run.
 
-## How we deodorise a heat pump
+## How we remove a heat pump odour
 
 We treat smells by removing what causes them:
 
@@ -54,7 +56,7 @@ We treat smells by removing what causes them:
 
 If the smell is electrical, it's a fault rather than a clean, and it's handled as a [repair](/heat-pump-repair/).
 
-## Stopping the smell coming back
+## Stopping a musty heat pump smell coming back
 
 - **Wash the filters regularly.** Less dust on the coil means less for mould to feed on.
 - **Dry the coil after cooling.** Some units have a setting that runs the fan briefly after cooling or dry mode to dry the coil. If yours doesn't, run it in fan mode for a short while before turning it off.

@@ -10,6 +10,8 @@ suburb: Wainoni
 intro: Heat pump installation, servicing and repairs for Wainoni homes, many of them built in the decades after the war. We agree a fixed price before work starts.
 hero: wainoni-hero
 gallery: [pool-weatherboard, pool-console-unit]
+faqHeading: "Wainoni heat pump questions"
+relatedHeading: "Heat pumps near Wainoni"
 faqs:
   - q: What size heat pump does a 1960s Wainoni house need?
     a: It depends on the room size, windows and how much insulation has been added since. A lounge in an uninsulated house can need noticeably more capacity than the same room after insulating. We measure and work it out on site.
@@ -23,11 +25,11 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity. }
 ---
 
-## Mid-century homes in Wainoni
+## Heat pump installation in mid-century Wainoni homes
 
 Much of Wainoni was built from the 1950s to the 1970s, with a mix of state and private houses. Typical homes are single-storey weatherboard or brick on piles, with a separate lounge, a kitchen and dining area, and three bedrooms off a hallway. Many have had ceiling insulation added; fewer have wall insulation or double glazing.
 
-## Sizing for an older house
+## Sizing a heat pump for an older Wainoni house
 
 A Wainoni lounge with single glazing and uninsulated walls loses heat steadily on a cold night, so the heat pump needs enough capacity to keep up on the coldest mornings, not just mild evenings. Too small a unit runs flat out and still leaves the room cool. Too big a unit costs more than it should.
 
@@ -35,21 +37,21 @@ We work out the capacity from the room's size, the window area, the insulation a
 
 If you're planning to insulate, tell us. It can change the size we recommend.
 
-## Getting heat to the bedrooms
+## Getting heat to Wainoni bedrooms
 
 A heat pump in the lounge of a Wainoni house warms the lounge. Closed bedroom doors and a narrow hallway keep most of that heat where it is. For warmer bedrooms, the usual options are a second small wall unit, a [multi-room system](/multi-room-heat-pump-installation/), or a floor console in a room where there's no good wall space up high.
 
-## Pipe runs and outdoor units
+## Pipe runs and outdoor units on piles
 
 Houses on piles make pipe runs easier. We can often run the pipework under the floor from the indoor unit to an outdoor unit on a side wall, which looks tidier than a long run of ducting on the outside of the house. The outdoor unit sits on a pad or bracket, raised for drainage, with clear space around it and away from the neighbour's bedroom windows.
 
 Wainoni is a few kilometres from the beach, but easterly winds still bring some salt inland. A light rinse of the outdoor coil now and then helps keep it clean.
 
-## Servicing and repairs
+## Heat pump service and repairs in Wainoni
 
 Older heat pumps in Wainoni homes often haven't been serviced in a long time. Dust in the filters and coil cuts heat output and can cause smells. We repair and service Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and most other brands besides. Book a [service](/maintenance-servicing/), or read about [repairs](/heat-pump-repair/) if it has stopped working.
 
-## Nearby
+## Suburbs near Wainoni
 
 We also cover [Aranui](/aranui/), [Avondale](/avondale/), [Bexley](/bexley/), [Dallington](/dallington/) and [New Brighton](/new-brighton/).
 

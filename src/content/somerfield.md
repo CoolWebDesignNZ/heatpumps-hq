@@ -10,6 +10,8 @@ suburb: Somerfield
 intro: Somerfield is flat and settled, with older bungalows, villas and family homes on generous streets. We install heat pumps that suit those houses and keep the pipework out of sight, at a fixed price.
 hero: somerfield-hero
 gallery: [pool-console-unit, pool-frost-outdoor]
+faqHeading: "Somerfield heat pump questions"
+relatedHeading: "Heat pumps near Somerfield"
 faqs:
   - q: What is a back-to-back install?
     a: The outdoor unit sits on the outside of the same wall as the indoor unit, so the pipes go straight through the wall with almost nothing visible. It's the neatest option when the room has an outside wall in a suitable spot.
@@ -23,13 +25,13 @@ related:
   - { label: Single room installation, href: /single-room-heat-pump-installation/, text: Wall and console units for one room. }
 ---
 
-## The houses in Somerfield
+## Heat pump installation in Somerfield bungalows and villas
 
 Somerfield lies between Beckenham and Spreydon on flat ground south of the city. The streets are lined with older bungalows and villas, many extended or renovated, plus newer homes where sections have been rebuilt. Plenty of these are family homes with a lounge, a dining room or sunroom and three or more bedrooms.
 
 With character homes like these, how the install looks matters almost as much as how it heats.
 
-## Keeping it tidy
+## Keeping a Somerfield heat pump install tidy
 
 Visible pipe covers running across a weatherboard wall or down a front gable can spoil an older house. We reduce that in a few ways:
 
@@ -40,7 +42,7 @@ Visible pipe covers running across a weatherboard wall or down a front gable can
 
 We'll show you where everything will sit before you agree to the quote.
 
-## Choosing the indoor unit
+## Choosing the indoor unit for a Somerfield room
 
 High-wall units are the common choice and suit a lot of rooms. Two other options suit older Somerfield homes:
 
@@ -49,11 +51,11 @@ High-wall units are the common choice and suit a lot of rooms. Two other options
 
 For bedrooms, we choose small, quiet units and place them so the air doesn't blow across the bed. In a bungalow with a long hall, a unit in the hall itself rarely reaches the rooms off it, so we put heat in the rooms you use instead.
 
-## Frost and the outdoor unit
+## Frost and the outdoor unit in Somerfield
 
 Somerfield's flat streets get their share of winter frosts. The outdoor unit needs to sit raised off the ground so defrost water drains away and can't freeze around the base. We use feet or a bracket rather than sitting it straight on a garden bed.
 
-## Looking after existing units
+## Heat pump service and repairs in Somerfield
 
 We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. A yearly [service](/maintenance-servicing/) keeps an existing unit efficient. If it has stopped heating, see [heat pump repairs](/heat-pump-repair/).
 

@@ -10,6 +10,8 @@ suburb: Redwood
 intro: Heat pumps for Redwood's 1960s to 80s family homes, from a single lounge unit to a system that heats every bedroom. You get a fixed price before we start.
 hero: redwood-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
+faqHeading: "Questions about heat pumps in Redwood"
+relatedHeading: "More on heat pumps near Redwood"
 faqs:
   - q: How do I heat the bedrooms in my Redwood home?
     a: The usual options are a small wall unit in each bedroom, a multi-room system that runs several indoor units off one outdoor unit, or a ducted system through the ceiling. We price the options that suit your house so you can compare.
@@ -23,7 +25,7 @@ related:
   - { label: Multi-room heat pumps, href: /multi-room-heat-pump-installation/, text: Several rooms from one outdoor unit. }
 ---
 
-## Redwood's houses
+## Heat pump installation for Redwood's houses
 
 Redwood is a northern Christchurch suburb of family homes, many of them single storey brick and tile houses built from the 1960s to the 1980s. They tend to have a lounge or family room at one end, bedrooms down a hallway and a garage on the side. For heating, that layout splits neatly into two zones: the living area and the bedrooms.
 
@@ -31,7 +33,7 @@ Redwood is a northern Christchurch suburb of family homes, many of them single s
 
 A single wall unit in the lounge is where most Redwood households start. It should face along the room rather than straight at a seat, and it needs a short pipe run to the outdoor unit for an efficient install. If the kitchen and dining area connect to the lounge through a wide opening, one unit can often heat all three.
 
-## Zone two: the bedrooms
+## Zone two: heat pumps for Redwood bedrooms
 
 Bedrooms are where these houses get cold, especially those on the shaded side. There are three ways to heat them:
 
@@ -41,15 +43,15 @@ Bedrooms are where these houses get cold, especially those on the shaded side. T
 
 We size each option from the rooms, the insulation and the windows, so the quote reflects your house.
 
-## Using the controls well
+## Using the heat pump controls well
 
 Most modern units have a timer and a weekly schedule. Setting the lounge to warm up half an hour before you get up, and the bedrooms before bedtime, is more comfortable than heating from cold on demand. We set this up with you at the end of the install.
 
-## Frosty mornings
+## Frosty mornings in Redwood
 
 Northern Christchurch gets plenty of clear, frosty winter mornings. An outdoor unit sitting on raised feet, with room to drain its defrost water, copes much better than one sat on the ground in a garden bed. We set that up as part of every install.
 
-## Servicing and repairs
+## Heat pump service and repairs in Redwood
 
 - **Servicing** once a year, ideally before winter. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs** for any major brand, including units someone else fitted. See [heat pump repairs](/heat-pump-repair/).

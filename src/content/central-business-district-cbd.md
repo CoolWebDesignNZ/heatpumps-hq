@@ -10,6 +10,8 @@ suburb: Central City
 intro: Heat pumps for apartments, townhouses and older cottages inside the four avenues. We plan around body corporate rules, small balconies and tight courtyards, and agree a fixed price first.
 hero: central-city-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
+faqHeading: "Questions about heat pumps in the CBD"
+relatedHeading: "More on heat pumps near the CBD"
 faqs:
   - q: Do I need body corporate approval for a heat pump in my apartment?
     a: If the work affects common property or another unit, yes. Unit Titles Services says you must tell the body corporate and get written consent from it and any affected owners. An outdoor unit on an exterior wall or a hole through one will often fall into that. Check your building's rules before booking. See <a href="https://www.unittitles.govt.nz/unit-owners-responsibilities/">unit owner responsibilities</a>.
@@ -25,11 +27,11 @@ related:
   - { label: Boundary rules and consent, href: /heat-pump-boundary-rules-consent-nz/, text: Noise limits and where an outdoor unit can sit. }
 ---
 
-## Central City homes and what they need
+## Heat pump installation for CBD apartments and townhouses
 
 Living in the Central City mostly means an apartment or a townhouse built during the rebuild, with a scattering of older cottages that survived. Newer buildings tend to be well sealed, double glazed and compact. That makes heating the easy part. Getting rid of heat can be the harder one: a north or west facing apartment with a wall of glass can get uncomfortably warm on a summer afternoon, so we look at cooling capacity as well as heating when we size a unit.
 
-## Body corporate first
+## Body corporate rules come first in the Central City
 
 An apartment or a unit-titled townhouse sits inside a set of building rules. Before we quote a final layout, find out what your body corporate allows. Questions worth asking:
 
@@ -39,17 +41,17 @@ An apartment or a unit-titled townhouse sits inside a set of building rules. Bef
 
 [Unit Titles Services](https://www.unittitles.govt.nz/unit-owners-responsibilities/) is clear that work affecting the common property or another unit needs the body corporate told and written consent given. We can describe the proposed install in writing for your committee.
 
-## Fitting into a small space
+## Fitting a heat pump into a small city apartment
 
 Space drives every decision in a city apartment. The indoor unit usually goes high on the main living wall, where its air can reach the kitchen and lounge without blowing straight onto the couch. In a two-level townhouse, a small wall unit upstairs is worth considering for the bedrooms, though warm air rising from the ground floor helps them.
 
 Outside, the coil needs room to breathe. A unit jammed into a balcony corner recirculates its own air and works harder. Defrost water has to go somewhere too, so we plan a drain line rather than letting it run across the balcony. 
 
-## Noise in the city
+## Heat pump noise limits in the Central City
 
 The Christchurch District Plan sets its own noise limits for the Central City, separate from the suburbs. Apartments put bedrooms close together, and a unit outside your lounge may sit metres from someone else's window. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how noise is judged and what helps.
 
-## What we do in the Central City
+## Heat pump installs, service and repair in the CBD
 
 - **Installing** compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where outdoor space allows only one unit. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Cleaning and checking** units that were handed over with the apartment and may have had no attention since. Details are on our [servicing page](/maintenance-servicing/).

@@ -10,6 +10,8 @@ suburb: Shirley
 intro: We install, service and repair heat pumps in Shirley's mid-century weatherboard and brick homes. Each quote is a fixed price, agreed before we start.
 hero: shirley-hero
 gallery: [pool-frost-outdoor, pool-bedroom-unit]
+faqHeading: "Shirley heat pump questions"
+relatedHeading: "More heat pump pages near Shirley"
 faqs:
   - q: Can a heat pump help with a damp Shirley house?
     a: It can help. Keeping rooms at a steady temperature reduces condensation, and most units have a dry mode that pulls moisture from the air. It won't fix a leak or rising damp, so those need sorting first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
@@ -25,27 +27,27 @@ related:
   - { label: Dehumidification, href: /heat-pump-dehumidification/, text: Using dry mode to cut damp and condensation. }
 ---
 
-## Shirley homes and winter damp
+## Heat pump installation for damp Shirley homes
 
 Shirley is a flat north-eastern suburb with a large stock of mid-century homes: weatherboard and brick houses, many on concrete or timber floors, with modest insulation unless it has been upgraded. In winter these homes can feel cold and damp at the same time, with condensation streaming down the windows in the morning.
 
 A heat pump deals with both. Steady warmth keeps wall and window surfaces above the point where moisture condenses, and most units have a dry mode for mild, muggy days. Our [dehumidification page](/heat-pump-dehumidification/) explains how it works.
 
-## Before we size the unit
+## Before we size a heat pump for your Shirley home
 
 The questions that decide the size are simple. How big is the room, and how high is the ceiling? How much glass is there, and is it single or double glazed? Is there insulation in the ceiling and under the floor? Which way does the room face? A Shirley lounge with ceiling insulation and new windows needs a smaller heat pump than the same room without them.
 
 We visit, measure and ask how you use the house, then quote a fixed price for a unit that fits.
 
-## Bathrooms and laundries
+## Moisture from bathrooms and laundries
 
 A heat pump can only do so much if moisture keeps pouring into the air. Run extractor fans in the bathroom and over the stove, dry washing outside or in a vented dryer, and open windows briefly on dry days. With that in place, the heat pump keeps the house warm and the windows clearer.
 
-## Warm bedrooms
+## Warm, dry bedrooms in Shirley
 
 A lot of damp problems start in bedrooms, which are often closed off and unheated. A small bedroom unit set low overnight keeps the room dry and comfortable. If you want several bedrooms covered, a [multi-room system](/multi-room-heat-pump-installation/) shares one outdoor unit.
 
-## Keeping older units running
+## Heat pump service for older Shirley units
 
 Many Shirley homes already have a heat pump that's a few years old. A yearly [service](/maintenance-servicing/) clears dust from the filters and coils and checks the drain, which matters more in a damp house where a blocked drain can drip down the wall. If a unit has stopped working, our [repairs](/heat-pump-repair/) cover all major brands.
 

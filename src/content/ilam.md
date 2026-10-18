@@ -10,6 +10,8 @@ suburb: Ilam
 intro: Ilam has established family homes alongside rental flats near the University of Canterbury. We install, service and repair heat pumps for owners and landlords, with the price fixed first.
 hero: ilam-hero
 gallery: [pool-bedroom-unit, pool-filters]
+faqHeading: "Questions about heat pumps in Ilam"
+relatedHeading: "More on heat pumps near Ilam"
 faqs:
   - q: Does a heat pump meet the Healthy Homes heating standard for my Ilam rental?
     a: A heat pump is one of the accepted ways to heat the main living room, provided it is fixed, has a thermostat and has enough capacity for that room. The requirements are on <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a>. We size the unit to the room so it meets the capacity the standard calls for.
@@ -29,17 +31,17 @@ Ilam's streets hold established family homes on generous sections, many with mat
 
 For an owner-occupied family home, the questions are comfort, running cost and which rooms to heat. For a rental, the first question is usually whether the heating meets the law.
 
-## Landlords and the Healthy Homes heating standard
+## Heat pumps in Ilam rentals and the Healthy Homes standard
 
 The [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) requires rental homes to have one or more fixed heaters that can directly heat the main living room, with enough capacity for that room. A heat pump or electric heater used to meet it must have a thermostat. Open fires and unflued gas heaters don't qualify. Tenancy Services publishes a heating assessment tool to work out the capacity a room needs.
 
 When we quote a heat pump for an Ilam rental, we size it to the main living room's required capacity and fit it so it heats that room directly. If the flat also has cold bedrooms, a second small unit in those rooms is worth considering for the tenants and for mould, though the standard itself is about the living room.
 
-## Student flats: hard use, simple controls
+## Student flats in Ilam: hard use, simple controls
 
 Heat pumps in shared flats tend to run long hours and get little attention. Clogged filters reduce heat output and make the unit work harder. We can set up a yearly [service](/maintenance-servicing/) before each academic year starts and show tenants how to clean the filters. Wall controllers or remotes that are easy to read help too.
 
-## Family homes in Ilam
+## Heat pump installation in Ilam family homes
 
 Larger Ilam houses often have more than one living area and bedrooms down a long hall. A single unit in the lounge leaves much of the house cold. Options include a [multi-room system](/multi-room-heat-pump-installation/), separate units for the main rooms, or ducting where there's ceiling space. We size from the rooms, insulation and windows, and from how your family uses the house.
 

@@ -10,6 +10,8 @@ suburb: Linwood
 intro: Linwood's former state houses, bungalows, older villas and blocks of units each heat differently. We match the heat pump to the house, install it neatly and agree the price before we start.
 hero: linwood-hero
 gallery: [pool-brick-bungalow, pool-filters]
+faqHeading: "Questions about heat pumps in Linwood"
+relatedHeading: "More on heat pumps near Linwood"
 faqs:
   - q: Can a heat pump replace my log burner?
     a: For a lot of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot, so the heat pump needs to be sized for the room and placed where its air reaches the whole space. We'll check that on site.
@@ -25,13 +27,13 @@ related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Filter, coil and fan cleans for units that smell or underperform. }
 ---
 
-## Linwood houses
+## Heat pump installation in Linwood houses
 
 Linwood is a large, flat suburb in the east of the city. Its housing covers several eras: older timber villas toward the city end, plenty of solid weatherboard and brick former state houses, mid-century bungalows, and blocks of units. Since the earthquakes, a fair amount of it has been repaired or rebuilt.
 
 A lot of these homes share one layout trait. The lounge and kitchen are at one end, bedrooms are along a hallway, and every room has a door.
 
-## Swapping out an older heater
+## Swapping out an older heater in Linwood
 
 If you're moving from a log burner, an open fire or a set of plug-in heaters to a heat pump, the main change is how heat moves. A burner heats one corner very hot. A heat pump moves warm air across a room with its fan. Where it sits matters:
 
@@ -41,13 +43,13 @@ If you're moving from a log burner, an open fire or a set of plug-in heaters to 
 
 Taking a burner out also leaves a flue and hearth to deal with. That's separate building work, and we can talk through the order of jobs.
 
-## Brick, weatherboard and units
+## Heat pumps for Linwood's brick, weatherboard and unit homes
 
 Brick former state houses take a heat pump well. We drill through the brick veneer, run the pipes in a cover down the outside wall and set the outdoor unit on a concrete pad or raised feet. Weatherboard homes are just as straightforward, and the pipes often run through the underfloor instead.
 
 Blocks of units are smaller and simpler inside, but the outdoor space is shared. Each unit's outdoor equipment has to fit along a common wall without crowding the neighbours or a shared path.
 
-## Keeping it running
+## Heat pump service and repair in Linwood
 
 A heat pump that runs every winter evening collects dust fast. Book a full [service](/maintenance-servicing/) once a year, before the cold sets in. If it stops heating or shows an error, our [repairs page](/heat-pump-repair/) explains what we check.
 

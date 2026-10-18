@@ -10,6 +10,8 @@ suburb: Prebbleton
 intro: We install, service and repair heat pumps in Prebbleton's subdivisions and on the rural blocks around the village. Each quote is free and fixed before we start.
 hero: prebbleton-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
+faqHeading: Questions about heat pumps in Prebbleton
+relatedHeading: Heat pumps near Prebbleton
 faqs:
   - q: When should we talk to you about a heat pump for a new build?
     a: Before the wall linings and ceilings go in. At that stage pipes, cable and condensate drains can run inside the walls, and ducting can go through the roof space, without any patching later.
@@ -25,11 +27,11 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Several rooms on one outdoor unit. }
 ---
 
-## A village that has grown
+## Prebbleton, a village that has grown
 
 Prebbleton sits between Christchurch and Lincoln in Selwyn District. The original village has been joined by new subdivisions, many with larger sections than you'd find in town, and the area around it is a patchwork of lifestyle blocks. Much of the housing is new, built to current insulation standards, often with double glazing and one large kitchen, dining and family space.
 
-## Plan it during the build
+## Plan heat pump installation during a Prebbleton build
 
 If you're building in Prebbleton, the best time to plan a heat pump is before the linings go on. At that stage:
 
@@ -40,15 +42,15 @@ If you're building in Prebbleton, the best time to plan a heat pump is before th
 
 Talk to your builder and to us early, and the install becomes simpler and tidier.
 
-## Wall units, multi-room or ducted
+## Wall, multi-room or ducted heat pumps for Prebbleton homes
 
 In a home that's already built, the choice usually comes down to three options. A single wall unit can heat a well insulated open plan living area. A [multi-room system](/multi-room-heat-pump-installation/) adds smaller units in bedrooms, all running from one outdoor unit. A ducted system heats every room through ceiling vents, with the indoor unit hidden in the roof space. Our [ducted vs split guide](/ducted-vs-split-heat-pumps-christchurch/) sets out the differences. We size whichever you choose from the rooms, windows and insulation of your house.
 
-## Larger sections and rural blocks
+## Larger Prebbleton sections and rural blocks
 
 On a bigger section the outdoor unit can usually sit well away from the boundary, which makes noise less of a concern. It still needs raised feet or a bracket so defrost water drains away on frosty mornings, and good airflow around it. Whoever wires it in must be a licensed electrical worker, and they confirm the switchboard can take the new circuit.
 
-## Selwyn District rules
+## Selwyn District noise rules for Prebbleton heat pumps
 
 Heat pump noise in Prebbleton is a matter for the Selwyn District Plan. See our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) for how placement affects noise next door.
 

@@ -10,6 +10,8 @@ suburb: Upper Riccarton
 intro: Upper Riccarton has a lot of rentals, units and newer infill housing close to the university. We install, service and repair heat pumps here, with a fixed price agreed first.
 hero: upper-riccarton-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
+faqHeading: "Questions about heat pumps in Upper Riccarton"
+relatedHeading: "More on heat pumps near Upper Riccarton"
 faqs:
   - q: What heat pump does a small Upper Riccarton unit need?
     a: Usually one wall-mounted unit in the living area, sized to that room's volume, insulation and glass. Bedrooms off a short hall may get enough warmth, but a bedroom behind a closed door generally won't.
@@ -25,31 +27,31 @@ related:
   - { label: Single room installs, href: /single-room-heat-pump-installation/, text: One unit, sized to one room. }
 ---
 
-## Rentals, units and infill
+## Heat pump installation in Upper Riccarton rentals and units
 
 Upper Riccarton sits between Riccarton and the university, and its housing reflects that. Older houses on full sections have been split into flats or replaced with two or three townhouses. Student rentals, small units and owner-occupied homes share the same streets.
 
 No single setup suits all three. A one-bedroom unit needs a compact heat pump in the living area. A new townhouse with an upstairs bedroom may need a second unit upstairs, because warm air from the ground floor doesn't reliably reach it. An older flat may need its insulation looked at before any heat pump will keep it warm.
 
-## Meeting the heating standard in a rental
+## Meeting the heating standard in an Upper Riccarton rental
 
 Landlords in Upper Riccarton have to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) for the main living room. In short: a fixed heater that heats that room directly, with enough capacity, and a thermostat if it's a heat pump. Portable heaters and open fires don't count towards it.
 
 We size a rental's heat pump to the living room's required capacity, fit it where it heats that room directly, and give you the model details for your records.
 
-## Upstairs rooms in new townhouses
+## Heat pumps for upstairs rooms in Upper Riccarton townhouses
 
 Warm air rises, so it's tempting to assume a downstairs heat pump will warm the bedrooms above. In practice a narrow stairwell carries little of it, and upstairs rooms in a two storey townhouse can stay cold on a frosty night. A small wall unit on the upper floor, or a [multi-room system](/multi-room-heat-pump-installation/) with heads on both levels, fixes that. Where the outdoor unit is fitted on an upper wall, we use a bracket rated for the weight and keep the pipe run tidy down the cladding.
 
-## Older flats
+## Older Upper Riccarton flats
 
 Some older Upper Riccarton flats were heated with a plug-in heater and little else. Before fitting a heat pump, we look at the ceiling insulation and any gaps around doors and windows, because a sealed, insulated room needs less capacity and costs less to keep warm.
 
-## Close neighbours and outdoor units
+## Close neighbours and outdoor units in Upper Riccarton
 
 Infill sections leave little space between homes, so outdoor unit placement takes some thought. The Christchurch District Plan limits are measured at the neighbouring site, and the night limit is the one that matters on cold mornings. We keep units off shared walls, away from neighbouring bedroom windows and out of tight corners where sound bounces. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) has the figures.
 
-## Services in Upper Riccarton
+## Heat pump services in Upper Riccarton
 
 - **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, from a [single room unit](/single-room-heat-pump-installation/) to multi-room systems.
 - **Servicing** for single homes or several rental units.

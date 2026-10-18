@@ -8,6 +8,8 @@ serviceName: Smart heat pump and Wi-Fi controller installation
 intro: A smart heat pump is an ordinary heat pump with a Wi-Fi controller and an app. It lets you switch it on before you get home, set schedules and see the room temperature from anywhere.
 hero: smart-hero
 gallery: [smart-1, smart-2]
+faqHeading: "Smart heat pump questions"
+relatedHeading: "More on heat pump controls"
 faqs:
   - q: Is a smart heat pump worth it?
     a: It's worth it if it changes how you use the heating. Being able to turn it off when you've forgotten, or on half an hour before you get home instead of leaving it running all day, is where it earns its place. The heat pump itself heats no differently.
@@ -35,7 +37,7 @@ The heat pump does the heating. The smart part is a small Wi-Fi adaptor, either 
 
 Some brands add energy figures, voice assistant control and reminders to clean the filters.
 
-## Wi-Fi controllers by brand
+## Wi-Fi heat pump controllers by brand
 
 Each brand has its own controller and app, and they don't work across brands. These are the options listed on each brand's New Zealand website.
 
@@ -47,21 +49,21 @@ Each brand has its own controller and app, and they don't work across brands. Th
 
 **Toshiba.** If you're looking at a Toshiba unit, ask us when we quote whether that model has Wi-Fi control and which app it uses.
 
-## What your house needs for it to work
+## What your house needs for a Wi-Fi heat pump
 
 - **Wi-Fi signal where the heat pump is.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal in that spot, so will the heat pump. A mesh point or extender in that room fixes it.
 - **A 2.4 GHz network.** Many heat pump adaptors only connect on 2.4 GHz. Most home routers broadcast it, but some combine bands under one name in a way that confuses the adaptor during set-up.
 - **A compatible model.** Not every indoor unit takes an adaptor. This matters most on older units, where we check the model before you buy anything.
 
-## Smart control on a new install
+## Choosing a smart heat pump on a new install
 
 If you're getting a new heat pump, decide on Wi-Fi control before the quote is finalised. Some models have it built in, others need the adaptor ordered with the unit, and choosing a model with it built in is simpler than adding it later. We size every install from your rooms, insulation, windows and how you use the house, and include the controller you want in the fixed price. See our [heat pump installation](/heat-pump-installation-in-christchurch/) page.
 
-## Smart controllers and zoning
+## Smart heat pump controllers and zoning
 
 A Wi-Fi controller gives you control from your phone. It doesn't give you different temperatures in different rooms on a single ducted system. That needs a zone controller, covered on our [heat pump zoning](/heat-pump-zoning/) page. In a house with several wall units, each unit can usually be added to the same app and run on its own schedule.
 
-## Using it well
+## Using a smart heat pump well
 
 - Set a morning and an evening schedule, then leave it to run.
 - Use the app to switch off when plans change, rather than leaving the house warm and empty.

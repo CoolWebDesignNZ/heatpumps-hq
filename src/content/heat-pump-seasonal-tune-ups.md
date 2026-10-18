@@ -8,6 +8,8 @@ serviceName: Heat pump seasonal tune-up
 intro: A tune-up is a check of how your heat pump performs before the season it matters most. We test it under load, set it up for the months ahead and fix small things before they turn into a cold night.
 hero: tuneup-hero
 gallery: [tuneup-remote, tuneup-thermometer]
+faqHeading: "Heat pump tune-up questions"
+relatedHeading: "More on heat pump checks and servicing"
 faqs:
   - q: What is the difference between a tune-up and a service?
     a: A service is a full clean and check of the indoor and outdoor units. A tune-up is about performance and setup for the coming season. If the unit hasn't had a full service in the past year, we'll recommend doing both at the same visit.
@@ -23,11 +25,11 @@ related:
   - { label: Thermostat calibration, href: /heat-pump-thermostat-calibration/, text: When the room temperature doesn't match the setting. }
 ---
 
-## Why a pre-season check
+## Why a pre-season heat pump check up
 
 A heat pump can sit unused for months and still look fine. The first real test is the first cold snap, and that's when a weak capacitor, a sticky louvre motor or a blocked defrost drain shows up. A tune-up moves that test to a day that suits you.
 
-## What a tune-up checks
+## What a heat pump tune-up checks
 
 **Heating or cooling output.** We run the unit in the mode you're about to rely on and measure the air going in and out of the indoor unit. A weak result tells us to look further at airflow or refrigerant before winter, not during it.
 
@@ -53,7 +55,7 @@ A tune-up is about readiness. A full [heat pump service](/heat-pump-servicing/) 
 
 We'll tell you which one your unit needs when you book, and agree the price before we start.
 
-## Two seasons, two checks
+## Seasonal heat pump maintenance in autumn and spring
 
 **Autumn, for heating.** If you only do one check a year, make it this one. Book it once the summer heat has gone but before the frosts, so there's time to sort anything we find.
 
@@ -70,7 +72,7 @@ If you'd like both done each year without having to remember, we can put them on
 
 If the airflow feels weak or the unit takes a long time to warm the room, book the tune-up rather than waiting for winter.
 
-## Brands and systems
+## Brands and systems we tune up
 
 We tune up wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand.
 

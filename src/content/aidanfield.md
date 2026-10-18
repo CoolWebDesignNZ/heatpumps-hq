@@ -10,6 +10,8 @@ suburb: Aidanfield
 intro: We install, service and repair heat pumps in Aidanfield, adding to an existing system or starting fresh. Every quote is free and fixed before work starts.
 hero: aidanfield-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
+faqHeading: Questions about heat pumps in Aidanfield
+relatedHeading: Heat pumps near Aidanfield
 faqs:
   - q: Should I replace my old heat pump or repair it?
     a: We look at the fault itself, the unit's age and whether replacement parts are still made for it, then give you a straight answer. Our <a href="/heat-pump-repair/">repairs page</a> explains how.
@@ -25,13 +27,13 @@ related:
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Setting different rooms to different temperatures. }
 ---
 
-## A planned suburb of family homes
+## Aidanfield, a planned suburb of family homes
 
 Aidanfield is a planned residential suburb on the south-west side of Christchurch, between Halswell, Hoon Hay and Wigram. Its streets are lined mostly with single-storey brick and plaster family homes on regular sections, some with the bedrooms in a wing of their own.
 
 Being newer than much of Christchurch, these houses are generally easier to heat than an old villa. The heating questions here are usually about getting warmth into every room, and what to do with a heat pump that came with the house.
 
-## The cold bedroom wing
+## The cold bedroom wing in Aidanfield homes
 
 A common Aidanfield layout groups the lounge, kitchen and dining area together, with a hallway leading off to the bedrooms. One heat pump in the living area can keep that end comfortable, but very little of its warmth makes it down the hall with the bedroom doors shut.
 
@@ -41,15 +43,15 @@ The fix is usually one of these:
 - **A ducted retrofit** if the roof space has room for the indoor unit and duct runs, with a vent in each bedroom.
 - **Zoning** on a ducted system, so the bedrooms and living area can be set to different temperatures. [Heat pump zoning](/heat-pump-zoning/) covers how that's set up.
 
-## The first heat pump in the house
+## The original heat pump in an Aidanfield home
 
 If your home came with a heat pump, it may be well into its working life. Signs it needs attention include weaker heat on cold mornings, louder running, water dripping from the indoor unit or a flashing fault light. Sometimes a good clean and service brings it back. Sometimes a [repair](/heat-pump-repair/) is worth doing. And sometimes replacement with a correctly sized modern unit makes more sense. We'll tell you which, and why.
 
-## Placement on a regular section
+## Outdoor unit placement on an Aidanfield section
 
 Aidanfield sections are tidy and fairly uniform, so neighbours are close on both sides. We look for an outdoor unit position that's clear of bedroom windows, yours and next door's, with room for airflow and raised feet for frosty mornings. Some subdivisions have land covenants on the title covering what can go on the outside of a house, so it's worth checking yours.
 
-## What we do in Aidanfield
+## Heat pump installation in Aidanfield
 
 Replacement and new systems in Aidanfield are Mitsubishi Electric, Daikin, Fujitsu or Toshiba, each connected by a licensed electrical worker. The heat pump already on your wall can be serviced or repaired by us whether it's one of those, a Panasonic or most other common brands.
 

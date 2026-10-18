@@ -8,6 +8,8 @@ serviceName: Heat pump zoning
 intro: Zoning lets a ducted heat pump send air only to the rooms you choose, instead of heating the whole house every time it runs. We fit it to new ducted systems and add it to existing ones where the ducts allow.
 hero: zoning-hero
 gallery: [zoning-damper, zoning-controller]
+faqHeading: "Heat pump zoning questions"
+relatedHeading: "More on ducted heat pumps"
 faqs:
   - q: What is a zone on a ducted heat pump?
     a: A zone is one room or a group of rooms served by the same duct runs and controlled together. Bedrooms are often one zone and living areas another, but a zone can be a single room if each room has its own damper.
@@ -23,13 +25,13 @@ related:
   - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: Airzone and AirHub zoning for Daikin units. }
 ---
 
-## The problem zoning solves
+## The problem heat pump zoning solves
 
 A ducted heat pump without zoning has one thermostat, usually on the wall controller, and it sends air to every outlet whenever it runs. Warm the lounge on a winter afternoon and you also warm the empty bedrooms. Turn it on for the bedrooms at night and the living areas get heated too.
 
 Zoning splits the house into areas that can be switched and controlled separately, so the system works on the rooms you're in.
 
-## How a zoned system works
+## How ducted heat pump zoning works
 
 - **Dampers.** Motorised dampers sit in the duct runs, either in the main ducts to each zone or in the duct to each room. They open to let air through or close to shut it off.
 - **Zone controller.** A wall controller, and often a phone app, where you turn zones on and off and set times.
@@ -56,7 +58,7 @@ The zones should follow how the house is used, not just its floor plan. Common s
 
 The heat pump also needs enough air going somewhere when only one small zone is open. That affects how small a zone can be, and it is one reason zoning is best designed with the duct layout rather than added as an afterthought.
 
-## Adding zoning to an existing ducted system
+## Adding zone control to an existing ducted heat pump
 
 If your ducted heat pump heats the whole house and you'd like control, zoning can often be retrofitted. We look at:
 
@@ -67,7 +69,7 @@ If your ducted heat pump heats the whole house and you'd like control, zoning ca
 
 If the system is old or the ducting is in poor shape, we may suggest replacing the system with zoning built in. We'll give you both options with a fixed price.
 
-## Zoning on other heat pump types
+## Multi zone heating with other heat pump types
 
 Zoning is a ducted system term. With wall units or floor consoles, each indoor unit already has its own control. That is why a [multi room heat pump](/multi-room-heat-pump-installation/) is sometimes the simpler answer when you want separate control of a few rooms and don't need everything hidden in the ceiling.
 

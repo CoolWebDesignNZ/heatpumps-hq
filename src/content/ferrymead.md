@@ -10,6 +10,8 @@ suburb: Ferrymead
 intro: We install, service and repair heat pumps in Ferrymead, including townhouses and units with small courtyards and shared walls. You know the price before we start.
 hero: ferrymead-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
+faqHeading: "Questions about heat pumps in Ferrymead"
+relatedHeading: "More on heat pumps near Ferrymead"
 faqs:
   - q: Can I install a heat pump in a unit-titled townhouse?
     a: Usually, but check your body corporate rules first. Many need approval for anything fixed to an outside wall or shared area. We can give you the unit size, position and pipe route to include in the request.
@@ -25,13 +27,13 @@ related:
   - { label: Single-room installation, href: /single-room-heat-pump-installation/, text: One well placed unit for a living area. }
 ---
 
-## Flat land by the estuary
+## Ferrymead's flat land by the estuary
 
 Ferrymead covers the flat ground where the Heathcote River meets the estuary, at the foot of the hills leading to Mount Pleasant and Heathcote Valley. Alongside older standalone homes, it has a growing number of townhouses, terraced units and apartments, many with compact courtyards and neighbours on more than one side.
 
 That density is what shapes most heat pump decisions here. The question is less about steep sections and more about finding a spot for the outdoor unit that works for you and the people next door.
 
-## Outdoor units in tight spaces
+## Outdoor units in tight Ferrymead spaces
 
 In a townhouse the outdoor unit usually has only a few possible spots: the courtyard, a side wall, a balcony or the roof of a garage. Each needs enough clear space around the unit for air to flow, a solid fixing, and somewhere for defrost water to go. On a balcony, that drain can't simply drip onto the unit below.
 
@@ -39,11 +41,11 @@ Noise is the other half. The Christchurch District Plan measures heat pump noise
 
 Low-lying sections near the water can collect surface water in heavy rain, so we keep the outdoor unit up on feet or a stand rather than sitting on the ground.
 
-## Body corporate approval
+## Body corporate approval for Ferrymead heat pumps
 
 If your home is unit titled, the outside walls and common areas may belong to the body corporate. Check the rules before you book an install. We'll give you the details the committee usually wants: the unit's size, where it goes, and how the pipes and cable run.
 
-## Heating a townhouse well
+## Heat pump installation for a Ferrymead townhouse
 
 Modern townhouses are often well insulated, and a single [wall-mounted unit](/single-room-heat-pump-installation/) can heat an open plan ground floor comfortably. The bedrooms upstairs are another matter. Warm air collects at the top of the stairs, but closed bedroom doors keep it out, so a small second unit upstairs is a common choice. We size each unit from the room, its windows and how you use it.
 

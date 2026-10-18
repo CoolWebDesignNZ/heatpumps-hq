@@ -8,6 +8,8 @@ serviceName: Home heating energy assessment
 intro: We look at how your home is heated, where the heat goes and whether your heat pumps are doing their job. You get a plain answer on what to change, and a fixed price for any work we'd do.
 hero: assessment-hero
 gallery: [assessment-window, assessment-unit]
+faqHeading: "Home energy assessment questions"
+relatedHeading: "More on heating your home efficiently"
 faqs:
   - q: Is this a certified home energy audit?
     a: No. We're heat pump specialists, not certified energy assessors, and we don't issue a home energy rating or certificate. We assess the heating side of your home, the heat pumps and the rooms they heat, and tell you what would make a practical difference.
@@ -23,13 +25,13 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: The method behind choosing a unit's capacity. }
 ---
 
-## What this assessment is
+## What our home energy assessment is
 
 A full home energy audit covers everything that uses energy in a house: hot water, lighting, appliances, insulation and heating. That's not what we do.
 
 We assess the **heating** side of your home. As heat pump specialists, we look at how each room is heated, why some rooms stay cold, whether your existing heat pumps are the right size and in good condition, and what would give you warmer rooms for less power. It's the same thinking we use for every install quote, done as a dedicated visit.
 
-## What we look at
+## What the energy efficiency assessment looks at
 
 ### The rooms
 
@@ -48,7 +50,7 @@ Which rooms you need warm, at what times, and who's home during the day. A famil
 - **Other heaters.** Wood burners, gas heaters, panel and fan heaters, and how they fit with the heat pumps.
 - **Controls.** Timers, Wi-Fi controllers and whether they're set up to match your routine.
 
-## What you get
+## What you get from the assessment
 
 We walk you through what we found on the day and explain what we'd change, in order of the difference each would make to comfort and power use. That might be:
 
@@ -61,7 +63,7 @@ We walk you through what we found on the day and explain what we'd change, in or
 
 Any heat pump work comes with a fixed price before it starts. Insulation and other building work we don't do, we'll tell you about so you can get it done by someone who does.
 
-## What we don't do
+## Why it isn't a full home energy audit
 
 So there's no confusion:
 
@@ -75,10 +77,10 @@ Landlords must provide one or more fixed heaters that can directly heat the main
 
 The required capacity can be worked out with the government's [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool), the formula in the regulations, or a professional assessment. Once you have that figure, we can supply and install a heat pump that meets it.
 
-## Why it's worth doing before buying
+## Why an assessment is worth doing before buying
 
 A heat pump bought without looking at the house is a guess. Two homes with the same floor area can need very different units because of glass, insulation and layout. An assessment means the heat pump you buy, from us or anyone, is the right one for the house. More on that in our [sizing guide](/heat-pump-sizing/).
 
-## Book an assessment
+## Book a home energy assessment
 
 We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. To book, call **03 242 1023** or [send us your details](/contact-us/).

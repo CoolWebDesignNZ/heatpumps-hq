@@ -10,6 +10,8 @@ suburb: New Brighton
 intro: Heat pump installation, servicing and repairs for New Brighton homes, many of them older cottages and weatherboard houses a short walk from the sand. We fix the price with you before any work starts.
 hero: new-brighton-hero
 gallery: [pool-coastal-home, pool-weatherboard]
+faqHeading: "Questions about heat pumps in New Brighton"
+relatedHeading: "Heat pumps along the New Brighton coast"
 faqs:
   - q: Will a heat pump work in an old New Brighton cottage with little insulation?
     a: It will heat it, but a poorly insulated cottage loses heat fast, so the unit has to be sized for that and will cost more to run. Insulating the ceiling and underfloor first usually means a smaller unit does the job.
@@ -23,17 +25,17 @@ related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: Coil and filter cleans for salty air. }
 ---
 
-## Older cottages near the beach
+## Heat pump installation in older New Brighton cottages
 
 Much of New Brighton's housing is older: timber cottages, former baches that became full-time homes, and weatherboard houses from the middle of last century. Many have been added to over the years, so the floor plan can be a string of rooms rather than one open space.
 
 That shapes the install. A single unit in a front lounge rarely carries heat through a narrow hallway into rooms at the back. In a cottage with a closed-off kitchen or sunroom, a second small unit or a [multi-room system](/multi-room-heat-pump-installation/) often makes more sense than one large unit turned up high.
 
-## Fix the heat loss first
+## Fix the heat loss in New Brighton homes first
 
 Older New Brighton homes often have little or no wall insulation and single glazing. A heat pump can still warm them, but a lot of the heat leaves as fast as it's made. If the ceiling or underfloor hasn't been insulated yet, it's worth doing before you choose a size, because the house will then need a smaller unit. We size from the rooms, the windows and the insulation you have now, and we'll tell you if a change would alter our recommendation.
 
-## Salt air and the outdoor unit
+## Protecting New Brighton heat pumps from salt air
 
 Sea spray and salty wind settle on the outdoor coil, and over time salt speeds up corrosion of the fins and fixings. Three things help:
 
@@ -41,15 +43,15 @@ Sea spray and salty wind settle on the outdoor coil, and over time salt speeds u
 - **The right model.** We check the manufacturer's guidance on coastal installation for the model we quote, and recommend accordingly.
 - **Rinsing and servicing.** A gentle rinse every few months and a yearly [clean](/heat-pump-cleaning/) keep the coil clear.
 
-## Sand and outdoor unit pads
+## Outdoor unit pads on New Brighton sand
 
 New Brighton is built on sand. A pad laid straight onto loose sand can tilt over time, and a tilted unit drains badly and vibrates. We set units on a firm, level base or a wall bracket clear of the ground, which also keeps blown sand out of the coil.
 
-## Servicing and repairs
+## Heat pump service and repairs in New Brighton
 
 Whatever the make, from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic to most others sold in New Zealand, we can service and repair it. Near the coast, signs to watch for are rust on the outdoor casing, a coil that looks white or crusted, or heating that has dropped off. Our [repairs page](/heat-pump-repair/) lists the common faults.
 
-## Nearby
+## Suburbs near New Brighton
 
 We also cover [North New Brighton](/north-new-brighton/), [New Brighton Central](/new-brighton-central/), [South New Brighton](/south-new-brighton/), [Bexley](/bexley/) and [Wainoni](/wainoni/).
 

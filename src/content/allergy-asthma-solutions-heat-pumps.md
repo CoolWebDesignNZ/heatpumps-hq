@@ -8,6 +8,8 @@ intro: A clean heat pump in a dry home is a good way to heat for people with all
 hero: allergy-hero
 updated: 2026-10-17
 gallery: [allergy-filter, allergy-bedroom]
+faqHeading: "Heat pump allergy and asthma questions"
+relatedHeading: "More on heat pump air quality"
 faqs:
   - q: Can a heat pump cause allergies?
     a: A heat pump doesn't create allergens, but a dirty one can spread them. Dust, dust mite debris and mould build up on the filters, coil and fan, and get blown into the room when it runs. Clean filters and a yearly service deal with most of it.
@@ -44,7 +46,7 @@ A heat pump moves a lot of room air through its indoor unit. Over months of use:
 
 Signs to look for: sneezing, itchy eyes or a cough that are worse when the heat pump is on, a musty smell at start-up, or dark specks on the louvres.
 
-## What helps
+## What helps when a heat pump triggers asthma
 
 ### Clean filters
 
@@ -68,11 +70,11 @@ The Foundation says good filtration such as HEPA air purifiers can help reduce a
 
 The Foundation also suggests dusting with a damp cloth and vacuuming regularly with a vacuum that has a good filter, to control dust mites.
 
-## Heat pumps in bedrooms
+## A heat pump in the bedroom
 
 For a child's bedroom or yours, a small heat pump on a timer keeps the room warm overnight without adding moisture the way an unflued gas heater does. Point the louvres so air doesn't blow straight across the bed, keep the filters clean, and book a clean each year. A [floor console unit](/single-room-heat-pump-installation/) can suit rooms where a high wall unit would blow over the bed.
 
-## When to call us
+## When to call us about heat pump allergies
 
 If the heat pump smells musty, sets off sneezing when it runs, or hasn't been cleaned in a couple of years, we can check it and clean it properly. Our [air quality check](/air-quality-testing/) explains what we look at.
 

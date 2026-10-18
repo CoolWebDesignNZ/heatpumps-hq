@@ -8,6 +8,8 @@ intro: A heat pump doesn't make heat from electricity the way a heater element d
 hero: hiw-hero
 updated: 2026-10-17
 gallery: [hiw-outdoor, hiw-indoor]
+faqHeading: "Questions about how heat pumps work"
+relatedHeading: "More reading on how heat pumps work"
 faqs:
   - q: What is a heat pump?
     a: In New Zealand homes it usually means an air-to-air, reverse-cycle split system. An outdoor unit and an indoor unit are joined by copper pipes carrying refrigerant, and the system moves heat from outside to inside in winter and from inside to outside in summer.
@@ -23,7 +25,7 @@ related:
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: How output holds up on frosty Canterbury nights. }
 ---
 
-## What a heat pump is
+## What is a heat pump?
 
 The heat pump in most Christchurch homes is an **air-to-air, reverse-cycle split system**. There's an outdoor unit with a fan, a coil and a compressor, and an indoor unit with its own coil and fan. Two insulated copper pipes join them, carrying a refrigerant that circulates in a sealed loop.
 
@@ -31,7 +33,7 @@ EECA describes it in plain terms: the system uses a relatively small amount of e
 
 A heat pump is a fridge pointed the other way. A fridge pulls heat out of the food compartment and dumps it into your kitchen through the coil at the back. A heat pump pulls heat out of the garden and dumps it into your lounge.
 
-## The cycle, step by step
+## How does a heat pump work, step by step
 
 In heating mode the refrigerant goes through five stages, over and over:
 
@@ -51,13 +53,13 @@ EECA's guide illustrates it like this: if 1 kWh of electricity drives the heat p
 
 Every heat pump sold in New Zealand carries an energy rating label, so you can compare models. Our [energy efficient heat pumps](/energy-efficient/) page goes through what affects running costs.
 
-## Inverter compressors
+## How inverter compressors change the cycle
 
 Older fixed-speed heat pumps switched fully on, then fully off. Modern units commonly use a **variable-speed (inverter) compressor**, and EECA notes that fixed-speed units are no longer common. It starts gently, runs hard while the room warms up, then slows down as the room gets close to the set temperature and ticks over to hold it.
 
 According to EECA, that gives a steadier room temperature, better efficiency, less vibration and quieter running. It's also why a correctly sized heat pump should spend most of its time running steadily at part speed rather than cycling on and off.
 
-## What happens when it's cold outside
+## How heat pumps work when it's cold outside
 
 A heat pump's output and efficiency are not fixed numbers. They fall as the gap between the outdoor air and the room widens. The rated heating capacity on the label is measured at 7°C outside, and on a frosty Christchurch morning the unit is working against much colder air than that.
 
@@ -80,7 +82,7 @@ This is the main reason sizing matters so much in Canterbury. EECA's guide lists
 
 The indoor unit can be a high wall unit, a floor console, a ceiling cassette or a ducted system feeding vents in several rooms. They all work on the same cycle. Our [types of heat pumps](/types-of-heat-pumps/) guide compares them.
 
-## Keeping it working well
+## Keeping a heat pump working well
 
 The cycle only works if air can move freely across both coils. Clogged filters, a dusty indoor coil or leaves packed around the outdoor unit all cut output and push up power use. EECA suggests cleaning the filters as often as monthly when the unit is in regular use, and a yearly [service](/maintenance-servicing/) keeps the coils, fans and drains clean.
 

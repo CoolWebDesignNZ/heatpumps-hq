@@ -8,6 +8,8 @@ intro: Every home heat pump works on the same cycle, but the indoor unit and the
 hero: types-hero
 updated: 2026-10-17
 gallery: [types-console, types-cassette]
+faqHeading: "Questions about types of heat pumps"
+relatedHeading: "More on choosing a heat pump type"
 faqs:
   - q: Is a floor console or high wall heat pump better for heating?
     a: For pure heating a floor console has an edge, because it releases warm air at floor level and warm air rises. A high wall unit leaves the floor clear and spreads cooling better in summer. In a room with high walls and space under a window, a console can heat more evenly.
@@ -23,7 +25,7 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Two or more rooms on one outdoor unit. }
 ---
 
-## Two choices, not one
+## Why types of heat pumps come down to two choices
 
 When people talk about types of heat pumps they're usually mixing two decisions:
 
@@ -74,7 +76,7 @@ A ducted heat pump puts the indoor unit out of sight, usually in the roof space,
 
 **Watch for:** it needs roof or underfloor space for the unit and ducts, and it's a bigger job. Our [ducted heat pumps](/ducted-heat-pumps-christchurch/) page and [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) guide go further.
 
-## Side by side
+## Heat pump types side by side
 
 | Type | Heats | Best at | Main limitation |
 | --- | --- | --- | --- |
@@ -88,7 +90,7 @@ A ducted heat pump puts the indoor unit out of sight, usually in the roof space,
 
 **Heat pump hot water cylinders** and **hydronic systems** that heat water for radiators or underfloor pipes also use the heat pump cycle. They're separate products from the air-to-air systems on this page.
 
-## Which type suits your home
+## Which heat pump type suits your home
 
 The building usually narrows it down quickly. An older villa with a high stud and a fireplace can suit a console. A new Selwyn build with good roof space is a natural candidate for ducted. A two-bedroom unit might need one high wall unit in the living area and nothing else.
 

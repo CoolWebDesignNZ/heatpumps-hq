@@ -8,6 +8,8 @@ serviceName: Heat pump thermostat and sensor calibration
 intro: Your heat pump says 21 degrees and the couch feels like 16. The gap usually comes down to where the unit measures temperature, a sensor that has drifted, or a unit that can't keep up. We test which one it is.
 hero: thermostat-hero
 gallery: [thermostat-1, thermostat-2]
+faqHeading: "Heat pump thermostat questions"
+relatedHeading: "More on heat pump controls and comfort"
 faqs:
   - q: Where is the thermostat on a heat pump?
     a: On most wall-mounted heat pumps there is no separate thermostat on the wall. A temperature sensor sits in the air intake of the indoor unit, and the unit compares that reading with the temperature you set on the remote. Ducted systems usually measure at the return air grille or the wall controller.
@@ -38,7 +40,7 @@ The number on the remote and the temperature where you sit can be several degree
 - **Cold draughts.** An open door to a cold hallway, or single glazing, cools the room faster than the sensor notices.
 - **Airflow set to blow at the ceiling.** If the louvres point up, warm air never reaches the floor. In heat mode, point them down.
 
-## When the heat pump can't reach the temperature
+## When your heat pump is not reaching temperature
 
 Sometimes the reading is right and the unit simply can't get there:
 
@@ -48,7 +50,7 @@ Sometimes the reading is right and the unit simply can't get there:
 - **Low refrigerant** from a slow leak. Our [leak detection and repair](/leak-detection-repair/) page covers the signs.
 - **A sensor that has failed or drifted.** A faulty thermistor can make the unit stop early, run on too long or show a fault.
 
-## What our thermostat and sensor check includes
+## What our heat pump thermostat and temperature sensor check includes
 
 1. **Measure the room.** We record the temperature at seated height with a calibrated thermometer and compare it with what the unit is reading.
 2. **Test the sensors.** Each thermistor is tested against the resistance values in the manufacturer's service information. One that reads out of range is replaced.
@@ -58,7 +60,7 @@ Sometimes the reading is right and the unit simply can't get there:
 
 You get a plain answer on which of these is causing the problem and a fixed price for anything that needs fixing.
 
-## Getting the thermostat setting right
+## Getting the heat pump thermostat setting right
 
 - Choose **Heat** rather than **Auto** in winter, so the unit doesn't swap to cooling when the room overshoots.
 - Pick a temperature and leave it. Small changes up and down make the unit work harder for no gain.

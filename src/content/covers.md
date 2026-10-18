@@ -8,6 +8,8 @@ serviceName: Heat pump cover advice
 intro: A cover or screen can tidy up an outdoor unit and shelter it from sun and weather. Get it wrong and the unit loses airflow, works harder and ices up. We can advise on the right one when we install or service your heat pump.
 hero: covers-hero
 gallery: [covers-slatted, covers-top-shelter]
+faqHeading: "Heat pump cover questions"
+relatedHeading: "More on placing the outdoor unit"
 faqs:
   - q: Does a heat pump outdoor unit need a cover?
     a: No. Outdoor units are built to sit out in the weather, including rain and frost. A cover is mostly about looks, and sometimes about shelter from the sun or from things falling on it.
@@ -23,7 +25,7 @@ related:
   - { label: Winter maintenance, href: /winterisation-of-heat-pumps/, text: Looking after the outdoor unit through frosts. }
 ---
 
-## What a cover is for
+## What heat pump covers are for
 
 People put covers on outdoor units for a few reasons:
 
@@ -36,7 +38,7 @@ People put covers on outdoor units for a few reasons:
 
 A cover isn't needed to protect the unit from ordinary weather, because outdoor units are built to be outside. It won't make it more efficient in winter. It won't fix noise from a worn fan or a unit that's vibrating on loose feet. And it won't stop frost, which forms on the coil from moisture in the air the unit pulls through.
 
-## The rule that matters: airflow
+## Why airflow matters under an outdoor heat pump cover
 
 Most domestic outdoor units pull outside air in through the coil at the back and sides and push it out the front. In heating mode it pulls heat out of that air. Anything that slows the air down makes the unit work harder for the same heat.
 
@@ -57,17 +59,17 @@ So a safe cover:
 
 Full wraps, plastic covers sold for storage, and tarps don't belong on a running heat pump.
 
-## Covers at install
+## Planning a cover at install
 
 The best time to think about a cover is before the unit goes in. When we plan an [installation](/heat-pump-installation-in-christchurch/), we choose a spot for the outdoor unit that suits airflow, drainage, noise at the boundary and how it will look. Sometimes a better position means you don't need a cover at all. If you do want one, we can tell you how much space to leave and which designs suit that spot.
 
 If the unit is near a neighbour, placement matters for noise as much as looks. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains the limits that apply.
 
-## Covers on an existing unit
+## Air con covers on an existing unit
 
 If you already have a cover, we can check it at your next [service](/heat-pump-servicing/). We'll look at whether the unit has the clearance it needs, whether air is recirculating, and whether defrost water drains freely. If the cover is hurting performance, we'll tell you what to change.
 
-## Choosing a cover
+## Choosing a heat pump cover
 
 There are timber screens, aluminium louvred covers and simple roof shelters, each with different trade-offs. Rather than repeat it here, our [heat pump covers guide](/best-heat-pump-covers-nz/) compares the types and what to look for.
 

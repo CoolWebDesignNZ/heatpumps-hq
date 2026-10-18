@@ -10,6 +10,8 @@ suburb: Rolleston
 intro: Heat pump installation, servicing and repairs across Rolleston, in new subdivisions and older homes. Sized for Selwyn frosts, with a fixed price before any work starts.
 hero: rolleston-hero
 gallery: [rolleston-newbuild, rolleston-living]
+faqHeading: Questions about heat pumps in Rolleston
+relatedHeading: Heat pumps near Rolleston
 faqs:
   - q: Do you cover all of Rolleston?
     a: Yes. Every part of Rolleston, plus nearby Lincoln, Prebbleton, Templeton and the rural properties in between.
@@ -25,13 +27,13 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating for new builds. }
 ---
 
-## Heat pumps for Rolleston homes
+## Heat pump installation for Rolleston homes
 
 Rolleston sits on the open Canterbury Plains south-west of Christchurch, and it has grown fast. A lot of homes here are recent builds with good insulation, double glazing and open plan living areas. That changes what a good heat pump setup looks like.
 
 A well insulated open plan space holds heat, so one correctly sized unit can often heat the living, dining and kitchen area on its own. Bedrooms and a second living room are where people tend to add a second unit or move to a ducted system. We size every install from the actual rooms, the windows and how you use the house, so you're not paying for capacity you don't need.
 
-## Built for plains frosts
+## Built for Rolleston's plains frosts
 
 Clear winter nights on the plains bring hard frosts, and that's when a heat pump works hardest. The outdoor unit needs to sit on raised feet or a bracket, where defrost water can drain away and air can move freely around it. Getting that right is the difference between a unit that keeps the house warm at 6am and one that struggles.
 
@@ -46,7 +48,7 @@ Clear winter nights on the plains bring hard frosts, and that's when a heat pump
 We install Mitsubishi Electric heat pumps in Rolleston, and service and repair Mitsubishi units of any age. Its wall-mounted and ducted ranges both suit new Selwyn homes. Daikin, Fujitsu and Toshiba are the other brands we install, and we'll show you how they compare for your house. More on our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page.
 - **Advice on new builds.** If you're building, talk to us before the ceiling goes on. Planning ducting or pipe runs early is much easier than retrofitting.
 
-## Nearby areas
+## Areas near Rolleston
 
 We also cover [Lincoln](/lincoln/), [Prebbleton](/prebbleton/), [Templeton](/templeton/), [Halswell](/halswell/) and the rest of [greater Christchurch](/locations/).
 

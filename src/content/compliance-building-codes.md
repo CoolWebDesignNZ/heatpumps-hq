@@ -8,6 +8,8 @@ intro: Installing a heat pump in a New Zealand home touches four sets of rules, 
 hero: compliance-hero
 updated: 2026-10-17
 gallery: [compliance-certificate, compliance-switchboard]
+faqHeading: "Questions about the heat pump building code"
+relatedHeading: "More on heat pump rules and building consent"
 faqs:
   - q: Do I need building consent to put in a heat pump?
     a: In Christchurch, no. Christchurch City Council says fixed electric space heaters, including heat pumps, do not require building consent, but they must be installed by registered electricians who certify their own work. If you're outside Christchurch, check with your own council.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: What happens from quote to commissioning. }
 ---
 
-## The rules at a glance
+## Heat pump regulations in NZ at a glance
 
 | Area | What applies | Who sets it |
 | --- | --- | --- |
@@ -33,7 +35,7 @@ related:
 | Rentals | Healthy Homes heating standard | Tenancy Services |
 | Noise and placement | District Plan noise limits at the boundary | Your district council |
 
-## Building consent
+## Does a heat pump need building consent?
 
 Christchurch City Council's guidance is direct: fixed electric space heaters, including heat pumps, do not require building consent, but they must be installed by registered electricians who certify their own work.
 
@@ -84,6 +86,6 @@ Christchurch has no fixed distance from the boundary for heat pumps. The Distric
 
 If you own a unit title, the body corporate rules may control where an outdoor unit can go, how pipework runs on the exterior and whether you need approval first. Check the rules and get approval before booking an install. EECA's guidance notes that outdoor noise can matter more in body corporate situations where there may be specific requirements.
 
-## Getting it done properly
+## Installing a heat pump within the regulations
 
 We install heat pumps across Christchurch, Selwyn and Lyttelton, with the electrical connection by a licensed electrical worker. For a free fixed-price quote, phone **03 242 1023** or [contact us online](/contact-us/).

@@ -8,6 +8,8 @@ intro: New Zealand has a free, official calculator for sizing room heating, run 
 hero: calc-hero
 updated: 2026-10-17
 gallery: [calc-tape, calc-window]
+faqHeading: "Heat pump calculator questions"
+relatedHeading: "More on sizing a heat pump"
 faqs:
   - q: Is there an official heat pump size calculator in New Zealand?
     a: Yes. The Tenancy Services heating assessment tool, run by MBIE, calculates the minimum heating capacity for a main living room. It was built for the Healthy Homes Standards, and EECA's installation guide says it suits any room in rental and owner-occupied homes.
@@ -23,13 +25,13 @@ related:
   - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: Which indoor unit suits the room you measured. }
 ---
 
-## The official calculator
+## The official heat pump size calculator
 
 The free tool to use is the **[Tenancy Services heating assessment tool](https://tools.tenancy.govt.nz/heating-tool)**, run by the Ministry of Business, Innovation and Employment. It calculates the minimum heating capacity, in kW, that a main living room needs under the Healthy Homes Standards. Tenancy Services describes it on its [heating capacity page](https://www.tenancy.govt.nz/healthy-homes/heating-standard/calculating-heating-capacity/).
 
 It was built for landlords, but it isn't only for rentals. EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) tells installers to use this tool, or the formula behind it, to size heat pumps for the living room in any home and for other rooms such as bedrooms.
 
-## What the calculator asks
+## What the heat pump calculator asks
 
 According to the [Tenancy Services tool guide](https://www.tenancy.govt.nz/heating-tool/guide/), it asks about:
 
@@ -41,7 +43,7 @@ According to the [Tenancy Services tool guide](https://www.tenancy.govt.nz/heati
 
 The result comes out in kilowatts, rounded up to one decimal place. You can save your progress with an email address and come back to it.
 
-## What to measure before you start
+## What to measure for a heat pump room size calculator
 
 Have these ready and the tool takes far less time:
 
@@ -66,7 +68,7 @@ The tool guide is open about its limits:
 
 The calculator also doesn't know about things it doesn't ask: a room that gets afternoon sun, a draughty old fireplace, or an open stairwell that pulls warm air upstairs.
 
-## What to do with the result
+## What to do with the heat pump kW calculator result
 
 The kW number is the heat the room needs at the cold design temperature for your area. It is **not** the rated capacity to look for on the box.
 

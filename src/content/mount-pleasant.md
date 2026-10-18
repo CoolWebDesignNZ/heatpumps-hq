@@ -10,6 +10,8 @@ suburb: Mount Pleasant
 intro: We install, service and repair heat pumps across Mount Pleasant, on its steep streets and hillside sections. The price for each job is set with you before any work begins.
 hero: mount-pleasant-hero
 gallery: [pool-hill-home, pool-newbuild-living]
+faqHeading: "Questions about heat pumps in Mount Pleasant"
+relatedHeading: "More on heat pumps near Mount Pleasant"
 faqs:
   - q: Our living room gets full sun. Do we still need a heat pump?
     a: Sun warms the room through the day, but large windows lose that heat quickly after dark. A heat pump carries the house through the evening and morning, and it can cool the room on hot summer afternoons.
@@ -25,17 +27,17 @@ related:
   - { label: Multi-room installation, href: /multi-room-heat-pump-installation/, text: Heating several rooms from one outdoor unit. }
 ---
 
-## Sunny slopes and big views
+## Sunny slopes and big views on Mount Pleasant
 
 Mount Pleasant climbs the Port Hills above the estuary, between Ferrymead and Redcliffs. Many houses face north over the water and the city, with large windows to take in the view. Plenty of homes here were rebuilt or extensively repaired after the earthquakes, so you'll find modern, well insulated houses beside older ones that are harder to keep warm.
 
 A north-facing living area on a clear winter day can feel warm by lunchtime. The problem comes after sunset, when big areas of glass lose heat fast. A heat pump sized for those evening and early morning hours, not the sunny afternoon, keeps the house comfortable.
 
-## Cooling matters here too
+## Heat pumps that cool Mount Pleasant's sunny rooms
 
 The same glass that collects winter sun can make a room uncomfortably hot in summer. A heat pump cools as well as heats, so it earns its place in both seasons. When we size a unit for a room like that, we count the window area and the aspect, not just the floor area. Upstairs bedrooms that face north often benefit from a small unit of their own, and with a [multi-room system](/multi-room-heat-pump-installation/) those bedroom heads can share the living room's outdoor unit.
 
-## Brackets, decks and access
+## Heat pump installation on steep Mount Pleasant sections
 
 Level ground is scarce on Mount Pleasant. The outdoor unit usually ends up on a wall bracket, a deck or a small platform. Four things decide the spot:
 

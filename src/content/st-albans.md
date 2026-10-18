@@ -10,6 +10,8 @@ suburb: St Albans
 intro: St Albans mixes character villas and bungalows with new townhouses, and each needs a different heat pump plan. We install, service and repair them, with the price fixed up front.
 hero: st-albans-hero
 gallery: [pool-weatherboard, pool-console-unit]
+faqHeading: "Questions about heat pumps in St Albans"
+relatedHeading: "Heat pumps near St Albans"
 faqs:
   - q: How do you hide a heat pump in a character villa?
     a: Indoor units can go above a door or on an internal wall where they don't interrupt the room's features, and floor consoles sit low under a sash window. Outside, we run pipes in neat covers along a side or back wall, out of sight from the street where possible.
@@ -23,11 +25,11 @@ related:
   - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: Keeping an outdoor unit quiet on a tight site. }
 ---
 
-## Old and new in St Albans
+## Heat pump installation in St Albans homes, old and new
 
 St Albans is a large inner suburb north of the central city, and its streets hold a bit of everything: timber villas, bungalows, brick homes from the middle of last century, and a growing number of two and three storey townhouses where older houses once stood. A heat pump plan that suits one of these will be wrong for the next.
 
-## Villas and bungalows
+## Heat pumps for St Albans villas and bungalows
 
 High ceilings, large sash windows and suspended timber floors make a villa lovely to live in and hard to heat. Warm air rises to the top of a tall room, and cold air comes up through the floor. To deal with that we:
 
@@ -39,13 +41,13 @@ Pipework on a villa needs care too. We run it along side or rear walls in neat c
 
 We also look at draughts and underfloor insulation, since a well sealed villa needs far less heating.
 
-## New townhouses
+## New townhouses in St Albans
 
 A modern townhouse is the opposite problem. It's well insulated, open plan downstairs and divided into bedrooms upstairs, with little outdoor space. One unit usually handles the living level. Upstairs, small bedroom units or a compact [multi-room system](/multi-room-heat-pump-installation/) keep each room comfortable.
 
 The outdoor units need careful placement on narrow side paths. Our [noise problems guide](/heat-pump-noise-problems-solutions/) covers what makes an outdoor unit loud and how to avoid it.
 
-## Replacing an old unit
+## Replacing an old heat pump in St Albans
 
 A lot of St Albans homes have a heat pump that was fitted by a previous owner. If yours is noisy, slow to heat or in the wrong place, we can diagnose it and tell you whether a [repair](/heat-pump-repair/) or a better placed replacement is the sensible choice.
 
@@ -55,7 +57,7 @@ A lot of St Albans homes have a heat pump that was fitted by a previous owner. I
 - **Servicing.** See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs.** All major brands, including Panasonic. See [heat pump repairs](/heat-pump-repair/).
 
-## Next to St Albans
+## Suburbs next to St Albans
 
 We also cover [Edgeware](/edgeware/), [Mairehau](/mairehau/), [Papanui](/heat-pumps-papanui/), [Shirley](/shirley/) and the [central city](/central-business-district-cbd/).
 

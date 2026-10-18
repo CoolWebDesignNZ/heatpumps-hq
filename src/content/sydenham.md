@@ -10,6 +10,8 @@ suburb: Sydenham
 intro: Sydenham has renovated villas, cottages and plenty of new townhouses among its shops and workshops. We fit, service and repair heat pumps in all of them, and the price is fixed before work begins.
 hero: sydenham-hero
 gallery: [pool-weatherboard, pool-console-unit]
+faqHeading: "Questions about heat pumps in Sydenham"
+relatedHeading: "More on heat pumps near Sydenham"
 faqs:
   - q: Where should the heat pump go in a villa with a new open plan extension?
     a: Usually in the extension, since that's where you spend the evenings. The original front rooms, with their high ceilings, often need a second unit of their own. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> can run both from one outdoor unit.
@@ -23,13 +25,13 @@ related:
   - { label: Heat pump troubleshooting, href: /heat-pump-troubleshooting/, text: When an older unit isn't keeping up. }
 ---
 
-## How Sydenham homes are laid out
+## How Sydenham homes shape heat pump installation
 
 Sydenham sits on flat ground just south of the city, and housing is mixed in with commercial streets. Older homes here are mostly timber villas and cottages. Many have been renovated, and the typical renovation knocks out the old back rooms to make an open plan kitchen and family room. Newer townhouses fill sections where older houses once stood.
 
 That renovation pattern decides where the heat pump goes.
 
-## Heating a renovated villa
+## Heating a renovated Sydenham villa
 
 A renovated villa has two climates. The new extension at the back is insulated, double glazed and often open to the garden through big doors. The original rooms at the front still have high ceilings, timber walls and older windows.
 
@@ -41,15 +43,15 @@ One unit can't serve both well. Put it in the extension and the front lounge sta
 
 A floor console is worth a look in a high-stud front room. It sits under the window and delivers heat low down, where you notice it.
 
-## Townhouses
+## Sydenham townhouses
 
 Sydenham's townhouses are newer and warmer, with less wall space and smaller outdoor areas. A single unit in the living area and one upstairs covers a lot of two-storey layouts. We check the courtyard, the neighbour's windows and the route for the pipes before we settle on a spot.
 
-## Older units
+## Heat pump service for older units in Sydenham
 
 If your Sydenham home came with a heat pump that has had little attention for years, book a service before you replace it: cleaning the filters, coil and drain often brings back output. If it doesn't, our [troubleshooting](/heat-pump-troubleshooting/) and [repair](/heat-pump-repair/) work finds the fault and gives you a straight answer on whether to fix it.
 
-## What we do in Sydenham
+## Heat pump installs and repairs in Sydenham
 
 We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service and repair those brands plus Panasonic. We work across [Addington](/heat-pumps-addington/), [Somerfield](/somerfield/), [Beckenham](/beckenham/), [Spreydon](/spreydon/) and [Phillipstown](/phillipstown/) as well.
 

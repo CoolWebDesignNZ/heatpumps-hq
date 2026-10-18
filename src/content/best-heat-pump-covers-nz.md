@@ -8,6 +8,8 @@ intro: Heat pump covers range from a simple roof shelter to a full louvred cabin
 hero: coverguide-hero
 updated: 2026-10-17
 gallery: [coverguide-louvred, coverguide-timber]
+faqHeading: "Questions about the best heat pump cover"
+relatedHeading: "More on heat pump covers and outdoor units"
 faqs:
   - q: What is the best heat pump cover?
     a: The one that does the job you want while leaving the unit enough air. For looks, a louvred or slatted screen with an open front and base. For sun or falling debris, a simple roof shelter. For a unit switched off for months, a fitted storage cover, taken off before it runs.
@@ -23,7 +25,7 @@ related:
   - { label: Cold climate heat pumps, href: /cold-climate-heat-pumps/, text: Placing the outdoor unit for frost. }
 ---
 
-## Decide what the cover is for
+## Decide what the heat pump cover is for
 
 Covers are bought for different reasons, and each reason points to a different type:
 
@@ -34,7 +36,7 @@ Covers are bought for different reasons, and each reason points to a different t
 
 A running outdoor unit doesn't need covering against ordinary rain or frost. It's built to be outside. Our [heat pump covers page](/covers/) explains why airflow matters and what a cover can't fix; this guide compares the products.
 
-## The main types
+## The main types of heat pump cover
 
 ### Louvred cabinets
 
@@ -75,7 +77,7 @@ Decorative panels for the indoor unit, and plastic or metal trunking that hides 
 - **Good for:** a neater exterior and protection of the pipe insulation from sun and knocks.
 - **Watch for:** indoor covers that block the air intake on top of a wall unit or the discharge at the bottom. Those cut output and can confuse the unit's temperature sensor.
 
-## Materials compared
+## Cover materials compared
 
 | Material | Strengths | Watch for |
 | --- | --- | --- |
@@ -86,7 +88,7 @@ Decorative panels for the indoor unit, and plastic or metal trunking that hides 
 
 Near the coast, use stainless steel fixings whatever the material.
 
-## Airflow checks before you buy
+## Airflow checks for any air conditioner cover
 
 Whatever type you choose, it has to pass these checks:
 

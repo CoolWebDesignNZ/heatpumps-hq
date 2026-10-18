@@ -10,6 +10,8 @@ suburb: Casebrook
 intro: Heat pumps for Casebrook's family homes, including replacements for units that have reached the end of their life. We agree a fixed price with you before any work begins.
 hero: casebrook-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
+faqHeading: "Questions about heat pumps in Casebrook"
+relatedHeading: "More on heat pumps near Casebrook"
 faqs:
   - q: My Casebrook heat pump is old. Should I repair or replace it?
     a: It depends on the fault and the unit's condition. We diagnose it first and tell you what the repair involves. If a replacement makes more sense, we quote that too, so you can compare.
@@ -23,17 +25,17 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: How we work out the right capacity for each room. }
 ---
 
-## Casebrook's family homes
+## Heat pump installation for Casebrook's family homes
 
 Casebrook, on Christchurch's north-west side, is made up largely of single storey family homes from the later part of last century, many of them brick and tile on standard suburban sections. It's a suburb where a lot of houses already have a heat pump, and where many of those first units are now getting old.
 
-## Replacing an ageing heat pump
+## Heat pump repair or replacement in Casebrook
 
 An older unit that rattles, takes a long time to warm the room, or shows a fault light isn't always finished. We find the cause first and give you a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
 
 When a replacement is the better option, it's a chance to correct the size. Many homes have had ceiling insulation topped up or windows replaced since the first heat pump went in, and that changes the capacity the room needs. We size the new unit from the room as it is now, the insulation and the windows, not from the label on the old one.
 
-## Brick and tile homes in winter
+## Brick and tile Casebrook homes in winter
 
 Brick veneer houses from this era often have a long living area facing the street or the back garden, with bedrooms off a hallway. A wall unit at one end of the lounge can carry heat into the dining space if nothing blocks the airflow. Bedrooms at the far end of the hall are a different matter: they usually need a small unit each, or a [ducted system](/ducted-heat-pumps-christchurch/) if the ceiling space allows it.
 
@@ -41,13 +43,13 @@ Garages are common on Casebrook homes, and an outside garage wall can be a good 
 
 Outdoor units on these homes usually sit on raised feet against the brick wall, clear of garden beds, with a clear path for defrost water.
 
-## Installs, servicing and repairs
+## Heat pump installs, service and repairs in Casebrook
 
 - **New and replacement installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor console, multi-room and ducted systems.
 - **Servicing.** A yearly clean and check keeps a unit running efficiently. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs on all major brands.** Including Panasonic and other brands we don't install.
 
-## Nearby suburbs
+## Suburbs near Casebrook
 
 We cover [Redwood](/redwood/), [Harewood](/harewood/), [Belfast](/belfast/), [Burnside](/burnside/) and the rest of [the city](/locations/).
 

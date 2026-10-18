@@ -10,6 +10,8 @@ suburb: Tai Tapu
 intro: We install, service and repair heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. You get a free quote with a fixed price before any work.
 hero: tai-tapu-hero
 gallery: [pool-lifestyle, pool-console-unit]
+faqHeading: Questions about heat pumps in Tai Tapu
+relatedHeading: Heat pumps near Tai Tapu
 faqs:
   - q: Do you cover rural properties near Tai Tapu?
     a: Yes. Selwyn is part of our service area, including the village, the lifestyle blocks around it and the farms toward Lincoln.
@@ -25,13 +27,13 @@ related:
   - { label: Ducted vs split, href: /ducted-vs-split-heat-pumps-christchurch/, text: Which type suits a larger house. }
 ---
 
-## Country homes at the foot of the hills
+## Tai Tapu country homes at the foot of the hills
 
 Tai Tapu is a small village in Selwyn District, on the southern side of the Port Hills where the hills meet the plains. Around it are lifestyle blocks, horse properties and farms, with houses ranging from older farmhouses to large modern homes on a few hectares. Some sit on the flat; others are tucked against the lower slopes.
 
 Rural homes here are often bigger than town houses, with more rooms, longer hallways and sometimes a sleepout, studio or granny flat set apart from the main house.
 
-## Replacing the log burner
+## Replacing a Tai Tapu log burner with a heat pump
 
 Older country houses were often built around a fire in the lounge, with the rest of the house left cold. Owners who want warmth in every room, without stacking wood, often look at heat pumps. One large unit in the lounge won't do it in a big house with doors between rooms. The usual answers are:
 
@@ -41,15 +43,15 @@ Older country houses were often built around a fire in the lounge, with the rest
 
 Each system is sized on what we find in your house: room sizes, insulation, glazing and which rooms you use most.
 
-## Frost on low ground
+## Frost on low ground around Tai Tapu
 
 Cold air drains downhill and settles on the flat, so low-lying spots near Tai Tapu can see heavy frosts on still nights. The outdoor unit goes up on raised feet or a stand so melt water from its defrost cycle runs away and air flows freely underneath. On a large section it also needs to be clear of long grass, garden beds and anything that could block it. Older farmhouses often have high ceilings, where a [floor console](/single-room-heat-pump-installation/) puts warm air at the level you sit.
 
-## Distance from neighbours
+## Distance from neighbours in Tai Tapu
 
 On a lifestyle block the nearest neighbour may be some distance away, so noise across the boundary is rarely a concern. In the village, sections are closer together. Either way, Tai Tapu is Selwyn District, and its district plan is the one that counts.
 
-## What we do in Tai Tapu
+## Heat pump installation in Tai Tapu
 
 Systems we install in Tai Tapu come from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, with the wiring connected by a licensed electrical worker. We'll also service or [repair](/heat-pump-repair/) an existing Panasonic or other common brand. A rural home with a heat pump that works hard all winter benefits from a yearly [service](/heat-pump-servicing/).
 

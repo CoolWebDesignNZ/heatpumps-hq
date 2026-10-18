@@ -8,6 +8,8 @@ serviceName: Ducted heat pump installation
 intro: A ducted heat pump hides the indoor unit in the roof or under the floor and sends warm or cool air to each room through a vent. One system, nothing on the walls.
 hero: ducted-hero
 gallery: [ducted-roofspace, ducted-grille]
+faqHeading: Ducted heat pump questions
+relatedHeading: Ducted brands and comparisons
 faqs:
   - q: Can a ducted heat pump go into an existing house?
     a: Often, yes, if there is enough ceiling space or a suitable underfloor to fit the indoor unit and run the ducts. Low pitched roofs, flat roofs and concrete slab homes with no ceiling cavity are harder. We check the space before quoting.
@@ -31,13 +33,13 @@ A ducted system has the same two halves as a wall unit: an outdoor unit and an i
 
 Air comes back to the indoor unit through a larger return air grille, usually in a hallway ceiling, where it passes through a filter and is heated or cooled again. Inside the house you see the outlets, the return grille and a wall controller.
 
-## Why people choose ducted
+## Why people choose ducted heating
 
 - **Every room heated.** Bedrooms, hallways and bathrooms all get warm air, not just the room with the wall unit.
 - **Nothing on the walls.** No indoor units to work around when you place furniture or hang art.
 - **Even temperatures.** Air comes from several outlets instead of one spot, so there are fewer cold corners.
 
-## What your house needs
+## What your house needs for a ducted heat pump
 
 Ducted heating needs somewhere to put the indoor unit and the ducts. In Christchurch that usually means a ceiling space with enough height to work in, or a raised timber floor with room underneath. We check:
 
@@ -53,11 +55,11 @@ New builds are the easiest. If you're building or doing a major renovation, talk
 
 A ducted system is sized for the whole area it heats, room by room. Each room needs the right size of outlet and duct for the heat it loses, and the return air path has to let the air back. Get that wrong and some rooms end up warm while others stay cold, or the system is noisy at the outlets. We work out the heat each room needs, then lay out the ducts and outlets to match.
 
-## Zoning
+## Zoning a ducted system
 
 A plain ducted system heats every room at once from one thermostat. A zoning system adds motorised dampers so you can turn zones on and off, or in some systems set a different temperature in each. If the bedrooms only need heat at night and the living areas during the day, zoning is worth considering. Our [heat pump zoning](/heat-pump-zoning/) page explains how it works.
 
-## Brands we install
+## Ducted heat pump brands we install
 
 We install ducted systems from the brands we carry. Two have their own pages:
 

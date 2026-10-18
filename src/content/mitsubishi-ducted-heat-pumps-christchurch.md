@@ -8,6 +8,8 @@ serviceName: Mitsubishi Electric ducted heat pump installation
 intro: Mitsubishi Electric builds its ducted heat pumps into whole-home packages with ZoneIQ room control and Lossnay ventilation. We plan and install the ducted system to suit your house.
 hero: mitsubishi-ducted-hero
 gallery: [mitsubishi-ducted-zones, mitsubishi-ducted-ceiling]
+faqHeading: Mitsubishi Electric ducted heat pump questions
+relatedHeading: Other ducted options to compare
 faqs:
   - q: What is Mitsubishi Electric ComfortMaster?
     a: ComfortMaster is Mitsubishi Electric's name for a ducted heat pump combined with its ZoneIQ control system. Mitsubishi Electric says it controls up to 10 zones and lets you set temperatures in 0.5 degree steps, so you can heat only the rooms you're using.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: What zoning does and when it is worth it. }
 ---
 
-## How Mitsubishi Electric packages its ducted systems
+## How Mitsubishi Electric packages its ducted heat pumps
 
 Mitsubishi Electric New Zealand presents its ducted heat pumps as the base of three whole-home setups:
 
@@ -33,7 +35,7 @@ Mitsubishi Electric New Zealand presents its ducted heat pumps as the base of th
 
 All three start with choosing the right ducted unit for the house. Mitsubishi Electric says its ducted models suit both new builds and existing homes, and that selected splittable models can be separated into two parts for easier access through a ceiling opening. Details are on Mitsubishi Electric's [ComfortMaster page](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx) and [Power of 2 page](https://www.mitsubishi-electric.co.nz/heatpump/Power-of-Two-Ducted-Heat-Pump-and-Lossnay-Ventilation.aspx).
 
-## ZoneIQ room control
+## ZoneIQ for Mitsubishi Electric ducted systems
 
 A standard ducted system runs from one thermostat and sends air to every room at once. Mitsubishi Electric's ZoneIQ changes that. According to Mitsubishi Electric, it:
 
@@ -50,7 +52,7 @@ For a household that uses the living areas by day and the bedrooms at night, zon
 
 Lossnay is Mitsubishi Electric's balanced pressure ventilation system. Mitsubishi Electric explains that it extracts stale, damp air, recovers heat from it, and uses that heat to pre-warm the filtered fresh air coming in. Paired with a ducted heat pump, that is The Power of 2. If damp or stuffy air is part of the reason you're looking at ducting, raise it at the quote and we'll talk through whether a combined system fits your plans.
 
-## What we check in your house
+## What we check before fitting a Mitsubishi Electric ducted system
 
 - **Ceiling access and height.** Whether a standard or splittable unit is needed to get into the roof space.
 - **Duct routes.** Clear paths from the indoor unit to every outlet, with no crushed or tightly bent ducts.
@@ -63,7 +65,7 @@ Lossnay is Mitsubishi Electric's balanced pressure ventilation system. Mitsubish
 
 We install both, along with Fujitsu and Toshiba. If you'd like to see the alternatives, we'll set the Mitsubishi Electric option for your house beside a [Daikin ducted system](/daikin-ducted-heat-pumps-christchurch/). For how ducted compares with wall units in general, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
 
-## Looking after it
+## Looking after a Mitsubishi Electric ducted system
 
 A ducted system needs its return air filter cleaned regularly and a yearly service to keep the indoor coil, drain and outdoor unit in good order. Our [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) page covers servicing and repairs.
 

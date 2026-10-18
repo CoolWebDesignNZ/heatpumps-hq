@@ -10,6 +10,8 @@ suburb: Belfast
 intro: Belfast, on Christchurch's northern edge, has many new subdivision homes alongside its older houses. We install, service and repair heat pumps in both, at a price fixed before any work.
 hero: belfast-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
+faqHeading: Questions about heat pumps in Belfast
+relatedHeading: Heat pumps near Belfast
 faqs:
   - q: When should I talk to you about heat pumps for a new Belfast build?
     a: Before the ceiling and wall linings go in, ideally when the plans are being finalised. That's when ducting, pipe routes and the outdoor unit position are easiest to plan.
@@ -29,7 +31,7 @@ related:
 
 Belfast sits at Christchurch's northern edge, on open land towards the Waimakariri River. Its older part has the houses of an established settlement, while large new subdivisions have filled much of the surrounding land with modern homes. Most heat pump work here is for those newer houses.
 
-## Heating a new build
+## Heat pump installation in a new Belfast build
 
 Modern homes are well insulated and double glazed, and they hold heat. That makes them cheaper to heat, but it also means an oversized unit will overshoot and cycle. We size every install from the rooms, the windows, the insulation and how you use the house.
 
@@ -38,23 +40,23 @@ New homes in Belfast tend to follow a pattern: an open plan kitchen, dining and 
 - **A large wall unit in the living area, plus smaller units in the bedrooms** or a [multi-room system](/multi-room-heat-pump-installation/) sharing an outdoor unit.
 - **A [ducted system](/ducted-heat-pumps-christchurch/)** with vents in each room, the indoor unit in the roof space and one control for the house.
 
-## Plan it before the linings go in
+## Plan Belfast heating before the linings go in
 
 If your house isn't finished yet, the best time to plan heating is now. Ducting needs a clear route through the ceiling space, and pipes for wall units are tidiest run inside the walls rather than in covers outside. Choosing the outdoor unit position early means it ends up somewhere quiet, sheltered and easy to reach for servicing.
 
-## Older Belfast houses
+## Adding heat pumps to older Belfast houses
 
 Many of these houses were built with one living area unit as standard. Adding bedroom units later is straightforward if there's a sensible wall for each and a route for the pipes.
 
 In Belfast's older homes, the work looks more like the rest of the north: a lounge unit to start, bedroom heating added as needed, and attention to insulation before buying more capacity.
 
-## What we do
+## What we do in Belfast
 
 - **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing.** Yearly cleaning and checks. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs.** Fault finding on every major brand, Panasonic included. See [heat pump repairs](/heat-pump-repair/).
 
-## Also in the north
+## Other northern suburbs near Belfast
 
 We also cover [Redwood](/redwood/), [Casebrook](/casebrook/), [Marshland](/marshland/), [Harewood](/harewood/) and the rest of [Christchurch](/locations/).
 

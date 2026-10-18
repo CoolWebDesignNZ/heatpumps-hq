@@ -8,6 +8,8 @@ serviceName: Heat pump remote monitoring and diagnostics
 intro: A heat pump connected to Wi-Fi lets you check it from your phone and see how it has been running. That record is useful when something goes wrong, but it doesn't replace testing the system on site.
 hero: remote-hero
 gallery: [remote-1, remote-2]
+faqHeading: "Heat pump remote monitoring questions"
+relatedHeading: "More on smart heat pump control"
 faqs:
   - q: Can my heat pump be monitored remotely?
     a: If it has a Wi-Fi adaptor and is connected to the manufacturer's app, yes. You can see whether it's on, the mode and setting, and the room temperature it's reading. Some apps and models also show energy use.
@@ -34,13 +36,13 @@ For a home heat pump, remote monitoring means a Wi-Fi adaptor in the indoor unit
 
 It works from anywhere with an internet connection, so you can check on the house from work or while you're away. Which app you use depends on the brand. Our [smart heat pump](/smart-heat-pump-systems/) page lists the Wi-Fi controls for the brands we install.
 
-## What it can't tell you
+## What heat pump monitoring can't tell you
 
 An app reports what the unit's own sensors and controls know. It doesn't measure refrigerant pressure, check the wiring, look at the drain or listen to the fan bearings. A heat pump can show normal readings in the app and still have a slow refrigerant leak or a blocked drain.
 
 So remote diagnostics on a home system is a head start, not a full diagnosis. The tests that confirm a fault are done at the unit. How we do that is set out on our [fault finding](/heat-pump-troubleshooting/) page.
 
-## How the app helps us fix a fault
+## How remote diagnostics help us fix a heat pump fault
 
 When something goes wrong, the app often holds clues that are gone by the time anyone looks at the unit:
 

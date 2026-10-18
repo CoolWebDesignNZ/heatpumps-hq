@@ -8,6 +8,8 @@ serviceName: Heat pump dehumidification setup
 intro: Most split system heat pumps have a dry mode that pulls moisture out of the room air. It works well in the right conditions and poorly in others. Here is how to tell the difference.
 hero: dehumid-hero
 gallery: [dehumid-remote, dehumid-condensation]
+faqHeading: "Heat pump dehumidifier questions"
+relatedHeading: "More on heat pump modes and moisture"
 faqs:
   - q: Does a heat pump dehumidify?
     a: Yes. In cooling and dry mode the indoor coil is cold, and moisture in the air condenses on it and drains away outside. Dry mode is set up to remove moisture while cooling the room as little as possible.
@@ -23,7 +25,7 @@ related:
   - { label: Air quality testing, href: /air-quality-testing/, text: Checking a home that stays damp. }
 ---
 
-## How dry mode works
+## How heat pump dry mode works
 
 A heat pump moves heat using a refrigerant loop. In cooling, the indoor coil gets cold. Warm room air passes over the cold fins, and the moisture in it condenses into water, the same way a cold drink bottle gets wet on the outside. That water runs into the drain tray and out through the drain line.
 
@@ -31,13 +33,13 @@ Dry mode uses that effect on purpose. The indoor fan runs slowly so air spends l
 
 You'll find it on the mode button, usually shown as "Dry" or a water droplet.
 
-## When dry mode helps
+## When to dehumidify with your heat pump
 
 - **Muggy summer days.** Warm, humid weather after rain, when a room feels sticky rather than hot.
 - **Closed-up rooms in warm weather.** A spare room or sleepout that smells stale in summer.
 - **After cooking or showering in warmer months.** As a short boost alongside opening windows and running extractor fans.
 
-## When it doesn't
+## When dry mode doesn't help
 
 - **Cold winter days.** Dry mode can't heat. In a cold room it makes things cooler, and the coil may struggle to pull much water from cold air.
 - **Persistent damp from the building.** A wet subfloor, a leaking roof or a bathroom with no extraction will keep putting moisture back. No heat pump setting fixes the source.
@@ -54,11 +56,11 @@ You'll find it on the mode button, usually shown as "Dry" or a water droplet.
 
 In winter, keeping rooms warm and letting damp air out is what keeps condensation down. Tenancy Services' advice on [mould and dampness](https://www.tenancy.govt.nz/maintenance-and-inspections/mould-and-dampness/) is that a dry, well-aired home is easier to heat and healthier, and it suggests opening windows, using extractor fans and wiping condensation off windows.
 
-## Dry mode and smells
+## Dry mode and musty smells
 
 Dry mode leaves the indoor coil wet. If the coil and fan are dirty, that's when mould grows and smells start. After running dry mode, let the unit dry itself if it has that setting, or run it in fan mode for a short while. If it already smells musty, see our [heat pump smell](/heat-pump-deodorising/) page.
 
-## What we do
+## What we do to keep dry mode working
 
 On a service or a dedicated visit we:
 
@@ -69,7 +71,7 @@ On a service or a dedicated visit we:
 
 If your home stays damp whatever you do, we can talk you through what a heat pump can and can't do there, and point you to our [air quality testing](/air-quality-testing/) page. In homes where someone has breathing problems, our [allergy and asthma guide](/allergy-asthma-solutions-heat-pumps/) is worth reading.
 
-## Brands
+## Dry mode on different heat pump brands
 
 Dry mode is on most split systems we work with, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. The way it behaves differs between models, so your owner's manual is the final word on your unit.
 

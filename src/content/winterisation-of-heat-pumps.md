@@ -8,6 +8,8 @@ serviceName: Heat pump winter preparation
 intro: Winter is when a Christchurch heat pump earns its keep. Here is how to prepare it, how to set it, and how to look after the outdoor unit through the frosts.
 hero: winter-hero
 gallery: [winter-defrost, winter-louvres]
+faqHeading: "Heat pump winter maintenance questions"
+relatedHeading: "More on heat pump care through the year"
 faqs:
   - q: What is the best setting for a heat pump in winter?
     a: Heat mode rather than auto, a steady temperature you're comfortable at, fan on auto, and louvres pointing down. Use the timer to start it before you get up or come home instead of turning it up high when you walk in.
@@ -23,7 +25,7 @@ related:
   - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: When winter running gets loud. }
 ---
 
-## Getting ready before the frosts
+## How to prepare your heat pump for winter
 
 Do these in autumn, while the days are still mild:
 
@@ -33,7 +35,7 @@ Do these in autumn, while the days are still mild:
 4. **Look at the feet or bracket.** The unit should sit off the ground, so defrost water can drain and the base doesn't freeze into a block of ice.
 5. **Book a check if anything seems off.** An autumn [tune-up](/heat-pump-seasonal-tune-ups/) sorts small problems before the cold.
 
-## Winter settings that work
+## Heat pump winter settings that work
 
 **Choose heat mode, not auto.** Auto can flick between heating and cooling on a mild winter afternoon. Heat mode keeps it doing one job.
 
@@ -59,7 +61,7 @@ Do these in autumn, while the days are still mild:
 
 **Don't box it in.** A tight box or a tarp over the unit while it's running blocks airflow and traps defrost water. Our [heat pump covers](/covers/) page explains what kind of cover is safe.
 
-## Winter faults worth catching early
+## Heat pump winter faults worth catching early
 
 - Warm air that is only lukewarm at the indoor unit
 - The outdoor unit running constantly but the room never getting warm
@@ -69,7 +71,7 @@ Do these in autumn, while the days are still mild:
 
 Some are a clean, and some need a [repair](/heat-pump-repair/). An older unit that struggles every winter may be a candidate for a [cold climate heat pump](/cold-climate-heat-pumps/) built for low outdoor temperatures.
 
-## What we do on a winter visit
+## What our heat pump winter maintenance visit covers
 
 We clean and check the indoor and outdoor units, test heating output, check the defrost drainage under the outdoor unit, and set up the remote and timer with you. For the full list, see [heat pump servicing](/heat-pump-servicing/). Visits are booked Monday to Friday, between 8am and 5pm.
 

@@ -10,6 +10,8 @@ suburb: Cashmere
 intro: Cashmere runs from flat streets by the Heathcote River up onto the Port Hills. We install heat pumps in hillside and flat homes alike, planned around the slope, the views and the layout, with a fixed price first.
 hero: cashmere-hero
 gallery: [pool-hill-home, pool-ducted-vent]
+faqHeading: "Cashmere heat pump questions"
+relatedHeading: "Heat pumps near Cashmere"
 faqs:
   - q: Can the outdoor unit go on a deck or a retaining wall?
     a: Often. A galvanised wall bracket, or feet on a deck with good structure underneath, both work. The unit needs clear air, a way to drain defrost water and a spot we can reach safely for servicing.
@@ -25,19 +27,19 @@ related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: Whole-home heating with hidden ducts and zoned control. }
 ---
 
-## Two kinds of Cashmere home
+## Heat pump installation for two kinds of Cashmere home
 
 Lower Cashmere is on the flat, with established family homes on level sections near the river. Higher up, houses climb the north face of the Port Hills, with driveways that wind, sections cut into the slope and decks built for the view over the city and plains.
 
 The flat homes are straightforward. The hill homes are where planning pays off.
 
-## Sun, views and glass
+## Sun, views and glass in Cashmere
 
 The slopes face north, so hillside homes get good winter sun. Big windows to the view are common. That glass is great on a clear winter afternoon and costly after dark, when it loses heat fast. On a still summer day the same rooms can overheat.
 
 A heat pump handles both, as long as it's sized for the glass. We measure window area as part of sizing, and in rooms with a lot of glazing we look at whether one larger unit or two smaller ones gives better coverage.
 
-## Hillside installs
+## Fitting heat pumps on Cashmere hillsides
 
 Steep sections change the outdoor work:
 
@@ -46,15 +48,15 @@ Steep sections change the outdoor work:
 - **Access.** Steps, steep paths and decks with drops affect how we get the unit in and how it can be serviced later.
 - **Wind exposure.** Exposed spots catch more wind and grit. A sheltered wall that still has clear airflow is better.
 
-## Multi-level homes
+## Multi-level homes in Cashmere
 
 Hill homes are often on two or three levels, with living rooms on the view side and bedrooms below or behind. Heat rises, so the upper level may need less than the lower one. Separate units on each level, or a zoned [ducted system](/ducted-heat-pumps-christchurch/), let you heat each part of the house to suit.
 
-## Noise on a slope
+## Heat pump noise on a Cashmere slope
 
 Sound carries differently on a hillside, and an outdoor unit below a neighbour's deck can reach them more than you'd expect. We check what's above and below before choosing a spot. The rules are in our [boundary guide](/heat-pump-boundary-rules-consent-nz/).
 
-## Around Cashmere
+## Suburbs around Cashmere
 
 We also cover [Cracroft](/cracroft/), [Westmorland](/westmorland/), [Beckenham](/beckenham/), [Hillmorton](/hillmorton/) and [Somerfield](/somerfield/).
 

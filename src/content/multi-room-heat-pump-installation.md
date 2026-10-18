@@ -8,6 +8,8 @@ serviceName: Multi room heat pump installation
 intro: A multi split system runs two or more indoor units from one outdoor unit, each room with its own controller. Here's how it compares with separate units and ducting.
 hero: multi-hero
 gallery: [multi-outdoor, multi-bedrooms]
+faqHeading: Multi room heat pump questions
+relatedHeading: Other ways to heat several rooms
 faqs:
   - q: What is a multi split heat pump?
     a: One outdoor unit connected to two or more indoor units in different rooms. Each indoor unit has its own refrigerant pipes back to the outdoor unit and its own controller, so you can heat one room without the others.
@@ -23,20 +25,20 @@ related:
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: Room by room control on a whole-home system. }
 ---
 
-## How a multi split works
+## How a multi room heat pump works
 
 A multi split system has one outdoor unit and several indoor units, sometimes called heads. Each indoor unit is connected back to the outdoor unit by its own pair of refrigerant pipes and a control cable. Every room gets its own remote or wall controller, so you can warm the bedrooms at night while the lounge stays off.
 
 The indoor units do not all have to be the same. On most systems a bedroom can have a small high wall unit, the lounge a larger one, and a room with no high wall space a floor console.
 
-## When a multi split makes sense
+## When a multi split heat pump makes sense
 
 - **Not much outside wall space.** Townhouses, units and homes built close to the boundary often have room for one outdoor unit, not three.
 - **Noise near a neighbour.** One well placed outdoor unit is easier to keep quiet than several. The District Plan noise limits at the boundary are explained in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 - **Looks.** One outdoor unit on the side of the house instead of a row of them.
 - **Rooms on different levels.** Upstairs bedrooms and a downstairs living area can share one outdoor unit if the pipes can be run between floors.
 
-## The trade-offs
+## The trade-offs of a multi split
 
 A multi split is not automatically the better choice, and you should know the downsides before you decide:
 
@@ -51,7 +53,7 @@ For two or three rooms, we'll often price a multi split against separate single 
 
 If you want every room heated with nothing on the walls, a [ducted heat pump](/ducted-heat-pumps-christchurch/) is the other option. Ducting needs ceiling or underfloor space, and its room by room control comes from a [zoning system](/heat-pump-zoning/) rather than separate indoor units. Our guide to [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/) compares the two in more depth.
 
-## How we plan a multi room install
+## How we plan a multi head heat pump install
 
 We walk through each room you want heated and note its size, insulation, glass and how you use it, so every indoor unit is sized for its own space. Then we work out where the outdoor unit can go with the shortest sensible pipe routes to every room, and where the pipes can run without showing. The quote sets out the outdoor unit, each indoor unit and the pipe routes, as one fixed price.
 

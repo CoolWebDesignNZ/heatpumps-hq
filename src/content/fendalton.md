@@ -10,6 +10,8 @@ suburb: Fendalton
 intro: Fendalton's large, established homes need heat pumps planned around big rooms, mature trees and the look of the house. We install, service and repair them, with a fixed price before we start.
 hero: fendalton-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
+faqHeading: Questions about heat pumps in Fendalton
+relatedHeading: Heat pumps near Fendalton
 faqs:
   - q: What heat pump suits a large Fendalton home?
     a: Often a ducted system, which heats every room through ceiling vents with nothing on the walls, or a multi-room system with discreet indoor units. The right choice depends on ceiling space, room sizes and which rooms you use most.
@@ -29,7 +31,7 @@ related:
 
 Fendalton is one of Christchurch's older, leafier suburbs, west and north-west of the central city. Its streets hold large homes on wide sections: two storey character houses, substantial villas, generous mid-century homes and newer rebuilds, many surrounded by mature trees and long-established gardens. These houses have big rooms, high ceilings and lots of glass, and the heating has to match.
 
-## Big rooms, more than one system
+## Heat pump installation for big Fendalton rooms
 
 A single wall unit seldom heats a large Fendalton home. The usual approaches are:
 
@@ -39,21 +41,21 @@ A single wall unit seldom heats a large Fendalton home. The usual approaches are
 
 In two storey homes, upstairs and downstairs are often best treated as separate zones. We measure every room, look at the glazing and insulation, and ask how the house is used before recommending a layout.
 
-## Shade and trees
+## Shade and trees in Fendalton
 
 Mature trees are a feature of Fendalton, and they affect heating in two ways. Rooms in deep winter shade stay colder and need extra capacity. And outdoor units near trees collect leaves, twigs and blossom on the coil, which cuts efficiency. We place outdoor units away from the worst leaf fall where possible, and an annual [service](/maintenance-servicing/) keeps the coil clear.
 
-## Keeping the house looking right
+## Keeping a Fendalton house looking right
 
 Where houses have been rebuilt or extended, older and newer wings often perform very differently, and we size each part on its own terms.
 
 On a character home, pipe covers and outdoor units should be as unobtrusive as possible. Where we can, we run pipework inside walls or under floors, and place outdoor units on side or rear walls rather than the street frontage.
 
-## Servicing larger systems
+## Heat pump service for larger Fendalton systems
 
 We service and [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands, including larger ducted systems.
 
-## Surrounding suburbs
+## Suburbs around Fendalton
 
 We also work in [Bryndwr](/bryndwr/), [Ilam](/ilam/), [Burnside](/burnside/), [Riccarton](/heat-pumps-riccarton/) and the rest of [Christchurch](/locations/).
 
