@@ -83,3 +83,9 @@ a.card:hover h3, a.card:focus-visible h3 { color: var(--link); }
   .card, .brand, .area-card { transition: box-shadow .18s ease; }
   a.card:hover, a.card:focus-visible, .card:has(a):hover, .brand:has(a):hover, .area-card:hover { transform: none; }
 }
+/* Mid-page quote strip on long inner pages (light, per the no-dark-sections rule). */
+.mid-cta { background: #d7e8f3; padding: 26px 0; }
+.mid-cta-in { display: flex; align-items: center; justify-content: space-between; gap: 16px 32px; flex-wrap: wrap; }
+.mid-cta p { margin: 0; font-size: 1.15rem; flex: 1 1 360px; }
+.mid-cta-btns { display: flex; gap: 12px; flex-wrap: wrap; }
+.mid-cta .btn { padding: 12px 22px; font-size: 1rem; }

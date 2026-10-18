@@ -104,12 +104,25 @@ if (fm.faqs?.length) {
     </nav>
   </Hero>
   {bands.map((b, i) => (
+    <>
     <section class={`band ${i % 2 ? 'band-tint' : ''}`}>
       <div class="wrap prose">
         <Fragment set:html={b.html} />
         {b.photo && <figure class="inline-photo"><Img id={b.photo} /></figure>}
       </div>
     </section>
+    {i === 1 && bands.length > 3 && !['legal', 'contact'].includes(type) && (
+      <section class="mid-cta">
+        <div class="wrap mid-cta-in">
+          <p><strong>Get a free fixed-price quote{fm.suburb ? ` in ${fm.suburb}` : ''}.</strong> We come to you, Monday to Friday.</p>
+          <div class="mid-cta-btns">
+            <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
+            <a class="btn btn-ghost" href="#quote">Request a quote</a>
+          </div>
+        </div>
+      </section>
+    )}
+    </>
   ))}
   {fm.steps?.length && (
     <section class="section tint">
