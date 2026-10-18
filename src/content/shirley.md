@@ -35,18 +35,11 @@ Shirley is a flat suburb in the north-east. It has lots of mid-century weatherbo
 
 - **Little or no ceiling insulation.** The lounge unit needs more capacity. Top up the insulation and a smaller unit will do.
 - **Timber floors.** Cold air comes up from underneath. Underfloor insulation matters as much as the heat pump. Concrete floors feel cold to walk on, but they don't let draughts through.
-- **Closed-off bedrooms.** This is where damp usually starts. A small unit on low overnight keeps them dry.
+- **Closed-off bedrooms.** This is where damp usually starts.
 
 ## Before we size a heat pump for your Shirley home
 
-The questions that set the size are simple:
-
-- How big is the room, and how high is the ceiling?
-- How much glass is there? Is it single or double glazed?
-- Is there insulation in the ceiling and under the floor?
-- Which way does the room face?
-
-A Shirley lounge with ceiling insulation and new windows needs a smaller heat pump than the same room without them.
+We size from the room itself: how big it is, how high the ceiling is, how much glass there is and whether it's single or double glazed, whether there's insulation in the ceiling and under the floor, and which way it faces. A Shirley lounge with ceiling insulation and new windows needs a smaller heat pump than the same room without them.
 
 We come out, measure up and ask how you use the house. Then we give you a fixed price for a unit that fits.
 
@@ -56,7 +49,7 @@ A heat pump can only do so much if moisture keeps pouring into the air. Run the 
 
 ## Warm, dry bedrooms in Shirley
 
-Lots of damp problems start in bedrooms. They're often shut and unheated. A small bedroom unit on low overnight keeps the room dry and comfortable. Want several bedrooms covered? A [multi-room system](/multi-room-heat-pump-installation/) runs them off one outdoor unit.
+Bedrooms are often shut and unheated. A small bedroom unit on low overnight keeps the room dry and comfortable. Want several bedrooms covered? A [multi-room system](/multi-room-heat-pump-installation/) runs them off one outdoor unit.
 
 ## Heat pump service for older Shirley units
 

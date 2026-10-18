@@ -29,11 +29,11 @@ related:
 
 ## Heat pump installation for smaller Northcote homes
 
-In a smaller Northcote home, size is the big decision. Most units we fit here heat one main living space. A unit that's too big costs more to buy and more to run. It won't make the room any warmer. More on that below.
+In a smaller Northcote home, size is the big decision. Most units we fit here heat one main living space.
 
-- **Flats and units.** On subdivided sections there's often only one outside wall. The pipe route out to the outdoor unit decides where the indoor unit can go. If the only free wall is under a window, a floor console works well.
+- **Flats and units.** On subdivided sections, the one outside wall usually decides where the indoor unit can go.
 - **Small newer homes.** These are better insulated. They need less capacity than the floor area suggests.
-- **Older family houses.** If there's a separate lounge, you'll need more than one unit to keep the bedrooms warm.
+- **Older family houses.** With a separate lounge, the bedrooms are the hard rooms to heat.
 
 Northcote is a small suburb in Christchurch's north, next to Papanui and Redwood. On shared sites the outdoor units end up close to the neighbours. So we plan where they go with noise in mind.
 
@@ -53,11 +53,7 @@ In Northcote's older houses, the bedrooms are the problem. A three bedroom home 
 
 ## Heat pump installs, service and repairs in Northcote
 
-We fit, service and fix heat pumps in Northcote flats, units and family houses:
-
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for the space.
-- **Servicing.** A filter, coil and drain clean once a year. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** All major brands. See [heat pump repairs](/heat-pump-repair/).
+In Northcote flats, units and family houses, we install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for the space. [Maintenance and servicing](/maintenance-servicing/) is a filter, coil and drain clean once a year. Our [heat pump repairs](/heat-pump-repair/) cover all major brands.
 
 ## Suburbs neighbouring Northcote
 

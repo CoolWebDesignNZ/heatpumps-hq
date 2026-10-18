@@ -67,30 +67,21 @@ Already have a Fujitsu? Nothing about it changes. We still service and repair th
 
 ## Mitsubishi vs Daikin vs Fujitsu vs Toshiba, side by side
 
-All four list high wall, floor console, multi room and ducted systems. Each has its own ducted zoning.
-
-| | Mitsubishi Electric | Daikin | Fujitsu | Toshiba |
-| --- | --- | --- | --- | --- |
-| NZ company | Mitsubishi Electric New Zealand | Daikin New Zealand | GENERAL New Zealand | AHI Carrier |
-| High wall | Yes | Yes | Yes | Yes |
-| Floor console | Yes | Yes | Yes | Yes |
-| Multi room | Yes | Yes | Yes | Yes |
-| Ducted | Yes | Yes | Yes | Yes |
-| Ducted zoning | ZoneIQ | Airzone and AirHub | Ducted zone controller | Zoning listed for ducted |
+All four list high wall, floor console, multi room and ducted systems. Each has its own ducted zoning. Mitsubishi Electric has ZoneIQ, Daikin has Airzone and AirHub, Fujitsu has a ducted zone controller, and Toshiba lists zoning for its ducted range.
 
 All four sell the main types a Christchurch house is likely to need. The differences that matter show up model by model.
 
 ## What actually differs between models
 
-When we compare units for a house, we look at these. Whatever the brand.
+Whatever the brand, these are the things we compare when we pick units for a house.
 
 - **Heating output at 2°C and below.** Some models hold their output in the cold better than others. EECA's [guide to the energy label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) shows how to check it.
-- **Cold zone heating stars.** And the estimated kWh per year.
-- **Noise figures.** Indoor and outdoor, where the label shows them.
-- **The fit.** Unit size. Where the pipes connect. Whether a console or slim ducted unit fits the space.
-- **Controls.** Built-in Wi-Fi or an adaptor. How the app works.
-- **Coastal protection.** For homes near the sea.
-- **Parts and service.** In Christchurch, for the years after the install.
+- **Cold zone heating stars and the estimated kWh per year.** They show how efficient a model is in the cold and roughly how much power it will use in a year.
+- **Noise figures.** Indoor and outdoor, where the label shows them. They matter most in a bedroom, or where the outdoor unit sits near a neighbour.
+- **The fit.** The unit's size, where the pipes connect, and whether a console or slim ducted unit fits the space. A good model is no use if it can't go where you need it.
+- **Controls.** Some have Wi-Fi built in, others need an adaptor, and the apps work differently. You'll use the controls every day.
+- **Coastal protection.** Homes near the sea need it on the outdoor unit.
+- **Parts and service in Christchurch.** You want parts and repairs on hand for the years after the install.
 
 ## Panasonic and other heat pump brands
 

@@ -31,7 +31,7 @@ related:
 
 A Lyttelton heat pump has a lot to make up for. Old houses leak heat, and winter sun is short. Lyttelton is a port town on the hill above the harbour. Many of its homes are timber cottages and villas. They have tall ceilings and sash windows, and their walls have little or no insulation.
 
-- **Heat loss:** with tall ceilings, the volume of the room sets the unit size, not the floor area. Uninsulated walls and ceilings let heat straight out. Insulate first, or alongside. More on that below.
+- **Heat loss:** with tall ceilings, the volume of the room sets the unit size, not the floor area. Uninsulated walls and ceilings let heat straight out.
 - **Early shade:** much of the town looks south across the harbour. So a lot of homes lose direct sun early on winter afternoons. The heat pump carries the house from mid-afternoon. A timer can start it before the room cools down.
 - **Tight sections:** houses sit close together on small, steep sections. Often you reach them by steps or a narrow lane. We plan where the outdoor unit goes, and how we'll carry it in, when we quote.
 
@@ -51,11 +51,7 @@ Neighbours are often only a few metres away. On a hillside, sound bounces betwee
 
 ## Salt from Lyttelton Harbour
 
-Air coming up off the harbour carries salt. It settles on the outdoor coil. Three things help the unit last:
-
-- **Shelter:** put it somewhere out of the wind
-- **Rinsing:** a light hose with fresh water every few months
-- **Servicing:** once a year
+Air coming up off the harbour carries salt. It settles on the outdoor coil and shortens the unit's life. Put the unit somewhere out of the wind, so less salt reaches it. Give the coil a light hose with fresh water every few months to wash the salt off, and have it [serviced](/maintenance-servicing/) once a year.
 
 ## Older wiring and your Lyttelton heat pump
 

@@ -33,17 +33,13 @@ EECA's label advice is this. If you'll mostly heat, size on the **7°C heating o
 
 ## Step 2: Fix the heat loss you can
 
-A heat pump replaces the heat a room loses. The less it loses, the smaller the unit can be. And the cheaper it is to run. Before you put in a heat pump, EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) recommends:
-
-- ceiling and underfloor insulation where you can
-- weather stripping on doors and windows
-- stopping draughts.
+A heat pump replaces the heat a room loses. The less it loses, the smaller the unit can be. And the cheaper it is to run. So before you put in a heat pump, EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) recommends ceiling and underfloor insulation where you can, weather stripping on doors and windows, and stopping draughts.
 
 Planning to insulate next year? Tell us when you get a quote. It can change the size of unit that makes sense.
 
 ## Step 3: Pick which heat pump type suits the house
 
-It comes down to how many rooms one outdoor unit serves. There are three ways to set up a house.
+It comes down to how many rooms one outdoor unit serves.
 
 - **Single split.** One outdoor unit, one indoor unit, one room or open plan area. It's the most common setup in Kiwi homes.
 - **Multi split.** One outdoor unit running two or more indoor units in different rooms.
@@ -59,7 +55,7 @@ The method is in [heat pump sizing](/heat-pump-sizing/). The inputs for the offi
 
 ## Step 5: Read the energy label
 
-New heat pumps carry the **Zoned Energy Rating Label**. Here's how EECA says to read it.
+New heat pumps carry the **Zoned Energy Rating Label**. EECA explains what each part of it tells you.
 
 | Part of the label | What it tells you |
 | --- | --- |
@@ -72,8 +68,6 @@ New heat pumps carry the **Zoned Energy Rating Label**. Here's how EECA says to 
 EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/Zoned-Energy-Rating-Label-Poster.pdf) makes the main point. **Compare units of the same kW size.** Stars only mean something against models of a similar size. Noise on the label is optional here, so not every label shows it. For the rest of the label, see [energy rated heat pumps](/energy-star-heat-pumps/).
 
 ## Step 6: Check the practical details
-
-Before you settle on a model, think about these.
 
 - **Where the outdoor unit can go.** It needs open air round it. It should be clear of the neighbour's bedroom windows. The defrost water has to drain away somewhere. The District Plan [noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) decide how close it can go.
 - **The outdoor noise figure.** Check it if the only spot is close to a fence or a bedroom.

@@ -31,7 +31,7 @@ related:
 
 Belfast is at the northern edge of Christchurch. The heat pump you need here depends on where your home is. Is it in one of the big new subdivisions, or the older part of the settlement?
 
-- **New subdivision homes:** well insulated and double glazed. The job is getting the size right, not adding more power. Most of our Belfast work is in these houses. More on them below.
+- **New subdivision homes:** well insulated and double glazed. The job is getting the size right, not adding more power. Most of our Belfast work is in these houses.
 - **Older homes:** these have the separate rooms you'd expect in an established settlement. A lounge, a kitchen, and bedrooms off a hall. They lose more heat through the ceiling and windows. One lounge unit won't heat the bedrooms.
 - **Homes facing open land:** out toward the Waimakariri River, houses get more wind and frost than those deeper in the suburb. We put the outdoor unit on a sheltered wall, up on feet or a bracket. That way defrost water drains, and the wind isn't fighting the fan.
 
@@ -56,9 +56,7 @@ Lots of Belfast houses were built with one living area unit as standard. Adding 
 
 ## What we do in Belfast
 
-- **Installs:** Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing:** a clean and check every year. Read about [maintenance and servicing](/maintenance-servicing/).
-- **Repairs:** fault finding on every major brand, Panasonic included. Read about [heat pump repairs](/heat-pump-repair/).
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Our [servicing](/maintenance-servicing/) is a clean and check every year, and our [repairs](/heat-pump-repair/) cover fault finding on every major brand, Panasonic included.
 
 ## Other northern suburbs near Belfast
 

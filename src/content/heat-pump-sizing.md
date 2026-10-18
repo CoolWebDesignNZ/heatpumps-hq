@@ -49,13 +49,13 @@ Pick a unit on its rating alone and it can look generous on paper. Then it falls
 
 ## What decides a room's heat load
 
-The heat load is how fast the room loses heat when it's cold outside. EECA's checklist covers these building details:
+The heat load is how fast the room loses heat when it's cold outside. EECA's checklist looks at the building, because that's where the heat goes.
 
-- **Sun:** which way the building and its windows face, and how much sun they get.
-- **Areas:** the size of the walls, ceiling, windows and floor.
-- **Draughts:** air leaks round doors and windows.
-- **Insulation:** in the walls, ceiling and floor.
-- **Glazing:** single or double.
+- **Sun.** Which way the building and its windows face, and how much sun they get. A room that gets sun needs less help from the heat pump.
+- **Areas.** The size of the walls, ceiling, windows and floor. The more surface there is, the more places heat escapes through.
+- **Draughts.** Air leaks round doors and windows let warm air out and cold air in.
+- **Insulation.** In the walls, ceiling and floor, it slows the heat getting out.
+- **Glazing.** Single glazing lets heat out faster than double.
 
 The checklist also asks what kind of home it is: old, new or insulated. And it asks whether it's a single room or a big open plan space or hallway, where you might need more than one unit.
 
@@ -63,12 +63,7 @@ There's no honest single watts per square metre figure. Two rooms the same size 
 
 ## What happens when heat pump sizing goes wrong
 
-Too small and the room stays cold and costs more to run. Much too big and it short cycles. That costs more too, and adds noise and wear. EECA's guide sets out both:
-
-| If the unit is | What happens | Effects |
-| --- | --- | --- |
-| Undersized | Runs at full output too often and defrosts too often | Room doesn't get warm, cold air during defrost, higher running costs, extra wear |
-| Significantly oversized | Short cycles because output exceeds demand, higher start-up power | Higher running costs, draughts even on low fan, more noise, extra wear |
+EECA's guide sets out both ways it goes wrong. An undersized unit runs at full output too often and defrosts too often. The room doesn't get warm, you get cold air during defrost, and it costs more to run and wears faster. A unit that's much too big short cycles, because its output is more than the room needs, and it draws more power each time it starts. That also costs more to run, and brings draughts even on low fan, more noise and extra wear.
 
 In Canterbury, too small is the bigger risk. Output drops in the cold, right when the room needs the most heat. A unit a little above the calculated minimum gives you a margin for the coldest mornings.
 

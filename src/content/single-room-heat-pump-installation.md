@@ -53,13 +53,13 @@ It's not the answer for a row of separate bedrooms off a hall. Warm air from a w
 
 Match the unit to the room. What counts is its heating kW rating. That's the heat it puts into the room. Too small, and it runs flat out on frosty mornings and never catches up. Too big, and it overshoots. It switches off, cools down and starts again. That's noisier, less comfortable and harder on the unit.
 
-We size from your room, not a rule of thumb. We look at:
+We size from your room, not a rule of thumb:
 
-- floor area and ceiling height, including raked or high ceilings
-- insulation in the ceiling, walls and underfloor
-- how much glass there is, whether it's double glazed, and which way it faces
-- whether the room opens to a stairwell, hall or another space
-- how you use it, say a bedroom heated overnight or a lounge heated from late afternoon
+- **Floor area and ceiling height.** A raked or high ceiling adds air to heat, so the room needs more than its floor area suggests.
+- **Insulation in the ceiling, walls and underfloor.** The less there is, the faster the heat leaves and the bigger the unit has to be.
+- **Glass.** How much there is, whether it's double glazed and which way it faces. Single glazing and shady windows lose more heat.
+- **Openings.** A room that opens to a stairwell, hall or another space loses warm air into it.
+- **How you use it.** A bedroom heated overnight and a lounge heated from late afternoon work the unit at different times of day.
 
 Our [single room calculator](/calculator-single-room-heat-pump/) gives you a rough figure first. For how the numbers work, read about [heat pump sizing](/heat-pump-sizing/).
 
@@ -68,8 +68,6 @@ Our [single room calculator](/calculator-single-room-heat-pump/) gives you a rou
 A small heat pump takes the chill off a bedroom at night. A warm room also gets less condensation on cold windows. That's a common problem in older Christchurch homes. Don't let the airflow blow straight onto the bed. Lots of people run a low fan overnight. So we check the unit we pick still holds the room's temperature on that setting.
 
 ## Choosing a wall unit or floor console
-
-For one room, you're choosing between a high wall unit and a floor console.
 
 - **[High wall unit](/high-wall-heat-pumps/).** The usual choice. It sits high on the wall, out of the way. It pushes warm air across the room.
 - **[Floor console](/floor-mounted-heat-pumps/).** A low unit at skirting height. It puts heat near the floor, where you feel it. It fits under a window. It suits rooms with no wall space up high. It does take up a bit of floor.

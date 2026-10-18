@@ -29,7 +29,7 @@ related:
 
 In Sydenham, how the house has been done up usually decides the heat pump setup.
 
-- **Renovated villas and cottages.** This is the common one. The usual renovation knocks out the old back rooms for an open plan kitchen and family room. So you end up with a warm new space at the back and cold original rooms at the front. One unit can't heat both. More on that below.
+- **Renovated villas and cottages.** This is the common one. The usual renovation knocks out the old back rooms for an open plan kitchen and family room. So you end up with a warm new space at the back and cold original rooms at the front.
 - **Villas and cottages that haven't been opened up.** These still have separate rooms off a hallway. The heat stays in whichever room the unit's in. The usual setup is a unit in the lounge and a small one in the main bedroom.
 - **Newer townhouses.** They sit where older houses used to be. They're warmer and need less capacity. But there's less wall space and a smaller outdoor area to work with.
 
@@ -39,7 +39,7 @@ Sydenham is flat and just south of the city. Houses are mixed in among commercia
 
 A renovated villa has two climates. The new extension at the back is insulated and double glazed. It often opens to the garden through big doors. The original rooms at the front still have high ceilings, timber walls and old windows.
 
-One unit can't do both well. Put it in the extension and the front lounge stays cold. Put it in the hall and you've heated the hall. Here's a better plan for lots of Sydenham villas:
+One unit can't do both well. Put it in the extension and the front lounge stays cold. Put it in the hall and you've heated the hall. In lots of Sydenham villas, each part of the house gets its own unit:
 
 - **Open plan area:** a wall unit sized for that room and all its glass.
 - **Front rooms:** a second unit, or a floor console, in the front lounge or main bedroom. That's if you use those rooms in winter.
@@ -49,7 +49,7 @@ In a high-stud front room, look at a floor console. It sits under the window and
 
 ## Sydenham townhouses
 
-Sydenham's townhouses are newer and warmer. They have less wall space and smaller outdoor areas. One unit in the living area and one upstairs covers lots of two-storey layouts. Before we pick a spot, we check the courtyard, the neighbour's windows and the route for the pipes.
+One unit in the living area and one upstairs covers lots of two-storey layouts. Before we pick a spot, we check the courtyard, the neighbour's windows and the route for the pipes.
 
 ## Heat pump service for older units in Sydenham
 

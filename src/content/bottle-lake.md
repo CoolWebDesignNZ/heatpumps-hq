@@ -31,7 +31,6 @@ Most of Bottle Lake is Bottle Lake Forest Park. It's a big pine plantation behin
 
 - **Pines on the north or west side.** The house loses its afternoon sun in winter. Rooms on that side stay cool all day. Each of those rooms needs a unit sized for it, not a share of one big unit.
 - **A single storey house towards Parklands or North New Brighton.** One high wall unit in the living area usually does it. Add a second small unit, or [multi-room heads](/multi-room-heat-pump-installation/), for the bedrooms.
-- **A bigger home on a bigger section, with trees on several sides.** Living is often at one end and bedrooms at the other. One unit can't cover that. More on this below.
 
 Either way, the outdoor unit here breathes in pine needles, pollen, sand and salt. So where it goes matters as much as which one you pick.
 
@@ -39,7 +38,7 @@ Either way, the outdoor unit here breathes in pine needles, pollen, sand and sal
 
 An outdoor unit pulls a lot of air across its coil. Around Bottle Lake, that air brings pine needles, pollen and bark dust with it. Near the dunes it also brings sand and a bit of salt. It all builds up on the fins and in the base pan. That cuts the heat output. It can also hold water against the metal.
 
-How to keep it down:
+Where the unit sits and how often it's cleared decide how much builds up:
 
 - **Placement.** Keep the outdoor unit out from under trees. Keep it away from spots where needles drift and pile up.
 - **Height.** Put it on a wall bracket or raised pad, above the leaf litter and blown sand.
@@ -48,11 +47,7 @@ How to keep it down:
 
 ## Heat pump installation in larger Bottle Lake homes
 
-Some Bottle Lake homes are bigger than the usual suburban house. Living might be at one end and bedrooms at the other. There might be a separate studio. One heat pump can't heat all that.
-
-- **[Multi-room system](/multi-room-heat-pump-installation/).** Several indoor units run off one outdoor unit.
-- **[Ducted system](/ducted-heat-pumps-christchurch/).** Heats every room through ceiling vents, if the roof space allows.
-- **A studio or sleepout.** Often best with its own small unit.
+Some Bottle Lake homes are bigger than the usual suburban house. Living might be at one end and bedrooms at the other. There might be a separate studio. One heat pump can't heat all that. A [multi-room system](/multi-room-heat-pump-installation/) runs several indoor units off one outdoor unit. A [ducted system](/ducted-heat-pumps-christchurch/) heats every room through ceiling vents, if the roof space allows. A studio or sleepout is often best with its own small unit.
 
 Rooms far apart mean longer pipe runs. Every model has a maximum pipe length. We plan the layout to stay well inside it.
 

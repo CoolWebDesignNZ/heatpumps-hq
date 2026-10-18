@@ -33,8 +33,6 @@ None of that changes repairs or servicing. A unit with a Fujitsu badge and a new
 
 ## Fujitsu heat pumps we service and repair
 
-We look after every one of these Fujitsu types:
-
 - **Wall-mounted splits:** in lounges and bedrooms
 - **Floor and ceiling consoles:** where a high wall won't work
 - **Multi-split systems:** two or more indoor units sharing one outdoor unit
@@ -56,7 +54,7 @@ If it cools but drips, it's usually the drain. If it runs but won't cool, it's m
 
 ## Fujitsu heat pump service
 
-A service keeps your Fujitsu putting out the heat it was sized for. Here's what's in it:
+A service keeps your Fujitsu putting out the heat it was sized for.
 
 - **Indoors:** we wash the filters and clean the coil and fan
 - **Drain:** we clear it and test it

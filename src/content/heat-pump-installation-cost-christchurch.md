@@ -29,11 +29,11 @@ related:
 
 We don't publish heat pump prices or price ranges. A published figure can't allow for your house. And the house sets the cost of an install as much as the heat pump does. A free quote on site gets you one fixed price that covers your job.
 
-Below is every factor that moves the price. Then you'll know what to look for in any quote, ours included.
+Knowing what moves the price also tells you what to look for in any quote, ours included.
 
 ## How the unit affects heat pump installation cost
 
-Three things about the heat pump itself change the cost. Its size, its type and the model range it comes from.
+Three things about the heat pump itself change the cost.
 
 **Size.** A bigger unit costs more than a smaller one in the same range. Getting the size right means you don't pay for capacity you don't need. It also means you don't end up with a unit too small to keep up. So we work out the [right heat pump size](/heat-pump-sizing/) before we price the job.
 
@@ -60,13 +60,7 @@ A longer run means more copper pipe, more insulation and more labour. EECA's [in
 
 ## How outdoor unit mounting changes the cost
 
-Where the outdoor unit goes changes the cost. A pad on the ground beside the house is usually simplest. Wall brackets add hardware and time. A two-storey wall adds access work. EECA's guide lists the common ways to mount an outdoor unit:
-
-- **A concrete pad** or pre-cast slab.
-- **A concrete patio.**
-- **A timber deck**, with anti-vibration mounts.
-- **Brackets** fixed to a wall or foundation.
-- **A roof**, but only where the install has been designed for the load and wind forces.
+Where the outdoor unit goes changes the cost. A pad on the ground beside the house is usually simplest. Wall brackets add hardware and time. A two-storey wall adds access work. EECA's guide lists the common mounts: a concrete pad or pre-cast slab, a concrete patio, a timber deck with anti-vibration mounts, or brackets fixed to a wall or foundation. A roof is allowed only where the install has been designed for the load and wind forces.
 
 Wherever it goes, the unit has to sit clear of obstructions. It has to be away from the neighbour's bedrooms. And defrost water has to be able to drain. The [heat pump boundary rules](/heat-pump-boundary-rules-consent-nz/) cover the noise side.
 
@@ -93,17 +87,7 @@ Access and how the house is built add smaller costs, and they add up. A weatherb
 
 ## Comparing heat pump quotes fairly
 
-Got more than one quote? Check each one lists:
-
-| Item | Why it matters |
-| --- | --- |
-| Brand, model number and kW size | So you're comparing the same unit, or knowingly different ones |
-| Indoor and outdoor unit positions | Pipe run length and mounting change the price |
-| Pipe route and finish | Exposed pipe, a cover or a concealed run |
-| Mounting method | Pad, brackets or other |
-| Electrical work | New circuit, isolating switch, any switchboard work |
-| Removal of an old unit | Including refrigerant recovery |
-| What sizing was done | Measured on site, or guessed from the room size |
+Got more than one quote? Check each one names the brand, model number and kW size, so you know you're comparing the same unit. Each should also say where both units go, how the pipes run and are finished, how the outdoor unit is mounted, and what electrical work is in: a new circuit, the isolating switch and any switchboard work. If an old unit is coming out, refrigerant recovery should be included. And ask whether the size was measured on site or guessed from the room size.
 
 If one quote is much lower than the rest, check whether it's missing one of these lines.
 

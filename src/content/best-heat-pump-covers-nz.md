@@ -27,7 +27,7 @@ related:
 
 ## Decide what the heat pump cover is for
 
-People buy covers for different reasons. Each reason points to a different type:
+Start with why you want a cover, because each reason points to a different type.
 
 - **To hide the unit** on a deck, patio or front path. Go with a louvred cabinet or slatted screen.
 - **To keep off sun, roof run-off or falling branches.** Go with a roof shelter or top cover.
@@ -37,8 +37,6 @@ People buy covers for different reasons. Each reason points to a different type:
 A running outdoor unit doesn't need covering against normal rain or frost. It's built to live outside. People cover one for looks, or to keep sun and falling debris off it. [Heat pump covers](/covers/) explains why airflow matters, and what a cover can't fix.
 
 ## The main types of heat pump cover
-
-There are five main types. Louvred cabinets, slatted timber screens, roof shelters, storage covers, and covers for the indoor unit and pipes.
 
 ### Louvred cabinets
 
@@ -81,7 +79,7 @@ Decorative panels for the indoor unit. Also plastic or metal trunking that hides
 
 ## Cover materials compared
 
-Heat pump covers come in four main materials. Each has its strengths and weak points.
+The material decides how much upkeep a cover needs and how well it copes near the sea.
 
 | Material | Strengths | Watch for |
 | --- | --- | --- |
@@ -94,13 +92,13 @@ Near the coast, use stainless steel fixings, whatever the material.
 
 ## Airflow checks for any air conditioner cover
 
-Whatever the type, any heat pump or air conditioner cover has to pass these checks:
+Whatever the type, any heat pump or air conditioner cover has to pass five checks.
 
-1. Nothing solid right in front of the fan.
-2. The back and sides leave at least the clearance the install manual asks for.
-3. The base is open, so defrost water can drain away.
-4. The cover lifts off or opens for a technician.
-5. It's sized for your actual unit. Measure it. Don't guess from the brand.
+1. **Nothing solid right in front of the fan.** Otherwise the air bounces straight back into the coil.
+2. **Clearance at the back and sides.** Leave at least what the install manual asks for, so the unit can draw air in.
+3. **An open base.** Defrost water has to drain away.
+4. **Easy to lift off or open.** A technician needs to get at the unit.
+5. **Sized for your actual unit.** Measure it. Don't guess from the brand.
 
 A cover that blocks airflow costs you heat in winter. [Heat pump covers](/covers/) explains why.
 

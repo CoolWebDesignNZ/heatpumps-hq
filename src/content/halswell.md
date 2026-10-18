@@ -50,11 +50,7 @@ Long halls and separate rooms often suit one unit in the lounge and small units 
 
 ## Outdoor unit placement in Halswell
 
-Wherever you are in Halswell, the outdoor unit needs a few things:
-
-- **Raised feet or a bracket:** for frosty mornings
-- **Clear air:** all round it
-- **The right spot:** one that keeps noise away from bedrooms
+Wherever you are in Halswell, the outdoor unit goes up on raised feet or a bracket, so frost and defrost water don't build up under it. It needs clear air all round it to run properly. And it goes in a spot that keeps its noise away from bedrooms.
 
 Halswell is in Christchurch City. The District Plan limits [heat pump noise at the neighbour's property](/heat-pump-boundary-rules-consent-nz/).
 

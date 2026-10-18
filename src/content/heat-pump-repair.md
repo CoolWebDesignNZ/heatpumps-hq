@@ -38,8 +38,6 @@ Most repair calls we get in Christchurch are one of these:
 
 ## How a heat pump repair visit works
 
-There are four steps, from your call to a tested fix:
-
 1. **You ring and tell us the fault.** Got an error code or a flash pattern? Pass it on. It often means we bring the right part.
 2. **We find the cause on site.** We check the power supply, gas pressures, sensors and controls until we track it down.
 3. **You get a clear price before we start.** If the repair costs more than the unit is worth, we'll tell you.

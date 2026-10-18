@@ -51,7 +51,7 @@ No consent doesn't mean anything goes. The job still has to be done properly. Br
 
 ## Electrical work and the Certificate of Compliance
 
-A heat pump connects to your home's fixed wiring. So a licensed electrical worker has to wire it in. They give you a Certificate of Compliance when they're done. Here's what WorkSafe tells homeowners:
+A heat pump connects to your home's fixed wiring. So a licensed electrical worker has to wire it in. They give you a Certificate of Compliance when they're done.
 
 - **Who can do it:** anyone other than the homeowner doing prescribed electrical work must be registered with the Electrical Workers Registration Board. If they're paid, they need a current practising licence too.
 - **The certificate:** electricians must issue a **Certificate of Compliance (CoC)** for any fixed wiring work. It shows the work is safe, meets the standards and has been tested.
@@ -68,7 +68,7 @@ Every heat pump sold in New Zealand must meet Minimum Energy Performance Standar
 
 ## Rentals: the Healthy Homes heating standard
 
-A rental needs fixed heating in the main living room. It has to have enough capacity for that room. Tenancy Services sets out the detail:
+A rental needs fixed heating in the main living room, and the standard is specific about what counts.
 
 - **Fixed heating:** one or more **fixed** heaters that can directly heat the main living room. That's the largest room used for everyday living.
 - **Capacity:** at least **1.5 kW**, and enough to meet the room's calculated minimum.

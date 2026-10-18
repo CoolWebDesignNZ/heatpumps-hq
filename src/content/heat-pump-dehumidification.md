@@ -43,22 +43,13 @@ Use dry mode when the air is warm and damp.
 
 ## When dry mode doesn't help
 
-It won't help in the cold. It won't beat damp coming from the building. And it won't reach rooms the unit doesn't serve.
-
 - **Cold winter days.** Dry mode can't heat. In a cold room it makes things cooler. The coil may also struggle to pull much water from cold air.
 - **Damp from the building.** A wet subfloor, a leaking roof or a bathroom with no fan will keep putting moisture back. No heat pump setting fixes the source.
 - **Rooms away from the unit.** It only treats the air in the space the indoor unit serves.
 
 ## Heat pump or dehumidifier?
 
-Dry mode suits a warm, humid room the heat pump serves. A portable dehumidifier suits cold rooms, washing dried inside, and rooms with no heat pump.
-
-| Situation | Better choice |
-| --- | --- |
-| Warm, humid room with a heat pump | Heat pump dry mode |
-| Cold, damp bedroom in winter | Heat the room, let air through, and add a portable dehumidifier if it stays damp |
-| Washing dried inside | Portable dehumidifier near the washing |
-| A room with no heat pump | Portable dehumidifier |
+Dry mode suits a warm, humid room the heat pump serves. A portable dehumidifier suits washing dried inside (put it near the washing) and rooms with no heat pump. For a cold, damp bedroom in winter, heat the room and let air through first. Add a portable dehumidifier if it stays damp.
 
 In winter, warm rooms and letting damp air out keep condensation down. Tenancy Services has advice on [mould and dampness](https://www.tenancy.govt.nz/maintenance-and-inspections/mould-and-dampness/). It says a dry, well aired home is easier to heat and healthier. It suggests opening windows, using extractor fans and wiping condensation off windows.
 

@@ -78,8 +78,6 @@ A ducted heat pump hides the indoor unit, usually in the roof space. Warm air go
 
 ## Heat pump types side by side
 
-Here are the five types next to each other. What each heats, what it's best at, and its main drawback.
-
 | Type | Heats | Best at | Main limitation |
 | --- | --- | --- | --- |
 | High wall | One room | Bedrooms, living rooms, cooling | Warm air can sit high in tall rooms |

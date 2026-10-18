@@ -32,19 +32,16 @@ Avonhead grew out toward the airport. Its streets are full of single storey bric
 - **Standard ceilings:** these suit a high wall unit. Warm air doesn't get stuck up high like it does under a tall villa ceiling. A unit sized right heats the lounge and kitchen evenly.
 - **Single glazing:** the windows were single glazed when the houses were built. They lose heat fast on a winter night. Still got the originals? Then the lounge needs more capacity than its floor area suggests.
 - **Old ceiling insulation:** it's thin by today's standards, unless it's been topped up. Topping it up is often the cheaper fix. A smaller unit can then do the same job.
-- **The bedroom hall:** this is where one lounge unit falls short. More below.
 
 Brick veneer looks solid. But the brick isn't what keeps the heat in. The ceiling and the windows do most of that. So they're what we check first when we quote.
 
 ## Getting heat down an Avonhead hallway
 
-In houses like these, we hear the same thing a lot. The lounge is warm and the bedrooms are cold. A lounge wall unit won't push heat round a corner and down a hall. There are three ways to fix it:
+In houses like these, we hear the same thing a lot. The lounge is warm and the bedrooms are cold. A lounge wall unit won't push heat round a corner and down a hall. The bedrooms need heat of their own:
 
-- **A second wall unit:** in the main bedroom, or at the hall end.
-- **A multi-room system:** one outdoor unit running two or more indoor units. Read about [multi-room installs](/multi-room-heat-pump-installation/).
-- **A ducted system:** a vent in each room, if the roof space allows. We cover these under [ducted heat pumps](/ducted-heat-pumps-christchurch/).
-
-A second wall unit is the smallest job. It heats one more room. A multi-room system heats every room with an indoor unit. Only ducting warms the hall itself as well.
+- **A second wall unit** in the main bedroom, or at the hall end. It's the smallest job, and it heats one more room.
+- **A [multi-room system](/multi-room-heat-pump-installation/):** one outdoor unit running two or more indoor units. It heats every room with an indoor unit.
+- **A [ducted system](/ducted-heat-pumps-christchurch/):** a vent in each room, if the roof space allows. Only ducting warms the hall itself as well.
 
 ## Replacing an old Avonhead heat pump
 
@@ -62,11 +59,7 @@ Have you topped up the ceiling insulation or put in new windows since the house 
 
 ## Heat pump installation and servicing in Avonhead
 
-Here's what we do in Avonhead:
-
-- **New installs:** Mitsubishi Electric, Daikin, Fujitsu or Toshiba.
-- **[Servicing](/maintenance-servicing/):** filter, coil and drain cleans.
-- **[Repairs](/heat-pump-repair/):** all the major brands.
+In Avonhead we install Mitsubishi Electric, Daikin, Fujitsu or Toshiba. Our [servicing](/maintenance-servicing/) cleans the filters, coil and drain, and we [repair](/heat-pump-repair/) all the major brands.
 
 We also work in [Russley](/russley/), [Ilam](/ilam/), [Yaldhurst](/yaldhurst/) and [Burnside](/burnside/).
 

@@ -38,8 +38,6 @@ Whatever the symptom, try these four things before you call anyone:
 
 ## Common heat pump problems, symptom by symptom
 
-Find your symptom below. Then work through the checks under it.
-
 ### Not heating, or blowing cool air
 
 - **Mode:** is it on heat? Auto and dry can both blow cool air.
@@ -101,11 +99,11 @@ Check the timer, the mode and the set temperature. Then clean the filters. If no
 
 Turn the heat pump off at the isolating switch and book a visit if you have any of these:
 
-- **Burning:** a burning smell, smoke, sparks or loud electrical buzzing
-- **Leaks:** water coming out inside
-- **Tripping:** a breaker that keeps going
-- **Ice:** ice that won't clear
-- **Codes:** an error code that comes back after a reset
-- **No heat:** a unit that runs but won't heat or cool after the checks above
+- a burning smell, smoke, sparks or loud electrical buzzing
+- water coming out inside
+- a breaker that keeps tripping
+- ice that won't clear
+- an error code that comes back after a reset
+- a unit that runs but won't heat or cool after the checks above
 
 We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other brands sold in New Zealand. Call **[03 242 1023](tel:032421023)** or [book a repair](/contact-us/).

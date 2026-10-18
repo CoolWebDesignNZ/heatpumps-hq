@@ -31,7 +31,7 @@ related:
 
 In Papanui, it comes down to one thing. Is it an older villa or bungalow, or a newer townhouse? The two lose heat at very different rates.
 
-- **Timber villas and solid bungalows.** Papanui is an older northern suburb, and lots of streets are still lined with these. They lose heat through the ceilings, floors and single glazing. A villa's high stud means more air to heat as well. Each room needs more capacity. The main unit goes in the lounge. Add more indoor units if the hallway and bedrooms are cold. More on that below.
+- **Timber villas and solid bungalows.** Papanui is an older northern suburb, and lots of streets are still lined with these. They lose heat through the ceilings, floors and single glazing. A villa's high stud means more air to heat as well. Each room needs more capacity.
 - **Newer units and townhouses.** Lots of original sections now hold two to four of them. They're built tighter, with insulation and double glazing as standard. They need far less capacity for the same floor area. Often that's one unit for the living level and a small one for an upstairs bedroom.
 
 We work out the size from your actual rooms, insulation and windows, and how you live in the house. We don't guess from the square metres.
@@ -48,11 +48,7 @@ Infill sections leave little room down the sides of the house. The outdoor unit 
 
 ## Heat pump service and repairs in Papanui
 
-Once your heat pump's in, we look after it:
-
-- **Yearly servicing.** Filter and coil cleaning, a drain check and a performance check. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** Fault finding on all the major brands, older units included. See [heat pump repairs](/heat-pump-repair/).
-- **Replacements.** When an old unit's not worth fixing any more, we'll quote a like-for-like swap, or one sized better.
+Once your heat pump's in, a yearly service keeps it running well. That's a filter and coil clean, a drain check and a performance check (see [maintenance and servicing](/maintenance-servicing/)). Our [heat pump repairs](/heat-pump-repair/) cover fault finding on all the major brands, older units included. When an old unit's not worth fixing any more, we'll quote a like-for-like swap, or one sized better.
 
 ## Suburbs close to Papanui
 

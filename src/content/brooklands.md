@@ -31,13 +31,10 @@ Brooklands is on the northern edge of Christchurch. It's near Brooklands Lagoon 
 
 - **Older houses, some repaired.** Timber walls with not much insulation. Wind strips heat out of them faster than out of a sheltered house. They need a unit sized for a cold, windy morning, not a still one.
 - **The few newer homes.** Better sealed and insulated. One wall unit can heat the living area without being too big.
-- **The outdoor unit.** On an open site it takes wind, salt and grit straight onto the coil. Where it goes matters more here than in most of the city.
-
-We'll go through each one, starting with the outdoor unit.
 
 ## Placing a heat pump in the Brooklands wind
 
-Keep the outdoor unit out of the wind. On an open site the wind blows straight into it. It fights the fan and drives salt and grit onto the coil. We walk round the house before we pick a spot. We look for a wall that's sheltered but still has open air in front. If every wall is exposed, a slatted screen helps. We set it back from the unit. It softens the wind without boxing the unit in.
+Keep the outdoor unit out of the wind. Where it goes matters more here than in most of the city. On an open site the wind blows straight into it. It fights the fan and drives salt and grit onto the coil. We walk round the house before we pick a spot. We look for a wall that's sheltered but still has open air in front. If every wall is exposed, a slatted screen helps. We set it back from the unit. It softens the wind without boxing the unit in.
 
 ## Damp air and soft ground near the lagoon
 
@@ -47,7 +44,7 @@ Older homes near water are often damp inside. A heat pump keeps the rooms evenly
 
 ## Heat pump installation in an older Brooklands house
 
-Older Brooklands houses have timber walls and not much insulation. They lose heat fast, more so when the wind's up. So we size for the coldest mornings. We check the insulation and windows and measure the rooms. That gives us the size. Is the living room separate from the kitchen? Two smaller units can heat it better than one big one.
+In an older Brooklands house, we check the insulation and windows and measure the rooms. That gives us the size for the coldest, windiest mornings. Is the living room separate from the kitchen? Two smaller units can heat it better than one big one.
 
 ## Brooklands bedrooms and sleepouts
 

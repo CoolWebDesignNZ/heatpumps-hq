@@ -31,7 +31,7 @@ The best heat pump is the one that suits your house, rooms and section. It's not
 
 They can't tell you if a model will heat your lounge on a frosty Christchurch morning. They can't tell you if it fits your wall. Nor will they say if it's quiet enough next to your neighbour's bedroom.
 
-A heat pump that's great in one house can be the wrong buy in the next. A premium unit that's too small can do worse than a mid-range one sized right. So we won't crown a brand. Here are the checks that find the right model for your rooms instead. The facts come from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
+A heat pump that's great in one house can be the wrong buy in the next. A premium unit that's too small can do worse than a mid-range one sized right. So we won't crown a brand. Instead we use eight checks that find the right model for your rooms, with facts from EECA's [guide to the Zoned Energy Rating Label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) and its [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf).
 
 ## Check 1: Cold weather output on the best heat pumps
 
@@ -59,23 +59,19 @@ EECA suggests a rough running cost. Add the heating and cooling figures for your
 
 ## Check 5: Indoor and outdoor noise levels
 
-The label shows noise in decibels, by the house icon. The figure inside the house is the indoor unit. The one outside is the outdoor unit. Lower is quieter. EECA points out three things:
-
-- **Test conditions:** the figures are measured at full output on cool, so day to day the unit is often quieter
-- **Optional:** New Zealand labels don't have to show noise
-- **Ducted units:** these only show an outdoor figure
+The label shows noise in decibels, by the house icon. The figure inside the house is the indoor unit. The one outside is the outdoor unit. Lower is quieter. EECA notes the figures are measured at full output on cool, so day to day the unit is often quieter. New Zealand labels don't have to show noise, and ducted units only show an outdoor figure.
 
 For a sense of scale, EECA gives about 30 dBA for a quiet home. Normal talking is about 60 dBA. Does the outdoor unit have to go near a fence or a bedroom window? Then give the outdoor figure as much weight as the stars. Our [noise problems guide](/heat-pump-noise-problems-solutions/) and [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) cover the rest.
 
 ## Check 6: Fit for the room and the site
 
-The spec sheet tells you if a model fits the room and the section. The label doesn't. Check these:
+The spec sheet tells you if a model fits the room and the section. The label doesn't.
 
-- **Indoor unit size:** against the wall or floor space you've got
-- **Airflow:** a floor console heats at floor level, a high wall suits cooling and keeps floors clear
-- **Outdoor unit:** its size and the clear space it needs around it
-- **Pipe length:** the maximum, in case the outdoor unit can't go straight behind
-- **Corrosion protection:** for coastal homes in Sumner, Redcliffs, New Brighton or Lyttelton, which EECA advises for outdoor cabinets and coils near the sea
+- **Indoor unit size.** Measure it against the wall or floor space you've got.
+- **Airflow.** A floor console heats at floor level. A high wall unit suits cooling and keeps floors clear.
+- **Outdoor unit.** Check its size and the clear space it needs around it.
+- **Pipe length.** Check the maximum, in case the outdoor unit can't go straight behind.
+- **Corrosion protection.** EECA advises it for outdoor cabinets and coils near the sea, so ask for it in Sumner, Redcliffs, New Brighton or Lyttelton.
 
 ## Check 7: Controls and day-to-day use
 

@@ -37,14 +37,12 @@ Apart from the quote form, the site collects nothing about you.
 
 ## Why we collect it
 
-We use your details for these things only:
+We use your details only:
 
 - to contact you about your enquiry
 - to prepare a quote
 - to book and do the work
 - to keep a record of the job, in case you need us again for servicing or a repair
-
-We don't use them for anything else.
 
 ## How it's handled
 
@@ -66,6 +64,6 @@ Think we've mishandled your information? Please tell us first, so we can put it 
 
 ## Changes to this policy
 
-If what the website collects changes, we'll update this page.
+If what the website collects changes, we'll update this policy.
 
 Send any questions about this policy to [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz).

@@ -40,7 +40,7 @@ If your noise is on that list and isn't unusually loud, the unit's doing its job
 
 ## Heat pump noises that point to a problem
 
-Each of these noises has a short list of likely causes:
+Match what you hear to its likely causes before you take anything apart.
 
 | Noise | Likely causes |
 | --- | --- |
@@ -56,7 +56,7 @@ Buzzing with a burning smell is serious. So is any noise with smoke. Switch it o
 
 ## Fixing a noisy heat pump outdoor unit
 
-The neighbours hear the outdoor unit, so fix that first. Here's what usually works:
+The neighbours hear the outdoor unit, so fix that first.
 
 - **Tighten everything:** panels, screws, the fan guard and the electrical cover. A rattle is often just one loose screw.
 - **Anti-vibration feet or mounts:** rubber feet under a unit on the ground, or isolation mounts on a wall bracket. They stop the hum travelling into the house and the ground.
@@ -69,8 +69,6 @@ The neighbours hear the outdoor unit, so fix that first. Here's what usually wor
 A screen can hide the unit and soften some of the sound. It needs open space round it, though. Read our [heat pump covers guide](/best-heat-pump-covers-nz/).
 
 ## Fixing a noisy indoor unit
-
-If the noise is inside, start here:
 
 - **Filters:** clean them. Clogged filters make the fan work harder, and it whistles.
 - **Louvres:** turn the unit off at the isolating switch for a few minutes. That sometimes clears a louvre that ticks or sticks. If it keeps happening, the louvre motor may need replacing.

@@ -29,15 +29,15 @@ related:
 
 In St Albans, the age of the house sets the plan. An older home needs enough capacity to cover the heat it loses. A new townhouse needs heat taken upstairs.
 
-- **Timber villas and bungalows.** Heat rises into the tall rooms and leaks down through suspended timber floors. We size for the room's volume. We also look at draughts and underfloor insulation. A wall unit or floor console heats the main room. Bedrooms off the hall need their own.
+- **Timber villas and bungalows.** Heat rises into the tall rooms and leaks down through suspended timber floors. Bedrooms off the hall need their own unit.
 - **Brick homes from the middle of last century.** Ceilings are usually lower and rooms more compact. A lounge unit sized for the room usually suits. Add a small unit for each bedroom you use.
-- **Two and three storey townhouses.** More of these go up where older houses once stood. They're well insulated. One unit handles the living level. The bedrooms upstairs need small units or a multi-room system.
+- **Two and three storey townhouses.** More of these go up where older houses once stood. They're well insulated, with the bedrooms upstairs.
 
 St Albans is a big inner suburb north of the central city. You'll find all three on its streets. Two houses side by side can need completely different systems.
 
 ## Heat pumps for St Albans villas and bungalows
 
-A villa is lovely to live in and hard to heat. It has high ceilings, big sash windows and a suspended timber floor. Warm air rises to the top of the room. Cold air comes up through the floor. Here's how we deal with that:
+A villa is lovely to live in and hard to heat. It has high ceilings, big sash windows and a suspended timber floor. Warm air rises to the top of the room, and cold air comes up through the floor, so:
 
 - We size the unit for the whole volume of the room, not just the floor area.
 - We place it so the air reaches where you sit, not the ceiling.
@@ -59,9 +59,7 @@ Plenty of St Albans homes have a heat pump a previous owner put in. Is yours noi
 
 ## Our work in St Albans
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor, multi-room and ducted systems.
-- **Servicing.** See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** All major brands, Panasonic included. See [heat pump repairs](/heat-pump-repair/).
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor, multi-room and ducted systems. We also do [maintenance and servicing](/maintenance-servicing/), and [heat pump repairs](/heat-pump-repair/) on all major brands, Panasonic included.
 
 ## Suburbs next to St Albans
 

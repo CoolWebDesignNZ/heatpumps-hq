@@ -29,7 +29,7 @@ related:
 
 Avondale runs along the Avon River in the east. Away from the river, most homes are mid-century houses on piles. Many were repaired after the earthquakes. Some were replaced with new houses. What decides the heat pump is how much of the house has been upgraded.
 
-- **A house on piles that hasn't been upgraded.** It loses heat through a bare floor and single glazing. The rooms are usually separate. The lounge needs a unit sized for that heat loss. The bedrooms need their own heat. More on that below.
+- **A house on piles that hasn't been upgraded.** It loses heat through a bare floor and single glazing, so the lounge needs a unit sized for that. The rooms are usually separate. More on that below.
 - **A house partway through a renovation.** This is the easiest time to plan ducted or multi-room. The walls and ceilings are open.
 - **A new house built since the earthquakes.** It needs far less heat. One modest unit can heat the living area.
 
@@ -47,7 +47,7 @@ In an Avondale house that hasn't been done up, the lounge is often a separate ro
 
 ## Rebuilt Avondale homes
 
-A post-quake Avondale house loses far less heat. It has modern insulation and double glazing. One modest wall unit can often heat the open plan living area. The bedrooms stay warmer on their own. If there's good ceiling space, ducting can go in without opening up much.
+A post-quake Avondale house has modern insulation and double glazing, so the bedrooms stay warmer on their own. If there's good ceiling space, ducting can go in without opening up much.
 
 ## Outdoor units near the Avon River
 

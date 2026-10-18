@@ -31,8 +31,8 @@ related:
 
 Most Mairehau homes are compact. That makes them easy to heat with a heat pump. The rooms are small and the walls are close together. The outdoor unit sits just a short way from the indoor one. So the pipe run is short and the job's simple. The age of the house decides the setup.
 
-- **Modest mid-century weatherboard and brick houses.** These make up most of the suburb, former state houses included. One well-placed wall unit in the lounge heats the main living space. Bedrooms with the doors shut need their own heat. A cold floor usually means no underfloor insulation. So we'd fit a different size.
-- **Newer houses toward the northern edge.** These are closer to the open land of Marshland. They're better insulated and often open plan. One unit can heat a bigger living area. Or a ducted system can heat every bedroom.
+- **Modest mid-century weatherboard and brick houses.** These make up most of the suburb, former state houses included. One well-placed wall unit in the lounge heats the main living space. Bedrooms with the doors shut need their own heat.
+- **Newer houses toward the northern edge.** These are closer to the open land of Marshland, and they hold heat better.
 
 Mairehau is flat, in the north-east of Christchurch, between St Albans, Shirley and Marshland. Sections are a fair size. So there's usually more than one wall that can take the outdoor unit. We pick the one closest to the indoor unit that keeps noise away from the neighbours.
 
@@ -52,10 +52,7 @@ The newer houses on Mairehau's northern side are better insulated. They're often
 
 ## Heat pump service and repair in Mairehau
 
-After the install, we look after heat pumps right across Mairehau:
-
-- **Servicing.** We clean the filters, coils and drain. Then we check how the unit's performing. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** We fix faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands. See [heat pump repairs](/heat-pump-repair/).
+After the install, we look after heat pumps right across Mairehau. A [service](/maintenance-servicing/) cleans the filters, coils and drain, then checks how the unit's performing. Our [heat pump repairs](/heat-pump-repair/) fix faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Other areas we cover near Mairehau
 

@@ -63,7 +63,7 @@ EECA says that gives a steadier room temperature and better efficiency. It also 
 
 A heat pump's output and efficiency aren't fixed. They drop as the gap between the outside air and the room gets bigger. The rated heating output on the label is measured at 7°C outside. On a frosty Christchurch morning, the unit is working with much colder air than that.
 
-Two things happen in the cold.
+The cold works against a heat pump in two ways.
 
 - **Less heat out.** The colder the air, the less heat the outdoor coil can collect. Some models keep working well below freezing. Others struggle. That's why the label also shows heating output at 2°C. It's what sets [cold climate heat pumps](/cold-climate-heat-pumps/) apart.
 - **Defrosting.** Below about 7°C, moisture in the air can freeze on the outdoor coil. The unit reverses for a few minutes to melt the ice. No heat comes out while it does. You may see steam rising off the outdoor unit. EECA notes a heat pump that's too small has to defrost more often.
@@ -72,15 +72,7 @@ That's the main reason sizing matters so much in Canterbury. EECA's guide lists 
 
 ## What the indoor and outdoor units actually do
 
-The outdoor unit collects heat. Its compressor raises the refrigerant's pressure and temperature. The indoor unit lets that heat out into the room.
-
-| Part | Where | Job in heating mode |
-| --- | --- | --- |
-| Outdoor coil and fan | Outside | Collects heat from the outside air |
-| Compressor | Outdoor unit | Raises the refrigerant's pressure and temperature |
-| Indoor coil and fan | In the room | Lets heat out into the room air |
-| Filters | Behind the indoor unit's front panel | Catch dust before it reaches the coil |
-| Condensate drain | From the indoor unit, and outside | Carries away water from cooling and defrost |
+The outdoor unit collects heat. Its compressor raises the refrigerant's pressure and temperature. The indoor unit lets that heat out into the room. Behind its front panel, filters catch dust before it reaches the coil. A condensate drain carries away the water from cooling and defrost.
 
 The indoor unit can be a high wall unit, a floor console, a ceiling cassette or a ducted system feeding vents in several rooms. All these [types of heat pumps](/types-of-heat-pumps/) work the same way.
 

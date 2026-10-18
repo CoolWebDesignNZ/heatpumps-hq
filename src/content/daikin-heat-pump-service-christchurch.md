@@ -44,7 +44,7 @@ Before you call, note down three things. The model number from the sticker on th
 
 ## Daikin air conditioning repairs in summer
 
-Summer repairs are for cooling faults, and those have their own causes. Daikin New Zealand sells its split systems as air conditioning. In a Canterbury summer, that's exactly how they get used. There are three usual cooling faults:
+Summer repairs are for cooling faults, and those have their own causes. Daikin New Zealand sells its split systems as air conditioning. In a Canterbury summer, that's exactly how they get used, and a cooling fault usually comes down to one of three things.
 
 - **A hot, blocked outdoor unit.** It sits in full sun with clogged fins.
 - **A blocked drain.** It blocked up over winter, and starts dripping as soon as cooling starts.

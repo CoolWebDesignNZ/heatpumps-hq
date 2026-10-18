@@ -27,20 +27,11 @@ related:
 
 ## Panasonic heat pumps we service and repair
 
-We'll look after your Panasonic no matter who fitted it. A lot of them were put in by another company, or by the last owner. We work on:
-
-- **Wall-mounted splits:** the usual single-room unit
-- **Floor consoles**
-- **Multi-split systems:** one outdoor unit serving several rooms
-- **Ducted systems**
-
-It doesn't matter when yours went in. We look at each one with fresh eyes.
+We'll look after your Panasonic no matter who fitted it or when. A lot of them were put in by another company, or by the last owner. We work on wall-mounted splits, the usual single-room unit, as well as floor consoles, ducted systems and multi-split systems, where one outdoor unit serves several rooms.
 
 ## Panasonic heat pump repair
 
 People call us about a Panasonic for the same reasons as any brand. It's stopped and a light is flashing. It's blowing cool air on heat. Water is running down the wall. Or a new noise has started. Each of these has more than one possible cause. So we test before we quote.
-
-Here's how it goes:
 
 1. **We read the fault.** If the unit has saved a code, we read it with the service information for that model.
 2. **We test the system.** In [fault finding](/heat-pump-troubleshooting/) we check the power and wiring, sensors, fans and control board. We check the drain and the gas circuit too.

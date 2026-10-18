@@ -31,17 +31,13 @@ In most Oaklands homes, the lounge is already warm. The bedrooms aren't. Oakland
 
 Lots of them have one heat pump in the front lounge, and that's the only heater. The kitchen and dining are at the back. The bedrooms run along a hall. The lounge heat never gets to the far end. Cold bedrooms gather condensation, and mould grows on the window frames.
 
-The fix is heat in the bedrooms themselves. Three things decide what kind:
-
-- **Insulation:** how much is in the ceiling
-- **Bedrooms:** how many you want warm
-- **The lounge unit:** if it's worth keeping
+The fix is heat in the bedrooms themselves. What kind depends on how much insulation is in the ceiling, how many bedrooms you want warm and whether the lounge unit is worth keeping.
 
 Many homes here sit on cul-de-sac sections with established gardens. We keep the outdoor units clear of the planting, so air moves freely round them.
 
 ## Heating the bedroom wing of an Oaklands house
 
-There are a few ways to get heat into the bedrooms:
+If only the main bedroom is cold, one small unit does it. For more bedrooms, look at a multi-room system or ducting.
 
 - **A small wall unit in the main bedroom:** on its own outdoor unit. It's simple, and the lounge unit stays as it is.
 - **A [multi-room system](/multi-room-heat-pump-installation/):** one outdoor unit, with an indoor unit in each room you want heated. It tidies up the outside of the house.
@@ -67,11 +63,7 @@ Oaklands comes under the Christchurch District Plan. It judges noise at the neig
 
 ## Heat pump installation in Oaklands
 
-Here's what we do across Oaklands:
-
-- **Installs:** Mitsubishi Electric, Daikin, Fujitsu or Toshiba.
-- **[Servicing](/maintenance-servicing/):** once a year.
-- **[Repairs](/heat-pump-repair/):** the major brands, and most others sold in New Zealand.
+Across Oaklands we install Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We [service](/maintenance-servicing/) heat pumps once a year, and we [repair](/heat-pump-repair/) the major brands and most others sold in New Zealand.
 
 We also cover [Halswell](/halswell/), [Hoon Hay](/hoon-hay/), [Westmorland](/westmorland/) and [Aidanfield](/aidanfield/).
 

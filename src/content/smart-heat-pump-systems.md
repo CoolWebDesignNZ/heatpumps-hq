@@ -27,13 +27,7 @@ related:
 
 ## What makes a heat pump smart
 
-The heat pump does the heating. The smart part is a small Wi-Fi adaptor. It's either built into the indoor unit or fitted inside it. It links the unit to your home network and to the maker's app. With the app you can usually:
-
-- turn it on or off from anywhere you have internet
-- change the mode, temperature and fan speed
-- set weekly schedules, so the house is warm when you get up or get home
-- set rules, like turning on if the room drops below a set temperature
-- see the room temperature the unit is reading
+The heat pump does the heating. The smart part is a small Wi-Fi adaptor. It's either built into the indoor unit or fitted inside it. It links the unit to your home network and to the maker's app. With the app you can usually turn it on or off from anywhere you have internet, and change the mode, temperature and fan speed. You can set weekly schedules, so the house is warm when you get up or get home. You can set rules, like turning on if the room drops below a set temperature. And you can see the room temperature the unit is reading.
 
 Some brands also show energy figures. Some add voice control, or remind you to clean the filters.
 
@@ -50,8 +44,6 @@ Each brand has its own controller and app. They don't work across brands. Here's
 **Toshiba.** Looking at a Toshiba? Ask us when we quote. We'll tell you if that model has Wi-Fi control and which app it uses.
 
 ## What your house needs for a Wi-Fi heat pump
-
-Your house needs three things. A signal where the indoor unit sits. A 2.4 GHz network. And a model that takes an adaptor.
 
 - **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room fixes it.
 - **A 2.4 GHz network.** Lots of heat pump adaptors only connect on 2.4 GHz. Most home routers have it. Some put both bands under one name, though, and that can confuse the adaptor during set-up.

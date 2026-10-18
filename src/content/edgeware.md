@@ -29,14 +29,14 @@ related:
 
 In Edgeware, the first question is simple. Is it an original cottage or villa, or one of the newer townhouses? They lose heat in different places. They suit different systems.
 
-- **Timber cottages and villas.** They sit on narrow sections. Lots have been done up, and some are still close to original. They've got high studs, sash windows and gaps round the doors and floors. Heat rises to the ceiling and slips out through the draughts. The rooms close off from each other, so a lounge unit seldom warms more than the lounge. They suit a wall unit or floor console that pushes air down to where you sit. Add a small unit in the main bedroom.
-- **Townhouses in blocks of two or three.** These went up where older houses came down. They're better insulated and usually on two levels. Heating the living area downstairs is the easy bit. The bedrooms upstairs take more thought.
+- **Timber cottages and villas.** They sit on narrow sections. Lots have been done up, and some are still close to original. They've got high studs, sash windows and gaps round the doors and floors. The rooms close off from each other, so a lounge unit seldom warms more than the lounge.
+- **Townhouses in blocks of two or three.** These went up where older houses came down. They're better insulated and usually on two levels.
 
 Edgeware is flat, close to town and tightly built. So on most jobs, outdoor space is the limit, not the land. When we measure your rooms, we also check where the outdoor unit can go. And how close the next bedroom window is.
 
 ## Heating Edgeware villas and cottages
 
-To heat an Edgeware villa or cottage well, you have to deal with the high stud and the draughts. Warm air heads for that high ceiling and leaks out the gaps. These things make the difference:
+To heat an Edgeware villa or cottage well, you have to deal with the high stud and the draughts. Warm air heads for that high ceiling and leaks out the gaps.
 
 - **Aim the air down.** Place the indoor unit to push air down and across the room. Not at a ceiling rose or into a hallway.
 - **Think about a floor console.** Under a window in a high-stud lounge, it puts warm air where you sit. It suits walls that are mostly windows and doors.
@@ -47,17 +47,13 @@ In an old cottage, the pipes can usually run under the floor. That keeps them of
 
 ## Edgeware townhouses and units
 
-Edgeware's newer townhouses are a different job. They're better insulated and often on two levels. Living is downstairs, bedrooms are up. One wall unit in the open plan living area handles the ground floor. Upstairs bedrooms may need a small unit or two. Or a [multi-room system](/multi-room-heat-pump-installation/), which runs several indoor units off one outdoor unit. That saves wall space outside.
+Edgeware's newer townhouses are a different job. Living is downstairs, bedrooms are up. One wall unit in the open plan living area handles the ground floor. Upstairs bedrooms may need a small unit or two. Or a [multi-room system](/multi-room-heat-pump-installation/), which runs several indoor units off one outdoor unit. That saves wall space outside.
 
 Outside, space is tight. Side paths are narrow. The next unit's bedroom may be a metre or two away. So we place the outdoor unit with noise in mind.
 
 ## Heat pump installs, service and repair in Edgeware
 
-Here's what we do in Edgeware cottages, villas and townhouses:
-
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized from your rooms, insulation and windows.
-- **Servicing.** Units of any age, including cleaning and drain checks. See [heat pump servicing](/maintenance-servicing/).
-- **[Repairs](/heat-pump-repair/).** Fault finding on all the major brands.
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Edgeware cottages, villas and townhouses, sized from your rooms, insulation and windows. We do [heat pump servicing](/maintenance-servicing/) on units of any age, including cleaning and drain checks. Our [repairs](/heat-pump-repair/) cover fault finding on all the major brands.
 
 Close by, we cover [St Albans](/st-albans/) and [the Central City](/central-business-district-cbd/). [Mairehau](/mairehau/) is a little further north.
 

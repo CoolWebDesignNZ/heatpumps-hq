@@ -44,7 +44,7 @@ Once we know what's failed, you get a fixed price. Sometimes the unit is too old
 
 ## Mitsubishi heat pump service
 
-Our Mitsubishi service cleans the unit inside and out and checks what it's putting out. Christchurch heat pumps work hard all winter. A dirty one gives you less heat for the same power. Here's what we do:
+Our Mitsubishi service cleans the unit inside and out and checks what it's putting out. Christchurch heat pumps work hard all winter. A dirty one gives you less heat for the same power.
 
 1. Take the filters out and wash them. Clean the indoor coil and fan.
 2. Clear the drain tray and hose, then test them with water.

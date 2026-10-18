@@ -38,11 +38,10 @@ Tai Tapu is a small village in Selwyn District. Lifestyle blocks, horse properti
 
 ## Replacing a Tai Tapu log burner with a heat pump
 
-Swapping a log burner for heat pumps? Most Tai Tapu owners want every room warm, with no wood to stack. Older country houses were often built round a fire in the lounge. The rest of the house was left cold. In a big house with doors between rooms, one large lounge unit won't cut it. Here's what usually works:
+Swapping a log burner for heat pumps? Most Tai Tapu owners want every room warm, with no wood to stack. Older country houses were often built round a fire in the lounge. The rest of the house was left cold. In a big house with doors between rooms, one large lounge unit won't cut it. Each room you use needs heat of its own:
 
 - **A ducted system:** if the roof space allows. Vents in each room, and one controller.
 - **Several wall or floor console units:** sized room by room, on one or more outdoor units.
-- **A unit for the outbuilding:** so a sleepout or office has its own heat.
 
 We size each system on what we find in your house. That means room sizes, insulation and glazing, and which rooms you use most.
 

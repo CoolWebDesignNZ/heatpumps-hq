@@ -31,8 +31,6 @@ Bryndwr sits between Fendalton and Papanui. It's quiet streets of mid-century bu
 
 - **The sunny front rooms.** They soak up heat in the day. So their unit does most of its work in the evening and on dull days. A high wall unit sized for the lounge and kitchen is usually right.
 - **Bedrooms across the hall.** They get the least sun and the least heat from the lounge. They're the coldest rooms at night. Each needs its own small unit, or a head on a multi-room system.
-- **Rooms under big trees.** They need more heat than the same room with open sky.
-- **Ceilings and floors.** Bungalows this age often have gaps in the insulation. We check before we size anything.
 
 ## Heat pump installation for a Bryndwr hallway plan
 
@@ -54,10 +52,7 @@ Big gardens are a big part of Bryndwr. They matter for the outdoor unit. It need
 
 ## Keeping a Bryndwr heat pump running
 
-Two things keep a Bryndwr heat pump going well. A yearly service, and a repair when something fails.
-
-- **Servicing.** Once a year, with a check that the outdoor coil is clear of leaves. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands. See [heat pump repairs](/heat-pump-repair/).
+A yearly [service](/maintenance-servicing/) keeps a Bryndwr heat pump going well, with a check that the outdoor coil is clear of leaves. When something fails, we [repair](/heat-pump-repair/) Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Bryndwr's neighbours
 

@@ -45,7 +45,7 @@ We [size every install](/heat-pump-sizing/) from your rooms, insulation and wind
 
 ## 3. How it is installed
 
-A good unit can lose efficiency through a poor install. Here's what we watch:
+A good unit can lose efficiency through a poor install.
 
 - **Indoor unit:** high on a wall, where it can throw air across the room. Not behind a beam or in a corner, where warm air loops straight back to its own sensor.
 - **Outdoor unit:** in open air and up off the ground. It needs room at the back and sides, and nothing in front of the fan. Box it in and it breathes its own cold air.

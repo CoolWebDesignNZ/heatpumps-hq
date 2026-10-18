@@ -27,7 +27,7 @@ related:
 
 ## Is it time for a heat pump replacement?
 
-An old heat pump doesn't need replacing just because it's old. Here are the signs it might:
+An old heat pump doesn't need replacing just because it's old. How it's working matters more than its age.
 
 - **It can't heat the room on frosty mornings.** Even after a service and with clean filters.
 - **The same fault keeps coming back.** Or a big part like the compressor has failed.
@@ -48,8 +48,6 @@ Not every problem needs a new heat pump. Before we quote a replacement, we check
 
 ## How we replace an old heat pump
 
-There are six steps. We start by looking at the house. We finish by showing you the new controls.
-
 1. **We look at the old system and the house.** The rooms, the insulation, the windows and how you use the space. The old unit's size is a starting point, not the answer. The house may have changed since it went in. So may the way you use it.
 2. **You get options with a fixed price.** Usually one in the same spot. If it helps, one in a better spot too. For each model we show you the Cold zone heating stars and the heating output at 2°C from the energy label. That way you can compare how well they run.
 3. **We take out the old unit.** We recover the refrigerant before it leaves your property.
@@ -59,7 +57,7 @@ There are six steps. We start by looking at the house. We finish by showing you 
 
 ## Comparing old and new heat pump efficiency
 
-The energy label changed in 2021. EECA says the stars on the old Energy Rating Label measured something different. You can't compare them with the stars on today's Zoned Energy Rating Label ([EECA guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). So we don't promise a percentage saving. Here's what we can tell you. How the new unit's rated output matches what your room needs. And how it rates against other models the same size. To learn each part of the label, see [reading the energy rating label](/energy-star-heat-pumps/).
+The energy label changed in 2021. EECA says the stars on the old Energy Rating Label measured something different. You can't compare them with the stars on today's Zoned Energy Rating Label ([EECA guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). So we don't promise a percentage saving. What we can tell you is how the new unit's rated output matches what your room needs, and how it rates against other models the same size. To learn each part of the label, see [reading the energy rating label](/energy-star-heat-pumps/).
 
 ## Brands we install and replace
 

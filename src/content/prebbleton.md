@@ -52,13 +52,13 @@ Talk to your builder and to us early. The install ends up simpler and tidier.
 
 ## Wall, multi-room or ducted heat pumps for Prebbleton homes
 
-If the home's already built, you've usually got three options:
+If the home's already built, the choice comes down to how many rooms you want warm:
 
 - **A single wall unit:** it can heat a well insulated open plan living area.
 - **A [multi-room system](/multi-room-heat-pump-installation/):** adds smaller units in bedrooms, all on one outdoor unit.
 - **A ducted system:** heats every room through ceiling vents. The indoor unit hides in the roof space.
 
-Choosing [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) comes down to your roof space, and which rooms you want warm. Whatever you pick, we size it from your rooms, windows and insulation.
+Choosing [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) comes down to your roof space, and which rooms you want warm.
 
 ## Larger Prebbleton sections and rural blocks
 

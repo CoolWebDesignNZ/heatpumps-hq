@@ -41,7 +41,7 @@ Phillipstown sits east of the Central City, between town and Linwood. The street
 
 Yes, a heat pump can meet the heating rule for a Phillipstown rental. The healthy homes heating standard asks for one or more fixed heaters that can directly heat the main living room. Heat pumps qualify. The heater needs enough capacity for that room. [Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) has a heating assessment tool to work out the figure.
 
-Here's what that means when we quote:
+So when we quote a rental:
 
 - **We size for the main living room.** We use its floor area, ceiling height, windows and insulation. Then we check our figure against the assessment tool.
 - **We put the indoor unit where it heats that room directly.** Not in a hallway or the room next door.
@@ -51,17 +51,13 @@ Owner-occupiers can do the same. The assessment tool is a good starting point fo
 
 ## Phillipstown units and flats
 
-Older single-storey units here often have one main living space with a kitchen off it. Then one or two bedrooms. In lots of them, a single wall unit works well. It's placed to throw heat into the living room and along toward the bedroom door. The shared walls help hold the heat.
+Older single-storey units here often have one main living space with a kitchen off it. Then one or two bedrooms. In lots of them, a single wall unit works well. It's placed to throw heat into the living room and along toward the bedroom door.
 
 Outdoor units on a block take some thought. With several flats side by side, units on one shared wall can add up to more noise at the boundary. We space them out and mount them on anti-vibration feet. Then we check the neighbour's side against the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/).
 
 ## Heat pump installs, service and repair in Phillipstown
 
-Here's what we do in Phillipstown:
-
-- **New installs.** Mostly [single-room systems](/single-room-heat-pump-installation/) for living areas, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Servicing.** Existing units in owner-occupied homes and rentals. See [servicing](/maintenance-servicing/).
-- **Repairs.** All the major brands, Panasonic included. See [repairs](/heat-pump-repair/).
+Most of our Phillipstown installs are [single-room systems](/single-room-heat-pump-installation/) for living areas, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We do [servicing](/maintenance-servicing/) on existing units in owner-occupied homes and rentals, and [repairs](/heat-pump-repair/) on all the major brands, Panasonic included.
 
 Nearby, we work in [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
 

@@ -31,7 +31,7 @@ Good installers get two things right: the size and the spot. Get either wrong an
 
 EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) makes the same point. It says many poor performers come down to units put in the wrong place.
 
-So when you compare installers in Christchurch, or anywhere near you, look past the price. Compare how they work. These are the checks that count.
+So when you compare installers in Christchurch, or anywhere near you, look past the price and compare how they work.
 
 ## 1. A licensed electrical worker does the electrical work
 
@@ -59,32 +59,19 @@ Be wary of a size picked from floor area alone. Be wary of a quote given without
 
 ## 5. The outdoor unit position has been thought through
 
-A good installer talks about where the outdoor unit goes before they quote. EECA's guide asks for a few things. Clear airflow round it. Room to service it. Somewhere for condensate to drain. Distance from LPG bottles. And a spot that won't bother you or the neighbours.
+A good installer talks about where the outdoor unit goes before they quote. EECA's guide asks for clear airflow round it, room to service it, somewhere for condensate to drain and distance from LPG bottles. The spot also has to be one that won't bother you or the neighbours.
 
 In Christchurch, the District Plan controls heat pump noise at the neighbour's place. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains it.
 
 ## 6. The quote is written and specific
 
-A good quote lists all of this:
-
-- **Units:** the brand, model number and capacity of each one
-- **Positions:** where the indoor and outdoor units go
-- **Pipes:** the route, and how they're finished
-- **Mounting:** how the outdoor unit is fixed in place
-- **Electrical:** the work involved, including any new circuit or switchboard work
-- **Old unit:** taking it out and getting rid of it
-- **Price:** whether it's fixed
+A good quote names the brand, model number and capacity of each unit, and where the indoor and outdoor units go. It sets out the pipe route and finish, how the outdoor unit is fixed in place, and the electrical work, including any new circuit or switchboard work. It covers taking out and getting rid of an old unit. And it says whether the price is fixed.
 
 If something's missing from the quote, ask before you say yes. Our [installation cost guide](/heat-pump-installation-cost-christchurch/) explains how each item moves the price.
 
 ## 7. The installer commissions and explains the heat pump
 
-EECA's guide expects four things before the installer leaves. The system is leak tested. It's evacuated. It's charged with the right amount of gas for the pipe length. And it's test run. The installer should also:
-
-- **Controls:** show you how to use them and the remote
-- **Filters:** show you how to take them out and clean them
-- **Cold weather:** explain what to expect when it's very cold
-- **Servicing:** tell you what it needs and when
+EECA's guide expects four things before the installer leaves. The system is leak tested. It's evacuated. It's charged with the right amount of gas for the pipe length. And it's test run. The installer should also show you how to use the controls and the remote, and how to take out and clean the filters. They should explain what to expect when it's very cold, and tell you what servicing it needs and when.
 
 At the end you should get the electrical Certificate of Compliance. You should also get a record of the commissioning data, the operating manual and the warranty. Plus a contact for after-sales support.
 

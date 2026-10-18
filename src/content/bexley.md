@@ -27,21 +27,20 @@ related:
 
 ## Heat pumps for Bexley's rebuilt and repaired homes
 
-Bexley is low land by the Avon River and the estuary. The earthquakes hit it hard. Much of it became red zone, so there are fewer homes now. The ones left mostly fit one of three types.
+Bexley is low land by the Avon River and the estuary. The earthquakes hit it hard. Much of it became red zone, so there are fewer homes now. The ones left mostly fit one of two types.
 
 - **Newer homes on improved foundations, and the few full rebuilds.** These have current insulation, double glazing and a tight shell. One modest wall unit can heat an open plan living area. A bigger one would just keep switching on and off.
 - **Older homes that were repaired.** Many still have their old windows and patchy insulation. They need more heat for the same size room. If the walls were opened up during the repair, find out whether insulation went in. It makes a difference to the unit size.
-- **Any home on low ground by the estuary.** The outdoor unit has to stay off wet soil. More on that below.
 
 ## Heat pump installation in rebuilt Bexley homes
 
-A rebuilt Bexley home usually keeps its heat well. Often one modest wall unit will heat the whole open plan area. Plenty of rebuilds also suit a [ducted system](/ducted-heat-pumps-christchurch/). That's especially true if the ceiling space was planned with services in mind.
+Plenty of rebuilt Bexley homes also suit a [ducted system](/ducted-heat-pumps-christchurch/). That's especially true if the ceiling space was planned with services in mind.
 
 We size each job from your rooms, windows and insulation, and how you use the house. That way you don't pay for heat the house doesn't need.
 
 ## Heat pumps for repaired older Bexley homes
 
-Repaired older homes can still have the original windows and gaps in the insulation. They need a bigger unit for the same size room. We put the indoor unit on the short wall, blowing down the length of the room. That gets the heat to the far end.
+In a repaired older home, we put the indoor unit on the short wall, blowing down the length of the room. That gets the heat to the far end.
 
 ## Low ground and the outdoor unit in Bexley
 

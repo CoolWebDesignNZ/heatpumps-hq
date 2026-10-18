@@ -32,7 +32,7 @@ In Casebrook, the first question is often what to do with the old heat pump. Ple
 Casebrook is on Christchurch's north-west side. The houses are mostly single storey family homes from the later part of last century. Many are brick and tile on standard suburban sections. That gives three common situations:
 
 - **The old unit runs but has a fault or feels weak.** That's not always the end of it. A repair may be the better spend.
-- **The old unit's being replaced.** Size the new one for the house as it is now. Topped-up ceiling insulation or new windows change what a room needs.
+- **The old unit's being replaced.** The new one may need to be a different size from the old one.
 - **There's no heat pump yet, or only one.** The usual start is a wall unit in the long living area. Then bedroom units or a ducted system for the rooms down the hall.
 
 At the quote, we check the old unit and its pipes. We measure the rooms and look at the insulation. Then we price the repair and the replacement side by side.
@@ -53,11 +53,7 @@ On these homes, the outdoor unit usually sits on raised feet against the brick w
 
 ## Heat pump installs, service and repairs in Casebrook
 
-Here's what we do for Casebrook homes:
-
-- **New and replacement installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor console, multi-room and ducted systems.
-- **Servicing.** A yearly clean and check keeps a unit running efficiently. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs on all major brands.** Panasonic too, and other brands we don't fit.
+For new and replacement installs, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor console, multi-room and ducted systems. A yearly clean and check keeps a unit running efficiently (see [maintenance and servicing](/maintenance-servicing/)). We repair all the major brands, Panasonic too, and other brands we don't fit.
 
 ## Suburbs near Casebrook
 

@@ -33,12 +33,10 @@ We're heat pump specialists. So we look at how each room is heated. We work out 
 
 ## What the energy efficiency assessment looks at
 
-We look at three things. The rooms. How you use the house. And the heating you've already got.
-
 ### The rooms
 
-- **Size and layout.** Floor area and ceiling height. Open stairwells. Rooms that open into each other.
-- **Windows.** How much glass, which way it faces, single or double glazed, and the curtains.
+- **Size and layout.** Floor area and ceiling height set how much air there is to heat. Open stairwells and rooms that open into each other let the warmth spread away from where you want it.
+- **Windows.** How much glass, which way it faces, single or double glazed, and the curtains. Glass loses heat faster than an insulated wall.
 - **Insulation we can see.** Ceiling insulation in the roof space. Underfloor insulation where we can get to it. We don't test wall insulation or open up walls.
 - **Draughts.** Gaps round doors. Open fireplaces, unused chimneys and vents that let warm air out.
 
@@ -48,36 +46,25 @@ Which rooms you need warm, and when. Who's home during the day. Say someone's ho
 
 ### Your existing heating
 
-- **Heat pumps.** Age and brand. Output against the room. Filter and coil condition. Where the outdoor unit sits. The settings you use.
-- **Other heaters.** Wood burners, gas heaters, panel and fan heaters. And how they work alongside the heat pumps.
-- **Controls.** Timers and Wi-Fi controllers. Whether they're set to match your routine.
+- **Heat pumps.** Age and brand, output against the room, filter and coil condition, where the outdoor unit sits and the settings you use. Any one of these can be why a room stays cold.
+- **Other heaters.** Wood burners, gas heaters, panel and fan heaters, and how they work alongside the heat pumps. Two heaters working against each other waste power.
+- **Controls.** Timers and Wi-Fi controllers, and whether they're set to match your routine. A heat pump set for the wrong hours heats an empty house.
 
 ## What you get from the assessment
 
-We go through what we found with you on the day. We explain what we'd change. Biggest difference first, for comfort and power use. It might be:
-
-- a service or repair on a heat pump you have
-- new settings or timers
-- moving a boxed-in outdoor unit
-- a second heat pump for a room that's never warm
-- a new unit, where the old one is too small or too old
-- insulation or draught stopping to do first, by someone else
+We go through what we found with you on the day. We explain what we'd change. Biggest difference first, for comfort and power use. It might be a service or repair on a heat pump you have, or just new settings or timers. It might be moving a boxed-in outdoor unit, or a second heat pump for a room that's never warm. Where the old one is too small or too old, it might be a new unit. Sometimes the first job is insulation or draught stopping, done by someone else.
 
 Any heat pump work gets a fixed price before we start. We don't do insulation or building work. If you need it, we'll tell you, so you can get the right person in.
 
 ## Why it isn't a full home energy audit
 
-We only look at heating. And we don't certify anything.
-
-- No energy rating, certificate or certified assessment for the house.
-- No thermal imaging, blower door tests or wall insulation testing.
-- No checks on hot water, lighting or appliances.
+We only look at heating, and we don't certify anything. You won't get an energy rating, certificate or certified assessment for the house. We don't do thermal imaging, blower door tests or wall insulation testing, and we don't check hot water, lighting or appliances.
 
 ## Rentals and the Healthy Homes heating standard
 
 Landlords must provide one or more fixed heaters that can directly heat the main living room. They must be at least 1.5 kW and meet the room's minimum required heating capacity. Open fires and unflued combustion heaters don't count. A heat pump or electric heater must have a thermostat. If the required capacity is over 2.4 kW, you can't use electric heaters other than heat pumps. The exception is topping up qualifying heating fitted before 1 July 2019 ([Tenancy Services, heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/)).
 
-You can work out the required capacity three ways. The government's [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool). The formula in the regulations. Or a professional assessment. Once you have that number, we can supply and fit a heat pump that meets it.
+You can work out the required capacity with the government's [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool), the formula in the regulations, or a professional assessment. Once you have that number, we can supply and fit a heat pump that meets it.
 
 ## Why an assessment is worth doing before buying
 

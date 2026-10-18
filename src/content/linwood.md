@@ -35,9 +35,9 @@ Linwood is a big, flat suburb in the east of the city. What changes from house t
 
 - **Older timber villas.** Toward the city end, these have higher ceilings and more draughts. The lounge unit needs more capacity than the floor area alone suggests.
 - **Former state houses and bungalows.** The solid weatherboard and brick state houses, and the mid-century bungalows, have compact rooms. Once the ceiling and underfloor are insulated, a modest unit per room is enough.
-- **Blocks of units.** Small inside and easy to heat with one wall unit. The work is fitting the outdoor unit along a shared wall.
+- **Blocks of units.** Small inside and easy to heat with one wall unit.
 
-Since the earthquakes, a fair bit of Linwood has been repaired or rebuilt. That mostly changes the pipe route, not the system. The questions below explain.
+Since the earthquakes, a fair bit of Linwood has been repaired or rebuilt. That mostly changes the pipe route, not the system.
 
 ## Swapping out an older heater in Linwood
 
@@ -53,7 +53,7 @@ Taking a burner out leaves a flue and hearth to deal with. That's separate build
 
 Brick former state houses take a heat pump well. We drill through the brick veneer and run the pipes in a cover down the outside wall. The outdoor unit sits on a concrete pad or raised feet. Weatherboard homes are just as easy. There, the pipes often run under the floor instead.
 
-Blocks of units are smaller and simpler inside. But the outdoor space is shared. Each unit's outdoor gear has to fit along a common wall without crowding the neighbours or a shared path.
+Blocks of units share their outdoor space. Each unit's outdoor gear has to fit along a common wall without crowding the neighbours or a shared path.
 
 ## Heat pump service and repair in Linwood
 

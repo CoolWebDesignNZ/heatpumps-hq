@@ -41,13 +41,11 @@ Most Redwood households start with one wall unit in the lounge. It should blow a
 
 ## Zone two: heat pumps for Redwood bedrooms
 
-Bedrooms are where these houses get cold. The shaded side is worst. You've got three ways to heat them:
+You've got three ways to heat the bedrooms:
 
 - **A small wall unit in each bedroom.** Each has its own outdoor unit. It's simple, and each room runs on its own.
 - **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units share one outdoor unit. That means fewer boxes outside.
 - **[Ducted heating](/ducted-heat-pumps-christchurch/).** There's a vent in each room, and the indoor unit is hidden in the roof. It needs enough ceiling space. We'll check that when we visit.
-
-We size each option from your rooms, insulation and windows. So the quote fits your house.
 
 ## Using the heat pump controls well
 
@@ -59,10 +57,7 @@ Northern Christchurch gets lots of clear, frosty winter mornings. Put the outdoo
 
 ## Heat pump service and repairs in Redwood
 
-Once your Redwood heat pump is in, we keep it going:
-
-- **Servicing.** Once a year, best done before winter. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** Any major brand, even units someone else fitted. See [heat pump repairs](/heat-pump-repair/).
+Once your Redwood heat pump is in, book [maintenance and servicing](/maintenance-servicing/) once a year, best done before winter. Our [heat pump repairs](/heat-pump-repair/) cover any major brand, even units someone else fitted.
 
 ## Around Redwood
 

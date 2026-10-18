@@ -27,7 +27,7 @@ related:
 
 ## Two sets of heat pump maintenance jobs
 
-Some jobs are simple and you can do them yourself. The rest need a technician with the right gear. Look after a heat pump and it runs quieter, smells cleaner and heats the room for less power. Here's who does what.
+Some jobs are simple and you can do them yourself. The rest need a technician with the right gear. Look after a heat pump and it runs quieter, smells cleaner and heats the room for less power.
 
 | Job | Who | How often |
 | --- | --- | --- |
@@ -40,8 +40,6 @@ Some jobs are simple and you can do them yourself. The rest need a technician wi
 | Check refrigerant side if performance drops | Technician | When there's a sign of trouble |
 
 ## Your jobs between services
-
-Your jobs are the filters, the outdoor unit and the drain outlet. And keep an ear out for changes.
 
 **Filters.** Lift the front panel and slide out the mesh filters. Rinse them from the back under a lukewarm tap. Dry them in the shade, then slide them back. Never run the unit without them. A blocked filter cuts the airflow fast. It's a five minute fix.
 
@@ -56,8 +54,6 @@ Your jobs are the filters, the outdoor unit and the drain outlet. And keep an ea
 A [heat pump service](/heat-pump-servicing/) deals with the parts you can't reach. That's the coil behind the filters, the barrel fan, the drain tray, the electrical connections and the outdoor coil. Then we run the system and measure how well it heats and cools.
 
 ## A Canterbury maintenance year
-
-Each season in Canterbury has its own jobs.
 
 **Late summer and autumn.** A good time for the yearly service, before the first frosts. If you've run it hard for cooling, the coil's been wet all summer. That's when mould takes hold. A [tune-up](/heat-pump-seasonal-tune-ups/) before the season fits in here too.
 

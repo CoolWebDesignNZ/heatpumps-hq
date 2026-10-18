@@ -36,9 +36,7 @@ Burnside is an older north-west suburb of family homes. Many are brick and tile 
 
 ## Heat pump installation in an extended Burnside home
 
-With an extended home, we treat it as a set of zones, not one space. Usually that's the old living area, the newer family room and the bedrooms. Each zone has its own size, windows and insulation. The newer parts are usually better insulated.
-
-Then you've got three choices.
+With an extended home, we treat it as a set of zones, not one space. Usually that's the old living area, the newer family room and the bedrooms. Each zone has its own size, windows and insulation. Then you choose whether each zone gets its own unit or they share one system.
 
 - **A unit for each zone.** Each one sized for its room. Each one with its own control.
 - **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units on one outdoor unit. You only need room outside for one.
