@@ -48,7 +48,7 @@ for (const f of files) {
   if (t.length > 44) err(`title is ${t.length} characters (44 max)`);
   const norm = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
   if (kw && !norm(t).startsWith(norm(kw))) err(`title does not start with the keyword "${kw}"`);
-  if (kw && !norm(kw).split(' ').filter((w) => w !== 'nz').every((w) => norm(String(fm.h1 ?? '')).split(' ').includes(w))) err(`h1 does not contain every word of "${kw}"`);
+  if (kw && !words(kw).filter((w) => w !== 'nz').every((w) => words(String(fm.h1 ?? '')).includes(w))) err(`h1 does not contain every word of "${kw}"`);
   if (d.length < 120 || d.length > 158) err(`description is ${d.length} characters (120 to 158)`);
   if (d && t && d.toLowerCase().includes(t.toLowerCase())) err('description repeats the title');
   if (/\d{2}\s?\d{3}\s?\d{4}/.test(d)) err('phone number in description');
