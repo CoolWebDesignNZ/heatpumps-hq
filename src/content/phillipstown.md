@@ -16,7 +16,7 @@ faqs:
   - q: Does a heat pump meet the healthy homes heating standard?
     a: Yes, a heat pump is an accepted fixed heater under the standard. It has to be able to directly heat the main living room. And it needs the capacity that room calls for. Tenancy Services sets out the rule under the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard</a>.
   - q: How do you work out the right size for a rental lounge?
-    a: Tenancy Services has a heating assessment tool. It gives the capacity a main living room needs. We measure the room and check the insulation and windows. Then we recommend a unit that meets or beats that figure.
+    a: Use the Tenancy Services heating assessment tool. It gives the capacity a main living room needs. We measure the room and check the insulation and windows. Then we recommend a unit that meets or beats that figure.
   - q: Can you install while tenants are living in the house?
     a: Yes. We agree a time with you and the tenant. We keep to the rooms we're working in, and we tidy up before we go.
   - q: Can I have one outdoor unit for two flats?
@@ -35,7 +35,7 @@ Most Phillipstown homes are on the small side. So it's about picking one unit we
 - **Blocks of single-storey units and flats.** The shared walls help hold the heat in. So they need less capacity per room.
 - **Newer townhouses.** These are on redeveloped sites. They're better sealed and need the least capacity of the three. Bedrooms on a second level may want their own small unit, though.
 
-Phillipstown sits east of the Central City, between town and Linwood. The streets are flat and most sections are modest. We aim to put the outdoor unit on a wall near the living room. That keeps the pipe run short. If it's a rental, the healthy homes standard sets the minimum heating.
+Phillipstown sits east of the Central City, between town and Linwood. The streets are flat and most sections are modest. We aim to put the outdoor unit on a wall near the living room. A short pipe run is the aim there. If it's a rental, the healthy homes standard sets the minimum heating.
 
 ## Heat pumps for a Phillipstown rental
 

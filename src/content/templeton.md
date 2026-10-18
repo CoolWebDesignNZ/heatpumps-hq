@@ -29,7 +29,7 @@ related:
 
 Templeton sits past Hornby on the road south, with paddocks and semi-rural sections all round. It gets cold, frosty mornings and nor'west wind. A heat pump here has to be sized for the coldest mornings, not an average day. The outdoor unit needs a spot out of the wind. It also needs somewhere for the defrost water to drain. Which system suits comes down to the age and size of your house:
 
-- **Newer homes in recent subdivisions.** They hold heat well. One wall unit can heat the open plan living area. The bedrooms need their own heat.
+- **Newer homes in recent subdivisions.** They hold heat well. One wall unit can heat the open plan living area. Bedrooms need separate heating.
 - **Older houses on bigger sections.** They lose more heat through the ceiling and floor, and the rooms are spread out. Each room needs more capacity. Some need ducting.
 - **Lifestyle properties on the outskirts.** Sleepouts and outbuildings are simpler to heat with their own small unit.
 

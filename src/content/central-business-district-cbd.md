@@ -20,7 +20,7 @@ faqs:
   - q: Are the noise rules different in the Central City?
     a: Yes. The District Plan has separate noise limits for the Central City. They're different from the suburban residential zones. We explain how noise is measured, and where to put a unit, under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
   - q: Can you service a heat pump that came with my apartment?
-    a: Yes. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Most other brands sold in New Zealand too.
+    a: Yes. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Plus most other brands on sale in New Zealand.
 related:
   - { label: Edgeware, href: /edgeware/, text: Heat pumps for the villas and townhouses just north of the avenues. }
   - { label: Sydenham, href: /sydenham/, text: Installs and servicing south of Moorhouse Avenue. }
@@ -60,8 +60,8 @@ The Christchurch District Plan has its own noise limits for the Central City. Th
 
 Here's what we do for Central City apartments and townhouses:
 
-- **Installs.** Compact wall units. Or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
-- **Cleaning and checks.** Units handed over with the apartment may not have been touched since. A [service](/maintenance-servicing/) cleans the filters, coil and fan.
+- **Installs.** Compact wall units. Or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. Our brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Cleaning and checks.** Units handed over with the apartment may not have been touched since. We give the filters, coil and fan a proper clean with a [service](/maintenance-servicing/).
 - **Fault finding.** Apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
 
 We also work in [Edgeware](/edgeware/), [Addington](/heat-pumps-addington/), [Sydenham](/sydenham/), [Phillipstown](/phillipstown/) and [Linwood](/linwood/).

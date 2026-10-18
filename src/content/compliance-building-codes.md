@@ -39,7 +39,7 @@ Five sets of rules apply to a heat pump in a New Zealand home. A different body 
 
 ## Does a heat pump need building consent?
 
-No, not in Christchurch. The council is clear on this. Fixed electric heaters, heat pumps included, don't need building consent. But a registered electrician has to put them in and certify their own work.
+No, not in Christchurch. The council is clear on this. Heat pumps and other fixed electric heaters don't need building consent. But a registered electrician has to put them in and certify their own work.
 
 Other heating is different. The same guidance says a wood burner or other solid or liquid fuel heater needs consent to put in or move. So do radiators or underfloor heating that run off the drinking water supply.
 
@@ -90,4 +90,4 @@ Own a unit title? The body corporate rules may say where an outdoor unit can go.
 
 ## Installing a heat pump within the regulations
 
-We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. A licensed electrical worker does the electrical connection. For a free fixed-price quote, phone **03 242 1023** or [contact us online](/contact-us/).
+We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. The electrical connection is always done by a licensed electrical worker. For a free fixed-price quote, phone **03 242 1023** or [contact us online](/contact-us/).

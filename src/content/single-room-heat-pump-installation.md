@@ -60,7 +60,7 @@ For a living area, we look at where you sit, where the windows and doors are, an
 
 ## Placing the outdoor unit for a single room system
 
-The outdoor unit usually goes on the wall right behind the indoor unit. That keeps the pipe run short. Does that wall face a neighbour's bedroom? Is it in a tight corner? Then we'll suggest a better spot and run the pipes further. The noise limits at the boundary are set out under [boundary rules](/heat-pump-boundary-rules-consent-nz/).
+The outdoor unit usually goes on the wall right behind the indoor unit. The pipes then only have a short way to go. Does that wall face a neighbour's bedroom? Is it in a tight corner? Then we'll suggest a better spot and run the pipes further. The noise limits at the boundary are set out under [boundary rules](/heat-pump-boundary-rules-consent-nz/).
 
 ## Adding a second room later
 
@@ -68,4 +68,4 @@ You can start with one room and add another later. The most flexible way is a se
 
 ## Get a quote for a heat pump in one room
 
-We fit single room heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. Call **03 242 1023** or ask for a free quote. Tell us which room you want to heat.
+We fit single room heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. Ring **03 242 1023** or ask for a free quote. Tell us which room is the cold one.

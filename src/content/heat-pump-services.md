@@ -11,7 +11,7 @@ faqHeading: Questions about our heat pump services
 relatedHeading: Find and contact our heat pump specialists
 faqs:
   - q: Which brands do you service?
-    a: We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those, plus Panasonic and most other brands sold in New Zealand.
+    a: Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For servicing and repairs we add Panasonic and most other brands sold here.
   - q: What are your hours?
     a: Monday to Friday, 8am to 5pm. Call 03 242 1023 or send the quote form.
   - q: Do you give a price before starting?
@@ -86,4 +86,4 @@ How much warmth do you get for the power you use? And how's the air in the rooms
 
 ## Book a heat pump service or quote
 
-Call **03 242 1023**, Monday to Friday, or use the quote form. Quotes are free. We agree the price before we start.
+Call **03 242 1023**, Monday to Friday, or use the quote form. Quotes are free, and you'll know the price before a single tool comes out.

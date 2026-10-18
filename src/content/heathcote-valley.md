@@ -7,7 +7,7 @@ h1: Heat pump installation in Heathcote Valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Heathcote Valley
 suburb: Heathcote Valley
-intro: We fit, service and fix heat pumps all over Heathcote Valley. That's houses on the valley floor and homes high on the slopes. We agree the price before we start.
+intro: We fit, service and fix heat pumps all over Heathcote Valley. That's houses on the valley floor and homes high on the slopes. The price is agreed with you before work begins.
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"
@@ -29,7 +29,7 @@ related:
 
 ## Heat pumps for Heathcote Valley homes on the floor and the slopes
 
-Two things decide the heat pump for a Heathcote Valley home. How much winter sun does the house get? And how well does it hold heat? The valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton. Through winter, the hills shade one side of it.
+Two things decide the heat pump for a Heathcote Valley home. How much sun does your house get in winter? And how well does it hold heat? The valley sits at the foot of the Port Hills, at the Christchurch end of the road tunnel to Lyttelton. Through winter, the hills shade one side of it.
 
 - **Hillside homes rebuilt or heavily repaired after the earthquakes.** These hold heat far better than the houses they replaced. One unit in the living area can often do the job. Add a small second unit if the bedrooms are on another level.
 - **Older houses, mainly on the shady side.** They lose more heat and get little sun to make up for it. The living area needs more capacity. The bedrooms usually need their own heat, or a [multi-room system](/multi-room-heat-pump-installation/).

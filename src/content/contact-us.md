@@ -11,11 +11,11 @@ faqHeading: Questions before you contact Heat Pumps HQ
 relatedHeading: Read before you get in touch
 faqs:
   - q: Is a quote free?
-    a: Yes. Install quotes are free. The price is fixed before we start.
+    a: Yes. Install quotes are free, and the price is fixed up front.
   - q: Can I send photos?
     a: Yes. Email them to info@heatpumps-christchurch.co.nz with your name, phone number and suburb. The most useful are the outdoor unit, or the wall where it would go. A photo of any error code on the indoor unit helps too.
   - q: Do you work weekends?
-    a: We work Monday to Friday, 8am to 5pm. Send a message or quote request outside those hours and we'll answer when we're back.
+    a: Our hours are 8am to 5pm, Monday to Friday. Send a message or quote request outside those hours and we'll answer when we're back.
 related:
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: Fault finding and repairs on all the major brands. }
   - { label: Installation cost, href: /heat-pump-installation-cost-christchurch/, text: What goes into the price of a new install. }

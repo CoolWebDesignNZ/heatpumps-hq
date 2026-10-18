@@ -18,7 +18,7 @@ faqs:
   - q: What happens if I never service my heat pump?
     a: Dust and mould build up on the coil and fan. The airflow drops. The unit uses more power to heat the same room. Smells, drips and noise usually follow. Small faults go unnoticed until the unit stops.
   - q: Do you service heat pumps near me?
-    a: We cover all of Christchurch, Selwyn and Lyttelton. See our <a href="/locations/">locations</a> for the full list.
+    a: Anywhere in Christchurch, Selwyn and Lyttelton. See our <a href="/locations/">locations</a> for the full list.
 related:
   - { label: What a service visit includes, href: /heat-pump-servicing/, text: Every step of a technician service, in order. }
   - { label: Winter maintenance, href: /winterisation-of-heat-pumps/, text: Settings and outdoor unit care for frosty months. }

@@ -32,7 +32,7 @@ A unit that's too big costs more to buy. It doesn't make the room any warmer. It
 
 Three rules shape every job.
 
-**Sizing starts with the house.** Before we suggest anything, we look at the rooms you want heated. We check the insulation in the ceiling, walls and floor. We look at the size of the windows and which way they face. And we ask how you use the house through the day. A sunny, well insulated lounge needs a very different unit from a cold back bedroom with single glazing. The method we use is under [heat pump sizing](/heat-pump-sizing/).
+**Sizing starts with the house.** Before we suggest anything, we look at the rooms you want heated. We find out how much insulation is in the ceiling, walls and floor. We look at the size of the windows and which way they face. And we ask how you use the house through the day. A sunny, well insulated lounge needs a very different unit from a cold back bedroom with single glazing. The method we use is under [heat pump sizing](/heat-pump-sizing/).
 
 **The price is fixed first.** Quotes are free. Once we know what the job involves, you get a fixed price in writing. That's what you pay for the work quoted. If a repair makes more sense than a new unit, we'll say so.
 

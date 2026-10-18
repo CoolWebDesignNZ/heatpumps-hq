@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Russley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Russley
 suburb: Russley
-intro: Most Russley homes are brick houses from the 1960s to the 1980s, out on the city's western edge. We fit, service and fix heat pumps here. We agree the price before we start.
+intro: Most Russley homes are brick houses from the 1960s to the 1980s, out on the city's western edge. We fit, service and fix heat pumps in Russley, with the price agreed before any work.
 hero: russley-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Russley"
@@ -62,4 +62,4 @@ Russley comes under the Christchurch District Plan. It judges outdoor unit noise
 
 We also work in [Avonhead](/avonhead/), [Yaldhurst](/yaldhurst/), [Harewood](/harewood/) and [Burnside](/burnside/).
 
-Phone **03 242 1023** or send the quote form. We'll arrange a time to look at your Russley home.
+Phone **03 242 1023** or send the quote form and we'll arrange a time to look at your Russley home.

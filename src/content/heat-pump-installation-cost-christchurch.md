@@ -109,4 +109,4 @@ If one quote is much lower than the rest, check whether it's missing one of thes
 
 ## Get a fixed heat pump install price for your house
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. We come out and size the unit from your rooms, insulation and windows. We work out the pipe run, mounting and electrical work. Then you get a fixed price before we start. The quote is free. Call **03 242 1023**, Monday to Friday 8am to 5pm, or [request a quote](/contact-us/).
+We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. We come out and size the unit from your rooms, insulation and windows. We work out the pipe run, mounting and electrical work. Then we give you a fixed price, agreed before any work. The quote is free. Call **03 242 1023**, Monday to Friday 8am to 5pm, or [request a quote](/contact-us/).

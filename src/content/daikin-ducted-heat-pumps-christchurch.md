@@ -73,11 +73,11 @@ It's the same steps as any [ducted heat pump](/ducted-heat-pumps-christchurch/).
 - A licensed electrical worker does the connection.
 - We test it fully in heating and cooling before handover.
 
-You get a fixed price before we start.
+The price is fixed and agreed before any work.
 
 ## Looking after a Daikin ducted system
 
-Clean the return air filter often. Book a service once a year. We service and fix Daikin systems of any age. See our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/).
+Clean the return air filter often. Have it serviced yearly. We service and fix Daikin systems of any age. See our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/).
 
 ## Quote for a Daikin ducted system
 

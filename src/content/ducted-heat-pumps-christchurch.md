@@ -14,9 +14,9 @@ faqs:
   - q: Can a ducted heat pump go into an existing house?
     a: Often, yes. You need enough ceiling space, or a good underfloor, to fit the indoor unit and run the ducts. Low pitch roofs, flat roofs and slab homes with no ceiling cavity are harder. We check the space before we quote.
   - q: Is ducted better than a split system?
-    a: It depends on the house. Ducted heats every room evenly with nothing on the walls. But it costs more and needs space to fit. In a compact or open plan home, one or two wall units can do much the same. See <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split heat pumps</a> for the trade-offs.
+    a: Your house decides it. Ducted heats every room evenly with nothing on the walls. But it costs more and needs space to fit. In a compact or open plan home, one or two wall units can do much the same. See <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split heat pumps</a> for the trade-offs.
   - q: Can I heat only some rooms with a ducted system?
-    a: Yes, with zoning. Motorised dampers in the ducts open and close. They send air only to the rooms or zones you pick. See <a href="/heat-pump-zoning/">heat pump zoning</a>.
+    a: Yes, with zoning. Motorised dampers in the ducts open and close. They send air only to the rooms or zones you pick. More on that under <a href="/heat-pump-zoning/">heat pump zoning</a>.
   - q: How do I look after a ducted heat pump?
     a: Clean or replace the filter at the return air grille often. Keep furniture off the vents. Get the system <a href="/maintenance-servicing/">serviced</a> once a year.
   - q: What does a ducted heat pump cost?
@@ -76,4 +76,4 @@ Old ducted systems often have tired ducts and vents in the wrong places. Some ru
 
 ## Ask for a ducted quote
 
-We'll look at the house and the ceiling space, and ask how you want it heated. Then you get a fixed price. Phone **03 242 1023** or send the quote form. We cover Christchurch, Selwyn and Lyttelton.
+We'll look at the house and the ceiling space, and ask how you want it heated. Then you get a fixed price. Phone **03 242 1023** or send the quote form. We work anywhere in Christchurch, Selwyn and Lyttelton.

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Redcliffs
 serviceName: Heat pump installation, servicing and repair
 areaServed: Redcliffs
 suburb: Redcliffs
-intro: We fit, service and fix heat pumps in Redcliffs. That's the flat streets near the water and the houses on the hill behind. We agree a fixed price before we start.
+intro: We fit, service and fix heat pumps in Redcliffs. That's the flat streets near the water and the houses on the hill behind. You'll have a fixed price before any work begins.
 hero: redcliffs-hero
 gallery: [pool-coastal-home, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Redcliffs"

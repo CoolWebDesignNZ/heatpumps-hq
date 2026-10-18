@@ -16,7 +16,7 @@ faqs:
   - q: Is a multi split better than separate heat pumps?
     a: Not always. A multi split means fewer outdoor units on the house. That helps when wall space is tight, or noise near a boundary is a problem. Separate systems are simpler. And if one fails, the other rooms keep their heat. When it's close, we'll price both.
   - q: Can the indoor units on a multi split be different types?
-    a: Usually, yes. It depends on the model. You can mix high wall units, floor consoles and small ducted units on one outdoor unit. We pick each to suit its room.
+    a: Usually, yes. That's down to the model. You can mix high wall units, floor consoles and small ducted units on one outdoor unit. We pick each to suit its room.
   - q: Can I add another room to a multi split later?
     a: Only if the outdoor unit has a spare connection and enough capacity. That has to be planned when you first choose the system. If you think you'll add a room, tell us when we quote.
 related:
@@ -63,4 +63,4 @@ We fit multi room systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 
 ## Talk to us about your rooms
 
-Call **03 242 1023** or ask for a free quote. Tell us how many rooms you'd like heated. We cover Christchurch, Selwyn and Lyttelton.
+Call **03 242 1023** or ask for a free quote. Tell us how many rooms you'd like heated. We do this work across Christchurch, Selwyn and Lyttelton.

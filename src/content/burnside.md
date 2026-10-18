@@ -7,7 +7,7 @@ h1: Heat pump installation and service in Burnside
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burnside
 suburb: Burnside
-intro: Lots of Burnside homes are solid family houses that have grown over the years. We fit, service and fix heat pumps to heat the whole house. The price is fixed before we start.
+intro: Lots of Burnside homes are solid family houses that have grown over the years. We fit, service and fix heat pumps to heat the whole house. Your price is set before any work begins.
 hero: burnside-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: Questions about heat pumps in Burnside
@@ -16,7 +16,7 @@ faqs:
   - q: My Burnside home has an extension the heat pump doesn't reach. What can I do?
     a: A new extension usually needs its own unit. Or use a multi-room system and add an indoor unit there. If the old heat pump is getting on, replace it with one system for both areas. That can be tidier.
   - q: Can I heat only the rooms I'm using?
-    a: Yes. Use separate units, or a ducted system with zones. Then you heat the living area by day and the bedrooms at night. See <a href="/heat-pump-zoning/">heat pump zoning</a>.
+    a: Yes. Use separate units, or a ducted system with zones. Then you heat the living area by day and the bedrooms at night. <a href="/heat-pump-zoning/">Heat pump zoning</a> explains how.
   - q: Do you do yearly servicing in Burnside?
     a: Yes, for all major brands. We clean the filters, indoor coil and drain. We check the outdoor unit and test how it's running.
 related:
@@ -41,7 +41,7 @@ With an extended home, we treat it as a set of zones, not one space. Usually tha
 Then you've got three choices.
 
 - **A unit for each zone.** Each one sized for its room. Each one with its own control.
-- **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units on one outdoor unit. That saves wall space outside.
+- **A [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units on one outdoor unit. You only need room outside for one.
 - **Ducted with zones.** One system, a vent in each room, and you choose which areas get heat. This is [heat pump zoning](/heat-pump-zoning/).
 
 ## Heat pump repair or replacement in Burnside
@@ -58,7 +58,7 @@ On a winter evening, the old lounge and the new family room can feel very differ
 
 ## Heat pump brands we work on in Burnside
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those, plus Panasonic and most other brands sold in New Zealand.
+Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. On top of those, we service and fix Panasonic and most other brands in New Zealand homes.
 
 ## Suburbs near Burnside
 

@@ -12,7 +12,7 @@ faqHeading: Heat pump installation questions
 relatedHeading: More on choosing a heat pump install
 faqs:
   - q: Do I need consent to install a heat pump in Christchurch?
-    a: A standard split system in a home normally goes in without building consent. But the District Plan controls noise at the neighbour's place. So the outdoor unit has to go where it meets those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a>.
+    a: Most home split systems don't need building consent. But the District Plan controls noise at the neighbour's place. So the outdoor unit has to go where it meets those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a>.
   - q: Which heat pump brands can you install for me?
     a: We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
   - q: Can you replace my old heat pump?
@@ -27,7 +27,7 @@ related:
 
 ## What a good heat pump installation starts with
 
-It starts with a look at your house, before we quote. Get the size or the spot wrong and the heat pump costs more to run. It never feels quite right. So we check each room's size and shape. We check the insulation in the ceiling, walls and floor. We look at how much glass there is and which way it faces. And we ask how you use the room on a winter day.
+It starts with a look at your house, before we quote. Get the size or the spot wrong and the heat pump costs more to run. It never feels quite right. So we check each room's size and shape. We see how well the ceiling, walls and floor are insulated. We look at how much glass there is and which way it faces. And we ask how you use the room on a winter day.
 
 That visit tells us three things.
 
@@ -44,7 +44,7 @@ It depends on the rooms you want heated. These are the usual options.
 - **Two or more indoor units.** Each on its own outdoor unit, or several on one. See [multi room heat pumps](/multi-room-heat-pump-installation/).
 - **A ducted system.** A vent in each room and nothing on the walls. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-We fit **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We can talk you through [how the brands compare](/heat-pump-brands-comparison/). On site, we'll tell you which models we'd shortlist for your rooms.
+Our four install brands are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We can talk you through [how the brands compare](/heat-pump-brands-comparison/). On site, we'll tell you which models we'd shortlist for your rooms.
 
 ## What a heat pump install includes
 
@@ -75,8 +75,8 @@ These things change the [price of a heat pump installation](/heat-pump-installat
 - how easy the outdoor spot is to get to
 - whether the switchboard needs work
 
-No two installs cost the same. The quote is free. The price is fixed before we start.
+No two installs cost the same. Your quote costs nothing, and the price is locked in up front.
 
 ## Book a home visit in Christchurch
 
-We fit heat pumps across Christchurch, Selwyn and Lyttelton, Monday to Friday. Call **03 242 1023** or send the quote form. We'll set a time to come and look at the house.
+We fit heat pumps across Christchurch, Selwyn and Lyttelton, Monday to Friday. Call **03 242 1023** or send the quote form. We'll book a time to come round and see the house.

@@ -12,35 +12,35 @@ const suburbs = urls.filter((u) => u.type === 'suburb')
   .sort((a, b) => a.name.localeCompare(b.name));
 
 const services = [
-  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Wall, floor console and multi-room systems, sized from your rooms and fitted tidy.',
+  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'Wall, floor console and multi-room systems. Sized from your rooms and fitted tidy.',
     links: [['Single room', '/single-room-heat-pump-installation/'], ['Multi-room', '/multi-room-heat-pump-installation/'], ['Air conditioning', '/air-conditioning-installation-christchurch/'], ['Smart and Wi-Fi control', '/smart-heat-pump-systems/']] },
-  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room and nothing on the walls. Easiest to plan early in a build.',
+  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'One system, a vent in every room, nothing on the walls. It\'s easiest to plan early in a build.',
     links: [['Daikin ducted', '/daikin-ducted-heat-pumps-christchurch/'], ['Mitsubishi Electric ducted', '/mitsubishi-ducted-heat-pumps-christchurch/'], ['Zoning', '/heat-pump-zoning/'], ['Ducted vs split', '/ducted-vs-split-heat-pumps-christchurch/']] },
-  { img: 'home-service', h: 'Servicing', href: '/maintenance-servicing/', p: 'A yearly clean and check keeps a heat pump efficient, quiet and fresh smelling.',
+  { img: 'home-service', h: 'Servicing', href: '/maintenance-servicing/', p: 'Get it cleaned and checked once a year. It\'ll run cheaper and quieter, and smell fresh.',
     links: [['What a service includes', '/heat-pump-servicing/'], ['Cleaning', '/heat-pump-cleaning/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
-  { img: 'home-repair', h: 'Repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code. We find the fault and tell you if it is worth fixing.',
+  { img: 'home-repair', h: 'Repairs', href: '/heat-pump-repair/', p: 'Not heating? Leaking? Showing an error code? We find the fault and tell you if it\'s worth fixing.',
     links: [['Urgent repairs', '/emergency-heat-pump-repair/'], ['Troubleshooting', '/heat-pump-troubleshooting/'], ['Leak detection', '/leak-detection-repair/'], ['Parts replacement', '/heat-pump-parts-replacement/']] },
-  { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service those and Panasonic.',
+  { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service those, plus Panasonic.',
     links: [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Panasonic', '/panasonic-heat-pump-service-christchurch/']] },
-  { img: 'upgrade-hero', h: 'Efficiency and air quality', href: '/heat-pump-efficiency-upgrades/', p: 'Replacing an old unit, cutting power use, and drier, cleaner air at home.',
+  { img: 'upgrade-hero', h: 'Efficiency and air quality', href: '/heat-pump-efficiency-upgrades/', p: 'Swap out an old unit and use less power. Get drier, cleaner air at home.',
     links: [['Efficiency upgrades', '/heat-pump-efficiency-upgrades/'], ['Energy assessment', '/energy-efficiency-assessment/'], ['Dehumidifying', '/heat-pump-dehumidification/'], ['Air quality checks', '/air-quality-testing/']] },
 ];
 
 const guides = [
-  { img: 'boundary-hero', h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'Noise limits, consent and where to put the outdoor unit.' },
-  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How kW ratings work and how to size a room properly.' },
-  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What goes into the price of a heat pump install.' },
-  { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How the main brands compare for Christchurch homes.' },
-  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud and how to fix it.' },
-  { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which type suits your house and budget.' },
+  { img: 'boundary-hero', h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go.' },
+  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'What a kW rating means. How to size a room properly.' },
+  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What makes up the price of a heat pump install.' },
+  { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How the main brands stack up in Christchurch homes.' },
+  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, and how to quieten it.' },
+  { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which one suits your house and your budget.' },
 ];
 
 const faqs = [
-  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic, plus most other brands sold in New Zealand.' },
-  { q: 'What areas do you cover?', a: 'All of Christchurch, Selwyn towns including Rolleston, Lincoln and Prebbleton, and Lyttelton. See the <a href="/locations/">full list of locations</a>.' },
-  { q: 'Do I need consent for a heat pump?', a: 'Usually not. In Christchurch the District Plan controls heat pumps through noise at the neighbour\'s property rather than a set distance from the boundary. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.' },
-  { q: 'How often should a heat pump be serviced?', a: 'Once a year for most homes, ideally before winter. Clean the filters yourself every few weeks while it\'s running a lot.' },
-  { q: 'Are you insured?', a: 'Yes. We\'re fully insured, and every installation comes with warranties on parts and labour.' },
+  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those and Panasonic. We do most other brands sold in New Zealand too.' },
+  { q: 'What areas do you cover?', a: 'All of Christchurch, and Lyttelton. Plus Selwyn towns like Rolleston, Lincoln and Prebbleton. See the <a href="/locations/">full list of locations</a>.' },
+  { q: 'Do I need consent for a heat pump?', a: 'Usually not. Christchurch doesn\'t set a distance from the boundary. The District Plan controls the noise at the neighbour\'s property instead. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.' },
+  { q: 'How often should a heat pump be serviced?', a: 'Once a year for most homes. Before winter is best. In between, clean the filters yourself every few weeks while it\'s working hard.' },
+  { q: 'Are you insured?', a: 'Yes. We\'re fully insured. Every install comes with warranties on parts and labour.' },
 ];
 ---
 <Base
@@ -49,12 +49,12 @@ const faqs = [
   image="home-hero">
 
   <Hero image="home-hero" h1="Heat pump installation, service and repairs in Christchurch"
-        intro={`Installation, servicing and repairs from a local Christchurch team. We size every heat pump for your home and agree a fixed price before any work starts. Locally owned since ${site.founded}.`} />
+        intro={`We're a local Christchurch team. We fit, service and fix heat pumps. Every unit is sized for your home, and you get a fixed price before we start. Locally owned since ${site.founded}.`} />
 
   <section class="section">
     <div class="wrap">
       <h2>Heat pump installation, servicing and repairs</h2>
-      <p class="lead">We install, service and repair heat pumps in homes across Christchurch, from a single bedroom unit to a ducted system for the whole house.</p>
+      <p class="lead">From one bedroom unit to a ducted system for the whole house. We fit it, service it and fix it, anywhere in Christchurch.</p>
       <div class="grid three svc">
         {services.map((s) => (
           <article class="card">
@@ -75,9 +75,9 @@ const faqs = [
     <div class="wrap">
       <div class="prose">
         <h2>Heat pumps sized for your home, not the biggest unit</h2>
-        <p>We size every heat pump from your house: the rooms, the insulation, the windows and how you actually live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair instead of a replacement. Either way you'll get a straight answer and a fixed price before any work starts.</p>
-        <p>That is why Nate Thompson started Heat Pumps HQ in {site.founded}. After years at a larger heating company, he had watched too many people get sold systems bigger and dearer than their homes needed.</p>
-        <p>We install <strong>{site.brandsInstalled.join(', ')}</strong>, and service and repair those and Panasonic.</p>
+        <p>We size every heat pump from your house. We look at the rooms, the insulation and the windows. And we ask how you really live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair, not a new one. Either way, you'll get a straight answer and a fixed price up front.</p>
+        <p>That's why Nate Thompson started Heat Pumps HQ in {site.founded}. He'd spent years at a bigger heating company. He saw too many people sold systems bigger and dearer than their homes needed.</p>
+        <p>We fit <strong>{site.brandsInstalled.join(', ')}</strong>. We service and fix those, and Panasonic.</p>
         <p><a href="/about-us/">More about Heat Pumps HQ</a></p>
       </div>
       <Img id="home-van" class="banner" />
@@ -88,9 +88,9 @@ const faqs = [
     <div class="wrap">
       <div class="prose">
         <h2>Heat pumps made for Christchurch winters</h2>
-        <p>Christchurch winters bring clear, frosty nights and cold mornings, especially out on the plains. A heat pump has to keep working when it's coldest outside, and the outdoor unit has to defrost without fuss.</p>
-        <p>That comes down to sizing and placement. A correctly sized unit runs steadily rather than flat out, which keeps it quieter and cheaper to run. The outdoor unit goes on raised feet or a bracket, clear of corners, where defrost water drains away and the neighbours won't hear it.</p>
-        <p>Not sure what size you need? Start with our <a href="/heat-pump-sizing/">heat pump sizing guide</a>.</p>
+        <p>Christchurch winters mean clear, frosty nights and cold mornings. It's worse out on the plains. A heat pump has to keep going when it's coldest outside. The outdoor unit has to defrost without fuss.</p>
+        <p>That comes down to size and placement. The right size unit runs steady, not flat out. That keeps it quieter and cheaper to run. The outdoor unit goes on raised feet or a bracket, out of corners. The defrost water drains away and the neighbours won't hear it.</p>
+        <p>Not sure what size you need? Start with <a href="/heat-pump-sizing/">heat pump sizing</a>.</p>
       </div>
       <Img id="home-outdoor" class="banner" />
     </div>
@@ -99,7 +99,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <h2>Heat pump guides for Christchurch homes</h2>
-      <p class="lead">Straight answers on what a heat pump costs, what size you need, which brand suits and the council rules on placement.</p>
+      <p class="lead">What does a heat pump cost? What size do you need? Which brand suits? Where does the council let it go? Straight answers here.</p>
       <div class="grid three">
         {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
       </div>
@@ -110,7 +110,7 @@ const faqs = [
   <section class="section warm">
     <div class="wrap">
       <h2>Heat pumps across Christchurch, Selwyn and Lyttelton</h2>
-      <p class="lead">We work in every Christchurch suburb, in Lyttelton, and in Selwyn towns including Rolleston, Lincoln and Prebbleton. Find your area below.</p>
+      <p class="lead">We work in every Christchurch suburb and in Lyttelton. We also cover Selwyn towns like Rolleston, Lincoln and Prebbleton. Look for your area in the list.</p>
       <ul class="areas">{suburbs.map((s) => <li><a href={s.href}>{s.name}</a></li>)}</ul>
     </div>
   </section>

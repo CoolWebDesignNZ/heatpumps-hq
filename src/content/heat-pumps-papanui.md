@@ -18,7 +18,7 @@ faqs:
   - q: Where does the outdoor unit go on a small infill section?
     a: Usually on a wall bracket or a pad down the side of the house. Keep it away from the neighbour's bedroom windows. The rules are about noise at the neighbour's place. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers them.
   - q: Do you repair heat pumps you didn't install?
-    a: Yes. We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Most other brands sold in New Zealand too, whoever fitted them.
+    a: Yes. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand, whoever fitted them.
   - q: Is one heat pump enough for a Papanui townhouse?
     a: Often, for the living level. Upstairs bedrooms in a two storey townhouse usually need their own small unit. Warm air from downstairs doesn't spread evenly through closed doors.
 related:
@@ -31,7 +31,7 @@ related:
 
 In Papanui, it comes down to one thing. Is it an older villa or bungalow, or a newer townhouse? The two lose heat at very different rates.
 
-- **Timber villas and solid bungalows.** Papanui is an older northern suburb, and lots of streets are still lined with these. They lose heat through the ceilings, floors and single glazing. A villa's high stud means more air to heat as well. They need more capacity per room. The main unit goes in the lounge. Add more indoor units if the hallway and bedrooms are cold. More on that below.
+- **Timber villas and solid bungalows.** Papanui is an older northern suburb, and lots of streets are still lined with these. They lose heat through the ceilings, floors and single glazing. A villa's high stud means more air to heat as well. Each room needs more capacity. The main unit goes in the lounge. Add more indoor units if the hallway and bedrooms are cold. More on that below.
 - **Newer units and townhouses.** Lots of original sections now hold two to four of them. They're built tighter, with insulation and double glazing as standard. They need far less capacity for the same floor area. Often that's one unit for the living level and a small one for an upstairs bedroom.
 
 We work out the size from your actual rooms, insulation and windows, and how you live in the house. We don't guess from the square metres.

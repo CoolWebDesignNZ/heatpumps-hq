@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bexley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bexley
 suburb: Bexley
-intro: We fit, service and fix heat pumps in Bexley. It's low ground by the estuary, and a lot of the homes here have been rebuilt or repaired. You get a fixed price before we start.
+intro: We fit, service and fix heat pumps in Bexley. It's low ground by the estuary, and a lot of the homes here have been rebuilt or repaired. You get a fixed price before any work.
 hero: bexley-hero
 gallery: [pool-newbuild-living, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bexley
@@ -30,7 +30,7 @@ related:
 Bexley is low land by the Avon River and the estuary. The earthquakes hit it hard. Much of it became red zone, so there are fewer homes now. The ones left mostly fit one of three types.
 
 - **Newer homes on improved foundations, and the few full rebuilds.** These have current insulation, double glazing and a tight shell. One modest wall unit can heat an open plan living area. A bigger one would just keep switching on and off.
-- **Older homes that were repaired.** Many still have their old windows and patchy insulation. They need more heat for the same size room. If the walls were opened up during the repair, find out whether insulation went in. That changes the size we fit.
+- **Older homes that were repaired.** Many still have their old windows and patchy insulation. They need more heat for the same size room. If the walls were opened up during the repair, find out whether insulation went in. It makes a difference to the unit size.
 - **Any home on low ground by the estuary.** The outdoor unit has to stay off wet soil. More on that below.
 
 ## Heat pump installation in rebuilt Bexley homes

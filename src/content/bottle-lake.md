@@ -62,7 +62,7 @@ We size the unit from your rooms, glass, insulation and how you use the house. W
 
 ## Servicing and repairs in Bottle Lake
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other makes sold in New Zealand too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
+We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Most other makes sold in New Zealand are fine too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs near Bottle Lake
 

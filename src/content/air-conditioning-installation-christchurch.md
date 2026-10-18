@@ -64,8 +64,8 @@ Ducted cooling suits upstairs bedrooms well. The ducts and indoor unit can sit i
 
 ## What our air conditioning installation includes
 
-We fit air conditioning from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. A licensed electrical worker does the electrical connection. We test every unit in cooling and heating before we hand it over. It's the same steps as any [heat pump installation](/heat-pump-installation-in-christchurch/), from the site visit to the test run.
+We fit air conditioning from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. The electrical connection is done by a licensed electrical worker. We test every unit in cooling and heating before we hand it over. It's the same steps as any [heat pump installation](/heat-pump-installation-in-christchurch/), from the site visit to the test run.
 
 ## Get an air con installation quote
 
-Tell us which rooms get too hot, and when. Call **03 242 1023** or ask for a free quote. We'll come and measure up anywhere in Christchurch, Selwyn or Lyttelton.
+Tell us which rooms get too hot, and when. Phone **03 242 1023** or ask for a free quote. We'll come and measure up anywhere in Christchurch, Selwyn or Lyttelton.

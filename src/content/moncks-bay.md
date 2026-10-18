@@ -32,7 +32,7 @@ related:
 In Moncks Bay, two things decide the heat pump. Which side of the coast road is the house on? And how much salt is in the air? Moncks Bay is a small stretch of the estuary edge, between Redcliffs and the foot of Mount Pleasant. Every address is only metres from the water.
 
 - **Houses facing the water.** Across the coast road, they take the wind straight off the estuary. A house in the wind loses heat faster. We size for a windy winter evening. The outdoor unit goes on the sheltered side of the house.
-- **Houses set into the slope.** These sections are cut into the hill, with retaining walls and steps up to the front door. Rooms that back onto a retaining wall get little sun and can feel damp. They often need their own small unit. Dry mode helps on mild, damp days.
+- **Houses set into the slope.** These sections are cut into the hill, with retaining walls and steps up to the front door. Rooms that back onto a retaining wall get little sun and can feel damp. They often need their own small unit. On a mild, damp day, dry mode helps a lot.
 - **Rebuilt and strengthened homes.** There are many since the earthquakes, and they usually hold heat well. A modern rebuild may need just one high wall unit in the main living area, sized right. Add a small unit for bedrooms at the cold end of the house.
 
 ## Heat pump installation in Moncks Bay waterfront homes

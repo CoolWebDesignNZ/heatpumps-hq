@@ -14,7 +14,7 @@ faqHeading: "Questions about heat pumps in Addington"
 relatedHeading: "More on heat pumps near Addington"
 faqs:
   - q: My cottage is right on the boundary. Can I still have a heat pump?
-    a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site, not by a set distance from the fence. Where it goes and which unit you pick matter more than the gap. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
+    a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site, not by a set distance from the fence. Where it goes and which unit you pick matter more than the gap. The limits are in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
   - q: What size heat pump does a two-bedroom Addington cottage need?
     a: The number of bedrooms doesn't decide it. The room sizes do, along with the ceiling and floor insulation and the windows. We measure all of that on site. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
   - q: Do you service heat pumps in Addington rentals?
@@ -59,7 +59,7 @@ Here's what we do in Addington:
 
 - **New installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, sized for small rooms.
 - **Servicing and cleaning.** Rentals included. See [servicing](/maintenance-servicing/).
-- **Repairs.** Fault finding on all the major brands. See [heat pump repairs](/heat-pump-repair/).
+- **Repairs.** We find and fix faults on every major brand. See [heat pump repairs](/heat-pump-repair/).
 
 We also cover [Sydenham](/sydenham/), [Riccarton](/heat-pumps-riccarton/), [Spreydon](/spreydon/) and [the Central City](/central-business-district-cbd/).
 

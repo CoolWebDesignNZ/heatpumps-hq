@@ -69,4 +69,4 @@ The savings you control come from your settings. Keep one steady temperature. Us
 
 ## Book a heat pump power check
 
-Heat pump power usage looking wrong? Call **03 242 1023** or [request a quote](/contact-us/). We visit homes across Christchurch, Selwyn and Lyttelton.
+Heat pump power usage looking wrong? Ring **03 242 1023** or [request a quote](/contact-us/) and we'll take a look. We visit homes across Christchurch, Selwyn and Lyttelton.

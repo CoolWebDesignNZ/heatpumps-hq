@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Avondale
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avondale
 suburb: Avondale
-intro: We fit, service and fix heat pumps in Avondale homes. That's everything from original mid-century houses to rebuilds. You'll have a fixed price before we start.
+intro: We fit, service and fix heat pumps in Avondale homes. That's everything from original mid-century houses to rebuilds. You'll know the fixed price before we pick up a tool.
 hero: avondale-hero
 gallery: [pool-weatherboard, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avondale
@@ -57,7 +57,7 @@ Avondale is a few kilometres from the coast. An easterly brings in some salt. Gi
 
 ## Heat pump servicing and repairs in Avondale
 
-We service and fix heat pumps all over Avondale. Many went in during earthquake repairs and may not have been serviced since. A service cleans the filters, coil and fan. It checks the drain and the output. We cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands. See what happens at a visit under [maintenance and servicing](/maintenance-servicing/). For a fault, go to [heat pump repair](/heat-pump-repair/).
+We service and fix heat pumps all over Avondale. Many went in during earthquake repairs and may not have been serviced since. At a service we clean the filters, coil and fan. It checks the drain and the output. We cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands. See what happens at a visit under [maintenance and servicing](/maintenance-servicing/). For a fault, go to [heat pump repair](/heat-pump-repair/).
 
 ## Suburbs around Avondale
 

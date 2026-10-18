@@ -39,7 +39,7 @@ At the quote we size every unit for the cold end of the range. We look at how ex
 
 We size for the cold end of the range out here, not a mild day. A heat pump pulls heat from the outside air and moves it indoors. The colder it is outside, the less heat it can deliver. That's the opposite of what you need on a frosty morning. For an exposed house, we also look at units built to hold their output in the cold. See [cold climate heat pumps](/cold-climate-heat-pumps/).
 
-A ducted system puts a vent in each room. The indoor unit hides in the roof space. It suits a big Yaldhurst home that's lived in from end to end. If you only use a few rooms every day, wall units in those rooms cost less to run.
+A ducted system puts a vent in each room. The indoor unit sits out of sight up in the roof. It suits a big Yaldhurst home that's lived in from end to end. If you only use a few rooms every day, wall units in those rooms cost less to run.
 
 ## Where the outdoor unit goes on an open Yaldhurst section
 
