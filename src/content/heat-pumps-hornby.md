@@ -27,13 +27,13 @@ related:
 
 ## Heat pump installation for Hornby's housing
 
-Hornby has a real mix of homes. Along the older streets you'll find weatherboard and brick houses with separate lounges, long hallways and bedrooms off to one side, many of them built before insulation was taken seriously. Newer townhouses and units have filled in sections between them.
+A heat pump installation in Hornby has to suit a real mix of homes. Along the older streets you'll find weatherboard and brick houses with separate lounges, long hallways and bedrooms off to one side, many of them built before insulation was taken seriously. Newer townhouses and units have filled in sections between them.
 
 That mix matters because the same heat pump behaves very differently in each. In a well sealed unit, one wall-mounted heat pump can carry the whole living area. In an older house with a closed-off lounge, the heat stays in the room the unit is in, and the hallway and bedrooms stay cold.
 
 ## Older Hornby houses: insulation first, then size
 
-Before we quote, we look at the ceiling space, the underfloor and the windows. If the ceiling has little or no insulation, we'll say so, because a heat pump in a leaky room is fighting a losing battle. Sometimes the right answer is a slightly larger unit in the lounge plus a small one in the main bedroom. Sometimes it's a [multi-room system](/multi-room-heat-pump-installation/) with one outdoor unit running two or three heads.
+In an older Hornby house we check the insulation before we settle on a size, so before we quote, we look at the ceiling space, the underfloor and the windows. If the ceiling has little or no insulation, we'll say so, because a heat pump in a leaky room is fighting a losing battle. Sometimes the right answer is a slightly larger unit in the lounge plus a small one in the main bedroom. Sometimes it's a [multi-room system](/multi-room-heat-pump-installation/) with one outdoor unit running two or three heads.
 
 We size each install from the rooms, the insulation, the glazing and how the household uses the house, not from a rule of thumb.
 
@@ -42,6 +42,8 @@ We size each install from the rooms, the insulation, the glazing and how the hou
 Hornby sits on the flat western edge of the city, where clear winter nights bring frost. A heat pump outdoor unit collects ice on cold mornings and runs a defrost cycle to clear it. Mounting it off the ground on feet or a bracket lets the meltwater drain away instead of refreezing around the base.
 
 ## Heat pump installs, service and repair in Hornby
+
+In Hornby we put in new heat pumps, service and repair existing ones, and replace old units:
 
 - **Installs** of wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing**, including filter and coil cleans and a drain check. See [heat pump servicing](/maintenance-servicing/).

@@ -35,6 +35,8 @@ Air comes back to the indoor unit through a larger return air grille, usually in
 
 ## Why people choose ducted heating
 
+People choose ducted heating for three reasons:
+
 - **Every room heated.** Bedrooms, hallways and bathrooms all get warm air, not just the room with the wall unit.
 - **Nothing on the walls.** No indoor units to work around when you place furniture or hang art.
 - **Even temperatures.** Air comes from several outlets instead of one spot, so there are fewer cold corners.
@@ -57,16 +59,16 @@ A ducted system is sized for the whole area it heats, room by room. Each room ne
 
 ## Zoning a ducted system
 
-A plain ducted system heats every room at once from one thermostat. A zoning system adds motorised dampers so you can turn zones on and off, or in some systems set a different temperature in each. If the bedrooms only need heat at night and the living areas during the day, zoning is worth considering. Our [heat pump zoning](/heat-pump-zoning/) page explains how it works.
+Zoning a ducted system adds motorised dampers so you can turn zones on and off, or in some systems set a different temperature in each. Without it, a plain ducted system heats every room at once from one thermostat. If the bedrooms only need heat at night and the living areas during the day, zoning is worth considering. Our [heat pump zoning](/heat-pump-zoning/) page explains how it works.
 
 ## Ducted heat pump brands we install
 
-We install ducted systems from the brands we carry. Two have their own pages:
+We install ducted systems from Daikin, Mitsubishi Electric, Fujitsu and Toshiba. Two have their own pages:
 
 - [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/)
 - [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/)
 
-We also quote Fujitsu and Toshiba systems, and we'll explain how the options compare for your house.
+For Fujitsu and Toshiba, we'll quote the system and explain how the options compare for your house.
 
 ## Replacing an old ducted system
 

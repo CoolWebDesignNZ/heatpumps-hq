@@ -37,7 +37,7 @@ All three start with choosing the right ducted unit for the house. Mitsubishi El
 
 ## ZoneIQ for Mitsubishi Electric ducted systems
 
-A standard ducted system runs from one thermostat and sends air to every room at once. Mitsubishi Electric's ZoneIQ changes that. According to Mitsubishi Electric, it:
+ZoneIQ gives a Mitsubishi Electric ducted system room by room control, where a standard ducted system runs from one thermostat and sends air to every room at once. According to Mitsubishi Electric, it:
 
 - controls up to 10 zones
 - can use a sensor in each zone that reports temperature and humidity to the main controller
@@ -54,6 +54,8 @@ Lossnay is Mitsubishi Electric's balanced pressure ventilation system. Mitsubish
 
 ## What we check before fitting a Mitsubishi Electric ducted system
 
+Before we fit a Mitsubishi Electric ducted system, we check six things on site:
+
 - **Ceiling access and height.** Whether a standard or splittable unit is needed to get into the roof space.
 - **Duct routes.** Clear paths from the indoor unit to every outlet, with no crushed or tightly bent ducts.
 - **Return air.** A central grille position where air can flow back from the rooms, with a filter you can reach.
@@ -63,7 +65,7 @@ Lossnay is Mitsubishi Electric's balanced pressure ventilation system. Mitsubish
 
 ## Mitsubishi Electric or Daikin?
 
-We install both, along with Fujitsu and Toshiba. If you'd like to see the alternatives, we'll set the Mitsubishi Electric option for your house beside a [Daikin ducted system](/daikin-ducted-heat-pumps-christchurch/). For how ducted compares with wall units in general, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
+We install both, along with Fujitsu and Toshiba, so the choice comes down to which suits your house. If you'd like to see the alternatives, we'll set the Mitsubishi Electric option for your house beside a [Daikin ducted system](/daikin-ducted-heat-pumps-christchurch/). For how ducted compares with wall units in general, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
 
 ## Looking after a Mitsubishi Electric ducted system
 

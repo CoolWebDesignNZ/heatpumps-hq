@@ -29,11 +29,11 @@ related:
 
 ## Heat pump installation for CBD apartments and townhouses
 
-Living in the Central City mostly means an apartment or a townhouse built during the rebuild, with a scattering of older cottages that survived. Newer buildings tend to be well sealed, double glazed and compact. That makes heating the easy part. Getting rid of heat can be the harder one: a north or west facing apartment with a wall of glass can get uncomfortably warm on a summer afternoon, so we look at cooling capacity as well as heating when we size a unit.
+Heat pump installation in the CBD mostly means apartments and townhouses built during the rebuild, because that's how most people live in the Central City, with a scattering of older cottages that survived. Newer buildings tend to be well sealed, double glazed and compact. That makes heating the easy part. Getting rid of heat can be the harder one: a north or west facing apartment with a wall of glass can get uncomfortably warm on a summer afternoon, so we look at cooling capacity as well as heating when we size a unit.
 
 ## Body corporate rules come first in the Central City
 
-An apartment or a unit-titled townhouse sits inside a set of building rules. Before we quote a final layout, find out what your body corporate allows. Questions worth asking:
+Check your body corporate rules before anything else, because an apartment or a unit-titled townhouse sits inside a set of building rules. Before we quote a final layout, find out what your body corporate allows. Questions worth asking:
 
 - Can an outdoor unit sit on the balcony, or does it have to go in a shared plant space?
 - Are there rules about equipment visible on the facade?
@@ -52,6 +52,8 @@ Outside, the coil needs room to breathe. A unit jammed into a balcony corner rec
 The Christchurch District Plan sets its own noise limits for the Central City, separate from the suburbs. Apartments put bedrooms close together, and a unit outside your lounge may sit metres from someone else's window. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how noise is judged and what helps.
 
 ## Heat pump installs, service and repair in the CBD
+
+For Central City apartments and townhouses we install new units, clean and check the ones handed over with the building, and diagnose faults:
 
 - **Installing** compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where outdoor space allows only one unit. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Cleaning and checking** units that were handed over with the apartment and may have had no attention since. Details are on our [servicing page](/maintenance-servicing/).
