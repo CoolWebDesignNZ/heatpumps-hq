@@ -53,7 +53,7 @@ Do these in autumn, while it's still mild.
 
 Before winter, check the things your part of Christchurch is hard on.
 
-- **Frosty flat suburbs.** In [Spreydon](/spreydon/) and [Oaklands](/oaklands/), still, frosty mornings are the norm in winter. Check the outdoor unit still sits level on its feet or bracket, with somewhere for the defrost water to go.
+- **Frosty flat suburbs.** On the flat south-west side in [Oaklands](/oaklands/) and [Spreydon](/spreydon/), cold, still mornings bring frost, and the outdoor unit sits on raised feet or a bracket. Check it's still level, with somewhere for the defrost water to drain.
 - **Low ground and big trees.** In [Beckenham](/beckenham/), by the river and under big old trees, clear the leaves from round the unit. It should sit up clear of soggy ground and garden beds.
 - **Salt on the easterly.** In [Avondale](/avondale/), a few kilometres from the coast, an easterly brings in some salt. Give the outdoor coil a gentle rinse when you clear round it in autumn.
 - **Heat pumps that run every evening.** In [Linwood](/linwood/), a heat pump that runs every winter evening gets dusty fast. Book the yearly service before the cold sets in.

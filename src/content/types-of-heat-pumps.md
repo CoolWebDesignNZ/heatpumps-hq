@@ -78,7 +78,7 @@ A ducted heat pump hides the indoor unit, usually in the roof space. Warm air go
 
 ## Types of heat pumps for Christchurch houses
 
-Christchurch has most kinds of house, and each one leans towards a type.
+The kind of Christchurch house you have usually points to a type.
 
 - **Cottages and villas with tall ceilings.** In [Lyttelton](/lyttelton/), many homes are timber cottages and villas with high ceilings and sash windows. A floor console under a window can suit those rooms, and it works where a fireplace takes up the wall.
 - **Open plan homes in newer subdivisions.** In [Wigram](/wigram/), one well placed high wall unit can often heat a whole open plan living area. Bedrooms need a second unit or a multi split.
