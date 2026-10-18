@@ -34,6 +34,12 @@ p, ul, ol { margin: 0 0 1.1em; }
 .section { padding: 88px 0; }
 .section.warm { background: var(--paper-warm); }
 .section.tint { background: var(--brand-tint); }
+.band { padding: 64px 0; }
+.band + .band { padding-top: 64px; }
+.band-tint { background: var(--brand-tint); }
+.band .prose > h2:first-child { margin-top: 0; }
+.prose ul li::marker { color: var(--brand); }
+@media (max-width: 860px) { .band { padding: 44px 0; } }
 .lead { font-size: 1.22rem; color: var(--ink-soft); }
 .prose h2 { margin-top: 1.6em; }
 .prose > :first-child { margin-top: 0; }
