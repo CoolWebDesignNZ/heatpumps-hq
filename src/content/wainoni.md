@@ -29,9 +29,9 @@ related:
 
 Most Wainoni homes need two things. A heat pump sized for older insulation, and a plan for the bedrooms. Much of the suburb was built from the 1950s to the 70s. It's a mix of state and private houses.
 
-- **A separate lounge with three bedrooms off a hallway.** That's the typical single storey layout, with a kitchen and dining area alongside. A lounge unit warms the lounge and not much else. The bedrooms need heating of their own. The options are below.
+- **A separate lounge with three bedrooms off a hallway.** That's the typical single storey layout, with a kitchen and dining area alongside.
 - **Ceiling insulation added, walls and windows mostly not.** Many have had the ceiling done. Fewer have wall insulation or double glazing. Heat gets out through the walls and single glazing. So the unit needs more capacity than the room size alone suggests.
-- **Weatherboard or brick on piles.** The space under the floor often lets us run the pipes underneath. They come out to an outdoor unit on a side wall, out of sight.
+- **Weatherboard or brick on piles.** The space under the floor often lets us run the pipes underneath.
 
 ## Sizing a heat pump for an older Wainoni house
 
@@ -43,11 +43,7 @@ Planning to insulate? Let us know. It can change the size we suggest.
 
 ## Getting heat to Wainoni bedrooms
 
-A heat pump in a Wainoni lounge warms the lounge. Shut bedroom doors and a narrow hallway keep most of that heat where it is. For warmer bedrooms, there are three usual options:
-
-- a second small wall unit
-- a [multi-room system](/multi-room-heat-pump-installation/)
-- a floor console, in a room without good wall space up high
+A heat pump in a Wainoni lounge warms the lounge. Shut bedroom doors and a narrow hallway keep most of that heat where it is. For warmer bedrooms, add a second small wall unit, or a [multi-room system](/multi-room-heat-pump-installation/) that runs several indoor units off one outdoor unit. In a room without good wall space up high, a floor console does the job instead.
 
 ## Pipe runs and outdoor units on piles
 

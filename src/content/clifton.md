@@ -33,11 +33,11 @@ Three things shape the heat pump for a Clifton home. Houses are built over sever
 
 - **Heat loss through glass and wind.** Many houses here are rebuilds, or have had major repairs since the earthquakes. So most are well insulated. The main loss is through the windows facing the view. An exposed house also loses heat faster on a windy night. We size for a cold, windy evening, not a still one.
 - **More than one level.** Warm air rises. If the bedrooms are on a lower floor than the living area, they stay cold. A separate unit for the lower level keeps both warm. So does a [multi-room system](/multi-room-heat-pump-installation/) with an indoor unit on each floor.
-- **A hard site.** Some sites have needed rockfall or slope protection. Many are reached by steps. The outdoor unit needs a spot that's sheltered, solid and easy to reach for servicing. More on that below.
+- **A hard site.** Some sites have needed rockfall or slope protection. Many are reached by steps. The outdoor unit needs a spot that's sheltered, solid and easy to reach for servicing.
 
 ## Heat pump installation across Clifton's split levels
 
-Clifton houses are often built over several levels. The living area is on top for the view. The garage or entry is below. The best place for the indoor unit can be a long way from the only spot that works for the outdoor unit. The maker limits both the pipe length and the rise between the two units. We confirm your model fits inside those limits.
+In a Clifton house, the living area is often on top for the view. The garage or entry is below. The best place for the indoor unit can be a long way from the only spot that works for the outdoor unit. The maker limits both the pipe length and the rise between the two units. We confirm your model fits inside those limits.
 
 Where the pipes cross floors, we look for a path through the garage or a service cavity. Otherwise they run outside, under neat ducting. Some homes are reached by steep paths or steps, with no driveway. Carrying the gear in is built into the quote.
 

@@ -50,7 +50,7 @@ related:
 
 It's the indoor unit most people picture. A long, slim box mounted high on the wall, joined by pipes to an outdoor unit outside. It pulls air in through the top, heats or cools it, and blows it out across the room.
 
-It suits most modern rooms. Open plan living areas. Bedrooms. Studios and home offices. Rooms with standard ceilings, where warm air doesn't get stuck up high. It also suits you if you want good cooling on a hot afternoon, or if you'd rather keep the floor clear for furniture.
+It suits most modern rooms with standard ceilings, where warm air doesn't get stuck up high: open plan living areas, bedrooms, studios and home offices. It also suits you if you want good cooling on a hot afternoon, or if you'd rather keep the floor clear for furniture.
 
 ## Where a wall mounted heat pump goes in the room
 
@@ -65,7 +65,7 @@ In a bedroom, we aim the airflow along the room, not at the pillow.
 
 ## High wall heat pumps for Christchurch homes
 
-Christchurch housing decides a lot about where a wall unit works. These are the patterns we see.
+Christchurch housing decides a lot about where a wall unit works.
 
 - **Open plan new builds.** In [Wigram](/wigram/), [Rolleston](/rolleston/) and [Prebbleton](/prebbleton/), insulated walls, ceilings and double glazing keep heat loss low. One high wall unit sized right can heat the kitchen, dining and living area on its own.
 - **Brick homes with standard ceilings.** The single storey brick and tile houses in [Avonhead](/avonhead/) suit a high wall unit, because warm air doesn't get stuck high like it does under a tall villa ceiling. The bungalows in [Beckenham](/beckenham/) have lower ceilings too, so a wall unit heats the lounge well.

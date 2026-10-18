@@ -47,12 +47,7 @@ Every room you add costs more. Each needs a vent in the ceiling, or the floor, a
 
 ## Roof space, ceiling depth and duct runs
 
-Roof space and ceiling depth decide how easily the indoor unit and ducts fit. These all make the job harder:
-
-- a low pitch roof
-- tight trusses
-- a skillion roof
-- a ceiling packed with downlights and services
+Roof space and ceiling depth decide how easily the indoor unit and ducts fit. A low pitch roof, tight trusses, a skillion roof or a ceiling packed with downlights and services all leave less room to work, and that makes the job harder.
 
 Makers build units for tighter spaces. Take Daikin's [New Zealand ducted range](https://www.daikin.co.nz/pages/ducted-heat-pumps). It has a slim-line series for jobs where ceiling space is limited. It also has a model 700mm deep, designed for New Zealand homes. A slimmer unit can turn a hard job into a simple one. But they only come in certain sizes.
 
@@ -74,13 +69,13 @@ In an existing home, we work round what's there. We lift and relay the ceiling i
 
 ## The cost of replacing an old ducted heat pump
 
-It depends on what can be reused. Here's what we check:
+It depends on what can be reused:
 
-- the condition and insulation of the old ducts
-- whether the ducts are sized for the new unit's airflow
-- where the old indoor and outdoor units sit
-- the old refrigerant pipes, and which refrigerant the old system used
-- the power supply and isolating switch
+- **The old ducts.** Their condition and insulation decide whether they can stay.
+- **Duct size.** The ducts have to be sized for the new unit's airflow, or they need replacing.
+- **Where the old units sit.** If the spots still suit, the new indoor and outdoor units can go there.
+- **The old refrigerant pipes.** The new unit may need a different pipe size, and we need to know which refrigerant the old system used.
+- **The power supply and isolating switch.** A bigger unit can need electrical work before it goes in.
 
 Old refrigerant has to be recovered, not let out. Some makers build units designed to replace old R22 ducted systems. For example, Daikin's NZ site lists retrofit capability for one of its inverter ducted series.
 
@@ -94,7 +89,7 @@ Some ducted systems can be paired with a heat recovery ventilation unit. It's a 
 
 ## What a ducted heat pump price should include
 
-A ducted quote should spell out:
+A ducted quote should spell out each of these, so you can compare one quote with another:
 
 - the brand, model and heating output of the indoor and outdoor units
 - how many vents, where they go, and where the return air grille goes

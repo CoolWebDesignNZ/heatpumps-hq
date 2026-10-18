@@ -32,7 +32,7 @@ related:
 Near the New Brighton shops, the first question is simple. Does your home stand on its own, or share a wall? Older houses sit next to blocks of flats. There are units built behind the original homes, and newer townhouses. Sections are smaller than in the rest of the area.
 
 - **Standalone older houses.** They lose heat through the roof, walls and windows on every side. We size the unit for that. It's worth checking the ceiling insulation first.
-- **Flats and units.** They share at least one wall, so they lose less heat. A small high wall unit often heats the living area. The harder question is where the outdoor unit can go. And how close it ends up to someone else's bedroom.
+- **Flats and units.** They share at least one wall. A small high wall unit often heats the living area. The harder question is where the outdoor unit can go. And how close it ends up to someone else's bedroom.
 - **Newer townhouses.** They're usually better insulated than the houses around them. But they're close to the neighbours too. So noise and the pipe run decide where the outdoor unit goes.
 
 ## Sizing heat pumps for New Brighton Central flats
@@ -41,7 +41,7 @@ A flat with neighbours on both sides loses less heat than a standalone house the
 
 ## Fitting outdoor units on tight sites
 
-When there's little or no yard, we look at:
+With little or no yard, the outdoor unit needs more thought than the indoor one:
 
 - **Wall brackets.** High enough to keep the unit off the ground and clear of paths.
 - **Balconies and decks.** Only if the unit can breathe and drain properly.

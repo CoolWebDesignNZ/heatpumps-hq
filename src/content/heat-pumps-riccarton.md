@@ -29,7 +29,7 @@ related:
 
 In Riccarton, the right heat pump comes down to what kind of home it is. If it's rented, the Healthy Homes heating standard matters too. Riccarton runs from the edge of Hagley Park out along Riccarton Road. Lots of homes here are rentals, and plenty are let to students from the university nearby.
 
-- **Villas and bungalows:** the older streets have high ceilings, sash windows and timber floors up off the ground. Heat escapes through all three. These homes need a unit sized for the volume of the room. More on that below.
+- **Villas and bungalows:** the older streets have high ceilings, sash windows and timber floors up off the ground. Heat escapes through all three.
 - **Flats cut out of villas:** some only have a plug-in heater. One high wall unit in the living room usually sorts it. We size it to what the heating standard needs for that room.
 - **Townhouses and units:** infill homes are tight and well insulated. A unit downstairs heats the ground floor easily. It can't reach the bedrooms upstairs, though. They need a small unit of their own, or a multi-room system.
 
@@ -47,7 +47,7 @@ We size rental units to the living room, so you meet the capacity. We can also s
 
 ## Riccarton townhouses and units
 
-A two storey townhouse usually needs heat upstairs and down. A [multi-room system](/multi-room-heat-pump-installation/) runs off one outdoor unit. That saves wall space outside, which matters on a narrow section.
+For heat upstairs and down, a [multi-room system](/multi-room-heat-pump-installation/) runs off one outdoor unit. That saves wall space outside, which matters on a narrow section.
 
 Riccarton comes under the Christchurch District Plan. It measures the noise at the neighbour's site. So we plan where the unit goes when we quote. The limits are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
@@ -58,8 +58,6 @@ A lot of Riccarton properties are run by property managers, not the owners. We c
 After a service, we'll report on each heat pump. We cover the filters, the drain and the outdoor coil, and whether it's heating as it should. That gives you a record for the tenancy file.
 
 ## Heat pump service work we do in Riccarton
-
-We do three kinds of heat pump work in Riccarton:
 
 - **Installs:** Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing:** for owners, landlords and property managers.

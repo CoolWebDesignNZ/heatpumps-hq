@@ -27,7 +27,7 @@ related:
 
 ## Why cold weather changes the heat pump you need
 
-A heat pump warms your house by pulling heat out of the outside air. The colder that air, the harder the job. Two things happen on a frosty Canterbury night.
+A heat pump warms your house by pulling heat out of the outside air. The colder that air, the harder the job, and a frosty Canterbury night makes it harder in two ways.
 
 - **The house needs more heat just when the air has less to give.** Some models keep their output up as it gets colder. Others drop off.
 - **Frost forms on the outdoor coil.** EECA explains that below 5.5°C outside, the unit has to deal with frost. It has to use some of its heating power to defrost the coil.
@@ -36,11 +36,11 @@ A cold climate heat pump copes with both. It keeps enough output to hold the roo
 
 ## What to look for in a cold climate heat pump
 
-Check three figures for the exact model. The 2°C heating output. The Cold zone heating stars. And the heating operating range.
+Check these three figures for the exact model, not just the brand.
 
 ### The 2°C heating figure on the label
 
-New heat pump models sold here carry the Zoned Energy Rating Label. It shows the heating output at two outdoor temperatures, 7°C and 2°C. Here's EECA's advice. If your winter nights get down to 2°C or lower, check the 2°C figure is the same as the 7°C one, or higher. Use it to compare models. Some units don't cope well with frost. They give less heat at 2°C than at 7°C.
+New heat pump models sold here carry the Zoned Energy Rating Label. It shows the heating output at two outdoor temperatures, 7°C and 2°C. EECA's advice is that if your winter nights get down to 2°C or lower, you check the 2°C figure is the same as the 7°C one, or higher. Use it to compare models. Some units don't cope well with frost. They give less heat at 2°C than at 7°C.
 
 EECA sets this out in [The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
 
@@ -50,7 +50,7 @@ On the label, all of New Zealand is in the Cold zone. The heating stars there sh
 
 ### The heating operating range
 
-Makers state the lowest outdoor temperature a model will keep heating at. It varies a lot from model to model. So check the exact model, not just the brand. Here's one example. Mitsubishi Electric says its HyperCore heat pumps can heat down to minus 25°C. It also says it guarantees full rated heating output down to minus 15°C on certain models ([Mitsubishi Electric NZ, HyperCore technology](https://www.mitsubishi-electric.co.nz/publications/heat-pump/Heat-Pump-HyperCore-Technology-South-Island)). Note the gap between those two numbers. Running at a temperature isn't the same as giving full output at it.
+Makers state the lowest outdoor temperature a model will keep heating at. It varies a lot from model to model. So check the exact model, not just the brand. For example, Mitsubishi Electric says its HyperCore heat pumps can heat down to minus 25°C. It also says it guarantees full rated heating output down to minus 15°C on certain models ([Mitsubishi Electric NZ, HyperCore technology](https://www.mitsubishi-electric.co.nz/publications/heat-pump/Heat-Pump-HyperCore-Technology-South-Island)). Note the gap between those two numbers. Running at a temperature isn't the same as giving full output at it.
 
 ### A base heater or de-icer
 

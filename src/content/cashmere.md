@@ -31,8 +31,8 @@ related:
 
 In Cashmere, the big question is where the house sits. On the flat, or up the hill?
 
-- **On the flat.** Lower Cashmere has established family homes on level sections near the river. The outdoor unit can sit on a pad beside the house. So the choices are indoors. A high wall unit sized for the living area. Then bedroom units or a [multi-room system](/multi-room-heat-pump-installation/) if you want the bedrooms warm. We check the ceiling and underfloor insulation and the windows to set the capacity.
-- **On the hill.** Houses climb the north face of the Port Hills. There are winding driveways and sections cut into the slope. Decks are built for the view over the city and plains. Big windows lose heat after dark. Rooms sit on different levels. Level ground for the outdoor unit is hard to find. We cover each of those below.
+- **On the flat.** Lower Cashmere has established family homes on level sections near the river. The outdoor unit can sit on a pad beside the house. So the choices are all indoors: a high wall unit sized for the living area, then bedroom units or a [multi-room system](/multi-room-heat-pump-installation/) if you want the bedrooms warm. We check the ceiling and underfloor insulation and the windows to set the capacity.
+- **On the hill.** Houses climb the north face of the Port Hills. There are winding driveways and sections cut into the slope. Decks are built for the view over the city and plains. Rooms sit on different levels. Level ground for the outdoor unit is hard to find.
 
 ## Sun, views and glass in Cashmere
 

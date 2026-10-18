@@ -44,11 +44,9 @@ A heat pump pulls a lot of room air through its indoor unit. Over months of use:
 - **Mould grows.** It likes the damp coil and the drain tray. Most of all after cooling or dry mode in humid weather.
 - **The fan spreads it.** Every time the unit starts, it blows air over that build-up and into the room.
 
-Signs to look for. Sneezing, itchy eyes or a cough that get worse when it's on. A musty smell when it starts. Dark specks on the louvres.
+The signs are sneezing, itchy eyes or a cough that get worse when it's on, a musty smell when it starts, and dark specks on the louvres.
 
 ## What helps when a heat pump triggers asthma
-
-Four things help. A clean unit, inside and out. A drier house. The right filters. And less dust in the room.
 
 ### Clean filters
 

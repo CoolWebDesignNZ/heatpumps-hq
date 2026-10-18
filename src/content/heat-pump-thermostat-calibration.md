@@ -33,7 +33,7 @@ So the unit only knows how warm the air is at its own intake. On a wall-mounted 
 
 ## Why the room feels colder than the setting
 
-The unit reads the air at its intake. Where you sit can be several degrees cooler than the number on the remote. Here's why that happens:
+The unit reads the air at its intake. Where you sit can be several degrees cooler than the number on the remote.
 
 - **Warm air near the ceiling.** High or raking ceilings, or a stairwell nearby, keep the air at the unit warmer than the air at couch height. The unit thinks its job is done.
 - **Sun or heat near the unit.** Afternoon sun on the wall, or a TV underneath, warms the intake air. That fools the sensor.
@@ -52,19 +52,15 @@ Sometimes the reading's right but the room still never warms up. Then the heat p
 
 ## What our heat pump thermostat and temperature sensor check includes
 
-Our check has five steps. It starts with a reading at seated height. It ends with whether the unit can heat the space at all.
-
 1. **Measure the room.** We take the temperature at seated height with a calibrated thermometer. Then we compare it with what the unit reads.
 2. **Test the sensors.** We test each thermistor against the resistance values in the maker's service information. If one reads out of range, we replace it.
-3. **Check the settings.** Mode, fan speed, louvre direction and any temperature limits set in the controller.
+3. **Check the settings.** Mode, fan speed, louvre direction and any temperature limits set in the controller. Any one of them can hold the room below the setting.
 4. **Check where the controller is.** On ducted systems and units with a wired controller, we look at where it's mounted. We check whether it's set to read the room or the return air.
 5. **Check the output.** Filters, coils and refrigerant readings. That tells us whether the unit can heat the space at all.
 
 You get a straight answer on which one is causing the problem. And you get a fixed price for anything that needs fixing.
 
 ## Getting the heat pump thermostat setting right
-
-In winter, use Heat mode. Pick one steady temperature. Leave the fan on auto.
 
 - **Heat, not Auto:** in winter, choose **Heat** rather than **Auto**. That stops the unit swapping to cooling when the room overshoots.
 - **One temperature:** pick it and leave it. Nudging it up and down makes the unit work harder for nothing.

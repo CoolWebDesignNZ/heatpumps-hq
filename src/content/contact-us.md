@@ -24,8 +24,6 @@ related:
 
 ## How to contact Heat Pumps HQ
 
-Phone, email, or find us on Facebook.
-
 - **Phone:** [03 242 1023](tel:032421023)
 - **Email:** [info@heatpumps-christchurch.co.nz](mailto:info@heatpumps-christchurch.co.nz)
 - **Hours:** Monday to Friday, 8am to 5pm
@@ -43,10 +41,9 @@ Have a few details handy when you call. Then we can give you a useful answer str
 
 **For a new heat pump**
 
-- Which rooms you want heated, and roughly how big they are.
+- Which rooms you want heated, and roughly how big they are. Several rooms can run off one outdoor unit with a [multi-room installation](/multi-room-heat-pump-installation/).
 - Whether the ceiling and underfloor are insulated. Whether the windows are single or double glazed.
 - Photos of where the outdoor unit could go. Show the wall, the ground below it and the gap to the fence.
-- One room or several. Several rooms can run off one outdoor unit with a [multi-room installation](/multi-room-heat-pump-installation/).
 
 **For a repair or service**
 

@@ -35,7 +35,7 @@ In Dallington, what happened to a house after the earthquakes matters more than 
 
 ## Checking a Dallington house before we size the heat pump
 
-Before we suggest a size, we look at four things:
+Before we suggest a size, we check what the repairs or rebuild left behind and how you live in the house:
 
 - **Ceiling and underfloor insulation.** Repair work sometimes disturbed it. It wasn't always put back.
 - **Windows.** Some repaired homes still have the original single glazing.

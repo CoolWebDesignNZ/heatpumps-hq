@@ -27,18 +27,18 @@ related:
 
 ## What decides heat pump power usage
 
-A heat pump only uses as much power as the job needs. Here's what drives it:
+A heat pump only uses as much power as the job needs, so anything that makes the job bigger shows on the bill.
 
 - **How cold it is outside.** The colder it gets, the more power it takes to bring the same heat in. A frosty week uses more than a mild one. Defrost cycles add to it.
 - **The set temperature.** Every degree higher means more heat to replace. That heat's lost through the walls, windows and roof.
 - **The house.** Insulation, double glazing, curtains and draught stopping decide how fast heat leaks out.
-- **How long it runs.** Hours a day, how many rooms, and whether doors are left open to the rest of the house.
+- **How long it runs.** Hours a day, how many rooms, and whether doors are left open to the rest of the house. The more space and hours it heats, the more it uses.
 - **The unit's size and rating.** A well-sized, well-rated unit running gently uses less than a small one running flat out.
 - **Its condition.** Dirty filters and coils, or low refrigerant, mean it runs longer for the same heat.
 
 ## Using the energy label to estimate heat pump running cost
 
-Here's how to estimate a heat pump's running cost from its label. Add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate. That's EECA's suggestion for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. EECA says they're only a guide, because every household uses power differently ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
+To estimate a heat pump's running cost from its label, add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate. That's EECA's suggestion for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. EECA says they're only a guide, because every household uses power differently ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
 
 So the label is good for comparing two models. It's not so good at predicting your bill. There's more on the label in our [energy rating guide](/energy-star-heat-pumps/).
 
@@ -52,7 +52,7 @@ To know how much power your heat pump uses in your house, you have to measure it
 
 ## When heat pump energy consumption seems too high
 
-Has your bill gone up while the weather and your habits stayed the same? The heat pump may be working harder than it should. Here's what we check on a visit:
+Has your bill gone up while the weather and your habits stayed the same? The heat pump may be working harder than it should, and a visit finds out why.
 
 1. **Settings and timers.** Mode, set temperature, fan speed and schedules. On auto, a unit can switch to cooling on a sunny afternoon. A forgotten timer can run it in an empty house.
 2. **Filters, indoor coil and fan.** Dust and mould cut airflow and output.

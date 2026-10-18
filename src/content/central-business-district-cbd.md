@@ -34,7 +34,7 @@ In a Central City apartment or townhouse, winter's not the only challenge. The h
 - **Rebuild apartments and townhouses.** This is how most people live in the Central City. They're well sealed, double glazed and compact. They hold heat, so they need less capacity than an older house the same size. A north or west facing apartment with a wall of glass can get too hot on a summer afternoon. So we size for the cooling as well as the heating. In an open plan apartment, one high wall unit usually covers the lounge and kitchen.
 - **Older cottages that survived.** These lose far more heat through the ceiling, floor and windows. Their rooms close off from each other. They need more capacity per room. The bedrooms usually need their own unit.
 
-Before we quote, we check three things. Which way the glass faces. Where an outdoor unit could actually go. And what the body corporate allows.
+Before we quote, we check which way the glass faces, where an outdoor unit could actually go, and what the body corporate allows.
 
 ## Body corporate rules come first in the Central City
 
@@ -58,9 +58,7 @@ The Christchurch District Plan has its own noise limits for the Central City. Th
 
 ## Heat pump installs, service and repair in the CBD
 
-Here's what we do for Central City apartments and townhouses:
-
-- **Installs.** Compact wall units. Or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. The brands we put in are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs.** Compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. The brands we put in are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Cleaning and checks.** Units handed over with the apartment may not have been touched since. We give the filters, coil and fan a proper clean with a [service](/maintenance-servicing/).
 - **Fault finding.** Apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
 

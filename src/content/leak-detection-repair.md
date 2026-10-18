@@ -29,14 +29,14 @@ related:
 
 ## Heat pump leaking water or refrigerant?
 
-These are two different problems with two different fixes. Water is condensation or defrost meltwater. Refrigerant is the sealed gas in the pipes.
+These are two different problems with two different fixes.
 
 - **Water** comes from condensation. When the indoor unit cools or dries the air, moisture forms on the cold coil. It drips into a tray and runs away down a drain hose. In heating mode, the outdoor unit makes the water instead, when it defrosts.
 - **Refrigerant** is the gas sealed inside the copper pipes. It carries heat between the two units. It should never get out. If it does, the unit loses heating power and stops in the end.
 
 ## Heat pump leaking water inside
 
-Water dripping from the indoor unit, or staining the wall below it? It's nearly always the drainage. Here's what we look for:
+Water dripping from the indoor unit, or staining the wall below it? It's nearly always the drainage.
 
 - **A blocked drain.** Dust, mould slime and the odd insect build up in the tray and hose. In the end, water can't get past.
 - **A kinked, sagging or crushed hose.** Water sits in the low spot and backs up into the unit. It can happen where a hose runs inside a wall or behind a cover.
@@ -63,8 +63,6 @@ A heat pump refrigerant leak is usually slow. The signs build up bit by bit. Wat
 Leaks tend to start at joints. The flare joints where the pipes meet the units are the usual spot. Pipes rubbing on a bracket or wall can cause them too. So can corrosion on the outdoor coil.
 
 ## How we find and repair a refrigerant leak
-
-We confirm the charge is low. We find where the gas is getting out. Then we fix it and recharge the system.
 
 1. **Pressure and temperature readings** tell us if the charge is low.
 2. **Electronic leak detection and bubble testing** around the joints, valves and coils pinpoints where it's escaping.

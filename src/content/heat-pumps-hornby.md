@@ -46,8 +46,6 @@ Hornby is on the flat western edge of the city. Clear winter nights out here bri
 
 ## Heat pump installs, service and repair in Hornby
 
-Here's what we do in Hornby:
-
 - **Installs.** Wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing.** Filter and coil cleans, plus a drain check. See [heat pump servicing](/maintenance-servicing/).
 - **Repairs.** Units that have stopped heating, are leaking water or show a fault light. See [heat pump repairs](/heat-pump-repair/).

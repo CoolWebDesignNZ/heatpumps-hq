@@ -27,11 +27,7 @@ related:
 
 ## Heat pump installation on the North New Brighton beachfront
 
-On the North New Brighton streets nearest the dunes, nothing breaks the sea wind before it hits the house. A house a few kilometres inland wouldn't face this. Here it shapes the whole install:
-
-- **The outdoor unit.** It needs a spot sheltered from the easterly that doesn't box it in. More on how we pick one below.
-- **The indoor unit.** It has to make up for the heat the wind pulls from walls and windows. We size it from your rooms, glazing and insulation. We set it up to run steadily, not in bursts.
-- **The model.** Before we quote it, we check it against the maker's advice for coastal installs.
+On the North New Brighton streets nearest the dunes, nothing breaks the sea wind before it hits the house. A house a few kilometres inland wouldn't face this. Here it shapes the whole install, from where the outdoor unit goes to the model we quote and how the indoor unit is set to run.
 
 ## Wind, salt and sand on the dune streets
 
@@ -53,11 +49,7 @@ Coastal homes can feel cold and damp even when it isn't freezing. The wind pulls
 
 ## Heat pump service by the North New Brighton dunes
 
-Units close to the sea need more looking after than most:
-
-- Rinse the outdoor coil gently every few months.
-- Keep sand cleared from around the base.
-- Book a [service](/maintenance-servicing/) once a year.
+Units close to the sea need more looking after than most. Rinse the outdoor coil gently every few months to get the salt off, keep sand cleared from around the base so air can get in, and book a [service](/maintenance-servicing/) once a year.
 
 Seeing rust spots, white crust on the fins or weaker heating? Get it checked before the damage spreads. We sort that under [heat pump repairs](/heat-pump-repair/).
 

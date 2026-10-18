@@ -32,7 +32,7 @@ related:
 A Kennedys Bush home loses heat faster than a house in a sheltered street. So the heat pump has to be sized for the exposure and the glass. And the outdoor unit has to go on ground that's hardly ever level.
 
 - **Homes built for the view.** Many look across the plains to the Southern Alps, with big windows on that side. We size that room's unit from how much glass there is and which way it faces. Floor area alone isn't enough.
-- **Two storey and split level homes.** Living is often upstairs, with bedrooms below. Each level needs heat, as set out further down.
+- **Two storey and split level homes.** Living is often upstairs, with bedrooms below. Each level needs heat.
 - **Sloping sections with decks instead of lawn.** The outdoor unit ends up on a bracket, on the deck or under it. Each spot needs its own drain path.
 
 Homes here line the winding roads up the western Port Hills above Halswell. Driveways are often steep. At the quote we check access for the install and for servicing later. Then we price the brackets and pipe runs your site needs.

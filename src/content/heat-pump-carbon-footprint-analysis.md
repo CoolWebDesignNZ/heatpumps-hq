@@ -29,9 +29,9 @@ related:
 
 A heat pump burns nothing in your house. Its carbon footprint comes from three places.
 
-1. **The power it uses** over its working life. How much carbon that carries depends on two things. How clean the grid is. And how efficient the heat pump is.
+1. **The power it uses** over its working life. How much carbon that carries depends on how clean the grid is and how efficient the heat pump is.
 2. **The refrigerant.** The gases in heat pumps are greenhouse gases if they escape. A sealed, well fitted system keeps them in. A leaking one doesn't.
-3. **Making, shipping and disposal.** The metal, plastic and energy that go into the unit. And what happens to it at the end.
+3. **Making, shipping and disposal.** The metal, plastic and energy that go into the unit, and what happens to it at the end.
 
 ## New Zealand's renewable electricity and heat pump emissions
 
@@ -43,19 +43,17 @@ MBIE says strong hydro and new solar cut the need for natural gas that quarter. 
 
 A heat pump doesn't create heat. It shifts it in from outside. So it puts out more heat than the power it uses. EECA's label guide says a one star heat pump has a seasonal performance factor of 2.5 to 3. Units with more stars do better ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Less power for each bit of heat means lower emissions too.
 
-So two things shrink the power side of the footprint. A well rated unit, fitted right. Then running it well. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
+So a well rated unit, fitted right and run well, shrinks the power side of the footprint. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
 
 ## Refrigerant leaks and a heat pump's environmental impact
 
 Refrigerant only counts as an emission if it leaks out. Or if it's let out when the unit comes out. So the install and upkeep matter.
 
-- **Tight, tested joints** when it's fitted.
+- **Tight, tested joints** when it's fitted keep the gas in from the start.
 - **Servicing** that checks pressures. It spots a slow leak before the gas runs low. See [leak detection and repair](/leak-detection-repair/).
 - **Recovery at the end.** When an old unit comes out, the installer should recover the refrigerant, not vent it. We always recover it when we take out an old heat pump.
 
 ## Heat pump vs wood burner
-
-Weighing one against the other? They differ on air quality, the Christchurch rules, carbon and convenience.
 
 **Air quality.** A wood burner gives off smoke. Outside, and inside when you open the door to load it. The Cardiac and Respiratory Foundation NZ says newer wood and pellet burners burn fairly cleanly with dry, well seasoned wood. They still make some air pollution, though. The Foundation lists heat pumps as a good heating choice for breathing health ([Cardiac and Respiratory Foundation NZ, your home and your health](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/)).
 
@@ -71,10 +69,10 @@ Some homes have both. They use the heat pump day to day and the burner on the co
 
 Mostly, choose it well and look after it.
 
-- Get the size right, so it runs gently, not flat out.
-- Pick a model with good Cold zone heating stars.
-- Run it at a steady temperature. Use the timers.
-- Get it serviced every year, so leaks get caught early.
-- If the unit is sound, repair it. Don't replace it.
+- **Get the size right.** Then it runs gently, not flat out.
+- **Pick a model with good Cold zone heating stars.** More stars means less power for the same heat.
+- **Run it at a steady temperature and use the timers.** It doesn't have to work flat out to warm a cold house.
+- **Get it serviced every year.** Leaks get caught early.
+- **If the unit is sound, repair it.** Replacing it adds the carbon of making and shipping a new unit, and disposing of the old one.
 
 Want a heat pump that suits your house and runs efficiently? Give us a call on **[03 242 1023](tel:032421023)**, or [ask for a free fixed-price quote](/contact-us/).

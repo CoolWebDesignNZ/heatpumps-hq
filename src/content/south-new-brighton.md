@@ -30,7 +30,7 @@ related:
 In South New Brighton, which side you live on sets most of the plan. The suburb is a narrow stretch of land. The beach is on one side. The Avon Heathcote Estuary is on the other.
 
 - **Beach-side homes.** They take sea spray and the full easterly. The outdoor unit goes on the sheltered side of the house, out of the sea wind. Its coil needs rinsing often to keep the salt off.
-- **Estuary-side homes.** There's less spray here. But the air off the water is often damp. Low-lying sections can stay wet all winter. The outdoor unit sits on a raised base or wall bracket, clear of the wet ground. Indoor units go where they keep the bedrooms warm enough to stop condensation. More on that below.
+- **Estuary-side homes.** There's less spray here. But the air off the water is often damp. Low-lying sections can stay wet all winter.
 
 ## Damp homes near the estuary
 

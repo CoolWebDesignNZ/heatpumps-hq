@@ -29,19 +29,19 @@ related:
 
 On a Cracroft hill home, the site decides what's practical before the unit does. Cracroft sits on the Port Hills next to Cashmere. Three things about its homes shape the install.
 
-- **Steep sections.** Some homes sit well above or below the road. Level ground is hard to find, and the way in can be long. So the outdoor unit usually goes on a bracket or a deck. It has to be somewhere we can still reach for servicing.
-- **Houses built into the slope.** These run over two or more levels. One unit won't carry heat well up or down a flight of stairs. So the living level and the bedroom level usually get a unit each. The maker's limits on pipe length and height difference decide which model fits.
+- **Steep sections.** Some homes sit well above or below the road. Level ground is hard to find, and the way in can be long.
+- **Houses built into the slope.** These run over two or more levels. One unit won't carry heat well up or down a flight of stairs. The maker's limits on pipe length and height difference decide which model fits.
 - **Living rooms facing the view.** They look across the city, with lots of glass. Big windows lose heat fast after dark. So we size the living room unit for the glass, not just the floor area.
 
 ## Getting the gear to a Cracroft house
 
-Outdoor units are bulky and heavy. On a Cracroft section, the route from the van matters. Long flights of steps. Narrow paths down the side of the house. Decks with drops. We walk it when we come to quote. It affects how many people the job needs. Now and then it changes which unit is practical.
+Outdoor units are bulky and heavy. On a Cracroft section, the route from the van matters: long flights of steps, narrow paths down the side of the house, decks with drops. We walk it when we come to quote. It affects how many people the job needs. Now and then it changes which unit is practical.
 
 The same route matters for every service after that. A unit you can only reach by ladder over a drop is harder to look after. So we pick a spot that stays easy to get to.
 
 ## Mounting a heat pump on a Cracroft slope
 
-Flat, firm ground beside a hill home is hard to come by. These are the usual options:
+Flat, firm ground beside a hill home is hard to come by, so the outdoor unit usually goes in one of three places:
 
 - **A galvanised bracket on a solid wall.** High enough to clear the ground and let water drain.
 - **A deck.** Only if the framing can take the weight and vibration. Anti-vibration mounts stop the hum getting into the rooms inside.
@@ -55,7 +55,7 @@ Wind is the other thing. High, open spots take more wind and grit. So we look fo
 
 ## Heat pumps for split-level rooms in Cracroft
 
-In a split-level house, the living area and bedrooms are often on different floors with stairs between. Lots of these homes do well with two units. One for the living level, and a small, quiet one for the bedroom level. We size each one for its own room, glass included.
+In a split-level house, the living area and bedrooms are often on different floors with stairs between. Lots of these homes do well with two units, one for the living level and a small, quiet one for the bedroom level. We size each one for its own room, glass included.
 
 ## Around the Cracroft hills
 

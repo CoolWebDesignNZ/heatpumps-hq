@@ -32,10 +32,10 @@ related:
 In Upper Riccarton, the heat pump you need depends on the kind of home you have. It also depends on whether it's a rental that has to meet the heating standard. Older houses on full sections here have been split into flats. Others have made way for two or three townhouses. Student rentals sit on the same streets as family homes. So you'll find three quite different setups in one block.
 
 - **Small units and one-bedroom flats.** One compact high wall unit in the living area does it. We size it to that room's volume and glass. A bedroom behind a closed door won't get much of its heat.
-- **Infill townhouses over two levels.** These need heat upstairs too. Warm air from a downstairs unit won't reliably climb a narrow stairwell. So the bedrooms get a second small unit, or a head on a multi-room system.
-- **Older flats in converted houses.** They can lose heat through the ceiling and draughty doors and windows faster than a heat pump can easily put it back. We check those first, as set out below.
+- **Infill townhouses over two levels.** These need heat upstairs too.
+- **Older flats in converted houses.** They can lose heat through the ceiling and draughty doors and windows faster than a heat pump can easily put it back. We check those first.
 
-Upper Riccarton sits between Riccarton and the university, so many of these homes are rentals. For a rental, we size the living room unit to the capacity the standard requires. More on that next.
+Upper Riccarton sits between Riccarton and the university, so many of these homes are rentals.
 
 ## Meeting the heating standard in an Upper Riccarton rental
 

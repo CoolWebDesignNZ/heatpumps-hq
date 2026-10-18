@@ -47,7 +47,7 @@ Which rooms you need warm, and when. Who's home during the day. Say someone's ho
 ### Your existing heating
 
 - **Heat pumps.** Age and brand, output against the room, filter and coil condition, where the outdoor unit sits and the settings you use. Any one of these can be why a room stays cold.
-- **Other heaters.** Wood burners, gas heaters, panel and fan heaters, and how they work alongside the heat pumps. Two heaters working against each other waste power.
+- **Other heaters.** Wood burners, gas heaters, panel and fan heaters, and how they work alongside the heat pumps.
 - **Controls.** Timers and Wi-Fi controllers, and whether they're set to match your routine. A heat pump set for the wrong hours heats an empty house.
 
 ## What you get from the assessment

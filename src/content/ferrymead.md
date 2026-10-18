@@ -31,7 +31,7 @@ related:
 
 In Ferrymead, two things decide the heat pump. What type of home is it? And how much room is there outside for the outdoor unit? Ferrymead is the flat ground where the Heathcote River meets the estuary. It sits at the foot of the hills up to Mount Pleasant and Heathcote Valley.
 
-- **Townhouses, terraced units and apartments.** There are more of them every year. Most are recent and well insulated, so they lose little heat. One unit can heat an open plan floor. The hard parts are the upstairs bedrooms, covered below. Finding a spot for the outdoor unit is hard too, in a compact courtyard with neighbours on more than one side.
+- **Townhouses, terraced units and apartments.** There are more of them every year. Most are recent and well insulated, so they lose little heat. One unit can heat an open plan floor. The upstairs bedrooms are the hard part, and so is finding a spot for the outdoor unit in a compact courtyard with neighbours on more than one side.
 - **Older standalone homes.** They lose more heat through the ceiling, the floor and older windows. The rooms are usually closed off from each other. One large unit won't suit them. A lounge unit plus a smaller one in the main bedroom works better. So does a [multi-room system](/multi-room-heat-pump-installation/) with a unit in each room you use. We check the insulation before sizing. Topping it up can let each unit be smaller.
 
 For both, the outdoor spot comes down to noise at the neighbour's boundary and drainage on low ground.
@@ -50,7 +50,7 @@ If your home is unit titled, the outside walls and common areas may belong to th
 
 ## Heat pump installation for a Ferrymead townhouse
 
-In a modern Ferrymead townhouse, one [wall unit](/single-room-heat-pump-installation/) can often heat the open plan ground floor with ease. These homes are usually well insulated. The bedrooms upstairs are a different story. Warm air gathers at the top of the stairs. But closed bedroom doors keep it out. So a small second unit upstairs is a common choice. We size each unit from the room, its windows and how you use it.
+In a modern Ferrymead townhouse, one [wall unit](/single-room-heat-pump-installation/) can often heat the open plan ground floor with ease. The bedrooms upstairs are a different story. Warm air gathers at the top of the stairs. But closed bedroom doors keep it out. So a small second unit upstairs is a common choice. We size each unit from the room, its windows and how you use it.
 
 ## What we do in Ferrymead
 

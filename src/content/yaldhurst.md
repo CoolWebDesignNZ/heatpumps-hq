@@ -31,13 +31,12 @@ A Yaldhurst home needs two things from a heat pump. It has to be sized for hard 
 
 - **Lifestyle block houses and bigger homes on large sections.** These are often bigger than a city home. Living areas and bedrooms are spread out. One wall unit won't reach them all. They suit [ducted heating](/ducted-heat-pumps-christchurch/) if the roof space allows. Otherwise, two or three wall units go in the rooms you use every day.
 - **Homes in the newer subdivisions closer to town.** They're better insulated and more compact. A high wall unit in the open plan living area usually does it, with a smaller one for the bedrooms. Neighbours are close enough here that boundary noise counts.
-- **Sleepouts, studios and converted garages.** On a lifestyle property, each gets its own small unit. More on that below.
 
 At the quote we size every unit for the cold end of the range. We look at how exposed each wall is. Then we find an outdoor spot with shelter and somewhere for the defrost water to go.
 
 ## Heat pump installation sized for Yaldhurst frosts
 
-We size for the cold end of the range out here, not a mild day. A heat pump pulls heat from the outside air and moves it indoors. The colder it is outside, the less heat it can deliver. That's the opposite of what you need on a frosty morning. For an exposed house, we also look at units built to hold their output in the cold. See [cold climate heat pumps](/cold-climate-heat-pumps/).
+A heat pump pulls heat from the outside air and moves it indoors. The colder it is outside, the less heat it can deliver. That's the opposite of what you need on a frosty morning. For an exposed house, we also look at units built to hold their output in the cold. See [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 A ducted system puts a vent in each room. The indoor unit sits out of sight up in the roof. It suits a big Yaldhurst home that's lived in from end to end. If you only use a few rooms every day, wall units in those rooms cost less to run.
 

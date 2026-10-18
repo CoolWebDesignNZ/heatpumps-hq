@@ -35,8 +35,6 @@ Source: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditio
 
 ## How to read a heat pump's Zoned Energy Rating Label
 
-There are five parts to read. The zone map. The heating and cooling stars. The kWh per year. The capacity figures. And the noise figures.
-
 ### The map and the zones
 
 The label has a map of Australia and New Zealand split into three climate zones. Each zone has its own row of stars. All of New Zealand is in the **Cold** zone. The other two are for parts of Australia, so ignore them.
@@ -53,7 +51,7 @@ At the right-hand end of each row of stars is a kWh per year figure. There's one
 
 ### The capacity figures
 
-Near the top are three capacity numbers. Cooling at 35°C outside. Heating at 7°C outside. And heating at 2°C outside. If heating is its main job, size the unit on the 7°C heating figure. Do you get winter nights of 2°C or below? Then EECA says check the 2°C heating figure is the same as the 7°C one, or higher. That 2°C figure is the one to look at on [cold climate heat pumps](/cold-climate-heat-pumps/).
+Near the top are three capacity numbers: cooling at 35°C outside, heating at 7°C and heating at 2°C. If heating is its main job, size the unit on the 7°C heating figure. Do you get winter nights of 2°C or below? Then EECA says check the 2°C heating figure is the same as the 7°C one, or higher. That 2°C figure is the one to look at on [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 ### The noise figures
 
@@ -76,6 +74,6 @@ You might see heat pumps with the older Energy Rating Label. That's common on ex
 
 ## Comparing models for the most efficient heat pump
 
-To find the most efficient heat pump for your house, we size it for your rooms first. Then we show you three figures for each model we suggest. The Cold zone heating stars, the kWh figures and the 2°C heating capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
+To find the most efficient heat pump for your house, we size it for your rooms first. Then for each model we suggest, we show you the Cold zone heating stars, the kWh figures and the 2°C heating capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
 
 Call **[03 242 1023](tel:032421023)** or [request a free fixed-price quote](/contact-us/).

@@ -31,8 +31,6 @@ A heat pump can sit unused for months and still look fine. Its first real test i
 
 ## What a heat pump tune-up checks
 
-We check output and start-up. We check it's ready to defrost or drain. Then the filters, settings and sensors.
-
 **Heating or cooling output.** We run it in the mode you're about to rely on. We measure the air going into and out of the indoor unit. If it's weak, we look further at airflow or refrigerant. Before winter, not in the middle of it.
 
 **Start-up.** We watch the outdoor unit start, speed up and settle. Hesitating, cycling on and off, or a loud start are early warnings.
@@ -59,8 +57,6 @@ When you book, we'll tell you which one your unit needs. The price is agreed up 
 
 ## Seasonal heat pump maintenance in autumn and spring
 
-Autumn gets it ready for heating. Spring gets it ready for cooling.
-
 **Autumn, for heating.** If you only do one check a year, do this one. Book once the summer heat has gone but before the frosts. That leaves time to sort anything we find.
 
 **Spring, for cooling.** Worth it if you cool bedrooms in summer. Or have a north-facing living area. Or use dry mode on muggy days. We focus on the drain, the coil and the cooling output.
@@ -69,12 +65,12 @@ Want both done every year without having to remember? We can put them on a [serv
 
 ## What you can check yourself first
 
-Four quick checks before you book:
+Do these yourself before you book.
 
-- Run it for twenty minutes in the mode you'll need. Feel the airflow.
-- Wash the filters.
-- Put new batteries in the remote. Set the clock.
-- Clear anything from round the outdoor unit.
+- **Run it for twenty minutes in the mode you'll need.** Feel the airflow.
+- **Wash the filters.** Clogged filters cut the airflow you're feeling for.
+- **Put new batteries in the remote and set the clock.** The timer runs off that clock.
+- **Clear anything from round the outdoor unit.** It needs air moving freely through the coil.
 
 Airflow feels weak? Takes ages to warm the room? Book the tune-up now. Don't wait for winter.
 

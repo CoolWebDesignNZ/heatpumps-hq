@@ -27,12 +27,7 @@ related:
 
 ## What remote monitoring means for a home heat pump
 
-At home, it means a Wi-Fi adaptor in the indoor unit, linked to the maker's app on your phone. With it you can see:
-
-- if the unit is on or off, and what mode it's in
-- the temperature you've set, and the room temperature it's reading
-- the schedules and timers you've set
-- energy use, on some models and apps
+At home, it means a Wi-Fi adaptor in the indoor unit, linked to the maker's app on your phone. With it you can see if the unit is on or off and what mode it's in. You can see the temperature you've set, the room temperature it's reading, and the schedules and timers you've set. Some models and apps show energy use too.
 
 It works anywhere you have internet. So you can check on the house from work or while you're away. The app depends on the brand. Each brand we fit has its own [smart heat pump](/smart-heat-pump-systems/) Wi-Fi control and app.
 
@@ -55,7 +50,7 @@ Send us those screenshots when you book. Add the brand and model number. Often w
 
 ## Getting monitoring working on your heat pump
 
-Mitsubishi Electric, Daikin and Fujitsu all offer Wi-Fi control on selected models. Some older units can have an adaptor added later. Here's what keeps it reliable.
+Mitsubishi Electric, Daikin and Fujitsu all offer Wi-Fi control on selected models. Some older units can have an adaptor added later.
 
 - **Signal at the indoor unit.** The adaptor sits inside the heat pump. That's often high on an outside wall, a long way from the router. A weak signal there means dropouts.
 - **The right band.** Lots of heat pump adaptors only use 2.4 GHz. Mesh systems and new routers sometimes need a setting changed so the adaptor can join.
@@ -66,6 +61,6 @@ If your heat pump suits it, we can check it and set up the adaptor while we're t
 
 ## Monitoring energy use
 
-If your app shows energy figures, check them month to month. A big jump, with no change in how you use it, can be the first sign of trouble. A dirty coil, a part on its way out, or a leak. For a closer look at running costs, [energy consumption monitoring](/energy-consumption-monitoring/) tracks use over time.
+If your app shows energy figures, check them month to month. A big jump, with no change in how you use it, can be the first sign of a dirty coil, a part on its way out, or a leak. For a closer look at running costs, [energy consumption monitoring](/energy-consumption-monitoring/) tracks use over time.
 
 Want to know if your heat pump can be monitored over Wi-Fi? Or need a visit for a fault the app has flagged? Call **[03 242 1023](tel:032421023)**.

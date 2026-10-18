@@ -37,9 +37,9 @@ The [Tenancy Services tool guide](https://www.tenancy.govt.nz/heating-tool/guide
 
 - **The region** your home is in. That sets the local climate.
 - **The type of property and when it got building consent.** That decides which of two formulas applies.
-- **How much space you need to heat.**
+- **How much space you need to heat.** More space takes more heat.
 - **The surfaces heat can escape through.** Walls, windows, doors, floor and ceiling.
-- **How well those surfaces are insulated.**
+- **How well those surfaces are insulated.** Better insulation means less heat lost through them.
 
 You get the result in kilowatts, rounded up to one decimal place. You can save your progress with an email address and come back to it later.
 
@@ -66,7 +66,7 @@ The calculator struggles with sloped ceilings, sloped walls and tricky layouts. 
 - **Sloped external walls.** These may be overstated too.
 - **Tricky layouts.** For rooms that are hard to measure, Tenancy Services recommends a professional. A home performance assessor, say, can apply the formula in Schedule 2 of the Healthy Homes regulations directly.
 
-The calculator also misses things it doesn't ask about. A room that gets afternoon sun. A draughty old fireplace. An open stairwell pulling warm air upstairs.
+The calculator also misses things it doesn't ask about, like a room that gets afternoon sun, a draughty old fireplace, or an open stairwell pulling warm air upstairs.
 
 ## What to do with the heat pump kW calculator result
 

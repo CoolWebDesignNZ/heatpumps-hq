@@ -29,9 +29,8 @@ related:
 
 In Aranui, the heat pump you need depends on how old the house is. If it's rented, the Healthy Homes heating standard comes into it too. Aranui is in east Christchurch. A big share of its homes are 1950s and 60s state houses. Lots are rentals, including public housing. Newer homes have also replaced some of the older ones in recent years.
 
-- **1950s and 60s homes:** state houses and private homes alike. Most are single-storey on piles, clad in weatherboard or brick. Unless they've been upgraded, the insulation is light. Heat escapes through the floor and ceiling. So they need more capacity for their size. Insulate first, and a smaller unit can do the job. We cover the lounge layout below.
+- **1950s and 60s homes:** state houses and private homes alike. Most are single-storey on piles, clad in weatherboard or brick. Unless they've been upgraded, the insulation is light. Heat escapes through the floor and ceiling. So they need more capacity for their size. Insulate first, and a smaller unit can do the job.
 - **Newer homes and townhouses:** built to today's standards. They need far less heating for the same floor area. One high wall unit usually heats an open plan living area.
-- **Rentals:** old or new, they must meet a minimum heating capacity in the main living room. Details below.
 
 ## Heat pumps for Aranui rentals
 
@@ -53,11 +52,11 @@ In a townhouse with shared walls, the outdoor unit has to go where it won't both
 
 ## Running costs in older Aranui houses
 
-A draughty older house costs more to heat. The heat pump has to run longer to hold the same temperature. A few simple fixes help:
+A draughty older house costs more to heat. The heat pump has to run longer to hold the same temperature. A few simple fixes cut that time.
 
-- **Curtains:** thick ones that reach the floor
-- **Draughts:** stop the gaps round doors
-- **Insulation:** in the ceiling and under the floor, if it's not there yet
+- **Thick curtains that reach the floor.** They hold the warmth in after dark.
+- **Draught stopping round doors.** Cold air through the gaps is heat the unit has to make up.
+- **Ceiling and underfloor insulation, if it's not there yet.** It stops heat escaping through the floor and ceiling.
 
 With these in place, a unit that's sized right can cruise through the evening instead of working flat out.
 

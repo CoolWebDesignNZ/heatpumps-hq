@@ -27,7 +27,7 @@ related:
 
 ## Heat pump parts we replace
 
-A heat pump is a set of parts. Each one can fail on its own. Here's what we replace.
+A heat pump is a set of parts. Each one can fail on its own.
 
 **Remotes and wall controllers.** Lost, dropped, chewed by the dog, or just dead. Wall controllers on ducted systems fail too.
 
@@ -41,15 +41,13 @@ A heat pump is a set of parts. Each one can fail on its own. Here's what we repl
 
 **Condensate pumps.** Some units can't drain by gravity. Some floor consoles and ducted systems are like this. They use a small pump to lift the water away. If it fails, water backs up and leaks.
 
-**Filters.** Torn mesh filters. Worn-out deodorising or allergen filters.
+**Filters.** Torn mesh filters, and worn-out deodorising or allergen filters. Dust gets past a torn filter onto the coil.
 
 **Fan blades and wheels.** Cracked or chipped blades make it shake and rattle.
 
-**Feet, brackets and pipe lagging.** Perished rubber feet. Rusty brackets. Sun-damaged lagging.
+**Feet, brackets and pipe lagging.** Perished rubber feet, rusty brackets and sun-damaged lagging. We replace them before they cause a bigger problem.
 
 ## How we find the right heat pump spare parts
-
-First the right diagnosis. Then the exact model number.
 
 1. **Find the fault first.** We only replace a part once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair. Guessing wastes your money. It's the same first step we take on any [heat pump repair](/heat-pump-repair/).
 2. **Read the model number.** Every brand uses different parts across its models. Even when the units look the same.
@@ -63,7 +61,7 @@ A licensed electrical worker does any electrical work. That includes connecting 
 
 For boards, sensors and motors, we use parts made for your model. They're built to work with the unit's software and safety cut-outs. For simple things, a good general part does the job. Rubber feet, pipe lagging and some brackets are like that. We'll tell you when it is.
 
-Remotes are where people often ask about universal ones. They can work. Check what you'd lose, though. Some modes. The timer. Settings like quiet mode and economy.
+Remotes are where people often ask about universal ones. They can work. Check what you'd lose, though: some modes, the timer, and settings like quiet mode and economy.
 
 ## When a part isn't the answer
 

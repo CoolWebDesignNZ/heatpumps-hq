@@ -56,7 +56,7 @@ Air comes back through a bigger return air grille. That's usually in a hallway c
 
 ## Ducted heating in Christchurch houses
 
-Where your house is in Christchurch, and when it was built, changes how a ducted system goes in. These are the conditions we plan around.
+Where your house is in Christchurch, and when it was built, changes how a ducted system goes in.
 
 - **Bedrooms down a long hall.** In the mid-century bungalows of [Bryndwr](/bryndwr/) and the brick and tile homes of [Avonhead](/avonhead/) and [Casebrook](/casebrook/), a lounge unit rarely warms the far bedrooms. A ducted system puts a ceiling vent in the hall and in each bedroom. Ceiling insulation in these houses is often thin, so we look in the roof before we size anything.
 - **Big homes out on the plains.** Lifestyle block houses in [Yaldhurst](/yaldhurst/), [McLeans Island](/mcleans-island/) and [Templeton](/templeton/) are large and spread out, and they take hard frosts and the nor'west. We size for the coldest mornings, and some of the biggest homes get two ducted systems. The outdoor unit goes on a raised base on the sheltered side.
@@ -67,8 +67,6 @@ Where your house is in Christchurch, and when it was built, changes how a ducted
 - **Selwyn homes.** [Rolleston](/rolleston/), [Lincoln](/lincoln/) and [Tai Tapu](/tai-tapu/) come under the Selwyn District Plan, so we place the outdoor unit with its noise rules in mind. Bigger lifestyle block houses there often go whole-house ducted when the roof space is clear.
 
 ## Why people choose ducted heating
-
-There are three main reasons.
 
 - **Every room heated.** Bedrooms, halls and bathrooms all get warm air, not just the room with the wall unit.
 - **Nothing on the walls.** No indoor units to work round when you place furniture or hang pictures.
@@ -90,10 +88,7 @@ We size a ducted system room by room, for the whole area it heats. Each room nee
 
 ## Daikin and Mitsubishi Electric ducted heat pumps
 
-We fit ducted systems from Daikin, Mitsubishi Electric, Fujitsu and Toshiba. More on the Daikin and Mitsubishi Electric ranges:
-
-- [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/)
-- [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/)
+We fit ducted systems from Daikin, Mitsubishi Electric, Fujitsu and Toshiba. For the Daikin series and zone controls, see [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/). For ZoneIQ and Lossnay, see [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
 
 For Fujitsu and Toshiba, we'll quote the system and explain how the options compare for your house.
 

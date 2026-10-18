@@ -47,8 +47,6 @@ The indoor unit gets the most time. Filters first, drain line last.
 
 ## Step 3: the outdoor unit
 
-Outside, we clear the coil. Then we check the fan, base, feet, brackets and pipe lagging.
-
 1. **Coil cleared.** Leaves, cobwebs, lint and grass clippings come off the fins. Then the unit can move air.
 2. **Fan and guard checked.** We make sure the blade spins freely. No chips, no rubbing.
 3. **Base and drainage.** Defrost water has to drain away. We clear the base and check the drain holes. We make sure the unit isn't sitting in a puddle or packed with leaves.
@@ -64,11 +62,11 @@ With it all back together, we run it in heating, then cooling. We measure the ai
 
 ## Step 6: after the heat pump service
 
-Before we leave, we tell you what we did and what we found. In plain words. If a part is worn, we tell you what it is. Whether it needs doing now or can wait. What it would cost to replace. You decide. We do nothing extra without your OK.
+Before we leave, we tell you what we did and what we found. In plain words. If a part is worn, we tell you what it is, whether it needs doing now or can wait, and what it would cost to replace. You decide. We do nothing extra without your OK.
 
 ## What sets the cost of a heat pump service
 
-There's no single price. No two homes are the same. Here's what moves it.
+There's no single price, because no two homes are the same.
 
 - **How many units.** Each extra indoor unit adds time.
 - **Type of system.** A [ducted system](/ducted-heat-pumps-christchurch/) has a return air filter, ceiling grilles and an indoor unit up in the roof. It takes longer than a wall unit.

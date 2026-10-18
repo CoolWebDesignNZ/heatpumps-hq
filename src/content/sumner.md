@@ -31,7 +31,7 @@ related:
 
 In Sumner, the heat pump comes down to two things. How well does the house hold its warmth? And where can the outdoor unit sit out of the sea wind? Sumner is at the end of the coast road, where the estuary meets the open sea. The sea is close to almost every address.
 
-- **Older beach houses, villas and bungalows.** These sit on the flat valley floor behind the beach. They lose heat through timber floors, ceilings and single glazing. Many feel damp in winter. They need more capacity than their floor area suggests. Dry mode earns its keep on muggy days.
+- **Older beach houses, villas and bungalows.** These sit on the flat valley floor behind the beach. They lose heat through timber floors, ceilings and single glazing, so they need more capacity than their floor area suggests.
 - **Newer homes on small sections.** They hold heat well. One high wall unit can usually heat an open plan living area. The harder part is outside. The outdoor unit has to fit a narrow side yard, with clear air around it, away from the house next door.
 - **Homes on the hills either side.** Many were rebuilt after the earthquakes, and most are well insulated. The work there is mounting the outdoor unit on a bracket or deck. Then running the pipes up or down the levels.
 
@@ -49,7 +49,7 @@ We check the ceiling and underfloor insulation at the quote. Insulating first ca
 
 ## Hill homes above Sumner beach
 
-Homes on the slopes above Sumner raise the usual hill questions. Wall brackets, decks, longer pipe runs and steep access. We plan all of it at the quote visit, so it's in the fixed price.
+Homes on the slopes above Sumner raise the usual hill questions: wall brackets, decks, longer pipe runs and steep access. We plan all of it at the quote visit, so it's in the fixed price.
 
 ## What we do in Sumner
 

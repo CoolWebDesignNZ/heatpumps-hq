@@ -33,7 +33,6 @@ The bedrooms are the catch. They're grouped together or upstairs, behind closed 
 
 - **No heat pump yet?** You can plan the whole house at once. We size the living area unit to the room's volume and glass. The bedrooms get covered at the same time, by a second unit, a multi-room system or ducting.
 - **One unit that can't reach the bedrooms?** You usually need a small second unit in the bedroom wing, not a replacement.
-- **A heat pump the builder fitted?** It may have come as part of a package. More on that further down.
 
 At the quote we look at the floor plan and where doors close rooms off. We check which way the living area glass faces. And we find where the outdoor unit can go on your section.
 
@@ -53,10 +52,7 @@ A heat pump that came with a new house was often picked as part of a package. Th
 
 ## Heat pump service, repairs and installs in Wigram
 
-- **New installs** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall-mounted, ducted or multi-room.
-- **Builder-fitted heat pumps** checked and serviced. That includes a filter clean and a look at the drain and outdoor unit.
-- **A second unit** where the first one can't reach the bedrooms.
-- **Repairs** for faults, leaks and error lights on all the major brands.
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, wall-mounted, ducted or multi-room. We check and service builder-fitted heat pumps, with a filter clean and a look at the drain and outdoor unit. And we repair faults, leaks and error lights on all the major brands.
 
 ## Suburbs around Wigram
 

@@ -33,9 +33,9 @@ The right heat pump for your Lincoln home comes down to two things. How old is t
 
 - **Newer subdivision homes.** Most are well insulated and double glazed, with one big open plan living area. One high wall unit, sized right, can heat the living, dining and kitchen space. The bedrooms can have a second, smaller unit. Or the whole house can go ducted if you want every room warm.
 - **Older bungalows near the town centre.** They lose more heat through the ceiling, the floor and single glazed windows. The rooms are smaller and closed off. A lounge unit won't reach bedrooms down the hall. These homes often suit a [multi-room system](/multi-room-heat-pump-installation/), with a unit in each room you use. Check the ceiling and underfloor insulation first. It pays off.
-- **Farmhouses and lifestyle block houses.** Out toward Tai Tapu and Prebbleton, they tend to be bigger, with several living areas and long halls. They usually need several wall units or a ducted system. More on that below.
+- **Farmhouses and lifestyle block houses.** Out toward Tai Tapu and Prebbleton, they tend to be bigger, with several living areas and long halls.
 
-At the quote we measure each room and look at the insulation and windows. We size every unit for a frosty Lincoln morning, not an average day.
+At the quote we measure each room and look at the insulation and windows. We size every unit for a frosty Lincoln morning.
 
 ## Heat pumps on Lincoln's frosty open ground
 
@@ -45,7 +45,7 @@ Capacity counts too. A unit sized for an average day struggles on a cold morning
 
 ## Heat pump installation on Lincoln lifestyle blocks
 
-On a lifestyle block, the house is often bigger. It may have a sleepout or a granny flat as well. Some owners want to move off a log burner or an old electric heater. They want the whole house warm, not just the lounge. You've got three options:
+On a lifestyle block, the house is often bigger. It may have a sleepout or a granny flat as well. Some owners want to move off a log burner or an old electric heater. They want the whole house warm, not just the lounge.
 
 - **Several wall units**, one per main room, on one or more outdoor units.
 - **A ducted system**, where there's good ceiling space. It heats every room through ceiling vents.

@@ -31,7 +31,7 @@ People put covers on outdoor units for a few reasons.
 
 - **Looks.** A slatted screen hides a grey box on a deck, patio or front path.
 - **Sun.** A roof over a unit on a hot north or west wall keeps summer sun off the casing.
-- **Things from above.** Roof run-off where there's no spouting. Falling branches. Snow sliding off a roof.
+- **Things from above.** A roof over the unit keeps off run-off where there's no spouting, falling branches and snow sliding off a roof.
 - **Pets and kids.** It keeps them away from the fan guard.
 
 ## What a cover doesn't do

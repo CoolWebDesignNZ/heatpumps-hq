@@ -29,7 +29,7 @@ related:
 
 How warm a heat pump keeps your Sockburn home depends less on the unit itself. It depends more on how much heat the house loses, and how the rooms are divided up. Sockburn has weatherboard and brick houses from the middle of last century. It also has newer units and townhouses where sections have been split.
 
-- **Older weatherboard and brick houses.** Many have a separate lounge, a kitchen at the back and bedrooms off a hall. The glazing is often original single glass, and the insulation is patchy. Heat escapes through the glass, the ceiling and the floor. Closed doors keep a lounge unit's warmth in the lounge. The usual start is a wall unit sized to the living room, with bedrooms added later. More on that next.
+- **Older weatherboard and brick houses.** Many have a separate lounge, a kitchen at the back and bedrooms off a hall. The glazing is often original single glass, and the insulation is patchy. Heat escapes through the glass, the ceiling and the floor. Closed doors keep a lounge unit's warmth in the lounge.
 - **Newer units and townhouses.** They're smaller and better sealed. One small high wall unit in the living area can heat the place. A two storey townhouse may need a second small unit upstairs.
 
 Sockburn lies between Upper Riccarton and Hornby, on both sides of the main roads heading west. That affects upkeep and placement too. Homes near busy roads gather dust faster. Split sections leave little room outside.

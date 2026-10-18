@@ -28,15 +28,7 @@ Start by listing the rooms you want warm, and when you use them. Say you heat th
 
 ## The installation process
 
-Every install follows the same steps, big or small:
-
-1. We visit your home.
-2. We size the units.
-3. We choose where they go.
-4. We run the pipes and do the electrical connection.
-5. We commission the system and show you how it works.
-
-[Heat pump installation](/heat-pump-installation-in-christchurch/) goes through each step and what changes the price.
+Every install follows the same steps, big or small. We visit your home, size the units and choose where they go. Then we run the pipes, do the electrical connection, commission the system and show you how it works. [Heat pump installation](/heat-pump-installation-in-christchurch/) goes through each step and what changes the price.
 
 ## One room
 

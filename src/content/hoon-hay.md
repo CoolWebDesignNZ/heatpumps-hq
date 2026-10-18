@@ -29,24 +29,17 @@ related:
 
 In a Hoon Hay family home, different people use different rooms at different times. A heat pump that only heats the lounge is rarely enough. The kind of house tells us where to start.
 
-- **Brick and tile, weatherboard and former state houses.** These fill the established streets, many on decent sections. If the lounge is shut off from a hallway of bedrooms, its heat stays in the lounge. So these homes usually need a living area unit. Then a quiet unit in each bedroom someone uses in the evening. We check the ceiling and underfloor insulation first. It changes the size of every unit.
+- **Brick and tile, weatherboard and former state houses.** These fill the established streets, many on decent sections. If the lounge is shut off from a hallway of bedrooms, its heat stays in the lounge. We check the ceiling and underfloor insulation first. It changes the size of every unit.
 - **Newer homes in the subdivisions on the edges.** They're better insulated. If the living area is open plan, one bigger unit can cover it. If the ceiling space allows, compare a ducted system too.
 - **Rooms on the shady south side.** They stay colder all day. They need more capacity than a sunny room the same size.
 
 ## Planning heat pumps for a whole Hoon Hay household
 
-We start with how you live in the house. We'll ask you:
-
-- Which rooms do you use on winter evenings, and which only at night?
-- Do the kids do homework in their bedrooms?
-- Is there a second living area or a rumpus room that's always cold?
-- Are some rooms on the shady south side?
-
-The answers decide the setup. Often it's one bigger unit for the main living area. Then a quiet bedroom unit wherever someone spends the evening. Got good ceiling access and plan to stay a long time? Then [ducted heating](/ducted-heat-pumps-christchurch/) is worth comparing. We size each unit to its room. We don't round up.
+We start with how you live in the house. Which rooms do you use on winter evenings, and which only at night? Do the kids do homework in their bedrooms? Is there a second living area or a rumpus room that's always cold? The answers decide the setup. Often it's one bigger unit for the main living area. Then a quiet bedroom unit wherever someone spends the evening. Got good ceiling access and plan to stay a long time? Then [ducted heating](/ducted-heat-pumps-christchurch/) is worth comparing. We size each unit to its room. We don't round up.
 
 ## Frost on the Hoon Hay flat
 
-Hoon Hay sits south-west of the city, between Spreydon and Halswell. The Port Hills rise past its southern streets. Open, flat ground cools fast on clear, still nights. Streets near the hills can collect cold air that slides off the slopes. Hard frosts are part of a Hoon Hay winter. A few details make the difference:
+Hoon Hay sits south-west of the city, between Spreydon and Halswell. The Port Hills rise past its southern streets. Open, flat ground cools fast on clear, still nights. Streets near the hills can collect cold air that slides off the slopes. Hard frosts are part of a Hoon Hay winter, and the outdoor unit has to be set up for them.
 
 - **Raise the outdoor unit.** Put it on feet or a bracket, so defrost water drains away and doesn't freeze around the base.
 - **Keep the drain path clear.** Keep it away from garden beds and paving that could ice over and get slippery.

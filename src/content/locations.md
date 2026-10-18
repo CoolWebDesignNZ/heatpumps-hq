@@ -22,7 +22,7 @@ related:
   - { label: Contact us, href: /contact-us/, text: "Phone, email and what to have ready." }
 ---
 
-We work right across Christchurch, out to Lyttelton and the Selwyn towns. Find your suburb below.
+We work right across Christchurch, out to Lyttelton and the Selwyn towns.
 
 What suits your home depends a lot on where you live. Older villas lose heat through the floor. Hill homes often need the outdoor unit on a bracket. Close to the beach, the unit needs a spot out of the salt wind. Tap your suburb to see what usually works there.
 

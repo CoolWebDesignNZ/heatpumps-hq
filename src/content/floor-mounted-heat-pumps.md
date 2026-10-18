@@ -50,7 +50,7 @@ related:
 
 A floor mounted heat pump, often called a floor console, is a low indoor unit. It sits against the wall at skirting level, about knee height, and joins to an outdoor unit by pipes through the wall or floor. It draws air in, heats or cools it, and blows it out low into the room.
 
-It suits rooms that a wall unit struggles with. Villas and cottages with a high stud. Rooms where windows, doors or a fireplace take up the walls. Rooms with sloped ceilings. And it suits you if you want warmth close to where you sit, and filters you can reach from the floor.
+It suits rooms that a wall unit struggles with: villas and cottages with a high stud, rooms where windows, doors or a fireplace take up the walls, and rooms with sloped ceilings. And it suits you if you want warmth close to where you sit, and filters you can reach from the floor.
 
 ## Where a floor console heat pump goes in the room
 
@@ -65,7 +65,7 @@ In a lounge, we aim to put it on the coldest wall, facing into where you sit.
 
 ## Floor mounted heat pumps for Christchurch homes
 
-Christchurch's older housing is where a console earns its place. These are the homes we fit them in most.
+Christchurch's older housing is where a console earns its place.
 
 - **Character villas.** In [St Albans](/st-albans/) and [Edgeware](/edgeware/), villas have high studs, sash windows and rooms that close off from each other. Heat rises to the ceiling. A floor console sits low under a sash window and pushes warm air out where you sit.
 - **Bay windows and wide sills.** In the bungalows and villas of [Somerfield](/somerfield/), a console often fits well under a bay or a wide window sill, where windows and doors take up the wall space.

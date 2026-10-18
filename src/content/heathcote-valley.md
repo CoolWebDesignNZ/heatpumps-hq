@@ -40,7 +40,7 @@ At the quote we work out the heat load room by room. Then we plan the outdoor sp
 
 ## Heat pumps for the shady side of Heathcote Valley
 
-The hills block the low winter sun. Through June and July, one side of the valley gets far less direct light than the other. A house on the shady side stays cooler all day. It leans harder on its heating. So we work out the heat load room by room. We look at the insulation, the glazing and which way the living areas face. Floor area alone doesn't tell you enough. On the sunny side, a heat pump may only need to cover the evening and early morning.
+The hills block the low winter sun. Through June and July, one side of the valley gets far less direct light than the other. A house on the shady side stays cooler all day. It leans harder on its heating. So we look at the insulation, the glazing and which way the living areas face. Floor area alone doesn't tell you enough. On the sunny side, a heat pump may only need to cover the evening and early morning.
 
 ## Heat pump installation on a sloping Heathcote Valley section
 

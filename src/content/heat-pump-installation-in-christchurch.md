@@ -50,11 +50,7 @@ related:
 
 It starts with a look at your house, before we quote. Get the size or the spot wrong and the heat pump costs more to run. It never feels quite right. So we check each room's size and shape. We see how well the ceiling, walls and floor are insulated. We look at how much glass there is and which way it faces. And we ask how you use the room on a winter day.
 
-That visit tells us three things.
-
-- How much heat the room really needs.
-- Which type of indoor unit suits it.
-- Where both units can go. We want a short pipe run, warm air reaching where you sit, and a quiet outdoor unit at the boundary.
+That visit tells us how much heat the room really needs, which type of indoor unit suits it and where both units can go. We want a short pipe run, warm air reaching where you sit, and a quiet outdoor unit at the boundary.
 
 ## Heat pump installation for Christchurch homes
 
@@ -70,7 +66,7 @@ Christchurch is hard on a heat pump in its own ways. We plan every install aroun
 
 ## Choosing the right heat pump system
 
-It depends on the rooms you want heated. These are the usual options.
+It depends on the rooms you want heated.
 
 - **One [high wall unit](/high-wall-heat-pumps/)** for an open plan living area. See [single room heat pumps](/single-room-heat-pump-installation/).
 - **A [floor console](/floor-mounted-heat-pumps/)** where there's no good wall space up high, or under a window.
@@ -91,10 +87,10 @@ Got a heat pump that's failing or past its best? We check whether the new unit c
 
 These things change the [price of a heat pump installation](/heat-pump-installation-cost-christchurch/):
 
-- the unit's size and type
-- the distance between the indoor and outdoor units
-- how the walls and floor are built
-- how easy the outdoor spot is to get to
-- whether the switchboard needs work
+- **The unit's size and type.** A bigger unit costs more than a small one.
+- **The distance between the indoor and outdoor units.** A longer run means more pipe and more time.
+- **How the walls and floor are built.** That decides how hard it is to get the pipes through.
+- **How easy the outdoor spot is to get to.** A wall bracket or a deck on a slope takes more work than a spot at ground level.
+- **Whether the switchboard needs work.** A board with no spare circuit has to be sorted before the unit goes in.
 
 No two installs cost the same. Your quote costs nothing, and the price is locked in up front.

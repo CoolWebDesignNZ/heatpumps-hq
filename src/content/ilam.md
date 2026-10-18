@@ -29,8 +29,8 @@ related:
 
 What an Ilam home needs from a heat pump depends on who lives there. A family home needs heat in several rooms, at a running cost you're happy with. A rental first has to meet the Healthy Homes heating standard in the main living room.
 
-- **Family homes on big sections.** Many have more than one living area, with bedrooms down a long hall. One lounge unit leaves a lot of that cold. These homes suit a unit in each main room, or a ducted system, as set out below. Plenty have mature gardens too. The outdoor unit needs a spot clear of shrubs and falling leaves, so air can move through its coil.
-- **Rentals and blocks of flats let to students.** Close to the University of Canterbury, these need a fixed heater in the main living room. It needs a thermostat and enough capacity for that room. Tenants may be the ones paying the power bill. So a unit sized right, with simple controls, matters to them as much as to you.
+- **Family homes on big sections.** Many have more than one living area, with bedrooms down a long hall. One lounge unit leaves a lot of that cold. Plenty have mature gardens too. The outdoor unit needs a spot clear of shrubs and falling leaves, so air can move through its coil.
+- **Rentals and blocks of flats let to students.** These sit close to the University of Canterbury. Tenants may be the ones paying the power bill. So a unit sized right, with simple controls, matters to them as much as to you.
 
 At the quote we measure the rooms and check the insulation and windows. For a rental, we also work out the capacity the living room needs under the standard.
 
@@ -46,7 +46,7 @@ Heat pumps in shared flats run long hours and get little care. Clogged filters c
 
 ## Heat pump installation in Ilam family homes
 
-In a larger Ilam family home, the heat pump has to reach more than one living area. Often it has to reach bedrooms down a long hall as well. You've got three options. There's a [multi-room system](/multi-room-heat-pump-installation/), or separate units for the main rooms. Where there's ceiling space, ducting works too. We size from the rooms, the insulation and the windows, and from how your family uses the house.
+In a larger Ilam family home, the heat pump has to reach more than one living area. Often it has to reach bedrooms down a long hall as well. A [multi-room system](/multi-room-heat-pump-installation/) does it, or separate units for the main rooms. Where there's ceiling space, ducting works too. We size from the rooms, the insulation and the windows, and from how your family uses the house.
 
 ## What we offer in Ilam
 

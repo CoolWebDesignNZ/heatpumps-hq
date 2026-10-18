@@ -74,9 +74,9 @@ Christchurch City Council looks into it. If its measurements show the heat pump'
 
 Had a complaint? The fixes are usually simple.
 
-- New anti-vibration feet
-- A service to clean the fan and coil
-- A quiet or night mode setting
-- Moving the outdoor unit a few metres
+- **New anti-vibration feet.** They stop the hum carrying through the ground and into the house.
+- **A service to clean the fan and coil.** A dirty unit works harder, and louder.
+- **A quiet or night mode setting.** It runs the unit more quietly through the night, when the 40 dB limit applies.
+- **Moving the outdoor unit a few metres.** Away from their bedroom windows, or out of a corner, can be enough.
 
 We can look at your install and tell you what will make the difference. Call **[03 242 1023](tel:032421023)**.

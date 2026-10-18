@@ -31,19 +31,14 @@ related:
 
 Two things decide what a Marshland home needs. One is the kind of house. The other is the hard frosts that settle on open ground out here.
 
-- **Farmhouses and older rural homes.** These sit back from the road on lifestyle blocks and old market gardens. They often have big living areas, high ceilings and rooms added later. Warm air sits up under a high ceiling. A room added off the lounge gets little from the lounge unit. These homes usually need a bigger high wall unit, sized for the full volume of the living area. The bedrooms can go on a [multi-room system](/multi-room-heat-pump-installation/).
-- **New homes in the subdivisions on the city side.** These are well insulated and usually open plan. They lose far less heat. One high wall unit sized right can heat the living space. If you're still building, it's worth pricing ducting.
-- **Every Marshland property.** The outdoor unit needs setting up for frost and wind. More on that below.
+- **Farmhouses and older rural homes.** These sit back from the road on lifestyle blocks and old market gardens. They often have big living areas, high ceilings and rooms added later. Warm air sits up under a high ceiling. A room added off the lounge gets little from the lounge unit.
+- **New homes in the subdivisions on the city side.** These are well insulated and usually open plan, so they lose far less heat.
 
 When we quote, we measure each room. We check the ceiling and underfloor insulation and the windows. Then we size the system for the coldest morning, not an average one.
 
 ## Open ground and hard frosts in Marshland
 
-Open land has few buildings or trees to shelter it. It loses heat fast on clear winter nights. Frosts here can be harder than in the inner suburbs. That's when an outdoor unit works hardest and defrosts most often. So we:
-
-- size the system for the coldest mornings, not an average day
-- put the outdoor unit on raised feet or a bracket so ice and defrost water can clear
-- find a spot out of the prevailing wind that still has free airflow
+Open land has few buildings or trees to shelter it. It loses heat fast on clear winter nights. Frosts here can be harder than in the inner suburbs. That's when an outdoor unit works hardest and defrosts most often. So we put the outdoor unit on raised feet or a bracket, where ice and defrost water can clear. And we find it a spot out of the prevailing wind that still has free airflow.
 
 Our [cold climate heat pumps](/cold-climate-heat-pumps/) guide covers what to look for in a unit for this kind of site.
 
@@ -53,7 +48,7 @@ If a wood burner has been the main heat, the heat pump takes over the whole job.
 
 ## New homes on Marshland's city side
 
-The new houses on Marshland's edge are well insulated and usually open plan. If you're building, talk to us early. Ducting and pipe routes are far easier to plan before the linings go up. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
+In the new houses on Marshland's edge, one high wall unit sized right can heat the living space. If you're building, talk to us early. Ducting and pipe routes are far easier to plan before the linings go up. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
 ## Power and access on Marshland properties
 
@@ -61,9 +56,7 @@ On a rural property we check the switchboard has the capacity. We also check the
 
 ## Heat pump installs, service and repairs in Marshland
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems.
-- **Servicing.** All the major brands. See [maintenance and servicing](/maintenance-servicing/).
-- **Repairs.** Panasonic and other brands too. See [heat pump repairs](/heat-pump-repair/).
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems. Our [maintenance and servicing](/maintenance-servicing/) covers all the major brands, and our [heat pump repairs](/heat-pump-repair/) take in Panasonic and other brands too.
 
 ## Areas near Marshland
 

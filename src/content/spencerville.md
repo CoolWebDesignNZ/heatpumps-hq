@@ -31,7 +31,7 @@ Spencerville homes are usually bigger than a typical suburban house. Many have b
 
 - **The main living area.** In a bigger home it usually needs more output than a standard wall unit. A larger high wall unit stops the far end of the room staying cold. So does a ducted system, if the ceiling space allows.
 - **Extensions.** Their insulation and windows are often different from the original house. Some sit at the end of a hallway the lounge heat never reaches. We size each one as its own room. It may need its own unit.
-- **Sleepouts and converted garages.** On lifestyle properties these usually need their own heating. More on that below.
+- **Sleepouts and converted garages.** On lifestyle properties these usually need their own heating.
 
 When we quote, we measure the rooms. We look at the glazing and insulation in each part of the house. We'll also ask which rooms you heat every day and which only now and then.
 
@@ -43,9 +43,7 @@ We size the living area unit from the real room volume, glazing and insulation. 
 
 ## Frost and shelter in Spencerville
 
-Spencerville sits between Brooklands, Marshland and the pine forest of Bottle Lake. The coast is a short drive away. The open ground by the forest and paddocks gets heavy frosts on still winter nights.
-
-Here's how we set up the outdoor unit:
+Spencerville sits between Brooklands, Marshland and the pine forest of Bottle Lake. The coast is a short drive away. The open ground by the forest and paddocks gets heavy frosts on still winter nights. We set the outdoor unit up for that:
 
 - **Off the ground.** On raised feet or a bracket, so defrost water drains away and doesn't freeze around the base.
 - **Clear on all sides.** Shelter belts can block cold wind. But the unit still needs open air all round to breathe. We keep it clear of hedges and stored gear.
@@ -53,7 +51,7 @@ Here's how we set up the outdoor unit:
 
 ## Heating rooms added over time
 
-Lifestyle properties often have extensions, sleepouts and converted garages. Each one may need its own heating. A sleepout away from the house usually needs a separate small system. We look at each building when we come to quote. We price each one separately. Then you can choose what to do now and what to leave till later.
+A sleepout away from the house usually needs a separate small system. We look at each building when we come to quote. We price each one separately. Then you can choose what to do now and what to leave till later.
 
 ## Heat pump service on Spencerville lifestyle blocks
 

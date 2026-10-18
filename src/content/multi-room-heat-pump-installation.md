@@ -52,7 +52,7 @@ The indoor units don't all have to match. On most systems, a bedroom can have a 
 
 ## Multi room heat pumps for Christchurch homes
 
-Plenty of Christchurch houses need heat in more than one room. Here's what shapes a multi room install in this city, and what we do about each.
+Plenty of Christchurch houses need heat in more than one room, and the reason changes across the city.
 
 - **Villas with rooms off a hall.** Older villas and bungalows in [Beckenham](/beckenham/) and [Papanui](/heat-pumps-papanui/) have separate rooms off a central hall, and lose heat through single glazing and the floor. Warm air from the lounge never reaches the bedrooms, so we size an indoor unit for each room you use.
 - **Townhouses with bedrooms upstairs.** In [St Albans](/st-albans/), [Edgeware](/edgeware/) and [Sydenham](/sydenham/), newer townhouses have the living area downstairs and the bedrooms split up above it. Small bedroom units can share one outdoor unit with the living area, as long as the pipes can run between floors.
@@ -69,7 +69,6 @@ It makes sense if any of these fit your house.
 - **Not much outside wall.** Townhouses, units and homes close to the boundary often have room for one outdoor unit, not three.
 - **Noise near a neighbour.** One well placed outdoor unit is easier to keep quiet than several. The District Plan noise limits at the boundary are set out under [boundary rules](/heat-pump-boundary-rules-consent-nz/).
 - **Looks.** One outdoor unit on the side of the house, not a row of them.
-- **Rooms on different floors.** Upstairs bedrooms and a downstairs living area can share one outdoor unit. The pipes just have to be able to run between floors.
 
 ## The trade-offs of a multi split
 

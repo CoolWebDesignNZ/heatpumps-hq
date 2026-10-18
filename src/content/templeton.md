@@ -33,7 +33,7 @@ Templeton sits past Hornby on the road south, with paddocks and semi-rural secti
 - **Older houses on bigger sections.** They lose more heat through the ceiling and floor, and the rooms are spread out. Each room needs more capacity. Some need ducting.
 - **Lifestyle properties on the outskirts.** Sleepouts and outbuildings are simpler to heat with their own small unit.
 
-Each one is covered below. Templeton feels like a country town, but it's part of Christchurch City. So the Christchurch District Plan noise rules apply to your outdoor unit.
+Templeton feels like a country town, but it's part of Christchurch City. So the Christchurch District Plan noise rules apply to your outdoor unit.
 
 ## Heat pump installation in newer Templeton homes
 
@@ -41,7 +41,7 @@ Newer Templeton homes usually have insulation, double glazing and an open plan l
 
 ## Older Templeton houses and bigger sections
 
-Older Templeton houses can be harder to heat. The insulation is thinner and the rooms are spread out. We check the ceiling and underfloor at the quote. Then we size the unit for the room it heats on a cold morning, not an average day. For a long, spread-out house, get a price on [ducted heating](/ducted-heat-pumps-christchurch/) too.
+Older Templeton houses can be harder to heat. The insulation is thinner and the rooms are spread out. We check the ceiling and underfloor at the quote. Then we size the unit for the room it heats on a cold morning. For a long, spread-out house, get a price on [ducted heating](/ducted-heat-pumps-christchurch/) too.
 
 ## Heat pumps on semi-rural Templeton sections
 

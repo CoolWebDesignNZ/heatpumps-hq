@@ -30,9 +30,9 @@ related:
 A plan helps when keeping track of servicing is the hard part. That's usually:
 
 - **Homes with several units.** Say a multi-room or ducted setup, plus a wall unit in the garage or sleepout. It's easy to lose track.
-- **Landlords and property managers.** One schedule for one rental or many. A record of each visit.
+- **Landlords and property managers.** One schedule covers one rental or many, and you get a record of each visit.
 - **Homes with allergies or asthma.** Clean coils and filters matter more when someone reacts to dust and mould. See [heat pumps for allergies and asthma](/allergy-asthma-solutions-heat-pumps/).
-- **Hard-working heat pumps.** A unit heating a home office all day. Or cooling bedrooms all summer.
+- **Hard-working heat pumps.** A unit heating a home office all day, or cooling bedrooms all summer, needs more attention than one used on winter evenings.
 - **Holiday homes and baches.** Units that sit idle for months. They need a check before you use the place.
 
 Got one unit and remember to book each year? You probably don't need a plan. A yearly [heat pump service](/heat-pump-servicing/) does the job.
@@ -41,8 +41,8 @@ Got one unit and remember to book each year? You probably don't need a plan. A y
 
 There's no set menu. We work it out from what's in front of us.
 
-1. **What you have.** How many indoor and outdoor units. Their brands and ages. Whether any are ducted or floor console.
-2. **How you use them.** Heating only, or heating and cooling. All day, or just evenings.
+1. **What you have.** How many indoor and outdoor units, their brands and ages, and whether any are ducted or floor console.
+2. **How you use them.** Heating only, or heating and cooling, all day or just evenings. More hours means more dust through the filters.
 3. **What they live with.** Pets shed into filters. Salt air off the sea eats outdoor coils. Gravel drives and paddocks get dust into everything. Kitchens get grease into nearby units.
 4. **Who lives there.** Babies, older people and anyone with breathing problems are reasons to service more often.
 
@@ -50,11 +50,11 @@ Then we agree how often each unit gets done, and what time of year suits. A home
 
 ## What a heat pump maintenance contract costs
 
-We agree a fixed price per visit before the first one. It's set by the same things as any service. How many units. What type of system. How easy each one is to get at. What shape it's in. If we find a part that needs replacing, we price it separately. Nothing gets done without your OK.
+We agree a fixed price per visit before the first one. It's set by the same things as any service: how many units, what type of system, how easy each one is to get at, and what shape it's in. If we find a part that needs replacing, we price it separately. Nothing gets done without your OK.
 
 ## What each planned visit includes
 
-Every visit follows our full service checklist. Filters. Indoor coil. Fan wheel. Drain tray and line. Outdoor coil and base. Electrical connections. Then a test run in heating and cooling. We go through each step under [heat pump servicing](/heat-pump-servicing/).
+Every visit follows our full service checklist, from the filters, indoor coil, fan wheel and drain to the outdoor coil, base and electrical connections. Then we test run it in heating and cooling. We go through each step under [heat pump servicing](/heat-pump-servicing/).
 
 After each visit you get a short note for each unit. It says what we did and anything we'd keep an eye on. Over a few years, that builds into a handy record of how each unit is ageing.
 

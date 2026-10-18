@@ -33,7 +33,7 @@ Zoning splits the house into areas you can switch and control on their own. So t
 
 ## How ducted heat pump zoning works
 
-Ducted zoning has four parts. Here's what each one does:
+Ducted zoning has four parts.
 
 - **Dampers.** These are motorised flaps in the ducts. They sit in the main duct to each zone, or in the duct to each room. They open to let air through and close to shut it off.
 - **Zone controller.** A wall controller, and often a phone app. You use it to turn zones on and off and set times.
@@ -42,7 +42,7 @@ Ducted zoning has four parts. Here's what each one does:
 
 ## Zone on and off, or temperature in each zone
 
-There are two levels of zoning. The difference matters.
+There are two levels of zoning, and only one lets rooms sit at different temperatures.
 
 1. **On and off zoning.** You choose which zones get air. The heat pump still works to one thermostat. So all the open zones aim for the same temperature.
 2. **Temperature control in each zone.** Each zone has its own sensor and setting. The lounge can sit warmer than the bedrooms while both are on.
@@ -51,7 +51,7 @@ Daikin and Mitsubishi Electric both offer the second kind. For its ducted units,
 
 ## Planning the zones
 
-Set the zones by how you live in the house, not just the floor plan. Common splits:
+Set the zones by how you live in the house, not just the floor plan.
 
 - **Living and bedrooms:** living areas and kitchen in one zone, bedrooms in another.
 - **Home office:** its own zone if you use it during the day.
@@ -62,7 +62,7 @@ The heat pump also needs enough places to push air when only one small zone is o
 
 ## Adding zone control to an existing ducted heat pump
 
-Got a ducted heat pump that heats the whole house? Zone control can often be added later. Here's what we check to see if yours can take it:
+Got a ducted heat pump that heats the whole house? Zone control can often be added later, if the system passes these checks.
 
 - **The indoor unit:** does it work with the zone controller you want?
 - **The duct layout:** can each zone be shut off with a damper?

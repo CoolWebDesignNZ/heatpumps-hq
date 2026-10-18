@@ -27,7 +27,7 @@ related:
 
 ## Why fault finding comes first
 
-"Not heating" can start in any part of a heat pump. The power supply. The controls. The fans and airflow. The refrigerant. The sensors. Or the link between the indoor and outdoor units.
+"Not heating" can start in any part of a heat pump: the power supply, the controls, the fans and airflow, the refrigerant, the sensors, or the link between the indoor and outdoor units.
 
 Swapping parts till the problem goes away is slow and costly. We test each part of the system in turn. We only quote a repair once we know what failed and why.
 
@@ -35,14 +35,14 @@ Want to rule out the simple things first? Try these [DIY troubleshooting checks]
 
 ## What we test when your heat pump is not working
 
-We test in this order.
+We test in this order, simplest first.
 
-1. **Power and wiring.** Voltage at the outdoor unit. The isolating switch and the breaker. The connections between the two units.
-2. **Controls and settings.** Mode and timers. The remote or wall controller. Any settings that hold back output.
-3. **Airflow.** Filters, the indoor coil and both fans. Anything blocking air round the outdoor unit.
+1. **Power and wiring.** Voltage at the outdoor unit, the isolating switch and the breaker, and the connections between the two units. Without a sound power supply, no other test means much.
+2. **Controls and settings.** Mode and timers, the remote or wall controller, and any settings that hold back output. A wrong setting can look just like a fault.
+3. **Airflow.** Filters, the indoor coil and both fans, and anything blocking air round the outdoor unit. A blockage cuts output without any part being broken.
 4. **Refrigerant.** Pressures and pipe temperatures in heating and cooling. They show if the gas level is right. They also show if the compressor and valves are working.
-5. **Sensors.** The temperature sensors on the coils, pipes and air intake. We test them against the maker's values.
-6. **Fault history.** Any codes it has saved. We read them with the maker's service info for that model.
+5. **Sensors.** The temperature sensors on the coils, pipes and air intake. We test them against the maker's values, because a bad sensor can stop it heating.
+6. **Fault history.** Any codes it has saved, which we read with the maker's service info for that model. They can show a fault that isn't happening while we're there.
 
 ## Heat pump blowing cold air
 

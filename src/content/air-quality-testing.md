@@ -39,13 +39,13 @@ An indoor unit pulls room air through its filters, over a coil and through a fan
 
 We check the heat pump part by part. Then the room around it.
 
-1. **Filters.** How clogged they are. Whether they're damaged or missing.
-2. **The indoor coil.** Dust, grime and mould on the fins.
+1. **Filters.** How clogged they are, and whether they're damaged or missing. Dust that gets past a filter ends up on the coil.
+2. **The indoor coil.** Dust, grime and mould on the fins. Room air passes over it every time the unit runs.
 3. **The fan wheel.** The barrel fan inside the outlet. Mould often builds up here, and it's hard to clean yourself.
-4. **The drain tray and line.** Standing water, slime and blockages.
+4. **The drain tray and line.** Standing water, slime and blockages. Water that sits there is where mould and sour smells start.
 5. **The smell.** Musty, sour, burning or chemical. Each one points to a different cause.
 6. **Damp in the room.** Condensation on windows. Mould on walls or ceilings near the unit. These tell us if the house has a damp problem beyond the heat pump.
-7. **Ducted systems.** Return air filters, the grilles, and the ducting we can reach.
+7. **Ducted systems.** Return air filters, the grilles, and the ducting we can reach. On a ducted system the air from all of them reaches every room.
 
 ## What happens after the air quality testing
 
@@ -61,7 +61,7 @@ If we see condensation and mould well away from the heat pump, we'll tell you. D
 
 ## Keeping the air cleaner between visits
 
-Most of the work comes down to three things. Clean filters. A yearly [service](/heat-pump-servicing/) that checks the coil and drain. And dealing with damp where it starts. After cooling or dry mode, run it on fan or heat for a while. That lets the coil dry out.
+Most of it comes down to clean filters, a yearly [service](/heat-pump-servicing/) that checks the coil and drain, and dealing with damp where it starts. After cooling or dry mode, run it on fan or heat for a while. That lets the coil dry out.
 
 ## Book air quality testing in Christchurch
 

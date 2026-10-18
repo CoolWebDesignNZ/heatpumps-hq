@@ -29,8 +29,8 @@ related:
 
 On a McLeans Island property, three things decide the heat pump. There's the size and layout of the house. There's how exposed it is to wind and frost. And there's whether it has to take over from a log burner. McLeans Island is mostly open, rural land out towards the Waimakariri River. Homes sit on lifestyle blocks and farms, not suburban sections.
 
-- **Bigger houses.** Homes here are often large, with the rooms spread out. One wall unit can't reach them all. The choice is usually ducted heating or several wall units, as set out below.
-- **Exposure.** Houses take the full weather coming across the plains. Wind pulls heat out through the walls and windows. Frost lowers a heat pump's output. Both shape the sizing and the outdoor unit, as covered below.
+- **Bigger houses.** Homes here are often large, with the rooms spread out, so one wall unit can't reach them all.
+- **Exposure.** Houses take the full weather coming across the plains. Wind pulls heat out through the walls and windows. Frost lowers a heat pump's output.
 - **Placement.** Neighbours are far away, so boundary noise rarely decides it. Shelter from the nor'west, frost and stock decide where the outdoor unit goes.
 
 ## Heat pump installation for a bigger McLeans Island house

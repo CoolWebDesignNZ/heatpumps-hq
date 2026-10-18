@@ -32,14 +32,12 @@ related:
 In most Aidanfield homes, the lounge is easy to heat. The bedrooms aren't. Aidanfield is a planned suburb in south-west Christchurch, between Halswell, Hoon Hay and Wigram. Its family homes are single-storey brick and plaster. They're newer than much of the city, so they hold heat better than an old villa.
 
 - **The living area:** the lounge, kitchen and dining usually sit together. One high wall unit, sized right, keeps that end warm.
-- **The bedrooms:** in some homes they're in their own wing, down a hall. Shut the doors and the lounge heat stays at the living end. So the bedrooms need their own heat. More on that below.
+- **The bedrooms:** in some homes they're in their own wing, down a hall, so they need their own heat.
 - **The heat pump you've got:** plenty of homes came with one. It may be getting on. We check if it's still worth keeping before we add anything.
 
 ## The cold bedroom wing in Aidanfield homes
 
-A lot of Aidanfield homes share a layout. Lounge, kitchen and dining together, then a hall off to the bedrooms. A heat pump in the living area can keep that end comfy. Very little of its heat gets down the hall once the bedroom doors are shut.
-
-The fix is usually one of these:
+A heat pump in the living area can keep that end comfy. Very little of its heat gets down the hall once the bedroom doors are shut.
 
 - **Small wall units:** one in each main bedroom. They can have their own outdoor units, or share one multi-room outdoor unit.
 - **A ducted retrofit:** if the roof space has room for the indoor unit and the ducts. Each bedroom gets a vent.
@@ -47,7 +45,7 @@ The fix is usually one of these:
 
 ## The original heat pump in an Aidanfield home
 
-If your home came with a heat pump, it may be well into its life. Watch for weaker heat on cold mornings. Louder running. Water dripping from the indoor unit. Or a flashing fault light.
+If your home came with a heat pump, it may be well into its life. Watch for weaker heat on cold mornings, louder running, water dripping from the indoor unit or a flashing fault light.
 
 Sometimes a good clean and service brings it back. Sometimes a [repair](/heat-pump-repair/) is worth it. And sometimes a modern unit, sized right, makes more sense. After we check it, we'll tell you which. We'll show you the fault we found, and how the unit's size stacks up against the room.
 

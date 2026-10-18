@@ -37,8 +37,6 @@ Do these in autumn, while it's still mild.
 
 ## Heat pump winter settings that work
 
-Heat mode. A steady temperature. Fan on auto. Louvres down. A timer. Doors shut.
-
 **Use heat mode, not auto.** On a mild winter afternoon, auto can flick between heating and cooling. Heat mode keeps it on one job.
 
 **Pick a steady temperature.** Setting it really high won't warm the room much faster. The unit just works hard for longer, and the room gets too hot. Pick a comfy number and leave it.
@@ -53,7 +51,7 @@ Heat mode. A steady temperature. Fan on auto. Louvres down. A timer. Doors shut.
 
 ## The outdoor unit in a Canterbury winter
 
-Over winter the outdoor unit copes with frost, meltwater, ice and the odd snowfall. Each one needs handling a bit differently.
+Over winter the outdoor unit copes with frost, meltwater, ice and the odd snowfall.
 
 **Frost and defrost.** On a cold, clear night, damp in the air freezes on the outdoor coil. The unit runs backwards for a few minutes to melt it. You'll see steam and hear a whoosh. The indoor fan stops while it does this. The room may feel a bit cooler for a moment. That's normal.
 
@@ -69,11 +67,11 @@ Over winter the outdoor unit copes with frost, meltwater, ice and the odd snowfa
 
 Call us about these before they get worse.
 
-- Air from the indoor unit only lukewarm
-- Outdoor unit running nonstop, but the room never warms up
-- Ice that won't clear
-- Steam or water coming from inside the house, not outside
-- A new grinding or rattling noise when it starts
+- **Only lukewarm air from the indoor unit.** It isn't putting out the heat it should.
+- **The outdoor unit runs nonstop, but the room never warms up.** It's working hard and the heat isn't reaching you.
+- **Ice that won't clear.** The defrost isn't keeping up.
+- **Steam or water coming from inside the house, not outside.** Defrost water belongs outside, so water indoors is a fault.
+- **A new grinding or rattling noise when it starts.** Something has worn or come loose.
 
 Some just need a clean. Some need a [repair](/heat-pump-repair/). An older unit that struggles every winter may be due for a [cold climate heat pump](/cold-climate-heat-pumps/) built to heat when it's freezing outside.
 

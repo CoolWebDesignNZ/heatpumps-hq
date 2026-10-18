@@ -44,7 +44,7 @@ related:
 
 ## The Daikin ducted heat pump range in New Zealand
 
-Daikin's New Zealand ducted range has five series. They're Slim-Line FBA, FDMA Modern Residential, Premium Inverter FDYA, Inverter Ducted FDYAN and Bulkhead FDYBA. The notes below follow how Daikin describes each one. For current models and full specs, check [Daikin's ducted heat pumps](https://www.daikin.co.nz/pages/ducted-heat-pumps).
+Daikin's New Zealand ducted range has five series. The notes below follow how Daikin describes each one. For current models and full specs, check [Daikin's ducted heat pumps](https://www.daikin.co.nz/pages/ducted-heat-pumps).
 
 | Series | What Daikin designed it for |
 | --- | --- |
@@ -67,7 +67,7 @@ The Daikin series we measure for depends a lot on the house and where it is.
 
 ## Matching a Daikin series to your house
 
-We check three things on site.
+Which series fits comes down to three things we check on site.
 
 - **Ceiling space.** How much clear height and access is there in the roof? A shallow or crowded space points to the slimmer series. A roomy one gives you more choice.
 - **What you're heating.** The whole house, the bedroom wing, or one room or area. A bulkhead unit for one area is a very different job from a whole-home system.

@@ -31,7 +31,6 @@ Parklands is flat land between Burwood and the coast. Most homes are single stor
 
 - **Brick and tile homes from the 1970s and 80s.** These usually have ceiling insulation and some wall insulation. Many still have their original aluminium windows. A lot of the heat goes out through the glass. So we measure the window area in each room. These houses hold heat better than an old weatherboard villa. They lose more than a new build. We size the unit for that middle ground.
 - **Newer homes on the later streets.** They've got better insulation and double glazing. A smaller unit can heat the same living area.
-- **The usual layout.** The lounge and kitchen are at one end, and the bedrooms are down a hallway. A lounge unit on its own leaves the bedrooms cold. The fixes are further down.
 
 ## Replacing a first heat pump in Parklands
 
@@ -39,11 +38,11 @@ Lots of Parklands homes already have a heat pump fitted years ago. When it reach
 
 ## Heating a whole Parklands house
 
-A typical Parklands house has the lounge and kitchen at one end and the bedrooms down a hallway. To heat both, you can:
+A typical Parklands house has the lounge and kitchen at one end and the bedrooms down a hallway. A lounge unit on its own leaves the bedrooms cold. To heat both, you can:
 
-- Add a second wall unit in the hallway or main bedroom.
-- Fit a [multi-room system](/multi-room-heat-pump-installation/) with one outdoor unit.
-- Go [ducted](/ducted-heat-pumps-christchurch/), if the roof space allows. You get even heat in every room.
+- **Add a second wall unit** in the hallway or main bedroom. It heats that end of the house on its own.
+- **Fit a [multi-room system](/multi-room-heat-pump-installation/).** Several indoor units run off one outdoor unit, so there's less gear outside.
+- **Go [ducted](/ducted-heat-pumps-christchurch/),** if the roof space allows. You get even heat in every room.
 
 ## Outdoor units and Parklands neighbours
 
@@ -53,7 +52,7 @@ Parklands is close enough to the coast for some salt to blow in on an easterly. 
 
 ## Heat pump repair and servicing in Parklands
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands. A service once a year before winter covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold sets in. If something's failed, call us for [repairs](/heat-pump-repair/).
+We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands. A service once a year covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold sets in. If something's failed, call us for [repairs](/heat-pump-repair/).
 
 ## Suburbs near Parklands
 

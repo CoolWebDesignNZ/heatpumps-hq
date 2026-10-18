@@ -31,7 +31,6 @@ Most Russley homes are brick and tile family houses from the 1960s to the 1980s.
 
 - **Adding to a family room unit you already have.** Put a small, quiet wall unit in each bedroom you use. Or run the bedrooms from one new outdoor unit with a [multi-room system](/multi-room-heat-pump-installation/).
 - **Heating the whole house.** Go [ducted](/ducted-heat-pumps-christchurch/) if the ceiling space allows. You get a vent in each room and nothing on the walls.
-- **A formal lounge you only use now and then.** Some homes have one. It gets its own small unit, or a zone you can close off. More on that below.
 - **Bigger homes on bigger sections.** More rooms to cover and longer pipe runs. These more often go ducted or multi-room.
 
 In homes this age, the ceiling insulation can be thin or settled. Single glazed windows lose heat on frosty nights. We check both at the quote, because they decide how big each unit needs to be. Russley sits beside Russley Road on the western edge of Christchurch. It's close to the airport and the golf course, and many homes are on quiet cul-de-sacs.

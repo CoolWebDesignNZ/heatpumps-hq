@@ -39,7 +39,6 @@ The biggest difference is reach. A split heats the room it's in. Ducted heats ev
 
 | | Split system | Ducted system |
 | --- | --- | --- |
-| Rooms heated | The room it's in | Every room with an outlet |
 | What you see | A unit on the wall or floor | Ceiling or floor grilles and a controller |
 | Control | Each unit set on its own | One controller, with zones if fitted |
 | Space needed | An outside wall and a spot for the outdoor unit | Roof or underfloor space for the unit and ducts |
@@ -50,27 +49,21 @@ The biggest difference is reach. A split heats the room it's in. Ducted heats ev
 
 ## When a split system makes more sense
 
-Splits are the usual pick in these cases.
-
 - **You mostly want the living area warm.** One well sized unit in the lounge may be all the house needs. Maybe a second for the main bedroom.
 - **The roof space is tight.** A low pitch, a skillion roof or a ceiling full of services can make ducting hard or costly.
 - **The house is older and finished.** In a villa, cutting vents and running ducts through lath and plaster ceilings is a big job. A wall unit is far simpler.
 - **You want to spread the cost.** Start with the room that matters most. Add another later.
 - **You want each room on its own.** If one unit has a fault, the rest keep going.
 
-The trade-off? You see the units on the walls. Each system has its own outdoor unit. And rooms without a unit rely on warm air drifting in.
+The trade-off? Each system has its own outdoor unit, and rooms without a unit rely on warm air drifting in.
 
 ## When ducted makes more sense
-
-Think hard about ducted in these cases.
 
 - **You want the whole house warm.** Bedrooms, hall and bathroom too, not one warm room and cold corridors.
 - **You don't want units on the walls.** Ducted leaves walls and floors clear. Nothing to work the furniture round.
 - **It's a new build or a big renovation.** With the ceilings open, ducts go in with far less mess.
 - **There's good roof space.** A pitched roof with room for the unit and clear routes to each room.
 - **You'll use zoning.** A zone controller lets you heat the living areas by day and the bedrooms at night. See [heat pump zoning](/heat-pump-zoning/).
-
-The trade-offs? It's a bigger job up front. You need roof or floor space. And one system serves every room, so a fault hits the whole house.
 
 ## Comfort and airflow from ducted vs high wall heat pumps
 

@@ -48,7 +48,7 @@ Not sure? Start with a [service](/maintenance-servicing/). Clogged filters and d
 
 ## What we check before quoting a replacement
 
-A new heat pump is a chance to fix what wasn't right the first time. Before we quote, we look at:
+A new heat pump is a chance to fix what wasn't right the first time, so we check all of it before we quote:
 
 - **The room as it is now.** Insulation, new windows and renovations all change how much heat it needs.
 - **Where the indoor unit sits.** If the old one blew into a corner or onto the couch, we'll suggest a better wall.
@@ -61,9 +61,7 @@ If you don't have a heat pump yet, we measure each room. We check how it's insul
 
 ## Heat pump installs, service and repairs in Spreydon
 
-- **New installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems.
-- **Replacements.** Older units swapped out.
-- **Servicing and [repairs](/heat-pump-repair/).** Those brands, plus Panasonic.
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, new or in place of an older unit. Our servicing and [repairs](/heat-pump-repair/) cover those brands, plus Panasonic.
 
 We also work in [Somerfield](/somerfield/), [Hillmorton](/hillmorton/), [Hoon Hay](/hoon-hay/) and [Addington](/heat-pumps-addington/).
 

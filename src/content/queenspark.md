@@ -31,16 +31,15 @@ In Queenspark we size a heat pump for the house as it is now. Many of its family
 
 - **Original windows and insulation.** These homes lose more heat through the glass and walls. The lounge needs more capacity than in a newer house the same size.
 - **Double glazing and wall insulation added.** These may need a smaller heat pump than their age suggests.
-- **Extended homes.** Some have the lounge opened up to the kitchen or carried through into a family room. The space to heat is bigger than the original plan shows.
+- **Extended homes.** Some have the lounge opened up to the kitchen or carried through into a family room.
 
 Everything's on one level. So a lounge unit, plus bedroom units where you want them, can cover the whole house.
 
 ## Wall, floor or ceiling heat pumps in Queenspark
 
-Most Queenspark living rooms suit a high wall unit. We mount it where the air can reach across the room without blowing straight at the couch. It isn't the only choice, though:
+Most Queenspark living rooms suit a high wall unit. It's compact and quiet. We mount it where the air can reach across the room without blowing straight at the couch. Where a high wall unit doesn't suit, there are two other options:
 
 - **Floor console.** Good under a window, or in a room without much wall space up high.
-- **High wall.** The most common choice. Compact and quiet.
 - **Ducted.** Hidden in the ceiling with a vent in each room, if the roof space allows.
 
 Which one suits your lounge is the main question in [choosing a heat pump](/choosing-heat-pump/).

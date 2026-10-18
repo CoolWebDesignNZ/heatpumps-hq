@@ -37,11 +37,9 @@ Fendalton is one of Christchurch's older, leafier suburbs. It lies west and nort
 - **Roomy mid-century homes:** these often have large areas of glass. Glass loses heat fast after dark. We size for the windows as well as the room.
 - **Newer rebuilds:** they're well insulated. Each living area can run on one unit, sized right.
 
-A single wall unit rarely covers a home this size. Most Fendalton jobs end up multi-room or ducted. Here's how that works.
-
 ## Heat pump installation for big Fendalton rooms
 
-One wall unit seldom heats a big Fendalton home. These are the usual ways we do it:
+One wall unit seldom heats a big Fendalton home, so most jobs end up ducted, multi-room or a mix of the two.
 
 - **[Ducted heating](/ducted-heat-pumps-christchurch/):** one or two indoor units in the roof space feed ceiling vents in every room. There's nothing on the walls, which suits a house where looks matter.
 - **[Multi-room systems](/multi-room-heat-pump-installation/):** several indoor units, picked to sit quietly in the room, running off shared outdoor units.

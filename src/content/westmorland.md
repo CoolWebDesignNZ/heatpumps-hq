@@ -33,21 +33,16 @@ The hard part in a Westmorland home isn't making enough heat. It's getting the h
 
 - **Two-level homes that follow the slope.** The living areas and bedrooms are on different floors. Warm air climbs the stairwell. A unit downstairs overheats the landing and leaves the lower rooms cool. A unit upstairs does nothing for the floor below. Each level needs its own unit or its own zone.
 - **Large single-level homes.** Insulation and glazing beat older housing, so each room needs less capacity. The problem is distance. The living wing can sit at one end, with the bedrooms down a hall at the other. A [multi-room system](/multi-room-heat-pump-installation/) puts a small unit in each room you use, all on one outdoor unit.
-- **Living rooms with big windows over the city.** They get strong sun by day and lose heat through the glass at night. We size that room's unit for both, as set out below.
 
 At the quote we walk through the house one level at a time. We note which rooms you use, and when. Then we size each unit or zone from the insulation and glass in that part of the house.
 
 ## Zoning heat pumps in a larger Westmorland house
 
-Big homes have rooms used at very different times. You're in the family room and kitchen in the evening. The study gets used during the day and the bedrooms at night. The guest room hardly gets used at all. Heating every room to one temperature burns more power than you need. [Zoning](/heat-pump-zoning/) splits the house up.
-
-We do it three ways:
+Big homes have rooms used at very different times. You're in the family room and kitchen in the evening. The study gets used during the day and the bedrooms at night. The guest room hardly gets used at all. Heating every room to one temperature burns more power than you need. [Zoning](/heat-pump-zoning/) splits the house up, in one of three ways:
 
 - **Separate wall units** in the rooms that need them. Each one has its own controller.
 - **A multi-room system.** Several indoor units run off one outdoor unit. The outside of the house stays tidier.
 - **Ducted with zones.** Dampers send air only to the parts of the house you choose.
-
-On a two-level home, upstairs and downstairs often want different settings, since the warm air heads up the stairs. Separate zones sort that out.
 
 ## Sun and glass on the Westmorland hill
 
@@ -55,13 +50,7 @@ Plenty of homes on the slope look out over the city through big living room wind
 
 ## Outdoor units for hillside sections
 
-Westmorland sits on the lower Port Hills, between Cashmere and Hoon Hay. Newer sections on the hill are often terraced. Many have retaining walls, with the garage below the living level. The outdoor unit usually ends up in one of three spots:
-
-- **Beside the garage.**
-- **On a bracket** on a solid wall.
-- **On a pad** on a lower terrace.
-
-Each spot needs clear airflow, a way to drain and room for us to service it. Noise travels on a slope. The [boundary guide](/heat-pump-boundary-rules-consent-nz/) covers noise toward your neighbours.
+Westmorland sits on the lower Port Hills, between Cashmere and Hoon Hay. Newer sections on the hill are often terraced. Many have retaining walls, with the garage below the living level. The outdoor unit usually ends up beside the garage, on a bracket on a solid wall, or on a pad on a lower terrace. Each spot needs clear airflow, a way to drain and room for us to service it. Noise travels on a slope. The [boundary guide](/heat-pump-boundary-rules-consent-nz/) covers noise toward your neighbours.
 
 ## Areas near Westmorland
 

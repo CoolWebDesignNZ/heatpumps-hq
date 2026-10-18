@@ -52,7 +52,7 @@ So you're not choosing between an air conditioner and a heat pump. The real ques
 
 ## Air con installation for Christchurch summers
 
-Canterbury summers bring their own problems for cooling. These are the ones we plan for.
+Canterbury summers bring their own problems for cooling, and they change across the city.
 
 - **Hot nor'west days.** In [Harewood](/harewood/) and on the open land at [McLeans Island](/mcleans-island/), the dry nor'west can make summer days hard going. North and west facing rooms get first call on a unit, and we put the outdoor unit out of the prevailing wind. Those winds carry dust, so we show you how to keep the filters clear when the unit runs hard on cooling.
 - **Apartments with a wall of glass.** A north or west facing apartment in the [Central City](/central-business-district-cbd/) can get too hot on a summer afternoon. We size for cooling as well as heating, and check what the body corporate allows before we settle where the outdoor unit goes.
@@ -83,10 +83,6 @@ Lots of heat pumps have a dry mode. It takes moisture out of the air with less c
 
 ## Air conditioning for more than one room
 
-Several rooms getting too hot? You've got the same choices as for heating.
-
-- A unit in each room
-- A [multi room system](/multi-room-heat-pump-installation/) with one outdoor unit
-- A [ducted system](/ducted-heat-pumps-christchurch/) with a vent in every room
+Several rooms getting too hot? You've got the same choices as for heating: a unit in each room, a [multi room system](/multi-room-heat-pump-installation/) with one outdoor unit, or a [ducted system](/ducted-heat-pumps-christchurch/) with a vent in every room.
 
 Ducted cooling suits upstairs bedrooms well. The ducts and indoor unit can sit in the roof space right above them.

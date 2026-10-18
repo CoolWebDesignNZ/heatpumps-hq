@@ -63,12 +63,7 @@ How ZoneIQ, Lossnay and the splittable units fit in depends on your house.
 
 ## ZoneIQ for Mitsubishi Electric ducted systems
 
-A standard ducted system runs off one thermostat. It sends air to every room at once. ZoneIQ gives you room by room control instead. Mitsubishi Electric says it:
-
-- controls up to 10 zones
-- can use a sensor in each zone that sends temperature and humidity to the main controller
-- lets you set each zone's temperature in 0.5 degree steps
-- adjusts the airflow room by room, and works over Wi-Fi
+A standard ducted system runs off one thermostat. It sends air to every room at once. ZoneIQ gives you room by room control instead. Mitsubishi Electric says it controls up to 10 zones, and each zone can have a sensor that sends its temperature and humidity to the main controller. You set each zone's temperature in 0.5 degree steps. It adjusts the airflow room by room, and it works over Wi-Fi.
 
 Mitsubishi Electric notes one limit. A zoned system can't heat some rooms and cool others at the same time. The whole system runs in one mode.
 

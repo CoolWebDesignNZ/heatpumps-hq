@@ -31,7 +31,7 @@ Most Hillmorton homes have a separate lounge and a hallway of closed bedrooms. F
 
 - **Established bungalows, brick and weatherboard houses.** They lose heat through the ceiling, the floor and older single glazed windows. A high wall unit sized for the lounge works far better than one big unit turned up high. Add a compact unit in each bedroom that stays cold. A [multi-room system](/multi-room-heat-pump-installation/) runs those indoor units off one outdoor unit. Top up the ceiling and underfloor insulation first, and each room may need a smaller unit.
 - **Units.** The living area is smaller. One high wall unit sized right usually heats it. A small second unit suits the main bedroom if it's at the cold end of the building.
-- **Sections on the southern side, closer to the Port Hills.** These have more of a fall. That changes the outside work, not the indoor unit. The outdoor unit may go on a bracket or a pad cut into the bank. More on that below.
+- **Sections on the southern side, closer to the Port Hills.** These have more of a fall. That changes the outside work, not the indoor unit.
 
 Hillmorton sits between Spreydon, Hoon Hay and Cashmere. So flat and sloping installs are often just a few streets apart. When we come to quote, we measure each room. We look over the insulation and windows. We work out where the outdoor unit can sit, drain and be reached for servicing.
 
@@ -39,7 +39,7 @@ Hillmorton sits between Spreydon, Hoon Hay and Cashmere. So flat and sloping ins
 
 Flat sections make the outside work simple. Frost is the main thing to plan for. Cold air settles on still winter nights. So the unit goes up on feet. Then water from defrosting runs off and doesn't ice up underneath.
 
-The unit sits on a concrete pad or raised feet beside the house, usually at the side or back. The pipe run is short, through the wall or under the floor. We keep it away from the neighbour's bedroom window. We keep it clear of downpipes that could drip on it. And we keep it out of tight corners, where it would suck its own cold air back in.
+It usually sits at the side or back of the house. The pipe run is short, through the wall or under the floor. We keep it away from the neighbour's bedroom window. We keep it clear of downpipes that could drip on it. And we keep it out of tight corners, where it would suck its own cold air back in.
 
 ## Hillmorton sections on a slope
 

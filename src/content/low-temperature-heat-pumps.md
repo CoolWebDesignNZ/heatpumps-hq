@@ -33,8 +33,6 @@ That number is a limit. It's not a promise of full output. Two things happen as 
 
 ## What happens to a heat pump below zero
 
-Below zero, the output drops. And frost forms on the outdoor coil, so the unit spends some of its effort defrosting.
-
 ### Output drops
 
 A heat pump moves heat from the outside air into the house. The colder that air, the more work each bit of heat takes. Some models hold their output well as it gets colder. Others give less heat on a frosty morning than on a mild afternoon. That's just when the house needs more. So size for cold mornings.
