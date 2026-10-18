@@ -33,6 +33,7 @@ Apart from the quote form, the site collects nothing about you.
 - **No analytics.** We don't run Google Analytics or any other visitor tracking on this site.
 - **No tracking or advertising cookies.** The site doesn't set cookies to follow you round the web.
 - **No mailing lists.** We don't add you to a newsletter or send you marketing.
+- **The map in the footer** loads from OpenStreetMap. Like any website, OpenStreetMap sees your IP address when the map loads. See the [OpenStreetMap privacy policy](https://osmfoundation.org/wiki/Privacy_Policy).
 
 ## Why we collect it
 

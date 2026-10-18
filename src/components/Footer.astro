@@ -1,49 +1,86 @@
 ---
 import site from '../data/site.json';
-import urls from '../data/urls.json';
-const pick = (t) => urls.filter((u) => u.type === t).slice(0, 8);
-const label = (slug) => slug === 'central-business-district-cbd' ? 'Central City' : slug.replace(/^heat-pumps-/, '').replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+const services = [
+  ['Heat pump installation', '/heat-pump-installation-in-christchurch/'],
+  ['Ducted heat pumps', '/ducted-heat-pumps-christchurch/'],
+  ['Multi-room heat pumps', '/multi-room-heat-pump-installation/'],
+  ['Single room heat pumps', '/single-room-heat-pump-installation/'],
+  ['Air conditioning', '/air-conditioning-installation-christchurch/'],
+  ['Heat pump servicing', '/heat-pump-servicing/'],
+  ['Heat pump cleaning', '/heat-pump-cleaning/'],
+  ['Heat pump repairs', '/heat-pump-repair/'],
+  ['Urgent repairs', '/emergency-heat-pump-repair/'],
+  ['Leak detection and repair', '/leak-detection-repair/'],
+];
+const company = [
+  ['Home', '/'],
+  ['About', '/about-us/'],
+  ['Services', '/heat-pump-services/'],
+  ['Locations', '/locations/'],
+  ['How heat pumps work', '/how-heat-pumps-work/'],
+  ['Size calculator', '/calculator-single-room-heat-pump/'],
+  ['Installation cost', '/heat-pump-installation-cost-christchurch/'],
+  ['Contact', '/contact-us/'],
+];
+// OpenStreetMap embed (no tracking cookies) framed on Christchurch and the Selwyn towns.
+const map = 'https://www.openstreetmap.org/export/embed.html?bbox=172.36%2C-43.70%2C172.82%2C-43.43&layer=mapnik';
 ---
 <footer class="ftr">
-  <div class="wrap grid grid-3">
+  <div class="wrap cols">
     <div>
       <p class="f-name">{site.name}</p>
-      <p>Heat pump installation, servicing and repair across {site.area}. Locally owned since {site.founded}.</p>
-      <p><a href={site.phoneHref}>{site.phone}</a><br /><a href={`mailto:${site.email}`}>{site.email}</a></p>
+      <p class="f-blurb">We fit, service and repair heat pumps in homes across Christchurch, Selwyn and Lyttelton. Mitsubishi Electric, Daikin, Fujitsu and Toshiba installed, all the major brands serviced, and a fixed price before we start.</p>
+      <a class="f-call" href={site.phoneHref}><span>Call now</span>{site.phone}</a>
+      <p class="f-head">Hours</p>
       <p>{site.hours[0].days}, {site.hours[0].label}</p>
+      <p><a href={`mailto:${site.email}`}>{site.email}</a></p>
     </div>
     <div>
-      <p class="f-head">Services</p>
-      <ul>
-        <li><a href="/heat-pump-installation-in-christchurch/">Heat pump installation</a></li>
-        <li><a href="/maintenance-servicing/">Servicing</a></li>
-        <li><a href="/heat-pump-repair/">Repairs</a></li>
-        <li><a href="/ducted-heat-pumps-christchurch/">Ducted heat pumps</a></li>
-        <li><a href="/air-conditioning-installation-christchurch/">Air conditioning</a></li>
-      </ul>
+      <p class="f-head">Heat pump services</p>
+      <ul>{services.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>
+      <a class="f-more" href="/heat-pump-services/">All heat pump services →</a>
     </div>
     <div>
-      <p class="f-head">Areas</p>
-      <ul>
-        {pick('suburb').map((u) => <li><a href={u.path}>{label(u.slug)}</a></li>)}
-        <li><a href="/locations/">All locations</a></li>
-      </ul>
+      <p class="f-head">Service area</p>
+      <iframe class="f-map" src={map} title="Map of Christchurch and the Selwyn towns we cover" loading="lazy"></iframe>
+      <p class="f-biz">{site.name}</p>
+      <p>Every Christchurch suburb, Lyttelton, and the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu.</p>
+      <p><a class="f-phone" href={site.phoneHref}>{site.phone}</a></p>
+      <a class="f-more" href="/locations/">All locations →</a>
+    </div>
+    <div>
+      <p class="f-head">Company</p>
+      <ul>{company.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>
     </div>
   </div>
   <div class="wrap legal">
-    <span>© {new Date().getFullYear()} {site.name}, Christchurch</span>
-    <a href="/terms-and-conditions/">Terms</a>
-    <a href="/privacy-policy/">Privacy</a>
-    <a href={site.facebook} rel="noopener">Facebook</a>
+    <span>{site.name} is Nate Thompson's heat pump business in Christchurch, running since {site.founded}.</span>
+    <span class="legal-links">
+      <a href="/terms-and-conditions/">Terms</a>
+      <a href="/privacy-policy/">Privacy</a>
+      <a href={site.facebook} rel="noopener">Facebook</a>
+    </span>
   </div>
 </footer>
 <style>
-  .ftr { background: var(--paper-warm); padding: 72px 0 32px; }
-  .ftr ul { list-style: none; padding: 0; }
-  .ftr li { margin-bottom: 6px; }
-  .ftr a { color: var(--ink); text-decoration: none; }
-  .ftr a:hover { color: var(--brand); }
-  .f-name { font-weight: 800; font-size: 1.3rem; }
-  .f-head { font-weight: 700; }
-  .legal { display: flex; gap: 24px; flex-wrap: wrap; padding-top: 32px; color: var(--ink-soft); }
+  .ftr { background: #0b2a40; color: rgba(255, 255, 255, .86); padding: 72px 0 28px; }
+  .cols { display: grid; grid-template-columns: 1.2fr 1fr 1fr .8fr; gap: 48px; }
+  .ftr p { margin: 0 0 12px; }
+  .ftr a { color: rgba(255, 255, 255, .86); text-decoration: none; }
+  .ftr a:hover { color: #fff; text-decoration: underline; }
+  .ftr ul { list-style: none; padding: 0; margin: 0 0 14px; }
+  .ftr li { margin-bottom: 8px; }
+  .f-name { font-weight: 800; font-size: 1.5rem; color: #fff; letter-spacing: -0.01em; }
+  .f-blurb { line-height: 1.6; }
+  .f-head { font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: .08em; font-size: 1rem; margin-bottom: 18px !important; }
+  .ftr .f-call { display: inline-block; background: #fff; color: var(--brand-ink); border-radius: 12px; padding: 12px 22px; margin: 10px 0 32px; font-weight: 800; font-size: 1.5rem; line-height: 1.2; }
+  .ftr .f-call:hover { text-decoration: none; background: var(--brand-tint); color: var(--brand-ink); }
+  .f-call span { display: block; font-size: .75rem; letter-spacing: .1em; text-transform: uppercase; font-weight: 700; }
+  .ftr .f-more, .ftr .f-phone { color: #8fd0f5; font-weight: 700; }
+  .f-map { width: 100%; aspect-ratio: 1; border: 0; border-radius: 10px; margin-bottom: 14px; background: #1c3d55; }
+  .f-biz { font-weight: 700; color: #fff; margin-bottom: 4px !important; }
+  .legal { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; margin-top: 48px; padding-top: 22px; border-top: 1px solid rgba(255, 255, 255, .14); font-size: .95rem; color: rgba(255, 255, 255, .7); }
+  .legal-links { display: flex; gap: 22px; }
+  @media (max-width: 1000px) { .cols { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 600px) { .cols { grid-template-columns: 1fr; gap: 36px; } }
 </style>

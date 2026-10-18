@@ -22,6 +22,6 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 - Meta description: unique, 120 to 158 characters, does not repeat the title. Lead with the searcher's problem or the main keyword, say exactly what the page gives them, and end with a concrete reason to click (fixed-price quote, the actual limits, all brands). Every description different. No phone numbers, no brand-name stuffing.
 
 ## Design
-- No icons, no coloured borders, no dark section backgrounds (dark only as an overlay on hero photos), body text 18px or larger, Inter, lots of photos.
+- No icons, no coloured borders, no dark section backgrounds (dark only as an overlay on hero photos, and the footer, which the client asked to be dark), body text 18px or larger, Inter, lots of photos.
 - Text runs the full container width.
 - Images come from Ideogram (`npm run images`, needs `IDEOGRAM_API_KEY`). No photo is presented as Nate or his team.
