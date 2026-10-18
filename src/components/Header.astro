@@ -11,7 +11,7 @@ const here = Astro.url.pathname;
 ---
 <header class="hdr">
   <div class="wrap hdr-in">
-    <a href="/" class="logo">{site.name}</a>
+    <a href="/" class="logo"><img src="/logo-dark.png" alt={site.name} width="279" height="92" /></a>
     <nav class="main" aria-label="Main">
       <ul>
         {menus.map((m) => (
@@ -48,7 +48,8 @@ const here = Astro.url.pathname;
 <style>
   .hdr { background: #fff; position: sticky; top: 0; z-index: 10; box-shadow: 0 1px 0 rgba(0,0,0,.06); }
   .hdr-in { display: flex; align-items: stretch; gap: 32px; min-height: 76px; }
-  .logo { align-self: center; font-weight: 800; font-size: 1.3rem; color: var(--ink); text-decoration: none; letter-spacing: -0.02em; }
+  .logo { align-self: center; display: block; line-height: 0; }
+  .logo img { height: 52px; width: auto; }
   .main { margin-left: auto; display: flex; }
   .main > ul { display: flex; gap: 28px; list-style: none; margin: 0; padding: 0; }
   .main > ul > li { display: flex; align-items: center; position: relative; }
@@ -80,5 +81,5 @@ const here = Astro.url.pathname;
 
   @media (max-width: 980px) { .main { display: none; } .mnav { display: block; } .call { margin-left: auto; } }
   .call-short { display: none; }
-  @media (max-width: 560px) { .hdr-in { gap: 12px; } .logo { font-size: 1.1rem; } .call { padding: 10px 16px; } .call-long { display: none; } .call-short { display: inline; } }
+  @media (max-width: 560px) { .hdr-in { gap: 12px; } .logo img { height: 40px; } .call { padding: 10px 16px; } .call-long { display: none; } .call-short { display: inline; } }
 </style>
