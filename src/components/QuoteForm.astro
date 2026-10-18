@@ -1,15 +1,16 @@
 ---
-import site from '../data/site.json';
 interface Props { suburb?: string }
 const { suburb = '' } = Astro.props;
 ---
 <form class="qf" method="post" action="/api/quote">
   <h2 class="qf-h">Get a free quote</h2>
+  <input type="hidden" name="suburb" value={suburb} />
   <div class="row">
     <label>Name<input name="name" required autocomplete="name" /></label>
     <label>Phone<input name="phone" type="tel" required autocomplete="tel" /></label>
   </div>
-  <label>Suburb<input name="suburb" value={suburb} autocomplete="address-level2" /></label>
+  <label>Email <span class="opt-note">(optional)</span><input name="email" type="email" autocomplete="email" /></label>
+  <label>Street address<input name="address" autocomplete="street-address" placeholder="Helps the installer and saves time" /></label>
   <fieldset>
     <legend>What do you need?</legend>
     <div class="opts">
@@ -18,27 +19,28 @@ const { suburb = '' } = Astro.props;
       ))}
     </div>
   </fieldset>
-  <label>Anything else? <span class="opt-note">(optional)</span><textarea name="message" rows="2" placeholder="Rooms to heat, or the fault you're seeing"></textarea></label>
+  <label>Type a brief description below<textarea name="message" rows="2" placeholder="Area you want to heat, fault description..."></textarea></label>
   <button class="btn btn-primary" type="submit">Request my quote</button>
-  <p class="qf-note">No obligation. We'll call you back, or ring <a href={site.phoneHref}>{site.phone}</a>.</p>
+  <p class="qf-note">No obligation. We'll call or email you back.</p>
 </form>
 <style>
-  .qf { background: #fff; border-radius: var(--radius); box-shadow: 0 20px 50px rgba(0, 0, 0, .22); padding: 30px 30px 24px; color: var(--ink); }
-  .qf-h { font-size: 1.45rem; margin-bottom: .6em; }
-  .qf label { display: block; font-weight: 600; font-size: 1rem; margin-top: 14px; }
-  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .qf { background: #fff; border-radius: 12px; box-shadow: 0 20px 50px rgba(0, 0, 0, .22); padding: 20px 20px 16px; color: var(--ink); max-width: 460px; }
+  .qf-h { font-size: 1.25rem; margin: 0 0 .5em; }
+  .qf label { display: block; font-weight: 600; font-size: .85rem; margin-top: 10px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
   .row label { margin-top: 0; }
-  .qf input:not([type=radio]), .qf textarea { display: block; width: 100%; margin-top: 6px; padding: 13px 14px; font: inherit; border: 0; border-radius: 10px; background: var(--paper-warm); }
-  .qf input:focus, .qf textarea:focus { outline: 2px solid var(--brand); }
-  fieldset { border: 0; padding: 0; margin: 14px 0 0; }
-  legend { font-weight: 600; font-size: 1rem; padding: 0; }
-  .opts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 6px; }
+  .qf input:not([type=radio]), .qf textarea { display: block; width: 100%; margin-top: 4px; padding: 9px 11px; font: inherit; font-size: 16px; font-weight: 400; border: 1px solid #c9ced4; border-radius: 6px; background: #fff; }
+  .qf input::placeholder, .qf textarea::placeholder { color: #8a929b; }
+  .qf input:focus, .qf textarea:focus { outline: 2px solid var(--brand); outline-offset: -1px; border-color: transparent; }
+  fieldset { border: 0; padding: 0; margin: 10px 0 0; }
+  legend { font-weight: 600; font-size: .85rem; padding: 0; }
+  .opts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 4px; }
   .qf .opt { margin: 0; }
   .opt input { position: absolute; opacity: 0; }
-  .opt span { display: block; text-align: center; padding: 12px 6px; border-radius: 10px; background: var(--paper-warm); font-weight: 600; cursor: pointer; }
-  .opt input:checked + span { background: var(--brand); color: #fff; }
+  .opt span { display: block; text-align: center; padding: 7px 4px; border: 1px solid #c9ced4; border-radius: 6px; font-weight: 500; font-size: .9rem; cursor: pointer; }
+  .opt input:checked + span { background: var(--brand); border-color: var(--brand); color: #fff; }
   .opt input:focus-visible + span { outline: 2px solid var(--brand-ink); }
   .opt-note { font-weight: 400; color: var(--ink-soft); }
-  .qf button { width: 100%; margin-top: 20px; border: 0; cursor: pointer; }
-  .qf-note { font-size: 1rem; color: var(--ink-soft); margin: 14px 0 0; text-align: center; }
+  .qf button { width: 100%; margin-top: 14px; padding: 12px; border: 0; border-radius: 6px; font-size: 1rem; cursor: pointer; }
+  .qf-note { font-size: .8rem; color: var(--ink-soft); margin: 10px 0 0; }
 </style>

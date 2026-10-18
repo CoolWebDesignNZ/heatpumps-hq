@@ -19,11 +19,12 @@ This website only collects the personal information you type into the quote form
 
 - your name
 - your phone number
-- your suburb
+- your email address, if you add it
+- your street address, if you add it
 - the type of job (installation, repair or service)
 - any message you add
 
-If you phone or email us instead, we keep what you tell us in the same way. If you email, we keep your email address too.
+If you phone or email us instead, we keep what you tell us in the same way. If you email us, we keep your email address too.
 
 ## What we don't collect
 

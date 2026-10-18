@@ -31,7 +31,7 @@ Phone, email, or find us on Facebook.
 - **Hours:** Monday to Friday, 8am to 5pm
 - **Facebook:** [facebook.com/heatpumphq](https://www.facebook.com/heatpumphq)
 
-Want a quote? The form at the top asks for your name, phone number, suburb and the kind of job. We'll call you back to talk it through.
+Want a quote? The form at the top asks for your name, phone number and the kind of job. Add your email and street address if you like. We'll call you back to talk it through.
 
 ## Areas we cover
 
