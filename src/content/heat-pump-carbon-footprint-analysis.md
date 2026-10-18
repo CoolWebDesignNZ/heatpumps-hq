@@ -41,7 +41,7 @@ MBIE says strong hydro and new solar cut the need for natural gas that quarter. 
 
 ## Efficiency multiplies the benefit
 
-A heat pump doesn't make heat. It moves heat from the outside air into the house. So it puts out more heat than the power it uses. EECA's label guide says a one star heat pump has a seasonal performance factor of 2.5 to 3. Units with more stars do better ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Less power for each bit of heat means lower emissions too.
+A heat pump doesn't create heat. It shifts it in from outside. So it puts out more heat than the power it uses. EECA's label guide says a one star heat pump has a seasonal performance factor of 2.5 to 3. Units with more stars do better ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Less power for each bit of heat means lower emissions too.
 
 So two things shrink the power side of the footprint. A well rated unit, fitted right. Then running it well. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
 
@@ -77,4 +77,4 @@ Mostly, choose it well and look after it.
 - Get it serviced every year, so leaks get caught early.
 - If the unit is sound, repair it. Don't replace it.
 
-Want a heat pump that suits your house and runs efficiently? Call **03 242 1023** or [ask for a free fixed-price quote](/contact-us/).
+Want a heat pump that suits your house and runs efficiently? Give us a call on **03 242 1023**, or [ask for a free fixed-price quote](/contact-us/).

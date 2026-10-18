@@ -66,7 +66,7 @@ A heat pump's output and efficiency aren't fixed. They drop as the gap between t
 Two things happen in the cold.
 
 - **Less heat out.** The colder the air, the less heat the outdoor coil can collect. Some models keep working well below freezing. Others struggle. That's why the label also shows heating output at 2°C. It's what sets [cold climate heat pumps](/cold-climate-heat-pumps/) apart.
-- **Defrosting.** Below about 7°C, moisture in the air can freeze on the outdoor coil. The unit runs backwards for a few minutes to melt it. No heat comes out while it does. You may see steam rising off the outdoor unit. EECA notes a heat pump that's too small has to defrost more often.
+- **Defrosting.** Below about 7°C, moisture in the air can freeze on the outdoor coil. The unit reverses for a few minutes to melt the ice. No heat comes out while it does. You may see steam rising off the outdoor unit. EECA notes a heat pump that's too small has to defrost more often.
 
 That's the main reason sizing matters so much in Canterbury. EECA's guide lists the outside design temperature for Christchurch City and Selwyn District as **minus 4°C**. When [sizing a heat pump](/heat-pump-sizing/), pick a unit for its output at that temperature. Not at 7°C.
 
@@ -88,4 +88,4 @@ The indoor unit can be a high wall unit, a floor console, a ceiling cassette or 
 
 It only works if air can move freely over both coils. Clogged filters cut output and push up power use. So does a dusty indoor coil, or leaves packed round the outdoor unit. EECA suggests cleaning the filters as often as once a month when you use it a lot. A yearly [service](/maintenance-servicing/) keeps the coils, fans and drains clean.
 
-Planning a new system? Start with [buying a heat pump](/choosing-heat-pump/). Or call **03 242 1023** for a free quote. We size each one from your rooms, insulation and windows. You get a fixed price before we start.
+Planning a new system? Start with [buying a heat pump](/choosing-heat-pump/). Or call **03 242 1023** for a free quote. We size each one from your rooms, insulation and windows. You know the full price before we lift a tool.

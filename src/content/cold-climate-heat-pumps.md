@@ -42,7 +42,7 @@ Check three figures for the exact model. The 2°C heating output. The Cold zone 
 
 New heat pump models sold here carry the Zoned Energy Rating Label. It shows the heating output at two outdoor temperatures, 7°C and 2°C. Here's EECA's advice. If your winter nights get down to 2°C or lower, check the 2°C figure is the same as the 7°C one, or higher. Use it to compare models. Some units don't cope well with frost. They give less heat at 2°C than at 7°C.
 
-Source: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
+EECA sets this out in [The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
 
 ### Heating stars for the Cold zone
 
@@ -77,6 +77,6 @@ Frosts are usually harder out on the plains than near the coast. In Rolleston, L
 
 ## Getting a quote for a cold climate heat pump
 
-We size the unit for your coldest rooms. For each model we suggest, we show you the 2°C heating output and the Cold zone heating stars. That way you're comparing like with like. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+We size the unit for your coldest rooms. For each model we suggest, we show you the 2°C heating output and the Cold zone heating stars. That way you're comparing like with like. Those models can come from any of our four brands: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 
 For a free fixed-price quote, call **03 242 1023** or [ask for a quote online](/contact-us/).

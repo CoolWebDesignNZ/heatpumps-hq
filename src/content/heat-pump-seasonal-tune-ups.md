@@ -55,7 +55,7 @@ A tune-up is about being ready. A full [heat pump service](/heat-pump-servicing/
 - **Not serviced for a year or more?** Get the full service. It covers everything in a tune-up.
 - **A smell, a drip or dust on the wall?** You need a clean. See [heat pump cleaning](/heat-pump-cleaning/).
 
-When you book, we'll tell you which one your unit needs. We agree the price before we start.
+When you book, we'll tell you which one your unit needs. The price is agreed up front.
 
 ## Seasonal heat pump maintenance in autumn and spring
 

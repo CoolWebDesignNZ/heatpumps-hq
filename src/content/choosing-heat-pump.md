@@ -55,7 +55,7 @@ Then pick the indoor unit: high wall, floor console or ceiling. EECA's checklist
 
 This is the step to get right. In a Christchurch winter a heat pump puts out less than its rated output. So pick the unit for the room's heat loss on a cold day. Too small, and it runs flat out. It defrosts often and leaves the room cool. Too big, and it keeps switching on and off. It blows draughts and costs more to buy.
 
-We set out the method in [heat pump sizing](/heat-pump-sizing/). The inputs for the official calculator are under [single room size calculator](/calculator-single-room-heat-pump/).
+The method is in [heat pump sizing](/heat-pump-sizing/). The inputs for the official calculator are under [single room size calculator](/calculator-single-room-heat-pump/).
 
 ## Step 5: Read the energy label
 
@@ -75,7 +75,7 @@ EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-reg
 
 Before you settle on a model, think about these.
 
-- **Where the outdoor unit can go.** It needs open air round it. It should be clear of the neighbour's bedroom windows. Defrost water needs somewhere to drain. The District Plan [noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) decide how close it can go.
+- **Where the outdoor unit can go.** It needs open air round it. It should be clear of the neighbour's bedroom windows. The defrost water has to drain away somewhere. The District Plan [noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) decide how close it can go.
 - **The outdoor noise figure.** Check it if the only spot is close to a fence or a bedroom.
 - **Controls.** With Wi-Fi control you can warm the house before you get home. Check it's built in, or you can add an adaptor.
 - **Coastal sites.** In Sumner, Redcliffs or New Brighton, EECA advises corrosion protection for the outdoor cabinet and coils.
@@ -100,4 +100,4 @@ Take this with you when you compare quotes.
 
 ## Get advice on how to choose a heat pump for your house
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. So we can suggest models from four brands, not one. We look at your rooms, insulation and windows, and how you use the house. Then you get a free quote with a fixed price before we start. To book a visit, call **03 242 1023** or [send us your details](/contact-us/).
+We can quote on Mitsubishi Electric, Daikin, Fujitsu or Toshiba. So you get a choice across four brands, not one. We look at your rooms, insulation and windows, and how you use the house. The quote is free, and the price is fixed before any work begins. To book a visit, call **03 242 1023** or [send us your details](/contact-us/).

@@ -85,4 +85,4 @@ Buying a heat pump without looking at the house is a guess. Two homes the same s
 
 ## Book a home energy assessment
 
-We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. Call **03 242 1023** to book, or [send us your details](/contact-us/).
+Assessments run Monday to Friday, 8am to 5pm, across Christchurch, Selwyn and Lyttelton. Call **03 242 1023** to book, or [send us your details](/contact-us/).

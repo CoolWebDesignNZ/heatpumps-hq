@@ -75,7 +75,7 @@ There's no single price. No two homes are the same. Here's what moves it.
 - **Access.** A unit high in a stairwell takes longer to reach safely. So does an outdoor unit on a wall bracket, or one squeezed behind a fence.
 - **Condition.** A unit nobody's touched in years may need a full [heat pump cleaning](/heat-pump-cleaning/), not a standard service.
 
-We agree a fixed price with you before we start.
+You get a fixed price for the job before any work starts.
 
 ## How heat pump servicing fits with the rest of the year
 

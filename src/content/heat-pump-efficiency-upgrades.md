@@ -63,7 +63,7 @@ The energy label changed in 2021. EECA says the stars on the old Energy Rating L
 
 ## Brands we install and replace
 
-We fit **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We'll replace an old unit of any brand. That includes Panasonic and most other brands sold in New Zealand.
+We supply and fit **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We'll replace an old unit of any brand. That includes Panasonic and most other brands sold in New Zealand.
 
 ## Get a heat pump replacement quote
 
