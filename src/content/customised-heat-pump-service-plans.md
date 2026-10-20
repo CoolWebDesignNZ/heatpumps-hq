@@ -18,7 +18,7 @@ faqs:
   - q: Do I have to sign a maintenance contract?
     a: There's no long contract. The plan is just an agreed schedule and a price per visit. You can change it if your needs change.
   - q: Do landlords have to maintain heat pumps in rentals?
-    a: Tenancy Services says landlords look after heaters. Tenants clean the filters they can reach. If the job needs tools or know-how, the landlord generally has to arrange it. See the <a href="https://www.tenancy.govt.nz/maintenance-and-inspections/heating-and-ventilation/">Tenancy Services guidance</a>.
+    a: Yes. Landlords look after heaters. Tenants clean the filters they can reach. If the job needs tools or know-how, the landlord generally has to arrange it.
 related:
   - { label: What a service visit includes, href: /heat-pump-servicing/, text: "The checklist every planned visit follows." }
   - { label: Heat pump maintenance, href: /maintenance-servicing/, text: "What you do between visits." }
@@ -70,7 +70,7 @@ After each visit you get a short note for each unit. It says what we did and any
 
 ## Service plans for landlords
 
-Tenancy Services says landlords are responsible for maintaining heaters and ventilation. Tenants must keep the filters they can reach reasonably clean. If the job needs know-how or tools, or the filters are hard to reach, the landlord generally has to do it. Read the [Tenancy Services heating and ventilation guidance](https://www.tenancy.govt.nz/maintenance-and-inspections/heating-and-ventilation/).
+Landlords are responsible for maintaining heaters and ventilation. Tenants must keep the filters they can reach reasonably clean. If the job needs know-how or tools, or the filters are hard to reach, the landlord generally has to do it.
 
 A plan gives you a dated record for each unit. That's handy when tenants change, or when a question about heating comes up. We can sort out access with the tenant ourselves, on a weekday between 8am and 5pm.
 

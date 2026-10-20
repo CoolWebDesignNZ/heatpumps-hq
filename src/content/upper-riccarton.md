@@ -16,7 +16,7 @@ faqs:
   - q: What heat pump does a small Upper Riccarton unit need?
     a: Usually one wall unit in the living area. We size it to that room's volume, insulation and glass. Bedrooms off a short hall may get enough warmth. A bedroom behind a closed door generally won't.
   - q: As a landlord, what does the heating standard ask for?
-    a: A fixed heater that can heat the main living room directly, with enough capacity for it. If it's a heat pump, it needs a thermostat. The full rules are on <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">tenancy.govt.nz</a>.
+    a: A fixed heater that can heat the main living room directly, with enough capacity for it. If it's a heat pump, it needs a thermostat.
   - q: Our townhouse shares a wall with the neighbour. Can the outdoor unit go there?
     a: We'd rather not. Vibration can carry through a shared wall into the next home. A pad on the ground or an outside wall on your side is better.
   - q: Can you service every unit in a block of flats in one visit?
@@ -39,7 +39,7 @@ Upper Riccarton sits between Riccarton and the university, so many of these home
 
 ## Meeting the heating standard in an Upper Riccarton rental
 
-If you're a landlord in Upper Riccarton, the main living room has to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/). In short, you need a fixed heater that heats that room directly. It needs enough capacity. If it's a heat pump, it needs a thermostat. Portable heaters and open fires don't count.
+If you're a landlord in Upper Riccarton, the main living room has to meet the Healthy Homes heating standard. In short, you need a fixed heater that heats that room directly. It needs enough capacity. If it's a heat pump, it needs a thermostat. Portable heaters and open fires don't count.
 
 We size your rental's heat pump to the living room's required capacity. We fit it where it heats that room directly. Then we give you the model details for your records.
 

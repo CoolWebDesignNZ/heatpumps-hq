@@ -79,6 +79,9 @@ for (const f of files) {
   const u = raw.replace(/\]\([^)]*\)|https?:\/\/\S+/g, '').match(us); if (u) err(`US spelling "${u[0]}"`);
   if (!['about-us', 'privacy-policy'].includes(slug) && /\bnate\b/i.test(raw)) err('names Nate outside About');
   for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not in urls.json`);
+  // No source citations (client, 2026-10-20): state the fact, don't credit who said it.
+  if (slug !== 'privacy-policy' && /\bsources?:/i.test(raw)) err('has a "Source:" citation');
+  { const c = raw.match(/\b(EECA|MBIE|Tenancy Services|WorkSafe|the council|District Plan|Gen Less)\b[^.\n]{0,25}\b(says|said|puts it|notes|recommends|advises|explains|lists|states|advice is)\b/i); if (c) err(`credits a source: "${c[0]}"`); }
   // Links out go to government sources only (plus the Privacy Commissioner and the map tile provider in the privacy policy), never to other companies (client, 2026-10-20).
   for (const [, host] of raw.matchAll(/https?:\/\/([^/)\s"]+)/g)) if (!/\.govt\.nz$|^www\.privacy\.org\.nz$|^osmfoundation\.org$/.test(host) && !/(^|\.)heatpumps-christchurch\.co\.nz$/.test(host)) err(`links out to ${host}`);
   // Unquoted text with a comma gets cut short by YAML, so catch suspiciously short card text.

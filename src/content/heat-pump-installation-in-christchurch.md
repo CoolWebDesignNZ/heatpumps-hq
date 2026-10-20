@@ -31,9 +31,9 @@ faqHeading: Heat pump installation questions
 relatedHeading: More on choosing a heat pump install
 faqs:
   - q: Do I need consent to install a heat pump in Christchurch?
-    a: Most home split systems don't need building consent. But the District Plan controls noise at the neighbour's place. So the outdoor unit has to go where it meets those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a>.
+    a: Most home split systems don't need building consent. But there are limits on noise at the neighbour's place. So the outdoor unit has to go where it meets those <a href="/heat-pump-boundary-rules-consent-nz/">noise limits</a>.
   - q: I'm a landlord. Will the heat pump meet the Healthy Homes standard?
-    a: The <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Healthy Homes heating standard</a> needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit for that room and give you the model and capacity for your records.
+    a: The Healthy Homes heating standard needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit for that room and give you the model and capacity for your records.
   - q: Which heat pump brands can you install for me?
     a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
   - q: Can you replace my old heat pump?
@@ -77,7 +77,7 @@ Our four install brands are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**
 
 ## Where the outdoor unit goes
 
-It needs free air on all sides. It needs a spot where frost melt can drain. And it needs to be away from your neighbour's bedroom windows. People think about the outdoor unit least. But where it goes decides whether the system stays quiet and copes with frost. Corners and tight alcoves make it louder. In Christchurch, the District Plan sets [limits on noise at the neighbouring property](/heat-pump-boundary-rules-consent-nz/).
+It needs free air on all sides. It needs a spot where frost melt can drain. And it needs to be away from your neighbour's bedroom windows. People think about the outdoor unit least. But where it goes decides whether the system stays quiet and copes with frost. Corners and tight alcoves make it louder. Christchurch has [limits on noise at the neighbouring property](/heat-pump-boundary-rules-consent-nz/).
 
 ## Replacing an older system
 

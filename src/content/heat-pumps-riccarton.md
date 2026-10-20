@@ -14,7 +14,7 @@ faqHeading: Questions about heat pumps in Riccarton
 relatedHeading: Heat pumps near Riccarton
 faqs:
   - q: Which room needs the heat pump in a Riccarton rental?
-    a: The main living room. That's the biggest room used for everyday living, under the Healthy Homes heating standard. The heater must be fixed, and able to heat that room directly. <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a> has the details.
+    a: The main living room. That's the biggest room used for everyday living, under the Healthy Homes heating standard. The heater must be fixed, and able to heat that room directly.
   - q: Can a heat pump go in a villa with high ceilings?
     a: Yes. But a high ceiling means more air than the floor area suggests. So the unit needs more capacity. A floor console often works well in a villa. It puts warm air out low, where you sit.
   - q: How do I keep a heat pump in a townhouse quiet for the neighbours?
@@ -41,7 +41,7 @@ A [floor console](/single-room-heat-pump-installation/) can suit a villa lounge 
 
 ## Heat pumps for Riccarton rentals and the heating standard
 
-Riccarton landlords have to meet the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) in the main living room. The heater must be fixed. It must heat the room directly, and have the capacity that room needs. A heat pump counts, as long as it has a thermostat.
+Riccarton landlords have to meet the Healthy Homes heating standard in the main living room. The heater must be fixed. It must heat the room directly, and have the capacity that room needs. A heat pump counts, as long as it has a thermostat.
 
 We size rental units to the living room, so you meet the capacity. We can also service every heat pump on a property in one visit.
 
@@ -49,7 +49,7 @@ We size rental units to the living room, so you meet the capacity. We can also s
 
 For heat upstairs and down, a [multi-room system](/multi-room-heat-pump-installation/) runs off one outdoor unit. That saves wall space outside, which matters on a narrow section.
 
-Riccarton comes under the Christchurch District Plan. It measures the noise at the neighbour's site. So we plan where the unit goes when we quote. The limits are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+Riccarton comes under Christchurch's rules, which measure the noise at the neighbour's site. So we plan where the unit goes when we quote. The limits are in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## For Riccarton property managers
 

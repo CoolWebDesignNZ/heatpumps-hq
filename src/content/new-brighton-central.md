@@ -20,7 +20,7 @@ faqs:
   - q: Where does the outdoor unit go when there's almost no yard?
     a: On a wall bracket, a balcony or a small pad beside the building. It needs to be kept clear for airflow. On tight sites, noise at the neighbour's place matters most. See our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
   - q: If I rent out a flat near the town centre, does it need a heat pump?
-    a: Under the Healthy Homes heating standard, a rental must have fixed heating that can heat the main living room. A heat pump is one of the accepted options. See the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard on tenancy.govt.nz</a>.
+    a: Under the Healthy Homes heating standard, a rental must have fixed heating that can heat the main living room. A heat pump is one of the accepted options.
 related:
   - { label: New Brighton, href: /new-brighton/, text: "Heat pumps for older New Brighton cottages." }
   - { label: North New Brighton, href: /north-new-brighton/, text: "Installation for beachfront homes." }
@@ -52,7 +52,7 @@ In a body corporate? Get approval before you book. We can give you the unit's si
 
 ## Rental homes near the town centre
 
-Do you rent out a house or flat near the town centre? The [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) says it needs fixed heating that can heat the main living room directly. A heat pump with a thermostat is one of the accepted options. We size it from the room, not just to the minimum.
+Do you rent out a house or flat near the town centre? Under the Healthy Homes heating standard, it needs fixed heating that can heat the main living room directly. A heat pump with a thermostat is one of the accepted options. We size it from the room, not just to the minimum.
 
 ## Salt and heat pump service in New Brighton Central
 

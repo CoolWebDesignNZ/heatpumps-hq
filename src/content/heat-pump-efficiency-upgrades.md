@@ -62,12 +62,12 @@ Not every problem needs a new heat pump. Before we quote a replacement, we check
 2. **You get options with a fixed price.** Usually one in the same spot. If it helps, one in a better spot too. For each model we show you the Cold zone heating stars and the heating output at 2°C from the energy label. That way you can compare how well they run.
 3. **We take out the old unit.** We recover the refrigerant before it leaves your property.
 4. **We fit the new system.** Brackets or feet, pipework and drainage, all tidy. We only reuse old pipework if it suits the new unit and it's in good nick. If not, we replace it.
-5. **A licensed electrical worker does the wiring.** WorkSafe says electricians must give you a Certificate of Compliance for fixed wiring work. Keep it with your house records ([WorkSafe, getting electrical work done](https://www.worksafe.govt.nz/managing-health-and-safety/consumers/safe-living-with-electricity/getting-electrical-work-done)).
+5. **A licensed electrical worker does the wiring.** Electricians must give you a Certificate of Compliance for fixed wiring work. Keep it with your house records.
 6. **We test it.** We run it in heating and cooling. Then we show you how the controls work.
 
 ## Comparing old and new heat pump efficiency
 
-The energy label changed in 2021. EECA says the stars on the old Energy Rating Label measured something different. You can't compare them with the stars on today's Zoned Energy Rating Label ([EECA guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). So we don't promise a percentage saving. What we can tell you is how the new unit's rated output matches what your room needs, and how it rates against other models the same size. To learn each part of the label, see [reading the energy rating label](/energy-star-heat-pumps/).
+The energy label changed in 2021. The stars on the old Energy Rating Label measured something different. You can't compare them with the stars on today's Zoned Energy Rating Label. So we don't promise a percentage saving. What we can tell you is how the new unit's rated output matches what your room needs, and how it rates against other models the same size. To learn each part of the label, see [reading the energy rating label](/energy-star-heat-pumps/).
 
 ## Brands we install and replace
 

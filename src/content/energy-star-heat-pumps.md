@@ -16,7 +16,7 @@ faqs:
   - q: Which zone on the label applies in New Zealand?
     a: The Cold zone. The label covers Australia and New Zealand, and all of New Zealand is in the Cold zone. Ignore the other zones when you compare models.
   - q: Can I compare stars on an old label with the new label?
-    a: No. EECA says the stars on the old Energy Rating Label aren't the same as the new ones. They can't be converted. Compare models that carry the same label.
+    a: No. The stars on the old Energy Rating Label aren't the same as the new ones. They can't be converted. Compare models that carry the same label.
   - q: How do I find the most efficient heat pump in NZ?
     a: First work out the heating capacity your room needs. Then compare the Cold zone heating stars across models of that size. More heating stars means less power for the same heat. We'll show you those figures for every model we quote.
 related:
@@ -29,9 +29,7 @@ related:
 
 In New Zealand, compare the Zoned Energy Rating Label, not the blue ENERGY STAR mark. People looking for an energy star heat pump can mean either one. They might mean the ENERGY STAR mark. Or they might mean the stars printed on the energy label. They're not the same thing.
 
-Heat pumps here fall under Minimum Energy Performance Standards and compulsory energy labels. EECA regulates them under the Energy Efficiency (Energy Using Products) Regulations 2002. Since 1 July 2021, every heat pump model new to the market has had to carry the **Zoned Energy Rating Label**.
-
-Source: [EECA, The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
+Heat pumps here fall under Minimum Energy Performance Standards and compulsory energy labels. They're regulated under the Energy Efficiency (Energy Using Products) Regulations 2002. Since 1 July 2021, every heat pump model new to the market has had to carry the **Zoned Energy Rating Label**.
 
 ## How to read a heat pump's Zoned Energy Rating Label
 
@@ -43,15 +41,15 @@ The label has a map of Australia and New Zealand split into three climate zones.
 
 Each zone has its own heating stars and cooling stars. In Christchurch you'll use a heat pump far more for heating. So the **Cold zone heating stars** are the ones to compare.
 
-The stars compare a heat pump with others about the same size. More stars, better efficiency. EECA describes a one star unit as one of the poorest for its size, with a seasonal performance factor of 2.5 to 3. A three star unit sits between 4.5 and 5. When the label was drawn up, the best unit got eight stars for cooling in one zone. That leaves room for future models to do better.
+The stars compare a heat pump with others about the same size. More stars, better efficiency. A one star unit is one of the poorest for its size, with a seasonal performance factor of 2.5 to 3. A three star unit sits between 4.5 and 5. When the label was drawn up, the best unit got eight stars for cooling in one zone. That leaves room for future models to do better.
 
 ### The kWh per year figures
 
-At the right-hand end of each row of stars is a kWh per year figure. There's one for heating and one for cooling. They show roughly how much power the heat pump may use in that zone over a year. EECA is clear they're only a guide, because every household uses a heat pump differently. They're most useful for comparing two models side by side. For a running cost, EECA suggests adding the heating and cooling kWh for your zone. Then multiply by your own power rate. Your real figure will be different, and [heat pump power usage](/energy-consumption-monitoring/) explains why.
+At the right-hand end of each row of stars is a kWh per year figure. There's one for heating and one for cooling. They show roughly how much power the heat pump may use in that zone over a year. They're only a guide, because every household uses a heat pump differently. They're most useful for comparing two models side by side. For a running cost, add the heating and cooling kWh for your zone. Then multiply by your own power rate. Your real figure will be different, and [heat pump power usage](/energy-consumption-monitoring/) explains why.
 
 ### The capacity figures
 
-Near the top are three capacity numbers: cooling at 35°C outside, heating at 7°C and heating at 2°C. If heating is its main job, size the unit on the 7°C heating figure. Do you get winter nights of 2°C or below? Then EECA says check the 2°C heating figure is the same as the 7°C one, or higher. That 2°C figure is the one to look at on [cold climate heat pumps](/cold-climate-heat-pumps/).
+Near the top are three capacity numbers: cooling at 35°C outside, heating at 7°C and heating at 2°C. If heating is its main job, size the unit on the 7°C heating figure. Do you get winter nights of 2°C or below? Then check the 2°C heating figure is the same as the 7°C one, or higher. That 2°C figure is the one to look at on [cold climate heat pumps](/cold-climate-heat-pumps/).
 
 ### The noise figures
 
@@ -79,7 +77,7 @@ The label is the same everywhere. Which figures matter most depends on where the
 
 ## Old labels and older units
 
-You might see heat pumps with the older Energy Rating Label. That's common on existing installs and second-hand units. EECA says that label's stars measured something different. They can't be converted to the new ones. Comparing an old heat pump with a new one? Compare their actual capacity and age, not their stars.
+You might see heat pumps with the older Energy Rating Label. That's common on existing installs and second-hand units. That label's stars measured something different. They can't be converted to the new ones. Comparing an old heat pump with a new one? Compare their actual capacity and age, not their stars.
 
 ## Comparing models for the most efficient heat pump
 

@@ -14,9 +14,9 @@ faqHeading: "Questions about heat pumps in Phillipstown"
 relatedHeading: "More on heat pumps near Phillipstown"
 faqs:
   - q: Does a heat pump meet the healthy homes heating standard?
-    a: Yes, a heat pump is an accepted fixed heater under the standard. It has to be able to directly heat the main living room. And it needs the capacity that room calls for. Tenancy Services sets out the rule under the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard</a>.
+    a: Yes, a heat pump is an accepted fixed heater under the standard. It has to be able to directly heat the main living room. And it needs the capacity that room calls for.
   - q: How do you work out the right size for a rental lounge?
-    a: Use the Tenancy Services heating assessment tool. It gives the capacity a main living room needs. We measure the room and check the insulation and windows. Then we recommend a unit that meets or beats that figure.
+    a: Use the Healthy Homes <a href="https://tools.tenancy.govt.nz/heating-tool">heating assessment tool</a>. It gives the capacity a main living room needs. We measure the room and check the insulation and windows. Then we recommend a unit that meets or beats that figure.
   - q: Can you install while tenants are living in the house?
     a: Yes. We agree a time with you and the tenant. We keep to the rooms we're working in, and we tidy up before we go.
   - q: Can I have one outdoor unit for two flats?
@@ -39,7 +39,7 @@ Phillipstown sits east of the Central City, between town and Linwood. The street
 
 ## Heat pumps for a Phillipstown rental
 
-Yes, a heat pump can meet the heating rule for a Phillipstown rental. The healthy homes heating standard asks for one or more fixed heaters that can directly heat the main living room. Heat pumps qualify. The heater needs enough capacity for that room. [Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) has a heating assessment tool to work out the figure.
+Yes, a heat pump can meet the heating rule for a Phillipstown rental. The healthy homes heating standard asks for one or more fixed heaters that can directly heat the main living room. Heat pumps qualify. The heater needs enough capacity for that room. The Healthy Homes heating assessment tool works out the figure.
 
 So when we quote a rental:
 

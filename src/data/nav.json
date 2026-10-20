@@ -181,8 +181,8 @@
   },
   "guides": {
     "label": "Guides",
-    "href": "/how-heat-pumps-work/",
-    "all": "Start with how heat pumps work",
+    "href": "/heat-pump-guides/",
+    "all": "All guides",
     "groups": [
       {
         "title": "Choosing",
@@ -340,7 +340,8 @@
     },
     {
       "label": "Guides",
-      "href": "/how-heat-pumps-work/",
+      "href": "/heat-pump-guides/",
+      "all": "All guides",
       "links": [
         [
           "How heat pumps work",

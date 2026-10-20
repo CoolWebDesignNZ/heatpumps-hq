@@ -14,7 +14,7 @@ faqs:
   - q: Which is the most energy efficient heat pump?
     a: There isn't one answer. Efficiency is rated against heat pumps of a similar capacity. So compare the Cold zone heating stars on the energy label, for units the size your room needs. A high rated unit that's too big or too small won't run at its best.
   - q: Are heat pumps more efficient than other electric heaters?
-    a: Yes. A plain electric heater turns each unit of power into the same amount of heat. A heat pump moves heat in from outside. So you get more heat out than the power it uses. EECA's star ratings start with a seasonal performance factor of 2.5 to 3 for a one star model.
+    a: Yes. A plain electric heater turns each unit of power into the same amount of heat. A heat pump moves heat in from outside. So you get more heat out than the power it uses. Even a one star model has a seasonal performance factor of 2.5 to 3.
   - q: What temperature should I set my heat pump to?
     a: Set it to the temperature you want in the room, and leave it there. Turning it right up won't heat the room any faster. It just runs longer and overshoots. Every extra degree costs more power.
   - q: Does running a heat pump all day use more power than switching it on and off?
@@ -29,7 +29,7 @@ related:
 
 A heat pump doesn't make heat. It moves it from the outside air into your house. That's why it puts out more heat than the power it uses. A fan heater or panel heater turns power straight into heat, one for one. A heat pump spends its power running a compressor and fans, and they do the moving.
 
-EECA's label guidance shows how big the gap is. On the Zoned Energy Rating Label, a one star heat pump has a heating seasonal performance factor of 2.5 to 3. A three star unit sits between 4.5 and 5 ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Put simply, a low rated heat pump still gives about two and a half to three times the heat of a plain heater, for the same power. A well rated one does better again.
+The energy label shows how big the gap is. On the Zoned Energy Rating Label, a one star heat pump has a heating seasonal performance factor of 2.5 to 3. A three star unit sits between 4.5 and 5. Put simply, a low rated heat pump still gives about two and a half to three times the heat of a plain heater, for the same power. A well rated one does better again.
 
 ## 1. The unit and its inverter
 

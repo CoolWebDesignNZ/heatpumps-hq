@@ -16,7 +16,7 @@ faqs:
   - q: Which heat pump brand should I buy?
     a: Compare models of the same size from different brands, using their energy labels. Then weigh up noise, controls and local service. Our <a href="/heat-pump-brands-comparison/">brands comparison</a> covers the four we fit.
   - q: Should I insulate before buying a heat pump?
-    a: If you can. EECA says cut heat loss first. Ceiling and underfloor insulation, weather stripping and draught stopping. A warmer house often needs a smaller unit.
+    a: If you can. Cut heat loss first with ceiling and underfloor insulation, weather stripping and draught stopping. A warmer house often needs a smaller unit.
   - q: Can I buy a heat pump and have it installed separately?
     a: You can. But get the installer to check the size and spot before you buy. A good install can't fix a unit that's too small for the room. Or one with nowhere sensible for the outdoor unit.
 related:
@@ -29,11 +29,11 @@ related:
 
 Start with the room and the reason. Is it the main living area or a bedroom? Is it mostly for winter heat? Or do you want summer cooling too? That decides which number on the label matters most.
 
-EECA's label advice is this. If you'll mostly heat, size on the **7°C heating output**. If you'll mostly cool, size on the 35°C cooling output. Do your winter nights get to 2°C or lower? On frosty nights across Christchurch and Selwyn, they do. Then also check the **2°C heating output** is the same as the 7°C one, or higher. Source: [EECA, The Zoned Energy Rating Label for heat pumps](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
+If you'll mostly heat, size on the **7°C heating output**. If you'll mostly cool, size on the 35°C cooling output. Do your winter nights get to 2°C or lower? On frosty nights across Christchurch and Selwyn, they do. Then also check the **2°C heating output** is the same as the 7°C one, or higher.
 
 ## Step 2: Fix the heat loss you can
 
-A heat pump replaces the heat a room loses. The less it loses, the smaller the unit can be. And the cheaper it is to run. So before you put in a heat pump, EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) recommends ceiling and underfloor insulation where you can, weather stripping on doors and windows, and stopping draughts.
+A heat pump replaces the heat a room loses. The less it loses, the smaller the unit can be. And the cheaper it is to run. So before you put in a heat pump, add ceiling and underfloor insulation where you can, weather stripping on doors and windows, and stopping draughts.
 
 Planning to insulate next year? Tell us when you get a quote. It can change the size of unit that makes sense.
 
@@ -45,7 +45,7 @@ It comes down to how many rooms one outdoor unit serves.
 - **Multi split.** One outdoor unit running two or more indoor units in different rooms.
 - **Ducted.** One central unit in the ceiling or under the floor, feeding vents in each room.
 
-Then pick the indoor unit: high wall, floor console or ceiling. EECA's checklist notes a floor unit can suit an older person. It gives warmth at floor level, and the filters are easy to get at. A high wall unit leaves you freer to arrange furniture. We compare each style under [types of heat pumps](/types-of-heat-pumps/). Decide between [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) first. It's the bigger choice.
+Then pick the indoor unit: high wall, floor console or ceiling. A floor unit can suit an older person. It gives warmth at floor level, and the filters are easy to get at. A high wall unit leaves you freer to arrange furniture. We compare each style under [types of heat pumps](/types-of-heat-pumps/). Decide between [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) first. It's the bigger choice.
 
 ## Step 4: What size heat pump do I need?
 
@@ -55,7 +55,7 @@ The method is in [heat pump sizing](/heat-pump-sizing/). The inputs for the offi
 
 ## Step 5: Read the energy label
 
-New heat pumps carry the **Zoned Energy Rating Label**. EECA explains what each part of it tells you.
+New heat pumps carry the **Zoned Energy Rating Label**. Here's what each part of it tells you.
 
 | Part of the label | What it tells you |
 | --- | --- |
@@ -65,19 +65,19 @@ New heat pumps carry the **Zoned Energy Rating Label**. EECA explains what each 
 | kWh per year | Estimated power use in that zone. Lower is better |
 | House icon | Noise in decibels, inside and outside the house |
 
-EECA's [label poster](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/Zoned-Energy-Rating-Label-Poster.pdf) makes the main point. **Compare units of the same kW size.** Stars only mean something against models of a similar size. Noise on the label is optional here, so not every label shows it. For the rest of the label, see [energy rated heat pumps](/energy-star-heat-pumps/).
+The main point is this. **Compare units of the same kW size.** Stars only mean something against models of a similar size. Noise on the label is optional here, so not every label shows it. For the rest of the label, see [energy rated heat pumps](/energy-star-heat-pumps/).
 
 ## Step 6: Check the practical details
 
-- **Where the outdoor unit can go.** It needs open air round it. It should be clear of the neighbour's bedroom windows. The defrost water has to drain away somewhere. The District Plan [noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) decide how close it can go.
+- **Where the outdoor unit can go.** It needs open air round it. It should be clear of the neighbour's bedroom windows. The defrost water has to drain away somewhere. Christchurch's [noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) decide how close it can go.
 - **The outdoor noise figure.** Check it if the only spot is close to a fence or a bedroom.
 - **Controls.** With Wi-Fi control you can warm the house before you get home. Check it's built in, or you can add an adaptor.
-- **Coastal sites.** In Sumner, Redcliffs or New Brighton, EECA advises corrosion protection for the outdoor cabinet and coils.
+- **Coastal sites.** In Sumner, Redcliffs or New Brighton, get corrosion protection for the outdoor cabinet and coils.
 - **Filter access.** You'll clean them often. Make sure they're easy to reach.
 
 ## Step 7: Choose the installer as carefully as the unit
 
-A well chosen unit can still run badly. It might be in the wrong place. The pipework might be poor. The electrical work might be skipped. EECA's guide says lots of heat pumps that run badly come down to where the units were put. Before you pick who fits it, ask the questions in [choosing a heat pump installer](/best-heat-pump-installers-christchurch/).
+A well chosen unit can still run badly. It might be in the wrong place. The pipework might be poor. The electrical work might be skipped. Lots of heat pumps that run badly come down to where the units were put. Before you pick who fits it, ask the questions in [choosing a heat pump installer](/best-heat-pump-installers-christchurch/).
 
 ## Buying a heat pump for a Christchurch home
 

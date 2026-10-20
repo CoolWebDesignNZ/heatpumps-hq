@@ -14,11 +14,11 @@ faqHeading: "Questions about heat pumps in the CBD"
 relatedHeading: "More on heat pumps near the CBD"
 faqs:
   - q: Do I need body corporate approval for a heat pump in my apartment?
-    a: Yes, if the work affects common property or another unit. Unit Titles Services says you must tell the body corporate. You need written consent from it and from any affected owners. An outdoor unit on an outside wall, or a hole through one, often counts. Check your building's rules before you book. See <a href="https://www.unittitles.govt.nz/unit-owners-responsibilities/">unit owner responsibilities</a>.
+    a: Yes, if the work affects common property or another unit. You must tell the body corporate. You need written consent from it and from any affected owners. An outdoor unit on an outside wall, or a hole through one, often counts. Check your building's rules before you book.
   - q: Where does the outdoor unit go in an apartment with only a small balcony?
     a: On the balcony floor on feet, on a wall bracket, or in a plant area if the building has one. It needs clear air in front of the coil. Defrost water needs somewhere to go too, without dripping onto the balcony below.
   - q: Are the noise rules different in the Central City?
-    a: Yes. The District Plan has separate noise limits for the Central City. They're different from the suburban residential zones. We explain how noise is measured, and where to put a unit, under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
+    a: Yes. The Central City has its own noise limits. They're different from the suburban residential zones. We explain how noise is measured, and where to put a unit, under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
   - q: Can you service a heat pump that came with my apartment?
     a: Yes. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Plus most other brands on sale in New Zealand.
 related:
@@ -44,7 +44,7 @@ Start with your body corporate rules. An apartment or unit-titled townhouse sits
 - **The facade:** are there rules about equipment you can see from outside?
 - **Pipe routes:** has the building already set aside routes or sleeves for heat pump pipes?
 
-[Unit Titles Services](https://www.unittitles.govt.nz/unit-owners-responsibilities/) is clear on this. Work that affects common property or another unit means telling the body corporate and getting written consent. We can describe the install in writing for your committee.
+Work that affects common property or another unit means telling the body corporate and getting written consent. We can describe the install in writing for your committee.
 
 ## Fitting a heat pump into a small city apartment
 

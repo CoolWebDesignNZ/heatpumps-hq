@@ -57,7 +57,7 @@ In an older Hornby home, a heat pump does best running steadily. Set a comfortab
 
 ## Noise and neighbours in Hornby
 
-Hornby sections can be tight, with houses close together. Under the Christchurch District Plan, what counts is how loud the outdoor unit is at the neighbour's place. Night-time matters most. We place units with that in mind. The detail is in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
+Hornby sections can be tight, with houses close together. In Christchurch, what counts is how loud the outdoor unit is at the neighbour's place. Night-time matters most. We place units with that in mind. The detail is in our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 
 ## Suburbs next to Hornby
 

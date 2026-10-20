@@ -40,7 +40,7 @@ For both, the outdoor spot comes down to noise at the neighbour's boundary and d
 
 In a townhouse, the outdoor unit has only a few possible spots. It's the courtyard, a side wall, a balcony or the garage roof. Each needs clear space around the unit for air to flow. It needs a solid fixing. And the defrost water needs somewhere to go. On a balcony, that drain can't just drip onto the unit below.
 
-Noise is the other half. The Christchurch District Plan measures heat pump noise at the neighbouring site. So a unit aimed straight at a neighbour's bedroom window is a poor choice, even if it fits. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how that works.
+Noise is the other half. In Christchurch, heat pump noise is measured at the neighbouring site. So a unit aimed straight at a neighbour's bedroom window is a poor choice, even if it fits. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how that works.
 
 Low sections near the water can collect surface water in heavy rain. So we keep the outdoor unit up on feet or a stand, not sitting on the ground.
 

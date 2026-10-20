@@ -20,7 +20,7 @@ faqs:
   - q: My neighbour says my heat pump is too loud. What can I do?
     a: Get it checked for worn fan bearings or vibration. Fit anti-vibration feet. Use a quiet or night mode. Or move the outdoor unit away from their bedrooms. In Christchurch the rules go by the noise at their place, not by distance. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the details.
 related:
-  - { label: Boundary rules and noise limits, href: /heat-pump-boundary-rules-consent-nz/, text: "The District Plan limits and where to put the outdoor unit." }
+  - { label: Boundary rules and noise limits, href: /heat-pump-boundary-rules-consent-nz/, text: "The noise limits and where to put the outdoor unit." }
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: "When a noise turns out to be a failing part." }
   - { label: Heat pump servicing, href: /heat-pump-servicing/, text: "A yearly check that catches wear early." }
 ---
@@ -60,7 +60,7 @@ Outdoor unit noise is measured at your neighbour's place, and Christchurch secti
 
 - **Infill sections.** In [Papanui](/heat-pumps-papanui/), many original sections now hold two to four homes, with little room down the sides. The unit often goes on a wall bracket or a slim pad, so anti-vibration mounts and a spot away from next door's bedroom matter more.
 - **Hillside homes.** Sound carries differently on a slope. In [Cashmere](/cashmere/), a unit below a neighbour's deck can bother them more than you'd think. We check what's above and below before we move or remount it.
-- **Bedroom units that run all night.** In [Oaklands](/oaklands/), a bedroom heat pump often runs overnight. Indoors, use the low fan setting. Outside, keep the unit off walls near the neighbour's windows. The Christchurch District Plan sets the [noise limits](/heat-pump-boundary-rules-consent-nz/) at the neighbour's site.
+- **Bedroom units that run all night.** In [Oaklands](/oaklands/), a bedroom heat pump often runs overnight. Indoors, use the low fan setting. Outside, keep the unit off walls near the neighbour's windows. Christchurch sets the [noise limits](/heat-pump-boundary-rules-consent-nz/) at the neighbour's site.
 - **Selwyn homes.** In [Prebbleton](/prebbleton/), heat pump noise comes under the Selwyn District Plan, not Christchurch's. Where the outdoor unit sits still decides how much noise reaches next door.
 - **Frosty mornings.** A hiss and a pause during defrost is normal. Hard frosts are part of a [Hoon Hay](/hoon-hay/) winter, so raise the unit and keep its drain path clear. Ice that builds up in the base can catch the fan and bang.
 
@@ -86,11 +86,11 @@ A screen can hide the unit and soften some of the sound. It needs open space rou
 - **Drain:** bubbling and gurgling indoors often means the condensate drain is blocked or doesn't slope.
 - **Mounting:** if the unit isn't fixed tight to its back plate, it can buzz against the wall.
 
-## What the energy label says about heat pump noise
+## Heat pump noise on the energy label
 
-The Zoned Energy Rating Label can show indoor and outdoor sound levels. EECA notes that showing noise is optional in New Zealand. So some labels have it and some don't.
+The Zoned Energy Rating Label can show indoor and outdoor sound levels. Showing noise is optional in New Zealand. So some labels have it and some don't.
 
-The figures are measured at full output on cool. Most of the time, a unit runs quieter than its label says. For comparison, EECA puts a quiet home at about 30 dBA and a normal conversation at about 60 dBA ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
+The figures are measured at full output on cool. Most of the time, a unit runs quieter than its label shows. For comparison, a quiet home is about 30 dBA and a normal conversation is about 60 dBA.
 
 Buying a new heat pump for a spot near a bedroom or a neighbour? Compare the outdoor sound figure across models.
 

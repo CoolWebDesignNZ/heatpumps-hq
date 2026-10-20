@@ -12,11 +12,11 @@ faqHeading: Questions about choosing a heat pump installer
 relatedHeading: More on getting a heat pump installed
 faqs:
   - q: How do I check a heat pump installer's electrical licence?
-    a: Ask to see the licence ID of whoever does the electrical work. It can be a card or digital. Then look up their name or registration number on the Electrical Workers Public Register, run by the EWRB. Check the licence is still current and the photo matches.
+    a: Ask to see the licence ID of whoever does the electrical work. It can be a card or digital. Then look up their name or registration number on the Electrical Workers Public Register. Check the licence is still current and the photo matches.
   - q: Does a heat pump installer need a refrigerant certificate?
-    a: EECA's installation guide says installers should hold an Approved Filler Compliance Certificate to handle refrigerants. It also says refrigerant must not be let out into the air. Ask who on the team holds the certificate.
+    a: Yes. Whoever handles the refrigerant should hold an Approved Filler Compliance Certificate, and refrigerant must never be let out into the air. Ask who on the team holds the certificate.
   - q: What should I be handed when the install is finished?
-    a: You should get an electrical Certificate of Compliance for the wiring. You should also get the operating manual, the warranty details and a record of the commissioning data. Plus a contact for after-sales support. EECA's guide lists all of these.
+    a: You should get an electrical Certificate of Compliance for the wiring. You should also get the operating manual, the warranty details and a record of the commissioning data. Plus a contact for after-sales support.
   - q: Should the installer visit before quoting?
     a: Yes. Sizing a heat pump properly means measuring the room. It means checking the insulation and glazing, and where the outdoor unit can go. A phone price from a room size can't cover the pipe run, the mounting or the electrical work.
 related:
@@ -29,7 +29,7 @@ related:
 
 Good installers get two things right: the size and the spot. Get either wrong and even a well made heat pump can let you down. The room stays cold. It defrosts all the time. It annoys the neighbours, or drips down the wall.
 
-EECA's [good practice guide for heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) makes the same point. It says many poor performers come down to units put in the wrong place.
+Many heat pumps that perform poorly come down to units put in the wrong place.
 
 So when you compare installers in Christchurch, or anywhere near you, look past the price and compare how they work.
 
@@ -45,33 +45,33 @@ A good installer knows the local conditions and prices them into the quote.
 
 ## 1. A licensed electrical worker does the electrical work
 
-EECA's guide says only a registered electrician can hard wire the units. The [Electrical Workers Registration Board](https://www.ewrb.govt.nz/for-consumers/about-licences/) gives three tips. Ask to see the worker's licence ID, card or digital. Check it hasn't expired and the photo matches. Then search the Electrical Workers Public Register to make sure it hasn't been suspended.
+Only a registered electrician can hard wire the units. To check one, ask to see the worker's licence ID, card or digital. Check it hasn't expired and the photo matches. Then search the Electrical Workers Public Register to make sure it hasn't been suspended.
 
 Ask the installer straight out who does the electrical connection. It doesn't much matter if that person is staff or a subcontractor. What matters is that they're licensed.
 
 ## 2. You get a Certificate of Compliance
 
-The EWRB says that under the Electricity (Safety) Regulations 2010, your electrical worker must give you copies of the certification documents. Fixed wiring work needs a [Certificate of Compliance](https://www.ewrb.govt.nz/for-consumers/documentation-from-your-electrical-worker/). It must be issued as soon as possible, and no later than 20 days after the work is done.
+Under the Electricity (Safety) Regulations 2010, your electrical worker must give you copies of the certification documents. Fixed wiring work needs a Certificate of Compliance. It must be issued as soon as possible, and no later than 20 days after the work is done.
 
-EECA's guide warns that electrical work with no Certificate of Compliance may affect your house insurance. Keep it with your house records.
+Electrical work with no Certificate of Compliance may affect your house insurance. Keep it with your house records.
 
 ## 3. The refrigerant is handled by a certified person
 
-Putting in a split system means connecting the gas pipes. They get pressure tested and evacuated, and then the gas is let in. EECA's guide sets three rules for installers. Hold an **Approved Filler Compliance Certificate** for handling refrigerants. Follow the Australia and New Zealand Refrigerant Handling Code of Practice. Never let refrigerant out into the air.
+Putting in a split system means connecting the gas pipes. They get pressure tested and evacuated, and then the gas is let in. There are three rules for installers. Hold an **Approved Filler Compliance Certificate** for handling refrigerants. Follow the Australia and New Zealand Refrigerant Handling Code of Practice. Never let refrigerant out into the air.
 
 So ask who handles the gas, and what certificate they hold. If an old unit is coming out, ask how its gas will be recovered.
 
 ## 4. The installer sizes the heat pump on site
 
-A heat pump should be sized from how much heat the room loses at the local design temperature. EECA's guide puts that at minus 4°C for Christchurch and Selwyn. To work it out, someone has to look at the room. They need its size and ceiling height. They need the windows and which way they face. They need the insulation, and how you use the space.
+A heat pump should be sized from how much heat the room loses at the local design temperature. For Christchurch and Selwyn, that's minus 4°C. To work it out, someone has to look at the room. They need its size and ceiling height. They need the windows and which way they face. They need the insulation, and how you use the space.
 
 Be wary of a size picked from floor area alone. Be wary of a quote given without a visit. Ask how the installer worked out the size. Ask what the unit puts out when it's cold outside. Our [heat pump size guide](/heat-pump-sizing/) explains what a good answer sounds like.
 
 ## 5. The outdoor unit position has been thought through
 
-A good installer talks about where the outdoor unit goes before they quote. EECA's guide asks for clear airflow round it, room to service it, somewhere for condensate to drain and distance from LPG bottles. The spot also has to be one that won't bother you or the neighbours.
+A good installer talks about where the outdoor unit goes before they quote. It needs clear airflow round it, room to service it, somewhere for condensate to drain and distance from LPG bottles. The spot also has to be one that won't bother you or the neighbours.
 
-In Christchurch, the District Plan controls heat pump noise at the neighbour's place. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains it.
+In Christchurch, heat pump noise is limited at the neighbour's place. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains it.
 
 ## 6. The quote is written and specific
 
@@ -81,7 +81,7 @@ If something's missing from the quote, ask before you say yes. Our [installation
 
 ## 7. The installer commissions and explains the heat pump
 
-EECA's guide expects four things before the installer leaves. The system is leak tested. It's evacuated. It's charged with the right amount of gas for the pipe length. And it's test run. The installer should also show you how to use the controls and the remote, and how to take out and clean the filters. They should explain what to expect when it's very cold, and tell you what servicing it needs and when.
+Four things should happen before the installer leaves. The system is leak tested. It's evacuated. It's charged with the right amount of gas for the pipe length. And it's test run. The installer should also show you how to use the controls and the remote, and how to take out and clean the filters. They should explain what to expect when it's very cold, and tell you what servicing it needs and when.
 
 At the end you should get the electrical Certificate of Compliance. You should also get a record of the commissioning data, the operating manual and the warranty. Plus a contact for after-sales support.
 

@@ -44,7 +44,7 @@ Ask us about insulation at the same time. Money spent under the floor and in the
 
 ## Tight Papanui sites and close neighbours
 
-Infill sections leave little room down the sides of the house. The outdoor unit can go on a wall bracket or a slim pad. It needs space round it for air to move and for defrost water to drain. We place it so it stays quiet for the people next door. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) is the reference we use for the District Plan noise limits.
+Infill sections leave little room down the sides of the house. The outdoor unit can go on a wall bracket or a slim pad. It needs space round it for air to move and for defrost water to drain. We place it so it stays quiet for the people next door. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) sets out the noise limits.
 
 ## Heat pump service and repairs in Papanui
 

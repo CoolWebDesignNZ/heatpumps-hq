@@ -63,7 +63,7 @@ All four sell the main types a Christchurch house is likely to need. The differe
 
 Whatever the brand, these are the things we compare when we pick units for a house.
 
-- **Heating output at 2°C and below.** Some models hold their output in the cold better than others. EECA's [guide to the energy label](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) shows how to check it.
+- **Heating output at 2°C and below.** Some models hold their output in the cold better than others. The [energy label](/energy-star-heat-pumps/) shows heating output at 2°C, so you can check it.
 - **Cold zone heating stars and the estimated kWh per year.** They show how efficient a model is in the cold and roughly how much power it will use in a year.
 - **Noise figures.** Indoor and outdoor, where the label shows them. They matter most in a bedroom, or where the outdoor unit sits near a neighbour.
 - **The fit.** The unit's size, where the pipes connect, and whether a console or slim ducted unit fits the space. A good model is no use if it can't go where you need it.

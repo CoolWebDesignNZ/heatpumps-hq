@@ -18,7 +18,7 @@ faqs:
   - q: Can I heat different parts of the house to different temperatures?
     a: Yes. Separate indoor units each have their own controls. Some ducted systems can be zoned too, so you set the bedrooms and living areas on their own. We explain how the zones split in <a href="/heat-pump-zoning/">heat pump zoning</a>.
   - q: Are there rules about where the outdoor unit can go in Aidanfield?
-    a: Christchurch's District Plan controls the noise at the neighbour's place. Some subdivisions also have land covenants on the title that cover outside fittings. Check yours before we fit anything.
+    a: Christchurch limits heat pump noise at the neighbour's place. Some subdivisions also have land covenants on the title that cover outside fittings. Check yours before we fit anything.
   - q: Can another indoor unit be added to our existing outdoor unit?
     a: Only if it's a multi-room outdoor unit with a spare connection and capacity left over. A single-room outdoor unit can't run a second indoor unit. So a new room usually gets its own system.
 related:

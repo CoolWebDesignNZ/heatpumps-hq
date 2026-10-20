@@ -25,7 +25,7 @@ faqs:
   - q: Is a small heat pump worth it for a studio or sleepout?
     a: Often, yes. A small space with a door that shuts is where one unit works best. It can cool the room in summer too.
   - q: Will one heat pump in the living room meet the Healthy Homes standard for my rental?
-    a: It can. The <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Healthy Homes heating standard</a> needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit to the capacity that room needs and give you the model and capacity for your records.
+    a: It can. The Healthy Homes heating standard needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit to the capacity that room needs and give you the model and capacity for your records.
 related:
   - { label: Single room calculator, href: /calculator-single-room-heat-pump/, text: "A quick estimate of the size your room needs." }
   - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: "When one room becomes three." }

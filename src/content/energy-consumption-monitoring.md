@@ -14,7 +14,7 @@ faqs:
   - q: How much power does a heat pump use?
     a: It depends on the size of the unit, how cold it is outside, the set temperature and how long it runs. The energy label gives a kWh per year figure for heating in the Cold zone. That's good for comparing models. Your real use can be higher or lower.
   - q: How do I work out my heat pump running cost?
-    a: Take the kWh your heat pump uses and multiply by your power rate. For a rough figure before you buy, EECA suggests adding the label's heating and cooling kWh for the Cold zone. Then multiply by your rate.
+    a: Take the kWh your heat pump uses and multiply by your power rate. For a rough figure before you buy, add the label's heating and cooling kWh for the Cold zone. Then multiply by your rate.
   - q: Why has my heat pump power usage gone up?
     a: Often it's blocked filters or a dirty indoor or outdoor coil. It can be a slow refrigerant leak or a sensor reading wrong. Settings may have changed, or the winter's colder than usual. A service and a look at the settings rules most of these out.
   - q: Can I measure a heat pump with a plug-in power meter?
@@ -46,7 +46,7 @@ Where you live changes what a normal bill looks like.
 
 ## Using the energy label to estimate heat pump running cost
 
-To estimate a heat pump's running cost from its label, add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate. That's EECA's suggestion for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. EECA says they're only a guide, because every household uses power differently ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)).
+To estimate a heat pump's running cost from its label, add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. They're only a guide, because every household uses power differently.
 
 So the label is good for comparing two models. It's not so good at predicting your bill. There's more on the label in our [energy rating guide](/energy-star-heat-pumps/).
 

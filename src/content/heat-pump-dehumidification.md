@@ -60,7 +60,7 @@ Where the damp comes from changes what helps.
 
 Dry mode suits a warm, humid room the heat pump serves. A portable dehumidifier suits washing dried inside (put it near the washing) and rooms with no heat pump. For a cold, damp bedroom in winter, heat the room and let air through first. Add a portable dehumidifier if it stays damp.
 
-In winter, warm rooms and letting damp air out keep condensation down. Tenancy Services has advice on [mould and dampness](https://www.tenancy.govt.nz/maintenance-and-inspections/mould-and-dampness/). It says a dry, well aired home is easier to heat and healthier. It suggests opening windows, using extractor fans and wiping condensation off windows.
+In winter, warm rooms and letting damp air out keep condensation down. A dry, well aired home is easier to heat and healthier. Open windows, use extractor fans and wipe condensation off windows.
 
 ## Dry mode and musty smells
 

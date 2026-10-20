@@ -1,6 +1,6 @@
 ---
 title: "How Does a Heat Pump Work?"
-description: "What is a heat pump and how does it heat a room using outside air? The refrigerant cycle, defrost and cold-weather output, explained with official sources."
+description: "What is a heat pump and how does it heat a room using outside air? The refrigerant cycle, defrost and cold-weather output, explained in plain terms."
 keyword: how does a heat pump work
 secondary: [how do heat pumps work, what is a heat pump, how heat pumps work]
 h1: How does a heat pump work?
@@ -18,7 +18,7 @@ faqs:
   - q: Why does a heat pump blow cold air or stop heating on frosty mornings?
     a: It's defrosting. Ice forms on the outdoor coil in cold, damp air. The unit runs backwards for a bit to melt it. No heat reaches the room while it does. It usually lasts a few minutes.
   - q: Does a heat pump use less power than an electric heater?
-    a: For the same heat, yes. A plain electric heater turns each unit of power into one unit of heat. A heat pump adds the heat it collects from outside. EECA treats a heat pump that delivers at least three times the power it uses as acceptable.
+    a: For the same heat, yes. A plain electric heater turns each unit of power into one unit of heat. A heat pump adds the heat it collects from outside. A heat pump that delivers at least three times the power it uses is doing an acceptable job.
 related:
   - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "High wall units and floor consoles and ducted systems compared." }
   - { label: Heat pump size guide, href: /heat-pump-sizing/, text: "How kW ratings work and what size a room needs." }
@@ -29,7 +29,7 @@ related:
 
 Most Christchurch homes have an **air-to-air, reverse-cycle split system**. Outside there's a unit with a fan, a coil and a compressor. Inside there's a unit with its own coil and fan. Two insulated copper pipes join them. They carry a refrigerant that goes round and round in a sealed loop.
 
-EECA puts it simply. The system uses a fairly small amount of power to take heat from one place, usually the outside air, and deliver it somewhere else. Run it the other way and the same gear cools the house. Source: [EECA, Good practice guide: heat pump installation](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf), sections 1 and 2.
+The idea is simple. The system uses a fairly small amount of power to take heat from one place, usually the outside air, and deliver it somewhere else. Run it the other way and the same gear cools the house.
 
 Think of a fridge pointed the other way. A fridge pulls heat out of the food and dumps it into your kitchen through the coil at the back. A heat pump pulls heat out of the garden and dumps it into your lounge.
 
@@ -49,15 +49,15 @@ For cooling, a **reversing valve** swaps the direction. The indoor coil becomes 
 
 A fan heater or oil column heater turns 1 unit of power into 1 unit of heat. A heat pump uses its power to run the compressor and fans. The heat it delivers is that energy plus all the heat it collected from outside.
 
-EECA's guide gives an example. Say 1 kWh of power drives the heat pump, and it draws 2 kWh from the outside air. Then up to 3 kWh of heat arrives inside. That ratio is the **coefficient of performance (COP)**. It's heat out divided by power in. The guide treats a COP of at least 3 as acceptable. Better products reach 4 or more.
+Here's an example. Say 1 kWh of power drives the heat pump, and it draws 2 kWh from the outside air. Then up to 3 kWh of heat arrives inside. That ratio is the **coefficient of performance (COP)**. It's heat out divided by power in. A COP of at least 3 is acceptable. Better products reach 4 or more.
 
 Every heat pump sold in New Zealand has an energy rating label. You can compare models and pick an [energy efficient heat pump](/energy-efficient/) that costs less to run.
 
 ## How inverter compressors change the cycle
 
-Older fixed-speed heat pumps were either fully on or fully off. Modern units usually have a **variable-speed (inverter) compressor**. EECA notes fixed-speed units aren't common any more. An inverter starts gently. It runs hard while the room warms up. Then it slows as the room nears the set temperature, and ticks over to hold it.
+Older fixed-speed heat pumps were either fully on or fully off. Modern units usually have a **variable-speed (inverter) compressor**. Fixed-speed units aren't common any more. An inverter starts gently. It runs hard while the room warms up. Then it slows as the room nears the set temperature, and ticks over to hold it.
 
-EECA says that gives a steadier room temperature and better efficiency. It also means less vibration and quieter running. It's why a heat pump that's the right size should spend most of its time running steadily at part speed. It shouldn't keep switching on and off.
+That gives a steadier room temperature and better efficiency. It also means less vibration and quieter running. It's why a heat pump that's the right size should spend most of its time running steadily at part speed. It shouldn't keep switching on and off.
 
 ## How heat pumps work when it's cold outside
 
@@ -66,9 +66,9 @@ A heat pump's output and efficiency aren't fixed. They drop as the gap between t
 The cold works against a heat pump in two ways.
 
 - **Less heat out.** The colder the air, the less heat the outdoor coil can collect. Some models keep working well below freezing. Others struggle. That's why the label also shows heating output at 2°C. It's what sets [cold climate heat pumps](/cold-climate-heat-pumps/) apart.
-- **Defrosting.** Below about 7°C, moisture in the air can freeze on the outdoor coil. The unit reverses for a few minutes to melt the ice. No heat comes out while it does. You may see steam rising off the outdoor unit. EECA notes a heat pump that's too small has to defrost more often.
+- **Defrosting.** Below about 7°C, moisture in the air can freeze on the outdoor coil. The unit reverses for a few minutes to melt the ice. No heat comes out while it does. You may see steam rising off the outdoor unit. A heat pump that's too small has to defrost more often.
 
-That's the main reason sizing matters so much in Canterbury. EECA's guide lists the outside design temperature for Christchurch City and Selwyn District as **minus 4°C**. When [sizing a heat pump](/heat-pump-sizing/), pick a unit for its output at that temperature. Not at 7°C.
+That's the main reason sizing matters so much in Canterbury. The outside design temperature for Christchurch City and Selwyn District is **minus 4°C**. When [sizing a heat pump](/heat-pump-sizing/), pick a unit for its output at that temperature. Not at 7°C.
 
 ## How heat pumps work in Christchurch weather
 
@@ -87,6 +87,6 @@ The indoor unit can be a high wall unit, a floor console, a ceiling cassette or 
 
 ## Keeping a heat pump working well
 
-It only works if air can move freely over both coils. Clogged filters cut output and push up power use. So does a dusty indoor coil, or leaves packed round the outdoor unit. EECA suggests cleaning the filters as often as once a month when you use it a lot. A yearly [service](/maintenance-servicing/) keeps the coils, fans and drains clean.
+It only works if air can move freely over both coils. Clogged filters cut output and push up power use. So does a dusty indoor coil, or leaves packed round the outdoor unit. Clean the filters as often as once a month when you use it a lot. A yearly [service](/maintenance-servicing/) keeps the coils, fans and drains clean.
 
 Planning a new system? Start with [buying a heat pump](/choosing-heat-pump/). Or call **[03 242 1023](tel:032421023)** for a free quote. We size each one from your rooms, insulation and windows. You know the full price before we lift a tool.

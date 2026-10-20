@@ -14,9 +14,9 @@ faqHeading: Questions about heat pumps in Aranui
 relatedHeading: Heat pumps near Aranui
 faqs:
   - q: Does a rental home in Aranui need a heat pump?
-    a: Under the Healthy Homes standards, a rental needs fixed heating that can directly heat the main living room. A heat pump with a thermostat is one accepted way to meet it. Read the <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">heating standard</a>.
+    a: Under the Healthy Homes standards, a rental needs fixed heating that can directly heat the main living room. A heat pump with a thermostat is one accepted way to meet it.
   - q: How do landlords work out the heating capacity for an Aranui living room?
-    a: Tenancy Services has a heating assessment tool. It works out the minimum capacity for the room. Then we can quote a heat pump that meets it, with some to spare on cold nights.
+    a: The <a href="https://tools.tenancy.govt.nz/heating-tool">Healthy Homes heating assessment tool</a> works out the minimum capacity for the room. Then we can quote a heat pump that meets it, with some to spare on cold nights.
   - q: Can you service several heat pumps across rental properties in Aranui?
     a: Yes. Give us all the addresses when you book. We'll plan the visits together. Every unit gets the same full service.
 related:
@@ -34,9 +34,9 @@ In Aranui, the heat pump you need depends on how old the house is. If it's rente
 
 ## Heat pumps for Aranui rentals
 
-Letting a home in Aranui? The [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/) applies. You need one or more fixed heaters that can directly heat the main living room. They must be at least 1.5 kW. A heat pump must have a thermostat. An open fire won't meet it, and nor will an unflued combustion heater.
+Letting a home in Aranui? The Healthy Homes heating standard applies. You need one or more fixed heaters that can directly heat the main living room. They must be at least 1.5 kW. A heat pump must have a thermostat. An open fire won't meet it, and nor will an unflued combustion heater.
 
-The capacity you need is worked out for each living room. Tenancy Services publishes a heating assessment tool alongside the standard. Once you've got the figure, we'll quote a heat pump that meets it. In an older lounge with no insulation, go a bit above the minimum. That keeps the room comfy on frosty mornings.
+The capacity you need is worked out for each living room with the [heating assessment tool](https://tools.tenancy.govt.nz/heating-tool). Once you've got the figure, we'll quote a heat pump that meets it. In an older lounge with no insulation, go a bit above the minimum. That keeps the room comfy on frosty mornings.
 
 ## Heat pump installation in older Aranui state houses
 

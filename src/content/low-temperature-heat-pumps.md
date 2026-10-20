@@ -39,7 +39,7 @@ A heat pump moves heat from the outside air into the house. The colder that air,
 
 ### Frost forms and the unit defrosts
 
-EECA notes that below 5.5°C outside, a heat pump has to deal with frost. Some of its heating power goes into defrosting the coil ([EECA, Zoned Energy Rating Label guide](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). While it defrosts, no heat goes to the room. You'll notice:
+Below 5.5°C outside, a heat pump has to deal with frost. Some of its heating power goes into defrosting the coil. While it defrosts, no heat goes to the room. You'll notice:
 
 - the indoor fan slows or stops, and on some models a light comes on
 - steam rises off the outdoor unit

@@ -30,7 +30,7 @@ related:
 A heat pump warms your house by pulling heat out of the outside air. The colder that air, the harder the job, and a frosty Canterbury night makes it harder in two ways.
 
 - **The house needs more heat just when the air has less to give.** Some models keep their output up as it gets colder. Others drop off.
-- **Frost forms on the outdoor coil.** EECA explains that below 5.5°C outside, the unit has to deal with frost. It has to use some of its heating power to defrost the coil.
+- **Frost forms on the outdoor coil.** Below 5.5°C outside, the unit has to deal with frost. It has to use some of its heating power to defrost the coil.
 
 A cold climate heat pump copes with both. It keeps enough output to hold the room warm on the coldest mornings. And it defrosts without leaving the room cold for long.
 
@@ -40,9 +40,7 @@ Check these three figures for the exact model, not just the brand.
 
 ### The 2°C heating figure on the label
 
-New heat pump models sold here carry the Zoned Energy Rating Label. It shows the heating output at two outdoor temperatures, 7°C and 2°C. EECA's advice is that if your winter nights get down to 2°C or lower, you check the 2°C figure is the same as the 7°C one, or higher. Use it to compare models. Some units don't cope well with frost. They give less heat at 2°C than at 7°C.
-
-EECA sets this out in [The new Zoned Energy Rating Label for heat pumps and air conditioners](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf).
+New heat pump models sold here carry the Zoned Energy Rating Label. It shows the heating output at two outdoor temperatures, 7°C and 2°C. If your winter nights get down to 2°C or lower, check the 2°C figure is the same as the 7°C one, or higher. Use it to compare models. Some units don't cope well with frost. They give less heat at 2°C than at 7°C.
 
 ### Heating stars for the Cold zone
 

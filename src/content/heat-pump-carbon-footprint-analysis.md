@@ -12,7 +12,7 @@ faqHeading: "Heat pump carbon footprint questions"
 relatedHeading: "More on heat pump efficiency and running costs"
 faqs:
   - q: Does a heat pump have a low carbon footprint in New Zealand?
-    a: It's low next to heating that burns fuel in the home. That's because most of our power comes from renewable sources. MBIE reported a record 96.4% of generation from renewables in the October to December 2025 quarter. The share moves with hydro conditions. So it's lower at some times.
+    a: It's low next to heating that burns fuel in the home. That's because most of our power comes from renewable sources. A record 96.4% of generation came from renewables in the October to December 2025 quarter. The share moves with hydro conditions. So it's lower at some times.
   - q: Is a heat pump better than a wood burner for the environment?
     a: For local air, a heat pump makes no smoke at the house. On carbon, there's no single answer. It depends where the firewood comes from and how it's burned. In Christchurch, any new burner must be an ultra-low emission model. It also needs building consent. A heat pump needs neither consent nor a flue.
   - q: What are heat pump emissions made up of?
@@ -35,13 +35,13 @@ A heat pump burns nothing in your house. Its carbon footprint comes from three p
 
 ## New Zealand's renewable electricity and heat pump emissions
 
-Most of our power comes from hydro, geothermal, wind and solar. MBIE reported a record from October to December 2025. That quarter, 96.4% of power generation came from renewable sources. Good hydro conditions drove it ([MBIE, record high share of electricity generation from renewables](https://www.mbie.govt.nz/about/news/favourable-hydro-conditions-see-record-high-share-of-electricity-generation-from-renewables)).
+Most of our power comes from hydro, geothermal, wind and solar. From October to December 2025, a record 96.4% of power generation came from renewable sources. Good hydro conditions drove it.
 
-MBIE says strong hydro and new solar cut the need for natural gas that quarter. Emissions from power generation fell to their lowest quarterly level since records began in 1990. Keep in mind that's one quarter, with good rain into the lakes. The share moves with rainfall and lake levels. In a dry spell, more gas and coal goes on the grid. Then every kWh carries more carbon.
+Strong hydro and new solar cut the need for natural gas that quarter. Emissions from power generation fell to their lowest quarterly level since records began in 1990. Keep in mind that's one quarter, with good rain into the lakes. The share moves with rainfall and lake levels. In a dry spell, more gas and coal goes on the grid. Then every kWh carries more carbon.
 
 ## Efficiency multiplies the benefit
 
-A heat pump doesn't create heat. It shifts it in from outside. So it puts out more heat than the power it uses. EECA's label guide says a one star heat pump has a seasonal performance factor of 2.5 to 3. Units with more stars do better ([EECA](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf)). Less power for each bit of heat means lower emissions too.
+A heat pump doesn't create heat. It shifts it in from outside. So it puts out more heat than the power it uses. A one star heat pump on the energy label has a seasonal performance factor of 2.5 to 3. Units with more stars do better. Less power for each bit of heat means lower emissions too.
 
 So a well rated unit, fitted right and run well, shrinks the power side of the footprint. Our [energy efficient heat pump guide](/energy-efficient/) covers both.
 
@@ -57,7 +57,7 @@ Refrigerant only counts as an emission if it leaks out. Or if it's let out when 
 
 **Air quality.** A wood burner gives off smoke. Outside, and inside when you open the door to load it. A newer burner fed dry, well seasoned wood burns cleaner, but it still makes some smoke. A heat pump burns nothing in the room, so it adds no smoke or fumes to the air you breathe.
 
-**Rules in Christchurch.** Christchurch City Council needs building consent before you put in or move a solid fuel heater. Any new burner fitted since 1 January 2019 must be an ultra-low emission burner. Fixed electric heaters, heat pumps included, don't need building consent. A registered electrician must still connect them ([Christchurch City Council, building and renovation projects](https://ccc.govt.nz/building-and-renovation-projects)).
+**Rules in Christchurch.** In Christchurch you need building consent before you put in or move a solid fuel heater. Any new burner fitted since 1 January 2019 must be an ultra-low emission burner. Fixed electric heaters, heat pumps included, don't need building consent. A registered electrician must still connect them.
 
 **Carbon.** People often call wood carbon neutral, because trees take up carbon as they grow. How true that is depends. Where's the wood from? Is it replanted? How far does it travel? How well is it burned? We don't put one number on it. It changes from one load of firewood to the next.
 

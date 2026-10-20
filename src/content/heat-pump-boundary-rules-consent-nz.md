@@ -4,7 +4,7 @@ description: "How close can a heat pump be to your boundary? Christchurch sets n
 keyword: heat pump boundary rules nz
 secondary: [heat pump boundary rules, heat pump distance from boundary, heat pump consent nz, heat pump noise rules nz]
 h1: Heat pump boundary rules and consent in Christchurch
-intro: "We place outdoor units to meet Christchurch's noise limits. There's no set boundary distance: what counts is the noise at your neighbour's place, and here are the District Plan limits."
+intro: "We place outdoor units to meet Christchurch's noise limits. There's no set boundary distance: what counts is the noise at your neighbour's place, and here are the limits."
 hero: boundary-hero
 updated: 2026-10-17
 gallery: [boundary-screen, boundary-bracket]
@@ -12,11 +12,11 @@ faqHeading: Heat pump boundary rule questions
 relatedHeading: More on heat pump noise and compliance
 faqs:
   - q: How far from the boundary does a heat pump need to be in Christchurch?
-    a: The Christchurch District Plan doesn't set a fixed distance. It sets noise limits, measured at the neighbour's site. A unit right by the fence is fine if it's quiet enough. A unit further away can break the limits if it's loud.
+    a: Christchurch has no fixed distance. It has noise limits, measured at the neighbour's site. A unit right by the fence is fine if it's quiet enough. A unit further away can break the limits if it's loud.
   - q: What are the noise limits for a heat pump in a residential area?
-    a: For residential zones outside the Central City, the District Plan limits are 50 dB LAeq from 7am to 10pm. From 10pm to 7am they're 40 dB LAeq and 65 dB LAmax. They're measured at the site receiving the noise.
+    a: For residential zones outside the Central City, the limits are 50 dB LAeq from 7am to 10pm. From 10pm to 7am they're 40 dB LAeq and 65 dB LAmax. They're measured at the site receiving the noise.
   - q: Do I need resource consent to install a heat pump?
-    a: Not if the unit meets the District Plan's noise limits. A well placed modern unit normally does. Consent only comes into it when an install can't meet the permitted standards.
+    a: Not if the unit meets the noise limits. A well placed modern unit normally does. Consent only comes into it when an install can't meet the permitted standards.
   - q: Does a heat pump need building consent?
     a: A standard split system in a home normally goes in without building consent. A licensed electrical worker still has to do the electrical connection.
   - q: What if a neighbour complains?
@@ -29,13 +29,13 @@ related:
 
 ## The short answer on heat pump boundary rules
 
-The Christchurch District Plan controls heat pumps through **noise**, not distance. Anything that makes noise has to meet the zone noise limits at the site receiving it. A heat pump outdoor unit is no different. There's no rule that says it must be a set number of metres from the fence.
+Christchurch controls heat pumps through **noise**, not distance. Anything that makes noise has to meet the zone noise limits at the site receiving it. A heat pump outdoor unit is no different. There's no rule that says it must be a set number of metres from the fence.
 
 So placing the outdoor unit is a call about sound. How loud is the unit? How close is it to the neighbour's bedroom windows? And what's around it?
 
 ## Heat pump noise rules in residential zones
 
-These limits apply in residential zones outside the Central City. They're measured at the site receiving the noise. The District Plan sets them by time of day (Rule 6.1.5.2.1, Table 1):
+These limits apply in residential zones outside the Central City. They're measured at the site receiving the noise. They change with the time of day:
 
 | Time | Limit |
 | --- | --- |
@@ -44,11 +44,9 @@ These limits apply in residential zones outside the Central City. They're measur
 
 Plan for the night limit. Heat pumps work hardest on cold nights and early mornings. That's exactly when the 40 dB limit applies. The Central City and commercial zones have different limits.
 
-Source: [Christchurch District Plan, Chapter 6.1 Noise](https://www.proposeddistrictplan1.ccc.govt.nz/assets/Documents/proposed-Christchurch-Replacement-District-Plan/Decision-63-Schedule-1-Chapter-6.1-6.11-Optimized.pdf) (decision version). Check the current text at [districtplan.ccc.govt.nz](https://districtplan.ccc.govt.nz/) before you rely on a figure.
-
 ## Selwyn and Waimakariri are different
 
-Live in Rolleston, Lincoln, Prebbleton or elsewhere in Selwyn? The Selwyn District Plan applies, not Christchurch's. Kaiapoi and Rangiora come under Waimakariri District Council. It has its own [fact sheet on noisy heat pumps](https://www.waimakariri.govt.nz/__data/assets/pdf_file/0024/181194/QD-ENV-Information-012-Noisy-Heat-Pumps.PDF). The idea is the same everywhere. Noise is measured at the neighbour's property.
+Live in Rolleston, Lincoln, Prebbleton or elsewhere in Selwyn? The Selwyn District Plan applies, not Christchurch's. Kaiapoi and Rangiora come under Waimakariri District Council, which has its own rules on noisy heat pumps. The idea is the same everywhere. Noise is measured at the neighbour's property.
 
 ## Where to put the outdoor unit near a boundary
 
@@ -66,13 +64,13 @@ The rules don't change across the city. How hard they are to meet depends on you
 
 - **Small sections in the inner suburbs.** In [Addington](/heat-pumps-addington/), houses sit close together, and the only spot may be a narrow side passage along the neighbour's fence. We check what's on the other side of the fence first. When space is tight, we compare how loud each outdoor model is.
 - **Townhouses.** In [Edgeware](/edgeware/), side paths are narrow and the next unit's bedroom may be a metre or two away. We place the outdoor unit with that bedroom in mind.
-- **Central City apartments.** In [the Central City](/central-business-district-cbd/), the District Plan has its own noise limits, separate from the suburbs. Bedrooms are close together, and your body corporate may have rules about where an outdoor unit can go.
+- **Central City apartments.** In [the Central City](/central-business-district-cbd/), there are separate noise limits, apart from the suburbs. Bedrooms are close together, and your body corporate may have rules about where an outdoor unit can go.
 - **Hillside sections.** On the terraced slopes of [Westmorland](/westmorland/), noise travels. An outdoor unit beside the garage or on a lower terrace still has to stay quiet at the neighbour's place.
 - **Selwyn villages.** [Tai Tapu](/tai-tapu/) comes under the Selwyn District Plan. On a lifestyle block the nearest neighbour may be a fair way off, but in the village the sections are closer together.
 
 ## When a heat pump needs consent
 
-Meet the District Plan noise limits and it's a permitted activity. No resource consent needed. Nearly every home install fits here.
+Meet the noise limits and it's a permitted activity. No resource consent needed. Nearly every home install fits here.
 
 Consent only comes up when a unit can't meet the limits. Think of a big unit jammed hard against a neighbour's bedroom wall. The usual answer is to move or change the unit, not apply for consent.
 

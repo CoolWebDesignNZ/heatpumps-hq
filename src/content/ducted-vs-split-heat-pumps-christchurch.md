@@ -14,7 +14,7 @@ faqs:
   - q: Is ducted or split system better for a Christchurch home?
     a: Neither is better across the board. Ducted suits a house where you want every room warm and nothing on the walls. You need roof space for the unit and ducts. Split systems suit heating the living area and a few chosen rooms. That's especially true in an older house with not much ceiling space.
   - q: Ducted vs high wall heat pump, which is quieter?
-    a: Inside, ducted is usually less noticeable. The indoor unit's in the roof space, so you only hear air at the vents. EECA notes that ducted units only carry an outdoor noise figure on the energy label. Split systems show both.
+    a: Inside, ducted is usually less noticeable. The indoor unit's in the roof space, so you only hear air at the vents. Ducted units only carry an outdoor noise figure on the energy label. Split systems show both.
   - q: Can I add a ducted system later if I start with split units?
     a: Yes, but you'd be paying for two systems. If whole-house heat is the long-term plan, price ducted now. Do it before a renovation opens the ceilings.
   - q: Do ducted systems heat bedrooms as well as living areas?
@@ -82,7 +82,7 @@ Ducted vents spread the air from several spots, usually in the ceiling. Warm air
 
 ## Running costs of ducted vs split heat pumps
 
-You can only compare them like for like. Heating one lounge with a wall unit uses less power than heating the whole house with ducted. Whole house against whole house is closer. Four or five wall units against one ducted system depends on the models. It depends on how efficient they are when it's cold, and how you run them. Check the energy labels. EECA's [label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) explains the kWh figures and star ratings for the Cold zone that applies to New Zealand.
+You can only compare them like for like. Heating one lounge with a wall unit uses less power than heating the whole house with ducted. Whole house against whole house is closer. Four or five wall units against one ducted system depends on the models. It depends on how efficient they are when it's cold, and how you run them. Check the energy labels, and compare the kWh figures and star ratings in the Cold zone row, the zone that applies to New Zealand.
 
 Zoning is one of the main ways to keep ducted running costs down. It stops you heating empty rooms.
 
@@ -90,7 +90,7 @@ Zoning is one of the main ways to keep ducted running costs down. It stops you h
 
 With a split, the indoor fan is in the room. Modern units are quiet on low fan. But you'll hear them at full output on a cold morning. With ducted, the indoor unit is in the roof space. What you hear is air moving at the vents.
 
-Outside, both have a compressor and a fan. Whole-house ducted outdoor units are often bigger. EECA's label guidance notes that the outdoor noise figure matters if the unit's near a window, a bedroom or a neighbour. [Christchurch noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) apply to both types.
+Outside, both have a compressor and a fan. Whole-house ducted outdoor units are often bigger. The outdoor noise figure matters if the unit's near a window, a bedroom or a neighbour. [Christchurch noise limits at the boundary](/heat-pump-boundary-rules-consent-nz/) apply to both types.
 
 ## Servicing ducted and split systems
 

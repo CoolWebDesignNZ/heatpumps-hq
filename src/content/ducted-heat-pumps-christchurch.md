@@ -39,7 +39,7 @@ faqs:
   - q: How do I look after a ducted heat pump?
     a: Clean or replace the filter at the return air grille often. Keep furniture off the vents. Get the system <a href="/maintenance-servicing/">serviced</a> once a year.
   - q: I'm a landlord. Can a ducted heat pump meet the Healthy Homes standard?
-    a: The <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Healthy Homes heating standard</a> needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the system and the living room vents with that room in mind, and give you the model and capacity for your records.
+    a: Yes. The Healthy Homes heating standard needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the system and the living room vents with that room in mind, and give you the model and capacity for your records.
   - q: What does a ducted heat pump cost?
     a: It depends on the size of the house and the number of vents. It also depends on access to the roof space, and whether you want zoning. <a href="/ducted-heat-pump-cost-christchurch/">Ducted heat pump cost</a> goes through each one.
 related:

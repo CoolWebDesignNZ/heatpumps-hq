@@ -600,6 +600,12 @@
   "type": "hub"
  },
  {
+  "path": "/heat-pump-guides/",
+  "slug": "heat-pump-guides",
+  "type": "hub",
+  "new": true
+ },
+ {
   "path": "/multi-room-heat-pump-installation/",
   "slug": "multi-room-heat-pump-installation",
   "type": "service"

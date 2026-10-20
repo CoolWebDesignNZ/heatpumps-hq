@@ -65,11 +65,11 @@ The price climbs as the run gets longer or harder:
 - **A tidy finish.** The pipes need a cover or ducting on the outside wall.
 - **A tricky route.** The run goes through a garage, a second storey or a finished ceiling.
 
-A longer run means more copper pipe, more insulation and more labour. EECA's [installation guide](https://www.eeca.govt.nz/assets/EECA-Resources/Good-Practice-Guide-Heat-Pump-Installation-March-2022.pdf) sets some rules too. The run must stay within the maker's maximum length and height. Bends should be kept to a minimum. And the system must be charged with refrigerant to suit the pipe length.
+A longer run means more copper pipe, more insulation and more labour. There are some rules too. The run must stay within the maker's maximum length and height. Bends should be kept to a minimum. And the system must be charged with refrigerant to suit the pipe length.
 
 ## How outdoor unit mounting changes the cost
 
-Where the outdoor unit goes changes the cost. A pad on the ground beside the house is usually simplest. Wall brackets add hardware and time. A two-storey wall adds access work. EECA's guide lists the common mounts: a concrete pad or pre-cast slab, a concrete patio, a timber deck with anti-vibration mounts, or brackets fixed to a wall or foundation. A roof is allowed only where the install has been designed for the load and wind forces.
+Where the outdoor unit goes changes the cost. A pad on the ground beside the house is usually simplest. Wall brackets add hardware and time. A two-storey wall adds access work. The common mounts are a concrete pad or pre-cast slab, a concrete patio, a timber deck with anti-vibration mounts, or brackets fixed to a wall or foundation. A roof is allowed only where the install has been designed for the load and wind forces.
 
 Wherever it goes, the unit has to sit clear of obstructions. It has to be away from the neighbour's bedrooms. And defrost water has to be able to drain. The [heat pump boundary rules](/heat-pump-boundary-rules-consent-nz/) cover the noise side.
 
@@ -79,14 +79,14 @@ Every heat pump needs an electrical connection by a licensed electrical worker. 
 
 - **Switchboard space.** Is there room for a new circuit, or does the board need upgrading?
 - **Cable length.** How far does the cable run from the board to the outdoor unit?
-- **The isolating switch.** It must be lockable. EECA's guide says it goes on the house within reach for servicing, not on the unit itself.
+- **The isolating switch.** It must be lockable. It goes on the house within reach for servicing, not on the unit itself.
 - **Older wiring.** It may need work before a new load goes on.
 
-EECA's quality checklist expects the heat pump on its own circuit, wired back to the distribution board. An existing circuit with enough spare capacity is the other option. You should get an electrical Certificate of Compliance for the work.
+The heat pump should be on its own circuit, wired back to the distribution board. An existing circuit with enough spare capacity is the other option. You should get an electrical Certificate of Compliance for the work.
 
 ## Removing an old heat pump
 
-Replacing an old heat pump means taking it out first. We recover the refrigerant and disconnect the power. We remove both units and the old pipes. Then we patch the hole in the wall, or reuse it. EECA's guide says refrigerant must not be released into the air. So recovery is part of the job, not an optional extra.
+Replacing an old heat pump means taking it out first. We recover the refrigerant and disconnect the power. We remove both units and the old pipes. Then we patch the hole in the wall, or reuse it. Refrigerant must not be released into the air. So recovery is part of the job, not an optional extra.
 
 Sometimes you can reuse the old position, which helps. Sometimes it was a poor spot to start with, and moving it is worth the extra.
 

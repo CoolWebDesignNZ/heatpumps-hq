@@ -14,7 +14,7 @@ faqHeading: "Questions about heat pumps in Ilam"
 relatedHeading: "More on heat pumps near Ilam"
 faqs:
   - q: Does a heat pump meet the Healthy Homes heating standard for my Ilam rental?
-    a: Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be fixed, have a thermostat and have enough capacity for that room. <a href="https://www.tenancy.govt.nz/healthy-homes/heating-standard/">Tenancy Services</a> lists the requirements. We size the unit to the room, so it meets the capacity the standard asks for.
+    a: Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be fixed, have a thermostat and have enough capacity for that room. We size the unit to the room, so it meets the capacity the standard asks for.
   - q: How often should heat pumps in a student flat be serviced?
     a: At least once a year, ideally before winter. Flats with several tenants run the heat pump hard, so the filters clog faster. Ask your tenants to rinse the filters every few weeks in winter.
   - q: Can you work around tenants?
@@ -36,7 +36,7 @@ At the quote we measure the rooms and check the insulation and windows. For a re
 
 ## Heat pumps in Ilam rentals and the Healthy Homes standard
 
-Under the [Healthy Homes heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/), a rental needs one or more fixed heaters that can heat the main living room directly. They need enough capacity for that room. A heat pump or electric heater used to meet it must have a thermostat. Open fires and unflued gas heaters don't count. Tenancy Services has a heating assessment tool that works out the capacity a room needs.
+Under the Healthy Homes heating standard, a rental needs one or more fixed heaters that can heat the main living room directly. They need enough capacity for that room. A heat pump or electric heater used to meet it must have a thermostat. Open fires and unflued gas heaters don't count. The Healthy Homes [heating assessment tool](https://tools.tenancy.govt.nz/heating-tool) works out the capacity a room needs.
 
 When we quote for an Ilam rental, we size the heat pump to the living room's required capacity. We fit it so it heats that room directly. Cold bedrooms in the flat? A second small unit there is worth a thought, for the tenants and to keep mould down. The standard itself only covers the living room.
 
