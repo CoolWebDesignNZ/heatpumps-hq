@@ -6,7 +6,8 @@ secondary: [heat pump service, heat pump specialists christchurch, heat pump ser
 h1: Heat pump services in Christchurch
 intro: "We fit, service, fix and upgrade heat pumps in homes across Christchurch, Selwyn and Lyttelton. Pick the job you need below and we'll quote a fixed price."
 hero: services-hero
-gallery: [services-outdoor, services-filters]
+gallery: []
+linkCards: true
 faqHeading: Questions about our heat pump services
 relatedHeading: Find and contact our heat pump specialists
 faqs:
@@ -30,58 +31,58 @@ Every job starts the same way. We find out what you need the heat pump to do. We
 
 We fit everything from one room to a whole house. That includes air conditioning and smart controls.
 
-- [Heat pump installation](/heat-pump-installation-in-christchurch/): how we size, place and fit a new system.
-- [Single room heat pumps](/single-room-heat-pump-installation/): one unit for a bedroom, lounge or studio.
-- [Multi room heat pumps](/multi-room-heat-pump-installation/): several indoor units on one outdoor unit.
-- [Ducted heat pumps](/ducted-heat-pumps-christchurch/): hidden, with a vent in each room.
-- [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/): Daikin's ducted units and zone controls.
-- [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/): ducted units, with ZoneIQ and Lossnay options.
-- [Heat pump zoning](/heat-pump-zoning/): room by room control for ducted systems.
-- [Air conditioning installation](/air-conditioning-installation-christchurch/): cooling for rooms that get too hot in summer.
-- [Smart heat pump systems](/smart-heat-pump-systems/): Wi-Fi and app control, for new units or the one you've got.
+- [Heat pump installation](/heat-pump-installation-in-christchurch/): We measure each room, pick the size and the spot, and fit the indoor and outdoor units.
+- [Single room heat pumps](/single-room-heat-pump-installation/): One indoor and one outdoor unit for a lounge, bedroom or sleepout.
+- [Multi room heat pumps](/multi-room-heat-pump-installation/): Two or more indoor units sharing one outdoor unit, so there's less on the outside wall.
+- [Ducted heat pumps](/ducted-heat-pumps-christchurch/): One unit in the roof or under the floor, a grille in each room and nothing on the walls.
+- [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/): Daikin ducted systems sized and fitted, with zone control if you want it.
+- [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/): Mitsubishi Electric ducted systems for new builds and existing homes, run from a wall controller.
+- [Heat pump zoning](/heat-pump-zoning/): Dampers in the ducts so you heat the living areas by day and the bedrooms at night.
+- [Air conditioning installation](/air-conditioning-installation-christchurch/): The same units cool in summer. Good for upstairs rooms and west facing lounges that overheat.
+- [Smart heat pump systems](/smart-heat-pump-systems/): A Wi-Fi adaptor so you can turn the heat pump on from your phone before you get home.
 
 ## Heat pump service and maintenance
 
 Keep the unit you've got clean and running. That's the yearly service, a deep clean or a winter check.
 
-- [Maintenance and servicing](/maintenance-servicing/): what a yearly service covers.
-- [Heat pump servicing](/heat-pump-servicing/): booking a routine service.
-- [Heat pump cleaning](/heat-pump-cleaning/): a deep clean of the indoor coil, fan and filters.
-- [Heat pump deodorising](/heat-pump-deodorising/): for a musty smell when the unit starts.
-- [Seasonal tune-ups](/heat-pump-seasonal-tune-ups/): checks before winter and before summer.
-- [Winterisation](/winterisation-of-heat-pumps/): getting a unit ready for frost.
-- [Customised service plans](/customised-heat-pump-service-plans/): a schedule set around your system and how hard it works.
-- [Heat pump covers](/covers/): protecting and screening the outdoor unit.
+- [Maintenance and servicing](/maintenance-servicing/): Filters, coils, drain and refrigerant checked once a year, ideally before winter.
+- [Heat pump servicing](/heat-pump-servicing/): Book a service visit for one unit or several, on any major brand.
+- [Heat pump cleaning](/heat-pump-cleaning/): The indoor unit bagged and washed out, including the coil, fan and drain tray.
+- [Heat pump deodorising](/heat-pump-deodorising/): Gets rid of the musty smell that comes out when the unit starts up.
+- [Seasonal tune-ups](/heat-pump-seasonal-tune-ups/): A check before winter for heating, and before summer for cooling.
+- [Winterisation](/winterisation-of-heat-pumps/): Both units cleaned and checked, and the outdoor unit draining properly before the frosts.
+- [Customised service plans](/customised-heat-pump-service-plans/): A service schedule set by how many units you have and how hard they run.
+- [Heat pump covers](/covers/): A cover or screen that tidies up the outdoor unit without blocking its air.
 
 ## Repairs and fault finding on all brands
 
 We find and fix faults on all major brands. That's anything from a unit that's stopped to a refrigerant leak.
 
-- [Heat pump repair](/heat-pump-repair/): faults on all major brands, priced before we start.
-- [Emergency heat pump repair](/emergency-heat-pump-repair/): when the unit's stopped and the house is cold.
-- [Heat pump troubleshooting](/heat-pump-troubleshooting/): working out why a unit isn't running right.
-- [Leak detection and repair](/leak-detection-repair/): finding and fixing refrigerant leaks.
-- [Parts replacement](/heat-pump-parts-replacement/): sensors, fan motors, boards and other parts.
-- [Thermostat calibration](/heat-pump-thermostat-calibration/): when the room doesn't match the setting.
-- [Remote monitoring and diagnostics](/remote-monitoring-and-diagnostics/): keeping track of a system's faults and output.
+- [Heat pump repair](/heat-pump-repair/): Not heating, leaking water, showing an error code or making a noise. We find the fault and price the fix.
+- [Emergency heat pump repair](/emergency-heat-pump-repair/): Stopped, pouring water or smelling of burning. Make it safe, then call us early in the day.
+- [Heat pump troubleshooting](/heat-pump-troubleshooting/): We test the system step by step until we know what's failed, then quote the repair.
+- [Leak detection and repair](/leak-detection-repair/): We find the refrigerant leak, fix it and regas the system.
+- [Parts replacement](/heat-pump-parts-replacement/): Fan motors, sensors, circuit boards and remotes replaced on all major brands.
+- [Thermostat calibration](/heat-pump-thermostat-calibration/): The room is colder than the setting. We check the sensor and correct it.
+- [Remote monitoring and diagnostics](/remote-monitoring-and-diagnostics/): See faults and how hard the system is working from your phone.
 
 ## Heat pump service by brand
 
 We service and fix each of these. That includes Panasonic, which we don't fit.
 
-- [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/): Mitsubishi Electric wall, floor and ducted units.
-- [Daikin heat pump service](/daikin-heat-pump-service-christchurch/): Daikin split and ducted systems.
-- [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/): Fujitsu heat pumps.
-- [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/): Panasonic units, serviced but not fitted.
+- [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/): Mitsubishi Electric wall, floor and ducted units serviced and repaired.
+- [Daikin heat pump service](/daikin-heat-pump-service-christchurch/): Daikin wall, floor and ducted systems serviced and repaired.
+- [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/): Fujitsu units serviced and repaired, and new ones fitted.
+- [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/): Panasonic units serviced and repaired. We don't fit new Panasonic units.
 
 ## Efficiency and air quality upgrades
 
 How much warmth do you get for the power you use? And how's the air in the rooms? These cover both.
 
-- [Efficiency upgrades](/heat-pump-efficiency-upgrades/): more warmth for the same power.
-- [Energy consumption monitoring](/energy-consumption-monitoring/): seeing how much power the heat pump uses.
-- [Heat pump dehumidification](/heat-pump-dehumidification/): using dry mode on damp air.
-- [Air quality testing](/air-quality-testing/): checking the air in the rooms the heat pump serves.
+- [Efficiency upgrades](/heat-pump-efficiency-upgrades/): Swap an old unit for a newer one that uses less power for the same heat.
+- [Energy consumption monitoring](/energy-consumption-monitoring/): Power bill too high? We check what the heat pump is really using and why.
+- [Heat pump dehumidification](/heat-pump-dehumidification/): Dry mode takes moisture out of a damp room without heating it up.
+- [Air quality testing](/air-quality-testing/): We test the air in the rooms and check the unit for mould and dust.
 
 ## Book a heat pump service or quote
 

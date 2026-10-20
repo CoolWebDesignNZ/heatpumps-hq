@@ -12,6 +12,7 @@ import SuburbMap from '../components/SuburbMap.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 import nav from '../data/nav.json';
+import images from '../data/images.json';
 
 export async function getStaticPaths() {
   const files = import.meta.glob('../content/*.md', { eager: true });
@@ -36,7 +37,19 @@ if (!bandImages.length && gallery[1] && sections.length > 3) slots.set(Math.max(
 const leftover = gallery.filter((id) => ![...slots.values()].includes(id));
 // Each H2 section of the article becomes its own band, alternating white and
 // light blue. A gallery photo slotted before section i closes the band above it.
-const bands = sections.map((html, i) => ({ html, photo: slots.get(i + 1) }));
+// linkCards: a list of "[Label](/page/): what we do" lines becomes a grid of
+// cards, each with the linked page's hero photo.
+const allPages = import.meta.glob('../content/*.md', { eager: true });
+const heroOf = (href) => allPages[`../content/${href.replace(/\//g, '')}.md`]?.frontmatter?.hero;
+const cardList = (html) => html.replace(/<ul>([\s\S]*?)<\/ul>/g, (ul, inner) => {
+  const items = [...inner.matchAll(/<li><a href="(\/[^"]+)">([^<]+)<\/a>:\s*([\s\S]*?)<\/li>/g)];
+  if (!items.length) return ul;
+  return `<div class="link-cards">${items.map(([, href, label, text]) => {
+    const id = heroOf(href); const img = id && images[id];
+    return `<a class="card link-card" href="${href}">${img ? `<img src="/images/${id}.jpg" alt="${img.alt}" loading="lazy" decoding="async" width="${img.aspect.split('x')[0] * 100}" height="${img.aspect.split('x')[1] * 100}">` : ''}<div class="card-body"><h3>${label}</h3><p>${text}</p></div></a>`;
+  }).join('')}</div>`;
+});
+const bands = sections.map((html, i) => ({ html: fm.linkCards ? cardList(html) : html, photo: slots.get(i + 1) }));
 const { slug } = Astro.params;
 const entry = urls.find((u) => u.slug === slug);
 const type = entry.type;
@@ -221,6 +234,14 @@ if (fm.faqs?.length) {
   <CtaBand heading={fm.ctaHeading} />
 </Base>
 <style>
+  :global(.link-cards) { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin: 28px 0 8px; }
+  :global(.prose .link-card) { text-decoration: none; color: inherit; display: flex; flex-direction: column; }
+  :global(.link-card img) { display: block; width: 100%; aspect-ratio: 3/2; object-fit: cover; margin: 0; border-radius: 0; }
+  :global(.prose .link-card h3) { margin: 0 0 8px; font-size: 1.15rem; color: var(--link); }
+  :global(.prose .link-card p) { margin: 0; line-height: 1.5; }
+  :global(.prose .link-card:hover h3) { text-decoration: underline; }
+  @media (max-width: 980px) { :global(.link-cards) { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px) { :global(.link-cards) { grid-template-columns: 1fr; } }
   .steps { grid-template-columns: repeat(3, 1fr); }
   @media (max-width: 860px) { .steps { grid-template-columns: 1fr; } }
   .step-n { font-size: 2.4rem; font-weight: 800; color: var(--brand); line-height: 1; margin: 0 0 .3em; }
