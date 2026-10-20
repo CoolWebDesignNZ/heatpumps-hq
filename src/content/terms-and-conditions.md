@@ -33,7 +33,7 @@ The text and images on this site belong to Heat Pumps HQ, or we use them with pe
 
 ## Your consumer rights
 
-Nothing in these terms limits your rights under the [Consumer Guarantees Act 1993](https://www.consumerprotection.govt.nz/general-help/consumer-laws/consumer-guarantees-act) or any other New Zealand consumer law. Those rights apply to the services we provide, whatever any other terms say.
+Nothing in these terms limits your rights under the Consumer Guarantees Act 1993 or any other New Zealand consumer law. Those rights apply to the services we provide, whatever any other terms say.
 
 ## Privacy
 

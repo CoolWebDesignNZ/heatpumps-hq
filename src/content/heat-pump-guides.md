@@ -5,7 +5,7 @@ keyword: heat pump guides
 secondary: [heat pump guide, heat pump buying guide, heat pump costs, heat pump rules]
 h1: Heat pump guides for Christchurch homes
 intro: "We've written up what we explain to people every week: how a heat pump works, which one suits your house, what it costs to fit and run, and what to do when it plays up."
-hero: choose-hero
+hero: hiw-indoor
 gallery: []
 linkCards: true
 faqHeading: Heat pump guide questions
