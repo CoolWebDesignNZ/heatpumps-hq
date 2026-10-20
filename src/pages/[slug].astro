@@ -225,7 +225,10 @@ if (fm.faqs?.length) {
         <h2>{fm.relatedHeading ?? 'Related heat pump pages'}</h2>
         <div class="grid grid-3">
           {fm.related.map((r) => (
-            <a class="card" href={r.href}><div class="card-body"><h3>{r.label}</h3><p>{r.text}</p></div></a>
+            <a class="card rel-card" href={r.href}>
+              {heroOf(r.href) && <Img id={heroOf(r.href)} class="rel-img" />}
+              <div class="card-body"><h3>{r.label}</h3><p>{r.text}</p><span class="rel-go">Read more</span></div>
+            </a>
           ))}
         </div>
       </div>
@@ -234,6 +237,13 @@ if (fm.faqs?.length) {
   <CtaBand heading={fm.ctaHeading} />
 </Base>
 <style>
+  .rel-card { background: var(--brand-tint); box-shadow: none; display: flex; flex-direction: column; }
+  .rel-card:hover { background: #dcebf4; }
+  .rel-card :global(.rel-img) { display: block; width: 100%; aspect-ratio: 16/9 !important; object-fit: cover; border-radius: 0; }
+  .rel-card h3 { color: var(--ink); }
+  .rel-card .card-body { display: flex; flex-direction: column; flex: 1; }
+  .rel-card p { flex: 1; }
+  .rel-go { margin-top: 18px; color: var(--link); font-weight: 700; text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; }
   :global(.link-cards) { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin: 28px 0 8px; }
   :global(.prose .link-card) { text-decoration: none; color: inherit; display: flex; flex-direction: column; }
   :global(.link-card img) { display: block; width: 100%; aspect-ratio: 3/2; object-fit: cover; margin: 0; border-radius: 0; }

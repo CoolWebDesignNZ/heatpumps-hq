@@ -9,7 +9,7 @@ hero: hiw-indoor
 gallery: []
 linkCards: true
 faqHeading: Heat pump guide questions
-relatedHeading: Next steps after the heat pump buying guide
+relatedHeading: Get help with your heat pump
 faqs:
   - q: Where should I start if I'm buying my first heat pump?
     a: Start with <a href="/types-of-heat-pumps/">the types of heat pumps</a>, then work out <a href="/heat-pump-sizing/">the size you need</a>. Once you know the type and the kW, quotes are much easier to compare.
