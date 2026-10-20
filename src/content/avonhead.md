@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Avonhead
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avonhead
 suburb: Avonhead
-intro: "We fit, service and fix heat pumps in Avonhead, where plenty of homes are brick and tile. We plan where the units go around those layouts and fix the price first."
+intro: "We fit, service and fix heat pumps in Avonhead, where plenty of homes are brick and tile. We plan where the units go around those layouts and give you a fixed price before we start."
 hero: avonhead-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avonhead

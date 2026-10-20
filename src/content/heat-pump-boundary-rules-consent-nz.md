@@ -80,7 +80,7 @@ A standard split system in a home normally goes in without building consent. A l
 
 ## When a neighbour complains
 
-Christchurch City Council looks into it. If its measurements show the heat pump's over the limit, it can issue an abatement notice. That means the noise has to come down. One Christchurch family's dispute went all the way to the Environment Court, [as RNZ reported](https://www.rnz.co.nz/news/regions/573730/family-s-battle-with-council-over-noisy-heat-pump-reaches-environment-court). The council then cancelled the notice after more monitoring.
+Christchurch City Council looks into it. If its measurements show the heat pump's over the limit, it can issue an abatement notice. That means the noise has to come down.
 
 Had a complaint? The fixes are usually simple.
 

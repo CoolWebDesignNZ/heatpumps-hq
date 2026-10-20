@@ -12,7 +12,7 @@ faqHeading: "Questions about heat pumps in low temperatures"
 relatedHeading: "More on heat pumps and frost"
 faqs:
   - q: What is the minimum temperature a heat pump works at?
-    a: It depends on the model. The maker lists the lowest outdoor temperature it will heat at. You'll find it in the specs. Some Mitsubishi Electric models are rated to heat down to minus 25°C. Others stop at a higher temperature. Check the sheet for yours.
+    a: It depends on the model. The maker lists the lowest outdoor temperature it will heat at. You'll find it in the specs. Some cold climate models are rated to heat well below zero. Others stop at a higher temperature. Check the sheet for yours.
   - q: Why does my heat pump stop blowing warm air on frosty mornings?
     a: It's usually defrosting. Below about 5.5°C the outdoor coil ices up. The unit stops heating for a few minutes to melt it. The indoor fan slows or stops. Then the heat comes back.
   - q: Is it normal for the outdoor unit to be covered in ice?
@@ -27,7 +27,7 @@ related:
 
 ## The minimum temperature a heat pump will run at
 
-There's no single answer. Every model has its own heating range. The maker sets the lowest outdoor temperature it will keep heating at. It's on the spec sheet for that model. Some Mitsubishi Electric models are rated to heat down to minus 25°C ([Mitsubishi Electric NZ](https://www.mitsubishi-electric.co.nz/publications/heat-pump/Heat-Pump-HyperCore-Technology-South-Island)).
+There's no single answer. Every model has its own heating range. The maker sets the lowest outdoor temperature it will keep heating at. It's on the spec sheet for that model. Some cold climate models are rated to keep heating well below zero. Others stop at a higher temperature.
 
 That number is a limit. It's not a promise of full output. Two things happen as it gets colder, long before the unit hits that limit.
 

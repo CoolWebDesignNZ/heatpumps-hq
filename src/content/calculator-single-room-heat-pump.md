@@ -89,10 +89,6 @@ The heating figure on a heat pump's label is its output at 7°C outside. EECA's 
 
 Can't find the chart? EECA's [energy label guidance](https://www.eeca.govt.nz/assets/EECA-Resources/Product-regulations/The-new-Zoned-Energy-Rating-Label-for-heat-pumps-air-conditioners.pdf) suggests at least checking the 2°C heating figure on the label holds up against the 7°C one. We walk through EECA's worked example in [heat pump sizing](/heat-pump-sizing/).
 
-## Brand sizing tools
-
-Heat pump brands run their own calculators. Mitsubishi Electric's [sizing tool](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) is one. It asks for the room's width, length and height, how well it's insulated and the nearest region. Then it suggests models from its range. Tools like this are quick for a first look. But they answer a different question. They tell you which of their models might suit. They don't tell you how much heat your room loses.
-
 ## When a calculator isn't enough
 
 A calculation is only as good as what goes in. And some rooms don't fit a form. Get the room looked at on site when:

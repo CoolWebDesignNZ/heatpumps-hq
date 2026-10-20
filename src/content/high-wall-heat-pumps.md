@@ -5,7 +5,7 @@ keyword: high wall heat pump
 secondary: [wall mounted heat pump, wall hung heat pump, high wall heat pump christchurch]
 h1: High wall heat pumps in Christchurch
 serviceName: High wall heat pump installation
-intro: "We install high wall heat pumps across Christchurch, in living areas, bedrooms and studios. We pick the wall that gets warm air to where you sit, and fix the price first."
+intro: "We install high wall heat pumps across Christchurch, in living areas, bedrooms and studios. We pick the wall that gets warm air to where you sit, and give you a fixed price before we start."
 hero: highwall-hero
 gallery: [highwall-1, highwall-2]
 stepsHeading: How we choose and fit a high wall heat pump
@@ -105,4 +105,4 @@ Old wall units often went where they were easiest to fit, not where they heat be
 
 If both are fine, we can often reuse the hole in the wall and sometimes the pipe route. A newer unit may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. We take the old indoor and outdoor units away. If your current unit is worth fixing, we'll say so and talk about [heat pump repair](/heat-pump-repair/) instead.
 
-To get started, [request a free quote](/contact-us/). We'll check the room and the old unit on site, and fix the price before any work.
+To get started, [request a free quote](/contact-us/). We'll check the room and the old unit on site, and give you a fixed price before any work.

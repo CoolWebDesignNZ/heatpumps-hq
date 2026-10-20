@@ -31,7 +31,7 @@ const services = [
   { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service and repair those and Panasonic.',
     links: [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Panasonic', '/panasonic-heat-pump-service-christchurch/']] },
   { img: 'upgrade-hero', h: 'Efficiency upgrades', href: '/heat-pump-efficiency-upgrades/', p: 'We swap old units for newer, more efficient ones and show you where your power is going.',
-    links: [['Energy assessment', '/energy-efficiency-assessment/'], ['Power usage checks', '/energy-consumption-monitoring/'], ['Thermostat calibration', '/heat-pump-thermostat-calibration/'], ['Remote monitoring', '/remote-monitoring-and-diagnostics/']] },
+    links: [['Power usage checks', '/energy-consumption-monitoring/'], ['Thermostat calibration', '/heat-pump-thermostat-calibration/'], ['Remote monitoring', '/remote-monitoring-and-diagnostics/']] },
 ];
 
 const guides = [
@@ -81,18 +81,36 @@ const faqs = [
   </section>
 
   <section class="section warm">
+    <div class="wrap brand-split">
+      <div>
+        <h2>Why Christchurch homes choose Heat Pumps HQ</h2>
+        <p>Heat Pumps HQ is a Christchurch company, started here by Nate Thompson in {site.founded}. We've been fitting, servicing and fixing heat pumps in local homes for over 10 years.</p>
+        <ul class="brand-list">
+          <li><strong>Sized to your house.</strong> We recommend the unit your rooms need, not the biggest one we can sell.</li>
+          <li><strong>A fixed price first.</strong> Quotes are free, and the price is agreed in writing before we start.</li>
+          <li><strong>Trained and certified technicians.</strong> A licensed electrical worker makes the connection on every install.</li>
+          <li><strong>Fully insured.</strong> Every install comes with warranties on parts and labour.</li>
+          <li><strong>The brands that suit Canterbury.</strong> We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service those and Panasonic.</li>
+        </ul>
+        <p class="more"><a href="/about-us/">More about Heat Pumps HQ</a></p>
+      </div>
+      <Img id="installers-hero" class="brand-photo" />
+    </div>
+  </section>
+
+  <section class="section">
     <div class="wrap">
       <div class="prose">
         <h2>Heat pumps sized for your home, not the biggest unit</h2>
         <p>We size every heat pump from your house. We look at the rooms, the insulation and the windows. And we ask how you really live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair, not a new one. Either way, you'll get a straight answer and a fixed price up front.</p>
         <p>That's why Nate Thompson started Heat Pumps HQ in {site.founded}. He'd spent years at a bigger heating company. He saw too many people sold systems bigger and dearer than their homes needed.</p>
-        <p class="more"><a href="/about-us/">More about Heat Pumps HQ</a></p>
+        <p class="more"><a href="/about-us/">Read Nate's story</a></p>
       </div>
       <Img id="home-van" class="banner" />
     </div>
   </section>
 
-  <section class="section">
+  <section class="section warm">
     <div class="wrap">
       <div class="prose">
         <h2>Heat pumps made for Christchurch winters</h2>
@@ -132,6 +150,13 @@ const faqs = [
   @media (max-width: 980px) { .three { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 640px) { .three { grid-template-columns: 1fr; } }
   .three :global(.card-img) { border-radius: 0; width: 100%; aspect-ratio: 3/2 !important; object-fit: cover; display: block; }
+  .brand-split { display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; }
+  .brand-split h2 { margin-top: 0; }
+  .brand-list { list-style: none; padding: 0; margin: 24px 0; }
+  .brand-list li { position: relative; padding: 0 0 14px 22px; }
+  .brand-list li::before { content: ''; position: absolute; left: 0; top: .65em; width: 8px; height: 8px; border-radius: 50%; background: var(--brand); }
+  :global(.brand-photo) { width: 100%; aspect-ratio: 4/5 !important; object-fit: cover; border-radius: 12px; }
+  @media (max-width: 900px) { .brand-split { grid-template-columns: 1fr; gap: 32px; } :global(.brand-photo) { aspect-ratio: 3/2 !important; } }
   .card h3 a { color: var(--ink); text-decoration: none; }
   .card h3 a:hover { color: var(--brand); }
   .card-links { list-style: none; padding: 0; margin: 16px 0 0; }

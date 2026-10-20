@@ -14,7 +14,7 @@ faqs:
   - q: What is the best heat pump for a cold climate?
     a: No one model suits every house. The right one holds its heating output when it's cold outside. It has good Cold zone heating stars on the energy label. And it's sized for your rooms on the coldest mornings. We compare those figures for every model we quote.
   - q: Do heat pumps work in frost?
-    a: Yes. Below about 5.5°C outside, frost starts to form on the outdoor coil. The unit runs short defrost cycles to clear it. A unit built for the cold handles this well. Some Mitsubishi Electric models are rated to keep heating down to minus 25°C.
+    a: Yes. Below about 5.5°C outside, frost starts to form on the outdoor coil. The unit runs short defrost cycles to clear it. A unit built for the cold handles this well. Check the lowest outdoor temperature the model is rated to heat at.
   - q: Is a bigger heat pump better in a cold climate?
     a: Not always. A unit that's too big keeps switching on and off. That can feel less comfortable. What counts is enough output when it's cold outside. That's why the 2°C heating figure on the label is worth a look. Our <a href="/heat-pump-sizing/">sizing guide</a> shows how we work out the output.
   - q: Where should the outdoor unit go in a frosty area?
@@ -50,11 +50,11 @@ On the label, all of New Zealand is in the Cold zone. The heating stars there sh
 
 ### The heating operating range
 
-Makers state the lowest outdoor temperature a model will keep heating at. It varies a lot from model to model. So check the exact model, not just the brand. For example, Mitsubishi Electric says its HyperCore heat pumps can heat down to minus 25°C. It also says it guarantees full rated heating output down to minus 15°C on certain models ([Mitsubishi Electric NZ, HyperCore technology](https://www.mitsubishi-electric.co.nz/publications/heat-pump/Heat-Pump-HyperCore-Technology-South-Island)). Note the gap between those two numbers. Running at a temperature isn't the same as giving full output at it.
+Every model has a lowest outdoor temperature it will keep heating at. It varies a lot from model to model. So check the exact model, not just the brand. Some specs also give a lower temperature that the unit keeps full rated output down to. Note the gap between those two numbers. Running at a temperature isn't the same as giving full output at it.
 
 ### A base heater or de-icer
 
-Some outdoor units have a heater in the drain tray. It stops ice building up in the base. Mitsubishi Electric says the de-icer on its HyperCore units doesn't add heat to the room. It also won't run in most conditions above 0°C. It's handy where frosts are heavy and regular.
+Some outdoor units have a heater in the drain tray. It stops ice building up in the base. It doesn't add heat to the room. It's handy where frosts are heavy and regular.
 
 ## Sizing a heat pump for the coldest mornings
 

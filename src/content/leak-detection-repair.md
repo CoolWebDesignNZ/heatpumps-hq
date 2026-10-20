@@ -80,7 +80,7 @@ Leaks tend to start at joints. The flare joints where the pipes meet the units a
 4. **The repair.** Usually that's re-making a joint or replacing a length of pipe. If a coil is leaking, we price that separately. Then you can weigh it up against a new unit.
 5. **Evacuating and recharging.** We pull the system into a vacuum to clear out air and moisture. Then we charge it by weight to the maker's figure.
 
-Some newer Daikin wired controllers can detect an R32 refrigerant leak and warn you, according to [Daikin New Zealand's controller range](https://www.daikin.co.nz/pages/controllers). Most heat pumps don't. You'll notice falling performance or a fault code instead.
+Most heat pumps won't warn you about a refrigerant leak as it starts. You'll notice falling performance or a fault code instead.
 
 ## If you think you have a heat pump gas leak
 

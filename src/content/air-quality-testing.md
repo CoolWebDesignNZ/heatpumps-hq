@@ -63,7 +63,7 @@ Any work gets a fixed price before we start.
 
 ## When the problem is the house, not the heat pump
 
-A heat pump can only do so much in a damp house. The Cardiac and Respiratory Foundation NZ notes that cold, damp, poorly aired homes breed mould, dust mites and condensation. These can set off breathing symptoms. It recommends getting rid of moisture where it starts, with extractor fans in the bathroom, kitchen and laundry ([Cardiac and Respiratory Foundation NZ](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/)).
+A heat pump can only do so much in a damp house. Cold, damp, poorly aired rooms grow mould and dust mites, and the windows run with condensation. Deal with moisture where it starts. Extractor fans that vent outside in the bathroom, kitchen and laundry make the biggest difference.
 
 If we see condensation and mould well away from the heat pump, we'll tell you. Dry mode can help in some conditions. See [heat pump dehumidification](/heat-pump-dehumidification/) for when it's worth using.
 

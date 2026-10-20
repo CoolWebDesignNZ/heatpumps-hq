@@ -16,7 +16,7 @@ faqs:
   - q: My Mitsubishi heat pump is flashing a light. What should I do?
     a: Turn it off at the remote. Count how many times the light flashes. Write down the model number on the indoor unit, then give us a call. The flash pattern helps us narrow down the fault before we get there.
   - q: Can I add Wi-Fi to my older Mitsubishi heat pump?
-    a: Mitsubishi Electric says its Wi-Fi interface can be added to compatible older models. It comes down to your model, and we can check that for you.
+    a: Some older models can take a Wi-Fi adaptor, and some can't. It comes down to your model, and we can check that for you.
   - q: How long does a Mitsubishi heat pump service take?
     a: It depends on the unit and how dirty it is. A ducted system takes longer than a single wall unit. So does a unit that hasn't been cleaned in years. We'll give you an idea when you book.
 related:
@@ -53,9 +53,9 @@ Our Mitsubishi service cleans the unit inside and out and checks what it's putti
 
 Try to book your [heat pump servicing](/maintenance-servicing/) before winter. If the unit smells musty, it may need [heat pump cleaning](/heat-pump-cleaning/) too.
 
-## Wi-Fi Control on Mitsubishi heat pumps
+## Wi-Fi control on Mitsubishi heat pumps
 
-Mitsubishi Electric calls its own Wi-Fi system [Wi-Fi Control](https://www.mitsubishi-electric.co.nz/wifi/). It's a small Wi-Fi interface plus an app on your phone. You can buy it with a new heat pump. You can also add it to a compatible older model.
+Wi-Fi control on a Mitsubishi is a small adaptor in the indoor unit plus an app on your phone. You can have it with a new heat pump. Some older models can take one too, so send us the model number and we'll check.
 
 App stopped connecting? It's often the router, not the heat pump. Look for a new router, a changed password, or the 2.4 GHz band turned off. Every other brand has its own app, and we compare them under [smart heat pump systems](/smart-heat-pump-systems/).
 

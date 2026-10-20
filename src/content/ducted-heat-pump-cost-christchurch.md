@@ -45,11 +45,11 @@ Where you live and the house you live in change the job, and so the price.
 
 The more heat the system needs to make, the more it costs. Bigger units cost more. The indoor and outdoor units are sized to heat every room on the system on a Christchurch winter design day. A bigger house, more glass, a high stud or poor insulation all push the size up.
 
-Makers split their ducted ranges by house size and power supply. GENERAL New Zealand sells the Fujitsu range. On its [New Zealand site](https://www.generalairstage.co.nz/), it groups its ducted units into two sets. One is apartments and smaller homes up to four bedrooms. The other is medium to large homes up to six bedrooms. Both come in single phase and three phase.
+Ducted units come in a spread of sizes, from units for apartments and smaller homes up to units for large family homes. Many sizes come in single phase and three phase versions. We pick the size from the heat your rooms need, not the bedroom count.
 
 ## Single phase or three phase power
 
-A house has either single phase or three phase power. Some of the bigger ducted units come in three phase versions, as GENERAL's list shows. If the right unit needs a supply the house doesn't have, the electrical work changes a lot. We check the supply and the switchboard when we quote. A licensed electrical worker always does the connection.
+A house has either single phase or three phase power. Some of the bigger ducted units come in three phase versions. If the right unit needs a supply the house doesn't have, the electrical work changes a lot. We check the supply and the switchboard when we quote. A licensed electrical worker always does the connection.
 
 ## Number of rooms and outlets
 
@@ -59,7 +59,7 @@ Every room you add costs more. Each needs a vent in the ceiling, or the floor, a
 
 Roof space and ceiling depth decide how easily the indoor unit and ducts fit. A low pitch roof, tight trusses, a skillion roof or a ceiling packed with downlights and services all leave less room to work, and that makes the job harder.
 
-Makers build units for tighter spaces. Take Daikin's [New Zealand ducted range](https://www.daikin.co.nz/pages/ducted-heat-pumps). It has a slim-line series for jobs where ceiling space is limited. It also has a model 700mm deep, designed for New Zealand homes. A slimmer unit can turn a hard job into a simple one. But they only come in certain sizes.
+Slim ducted units are built for jobs where ceiling space is limited. A slimmer unit can turn a hard job into a simple one. But they only come in certain sizes.
 
 Long duct runs lose some air and heat. So we keep them short and well insulated. A central spot for the unit helps.
 
@@ -69,7 +69,7 @@ Some houses have no usable roof space but a good crawl space. The unit and ducts
 
 ## Zoning and the cost of a ducted heat pump
 
-Zoning adds a controller, dampers and wiring to the price. It can cut running costs after. A zone controller with motorised dampers lets you heat the living areas by day and the bedrooms at night. You're not heating the whole house at once. Daikin and Mitsubishi Electric both list zone controllers on their NZ sites. See [heat pump zoning](/heat-pump-zoning/).
+Zoning adds a controller, dampers and wiring to the price. It can cut running costs after. A zone controller with motorised dampers lets you heat the living areas by day and the bedrooms at night. You're not heating the whole house at once. See [heat pump zoning](/heat-pump-zoning/).
 
 ## Ducted heat pump cost in a new build or retrofit
 
@@ -87,7 +87,7 @@ It depends on what can be reused:
 - **The old refrigerant pipes.** The new unit may need a different pipe size, and we need to know which refrigerant the old system used.
 - **The power supply and isolating switch.** A bigger unit can need electrical work before it goes in.
 
-Old refrigerant has to be recovered, not let out. Some makers build units designed to replace old R22 ducted systems. For example, Daikin's NZ site lists retrofit capability for one of its inverter ducted series.
+Old refrigerant has to be recovered, not let out. If your old system runs on R22, we check whether the existing pipes can be reused with the new unit or need replacing.
 
 ## Ducted outdoor unit position
 

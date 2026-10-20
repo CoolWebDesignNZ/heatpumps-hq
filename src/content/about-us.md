@@ -7,6 +7,7 @@ h1: About Heat Pumps HQ
 intro: "Nate Thompson started Heat Pumps HQ in Christchurch in 2015. We fit, service and fix heat pumps, sizing each system to the house it goes in and agreeing the price before we start."
 hero: about-hero
 gallery: []
+bandImages: [about-1, servicing-hero]
 steps:
   - h: Sizing starts with the house
     p: Before we suggest anything, we look at the rooms you want heated, the insulation in the ceiling, walls and floor, the windows and which way they face, and how you use the house. A sunny, well insulated lounge needs a very different unit from a cold back bedroom. <a href="/heat-pump-sizing/">How we size a heat pump</a>.

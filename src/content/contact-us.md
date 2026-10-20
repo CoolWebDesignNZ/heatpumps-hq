@@ -24,7 +24,6 @@ related:
 
 - **Phone:** [03 242 1023](tel:032421023)
 - **Hours:** Monday to Friday, 8am to 5pm
-- **Facebook:** [facebook.com/heatpumphq](https://www.facebook.com/heatpumphq)
 
 Want a quote? The form at the top asks for your name, phone number and the kind of job. Add your email and street address if you like. We'll call you back to talk it through.
 

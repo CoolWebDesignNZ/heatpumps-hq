@@ -1,18 +1,18 @@
 ---
 title: "Fujitsu Heat Pump Repair Christchurch"
-description: "Fujitsu heat pump or air conditioner not right? We install, service and repair Fujitsu and General Airstage units across Christchurch. Fixed price first."
+description: "Fujitsu heat pump or air conditioner not right? We install, service and repair Fujitsu wall, floor and ducted units across Christchurch. Fixed price first."
 keyword: fujitsu heat pump repair
 secondary: [fujitsu heat pump service, fujitsu air conditioner repair, fujitsu heat pump service christchurch]
 h1: Fujitsu heat pump repair and service in Christchurch
 serviceName: Fujitsu heat pump repair and servicing
-intro: "We service, repair and fit Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton, including the newer General Airstage units. Once we've found the fault, you get a fixed price for the fix."
+intro: "We service, repair and fit Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton, old and new. Once we've found the fault, you get a fixed price for the fix."
 hero: fujitsu-hero
 gallery: [fujitsu-1, fujitsu-2]
 faqHeading: Fujitsu heat pump service questions
 relatedHeading: More on Fujitsu care and choosing a brand
 faqs:
-  - q: Is Fujitsu now called General?
-    a: In New Zealand, yes. Fujitsu General now trades as GENERAL. Its heat pumps are sold as General Airstage, and its New Zealand website calls them formerly Fujitsu. We look after both the older Fujitsu units and the newer General Airstage ones.
+  - q: Do you fit new Fujitsu heat pumps?
+    a: Yes. Fujitsu is one of the four brands we fit, along with Mitsubishi Electric, Daikin and Toshiba. We size each one for your rooms and give you a fixed price.
   - q: Do you repair Fujitsu air conditioners as well as heat pumps?
     a: Yes. A Fujitsu split system heats and cools with the same unit. So fixing a Fujitsu air conditioner is the same job as fixing the heat pump. We'll sort faults on heat or on cool.
   - q: Why is my Fujitsu heat pump's timer light flashing?
@@ -24,12 +24,6 @@ related:
   - { label: Leaks and drips, href: /leak-detection-repair/, text: "Water or refrigerant leaking from a heat pump." }
   - { label: Best heat pump brands, href: /best-heat-pump-brands-christchurch/, text: "How the main brands compare in Christchurch." }
 ---
-
-## Fujitsu, General and Airstage
-
-In New Zealand, Fujitsu heat pumps are now sold as **General Airstage**. Fujitsu General changed its trading name here to GENERAL. The [GENERAL New Zealand website](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) describes its home range as formerly Fujitsu.
-
-None of that changes repairs or servicing. A unit with a Fujitsu badge and a newer one badged General come from the same company. We fit, service and fix both.
 
 ## Fujitsu heat pumps we service and repair
 
@@ -74,14 +68,12 @@ Where your Fujitsu sits changes what it needs between services.
 
 ## Fujitsu Wi-Fi control
 
-GENERAL makes the anywAiR Wi-Fi Adaptor II. It works with a select range of General Airstage units, including the Lifestyle wall mounted series. It links them to the myanywAiR Next app.
-
-Older Fujitsu units may use a different adaptor and app. Check your model before you buy anything. For Wi-Fi control on every brand, read about [smart heat pump systems](/smart-heat-pump-systems/).
+Many Fujitsu units can be run from your phone with a Wi-Fi adaptor and an app. Which adaptor and app you need depends on the model and its age, and some older units can't take one. Check your model before you buy anything. For Wi-Fi control on every brand, read about [smart heat pump systems](/smart-heat-pump-systems/).
 
 ## Repair or replace a Fujitsu heat pump
 
 If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usually worth fixing. If the compressor has gone on an older unit, we'll price a replacement too. We'll do the same if parts are hard to get.
 
-We fit General Airstage, Mitsubishi Electric, Daikin and Toshiba. So you can weigh a straight swap against the other options. Each one is sized for your rooms, not matched to the old unit.
+We fit Fujitsu, Mitsubishi Electric, Daikin and Toshiba. So you can weigh a straight swap against the other options. Each one is sized for your rooms, not matched to the old unit.
 
 To book a Fujitsu repair or service in Christchurch, call **[03 242 1023](tel:032421023)**.

@@ -1,17 +1,17 @@
 ---
 title: "Mitsubishi Ducted Heat Pump Systems"
-description: "Looking at a Mitsubishi Electric ducted heat pump? How ZoneIQ zoning and Lossnay ventilation fit in, and what your ceiling needs. Free fixed-price quote."
+description: "Looking at a Mitsubishi Electric ducted heat pump? How zoning and heat recovery ventilation fit in, and what your ceiling space needs. Free fixed-price quote."
 keyword: mitsubishi ducted heat pump
 secondary: [mitsubishi ducted, mitsubishi ducted system, mitsubishi ducted heat pump christchurch]
 h1: Mitsubishi Electric ducted heat pump systems in Christchurch
 serviceName: Mitsubishi Electric ducted heat pump installation
-intro: "We plan and fit Mitsubishi Electric ducted systems in Christchurch homes, with ZoneIQ room control and Lossnay ventilation. We design the ducting around your house before we quote."
+intro: "We plan and fit Mitsubishi Electric ducted systems in Christchurch homes, with room by room zoning and heat recovery ventilation if you want them. We design the ducting around your house before we quote."
 hero: mitsubishi-ducted-hero
 gallery: [mitsubishi-ducted-zones, mitsubishi-ducted-ceiling]
 stepsHeading: What we check before fitting a Mitsubishi ducted system
 steps:
   - h: Ceiling access and height
-    p: Whether a standard or a splittable unit is the one that will get into your roof space.
+    p: Whether the indoor unit will get through your ceiling hatch and fit in the roof space.
   - h: Duct routes
     p: Clear paths from the indoor unit to every vent, with no squashed or tightly bent ducts.
   - h: Return air
@@ -28,50 +28,50 @@ areasLead: We fit Mitsubishi Electric ducted systems all over Christchurch and L
 faqHeading: Mitsubishi Electric ducted heat pump questions
 relatedHeading: Other ducted options to compare
 faqs:
-  - q: What is Mitsubishi Electric ComfortMaster?
-    a: It's Mitsubishi Electric's name for a ducted heat pump with its ZoneIQ controls. Mitsubishi Electric says it handles up to 10 zones. You set temperatures in 0.5 degree steps. So you heat only the rooms you're using.
+  - q: Can I control a Mitsubishi Electric ducted system room by room?
+    a: Yes, with zoning. Each zone gets its own temperature, so you heat only the rooms you're using. The whole system still runs in one mode, so it can't heat some rooms and cool others at the same time.
   - q: Can a Mitsubishi Electric ducted unit fit into an existing house?
-    a: Mitsubishi Electric says some models are splittable. They come apart in two pieces to get through a ceiling hatch, then go back together as one unit. That helps when roof access is tight. We check the access and ceiling height before we pick a model.
-  - q: What is The Power of 2?
-    a: It's Mitsubishi Electric's pairing of a ducted heat pump with Lossnay heat recovery ventilation. The Power of 3 adds ZoneIQ zoning to that pair.
+    a: Often, yes. It comes down to the ceiling hatch, the height in the roof space and the duct routes. We check the access and ceiling height before we pick a model.
+  - q: Can ducted heating and ventilation work together?
+    a: Yes. A heat recovery ventilation system can be planned alongside a ducted heat pump. It's easiest to plan both at the same time, before the ceiling goes on if you're building.
   - q: Do you service Mitsubishi ducted heat pumps?
     a: Yes. We service and fix <a href="/mitsubishi-heat-pump-service-christchurch/">Mitsubishi Electric heat pumps</a> of any age, ducted systems included.
 related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "How ducted heating works in a Christchurch home." }
-  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Daikin's ducted series and zoning options." }
+  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Daikin ducted systems and zoning options." }
   - { label: Heat pump zoning, href: /heat-pump-zoning/, text: "What zoning does and when it is worth it." }
 ---
 
-## How Mitsubishi Electric packages its ducted heat pumps
+## Planning a Mitsubishi ducted system
 
-Mitsubishi Electric New Zealand builds three whole-home setups on its ducted heat pumps.
+A Mitsubishi Electric ducted system starts with picking the right indoor unit for the house. Then you decide what goes with it.
 
-- **ComfortMaster.** A ducted heat pump with ZoneIQ controls, for room by room temperatures.
-- **The Power of 2.** A ducted heat pump with Lossnay heat recovery ventilation.
-- **The Power of 3.** Ducted, ZoneIQ and Lossnay together.
+- **Ducted on its own.** One controller sets the temperature for the whole house.
+- **Ducted with zoning.** Each part of the house gets its own temperature.
+- **Ducted with ventilation.** A heat recovery ventilation system brings in filtered fresh air alongside the heating.
 
-All three start with picking the right ducted unit for the house. Mitsubishi Electric says its ducted models suit new builds and existing homes. It says some splittable models come apart in two pieces, to get through a ceiling hatch more easily. Source: Mitsubishi Electric, [ComfortMaster](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx) and [Power of 2](https://www.mitsubishi-electric.co.nz/heatpump/Power-of-Two-Ducted-Heat-Pump-and-Lossnay-Ventilation.aspx).
+Ducted suits new builds and existing homes. In an existing home, the ceiling hatch and the height in the roof space decide which unit will go in, so we check both before we quote.
 
 ## Mitsubishi Electric ducted in Christchurch houses
 
-How ZoneIQ, Lossnay and the splittable units fit in depends on your house.
+How zoning, ventilation and the size of the unit fit in depends on your house.
 
-- **Small ceiling hatches.** [Russley](/russley/) brick homes from the 1960s to the 1980s have a bedroom wing down a hall, and ducted suits them if the ceiling space allows. Where the hatch is small, a splittable unit goes up in two pieces. ZoneIQ can make a formal lounge you rarely use its own zone that you close off.
-- **North-facing glass on the hill.** On [Mount Pleasant](/mount-pleasant/), the sun can warm a north living area by lunchtime while the rooms behind it stay cool. ZoneIQ lets you turn that zone down. The system still runs in one mode, so it can't cool the sunny room while heating the rest, and we plan the zones with that in mind.
-- **Living upstairs, bedrooms below.** Many two storey and split level homes in [Kennedys Bush](/kennedys-bush/) have the living areas upstairs for the view. Heat rises, so we set each level up as its own ZoneIQ zone with its own temperature.
-- **New Selwyn homes.** In [Rolleston](/rolleston/), the Mitsubishi Electric ducted range suits new houses as well as the wall units do. Building? Talk to us before the ceiling goes on, so the ducts and any Lossnay ventilation are planned together.
+- **Small ceiling hatches.** [Russley](/russley/) brick homes from the 1960s to the 1980s have a bedroom wing down a hall, and ducted suits them if the ceiling space allows. Where the hatch is small, we check the unit will get through it before we pick a model. Zoning can make a formal lounge you rarely use its own zone that you close off.
+- **North-facing glass on the hill.** On [Mount Pleasant](/mount-pleasant/), the sun can warm a north living area by lunchtime while the rooms behind it stay cool. Zoning lets you turn that zone down. The system still runs in one mode, so it can't cool the sunny room while heating the rest, and we plan the zones with that in mind.
+- **Living upstairs, bedrooms below.** Many two storey and split level homes in [Kennedys Bush](/kennedys-bush/) have the living areas upstairs for the view. Heat rises, so we set each level up as its own zone with its own temperature.
+- **New Selwyn homes.** In [Rolleston](/rolleston/), the Mitsubishi Electric ducted range suits new houses as well as the wall units do. Building? Talk to us before the ceiling goes on, so the ducts and any ventilation are planned together.
 
-## ZoneIQ for Mitsubishi Electric ducted systems
+## Zoning a Mitsubishi Electric ducted system
 
-A standard ducted system runs off one thermostat. It sends air to every room at once. ZoneIQ gives you room by room control instead. Mitsubishi Electric says it controls up to 10 zones, and each zone can have a sensor that sends its temperature and humidity to the main controller. You set each zone's temperature in 0.5 degree steps. It adjusts the airflow room by room, and it works over Wi-Fi.
+A standard ducted system runs off one thermostat. It sends air to every room at once. Zoning gives you room by room control instead. Each zone gets its own temperature, and the airflow to each zone is adjusted to suit.
 
-Mitsubishi Electric notes one limit. A zoned system can't heat some rooms and cool others at the same time. The whole system runs in one mode.
+There is one limit. A zoned system can't heat some rooms and cool others at the same time. The whole system runs in one mode.
 
 Do you use the living areas by day and the bedrooms at night? Then [zoning](/heat-pump-zoning/) heats the rooms you're in and leaves the rest.
 
-## Lossnay ventilation
+## Heat recovery ventilation with ducted heating
 
-Lossnay is Mitsubishi Electric's balanced pressure ventilation system. Here's how Mitsubishi Electric explains it. It pulls out stale, damp air. It takes the heat from that air. It uses that heat to warm the filtered fresh air coming in. Pair it with a ducted heat pump and that's The Power of 2. Is damp or stuffy air part of why you're looking at ducting? Bring it up when we quote. We'll talk through whether a combined system fits your plans.
+A heat recovery ventilation system pulls stale, damp air out of the house. It takes the heat from that air and uses it to warm the filtered fresh air coming in. Is damp or stuffy air part of why you're looking at ducting? Bring it up when we quote. We'll talk through whether a combined system fits your plans.
 
 ## Mitsubishi Electric or Daikin?
 

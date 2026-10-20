@@ -14,9 +14,9 @@ faqs:
   - q: Is a smart heat pump worth it?
     a: It's worth it if it changes how you use the heating. Say you forgot to turn it off. You can do that from your phone. Or you can turn it on half an hour before you get home, instead of leaving it running all day. That's where it pays off. The heat pump itself heats just the same.
   - q: Can I add a Wi-Fi controller to my existing heat pump?
-    a: Often, yes. Mitsubishi Electric's Wi-Fi interface can be added to compatible older models. Fujitsu's adaptor plugs into a select range of units. Some older and entry-level models can't take one. Send us the model number and we'll check.
+    a: Often, yes. Many heat pumps can take an add-on Wi-Fi adaptor. Some older and entry-level models can't take one. Send us the model number and we'll check.
   - q: Does a Wi-Fi heat pump work with Google or Alexa?
-    a: Some do. Mitsubishi Electric lists voice control for its Wi-Fi Control. Fujitsu says its adaptor is voice assistant friendly. Check the brand's details for your model before you count on it.
+    a: Some do. It depends on the brand, the model and the adaptor. Tell us which voice assistant you use and we'll check your model before you count on it.
   - q: Will a smart controller lower my power bill?
     a: Only if the heat pump runs less. Set schedules that match when you're home. Switch it off from your phone when nobody is. That's what makes the difference.
 related:
@@ -33,15 +33,11 @@ Some brands also show energy figures. Some add voice control, or remind you to c
 
 ## Wi-Fi heat pump controllers by brand
 
-Each brand has its own controller and app. They don't work across brands. Here's what each brand lists on its New Zealand website.
+Each brand has its own Wi-Fi adaptor and app. They don't work across brands, so a Mitsubishi Electric app won't run a Daikin, and the other way round. Within one brand, the adaptor and app can also change with the model and its age.
 
-**Mitsubishi Electric.** The [Mitsubishi Electric Wi-Fi Control](https://www.mitsubishi-electric.co.nz/wifi/) interface is an optional extra on selected high wall and floor console models. It can also be added to a compatible older unit. You use it through the Wi-Fi Control app. It does schedules, temperature limits and energy monitoring. Mitsubishi Electric says it needs a router with the 2.4 GHz band turned on.
-
-**Daikin.** Daikin New Zealand lists two Wi-Fi controllers that run from an app. They're the Daikin Mobile Controller and Daikin Airbase. Daikin also sells wired controllers, and zone controllers for ducted systems. See [Daikin's controller range](https://www.daikin.co.nz/pages/controllers).
-
-**Fujitsu.** In New Zealand, Fujitsu General now trades as GENERAL. Its units are sold as General Airstage. The [anywAiR Wi-Fi Adaptor II](https://www.generalairstage.co.nz/anywair/anywair-technology-wi-fi-adaptor-ii) works with a select range of units, including the Lifestyle wall mounted series. It connects them to the myanywAiR Next app. Some extra features cost a paid subscription.
-
-**Toshiba.** Looking at a Toshiba? Ask us when we quote. We'll tell you if that model has Wi-Fi control and which app it uses.
+- **Mitsubishi Electric, Daikin, Fujitsu and Toshiba.** We fit Wi-Fi control on all four. Some new models have it built in, and others take an adaptor fitted inside the indoor unit.
+- **Older units.** Some can take an adaptor, and some can't. We check the model number before you buy anything.
+- **Extra features.** Energy figures, voice control and filter reminders vary by brand and model. Tell us which ones matter to you and we'll match the unit to them.
 
 ## Smart heat pump schedules for Christchurch homes
 

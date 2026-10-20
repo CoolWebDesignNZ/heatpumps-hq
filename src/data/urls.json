@@ -10,11 +10,6 @@
   "type": "service"
  },
  {
-  "path": "/energy-efficiency-assessment/",
-  "slug": "energy-efficiency-assessment",
-  "type": "service"
- },
- {
   "path": "/cold-climate-heat-pumps/",
   "slug": "cold-climate-heat-pumps",
   "type": "guide"

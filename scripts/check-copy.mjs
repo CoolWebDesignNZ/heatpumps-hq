@@ -79,6 +79,8 @@ for (const f of files) {
   const u = raw.replace(/\]\([^)]*\)|https?:\/\/\S+/g, '').match(us); if (u) err(`US spelling "${u[0]}"`);
   if (!['about-us', 'privacy-policy'].includes(slug) && /\bnate\b/i.test(raw)) err('names Nate outside About');
   for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not in urls.json`);
+  // Links out go to government sources only (plus the Privacy Commissioner and the map tile provider in the privacy policy), never to other companies (client, 2026-10-20).
+  for (const [, host] of raw.matchAll(/https?:\/\/([^/)\s"]+)/g)) if (!/\.govt\.nz$|^www\.privacy\.org\.nz$|^osmfoundation\.org$/.test(host) && !/(^|\.)heatpumps-christchurch\.co\.nz$/.test(host)) err(`links out to ${host}`);
   // Unquoted text with a comma gets cut short by YAML, so catch suspiciously short card text.
   for (const r of fm.related ?? []) if (String(r.text ?? '').trim().split(/\s+/).length < 3) err(`related card text "${r.text}" looks cut off (quote it)`);
   for (const r of fm.related ?? []) if (!paths.has(r.href)) err(`related link ${r.href} is not in urls.json`);

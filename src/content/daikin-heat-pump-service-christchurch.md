@@ -14,7 +14,7 @@ faqs:
   - q: Do you repair older Daikin heat pumps?
     a: Yes. We work on current and older Daikin models. On an older unit, we'll check the parts are still available. We'll also weigh up whether the repair makes sense for the unit's age. You'll hear from us before any work starts.
   - q: Is a Daikin air conditioner the same as a Daikin heat pump?
-    a: In most New Zealand homes, yes. Daikin's split systems heat and cool. The same unit gets called an air conditioner or a heat pump, depending on who's talking. We fix them in either mode.
+    a: In most New Zealand homes, yes. A Daikin split system heats and cools. The same unit gets called an air conditioner or a heat pump, depending on who's talking. We fix them in either mode.
   - q: How often should a Daikin heat pump be serviced?
     a: Once a year, before winter, suits most homes. Clean the filters yourself every few weeks when it's working hard. Rooms with pets, cooking or dust may need a service more often.
   - q: My Daikin controller is showing a code. What does it mean?
@@ -44,7 +44,7 @@ Before you call, note down three things. The model number from the sticker on th
 
 ## Daikin air conditioning repairs in summer
 
-Summer repairs are for cooling faults, and those have their own causes. Daikin New Zealand sells its split systems as air conditioning. In a Canterbury summer, that's exactly how they get used, and a cooling fault usually comes down to one of three things.
+Summer repairs are for cooling faults, and those have their own causes. In a Canterbury summer, a Daikin split system gets used as an air conditioner, and a cooling fault usually comes down to one of three things.
 
 - **A hot, blocked outdoor unit.** It sits in full sun with clogged fins.
 - **A blocked drain.** It blocked up over winter, and starts dripping as soon as cooling starts.
@@ -65,7 +65,7 @@ Does the indoor unit smell musty when it starts? It needs a deeper clean of the 
 
 ## Daikin controllers and Wi-Fi
 
-Most Daikin wall units use a handheld remote. Many ducted and console systems use a wired wall controller. Daikin New Zealand also lists Wi-Fi controllers [on its website](https://www.daikin.co.nz/pages/controllers). Those are the Daikin Mobile Controller and Daikin Airbase. It lists zone controllers for ducted homes too. Has your controller stopped responding? We check the controller, its wiring and the indoor unit's board. Any of the three can be at fault. To run the heat pump from your phone, you need one of those Wi-Fi controllers. [Smart heat pump systems](/smart-heat-pump-systems/) explains the options.
+Most Daikin wall units use a handheld remote. Many ducted and console systems use a wired wall controller. Many Daikin models can also take a Wi-Fi controller, and ducted homes can have a zone controller. Has your controller stopped responding? We check the controller, its wiring and the indoor unit's board. Any of the three can be at fault. To run the heat pump from your phone, you need a Wi-Fi controller that suits your model. [Smart heat pump systems](/smart-heat-pump-systems/) explains the options.
 
 ## Repair or replace a Daikin?
 

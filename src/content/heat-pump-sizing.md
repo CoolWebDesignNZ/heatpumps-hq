@@ -87,6 +87,6 @@ For a rental's main living room, the Healthy Homes Standards set a minimum heati
 
 ## Beyond an online heat pump size guide
 
-Online estimates are a good start. But they rely on your measurements and your guesses about insulation. The makers say the same. Mitsubishi Electric's [advice on choosing a size](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) recommends an in-home visit before you buy. It also says sub-zero areas, like most of the South Island, need a bigger unit or one of its HyperCore models, compared with the same room in Auckland.
+Online estimates are a good start. But they rely on your measurements and your guesses about insulation. Get the room checked in person before you buy. A room that sees sub-zero mornings, like most rooms in Canterbury, needs more heat than the same room in a milder part of the country.
 
 We size on site. We measure the room and look at the insulation and glazing. We check which way the windows face and ask how you use the space. Then we pick a model by its output at Christchurch's design temperature. If a smaller unit will do the job, we'll say so. For a free quote, call **[03 242 1023](tel:032421023)** or [send us your details](/contact-us/). You get a fixed price up front, before we touch anything.

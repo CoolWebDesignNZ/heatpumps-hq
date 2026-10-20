@@ -1,10 +1,10 @@
 ---
 title: "Heat Pump Brands Comparison NZ"
-description: "Mitsubishi vs Daikin, Daikin vs Fujitsu, and Toshiba: a plain heat pump brands comparison of NZ ranges and distributors, checked on each brand's NZ site."
+description: "Mitsubishi vs Daikin, Daikin vs Fujitsu, and Toshiba: a plain heat pump brands comparison from installers who fit all four, and what to compare per model."
 keyword: heat pump brands comparison
 secondary: [heat pump brands, mitsubishi vs daikin, daikin vs fujitsu]
 h1: "Heat pump brands comparison: Mitsubishi Electric, Daikin, Fujitsu and Toshiba"
-intro: "We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps, so we've no reason to push one. Compare what each brand sells in New Zealand, on facts, not adverts."
+intro: "We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps, so we've no reason to push one. Here is what we compare when we pick a unit for a house, on facts, not adverts."
 hero: brandcomp-hero
 updated: 2026-10-17
 gallery: [brandcomp-units, brandcomp-outdoor]
@@ -14,9 +14,9 @@ faqs:
   - q: Mitsubishi vs Daikin, which is better?
     a: Both sell full ranges here. Wall, floor, ceiling, multi-room and ducted. Neither wins across the board. Compare two actual models of the same size. Look at heating output at 2°C, star rating and noise figures. Then think about what suits the room.
   - q: Daikin vs Fujitsu, how do they differ?
-    a: Both cover wall, floor console, cassette, multi and ducted systems. Fujitsu is now sold here by GENERAL New Zealand. That's the company's new trading name since 1 January 2026. Daikin sells through a network of independently owned specialist dealers. Compare single models on their energy labels.
+    a: Both cover wall, floor console, cassette, multi and ducted systems. Neither is better across the board. Compare single models of the same size on their energy labels, and check which one fits the space you have.
   - q: Is Fujitsu still available in New Zealand?
-    a: Yes. GENERAL New Zealand used to be Fujitsu General New Zealand. It says it will keep selling under both the Fujitsu and General Airstage brands. It's moving away from the Fujitsu name over time.
+    a: Yes. We still fit new Fujitsu heat pumps, and we service and repair older Fujitsu units of any age.
   - q: Do you service brands you don't install?
     a: Yes. As well as the four we fit, we service and repair Panasonic and most other heat pumps sold in New Zealand.
 related:
@@ -27,47 +27,35 @@ related:
 
 ## How to read this heat pump brands comparison
 
-The model tells you more than the brand name. Each brand sells more than one range. Two models from one brand can differ more than two brands do. We checked each brand's details on its own New Zealand website in October 2026. To judge single models, see [best heat pumps NZ](/best-heat-pump-brands-christchurch/).
+The model tells you more than the brand name. Each brand sells more than one range. Two models from one brand can differ more than two brands do. To judge single models, see [best heat pumps NZ](/best-heat-pump-brands-christchurch/).
 
 We fit all four. So we've no reason to push one over another. The right choice is the model that fits the room, the outdoor spot and your budget.
 
 ## Mitsubishi Electric heat pumps compared
 
-**Who sells it here:** Mitsubishi Electric New Zealand. Its [NZ site](https://www.mitsubishi-electric.co.nz/heatpump/) lists the home heat pump types it sells. High wall, floor console, ceiling cassette, ceiling suspended, ceiling concealed, central ducted and multi room systems.
-
-**Features it lists:**
-
-- **HyperCore.** Mitsubishi Electric says its [HyperCore models](https://www.mitsubishi-electric.co.nz/heatpump/hypercore.aspx) keep full rated heating output from +7°C down to minus 15°C. That's the maker's claim about certain models. Not the whole range.
-- **Sizing tool.** Its [online sizing tool](https://www.mitsubishi-electric.co.nz/heatpump/how-to-choose-the-right-size-heat-pump.aspx) suggests models from room size, insulation and region. It recommends an in-home visit before you buy.
-- **Ducted zoning.** It lists a ZoneIQ ducted zone controller.
+We fit Mitsubishi Electric high wall units, floor consoles, ceiling cassettes, multi room systems and ducted systems. The ducted systems can be zoned, so you set a different temperature for different parts of the house. We size every unit from your rooms, insulation and windows, and we come to the house before we quote.
 
 We service and repair Mitsubishi Electric units too. See [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/) and [Mitsubishi ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
 
 ## Daikin heat pumps compared
 
-**Who sells it here:** Daikin New Zealand. It says Daikin is sold through a specialist dealer network. Its appointed dealers are independently owned and run businesses.
-
-**What it lists:** its [split system range](https://www.daikin.co.nz/pages/split-system-heat-pumps) shows several wall mounted ranges. Alira X, Alira, Zena Vogue, Cora, Standard Series and Lite Series. Plus the Aura floor standing unit. Its [ducted range](https://www.daikin.co.nz/pages/ducted-heat-pumps) has slim-line ducted units for tight ceiling space. There's a ducted model 700mm deep, designed for New Zealand homes. An inverter ducted series that can retrofit R22 systems. Bulkhead units. And two zoning systems.
+We fit Daikin high wall units, floor standing units, multi room systems and ducted systems. There are several wall mounted ranges, so we compare the models at the size your room needs. For ducted, we measure the ceiling space first, then pick the Daikin unit that fits it.
 
 We service and repair Daikin too. See [Daikin heat pump service](/daikin-heat-pump-service-christchurch/) and [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/).
 
-## Fujitsu heat pumps (now GENERAL New Zealand)
+## Fujitsu heat pumps compared
 
-**Who sells it here:** this has changed. The company's [announcement](https://www.generalairstage.co.nz/about-us/company-information/our-business-name-has-changed) says Paloma Rheem Holdings bought Fujitsu General Limited in August 2025. From 1 January 2026, the New Zealand business changed its trading name from Fujitsu General New Zealand to **GENERAL New Zealand**. It will keep selling under both the Fujitsu and General Airstage brands. It's moving away from the Fujitsu name over time.
+We fit Fujitsu wall mounted units, floor consoles, cassettes, multi systems and ducted systems. Ask us which models can be run from your phone.
 
-**What it lists:** its [NZ site](https://www.generalairstage.co.nz/) shows the wall mounted Lifestyle and Comfort ranges. A compact floor console. A floor and ceiling dual console. Compact cassettes. Ducted bulkhead units. Multi systems. And ducted units grouped by house size, in single phase and three phase. Its Wi-Fi control is called anywAiR.
-
-Already have a Fujitsu? Nothing about it changes. We still service and repair them. See [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/).
+Already have a Fujitsu? We service and repair them, old and new. See [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/).
 
 ## Toshiba heat pumps compared
 
-**Who sells it here:** AHI Carrier distributes Toshiba heat pumps here. Its [website](https://ahi-carrier.co.nz/) calls it the authorised distributor of Carrier and Toshiba HVAC products in New Zealand.
-
-**What it lists:** split system high wall units, floor consoles, multi split systems and ducted systems, with Wi-Fi control. AHI Carrier says the Toshiba floor console blows air two ways and uses R32 refrigerant. It also lists slimline ceiling concealed ducted models, and zoning.
+We fit Toshiba high wall units, floor consoles, multi split systems and ducted systems. Ask us which models take Wi-Fi control, and which ducted units suit a shallow ceiling space.
 
 ## Mitsubishi vs Daikin vs Fujitsu vs Toshiba, side by side
 
-All four list high wall, floor console, multi room and ducted systems. Each has its own ducted zoning. Mitsubishi Electric has ZoneIQ, Daikin has Airzone and AirHub, Fujitsu has a ducted zone controller, and Toshiba lists zoning for its ducted range.
+All four have high wall, floor console, multi room and ducted systems. All four offer zoning on their ducted systems.
 
 All four sell the main types a Christchurch house is likely to need. The differences that matter show up model by model.
 
@@ -89,7 +77,7 @@ We pick models for the house in front of us. These local conditions narrow the c
 
 - **Salt and wind on the coast.** In [Clifton](/clifton/), wind off the sea drives salt onto the coil. We check each maker's coastal advice for the models we quote, and look for a spot in the lee of the house.
 - **Frost and fog by the estuary.** In [Bexley](/bexley/), cold, still nights bring frost and fog, and that's when the outdoor unit defrosts most. Some units keep their output in the cold better than others, so we compare the 2°C heating figure model by model.
-- **Renovations with the ceiling open.** In [Somerfield](/somerfield/), a renovation where the ceiling's coming down anyway is a good time for ducted. Where the ceiling space is tight, the slim ducted models from Daikin and Toshiba can help.
+- **Renovations with the ceiling open.** In [Somerfield](/somerfield/), a renovation where the ceiling's coming down anyway is a good time for ducted. Where the ceiling space is tight, a slim ducted unit can help, so we measure the space and compare the slim models side by side.
 - **Villa lounges with low windows.** In [Riccarton](/heat-pumps-riccarton/) villas, a floor console can suit a lounge with a low window. All four brands list floor consoles, so it comes down to the model that fits under the sill.
 
 ## Panasonic and other heat pump brands

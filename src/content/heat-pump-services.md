@@ -15,7 +15,7 @@ faqs:
   - q: What are your hours?
     a: Monday to Friday, 8am to 5pm. Call <a href="tel:032421023">03 242 1023</a> or send the quote form.
   - q: Do you give a price before starting?
-    a: Yes. Quotes are free. We fix the price and agree it with you before we start.
+    a: Yes. Quotes are free. We give you a fixed price and agree it with you before we start.
 related:
   - { label: Installs, href: /single-multi-room/, text: "Single room multi room and ducted systems compared." }
   - { label: Locations, href: /locations/, text: "The suburbs and towns we cover." }
@@ -79,7 +79,6 @@ We service and fix each of these. That includes Panasonic, which we don't fit.
 How much warmth do you get for the power you use? And how's the air in the rooms? These cover both.
 
 - [Efficiency upgrades](/heat-pump-efficiency-upgrades/): more warmth for the same power.
-- [Energy efficiency assessment](/energy-efficiency-assessment/): a check on how your home's heating is doing.
 - [Energy consumption monitoring](/energy-consumption-monitoring/): seeing how much power the heat pump uses.
 - [Heat pump dehumidification](/heat-pump-dehumidification/): using dry mode on damp air.
 - [Air quality testing](/air-quality-testing/): checking the air in the rooms the heat pump serves.

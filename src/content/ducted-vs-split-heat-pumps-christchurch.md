@@ -29,7 +29,7 @@ related:
 
 A **split system** has an indoor unit in the room, piped to an outdoor unit. The indoor unit is usually a high wall unit or a floor console. One split heats one room or one open space. You can have several round the house.
 
-A **ducted system** has one indoor unit hidden in the roof space or under the floor. It pushes warm air through insulated ducts to a vent in each room. It pulls air back through a return grille. As [Daikin New Zealand](https://www.daikin.co.nz/pages/ducted-heat-pumps) puts it, once it's in, you only see the controller and the grilles.
+A **ducted system** has one indoor unit hidden in the roof space or under the floor. It pushes warm air through insulated ducts to a vent in each room. It pulls air back through a return grille. Once it's in, you only see the controller and the grilles.
 
 In between sits the **multi split**. That's one outdoor unit running two or more indoor units in different rooms.
 

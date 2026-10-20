@@ -6,8 +6,8 @@
  },
  "home-install": {
   "aspect": "4x3",
-  "alt": "Technician mounting a heat pump indoor unit on a bracket",
-  "prompt": "Documentary photograph of a heat pump technician in plain navy workwear mounting a white split system indoor unit onto a wall bracket in a New Zealand home, step ladder, drop sheet on carpet, natural window light, candid, no text, no logos on clothing"
+  "alt": "Heat Pumps HQ technician mounting a heat pump indoor unit on a bracket",
+  "prompt": "Documentary photograph of a heat pump technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, mounting a white split system indoor unit onto a wall bracket in a New Zealand home, step ladder, drop sheet on carpet, natural window light, candid, no other text or logos on clothing, face not visible"
  },
  "home-service": {
   "aspect": "4x3",
@@ -16,8 +16,8 @@
  },
  "home-repair": {
   "aspect": "4x3",
-  "alt": "Technician checking a heat pump outdoor unit with a gauge set",
-  "prompt": "Photograph of a technician kneeling beside a heat pump outdoor unit on a concrete pad against a weatherboard house, connecting a refrigerant gauge manifold, overcast Canterbury winter day, realistic, no text, no logos"
+  "alt": "Heat Pumps HQ technician checking a heat pump outdoor unit with a gauge set",
+  "prompt": "Photograph of a technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, kneeling beside a heat pump outdoor unit on a concrete pad against a weatherboard house, connecting a refrigerant gauge manifold, overcast Canterbury winter day, realistic, no other text or logos, face not visible"
  },
  "home-ducted": {
   "aspect": "4x3",
@@ -31,8 +31,8 @@
  },
  "repair-hero": {
   "aspect": "4x3",
-  "alt": "Technician diagnosing a fault on a wall-mounted heat pump",
-  "prompt": "Photograph of a heat pump technician standing on a small step ladder diagnosing a wall-mounted split system indoor unit with the front cover open, multimeter in hand, bright New Zealand living room, realistic, no text, no logos"
+  "alt": "Heat Pumps HQ technician diagnosing a fault on a wall-mounted heat pump",
+  "prompt": "Photograph of a heat pump technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, standing on a small step ladder diagnosing a wall-mounted split system indoor unit with the front cover open, multimeter in hand, bright New Zealand living room, realistic, no other text or logos, face not visible"
  },
  "repair-outdoor": {
   "aspect": "4x3",
@@ -76,8 +76,8 @@
  },
  "home-van": {
   "aspect": "16x9",
-  "alt": "Work van parked on a quiet Christchurch street",
-  "prompt": "Photograph of an unbranded white work van parked on a quiet leafy Christchurch suburban street outside a weatherboard bungalow, soft overcast light, realistic, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
+  "alt": "Heat Pumps HQ van parked outside a Christchurch bungalow",
+  "prompt": "Photograph of a clean white work van with HEAT PUMPS HQ in large navy lettering along its side parked on a quiet leafy Christchurch suburban street outside a weatherboard bungalow, soft overcast light, realistic, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no other text or logos"
  },
  "pool-weatherboard": {
   "aspect": "4x3",
@@ -141,13 +141,13 @@
  },
  "about-hero": {
   "aspect": "16x9",
-  "alt": "White service van parked outside a weatherboard house on a Christchurch street",
-  "prompt": "Realistic editorial photograph of a plain white unmarked service van parked on the street outside a painted weatherboard bungalow in Christchurch, New Zealand, low winter sun, bare deciduous trees, Port Hills faintly in the distance, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
+  "alt": "Heat Pumps HQ van outside a Christchurch weatherboard bungalow",
+  "prompt": "Realistic editorial photograph of a clean white service van with HEAT PUMPS HQ in large navy lettering along its side parked on the street outside a painted weatherboard bungalow in Christchurch, New Zealand, low winter sun, bare deciduous trees, Port Hills faintly in the distance, natural light, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no other text or logos"
  },
  "about-1": {
   "aspect": "4x3",
-  "alt": "Technician measuring a living room wall before fitting a heat pump",
-  "prompt": "Realistic editorial photograph inside a New Zealand villa lounge, anonymous technician in plain navy workwear seen from behind holding a tape measure against a painted wall above a doorway, sash windows, timber floor, soft daylight, no text, no logos"
+  "alt": "Heat Pumps HQ technician measuring a living room wall before fitting a heat pump",
+  "prompt": "Realistic editorial photograph inside a New Zealand villa lounge, anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, holding a tape measure against a painted wall above a doorway, sash windows, timber floor, soft daylight, no other text or logos, face not visible"
  },
  "about-2": {
   "aspect": "4x3",
@@ -266,8 +266,8 @@
  },
  "sizing-label": {
   "aspect": "4x3",
-  "alt": "Technician measuring a bedroom window with a tape measure",
-  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear measuring the width of an aluminium-framed bedroom window with a tape measure in a New Zealand home, face out of frame, clipboard on the bed, natural light, no text, no logos on clothing"
+  "alt": "Heat Pumps HQ technician measuring a bedroom window with a tape measure",
+  "prompt": "Realistic documentary photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, measuring the width of an aluminium-framed bedroom window with a tape measure in a New Zealand home, face out of frame, clipboard on the bed, natural light, no other text or logos on clothing, face not visible"
  },
  "sizing-frost": {
   "aspect": "4x3",
@@ -291,8 +291,8 @@
  },
  "instcost-hero": {
   "aspect": "16x9",
-  "alt": "Technician fixing a heat pump outdoor unit to a weatherboard wall",
-  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear fitting a white heat pump outdoor unit beside a New Zealand weatherboard house, copper pipe coil, tool bag and level on the ground, overcast daylight, face turned away, no text, no logos on clothing"
+  "alt": "Heat Pumps HQ technician fixing a heat pump outdoor unit to a weatherboard wall",
+  "prompt": "Realistic documentary photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, fitting a white heat pump outdoor unit beside a New Zealand weatherboard house, copper pipe coil, tool bag and level on the ground, overcast daylight, face turned away, no other text or logos on clothing, face not visible"
  },
  "instcost-backtoback": {
   "aspect": "4x3",
@@ -366,8 +366,8 @@
  },
  "installers-hero": {
   "aspect": "16x9",
-  "alt": "Technician connecting refrigerant pipes to a heat pump outdoor unit",
-  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear connecting insulated copper refrigerant pipes to the service valves of a white heat pump outdoor unit beside a New Zealand house, gauges and tools on a mat, face out of frame, daylight, no text, no logos on clothing"
+  "alt": "Heat Pumps HQ technician connecting refrigerant pipes to a heat pump outdoor unit",
+  "prompt": "Realistic documentary photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, connecting insulated copper refrigerant pipes to the service valves of a white heat pump outdoor unit beside a New Zealand house, gauges and tools on a mat, face out of frame, daylight, no other text or logos on clothing, face not visible"
  },
  "installers-licence": {
   "aspect": "4x3",
@@ -376,8 +376,8 @@
  },
  "installers-commission": {
   "aspect": "4x3",
-  "alt": "Technician showing a homeowner how to remove a heat pump filter",
-  "prompt": "Realistic documentary photograph of an anonymous technician in plain navy workwear on a step ladder lifting the front panel of a white high wall heat pump to show the filter, a homeowner watching from behind with face not visible, New Zealand living room, natural light, no text, no logos on clothing"
+  "alt": "Heat Pumps HQ technician showing a homeowner how to remove a heat pump filter",
+  "prompt": "Realistic documentary photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a step ladder lifting the front panel of a white high wall heat pump to show the filter, a homeowner watching from behind with, New Zealand living room, natural light, no other text or logos on clothing, face not visible"
  },
  "coldclimate-hero": {
   "aspect": "16x9",
@@ -441,8 +441,8 @@
  },
  "upgrade-hero": {
   "aspect": "16x9",
-  "alt": "Technician removing an old heat pump indoor unit from a living room wall",
-  "prompt": "Editorial photograph of an anonymous technician in plain navy workwear lifting an old yellowed heat pump indoor unit off its wall bracket in a New Zealand living room, face not visible, dust sheet on the floor, no text, no logos"
+  "alt": "Heat Pumps HQ technician removing an old heat pump indoor unit from a living room wall",
+  "prompt": "Editorial photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, lifting an old yellowed heat pump indoor unit off its wall bracket in a New Zealand living room, dust sheet on the floor, no other text or logos, face not visible"
  },
  "upgrade-old-unit": {
   "aspect": "4x3",
@@ -531,8 +531,8 @@
  },
  "compliance-hero": {
   "aspect": "16x9",
-  "alt": "Electrician connecting a heat pump outdoor unit isolating switch",
-  "prompt": "Editorial photograph of an anonymous electrician in plain navy workwear wiring an isolating switch beside a heat pump outdoor unit on a weatherboard wall, face not visible, no text, no logos"
+  "alt": "Heat Pumps HQ electrician connecting a heat pump outdoor unit isolating switch",
+  "prompt": "Editorial photograph of an anonymous electrician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, wiring an isolating switch beside a heat pump outdoor unit on a weatherboard wall, no other text or logos, face not visible"
  },
  "compliance-certificate": {
   "aspect": "4x3",
@@ -662,7 +662,7 @@
  "ducted-grille": {
   "aspect": "4x3",
   "alt": "Return air grille with filter in a hallway ceiling",
-  "prompt": "Close-up photograph looking up at a white return air grille in a hallway ceiling of a New Zealand home, hinged panel slightly open showing the filter, clean white ceiling, no people, no text, no logos"
+  "prompt": "Close-up photograph looking up at a neat white square return air grille set flush in a smooth white hallway ceiling of a New Zealand home, straight even slats, frame sitting flat and closed, clean and undamaged, soft daylight, no people, no text, no logos"
  },
  "daikin-ducted-hero": {
   "aspect": "16x9",
@@ -692,7 +692,7 @@
  "mitsubishi-ducted-ceiling": {
   "aspect": "4x3",
   "alt": "Ceiling access hatch open with a technician lifting ducting into the roof space",
-  "prompt": "Documentary photograph of an anonymous technician in plain navy workwear on a ladder passing insulated flexible duct through an open ceiling access hatch in a New Zealand hallway, drop sheet on the floor, no text, no logos"
+  "prompt": "Documentary photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a ladder passing insulated flexible duct through an open ceiling access hatch in a New Zealand hallway, drop sheet on the floor, no other text or logos, face not visible"
  },
  "zoning-hero": {
   "aspect": "16x9",
@@ -731,8 +731,8 @@
  },
  "services-outdoor": {
   "aspect": "4x3",
-  "alt": "Technician cleaning the coil of an outdoor unit",
-  "prompt": "Documentary photograph of an anonymous technician in plain navy workwear gently rinsing the coil fins of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall with a low pressure spray, New Zealand garden path, overcast day, no text, no logos"
+  "alt": "Heat Pumps HQ technician cleaning the coil of an outdoor unit",
+  "prompt": "Documentary photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, gently rinsing the coil fins of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall with a low pressure spray, New Zealand garden path, overcast day, no other text or logos, face not visible"
  },
  "services-filters": {
   "aspect": "4x3",
@@ -741,8 +741,8 @@
  },
  "servicing-hero": {
   "aspect": "16x9",
-  "alt": "Technician servicing a wall-mounted heat pump in a Christchurch living room",
-  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear standing on a step ladder servicing a white wall-mounted heat pump indoor unit, front panel lifted, drop sheet on timber floor, bright New Zealand living room with large windows and soft autumn light, face not visible, no text, no logos"
+  "alt": "Heat Pumps HQ technician servicing a wall-mounted heat pump in a Christchurch living room",
+  "prompt": "Realistic editorial photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, standing on a step ladder servicing a white wall-mounted heat pump indoor unit, front panel lifted, drop sheet on timber floor, bright New Zealand living room with large windows and soft autumn light, no other text or logos, face not visible"
  },
  "servicing-coil": {
   "aspect": "4x3",
@@ -906,8 +906,8 @@
  },
  "troubleshoot-hero": {
   "aspect": "16x9",
-  "alt": "Technician testing a heat pump outdoor unit with a multimeter",
-  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear kneeling beside a heat pump outdoor unit with the service panel removed, testing terminals with a digital multimeter, New Zealand brick house, winter daylight, face not shown, no text, no logos"
+  "alt": "Heat Pumps HQ technician testing a heat pump outdoor unit with a multimeter",
+  "prompt": "Realistic editorial photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, kneeling beside a heat pump outdoor unit with the service panel removed, testing terminals with a digital multimeter, New Zealand brick house, winter daylight, face not shown, no other text or logos, face not visible"
  },
  "troubleshoot-1": {
   "aspect": "4x3",
@@ -981,8 +981,8 @@
  },
  "daikin-hero": {
   "aspect": "16x9",
-  "alt": "Technician servicing a wall-mounted heat pump in a Christchurch home",
-  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear on a step ladder cleaning the coil of a white wall-mounted heat pump with the front panel open, drop sheet on the floor, bright New Zealand living room, face turned away, no text, no logos"
+  "alt": "Heat Pumps HQ technician servicing a wall-mounted heat pump in a Christchurch home",
+  "prompt": "Realistic editorial photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a step ladder cleaning the coil of a white wall-mounted heat pump with the front panel open, drop sheet on the floor, bright New Zealand living room, face turned away, no other text or logos, face not visible"
  },
  "daikin-1": {
   "aspect": "4x3",
@@ -996,8 +996,8 @@
  },
  "mitsubishi-hero": {
   "aspect": "16x9",
-  "alt": "Technician checking a heat pump outdoor unit beside a weatherboard house",
-  "prompt": "Realistic editorial photograph of an anonymous technician in plain navy workwear checking the fan of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a wall bracket beside a painted weatherboard house in Christchurch, Port Hills faint in the background, winter sun, face not visible, no text, no logos"
+  "alt": "Heat Pumps HQ technician checking a heat pump outdoor unit beside a weatherboard house",
+  "prompt": "Realistic editorial photograph of an anonymous technician in a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, checking the fan of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a wall bracket beside a painted weatherboard house in Christchurch, Port Hills faint in the background, winter sun, no other text or logos, face not visible"
  },
  "mitsubishi-1": {
   "aspect": "4x3",
@@ -1402,16 +1402,16 @@
  "floor-hero": {
   "aspect": "16x9",
   "alt": "Floor mounted heat pump under a window in a Christchurch lounge",
-  "prompt": "Editorial interior photograph of a cosy New Zealand lounge with a white floor console heat pump sitting low on the floor under a wide sash window, armchair beside it, high stud ceiling, rimu skirting, winter light, natural light, realistic photograph, no people, no text, no logos"
+  "prompt": "Editorial interior photograph of a cosy New Zealand lounge with a white floor console heat pump sitting low on the floor under a wide sash window, armchair beside it, high stud ceiling, rimu skirting, winter light, short curtains tied back well clear of the console so nothing covers its front or top, natural light, realistic photograph, no people, no text, no logos"
  },
  "floor-1": {
   "aspect": "4x3",
   "alt": "Floor console heat pump in a bedroom",
-  "prompt": "Interior photograph of a calm New Zealand bedroom with a compact white floor console heat pump against the wall under a window, made bed, neutral tones, morning light, natural light, realistic photograph, no people, no text, no logos"
+  "prompt": "Interior photograph of a calm New Zealand bedroom with a compact white floor console heat pump against the wall under a window, made bed, neutral tones, morning light, short curtains tied back well clear of the console so nothing covers its front or top, natural light, realistic photograph, no people, no text, no logos"
  },
  "floor-2": {
   "aspect": "4x3",
   "alt": "Floor console heat pump beside a window seat",
-  "prompt": "Interior photograph of a white floor console heat pump set low on the wall beside a timber window seat in a renovated New Zealand villa, wool rug, soft daylight, natural light, realistic photograph, no people, no text, no logos"
+  "prompt": "Interior photograph of a white floor console heat pump set low on the wall beside a timber window seat in a renovated New Zealand villa, wool rug, soft daylight, short curtains tied back well clear of the console so nothing covers its front or top, natural light, realistic photograph, no people, no text, no logos"
  }
 }

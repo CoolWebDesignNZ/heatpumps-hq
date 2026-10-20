@@ -5,7 +5,7 @@ keyword: floor mounted heat pump
 secondary: [floor console heat pump, floor standing heat pump, heat pump floor unit]
 h1: Floor mounted heat pumps in Christchurch
 serviceName: Floor mounted heat pump installation
-intro: "We install floor mounted heat pumps across Christchurch, often under a window or in a room with a high stud. We put the console where warm air reaches you, and fix the price first."
+intro: "We install floor mounted heat pumps across Christchurch, often under a window or in a room with a high stud. We put the console where warm air reaches you, and give you a fixed price before we start."
 hero: floor-hero
 gallery: [floor-1, floor-2]
 stepsHeading: How we choose and fit a floor console
@@ -105,4 +105,4 @@ An older console that's failing can usually be swapped in the same spot. That sp
 
 We look at whether the new console can use the old pipe route through the floor or wall. A newer model may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. If the old unit is worth fixing, we'll say so and point you to [heat pump repair](/heat-pump-repair/).
 
-To get started, [request a free quote](/contact-us/). We'll look at the room and the old unit, and fix the price before any work.
+To get started, [request a free quote](/contact-us/). We'll look at the room and the old unit, and give you a fixed price before any work.

@@ -65,7 +65,7 @@ const brandPages = {
   'Toshiba': [['How the brands compare', '/heat-pump-brands-comparison/'], ['Service and repair', '/heat-pump-repair/']],
   'Panasonic': [['Service and repair', '/panasonic-heat-pump-service-christchurch/']],
 };
-const brandNotes = { 'Fujitsu': 'Now also sold as General Airstage.' };
+const brandNotes = {};
 const brandTiles = site.brandsServiced.map((name) => ({ name, installed: site.brandsInstalled.includes(name), note: brandNotes[name], links: brandPages[name] ?? [] }));
 
 const schema = [];

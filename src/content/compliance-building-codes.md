@@ -87,7 +87,7 @@ A rental needs fixed heating in the main living room, and the standard is specif
 
 Source: [Tenancy Services, heating standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/). You can work out the required capacity with the [Heating Assessment Tool](https://tools.tenancy.govt.nz/heating-tool).
 
-Landlords, run the tool first. Then ask us to quote a heat pump that meets the figure. A [home energy assessment](/energy-efficiency-assessment/) starts from that number.
+Landlords, run the tool first. Then ask us to quote a heat pump that meets the figure.
 
 ## Noise and where the outdoor unit goes
 

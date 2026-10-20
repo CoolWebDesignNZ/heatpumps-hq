@@ -21,8 +21,8 @@ faqs:
     a: No. Each indoor unit on a <a href="/multi-room-heat-pump-installation/">multi room system</a> has its own controller. So every room is already its own zone.
 related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "Whole-home heating with a vent in each room." }
-  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "ComfortMaster and ZoneIQ room control." }
-  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Airzone and AirHub zoning for Daikin units." }
+  - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "Mitsubishi Electric ducted systems with zone control." }
+  - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Daikin ducted systems with zone control." }
 ---
 
 ## The problem heat pump zoning solves
@@ -47,7 +47,7 @@ There are two levels of zoning, and only one lets rooms sit at different tempera
 1. **On and off zoning.** You choose which zones get air. The heat pump still works to one thermostat. So all the open zones aim for the same temperature.
 2. **Temperature control in each zone.** Each zone has its own sensor and setting. The lounge can sit warmer than the bedrooms while both are on.
 
-Daikin and Mitsubishi Electric both offer the second kind. For its ducted units, Daikin lists the [Airzone VAF zoning system and AirHub Touch zone controller](https://www.daikin.co.nz/pages/ducted-heat-pumps). Mitsubishi Electric pairs its ducted units with [ZoneIQ in its ComfortMaster system](https://www.mitsubishi-electric.co.nz/heatpump/ComfortMaster-Ducted-ZoneIQ-Central-Heat-Pump-System.aspx). We fit both: [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/) and [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
+We fit temperature control in each zone on the ducted systems we install, including [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/) and [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/). Not every indoor unit works with every zone controller, so we match the two when we quote.
 
 ## Planning the zones
 

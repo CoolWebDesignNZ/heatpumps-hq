@@ -14,9 +14,9 @@ faqs:
   - q: Can a heat pump cause allergies?
     a: A heat pump doesn't make allergens. A dirty one can spread them, though. Dust, dust mite debris and mould build up on the filters, coil and fan. Then they get blown into the room when it runs. Clean filters and a yearly service sort out most of it.
   - q: Are heat pumps good for asthma?
-    a: The Cardiac and Respiratory Foundation NZ lists heat pumps as a good heating choice for breathing health. It calls them efficient and clean, with good temperature control. If you or your child has asthma, talk to your doctor about triggers. We can make sure the heat pump isn't one of them.
+    a: A clean heat pump burns nothing in the room, so it adds no fumes or moisture to the air. It keeps rooms warm and dry, which helps keep mould and condensation down. If you or your child has asthma, talk to your doctor about triggers. We can make sure the heat pump isn't one of them.
   - q: Is a heat pump the same as an air purifier?
-    a: No. A heat pump's standard filters catch dust and protect the coil. An air purifier with a HEPA filter is built to take fine particles out of the room air. The Foundation says good filtration, like HEPA air purifiers, can help cut allergens for some households.
+    a: No. A heat pump's standard filters catch dust and protect the coil. An air purifier with a HEPA filter is built to take fine particles out of the room air. If allergies are a problem, a purifier does that job better.
   - q: Can I get a heat pump with an air purifier built in?
     a: Some models come with extra filters or air cleaning features. What they remove, and how well, changes from model to model. Check the maker's specs for the exact unit. Don't go on the feature name alone.
 related:
@@ -27,11 +27,9 @@ related:
 
 ## Why a home's heating matters for allergies and asthma
 
-Cold, damp homes are hard on your lungs. The Cardiac and Respiratory Foundation NZ says too many Kiwi homes are cold, damp and poorly ventilated. Those conditions breed mould, dust mites and condensation. All three can set off breathing symptoms. The Foundation calls mould a well known asthma trigger.
+Cold, damp homes are hard on your lungs. A cold, damp, poorly aired house grows mould and dust mites, and the windows run with condensation. Mould and dust mites can both set off breathing symptoms.
 
-The type of heater matters too. The Foundation lists heat pumps as a good choice for breathing health. Flued gas heaters and central heating are on that list too. It says to avoid unflued gas, kerosene and LPG heaters. They put fumes and water vapour straight into the room. It also notes that wood and pellet burners still make some air pollution.
-
-Source: [Cardiac and Respiratory Foundation NZ, your home and your health](https://cardiacandrespiratory.org.nz/your-health/your-home-and-your-health/).
+The type of heater matters too. A heat pump burns nothing in the room. Unflued gas, kerosene and LPG heaters put fumes and water vapour straight into the room, so avoid them. Wood and pellet burners still make some smoke, even when they burn well.
 
 We fit heat pumps. We're not health professionals. For advice on asthma or allergies, see your doctor. What we can do is make sure the heat pump helps, not hurts.
 
@@ -68,17 +66,17 @@ Cleaning the filters doesn't reach the coil, the fan wheel or the drain tray. Th
 
 ### A dry house
 
-A heat pump keeps rooms warm. That cuts condensation on cold surfaces. But the damp still has to go somewhere. The Foundation recommends extractor fans that vent outside in the bathroom, kitchen and laundry. Air the house on fine days. Fix leaks. A heat pump's dry mode can help in some conditions. See [using your heat pump as a dehumidifier](/heat-pump-dehumidification/).
+A heat pump keeps rooms warm. That cuts condensation on cold surfaces. But the damp still has to go somewhere. Fit extractor fans that vent outside in the bathroom, kitchen and laundry. Air the house on fine days. Fix leaks. A heat pump's dry mode can help in some conditions. See [using your heat pump as a dehumidifier](/heat-pump-dehumidification/).
 
 ### The right filters for the job
 
 Standard heat pump filters protect the coil and catch bigger dust. They aren't built to take out fine allergens like a HEPA purifier does. Some models have extra filters or air cleaning features. If that matters to you, ask us when you're choosing a model. We'll check the maker's specs for that exact unit.
 
-The Foundation says good filtration, like HEPA air purifiers, can help cut allergens for some households. If allergies are a real problem, put a separate purifier in the bedroom. Keep the heat pump clean as well. Don't expect the heat pump to do both jobs.
+If allergies are a real problem, put a separate HEPA purifier in the bedroom. Keep the heat pump clean as well. Don't expect the heat pump to do both jobs.
 
 ### Keeping dust down
 
-The Foundation also suggests dusting with a damp cloth. Vacuum often, with a vacuum that has a good filter. That helps keep dust mites down.
+Dust with a damp cloth. Vacuum often, with a vacuum that has a good filter. That helps keep dust mites down.
 
 ## A heat pump in the bedroom
 
