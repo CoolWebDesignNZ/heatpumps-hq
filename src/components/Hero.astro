@@ -16,12 +16,15 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
       <slot name="crumbs" />
       <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
-      <div class="hero-btns">
-        {!home && <a class="btn btn-primary" href="#quote">Get a free quote</a>}
-        <a class="btn btn-glass" href={site.phoneHref}>Call {site.phone}</a>
-      </div>
+      {!home && (
+        <div class="hero-btns">
+          <a class="btn btn-primary" href="#quote">Get a free quote</a>
+          <a class="btn btn-glass" href={site.phoneHref}>Call {site.phone}</a>
+        </div>
+      )}
       {meta && <p class="hero-meta">{meta}</p>}
       {home && <p class="hero-brands">We install {brands.map(([n, href], i) => <>{i > 0 && (i === brands.length - 1 ? ' and ' : ', ')}<a href={href}>{n}</a></>)}.</p>}
+      {home && <p class="hero-talk">Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>}
     </div>
     <div id="quote" class="hero-form"><QuoteForm suburb={suburb} steps={home} /></div>
   </div>
@@ -46,8 +49,13 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   .btn-glass:hover { background: rgba(255, 255, 255, .26); }
   .hero.hero-home h1 { font-size: clamp(1.9rem, 3.6vw, 2.6rem); text-wrap: balance; }
   @media (min-width: 961px) { .hero-home .hero-in { grid-template-columns: minmax(0, 1fr) minmax(0, 380px); gap: 48px; } }
+  .hero-talk { margin: 28px 0 20px; font-size: 1rem; color: rgba(255, 255, 255, .78); }
+  .hero-talk a { color: #fff; font-weight: 650; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  .hero-talk a:hover { text-decoration-color: #fff; }
+  @media (max-width: 640px) { .hero-talk { font-size: 16px; } }
   .hero-brands { margin-top: 1.2em; font-size: .95rem; color: rgba(255, 255, 255, .8); }
-  .hero-brands a { color: #fff; }
+  .hero-brands a { color: #fff; font-weight: 700; text-decoration: none; }
+  .hero-brands a:hover { text-decoration: underline; }
   .hero-meta { margin-top: 1.4em; color: rgba(255, 255, 255, .8); }
   .hero :global(.crumbs-hero) { margin-bottom: 1.2em; color: rgba(255, 255, 255, .8); }
   .hero :global(.crumbs-hero a) { color: rgba(255, 255, 255, .8); }

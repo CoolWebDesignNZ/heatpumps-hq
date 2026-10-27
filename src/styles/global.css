@@ -26,8 +26,8 @@ img { max-width: 100%; height: auto; display: block; }
 a { color: var(--link); text-decoration: none; text-underline-offset: 3px; }
 a:hover { text-decoration: underline; }
 /* Text links in the copy carry a second-colour underline (client, 2026-10-27). */
-main :is(p, li, td, dd, blockquote) a:not(.btn), .hero-brands a { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
-main :is(p, li, td, dd, blockquote) a:not(.btn):hover, .hero-brands a:hover { text-decoration-color: currentColor; }
+main :is(p, li, td, dd, blockquote) a:not(.btn) { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+main :is(p, li, td, dd, blockquote) a:not(.btn):hover { text-decoration-color: currentColor; }
 .btn:hover, .card:hover, a.logo:hover, a.f-logo:hover, a.f-call:hover { text-decoration: none; }
 h1, h2, h3 { line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 .5em; }
 h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); font-weight: 750; }
