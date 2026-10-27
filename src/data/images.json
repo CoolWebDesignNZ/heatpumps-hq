@@ -216,8 +216,8 @@
  },
  "hiw-hero": {
   "aspect": "16x9",
-  "alt": "Heat pump outdoor unit beside a weatherboard house on a frosty morning",
-  "prompt": "Realistic editorial photograph of a white heat pump outdoor unit on raised feet beside a painted weatherboard New Zealand house on a clear frosty Christchurch winter morning, light frost on the lawn, a little steam rising from the unit, low golden sun, Port Hills faint in the distance, no people, no text, no logos"
+  "alt": "Heat pump outdoor unit on raised feet against a weatherboard house on a frosty morning",
+  "prompt": "Realistic editorial photograph of a white heat pump outdoor unit on raised feet set close against the side wall of a painted weatherboard New Zealand house, within 30 cm of the wall beside the house, on a narrow concrete path along the house, on a clear frosty Christchurch winter morning, light frost on the garden beside it, a little steam rising from the unit, low golden sun, never standing out in the middle of a lawn, no people, no text, no logos"
  },
  "hiw-outdoor": {
   "aspect": "4x3",
@@ -306,8 +306,8 @@
  },
  "ductcost-hero": {
   "aspect": "16x9",
-  "alt": "Ducted heat pump unit and insulated ducts in a roof space",
-  "prompt": "Realistic editorial photograph inside a New Zealand house roof space showing a ducted heat pump indoor unit on supports with silver insulated flexible ducts running across ceiling insulation between timber trusses, work light illuminating the scene, no people, no text, no logos"
+  "alt": "Slim ducted heat pump outlet above a doorway, with a return air grille in the hallway ceiling",
+  "prompt": "Realistic interior photograph, eye level looking slightly up, of a white rectangular linear slot air diffuser from a ducted heat pump, about one metre wide and 15 cm high, perfectly horizontal, set flush into a warm grey painted wall and centred directly above a doorway, crisp white frame with several thin parallel horizontal slots across its whole width, through the doorway a hallway with a square white return air grille in its ceiling and a downlight, modern New Zealand home, soft natural light, no wall mounted heat pump unit, no people, no text, no logos"
  },
  "ductcost-roofspace": {
   "aspect": "4x3",
@@ -656,8 +656,8 @@
  },
  "ducted-roofspace": {
   "aspect": "4x3",
-  "alt": "Ducted heat pump indoor unit and insulated flexible ducts in a roof space",
-  "prompt": "Realistic photograph of a ducted heat pump indoor unit installed in a New Zealand roof space between timber trusses, silver insulated flexible ducts branching away, ceiling insulation batts, work light, no people, no text, no logos"
+  "alt": "Ducted heat pump outlet set flush into the ceiling of an open plan living room, with a return air grille behind",
+  "prompt": "Realistic interior photograph of a modern open plan New Zealand living room with a ducted heat pump system: a long slim white linear slot air diffuser set flush into the plasterboard ceiling near the windows, and a square white return air grille in the ceiling further back, nothing mounted on the walls, timber floor, sofa, soft natural daylight, no wall mounted heat pump unit, no people, no text, no logos"
  },
  "ducted-grille": {
   "aspect": "4x3",
