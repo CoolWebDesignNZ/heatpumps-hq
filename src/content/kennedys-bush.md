@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Kennedys Bush"
-description: "Kennedys Bush homes sit high on the Port Hills, open to wind and frost. How we site, size and service heat pumps on the slopes, with a free fixed quote."
+description: "Kennedys Bush homes sit high on the Port Hills, open to wind and frost. How we site, size and service heat pumps on the slopes, with a free quote."
 keyword: heat pump installation kennedys bush
 secondary: [heat pumps kennedys bush, heat pump service kennedys bush, heat pump repair kennedys bush]
 h1: Heat pump installation in Kennedys Bush
 serviceName: Heat pump installation, servicing and repair
 areaServed: Kennedys Bush
 suburb: Kennedys Bush
-intro: We install, service and repair heat pumps in Kennedys Bush above Halswell, and steep driveways, brackets and exposed sites are all in the fixed price.
+intro: We install, service and repair heat pumps in Kennedys Bush above Halswell, and we allow for steep driveways, brackets and exposed sites in the quote.
 hero: kennedys-bush-hero
 gallery: [pool-hill-home, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Kennedys Bush"
@@ -51,11 +51,11 @@ A sloping section rarely has a flat patch by the house. That leaves three likely
 - **The deck.** Only if the framing can take the weight, and the unit won't sit right where you relax.
 - **Under the deck.** Only if there's enough height and open space for air to move.
 
-Each choice changes the pipe route to the indoor unit. It also changes the drain line, which needs a steady fall. We plan both at the quote and include them in the fixed price.
+Each choice changes the pipe route to the indoor unit. It also changes the drain line, which needs a steady fall. We plan both at the quote and include them in the quote.
 
 ## Heating larger homes in Kennedys Bush
 
-Some Kennedys Bush houses are two storeys or split level. The living areas are often upstairs for the view, with bedrooms below. Heat rises. A unit in the upstairs living area can leave the lower floor cool. There are three fixes. You can have a unit on each level, or a [multi-room system](/multi-room-heat-pump-installation/). If the roof space allows, a ducted system works too.
+Some Kennedys Bush houses are two storeys or split level. The living areas are often upstairs for the view, with bedrooms below. Heat rises. A unit in the upstairs living area can leave the lower floor cool. There are three solutions. You can have a unit on each level, or a [multi-room system](/multi-room-heat-pump-installation/). If the roof space allows, a ducted system works too.
 
 Sound carries on a hillside. So we keep the outdoor unit away from your neighbour's deck and bedroom windows. Kennedys Bush is in Christchurch City, which means the District Plan noise rules apply. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) covers them.
 

@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Upper Riccarton"
-description: "Heat pumps for Upper Riccarton rentals, units and infill townhouses, sized to the room and placed for close neighbours. Get a free fixed-price quote first."
+description: "Heat pumps for Upper Riccarton rentals, units and infill townhouses, sized to the room and placed for close neighbours. Get a free quote first."
 keyword: heat pump installation upper riccarton
 secondary: [heat pumps upper riccarton, heat pump service upper riccarton, heat pump repair upper riccarton]
 h1: Heat pump installation and repair in Upper Riccarton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Upper Riccarton
 suburb: Upper Riccarton
-intro: We fit and repair heat pumps in Upper Riccarton's rentals, units and infill homes near the university, and owners and landlords get a fixed price up front.
+intro: We fit and repair heat pumps in Upper Riccarton's rentals, units and infill homes near the university, for owners and landlords.
 hero: upper-riccarton-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Upper Riccarton"
@@ -45,7 +45,7 @@ We size your rental's heat pump to the living room's required capacity. We fit i
 
 ## Heat pumps for upstairs rooms in Upper Riccarton townhouses
 
-Warm air rises. So you'd think a downstairs heat pump would warm the bedrooms above. In practice a narrow stairwell carries very little of it. The upstairs rooms in a two storey townhouse can stay cold on a frosty night. The fix is a small wall unit upstairs. A [multi-room system](/multi-room-heat-pump-installation/) with heads on both levels works too. If the outdoor unit goes on an upper wall, we use a bracket rated for its weight. We run the pipes neatly down the cladding.
+Warm air rises. So you'd think a downstairs heat pump would warm the bedrooms above. In practice a narrow stairwell carries very little of it. The upstairs rooms in a two storey townhouse can stay cold on a frosty night. The answer is a small wall unit upstairs. A [multi-room system](/multi-room-heat-pump-installation/) with heads on both levels works too. If the outdoor unit goes on an upper wall, we use a bracket rated for its weight. We run the pipes neatly down the cladding.
 
 ## Older Upper Riccarton flats
 

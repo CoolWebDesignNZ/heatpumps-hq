@@ -7,7 +7,7 @@ h1: Heat pump installation in Somerfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Somerfield
 suburb: Somerfield
-intro: We fit heat pumps in Somerfield's bungalows, villas and family homes, keep the pipes out of sight, and give you a fixed price before we start.
+intro: We fit heat pumps in Somerfield's bungalows, villas and family homes, keep the pipes out of sight, and give you a free quote before we start.
 hero: somerfield-hero
 gallery: [pool-console-unit, pool-frost-outdoor]
 faqHeading: "Somerfield heat pump questions"
@@ -62,10 +62,10 @@ Somerfield is on flat ground south of the city, between Beckenham and Spreydon. 
 
 ## Heat pump service and repairs in Somerfield
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. A [service](/maintenance-servicing/) once a year keeps your unit running efficiently. If it's stopped heating, see [heat pump repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. A [service](/maintenance-servicing/) once a year keeps your unit running efficiently. If it's stopped heating, see [heat pump repairs](/heat-pump-repair/).
 
 ## Somerfield's neighbours
 
 We also cover [Beckenham](/beckenham/), [Spreydon](/spreydon/), [Sydenham](/sydenham/) and [Cashmere](/cashmere/).
 
-Call **[03 242 1023](tel:032421023)** or send the form for a free fixed-price quote in Somerfield.
+Call **[03 242 1023](tel:032421023)** or send the form for a free quote in Somerfield.

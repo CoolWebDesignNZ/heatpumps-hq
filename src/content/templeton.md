@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Templeton"
-description: "Heat pumps for Templeton township homes and semi-rural sections, sized for cold plains mornings. Installs, servicing and repairs, quoted at a fixed price."
+description: "Heat pumps for Templeton township homes and semi-rural sections, sized for cold plains mornings. Installs, servicing and repairs, with a free quote."
 keyword: heat pump installation templeton
 secondary: [heat pumps templeton, heat pump service templeton, heat pump repair templeton]
 h1: Heat pump installation and repair in Templeton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Templeton
 suburb: Templeton
-intro: We fit, service and fix heat pumps across Templeton township, its newer streets and the semi-rural sections around it. Ask us for a fixed-price quote.
+intro: We fit, service and repair heat pumps across Templeton township, its newer streets and the semi-rural sections around it. Ask us for a free quote.
 hero: templeton-hero
 gallery: [pool-frost-outdoor, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Templeton"
@@ -63,4 +63,4 @@ On clear nights, outdoor units in Templeton face frost. On those mornings the he
 
 We also work in [Hornby](/heat-pumps-hornby/), [Rolleston](/rolleston/), [Yaldhurst](/yaldhurst/) and [McLeans Island](/mcleans-island/).
 
-Call **[03 242 1023](tel:032421023)** or ask for a free fixed-price quote for your Templeton home.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote for your Templeton home.

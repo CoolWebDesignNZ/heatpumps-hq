@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation St Albans"
-description: "Warming a high-stud St Albans villa or a new townhouse? We size and place heat pumps for both, and service every major brand. Fixed price agreed first."
+description: "Warming a high-stud St Albans villa or a new townhouse? We size and place heat pumps for both, and service every major brand. Free quote."
 keyword: heat pump installation st albans
 secondary: [heat pumps st albans, heat pump service st albans, heat pump repair st albans]
 h1: Heat pump installation in St Albans, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: St Albans
 suburb: St Albans
-intro: We fit, service and fix heat pumps in St Albans villas and townhouses. In a villa we work around tall ceilings and timber floors, and in a townhouse we get heat upstairs.
+intro: We fit, service and repair heat pumps in St Albans villas and townhouses. In a villa we work around tall ceilings and timber floors, and in a townhouse we get heat upstairs.
 hero: st-albans-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in St Albans"

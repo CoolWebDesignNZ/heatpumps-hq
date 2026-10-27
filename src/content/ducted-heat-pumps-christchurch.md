@@ -1,6 +1,6 @@
 ---
 title: "Ducted Heat Pumps Christchurch"
-description: "Thinking about ducted heating? How a ducted heat pump works, what your ceiling needs and when it beats wall units. Free fixed-price quote, new or older homes."
+description: "Thinking about ducted heating? How a ducted heat pump works, what your ceiling needs and when it beats wall units. Free quotes for new or older homes."
 keyword: ducted heat pumps christchurch
 secondary: [ducted heat pump, ducted heat pumps, ducted heating christchurch]
 h1: Ducted heat pumps for Christchurch homes
@@ -20,8 +20,8 @@ steps:
     p: We place it for a sensible pipe run to the indoor unit, good airflow and quiet at the neighbour's place.
   - h: Power supply
     p: Bigger ducted units can need more than a standard circuit. A licensed electrical worker makes the connection.
-  - h: Fixed-price quote
-    p: You get one price for the whole system, with the vents, zoning and any switchboard work in it, before work starts.
+  - h: Free quote
+    p: The quote covers the whole system, with the vents, zoning and any switchboard work in it.
 brands: true
 brandsHeading: Ducted heat pump brands we install in Christchurch
 areas: true

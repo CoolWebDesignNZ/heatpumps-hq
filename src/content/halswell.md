@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Halswell"
-description: "New subdivision home or older Halswell house? How we choose between wall, multi-room and ducted heat pumps, plus servicing. Free quotes at a fixed price."
+description: "New subdivision home or older Halswell house? How we choose between wall, multi-room and ducted heat pumps, plus servicing. Free quotes."
 keyword: heat pump installation halswell
 secondary: [heat pumps halswell, heat pump service halswell, heat pump repair halswell]
 h1: Heat pump installation across Halswell
 serviceName: Heat pump installation, servicing and repair
 areaServed: Halswell
 suburb: Halswell
-intro: "We fit, service and fix heat pumps right across Halswell, from the new subdivisions to the older homes round the original village. You'll know the price before we start."
+intro: "We fit, service and repair heat pumps right across Halswell, from the new subdivisions to the older homes round the original village."
 hero: halswell-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: Questions about heat pumps in Halswell
@@ -40,7 +40,7 @@ Halswell is on the south-west edge of Christchurch, below the Port Hills. The he
 
 Many new Halswell homes are well insulated and double glazed. The open plan living area faces the sun. Some came with a single heat pump from the builder. If yours did, it might warm the lounge but not the bedrooms. Or it might be too small and run hard on cold mornings.
 
-The fix could be a second unit. It could be a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit. If you've got roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/) is another option. Before we suggest anything, we check the size of what you've got. Then we work out what each room needs.
+The answer could be a second unit. It could be a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit. If you've got roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/) is another option. Before we suggest anything, we check the size of what you've got. Then we work out what each room needs.
 
 ## Heat pumps for older Halswell homes
 
@@ -62,4 +62,4 @@ Across Halswell we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We also
 
 We also cover [Aidanfield](/aidanfield/), [Kennedys Bush](/kennedys-bush/), [Wigram](/wigram/), [Tai Tapu](/tai-tapu/) and [Prebbleton](/prebbleton/).
 
-For a free, fixed-price quote in Halswell, call **[03 242 1023](tel:032421023)** or ask for one online.
+For a free quote in Halswell, call **[03 242 1023](tel:032421023)** or ask for one online.

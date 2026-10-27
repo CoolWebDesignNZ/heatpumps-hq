@@ -1,6 +1,6 @@
 ---
 title: "Multi Room Heat Pumps & Multi Split Systems"
-description: "Want several rooms heated without a row of outdoor units? How multi split heat pumps work, the trade-offs and when separate units suit. Fixed-price quote."
+description: "Want several rooms heated without a row of outdoor units? How multi split heat pumps work, the trade-offs and when separate units suit. Free quote."
 keyword: multi room heat pump
 secondary: [multi split heat pump, multi split heat pump nz, multi head heat pump]
 h1: Multi room heat pump systems for heating several rooms at once
@@ -18,7 +18,7 @@ steps:
     p: We look for the shortest sensible pipe runs to every room, free air round the unit, and distance from your neighbour's bedroom windows.
   - h: Pipe routes
     p: We work out how each pair of pipes reaches the outdoor unit, through the roof, under the floor or along the outside wall, without showing where it can be helped.
-  - h: One fixed price
+  - h: One clear quote
     p: The quote lists the outdoor unit, each indoor unit and the pipe routes. If a multi split won't suit your house, we say so and quote what will.
 brands: true
 brandsHeading: Multi split heat pump brands we fit in Christchurch

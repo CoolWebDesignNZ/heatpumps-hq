@@ -7,18 +7,18 @@ h1: Heat pump installation and repair in Shirley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Shirley
 suburb: Shirley
-intro: We install and repair heat pumps in Shirley's mid-century weatherboard and brick homes, and you get a fixed price we agree before any work starts.
+intro: We install and repair heat pumps in Shirley's mid-century weatherboard and brick homes, and you get a free quote before any work starts.
 hero: shirley-hero
 gallery: [pool-frost-outdoor, pool-bedroom-unit]
 faqHeading: "Shirley heat pump questions"
 relatedHeading: Heat pumps near Shirley
 faqs:
   - q: Can a heat pump help with a damp Shirley house?
-    a: It can help. Keeping rooms at a steady temperature cuts condensation. Most units also have a dry mode that pulls moisture out of the air. It won't fix a leak or rising damp, so get those sorted first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
+    a: It can help. Keeping rooms at a steady temperature cuts condensation. Most units also have a dry mode that pulls moisture out of the air. It won't cure a leak or rising damp, so get those sorted first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
   - q: Should I leave the heat pump on all day?
     a: In a cold house, a steady, moderate setting is often more comfortable. Switching it off means heating from cold again. A timer that warms the house before you wake or get home works well.
   - q: How long does a heat pump service take?
-    a: It depends on the unit and how much cleaning it needs. We'll tell you when we book. The price is agreed before we start.
+    a: It depends on the unit and how much cleaning it needs. We'll tell you when we book.
   - q: Is a heat pump suitable for a bedroom?
     a: Yes. Small wall units are made for bedrooms. They run quietly on low speed overnight. A warm, dry bedroom is easier to keep free of mould.
 related:
@@ -41,7 +41,7 @@ Shirley is a flat suburb in the north-east. It has lots of mid-century weatherbo
 
 We size from the room itself: how big it is, how high the ceiling is, how much glass there is and whether it's single or double glazed, whether there's insulation in the ceiling and under the floor, and which way it faces. A Shirley lounge with ceiling insulation and new windows needs a smaller heat pump than the same room without them.
 
-We come out, measure up and ask how you use the house. Then we give you a fixed price for a unit that fits.
+We come out, measure up and ask how you use the house. Then we give you a free quote for a unit that fits.
 
 ## Moisture from bathrooms and laundries
 

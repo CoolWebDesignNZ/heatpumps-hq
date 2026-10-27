@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Linwood"
-description: "Replacing a log burner or plug-in heaters in Linwood? How we choose and place a heat pump for state houses, bungalows and units. Free fixed-price quote."
+description: "Replacing a log burner or plug-in heaters in Linwood? How we choose and place a heat pump for state houses, bungalows and units. Free quote."
 keyword: heat pump installation linwood
 secondary: [heat pumps linwood, heat pump service linwood, heat pump repair linwood]
 h1: Heat pump installation in Linwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Linwood
 suburb: Linwood
-intro: "We install heat pumps in Linwood's former state houses, bungalows, villas and units. We plan for the bedrooms down the hallway, not just the lounge, and agree the price before we start."
+intro: "We install heat pumps in Linwood's former state houses, bungalows, villas and units. We plan for the bedrooms down the hallway, not just the lounge."
 hero: linwood-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Linwood"
@@ -63,4 +63,4 @@ A heat pump that runs every winter evening gets dusty fast. Book a full [service
 
 We also cover [Phillipstown](/phillipstown/), [Bromley](/bromley/) and [Aranui](/aranui/). Further east, we cover [Wainoni](/wainoni/).
 
-For a fixed-price quote in Linwood, call **[03 242 1023](tel:032421023)** or send us the form.
+For a free quote in Linwood, call **[03 242 1023](tel:032421023)** or send us the form.

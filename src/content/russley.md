@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Russley"
-description: "Heat pumps for Russley homes, from brick family houses to larger properties near the golf course. Installs, servicing and repairs, all at a fixed price first."
+description: "Heat pumps for Russley homes, from brick family houses to larger properties near the golf course. Installs, servicing and repairs, with a free quote first."
 keyword: heat pump installation russley
 secondary: [heat pumps russley, heat pump service russley, heat pump repair russley]
 h1: Heat pump installation and repairs in Russley

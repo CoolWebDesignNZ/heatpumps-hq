@@ -1,11 +1,11 @@
 ---
 title: "Heat Pump Installation Christchurch"
-description: "Planning a heat pump install? How we size it, where the units go, what the job includes and what changes the price. Free fixed-price quote before work starts."
+description: "Planning a heat pump install? How we size it, where the units go, what the job includes and what changes the price. Free quotes in Christchurch and Selwyn."
 keyword: heat pump installation christchurch
 secondary: [heat pump installation, heat pump install, heat pump installation near me]
 h1: Heat pump installation in Christchurch
 serviceName: Heat pump installation
-intro: "We install heat pumps across Christchurch. We check your rooms, insulation and windows, put the units where they heat well and run quietly, and give you a fixed price before we start."
+intro: "We install heat pumps across Christchurch. We check your rooms, insulation and windows, and put the units where they heat well and run quietly."
 hero: install-hero
 gallery: [install-pipework, install-commission]
 stepsHeading: What every heat pump installation includes
@@ -37,7 +37,7 @@ faqs:
   - q: Which heat pump brands can you install for me?
     a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
   - q: Can you replace my old heat pump?
-    a: Yes. We take out the old indoor and outdoor units. We check whether the old pipe route and power supply suit the new system. Then we quote the whole job as one fixed price.
+    a: Yes. We take out the old indoor and outdoor units. We check whether the old pipe route and power supply suit the new system. Then we quote the whole job together.
   - q: How much does a heat pump install cost?
     a: It depends on the size and type of unit, and the length of the pipe run. It also depends on how hard the outdoor spot is to get to, and what electrical work is needed. We look at each of those <a href="/heat-pump-installation-cost-christchurch/">installation cost factors</a> when we visit. The quote is free.
 related:
@@ -93,4 +93,4 @@ These things change the [price of a heat pump installation](/heat-pump-installat
 - **How easy the outdoor spot is to get to.** A wall bracket or a deck on a slope takes more work than a spot at ground level.
 - **Whether the switchboard needs work.** A board with no spare circuit has to be sorted before the unit goes in.
 
-No two installs cost the same. Your quote costs nothing, and the price is locked in up front.
+No two installs cost the same. Your quote costs nothing.

@@ -1,10 +1,10 @@
 ---
-title: "Heat Pump Noise: Causes and Fixes"
-description: "Heat pump noise keeping you up? Which sounds are normal, what rattling, buzzing and grinding usually mean, and fixes that quieten indoor and outdoor units."
+title: "Heat Pump Noise: Causes and Solutions"
+description: "Heat pump noise keeping you up? Which sounds are normal, what rattling, buzzing and grinding usually mean, and repairs that quieten indoor and outdoor units."
 keyword: heat pump noise
 secondary: [noisy heat pump, heat pump making noise, heat pump rattling]
-h1: Heat pump noise, what's normal and how to fix it
-intro: "We fix noisy heat pumps, indoor and outdoor. A hum or the odd click is normal, but rattles, grinding and squeals usually mean something has worn or come loose, and most can be fixed."
+h1: Heat pump noise, what's normal and how to repair it
+intro: "We repair noisy heat pumps, indoor and outdoor. A hum or the odd click is normal, but rattles, grinding and squeals usually mean something has worn or come loose, and most can be repaired."
 hero: noise-hero
 updated: 2026-10-17
 gallery: [noise-feet, noise-fan]
@@ -64,21 +64,21 @@ Outdoor unit noise is measured at your neighbour's place, and Christchurch secti
 - **Selwyn homes.** In [Prebbleton](/prebbleton/), heat pump noise comes under the Selwyn District Plan, not Christchurch's. Where the outdoor unit sits still decides how much noise reaches next door.
 - **Frosty mornings.** A hiss and a pause during defrost is normal. Hard frosts are part of a [Hoon Hay](/hoon-hay/) winter, so raise the unit and keep its drain path clear. Ice that builds up in the base can catch the fan and bang.
 
-## Fixing a noisy heat pump outdoor unit
+## Repairing a noisy heat pump outdoor unit
 
-The neighbours hear the outdoor unit, so fix that first.
+The neighbours hear the outdoor unit, so sort that first.
 
 - **Tighten everything:** panels, screws, the fan guard and the electrical cover. A rattle is often just one loose screw.
 - **Anti-vibration feet or mounts:** rubber feet under a unit on the ground, or isolation mounts on a wall bracket. They stop the hum travelling into the house and the ground.
 - **Level it:** a unit that's sunk on one side shakes more. Water can pool in the base too.
 - **Clear ice and debris:** leaves, twigs and built-up ice can catch the fan. Clear the base drain so meltwater doesn't freeze again.
-- **Service the fan and coil:** a dirty coil makes the fan and compressor work harder. Worn fan bearings need replacing. Oiling won't fix them.
+- **Service the fan and coil:** a dirty coil makes the fan and compressor work harder. Worn fan bearings need replacing. Oiling won't cure them.
 - **Quiet or night mode:** some units have a setting that keeps the fan and compressor slower overnight.
 - **Move it:** away from bedrooms. Out of corners where sound bounces. Off thin walls that act like a drum.
 
 A screen can hide the unit and soften some of the sound. It needs open space round it, though. Read our [heat pump covers guide](/best-heat-pump-covers-nz/).
 
-## Fixing a noisy indoor unit
+## Repairing a noisy indoor unit
 
 - **Filters:** clean them. Clogged filters make the fan work harder, and it whistles.
 - **Louvres:** turn the unit off at the isolating switch for a few minutes. That sometimes clears a louvre that ticks or sticks. If it keeps happening, the louvre motor may need replacing.
@@ -98,6 +98,6 @@ Buying a new heat pump for a spot near a bedroom or a neighbour? Compare the out
 
 Christchurch has no set distance a heat pump must be from the boundary. What counts is how loud it is at the neighbour's place. The night-time limit is the one to watch. We've laid out the limits and the complaint process in our [boundary rules and consent guide](/heat-pump-boundary-rules-consent-nz/).
 
-## Getting a noisy heat pump fixed
+## Getting a noisy heat pump repaired
 
-We'll find where the noise is coming from and fix it. We'll also tell you if the unit would be quieter somewhere else. Ring **[03 242 1023](tel:032421023)** or [get in touch online](/contact-us/).
+We'll find where the noise is coming from and repair it. We'll also tell you if the unit would be quieter somewhere else. Ring **[03 242 1023](tel:032421023)** or [get in touch online](/contact-us/).

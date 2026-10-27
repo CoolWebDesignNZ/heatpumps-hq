@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Sumner"
-description: "Beach houses in Sumner face salt, sand and damp air. See how we set up, service and repair heat pumps by the sea. Free quote with the price fixed before work."
+description: "Beach houses in Sumner face salt, sand and damp air. See how we set up, service and repair heat pumps by the sea. Free quote."
 keyword: heat pump installation sumner
 secondary: [heat pumps sumner, heat pump service sumner, heat pump repair sumner]
 h1: Heat pump installation in Sumner, by the beach and on the hills
 serviceName: Heat pump installation, servicing and repair
 areaServed: Sumner
 suburb: Sumner
-intro: We fit, service and fix heat pumps all over Sumner, and we place outdoor units out of the salt wind. Quotes are free and the price is fixed.
+intro: We fit, service and repair heat pumps all over Sumner, and we place outdoor units out of the salt wind. Quotes are free.
 hero: sumner-hero
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Sumner"
@@ -49,7 +49,7 @@ We check the ceiling and underfloor insulation at the quote. Insulating first ca
 
 ## Hill homes above Sumner beach
 
-Homes on the slopes above Sumner raise the usual hill questions: wall brackets, decks, longer pipe runs and steep access. We plan all of it at the quote visit, so it's in the fixed price.
+Homes on the slopes above Sumner raise the usual hill questions: wall brackets, decks, longer pipe runs and steep access. We plan all of it at the quote visit, so it's in the quote.
 
 ## What we do in Sumner
 

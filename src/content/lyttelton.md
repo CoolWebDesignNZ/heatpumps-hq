@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Lyttelton"
-description: "Warming an old Lyttelton cottage on a steep, tight section? How we place heat pumps, run pipes and deal with harbour salt. Free quote, fixed before we start."
+description: "Warming an old Lyttelton cottage on a steep, tight section? How we place heat pumps, run pipes and deal with harbour salt. Free quote."
 keyword: heat pump installation lyttelton
 secondary: [heat pumps lyttelton, heat pump service lyttelton, heat pump repair lyttelton]
 h1: Heat pump installation for Lyttelton cottages and homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lyttelton
 suburb: Lyttelton
-intro: "We come through the tunnel to fit, service and fix heat pumps in Lyttelton, including old cottages on steep, narrow sections. Every job gets a price agreed first."
+intro: "We come through the tunnel to fit, service and repair heat pumps in Lyttelton, including old cottages on steep, narrow sections."
 hero: lyttelton-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: Questions about heat pumps in Lyttelton

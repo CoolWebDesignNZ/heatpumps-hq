@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Avondale"
-description: "Heat pumps for Avondale homes repaired or rebuilt after the earthquakes, sized room by room. Service and repairs on all major brands. Free fixed-price quote."
+description: "Heat pumps for Avondale homes repaired or rebuilt after the earthquakes, sized room by room. Service and repairs on all major brands. Free quote."
 keyword: heat pump installation avondale
 secondary: [heat pumps avondale, heat pump service avondale, heat pump repair avondale]
 h1: Heat pump installation and servicing in Avondale
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avondale
 suburb: Avondale
-intro: "We fit, service and fix heat pumps in Avondale, from original mid-century houses to rebuilds. You'll know the fixed price before we pick up a tool."
+intro: "We fit, service and repair heat pumps in Avondale, from original mid-century houses to rebuilds."
 hero: avondale-hero
 gallery: [pool-weatherboard, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avondale
@@ -18,7 +18,7 @@ faqs:
   - q: Are heat pumps in Avondale affected by the river?
     a: Not directly. But homes near the Avon can be damp in winter. Keeping the rooms evenly warm helps with condensation. The outdoor unit should sit on a raised base, clear of wet ground.
   - q: Do you repair heat pumps that were fitted during earthquake repairs in Avondale?
-    a: Yes. It doesn't matter who fitted it. If it's a brand sold in New Zealand, we can service and fix it.
+    a: Yes. It doesn't matter who fitted it. If it's a brand sold in New Zealand, we can service and repair it.
 related:
   - { label: Dallington, href: /dallington/, text: "Heat pumps for Dallington homes." }
   - { label: Wainoni, href: /wainoni/, text: "Installation and servicing in Wainoni." }
@@ -57,7 +57,7 @@ Avondale is a few kilometres from the coast. An easterly brings in some salt. Gi
 
 ## Heat pump servicing and repairs in Avondale
 
-We service and fix heat pumps all over Avondale. Many went in during earthquake repairs and may not have been serviced since. Our service covers a clean of the filters, coil and fan. It checks the drain and the output. We cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands. See what happens at a visit under [maintenance and servicing](/maintenance-servicing/). For a fault, go to [heat pump repair](/heat-pump-repair/).
+We service and repair heat pumps all over Avondale. Many went in during earthquake repairs and may not have been serviced since. Our service covers a clean of the filters, coil and fan. It checks the drain and the output. We cover Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands. See what happens at a visit under [maintenance and servicing](/maintenance-servicing/). For a fault, go to [heat pump repair](/heat-pump-repair/).
 
 ## Suburbs around Avondale
 

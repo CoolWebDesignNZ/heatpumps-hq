@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Burwood"
-description: "Heat pump installation in Burwood, sized for newer brick homes and older family houses. Servicing and repairs on all major brands, free fixed-price quote."
+description: "Heat pump installation in Burwood, sized for newer brick homes and older family houses. Servicing and repairs on all major brands, free quote."
 keyword: heat pump installation burwood
 secondary: [heat pumps burwood, heat pump service burwood, heat pump repair burwood]
 h1: Heat pump installation and servicing in Burwood
@@ -36,7 +36,7 @@ In both kinds of house, a single lounge unit misses the bedrooms down the hall.
 
 ## Heating bedrooms and hallways in Burwood
 
-The usual complaint in Burwood is a warm lounge and cold bedrooms. You've got three ways to fix it:
+The usual complaint in Burwood is a warm lounge and cold bedrooms. You've got three ways to solve it:
 
 - **A second high wall unit** in the main bedroom or a hallway. It works on its own, with its own outdoor unit.
 - **A multi-room system.** One outdoor unit runs two or more indoor units, so there's only one box outside.
@@ -48,7 +48,7 @@ Most Burwood sections are flat. That makes the outdoor unit easy to place. We se
 
 ## Heat pump service and repairs in Burwood
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We also do most other brands sold in New Zealand. A service covers the filters, the indoor coil and fan, and the drain. We check the outdoor unit too. Has yours stopped heating? Is it leaking water inside, or making new noises? See [heat pump repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We also do most other brands sold in New Zealand. A service covers the filters, the indoor coil and fan, and the drain. We check the outdoor unit too. Has yours stopped heating? Is it leaking water inside, or making new noises? See [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs near Burwood
 

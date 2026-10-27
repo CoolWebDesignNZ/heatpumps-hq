@@ -4,7 +4,7 @@ description: "What is a heat pump and how does it heat a room using outside air?
 keyword: how does a heat pump work
 secondary: [how do heat pumps work, what is a heat pump, how heat pumps work]
 h1: How does a heat pump work?
-intro: "We fit and fix heat pumps across Christchurch. A heat pump moves heat that's already in the outside air into your room, and runs the same process backwards to cool."
+intro: "We fit and repair heat pumps across Christchurch. A heat pump moves heat that's already in the outside air into your room, and runs the same process backwards to cool."
 hero: hiw-hero
 updated: 2026-10-17
 gallery: [hiw-outdoor, hiw-indoor]
@@ -89,4 +89,4 @@ The indoor unit can be a high wall unit, a floor console, a ceiling cassette or 
 
 It only works if air can move freely over both coils. Clogged filters cut output and push up power use. So does a dusty indoor coil, or leaves packed round the outdoor unit. Clean the filters as often as once a month when you use it a lot. A yearly [service](/maintenance-servicing/) keeps the coils, fans and drains clean.
 
-Planning a new system? Start with [buying a heat pump](/choosing-heat-pump/). Or call **[03 242 1023](tel:032421023)** for a free quote. We size each one from your rooms, insulation and windows. You know the full price before we lift a tool.
+Planning a new system? Start with [buying a heat pump](/choosing-heat-pump/). Or call **[03 242 1023](tel:032421023)** for a free quote. We size each one from your rooms, insulation and windows.

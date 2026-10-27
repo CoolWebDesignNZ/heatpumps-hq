@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Wigram"
-description: "Heat pump installation for new Wigram homes, planned for open plan living, bedrooms and ducting. Servicing and repairs too. Free fixed-price quote up front."
+description: "Heat pump installation for new Wigram homes, planned for open plan living, bedrooms and ducting. Servicing and repairs too. Free quote."
 keyword: heat pump installation wigram
 secondary: [heat pumps wigram, heat pump service wigram, heat pump repair wigram]
 h1: Heat pump installation and servicing for Wigram homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Wigram
 suburb: Wigram
-intro: We plan, fit, service and fix heat pumps in Wigram's newer subdivisions, and we match the setup to a newer home, which needs something different from an older house.
+intro: We plan, fit, service and repair heat pumps in Wigram's newer subdivisions, and we match the setup to a newer home, which needs something different from an older house.
 hero: wigram-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: "Questions about heat pumps in Wigram"
@@ -29,7 +29,7 @@ related:
 
 In a new Wigram home, a heat pump has an easy job in the living area and a hard one in the bedrooms. Much of Wigram is built on the old airfield land, so most homes are recent. Insulated walls and ceilings and double glazing keep heat loss low. A modest unit can heat the open plan kitchen, dining and living area.
 
-The bedrooms are the catch. They're grouped together or upstairs, behind closed doors. Warm air from a wall unit only reaches the space it can flow into. A bigger unit in the living area won't fix cold bedrooms.
+The bedrooms are the catch. They're grouped together or upstairs, behind closed doors. Warm air from a wall unit only reaches the space it can flow into. A bigger unit in the living area won't warm cold bedrooms.
 
 - **No heat pump yet?** You can plan the whole house at once. We size the living area unit to the room's volume and glass. The bedrooms get covered at the same time, by a second unit, a multi-room system or ducting.
 - **One unit that can't reach the bedrooms?** You usually need a small second unit in the bedroom wing, not a replacement.
@@ -48,7 +48,7 @@ Wigram sections are often compact, with narrow side yards. The outdoor unit need
 
 ## If the builder already fitted one
 
-A heat pump that came with a new house was often picked as part of a package. That happened before anyone knew how you'd use the rooms. Does yours struggle on cold mornings? Do the bedrooms stay cool? We can check its capacity against the room it heats. Then we'll tell you whether the fix is a service, a change of settings or a second unit. A first service also clears out building dust. It tends to build up in the filters during a new home's first few years.
+A heat pump that came with a new house was often picked as part of a package. That happened before anyone knew how you'd use the rooms. Does yours struggle on cold mornings? Do the bedrooms stay cool? We can check its capacity against the room it heats. Then we'll tell you whether the answer is a service, a change of settings or a second unit. A first service also clears out building dust. It tends to build up in the filters during a new home's first few years.
 
 ## Heat pump service, repairs and installs in Wigram
 
@@ -58,4 +58,4 @@ We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, wall-mounte
 
 We also work in [Hornby](/heat-pumps-hornby/), [Sockburn](/sockburn/), [Halswell](/halswell/), [Aidanfield](/aidanfield/) and [Hillmorton](/hillmorton/).
 
-For a fixed-price quote on your Wigram home, call **[03 242 1023](tel:032421023)** or fill in the quote form.
+For a free quote on your Wigram home, call **[03 242 1023](tel:032421023)** or fill in the quote form.

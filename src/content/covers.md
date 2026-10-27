@@ -16,7 +16,7 @@ faqs:
   - q: Can I cover my heat pump when it's not in use?
     a: Yes, a fitted cover on a switched-off unit for a long stretch is fine. Just take it off before the heat pump runs. Never run it with a full cover or tarp on.
   - q: Do heat pump covers reduce noise?
-    a: A screen can soften the sound a little. It hides the unit from view too. It won't fix a noisy unit, though. A box that bounces sound back can make it worse. See <a href="/heat-pump-noise-problems-solutions/">heat pump noise problems</a>.
+    a: A screen can soften the sound a little. It hides the unit from view too. It won't cure a noisy unit, though. A box that bounces sound back can make it worse. See <a href="/heat-pump-noise-problems-solutions/">heat pump noise problems</a>.
   - q: Which cover should I buy?
     a: It depends on the unit and where it sits. Our <a href="/best-heat-pump-covers-nz/">heat pump covers guide</a> compares the main types. Getting a unit fitted or serviced? Ask us. We'll look at the spot with you.
 related:
@@ -36,13 +36,13 @@ People put covers on outdoor units for a few reasons.
 
 ## What a cover doesn't do
 
-You don't need a cover to protect the unit from normal weather. Outdoor units are built to be outside. A cover won't make it run better in winter. It won't fix noise from a worn fan, or a unit rattling on loose feet. And it won't stop frost. Frost forms on the coil from the damp in the air the unit pulls through.
+You don't need a cover to protect the unit from normal weather. Outdoor units are built to be outside. A cover won't make it run better in winter. It won't cure noise from a worn fan, or a unit rattling on loose feet. And it won't stop frost. Frost forms on the coil from the damp in the air the unit pulls through.
 
 ## Outdoor heat pump covers in Christchurch
 
 Christchurch weather tests a cover in a few ways.
 
-- **Nor'west wind.** Out on the western side in [Avonhead](/avonhead/), spring brings nor'west wind. Keep the unit out of the full force of the wind, and fix any screen down firmly. A solid box facing the wind isn't the answer, because the unit still needs steady airflow.
+- **Nor'west wind.** Out on the western side in [Avonhead](/avonhead/), spring brings nor'west wind. Keep the unit out of the full force of the wind, and secure any screen firmly. A solid box facing the wind isn't the answer, because the unit still needs steady airflow.
 - **Frosty mornings.** In [Hornby](/heat-pumps-hornby/), the outdoor unit ices up on cold mornings and runs a defrost cycle. Any cover needs an open base, so the meltwater drains away and doesn't refreeze round the feet.
 - **Leaves and shrubs.** Many [Ilam](/ilam/) homes have mature gardens. A roof shelter keeps falling leaves off the top. Keep shrubs back from the sides so air can move through the coil.
 - **Salt on an easterly.** [Parklands](/parklands/) is close enough to the coast for some salt to blow in. Choose a cover you can open or lift off, so you can give the coil a gentle rinse now and then.
@@ -64,7 +64,7 @@ So a safe cover:
 2. **Leaves room at the back and sides.** On most units that's where the air comes in. Your unit's install manual sets the minimum gaps for that model.
 3. **Has an open base.** Water has to drain and fall away.
 4. **Comes off for servicing.** A technician needs to get at the panels, the service valves and the electrical cover.
-5. **Is fixed down properly.** A loose screen flapping in a nor'wester is noisy. It can damage the unit too.
+5. **Is secured properly.** A loose screen flapping in a nor'wester is noisy. It can damage the unit too.
 
 Full wraps don't belong on a running heat pump. Nor do plastic storage covers or tarps.
 

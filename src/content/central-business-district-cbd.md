@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Christchurch CBD"
-description: "Putting a heat pump into a Central City apartment or townhouse? How we handle body corporate consent, balcony units and pipe runs. Free fixed-price quote."
+description: "Putting a heat pump into a Central City apartment or townhouse? How we handle body corporate consent, balcony units and pipe runs. Free quote."
 keyword: heat pump installation christchurch cbd
 secondary: [heat pumps christchurch cbd, heat pump service christchurch cbd, heat pump repair christchurch cbd]
 h1: Heat pump installation in the Christchurch CBD and Central City
 serviceName: Heat pump installation, servicing and repair
 areaServed: Central City
 suburb: Central City
-intro: "We install heat pumps in Central City apartments, townhouses and older cottages inside the four avenues. We work round body corporate rules and tight balconies, at a fixed price agreed first."
+intro: "We install heat pumps in Central City apartments, townhouses and older cottages inside the four avenues. We work round body corporate rules and tight balconies."
 hero: central-city-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in the CBD"
@@ -20,7 +20,7 @@ faqs:
   - q: Are the noise rules different in the Central City?
     a: Yes. The Central City has its own noise limits. They're different from the suburban residential zones. We explain how noise is measured, and where to put a unit, under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
   - q: Can you service a heat pump that came with my apartment?
-    a: Yes. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Plus most other brands on sale in New Zealand.
+    a: Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Plus most other brands on sale in New Zealand.
 related:
   - { label: Edgeware, href: /edgeware/, text: "Heat pumps for the villas and townhouses just north of the avenues." }
   - { label: Sydenham, href: /sydenham/, text: "Installs and servicing south of Moorhouse Avenue." }

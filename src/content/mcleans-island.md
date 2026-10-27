@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation McLeans Island"
-description: "Heating a rural McLeans Island home? Heat pump installs, servicing and repairs for lifestyle properties exposed to frost and wind. Free fixed-price quote."
+description: "Heating a rural McLeans Island home? Heat pump installs, servicing and repairs for lifestyle properties exposed to frost and wind. Free quote."
 keyword: heat pump installation mcleans island
 secondary: [heat pumps mcleans island, heat pump service mcleans island, heat pump repair mcleans island]
 h1: Heat pump installation and servicing on McLeans Island
 serviceName: Heat pump installation, servicing and repair
 areaServed: McLeans Island
 suburb: McLeans Island
-intro: We fit, service and fix heat pumps on McLeans Island's lifestyle blocks at the north-western edge of Christchurch, at a fixed price agreed before we start.
+intro: We fit, service and repair heat pumps on McLeans Island's lifestyle blocks at the north-western edge of Christchurch.
 hero: mcleans-island-hero
 gallery: [pool-lifestyle, pool-ducted-vent]
 faqHeading: "Questions about heat pumps in McLeans Island"

@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Brooklands"
-description: "Heat pumps for Brooklands' remaining homes near the lagoon and the Waimakariri mouth. Placement for wind, damp and soft ground, with a free fixed-price quote."
+description: "Heat pumps for Brooklands' remaining homes near the lagoon and the Waimakariri mouth. Placement for wind, damp and soft ground, with a free quote."
 keyword: heat pump installation brooklands
 secondary: [heat pumps brooklands, heat pump service brooklands, heat pump repair brooklands]
 h1: Heat pump installation and repairs in Brooklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Brooklands
 suburb: Brooklands
-intro: "We fit, service and fix heat pumps in Brooklands, the small settlement near the lagoon on the city's northern edge. The quote is free and the price is fixed before we start."
+intro: "We fit, service and repair heat pumps in Brooklands, the small settlement near the lagoon on the city's northern edge. The quote is free."
 hero: brooklands-hero
 gallery: [pool-lifestyle, pool-coastal-home]
 faqHeading: Questions about heat pumps in Brooklands
@@ -17,7 +17,7 @@ faqs:
     a: Yes. Brooklands is in our area, the same as the rest of Christchurch, Selwyn and Lyttelton.
   - q: What's the best spot for an outdoor unit on an exposed Brooklands section?
     a: The side of the house out of the prevailing wind. Put it on a raised bracket or base, with open space in front of the fan. No sheltered wall? A slatted screen can help.
-  - q: My Brooklands heat pump is old and noisy. Is it worth fixing?
+  - q: My Brooklands heat pump is old and noisy. Is it worth repairing?
     a: We'll find the fault and tell you what the repair involves. If the unit's near the end of its life, we'll quote a replacement too. Then you can compare.
 related:
   - { label: Spencerville, href: /spencerville/, text: "Heat pumps for Spencerville homes." }

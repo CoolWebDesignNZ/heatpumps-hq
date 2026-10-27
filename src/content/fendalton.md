@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Fendalton"
-description: "Large rooms, high ceilings and shady trees in a Fendalton home? We plan multi-room and ducted heat pumps that suit older houses. Fixed-price quote, free."
+description: "Large rooms, high ceilings and shady trees in a Fendalton home? We plan multi-room and ducted heat pumps that suit older houses. Quotes are free."
 keyword: heat pump installation fendalton
 secondary: [heat pumps fendalton, heat pump service fendalton, heat pump repair fendalton]
 h1: Heat pump installation in Fendalton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Fendalton
 suburb: Fendalton
-intro: "We fit, service and fix heat pumps in Fendalton, planning round the big rooms, old trees and look of each house. You get a fixed price before we start."
+intro: "We fit, service and repair heat pumps in Fendalton, planning round the big rooms, old trees and look of each house."
 hero: fendalton-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Fendalton

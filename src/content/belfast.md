@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Belfast"
-description: "Building or buying a new home in Belfast, Christchurch? We plan ducted and wall heat pumps for new subdivisions and older houses. Fixed-price quote, free."
+description: "Building or buying a new home in Belfast, Christchurch? We plan ducted and wall heat pumps for new subdivisions and older houses. Free quote."
 keyword: heat pump installation belfast
 secondary: [heat pumps belfast, heat pump service belfast, heat pump repair belfast]
 h1: Heat pump installation in Belfast, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Belfast
 suburb: Belfast
-intro: "We fit, service and fix heat pumps in Belfast, on the city's northern edge, in new subdivision homes and the older houses beside them. The price is fixed before we start."
+intro: "We fit, service and repair heat pumps in Belfast, on the city's northern edge, in new subdivision homes and the older houses beside them."
 hero: belfast-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Belfast
@@ -20,7 +20,7 @@ faqs:
   - q: Ducted or wall units for a new Belfast home?
     a: Ducted heats every room evenly, and all you see are vents. It suits a build with good ceiling space. Wall units cost less. They work well if you only need a few rooms heated. Our <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split guide</a> compares them.
   - q: Do you service heat pumps in older Belfast homes too?
-    a: Yes. We service and fix all the major brands, in homes of any age.
+    a: Yes. We service and repair all the major brands, in homes of any age.
 related:
   - { label: Redwood, href: /redwood/, text: "Heat pumps for Redwood family homes." }
   - { label: Casebrook, href: /casebrook/, text: "Installation and servicing in Casebrook." }

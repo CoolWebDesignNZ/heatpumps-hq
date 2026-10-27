@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Cost Christchurch"
-description: "Heat pump installation cost depends on far more than the unit. See each factor that moves the price of an install in Christchurch, then get a fixed quote."
+description: "Heat pump installation cost depends on far more than the unit. See each factor that moves the price of an install in Christchurch, then get a free quote."
 keyword: heat pump installation cost
 secondary: [heat pump install price, heat pump installation cost nz, heat pump prices christchurch]
 h1: What affects heat pump installation cost in Christchurch
@@ -12,13 +12,13 @@ faqHeading: "Heat pump installation cost questions"
 relatedHeading: "More on heat pump prices and installs"
 faqs:
   - q: How much does it cost to install a heat pump in Christchurch?
-    a: It depends on the unit's size and type. It also depends on the install itself. That means the pipe run, where the outdoor unit goes and the electrical work. We don't publish a price list, because two installs are rarely the same. A free on-site quote gives you a fixed price for your house.
+    a: It depends on the unit's size and type. It also depends on the install itself. That means the pipe run, where the outdoor unit goes and the electrical work. We don't publish a price list, because two installs are rarely the same. A free on-site quote gives you a price for your house.
   - q: Why do heat pump quotes vary so much?
     a: Because quotes often price different things. One might include a longer pipe run, wall brackets, a new circuit and taking out the old unit. Another might assume a back-to-back install on a ground pad. Check each quote lists the model, where both units go and the electrical work.
   - q: Is a floor console dearer to install than a high wall unit?
     a: It can be, depending on the room. A console often needs the pipes run through the floor, or low along the wall. The unit price also differs between models. If you can't decide, ask for both options on the same quote.
-  - q: Does a fixed-price quote change once work starts?
-    a: Not ours. We agree it before we start, once we've looked at the pipe route, mounting and electrical work on site. That's why the site visit comes first.
+  - q: Why do you visit before you quote?
+    a: So we can look at the pipe route, mounting and electrical work on site. Those change the cost of an install as much as the unit does.
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan and carry out an install." }
   - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: "What drives the price of a ducted system." }
@@ -27,7 +27,7 @@ related:
 
 ## Why we don't list heat pump prices
 
-We don't publish heat pump prices or price ranges. A published figure can't allow for your house. And the house sets the cost of an install as much as the heat pump does. A free quote on site gets you one fixed price that covers your job.
+We don't publish heat pump prices or price ranges. A published figure can't allow for your house. And the house sets the cost of an install as much as the heat pump does. A free quote on site covers your job.
 
 Knowing what moves the price also tells you what to look for in any quote, ours included.
 
@@ -35,7 +35,7 @@ Knowing what moves the price also tells you what to look for in any quote, ours 
 
 Your suburb and your type of house change the install work, so they change the price.
 
-- **Steep hill sections.** On [Mount Pleasant](/mount-pleasant/) and in [Heathcote Valley](/heathcote-valley/), the outdoor unit often goes on a wall bracket or a deck, and some sites are up long flights of steps. We plan the bracket, the pipe route and the access at the quote, so the price doesn't change on the day.
+- **Steep hill sections.** On [Mount Pleasant](/mount-pleasant/) and in [Heathcote Valley](/heathcote-valley/), the outdoor unit often goes on a wall bracket or a deck, and some sites are up long flights of steps. We plan the bracket, the pipe route and the access on the site visit, so they're in the quote.
 - **Apartments and unit-titled townhouses.** In the [Central City](/central-business-district-cbd/), the body corporate rules can decide where the outdoor unit goes and how the pipes run. Find out what yours allows before we quote a final layout.
 - **Tight townhouse sites near the water.** In [Ferrymead](/ferrymead/), a townhouse outdoor unit may only fit in the courtyard, on a side wall, on a balcony or on the garage roof. Low sections can collect surface water, so the unit goes up on feet or a stand.
 - **New builds before the linings go on.** In a new [Belfast](/belfast/) home, pipes for wall units can run inside the walls instead of in covers outside, and ducting gets a clear path through the ceiling. That's simpler work than fitting around finished walls and ceilings.
@@ -92,7 +92,7 @@ Sometimes you can reuse the old position, which helps. Sometimes it was a poor s
 
 ## Access and the house itself
 
-Access and how the house is built add smaller costs, and they add up. A weatherboard wall is different from brick or block. Framing may need extra dwangs to fix into. The underfloor space may be cramped. A unit high up a stairwell may need scaffolding or a tower. We look at all of this on the site visit. That way it's in the price, not a surprise later.
+Access and how the house is built add smaller costs, and they add up. A weatherboard wall is different from brick or block. Framing may need extra dwangs to screw into. The underfloor space may be cramped. A unit high up a stairwell may need scaffolding or a tower. We look at all of this on the site visit. That way it's in the quote.
 
 ## Comparing heat pump quotes fairly
 
@@ -100,6 +100,6 @@ Got more than one quote? Check each one names the brand, model number and kW siz
 
 If one quote is much lower than the rest, check whether it's missing one of these lines.
 
-## Get a fixed heat pump install price for your house
+## Get a heat pump install price for your house
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. We come out and size the unit from your rooms, insulation and windows. We work out the pipe run, mounting and electrical work. Then we give you a fixed price, agreed before any work. The quote is free. Call **[03 242 1023](tel:032421023)**, Monday to Friday 8am to 5pm, or [request a quote](/contact-us/).
+We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba across Christchurch, Selwyn and Lyttelton. We come out and size the unit from your rooms, insulation and windows. We work out the pipe run, mounting and electrical work. Then we give you a free quote. Call **[03 242 1023](tel:032421023)**, Monday to Friday 8am to 5pm, or [request a quote](/contact-us/).

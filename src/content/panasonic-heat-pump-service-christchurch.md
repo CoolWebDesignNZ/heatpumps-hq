@@ -12,9 +12,9 @@ faqHeading: Panasonic heat pump questions
 relatedHeading: More on repairs and replacement
 faqs:
   - q: Do you install Panasonic heat pumps?
-    a: No. We service and fix Panasonic, but we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
+    a: No. We service and repair Panasonic, but we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
   - q: Do you repair Panasonic air conditioners?
-    a: Yes. A Panasonic split system that heats and cools is the same unit, whatever you call it. We'll fix faults on heat or on cool.
+    a: Yes. A Panasonic split system that heats and cools is the same unit, whatever you call it. We'll repair faults on heat or on cool.
   - q: Can you get parts for an older Panasonic?
     a: For most models we can. Some older ones can be hard to find parts for. We check before we quote. That way you know if the repair can actually go ahead.
   - q: My Panasonic heat pump is flashing a light. Is it broken?
@@ -35,8 +35,8 @@ People call us about a Panasonic for the same reasons as any brand. It's stopped
 
 1. **We read the fault.** If the unit has saved a code, we read it with the service information for that model.
 2. **We test the system.** In [fault finding](/heat-pump-troubleshooting/) we check the power and wiring, sensors, fans and control board. We check the drain and the gas circuit too.
-3. **We price the fix.** You get a fixed price before we start. We'll also tell you if the part is available.
-4. **We fix it and test it.** We run it on heat and on cool before we go.
+3. **We quote the repair.** We'll also tell you if the part is available.
+4. **We repair it and test it.** We run it on heat and on cool before we go.
 
 ## Panasonic air conditioner repair
 

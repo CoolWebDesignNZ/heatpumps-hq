@@ -1,20 +1,20 @@
 ---
 title: "Heat Pump Installation Ilam"
-description: "Heat pumps for Ilam family homes and student rentals, including landlords meeting the Healthy Homes heating standard. Installs and servicing at a fixed price."
+description: "Heat pumps for Ilam family homes and student rentals, including landlords meeting the Healthy Homes heating standard. Installs and servicing. Free quote."
 keyword: heat pump installation ilam
 secondary: [heat pumps ilam, heat pump service ilam, heat pump repair ilam]
 h1: Heat pump installation and servicing in Ilam
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ilam
 suburb: Ilam
-intro: We fit, service and fix heat pumps in Ilam for family homeowners and for landlords with rentals near the University of Canterbury, with a fixed price first.
+intro: We fit, service and repair heat pumps in Ilam for family homeowners and for landlords with rentals near the University of Canterbury.
 hero: ilam-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: "Questions about heat pumps in Ilam"
 relatedHeading: "More on heat pumps near Ilam"
 faqs:
   - q: Does a heat pump meet the Healthy Homes heating standard for my Ilam rental?
-    a: Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be fixed, have a thermostat and have enough capacity for that room. We size the unit to the room, so it meets the capacity the standard asks for.
+    a: Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be a fixed heater, have a thermostat and have enough capacity for that room. We size the unit to the room, so it meets the capacity the standard asks for.
   - q: How often should heat pumps in a student flat be serviced?
     a: At least once a year, ideally before winter. Flats with several tenants run the heat pump hard, so the filters clog faster. Ask your tenants to rinse the filters every few weeks in winter.
   - q: Can you work around tenants?

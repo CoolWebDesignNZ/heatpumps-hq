@@ -14,7 +14,7 @@ faqs:
   - q: Where should I start if I'm buying my first heat pump?
     a: Start with <a href="/types-of-heat-pumps/">the types of heat pumps</a>, then work out <a href="/heat-pump-sizing/">the size you need</a>. Once you know the type and the kW, quotes are much easier to compare.
   - q: Can you check the size for me instead?
-    a: Yes. Quotes are free. We measure the rooms and check the insulation and windows, then tell you the size and give you a fixed price.
+    a: Yes. Quotes are free. We measure the rooms and check the insulation and windows, then tell you the size and give you a quote.
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan, size and fit a new system." }
   - { label: Heat pump services, href: /heat-pump-services/, text: "Servicing, cleaning and repairs on all major brands." }
@@ -65,4 +65,4 @@ Where the outdoor unit can go, the paperwork you need, and what to do when somet
 
 ## Get a heat pump quote
 
-Call **[03 242 1023](tel:032421023)**, Monday to Friday, or use the quote form. Quotes are free, and we'll size the heat pump for your rooms and give you a fixed price.
+Call **[03 242 1023](tel:032421023)**, Monday to Friday, or use the quote form. Quotes are free, and we'll size the heat pump for your rooms and give you a quote.

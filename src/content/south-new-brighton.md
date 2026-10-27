@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation South New Brighton"
-description: "Heat pump installation in South New Brighton, between the estuary and the sea. How salt, damp and soft ground shape the install, with a free fixed quote."
+description: "Heat pump installation in South New Brighton, between the estuary and the sea. How salt, damp and soft ground shape the install, with a free quote."
 keyword: heat pump installation south new brighton
 secondary: [heat pumps south new brighton, heat pump service south new brighton, heat pump repair south new brighton]
 h1: Heat pump installation and servicing in South New Brighton
 serviceName: Heat pump installation, servicing and repair
 areaServed: South New Brighton
 suburb: South New Brighton
-intro: We fit, service and repair heat pumps on the South New Brighton strip between the estuary and the beach, and we'll quote you a fixed price before we begin.
+intro: We fit, service and repair heat pumps on the South New Brighton strip between the estuary and the beach, and the quote is free.
 hero: south-new-brighton-hero
 gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in South New Brighton"
@@ -18,7 +18,7 @@ faqs:
   - q: Can a heat pump help with condensation in an estuary-side house?
     a: Yes. A heat pump keeps rooms warmer, so less water forms on cold surfaces. Its dry mode can also pull moisture from the air on mild days. You still need good ventilation and extractor fans.
   - q: How do you mount an outdoor unit on soft, sandy ground in South New Brighton?
-    a: We use a firm, level pad on a compacted base. Or we fix a wall bracket to the house framing, so the unit doesn't rely on the ground at all.
+    a: We use a firm, level pad on a compacted base. Or we mount a wall bracket on the house framing, so the unit doesn't rely on the ground at all.
 related:
   - { label: New Brighton, href: /new-brighton/, text: "Heat pumps for older New Brighton homes." }
   - { label: Bexley, href: /bexley/, text: "Installation and servicing in Bexley." }
@@ -46,7 +46,7 @@ Much of South New Brighton is sand. Some areas settled after the earthquakes. A 
 
 Every home in South New Brighton gets some salt. Rinse the outdoor coil gently with a hose every few months. Clean the indoor filters often. A service once a year keeps the coil, fan and drain in good shape.
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other brands sold in New Zealand too. There's more on [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other brands sold in New Zealand too. There's more on [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
 
 ## Choosing a heat pump for South New Brighton
 

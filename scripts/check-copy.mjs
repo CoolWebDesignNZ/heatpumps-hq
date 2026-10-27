@@ -81,6 +81,10 @@ for (const f of files) {
   for (const [, href] of raw.matchAll(/(?:\]\(|href=")(\/[^)"#]*)/g)) if (!paths.has(href)) err(`link to ${href} is not in urls.json`);
   // No source citations (client, 2026-10-20): state the fact, don't credit who said it.
   if (slug !== 'privacy-policy' && /\bsources?:/i.test(raw)) err('has a "Source:" citation');
+  // We repair heat pumps, we don't "fix" them, and we don't promise a fixed price (client, 2026-10-27).
+  { const c = raw.replace(/^(keyword|secondary):.*$/gm, '');
+    const x = c.match(/\bfix(es|ing)?\b|\b(get|gets|getting|got|had|have|can be|be|been|being|is|are) (it |them |that |this |the \w+ )?fixed\b(?! (to|into|in place|heat|wiring))/i); if (x) err(`says "${x[0]}": we repair, never fix`);
+    const p = c.match(/fixed[- ]price|price (is |gets |we quote is )?(fixed|agreed)|\bfixed (before|first|up ?front)|(free|free,) (and )?fixed\b|in the fixed/i); if (p) err(`promises a fixed price: "${p[0]}"`); }
   { const c = raw.match(/\b(EECA|MBIE|Tenancy Services|WorkSafe|the council|District Plan|Gen Less)\b[^.\n]{0,25}\b(says|said|puts it|notes|recommends|advises|explains|lists|states|advice is)\b/i); if (c) err(`credits a source: "${c[0]}"`); }
   // Links out go to government sources only (plus the Privacy Commissioner and the map tile provider in the privacy policy), never to other companies (client, 2026-10-20).
   for (const [, host] of raw.matchAll(/https?:\/\/([^/)\s"]+)/g)) if (!/\.govt\.nz$|^www\.privacy\.org\.nz$|^osmfoundation\.org$/.test(host) && !/(^|\.)heatpumps-christchurch\.co\.nz$/.test(host)) err(`links out to ${host}`);

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Spencerville
 serviceName: Heat pump installation, servicing and repair
 areaServed: Spencerville
 suburb: Spencerville
-intro: We install, service and repair heat pumps in Spencerville, out on the big semi-rural sections at the city's north-eastern edge, and we agree a fixed price first.
+intro: We install, service and repair heat pumps in Spencerville, out on the big semi-rural sections at the city's north-eastern edge, and the quote is free.
 hero: spencerville-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Spencerville heat pump questions"
@@ -61,4 +61,4 @@ Units on rural properties pick up dust, pollen and grass seed. Plants can grow i
 
 We cover [Brooklands](/brooklands/), [Marshland](/marshland/), [Bottle Lake](/bottle-lake/), [Parklands](/parklands/) and the rest of [greater Christchurch](/locations/).
 
-For a free fixed-price quote in Spencerville, phone **[03 242 1023](tel:032421023)** or send the form and we'll come and look.
+For a free quote in Spencerville, phone **[03 242 1023](tel:032421023)** or send the form and we'll come and look.

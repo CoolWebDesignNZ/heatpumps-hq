@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Hoon Hay"
-description: "Cold mornings in a Hoon Hay family home? How to heat the living area and bedrooms, and how we set up outdoor units for hard frosts. Free fixed-price quote."
+description: "Cold mornings in a Hoon Hay family home? How to heat the living area and bedrooms, and how we set up outdoor units for hard frosts. Free quote."
 keyword: heat pump installation hoon hay
 secondary: [heat pumps hoon hay, heat pump service hoon hay, heat pump repair hoon hay]
 h1: Heat pump installation for Hoon Hay family homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hoon Hay
 suburb: Hoon Hay
-intro: We fit, service and fix heat pumps in Hoon Hay's brick and weatherboard family homes, sized for every room the family uses and for frosty mornings.
+intro: We fit, service and repair heat pumps in Hoon Hay's brick and weatherboard family homes, sized for every room the family uses and for frosty mornings.
 hero: hoon-hay-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Hoon Hay heat pump questions"
@@ -48,7 +48,7 @@ Hoon Hay sits south-west of the city, between Spreydon and Halswell. The Port Hi
 
 ## Heat pump service through a Hoon Hay winter
 
-A unit working through Hoon Hay winters needs a [service](/maintenance-servicing/) once a year, before the cold sets in. If yours has stopped heating, we can [fix it](/heat-pump-repair/).
+A unit working through Hoon Hay winters needs a [service](/maintenance-servicing/) once a year, before the cold sets in. If yours has stopped heating, we can [repair it](/heat-pump-repair/).
 
 ## Where else we work near Hoon Hay
 

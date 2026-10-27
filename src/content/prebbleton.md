@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Prebbleton"
-description: "Building or buying in Prebbleton? Plan your heat pump early, choose wall units or ducted, and get it serviced locally. Free quote, fixed before work."
+description: "Building or buying in Prebbleton? Plan your heat pump early, choose wall units or ducted, and get it serviced and repaired locally. Free quote."
 keyword: heat pump installation prebbleton
 secondary: [heat pumps prebbleton, heat pump service prebbleton, heat pump repair prebbleton]
 h1: Heat pump installation in Prebbleton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Prebbleton
 suburb: Prebbleton
-intro: "We fit, service and fix heat pumps in Prebbleton's subdivisions and on the rural blocks round the village. Your quote is free, with a fixed price."
+intro: "We fit, service and repair heat pumps in Prebbleton's subdivisions and on the rural blocks round the village. Your quote is free."
 hero: prebbleton-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Prebbleton

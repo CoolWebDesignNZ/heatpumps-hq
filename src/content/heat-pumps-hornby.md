@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Hornby"
-description: "Need a heat pump for an older Hornby home? Installs, servicing and repairs planned around draughty rooms and frosty mornings. Get a free fixed-price quote."
+description: "Need a heat pump for an older Hornby home? Installs, servicing and repairs planned around draughty rooms and frosty mornings. Get a free quote."
 keyword: heat pump installation hornby
 secondary: [heat pumps hornby, heat pump service hornby, heat pump repair hornby]
 h1: Heat pump installation, servicing and repair in Hornby
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hornby
 suburb: Hornby
-intro: "We fit, service and fix heat pumps across Hornby, from older weatherboard and brick houses with long hallways to well-sealed new townhouses. You get a fixed price before we start."
+intro: "We fit, service and repair heat pumps across Hornby, from older weatherboard and brick houses with long hallways to well-sealed new townhouses."
 hero: hornby-hero
 gallery: [pool-weatherboard, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Hornby"
@@ -17,8 +17,8 @@ faqs:
     a: It can warm the rooms it's sized for. But it works harder and costs more to run when heat escapes through the ceiling and floor. Top up the insulation first, or at the same time. Then a smaller unit can do the job.
   - q: Where should the outdoor unit go on a small Hornby section?
     a: Against your own wall is best. Keep it away from the neighbour's bedroom windows, with space round it for air to move. Christchurch measures heat pump noise at the neighbouring property. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
-  - q: Will you fix a Hornby heat pump another company fitted?
-    a: Yes. We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We fix most other brands sold in New Zealand too, whoever put them in.
+  - q: Will you repair a Hornby heat pump another company fitted?
+    a: Yes. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We repair most other brands sold in New Zealand too, whoever put them in.
 related:
   - { label: Sockburn, href: /sockburn/, text: "Heat pumps for Sockburn homes and units." }
   - { label: Wigram, href: /wigram/, text: "Installs for newer homes in Wigram." }

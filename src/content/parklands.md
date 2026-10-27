@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Parklands"
-description: "Heat pump installation for Parklands homes built from the 1970s on, from brick and tile houses to recent builds. All brands serviced, fixed price quoted free."
+description: "Heat pump installation for Parklands homes built from the 1970s on, from brick and tile houses to recent builds. All brands serviced, with a free quote."
 keyword: heat pump installation parklands
 secondary: [heat pumps parklands, heat pump service parklands, heat pump repair parklands]
 h1: Heat pump installation and servicing in Parklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Parklands
 suburb: Parklands
-intro: We fit and service heat pumps in Parklands, from the brick and tile homes on flat sections to the newer builds in the later streets, all at a fixed price.
+intro: We fit and service heat pumps in Parklands, from the brick and tile homes on flat sections to the newer builds in the later streets.
 hero: parklands-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: "Questions about heat pumps in Parklands"
@@ -52,7 +52,7 @@ Parklands is close enough to the coast for some salt to blow in on an easterly. 
 
 ## Heat pump repair and servicing in Parklands
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands. A service once a year covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold sets in. If something's failed, call us for [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands. A service once a year covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold sets in. If something's failed, call us for [repairs](/heat-pump-repair/).
 
 ## Suburbs near Parklands
 

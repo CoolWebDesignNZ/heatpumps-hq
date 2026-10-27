@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Ducted Heat Pump Systems"
-description: "Looking at a Mitsubishi Electric ducted heat pump? How zoning and heat recovery ventilation fit in, and what your ceiling space needs. Free fixed-price quote."
+description: "Looking at a Mitsubishi Electric ducted heat pump? How zoning and heat recovery ventilation fit in, and what your ceiling space needs. Free quote."
 keyword: mitsubishi ducted heat pump
 secondary: [mitsubishi ducted, mitsubishi ducted system, mitsubishi ducted heat pump christchurch]
 h1: Mitsubishi Electric ducted heat pump systems in Christchurch
@@ -35,7 +35,7 @@ faqs:
   - q: Can ducted heating and ventilation work together?
     a: Yes. A heat recovery ventilation system can be planned alongside a ducted heat pump. It's easiest to plan both at the same time, before the ceiling goes on if you're building.
   - q: Do you service Mitsubishi ducted heat pumps?
-    a: Yes. We service and fix <a href="/mitsubishi-heat-pump-service-christchurch/">Mitsubishi Electric heat pumps</a> of any age, ducted systems included.
+    a: Yes. We service and repair <a href="/mitsubishi-heat-pump-service-christchurch/">Mitsubishi Electric heat pumps</a> of any age, ducted systems included.
 related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "How ducted heating works in a Christchurch home." }
   - { label: Daikin ducted, href: /daikin-ducted-heat-pumps-christchurch/, text: "Daikin ducted systems and zoning options." }

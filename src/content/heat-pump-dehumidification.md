@@ -44,14 +44,14 @@ Use dry mode when the air is warm and damp.
 ## When dry mode doesn't help
 
 - **Cold winter days.** Dry mode can't heat. In a cold room it makes things cooler. The coil may also struggle to pull much water from cold air.
-- **Damp from the building.** A wet subfloor, a leaking roof or a bathroom with no fan will keep putting moisture back. No heat pump setting fixes the source.
+- **Damp from the building.** A wet subfloor, a leaking roof or a bathroom with no fan will keep putting moisture back. No heat pump setting cures the source.
 - **Rooms away from the unit.** It only treats the air in the space the indoor unit serves.
 
 ## Heat pump dry mode in damp Christchurch homes
 
 Where the damp comes from changes what helps.
 
-- **Near the river.** Homes close to the Avon in [Dallington](/dallington/) can feel damp in winter. Dry mode helps on mild, damp days. It won't replace good ventilation or fixing a leak.
+- **Near the river.** Homes close to the Avon in [Dallington](/dallington/) can feel damp in winter. Dry mode helps on mild, damp days. It won't replace good ventilation or repairing a leak.
 - **Low ground and big trees.** In [Beckenham](/beckenham/), houses near the river or under big trees get less winter sun and run colder and damper. Run the heat pump at a steady, middling setting. Set the timer to warm the house before you get up, when condensation is often worst.
 - **Beside the estuary.** On the estuary side of [South New Brighton](/south-new-brighton/), the air off the water is often damp. A low, constant setting through winter usually works better than an hour of hard heating in the evening. A small unit in the main bedroom stops the back of the house turning cold and wet overnight.
 - **Rooms against a retaining wall.** In [Moncks Bay](/moncks-bay/), rooms backing onto a retaining wall get little sun and can feel damp. They often need their own small unit, and dry mode helps on a mild, damp day.

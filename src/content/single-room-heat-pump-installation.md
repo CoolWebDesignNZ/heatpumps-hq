@@ -1,6 +1,6 @@
 ---
 title: "Single Room Heat Pump for Bedrooms & Lounges"
-description: "Need to heat one bedroom, lounge or studio? How a single room heat pump is sized, which indoor unit suits the space and where it goes. Free fixed-price quote."
+description: "Need to heat one bedroom, lounge or studio? How a single room heat pump is sized, which indoor unit suits the space and where it goes. Free quote."
 keyword: single room heat pump
 secondary: [small heat pump, heat pump for bedroom, heat pump for one room]
 h1: A single room heat pump for one bedroom, lounge or studio
@@ -45,7 +45,7 @@ One unit in one room sounds simple. In Christchurch, the house and the weather s
 
 ## When a single room heat pump is the right answer
 
-A single room system suits a space you can shut off. It also suits one that's open to the rooms around it. Think lounge, open plan kitchen and dining, main bedroom, home office, sleepout or granny flat. It's also the usual fix for one cold room in a house that's otherwise fine.
+A single room system suits a space you can shut off. It also suits one that's open to the rooms around it. Think lounge, open plan kitchen and dining, main bedroom, home office, sleepout or granny flat. It's also the usual answer for one cold room in a house that's otherwise fine.
 
 It's not the answer for a row of separate bedrooms off a hall. Warm air from a wall unit stays in its own room. A heat pump in the lounge won't heat bedrooms with the doors shut.
 

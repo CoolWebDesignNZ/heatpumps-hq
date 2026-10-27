@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Marshland"
-description: "Heating a semi-rural Marshland home or a new build on the city edge? We plan heat pumps for open, frosty sites and large living areas. Fixed price up front."
+description: "Heating a semi-rural Marshland home or a new build on the city edge? We plan heat pumps for open, frosty sites and large living areas. Free quote."
 keyword: heat pump installation marshland
 secondary: [heat pumps marshland, heat pump service marshland, heat pump repair marshland]
 h1: Heat pump installation in Marshland
 serviceName: Heat pump installation, servicing and repair
 areaServed: Marshland
 suburb: Marshland
-intro: We fit and service heat pumps across Marshland, from older rural houses on lifestyle blocks to new subdivision homes, with a fixed price agreed first.
+intro: We fit and service heat pumps across Marshland, from older rural houses on lifestyle blocks to new subdivision homes.
 hero: marshland-hero
 gallery: [pool-lifestyle, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Marshland"

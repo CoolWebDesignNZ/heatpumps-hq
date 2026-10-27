@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Burnside"
-description: "Burnside home extended, with rooms the old heating can't reach? We plan heat pumps by zone and service all major brands. Fixed price agreed first."
+description: "Burnside home extended, with rooms the old heating can't reach? We plan heat pumps by zone and service all major brands. Free quote."
 keyword: heat pump installation burnside
 secondary: [heat pumps burnside, heat pump service burnside, heat pump repair burnside]
 h1: Heat pump installation and service in Burnside
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burnside
 suburb: Burnside
-intro: "We fit, service and fix heat pumps in Burnside's family homes, including ones that have grown with extensions over the years. We plan to heat the whole house, at a set price."
+intro: "We fit, service and repair heat pumps in Burnside's family homes, including ones that have grown with extensions over the years. We plan to heat the whole house."
 hero: burnside-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: Questions about heat pumps in Burnside
@@ -56,10 +56,10 @@ On a winter evening, the old lounge and the new family room can feel very differ
 
 ## Heat pump brands we work on in Burnside
 
-Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. On top of those, we service and fix Panasonic and most other brands in New Zealand homes.
+Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. On top of those, we service and repair Panasonic and most other brands in New Zealand homes.
 
 ## Suburbs near Burnside
 
 We work in [Bryndwr](/bryndwr/), [Avonhead](/avonhead/), [Harewood](/harewood/), [Fendalton](/fendalton/) and the rest of [Christchurch](/locations/).
 
-Call **[03 242 1023](tel:032421023)** or use the form for a free fixed-price quote in Burnside.
+Call **[03 242 1023](tel:032421023)** or use the form for a free quote in Burnside.

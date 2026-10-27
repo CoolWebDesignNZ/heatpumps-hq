@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Aranui"
-description: "Heat pump installation in Aranui for state-era houses, rentals and rebuilt homes, including the Healthy Homes heating rules. Free quote with a fixed price."
+description: "Heat pump installation in Aranui for state-era houses, rentals and rebuilt homes, including the Healthy Homes heating rules. Free quote."
 keyword: heat pump installation aranui
 secondary: [heat pumps aranui, heat pump service aranui, heat pump repair aranui]
 h1: Heat pump installation and repairs in Aranui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aranui
 suburb: Aranui
-intro: "We fit, service and fix heat pumps in Aranui's older state houses, rebuilt homes and rentals. You'll have a fixed price before anything goes in."
+intro: "We fit, service and repair heat pumps in Aranui's older state houses, rebuilt homes and rentals."
 hero: aranui-hero
 gallery: [pool-townhouse, pool-filters]
 faqHeading: Questions about heat pumps in Aranui
@@ -52,7 +52,7 @@ In a townhouse with shared walls, the outdoor unit has to go where it won't both
 
 ## Running costs in older Aranui houses
 
-A draughty older house costs more to heat. The heat pump has to run longer to hold the same temperature. A few simple fixes cut that time.
+A draughty older house costs more to heat. The heat pump has to run longer to hold the same temperature. A few simple changes cut that time.
 
 - **Thick curtains that reach the floor.** They hold the warmth in after dark.
 - **Draught stopping round doors.** Cold air through the gaps is heat the unit has to make up.
@@ -62,7 +62,7 @@ With these in place, a unit that's sized right can cruise through the evening in
 
 ## Heat pump repair and servicing in Aranui
 
-In Aranui we service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other makes sold in New Zealand too.
+In Aranui we service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other makes sold in New Zealand too.
 
 A rental heat pump gets used hard. It often gets little care between tenants. The filters clog, the drain blocks and the output drops. A regular [service](/maintenance-servicing/) between tenancies heads off most [repairs](/heat-pump-repair/).
 
@@ -70,4 +70,4 @@ A rental heat pump gets used hard. It often gets little care between tenants. Th
 
 We also cover [Wainoni](/wainoni/), [Bromley](/bromley/), [Linwood](/linwood/), [Avondale](/avondale/) and [Bexley](/bexley/).
 
-For a fixed-price quote in Aranui, call **[03 242 1023](tel:032421023)** or use the form.
+For a free quote in Aranui, call **[03 242 1023](tel:032421023)** or use the form.

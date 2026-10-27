@@ -43,7 +43,7 @@ The same rules land differently depending on where you live and what you own.
 
 - **Selwyn homes.** [Lincoln](/lincoln/) is in Selwyn District, not Christchurch City. The Selwyn District Plan covers noise from the outdoor unit, so check consent questions with Selwyn District Council too.
 - **Tight sections and shared paths.** In [Edgeware](/edgeware/), noise is judged at the neighbour's place. The outdoor unit often goes on a wall bracket above head height, or round the back, away from the shared path and next door's bedroom windows.
-- **Rentals.** In [Aranui](/aranui/), lots of homes are rentals, including public housing. The heater has to be fixed, at least 1.5 kW, and have a thermostat. In an older lounge with no insulation, go a bit above the minimum to keep the room comfortable on frosty mornings.
+- **Rentals.** In [Aranui](/aranui/), lots of homes are rentals, including public housing. The heater has to be fixed in place, at least 1.5 kW, and have a thermostat. In an older lounge with no insulation, go a bit above the minimum to keep the room comfortable on frosty mornings.
 - **Hillsides.** In [Cashmere](/cashmere/), sound carries differently on a slope. A unit below a neighbour's deck can bother them more than you'd think. We check what's above and below before we pick a spot.
 
 ## Does a heat pump need building consent?
@@ -95,4 +95,4 @@ Own a unit title? The body corporate rules may say where an outdoor unit can go.
 
 ## Installing a heat pump within the regulations
 
-We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. The electrical connection is always done by a licensed electrical worker. For a free fixed-price quote, phone **[03 242 1023](tel:032421023)** or [contact us online](/contact-us/).
+We fit heat pumps across Christchurch, Selwyn and Lyttelton within these rules. The electrical connection is always done by a licensed electrical worker. For a free quote, phone **[03 242 1023](tel:032421023)** or [contact us online](/contact-us/).

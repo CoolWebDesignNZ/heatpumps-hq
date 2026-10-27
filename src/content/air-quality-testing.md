@@ -12,7 +12,7 @@ faqHeading: "Air quality testing questions"
 relatedHeading: "More on clean heat pump air"
 faqs:
   - q: Do you do laboratory indoor air quality testing?
-    a: No. We don't take air samples, test for mould spores or measure pollutants for a lab report. We check the heat pump for dust, mould and damp that could be affecting the air. Then we clean or fix it. If you need a formal air quality test, use a specialist who does lab sampling.
+    a: No. We don't take air samples, test for mould spores or measure pollutants for a lab report. We check the heat pump for dust, mould and damp that could be affecting the air. Then we clean or repair it. If you need a formal air quality test, use a specialist who does lab sampling.
   - q: Can a heat pump make indoor air quality worse?
     a: It can if it's dirty. Dust builds up on the filters, coil and fan. Damp in the coil and drain tray can grow mould. When it runs, it blows air over all of that. A clean unit that drains well doesn't add to the problem.
   - q: How do I know if my heat pump has mould in it?
@@ -29,7 +29,7 @@ related:
 
 A formal indoor air quality test samples the air and sends it to a lab. Or it measures pollutants with calibrated gear. **We don't do that.** We're heat pump specialists. We check the heat pump. Is it clean? Is it dry and draining? Could it be spreading dust or mould round the room?
 
-Need lab results for a health concern, an insurance claim or a building dispute? Get a specialist who does air sampling. If the heat pump turns out to be part of the problem, we can clean or fix it.
+Need lab results for a health concern, an insurance claim or a building dispute? Get a specialist who does air sampling. If the heat pump turns out to be part of the problem, we can clean or repair it.
 
 ## How a heat pump can affect the air in your home
 
@@ -57,9 +57,7 @@ We check the heat pump part by part. Then the room around it.
 
 ## What happens after the air quality testing
 
-We tell you plainly what we found. If the unit is dirty, we clean it properly. We wrap the indoor unit and catch the run-off. That [heat pump cleaning](/heat-pump-cleaning/) gets to the coil, fan wheel and drain tray, not just the filters. Smell won't go away? See [heat pump deodorising](/heat-pump-deodorising/). If the drain is blocked or damaged, we clear or fix it.
-
-Any work gets a fixed price before we start.
+We tell you plainly what we found. If the unit is dirty, we clean it properly. We wrap the indoor unit and catch the run-off. That [heat pump cleaning](/heat-pump-cleaning/) gets to the coil, fan wheel and drain tray, not just the filters. Smell won't go away? See [heat pump deodorising](/heat-pump-deodorising/). If the drain is blocked or damaged, we clear or repair it.
 
 ## When the problem is the house, not the heat pump
 

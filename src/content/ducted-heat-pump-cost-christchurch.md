@@ -1,10 +1,10 @@
 ---
 title: "Ducted Heat Pump Cost in Christchurch"
-description: "Ducted heat pump cost in NZ comes down to your roof space, room count, ducting and power supply. Here is what moves the price, and how to get a fixed figure."
+description: "Ducted heat pump cost in NZ comes down to your roof space, room count, ducting and power supply. Here is what moves the price, and how to get a free quote."
 keyword: ducted heat pump cost
 secondary: [ducted heat pump cost nz, ducted heat pump prices nz, cost of ducted heat pump]
 h1: What a ducted heat pump cost depends on
-intro: "We design and fit ducted heat pumps for whole Christchurch homes, with a fixed price once we've seen the house. Here's what drives that price, from roof space to room count."
+intro: "We design and fit ducted heat pumps for whole Christchurch homes, and quote once we've seen the house. Here's what drives the price, from roof space to room count."
 hero: ductcost-hero
 updated: 2026-10-17
 gallery: [ductcost-roofspace, ductcost-controller]
@@ -12,7 +12,7 @@ faqHeading: Ducted heat pump cost questions
 relatedHeading: More on ducted systems and zoning
 faqs:
   - q: How much does a ducted heat pump cost in New Zealand?
-    a: There's no fair single figure. It depends on the unit's size, the number of vents and the duct runs. It also depends on the roof or floor space, zoning, the power supply, and whether it's a new build or a retrofit. We give you a fixed price once we've looked at the house.
+    a: There's no fair single figure. It depends on the unit's size, the number of vents and the duct runs. It also depends on the roof or floor space, zoning, the power supply, and whether it's a new build or a retrofit. We quote once we've looked at the house.
   - q: Is ducted cheaper to install in a new build?
     a: The work is usually simpler. Ducts can go in before the ceilings are lined and the insulation goes down. The unit's spot can be planned with the builder. In an existing house, we work round finished ceilings, insulation and framing.
   - q: Does a ducted system cost more to run than wall units?
@@ -29,7 +29,7 @@ related:
 
 Every part of the system is sized to the house. There's a central indoor unit and a duct to each room. There's a return air path, the controls, an outdoor unit and the power to run it. A wall heat pump is one unit for one room. A ducted heat pump is a small building project.
 
-That's why we don't put out ducted prices or ranges. A single level new build in Rolleston and a two storey 1970s house in Cashmere are very different jobs, even with the same system. Come and get a free site visit. You'll get a fixed price for your house.
+That's why we don't put out ducted prices or ranges. A single level new build in Rolleston and a two storey 1970s house in Cashmere are very different jobs, even with the same system. Come and get a free site visit. You'll get a quote for your house.
 
 ## Ducted heat pump cost for Christchurch homes
 
@@ -110,6 +110,6 @@ A ducted quote should spell out each of these, so you can compare one quote with
 - taking out any old system and recovering the refrigerant
 - how the system was sized
 
-## Get a fixed price for a ducted heat pump
+## Get a free quote for a ducted heat pump
 
-We fit [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We look at the roof space, the rooms, the insulation and how you use the house. Then you get a free quote, with a fixed price agreed before we start. If a couple of wall units would do a better job in your house, we'll tell you. Call **[03 242 1023](tel:032421023)** to set up a visit, or [ask for a quote](/contact-us/) online.
+We fit [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We look at the roof space, the rooms, the insulation and how you use the house. Then you get a free quote. If a couple of wall units would do a better job in your house, we'll tell you. Call **[03 242 1023](tel:032421023)** to set up a visit, or [ask for a quote](/contact-us/) online.

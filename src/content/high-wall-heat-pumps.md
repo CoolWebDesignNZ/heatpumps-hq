@@ -1,11 +1,11 @@
 ---
 title: "High Wall Heat Pumps Christchurch"
-description: "Thinking about a wall unit? Who a high wall heat pump suits, where it should go in the room, how it compares to a floor console. Free fixed-price quote."
+description: "Thinking about a wall unit? Who a high wall heat pump suits, where it should go in the room, how it compares to a floor console. Free quote."
 keyword: high wall heat pump
 secondary: [wall mounted heat pump, wall hung heat pump, high wall heat pump christchurch]
 h1: High wall heat pumps in Christchurch
 serviceName: High wall heat pump installation
-intro: "We install high wall heat pumps across Christchurch, in living areas, bedrooms and studios. We pick the wall that gets warm air to where you sit, and give you a fixed price before we start."
+intro: "We install high wall heat pumps across Christchurch, in living areas, bedrooms and studios. We pick the wall that gets warm air to where you sit."
 hero: highwall-hero
 gallery: [highwall-1, highwall-2]
 stepsHeading: How we choose and fit a high wall heat pump
@@ -69,7 +69,7 @@ Christchurch housing decides a lot about where a wall unit works.
 
 - **Open plan new builds.** In [Wigram](/wigram/), [Rolleston](/rolleston/) and [Prebbleton](/prebbleton/), insulated walls, ceilings and double glazing keep heat loss low. One high wall unit sized right can heat the kitchen, dining and living area on its own.
 - **Brick homes with standard ceilings.** The single storey brick and tile houses in [Avonhead](/avonhead/) suit a high wall unit, because warm air doesn't get stuck high like it does under a tall villa ceiling. The bungalows in [Beckenham](/beckenham/) have lower ceilings too, so a wall unit heats the lounge well.
-- **Bedrooms down a hall.** In [Aidanfield](/aidanfield/) and [Linwood](/linwood/), the lounge heat stays at the living end once the doors shut. A small wall unit in the main bedroom is the usual fix.
+- **Bedrooms down a hall.** In [Aidanfield](/aidanfield/) and [Linwood](/linwood/), the lounge heat stays at the living end once the doors shut. A small wall unit in the main bedroom is the usual answer.
 - **Townhouses with courtyards.** In [Halswell](/halswell/), the indoor unit goes on an outside wall so the pipes run straight through. The outdoor unit sits on a bracket on the courtyard wall, with its fan pointed away from the bedroom windows next door.
 - **Newer homes on small sections.** In [Sumner](/sumner/), one high wall unit can usually heat an open plan living area. The harder part is fitting the outdoor unit in a narrow side yard with clear air round it.
 
@@ -97,12 +97,12 @@ The unit is only part of the price. The rest comes down to your house.
 - **How the outdoor unit is mounted.** Feet on flat ground are simplest. A wall bracket, a deck or a steep section takes more time and gear.
 - **The switchboard.** If there's no room for a new circuit, the board needs work first.
 
-We cover these and other [installation cost factors](/heat-pump-installation-cost-christchurch/) at the quote. You get one fixed price before we start.
+We cover these and other [installation cost factors](/heat-pump-installation-cost-christchurch/) at the quote.
 
 ## Replacing an old high wall heat pump
 
 Old wall units often went where they were easiest to fit, not where they heat best. So before we swap like for like, we check two things. Is the unit the right size for the room? Is it on the right wall?
 
-If both are fine, we can often reuse the hole in the wall and sometimes the pipe route. A newer unit may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. We take the old indoor and outdoor units away. If your current unit is worth fixing, we'll say so and talk about [heat pump repair](/heat-pump-repair/) instead.
+If both are fine, we can often reuse the hole in the wall and sometimes the pipe route. A newer unit may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. We take the old indoor and outdoor units away. If your current unit is worth repairing, we'll say so and talk about [heat pump repair](/heat-pump-repair/) instead.
 
-To get started, [request a free quote](/contact-us/). We'll check the room and the old unit on site, and give you a fixed price before any work.
+To get started, [request a free quote](/contact-us/). We'll check the room and the old unit on site, and give you a free quote.

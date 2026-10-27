@@ -49,13 +49,13 @@ A smart heat pump earns its keep when the schedule suits the house and the weath
 
 ## What your house needs for a Wi-Fi heat pump
 
-- **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room fixes it.
+- **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room sorts it.
 - **A 2.4 GHz network.** Lots of heat pump adaptors only connect on 2.4 GHz. Most home routers have it. Some put both bands under one name, though, and that can confuse the adaptor during set-up.
 - **A model that takes one.** Not every indoor unit takes an adaptor. This matters most on older units. We check the model before you buy anything.
 
 ## Choosing a smart heat pump on a new install
 
-Getting a new heat pump? Decide on Wi-Fi control before we finalise the quote. Some models have it built in. Others need the adaptor ordered with the unit. Built in is simpler than adding it later. We size the unit from your rooms, insulation and windows, and how you use the house. Then we put the controller you want into the fixed price for your [heat pump installation](/heat-pump-installation-in-christchurch/).
+Getting a new heat pump? Decide on Wi-Fi control before we finalise the quote. Some models have it built in. Others need the adaptor ordered with the unit. Built in is simpler than adding it later. We size the unit from your rooms, insulation and windows, and how you use the house. Then we put the controller you want into the quote for your [heat pump installation](/heat-pump-installation-in-christchurch/).
 
 ## Smart heat pump controllers and zoning
 

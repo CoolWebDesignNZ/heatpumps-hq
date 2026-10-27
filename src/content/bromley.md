@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Bromley"
-description: "Heat pump installation for Bromley homes beside industrial land and busy roads. Filters, outdoor unit placement and servicing explained. Free fixed quote."
+description: "Heat pump installation for Bromley homes beside industrial land and busy roads. Filters, outdoor unit placement and servicing explained. Free quote."
 keyword: heat pump installation bromley
 secondary: [heat pumps bromley, heat pump service bromley, heat pump repair bromley]
 h1: Heat pump installation and repairs in Bromley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bromley
 suburb: Bromley
-intro: "We fit, service and fix heat pumps in Bromley's older family homes, many close to commercial and industrial sites. We agree the price with you first."
+intro: "We fit, service and repair heat pumps in Bromley's older family homes, many close to commercial and industrial sites."
 hero: bromley-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: Questions about heat pumps in Bromley
@@ -51,7 +51,7 @@ Bromley sections are flat. That keeps the outdoor unit simple. We use a level pa
 
 ## Heat pump servicing and repairs in Bromley
 
-We service and fix heat pumps right across Bromley. With the dust here, a yearly service matters more. We clean the filters, indoor coil, fan and drain. We check the outdoor unit and test the heat output. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands sold locally. See [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
+We service and repair heat pumps right across Bromley. With the dust here, a yearly service matters more. We clean the filters, indoor coil, fan and drain. We check the outdoor unit and test the heat output. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands sold locally. See [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
 
 ## Suburbs near Bromley
 

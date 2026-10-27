@@ -4,15 +4,15 @@ description: "Who is behind Heat Pumps HQ? Nate Thompson's Christchurch heat pum
 keyword: heat pumps hq
 secondary: [heat pumps hq christchurch, heat pump company christchurch]
 h1: About Heat Pumps HQ
-intro: "Nate Thompson started Heat Pumps HQ in Christchurch in 2015. We fit, service and fix heat pumps, sizing each system to the house it goes in and agreeing the price before we start."
+intro: "Nate Thompson started Heat Pumps HQ in Christchurch in 2015. We fit, service and repair heat pumps, sizing each system to the house it goes in."
 hero: about-hero
 gallery: []
 bandImages: [about-1, servicing-hero]
 steps:
   - h: Sizing starts with the house
     p: Before we suggest anything, we look at the rooms you want heated, the insulation in the ceiling, walls and floor, the windows and which way they face, and how you use the house. A sunny, well insulated lounge needs a very different unit from a cold back bedroom. <a href="/heat-pump-sizing/">How we size a heat pump</a>.
-  - h: The price is fixed first
-    p: Quotes are free. Once we know what the job involves, you get a fixed price in writing, and that's what you pay for the work quoted. If a repair makes more sense than a new unit, we'll say so.
+  - h: Quotes are free
+    p: Quotes are free. Once we know what the job involves, we'll tell you what we'd do. If a repair makes more sense than a new unit, we'll say so.
   - h: The electrical side is done right
     p: On every install, a licensed electrical worker makes the connection.
 areaPhoto: about-2
@@ -23,9 +23,9 @@ faqs:
   - q: Who owns Heat Pumps HQ?
     a: Nate Thompson. He started the company in Christchurch in 2015, and he still runs it.
   - q: Which brands do you install?
-    a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those, plus Panasonic and most other heat pumps sold in New Zealand. To pick between them for your rooms, read <a href="/best-heat-pump-brands-christchurch/">the best heat pump brands for Christchurch</a>.
+    a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those, plus Panasonic and most other heat pumps sold in New Zealand. To pick between them for your rooms, read <a href="/best-heat-pump-brands-christchurch/">the best heat pump brands for Christchurch</a>.
   - q: Do you charge for a quote?
-    a: No. Quotes are free. The price we quote is fixed before we start.
+    a: No. Quotes are free.
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan, size and fit a new system." }
   - { label: Areas we cover, href: /locations/, text: "Every Christchurch suburb and Selwyn town we work in." }
@@ -40,4 +40,4 @@ A unit that's too big costs more to buy. It doesn't make the room any warmer. It
 
 ## A trained and certified Heat Pumps HQ team
 
-We've been fitting and fixing heat pumps in Christchurch for over 10 years. Our technicians are trained and certified. We keep that training up to date, because heat pumps and the way they're installed keep changing. The person who comes to your house knows the current models and the right way to fit them.
+We've been fitting and repairing heat pumps in Christchurch for over 10 years. Our technicians are trained and certified. We keep that training up to date, because heat pumps and the way they're installed keep changing. The person who comes to your house knows the current models and the right way to fit them.

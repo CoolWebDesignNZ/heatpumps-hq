@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Addington"
-description: "Small Addington cottage or new townhouse on a tight section? See how we place a heat pump close to the boundary without noise trouble. Free fixed-price quote."
+description: "Small Addington cottage or new townhouse on a tight section? See how we place a heat pump close to the boundary without noise trouble. Free quote."
 keyword: heat pump installation addington
 secondary: [heat pumps addington, heat pump service addington, heat pump repair addington]
 h1: Heat pump installation in Addington
@@ -18,7 +18,7 @@ faqs:
   - q: What size heat pump does a two-bedroom Addington cottage need?
     a: The number of bedrooms doesn't decide it. The room sizes do, along with the ceiling and floor insulation and the windows. We measure all of that on site. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
   - q: Do you service heat pumps in Addington rentals?
-    a: Yes. We clean, service and fix heat pumps in rentals for landlords and property managers. All the major brands.
+    a: Yes. We clean, service and repair heat pumps in rentals for landlords and property managers. All the major brands.
   - q: Can the outdoor unit go on the front of the house?
     a: It can. The side or back is usually tidier, though. If the front's the only practical spot, a slatted screen and neat pipe covers help it look right.
 related:
@@ -55,7 +55,7 @@ New Addington townhouses are better sealed. Lots of them suit one unit downstair
 
 ## Heat pump installs, service and repair in Addington
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Addington, sized for small rooms. We do [servicing](/maintenance-servicing/) and cleaning, rentals included. And we find and fix faults on every major brand with our [heat pump repairs](/heat-pump-repair/).
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Addington, sized for small rooms. We do [servicing](/maintenance-servicing/) and cleaning, rentals included. And we find and repair faults on every major brand with our [heat pump repairs](/heat-pump-repair/).
 
 We also cover [Sydenham](/sydenham/), [Riccarton](/heat-pumps-riccarton/), [Spreydon](/spreydon/) and [the Central City](/central-business-district-cbd/).
 

@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Northcote"
-description: "Heating a Northcote flat, unit or older family house? We match the heat pump to small rooms and tight sites, and service all major brands. Fixed price first."
+description: "Heating a Northcote flat, unit or older family house? We match the heat pump to small rooms and tight sites, and service all major brands. Free quote."
 keyword: heat pump installation northcote
 secondary: [heat pumps northcote, heat pump service northcote, heat pump repair northcote]
 h1: Heat pump installation for Northcote homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Northcote
 suburb: Northcote
-intro: We fit, service and fix heat pumps in Northcote, and we size each one for the room it heats, since most homes here are smaller houses, flats and units.
+intro: We fit, service and repair heat pumps in Northcote, and we size each one for the room it heats, since most homes here are smaller houses, flats and units.
 hero: northcote-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Northcote"
@@ -20,7 +20,7 @@ faqs:
   - q: Is a floor console a good option in a small room?
     a: It can be. A console sits low under a window. It suits a room with no good high wall for a split unit. It also suits you if you'd rather feel the warmth down at floor level.
   - q: Do you service heat pumps in rental properties?
-    a: Yes. We service and fix heat pumps for owners and property managers all over Northcote. The owner or manager sorts out access, and we agree the price first.
+    a: Yes. We service and repair heat pumps for owners and property managers all over Northcote. The owner or manager sorts out access.
 related:
   - { label: Papanui, href: /heat-pumps-papanui/, text: "Heat pumps for Papanui homes." }
   - { label: Redwood, href: /redwood/, text: "Installation and servicing in Redwood." }
@@ -43,7 +43,7 @@ In a compact Northcote home, a smaller unit sized right beats the biggest one yo
 
 ## Fitting heat pumps to Northcote units and flats
 
-Flats built in blocks share walls. Often there's only one outside wall. That decides where the indoor unit goes, because the pipes need a short, direct path to the outdoor unit. If the only free wall is under a window, a [floor console](/single-room-heat-pump-installation/) is a tidy fix.
+Flats built in blocks share walls. Often there's only one outside wall. That decides where the indoor unit goes, because the pipes need a short, direct path to the outdoor unit. If the only free wall is under a window, a [floor console](/single-room-heat-pump-installation/) is a tidy answer.
 
 On shared sites, outdoor units go on wall brackets or small pads. We space them from each other and from fences. The District Plan doesn't set a distance from the boundary. It limits the noise a unit makes at the neighbour's place. For the actual numbers, see our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 

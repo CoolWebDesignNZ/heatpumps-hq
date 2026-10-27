@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Clifton"
-description: "Clifton homes sit high, exposed and close to the sea. How we plan brackets, long pipe runs and salt protection for a heat pump there. Fixed price upfront."
+description: "Clifton homes sit high, exposed and close to the sea. How we plan brackets, long pipe runs and salt protection for a heat pump there. Free quote."
 keyword: heat pump installation clifton
 secondary: [heat pumps clifton, heat pump service clifton, heat pump repair clifton]
 h1: Heat pump installation on Clifton hill
 serviceName: Heat pump installation, servicing and repair
 areaServed: Clifton
 suburb: Clifton
-intro: We fit and service heat pumps on Clifton hill between Redcliffs and Sumner, and we plan access, pipe runs and exposure before giving you a fixed price.
+intro: We fit and service heat pumps on Clifton hill between Redcliffs and Sumner, and we plan access, pipe runs and exposure before we quote.
 hero: clifton-hero
 gallery: [pool-hill-home, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Clifton"
@@ -20,7 +20,7 @@ faqs:
   - q: Can an outdoor unit be mounted high on a wall?
     a: Yes, on a galvanised bracket fixed to solid framing. We still need to reach it for servicing. So we avoid spots that would need scaffolding every time.
   - q: Is my heat pump too noisy for the neighbours?
-    a: Sound carries on a hill, so where the unit goes matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the usual causes and fixes.
+    a: Sound carries on a hill, so where the unit goes matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the usual causes and solutions.
 related:
   - { label: Sumner, href: /sumner/, text: "Heat pumps for beach and hill homes below Clifton." }
   - { label: Redcliffs, href: /redcliffs/, text: "Heat pumps along the estuary and hill." }
@@ -43,7 +43,7 @@ Where the pipes cross floors, we look for a path through the garage or a service
 
 ## Brackets and decks on Clifton hill sites
 
-On a hillside, the unit usually mounts on a galvanised wall bracket or a deck. The fixing has to go into solid framing. The unit needs anti-vibration mounts. And it has to stay within reach for servicing. A spot you need scaffolding to get to is a poor choice for the long run.
+On a hillside, the unit usually mounts on a galvanised wall bracket or a deck. The bolts have to go into solid framing. The unit needs anti-vibration mounts. And it has to stay within reach for servicing. A spot you need scaffolding to get to is a poor choice for the long run.
 
 ## Protecting Clifton heat pumps from wind and salt
 
@@ -61,4 +61,4 @@ Sound carries on the hill. So we also keep the unit away from the neighbours' de
 
 We also work in [Sumner](/sumner/), [Redcliffs](/redcliffs/) and [Moncks Bay](/moncks-bay/).
 
-For a fixed-price quote on Clifton, call **[03 242 1023](tel:032421023)** or send a request with the quote form.
+For a free quote on Clifton, call **[03 242 1023](tel:032421023)** or send a request with the quote form.

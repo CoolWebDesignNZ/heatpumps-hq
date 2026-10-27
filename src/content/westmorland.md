@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Westmorland"
-description: "Larger, newer Westmorland home over several levels? Compare ducted, multi-room and zoned heat pump setups for hillside houses. Free fixed-price quote."
+description: "Larger, newer Westmorland home over several levels? Compare ducted, multi-room and zoned heat pump setups for hillside houses. Free quote."
 keyword: heat pump installation westmorland
 secondary: [heat pumps westmorland, heat pump service westmorland, heat pump repair westmorland]
 h1: Heat pump installation for Westmorland's hillside homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Westmorland
 suburb: Westmorland
-intro: We fit heat pumps in Westmorland's newer multi-level homes on the Port Hills, and we set them up so every level warms properly, at a price agreed first.
+intro: We fit heat pumps in Westmorland's newer multi-level homes on the Port Hills, and we set them up so every level warms properly.
 hero: westmorland-hero
 gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Westmorland heat pump questions"

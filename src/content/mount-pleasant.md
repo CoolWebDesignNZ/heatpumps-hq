@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Mount Pleasant"
-description: "Heating a sunny Mount Pleasant hill home? How we handle big windows, decks and steep access, plus servicing and repairs. Quotes are free and fixed."
+description: "Heating a sunny Mount Pleasant hill home? How we handle big windows, decks and steep access, plus servicing and repairs. Quotes are free."
 keyword: heat pump installation mount pleasant
 secondary: [heat pumps mount pleasant, heat pump service mount pleasant, heat pump repair mount pleasant]
 h1: Heat pump installation for Mount Pleasant hill homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Mount Pleasant
 suburb: Mount Pleasant
-intro: We fit, service and fix heat pumps on Mount Pleasant's steep streets and hill sections, and we set the price for each job with you before we start.
+intro: We fit, service and repair heat pumps on Mount Pleasant's steep streets and hill sections, and we plan each job around the access.
 hero: mount-pleasant-hero
 gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Mount Pleasant"
@@ -47,7 +47,7 @@ Flat ground is scarce on Mount Pleasant. The outdoor unit usually ends up on a w
 - **Weight.** The wall or deck framing has to hold the unit securely.
 - **Noise and vibration.** We use anti-vibration mounts. We keep the unit away from your bedroom windows and your neighbour's.
 - **Drainage.** Defrost water has to run off cleanly. It can't drip onto steps or a path.
-- **Access.** Some sites are up long flights of steps. We plan for that at the quote, so the price doesn't change on the day.
+- **Access.** Some sites are up long flights of steps. We plan for that at the quote visit.
 
 Mount Pleasant is in Christchurch City. The District Plan's [boundary noise limits](/heat-pump-boundary-rules-consent-nz/) apply to every outdoor unit.
 

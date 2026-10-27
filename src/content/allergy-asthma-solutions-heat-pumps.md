@@ -66,7 +66,7 @@ Cleaning the filters doesn't reach the coil, the fan wheel or the drain tray. Th
 
 ### A dry house
 
-A heat pump keeps rooms warm. That cuts condensation on cold surfaces. But the damp still has to go somewhere. Fit extractor fans that vent outside in the bathroom, kitchen and laundry. Air the house on fine days. Fix leaks. A heat pump's dry mode can help in some conditions. See [using your heat pump as a dehumidifier](/heat-pump-dehumidification/).
+A heat pump keeps rooms warm. That cuts condensation on cold surfaces. But the damp still has to go somewhere. Fit extractor fans that vent outside in the bathroom, kitchen and laundry. Air the house on fine days. Get leaks repaired. A heat pump's dry mode can help in some conditions. See [using your heat pump as a dehumidifier](/heat-pump-dehumidification/).
 
 ### The right filters for the job
 

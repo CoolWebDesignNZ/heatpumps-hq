@@ -94,6 +94,6 @@ A ducted system has a return air filter in a ceiling grille. The indoor unit sit
 
 ## Heat pump brands we clean
 
-We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other makes you'll find in Kiwi homes. We give you a fixed price before we start. It depends on how many units, what type, and how dirty they are.
+We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other makes you'll find in Kiwi homes. The quote depends on how many units, what type, and how dirty they are.
 
 Call **[03 242 1023](tel:032421023)** to book a heat pump clean, or [ask for a quote](/contact-us/).

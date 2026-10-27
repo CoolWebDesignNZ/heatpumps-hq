@@ -7,7 +7,7 @@ h1: Heat pump installation and service in Mairehau
 serviceName: Heat pump installation, servicing and repair
 areaServed: Mairehau
 suburb: Mairehau
-intro: "We fit, service and fix heat pumps in Mairehau, from compact older homes to newer houses toward Marshland. Short pipe runs keep most jobs simple, and every price is fixed up front."
+intro: "We fit, service and repair heat pumps in Mairehau, from compact older homes to newer houses toward Marshland. Short pipe runs keep most jobs simple."
 hero: mairehau-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Mairehau"
@@ -52,7 +52,7 @@ The newer houses on Mairehau's northern side are better insulated. They're often
 
 ## Heat pump service and repair in Mairehau
 
-After the install, we look after heat pumps right across Mairehau. A [service](/maintenance-servicing/) cleans the filters, coils and drain, then checks how the unit's performing. Our [heat pump repairs](/heat-pump-repair/) fix faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
+After the install, we look after heat pumps right across Mairehau. A [service](/maintenance-servicing/) cleans the filters, coils and drain, then checks how the unit's performing. Our [heat pump repairs](/heat-pump-repair/) cover faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Other areas we cover near Mairehau
 

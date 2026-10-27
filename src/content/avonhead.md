@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Avonhead"
-description: "Heat pump installation for Avonhead's brick homes, sized for long hallways, older ceilings and western frosts. Servicing and repairs too. Free fixed quote."
+description: "Heat pump installation for Avonhead's brick homes, sized for long hallways, older ceilings and western frosts. Servicing and repairs too. Free quote."
 keyword: heat pump installation avonhead
 secondary: [heat pumps avonhead, heat pump service avonhead, heat pump repair avonhead]
 h1: Heat pump installation and servicing in Avonhead
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avonhead
 suburb: Avonhead
-intro: "We fit, service and fix heat pumps in Avonhead, where plenty of homes are brick and tile. We plan where the units go around those layouts and give you a fixed price before we start."
+intro: "We fit, service and repair heat pumps in Avonhead, where plenty of homes are brick and tile. We plan where the units go around those layouts."
 hero: avonhead-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avonhead
@@ -16,7 +16,7 @@ faqs:
   - q: Is ducting possible in an older Avonhead brick house?
     a: Often, if the roof space is high enough for the ducts and an indoor unit. We check the ceiling space when we quote. Ducting suits a house with bedrooms down a long hall, because every room can get a vent. Read <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split</a>.
   - q: Should I replace my old heat pump or keep repairing it?
-    a: It comes down to the fault and the unit's age. A dead fan motor or sensor is usually worth fixing. A dead compressor on an old unit usually isn't. We'll tell you which before any work goes ahead.
+    a: It comes down to the fault and the unit's age. A dead fan motor or sensor is usually worth repairing. A dead compressor on an old unit usually isn't. We'll tell you which before any work goes ahead.
   - q: Where can the outdoor unit go against a brick wall?
     a: On a wall bracket fixed into the brick. Or on raised feet on a pad. Either way, keep it clear of the neighbour's bedroom windows. Both options keep it off frosty ground.
 related:
@@ -31,7 +31,7 @@ Avonhead grew out toward the airport. Its streets are full of single storey bric
 
 - **Standard ceilings:** these suit a high wall unit. Warm air doesn't get stuck up high like it does under a tall villa ceiling. A unit sized right heats the lounge and kitchen evenly.
 - **Single glazing:** the windows were single glazed when the houses were built. They lose heat fast on a winter night. Still got the originals? Then the lounge needs more capacity than its floor area suggests.
-- **Old ceiling insulation:** it's thin by today's standards, unless it's been topped up. Topping it up is often the cheaper fix. A smaller unit can then do the same job.
+- **Old ceiling insulation:** it's thin by today's standards, unless it's been topped up. Topping it up is often the cheaper option. A smaller unit can then do the same job.
 
 Brick veneer looks solid. But the brick isn't what keeps the heat in. The ceiling and the windows do most of that. So they're what we check first when we quote.
 

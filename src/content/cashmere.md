@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Cashmere"
-description: "Heating a Cashmere hillside home with big windows and several levels? How we handle brackets, steep access and multi-level layouts. Free fixed-price quote."
+description: "Heating a Cashmere hillside home with big windows and several levels? How we handle brackets, steep access and multi-level layouts. Free quote."
 keyword: heat pump installation cashmere
 secondary: [heat pumps cashmere, heat pump service cashmere, heat pump repair cashmere]
 h1: Heat pump installation on the Cashmere hills and flat
 serviceName: Heat pump installation, servicing and repair
 areaServed: Cashmere
 suburb: Cashmere
-intro: We fit heat pumps across Cashmere, on the flat by the Heathcote River and up the Port Hills, and we plan each install around the slope and layout before fixing the price.
+intro: We fit heat pumps across Cashmere, on the flat by the Heathcote River and up the Port Hills, and we plan each install around the slope and layout before we quote.
 hero: cashmere-hero
 gallery: [pool-hill-home, pool-ducted-vent]
 faqHeading: "Cashmere heat pump questions"

@@ -1,6 +1,6 @@
 ---
 title: "Air Conditioning Christchurch, Installed"
-description: "Rooms too hot in summer? How a reverse cycle air conditioner cools, where it should go and how it's sized for sunny rooms. Free fixed-price install quote."
+description: "Rooms too hot in summer? How a reverse cycle air conditioner cools, where it should go and how it's sized for sunny rooms. Free install quote."
 keyword: air conditioning christchurch
 secondary: [air conditioning installation, aircon christchurch, air con installation]
 h1: Air conditioning for Christchurch homes, sized and installed

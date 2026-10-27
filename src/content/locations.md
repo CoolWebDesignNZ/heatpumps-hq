@@ -1,6 +1,6 @@
 ---
 title: "Heat Pumps Christchurch Suburbs and Selwyn"
-description: "Looking for heat pumps near you? Find your Christchurch suburb or Selwyn town for local installation, servicing and repairs, with a free fixed-price quote."
+description: "Looking for heat pumps near you? Find your Christchurch suburb or Selwyn town for local installation, servicing and repairs, with a free quote."
 keyword: heat pumps christchurch suburbs
 secondary: [heat pumps near me, heat pumps selwyn, heat pumps canterbury]
 h1: Heat pumps for every Christchurch suburb, Selwyn and Lyttelton
@@ -20,7 +20,7 @@ faqs:
   - q: Do you work in Selwyn as well as Christchurch?
     a: Yes. We install and service heat pumps in Rolleston, Lincoln, Prebbleton and Tai Tapu. Selwyn has its own district plan, and that's the one whose <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules</a> apply to your outdoor unit.
   - q: Is the quote still free outside the city?
-    a: Yes. Quotes are free in every area we cover, and the price is fixed before any work starts.
+    a: Yes. Quotes are free in every area we cover.
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we size and fit a new system." }
   - { label: Heat pump servicing, href: /maintenance-servicing/, text: "Yearly cleans and checks for any brand." }
@@ -33,7 +33,7 @@ We work right across Christchurch, out to Lyttelton and the Selwyn towns.
 
 What suits your home depends a lot on where you live. Older villas lose heat through the floor. Hill homes often need the outdoor unit on a bracket. Close to the beach, the unit needs a spot out of the salt wind.
 
-Wherever you are, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, fix and service all the main brands, and give you a fixed price before we start.
+Wherever you are, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, repair and service all the main brands, and give you a free quote.
 
 ## Heat pumps in the Central City and inner suburbs
 

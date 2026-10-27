@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Dallington"
-description: "Planning a heat pump for a repaired or rebuilt Dallington home? See what affects sizing and placement in the river loop, then get a free fixed-price quote."
+description: "Planning a heat pump for a repaired or rebuilt Dallington home? See what affects sizing and placement in the river loop, then get a free quote."
 keyword: heat pump installation dallington
 secondary: [heat pumps dallington, heat pump service dallington, heat pump repair dallington]
 h1: Heat pump installation and repairs in Dallington
 serviceName: Heat pump installation, servicing and repair
 areaServed: Dallington
 suburb: Dallington
-intro: We install, service and repair heat pumps in Dallington, including homes repaired or rebuilt after the earthquakes. Every job gets a fixed price before we start.
+intro: We install, service and repair heat pumps in Dallington, including homes repaired or rebuilt after the earthquakes. Quotes are free.
 hero: dallington-hero
 gallery: [pool-brick-bungalow, pool-weatherboard]
 faqHeading: "Dallington heat pump questions"
@@ -16,9 +16,9 @@ faqs:
   - q: My Dallington house had earthquake repairs. Does that change the heat pump install?
     a: It can. Repairs often mean new linings, relevelled floors or a new foundation. Some leave gaps in the insulation. We look at what was done before we size the unit. We check again before we drill for the pipes.
   - q: Can a heat pump go on the side of a relevelled or repiled house?
-    a: Yes. We fix the outdoor unit to a bracket on solid framing, or put it on its own pad. That way, if the ground moves later, it won't pull on the pipework.
+    a: Yes. We mount the outdoor unit on a bracket on solid framing, or put it on its own pad. That way, if the ground moves later, it won't pull on the pipework.
   - q: Do you service older heat pumps in Dallington that came with the house?
-    a: Yes. We service and fix most brands sold in New Zealand, whatever their age. If a unit isn't worth fixing any more, we'll tell you straight.
+    a: Yes. We service and repair most brands sold in New Zealand, whatever their age. If a unit isn't worth repairing any more, we'll tell you straight.
 related:
   - { label: Avondale, href: /avondale/, text: "Heat pumps for Avondale homes." }
   - { label: Burwood, href: /burwood/, text: "Installation and servicing in Burwood." }
@@ -48,11 +48,11 @@ From that we work out the capacity. We also work out where the indoor unit shoul
 
 Dallington sits inside a loop of the Avon River. After the earthquakes, a lot of the land nearest the river became residential red zone. So some streets now have fewer homes. The ground near the river moved, and some houses have been relevelled since.
 
-We fix outdoor units to solid framing or put them on a separate pad. We leave a little slack in the pipe run. Then small movements won't strain the joints. Wherever the unit goes, it needs clear air around it and somewhere for defrost water to drain.
+We mount outdoor units on solid framing or put them on a separate pad. We leave a little slack in the pipe run. Then small movements won't strain the joints. Wherever the unit goes, it needs clear air around it and somewhere for defrost water to drain.
 
 ## River-side damp in Dallington
 
-Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild, damp days. It won't replace good ventilation or fixing a leak.
+Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild, damp days. It won't replace good ventilation or repairing a leak.
 
 ## Heat pump repair and servicing in Dallington
 

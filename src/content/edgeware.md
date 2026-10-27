@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Edgeware"
-description: "Older Edgeware cottage or villa that never holds its heat? Where a heat pump should go, what to fix first and how infill units differ. Free fixed-price quote."
+description: "Older Edgeware cottage or villa that never holds its heat? Where a heat pump should go, what to sort first and how infill units differ. Free quotes."
 keyword: heat pump installation edgeware
 secondary: [heat pumps edgeware, heat pump service edgeware, heat pump repair edgeware]
 h1: Heat pump installation for Edgeware homes
@@ -40,7 +40,7 @@ To heat an Edgeware villa or cottage well, you have to deal with the high stud a
 
 - **Aim the air down.** Place the indoor unit to push air down and across the room. Not at a ceiling rose or into a hallway.
 - **Think about a floor console.** Under a window in a high-stud lounge, it puts warm air where you sit. It suits walls that are mostly windows and doors.
-- **Fix the obvious draughts.** Weather strips on doors and sashes are cheap. Running a bigger unit isn't.
+- **Seal the obvious draughts.** Weather strips on doors and sashes are cheap. Running a bigger unit isn't.
 - **Heat the rooms you use.** A small unit in the main bedroom often does more good than an oversized lounge unit trying to push heat down the hall.
 
 In an old cottage, the pipes can usually run under the floor. That keeps them off the front of the house.

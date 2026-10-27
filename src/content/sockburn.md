@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Sockburn"
-description: "Cold older house or a unit in Sockburn? Heat pump installs, servicing and repairs sized to the rooms you actually use. All brands repaired, price fixed first."
+description: "Cold older house or a unit in Sockburn? Heat pump installs, servicing and repairs sized to the rooms you actually use. All brands repaired, free quote."
 keyword: heat pump installation sockburn
 secondary: [heat pumps sockburn, heat pump service sockburn, heat pump repair sockburn]
 h1: Heat pump installation, service and repair in Sockburn
 serviceName: Heat pump installation, servicing and repair
 areaServed: Sockburn
 suburb: Sockburn
-intro: We install, service and repair heat pumps in Sockburn's older weatherboard and brick houses and in newer units on split sections, all at a fixed price.
+intro: We install, service and repair heat pumps in Sockburn's older weatherboard and brick houses and in newer units on split sections.
 hero: sockburn-hero
 gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in Sockburn"
@@ -50,7 +50,7 @@ Narrow Sockburn sections leave little room for the outdoor unit. Back sections o
 
 ## Repair or replace an older heat pump in Sockburn
 
-Before you pay for a new heat pump, we find out what's actually failed in the old one. A unit that's run for many winters can lose output for a few reasons. The fan can wear. The drain can block. Refrigerant can leak out slowly. Plenty of those are worth a [heat pump repair](/heat-pump-repair/) instead of a new unit. If replacing it makes more sense, we'll tell you. Then we'll quote it at a fixed price.
+Before you pay for a new heat pump, we find out what's actually failed in the old one. A unit that's run for many winters can lose output for a few reasons. The fan can wear. The drain can block. Refrigerant can leak out slowly. Plenty of those are worth a [heat pump repair](/heat-pump-repair/) instead of a new unit. If replacing it makes more sense, we'll tell you. Then we'll quote it.
 
 ## What we do in Sockburn
 
@@ -60,4 +60,4 @@ Before you pay for a new heat pump, we find out what's actually failed in the ol
 
 We also work in [Hornby](/heat-pumps-hornby/), [Upper Riccarton](/upper-riccarton/), [Wigram](/wigram/) and [Riccarton](/heat-pumps-riccarton/).
 
-Ring **[03 242 1023](tel:032421023)** or use the form to get a free fixed-price quote for your Sockburn home.
+Ring **[03 242 1023](tel:032421023)** or use the form to get a free quote for your Sockburn home.

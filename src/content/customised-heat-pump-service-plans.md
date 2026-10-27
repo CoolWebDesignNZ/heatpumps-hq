@@ -1,18 +1,18 @@
 ---
 title: "Heat Pump Service Plan for Your Home"
-description: "Need a heat pump service plan for several units or a rental? We set a schedule around your systems and how they're used, and agree each visit's price upfront."
+description: "Need a heat pump service plan for several units or a rental? We set a schedule around your systems and how they're used, and quote for each visit."
 keyword: heat pump service plan
 secondary: [heat pump maintenance plan, annual heat pump service, heat pump maintenance contract]
 h1: A heat pump service plan set around your home
 serviceName: Heat pump service plans
-intro: "We set up service plans for Christchurch homes and rentals around the heat pumps you have. Before the first visit, we agree when each service falls and what it costs."
+intro: "We set up service plans for Christchurch homes and rentals around the heat pumps you have. Before the first visit, we agree when each service falls."
 hero: plans-hero
 gallery: [plans-multi-unit, plans-rental]
 faqHeading: "Heat pump service plan questions"
 relatedHeading: "More on heat pump maintenance"
 faqs:
   - q: How does a heat pump service plan work?
-    a: We look at each heat pump you've got. How much it runs. What it lives with. Then we agree a schedule of visits and a fixed price for each one. Every visit follows the same checklist. You get a note of what we found.
+    a: We look at each heat pump you've got. How much it runs. What it lives with. Then we agree a schedule of visits and quote for each one. Every visit follows the same checklist. You get a note of what we found.
   - q: Is an annual heat pump service enough?
     a: For one unit with normal use, once a year is usually right. Some need more visits. Units that run most of the day. Homes with pets, or someone with allergies. Homes by the coast. Dusty rural spots.
   - q: Do I have to sign a maintenance contract?
@@ -60,7 +60,7 @@ Where your heat pumps live in Christchurch shapes the plan.
 
 ## What a heat pump maintenance contract costs
 
-We agree a fixed price per visit before the first one. It's set by the same things as any service: how many units, what type of system, how easy each one is to get at, and what shape it's in. If we find a part that needs replacing, we price it separately. Nothing gets done without your OK.
+The quote for each visit is set by the same things as any service: how many units, what type of system, how easy each one is to get at, and what shape it's in. If we find a part that needs replacing, we price it separately. Nothing gets done without your OK.
 
 ## What each planned visit includes
 

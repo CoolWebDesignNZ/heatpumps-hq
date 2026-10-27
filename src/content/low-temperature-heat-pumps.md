@@ -4,7 +4,7 @@ description: "How low can a heat pump go? A low temperature heat pump guide: min
 keyword: low temperature heat pump
 secondary: [heat pump minimum temperature, heat pump below zero, heat pump not working in cold weather]
 h1: How a low temperature heat pump copes below zero
-intro: "We fix heat pumps that struggle on frosty Christchurch mornings. Here's what's normal below zero, what isn't, and what you can check yourself before you call us."
+intro: "We repair heat pumps that struggle on frosty Christchurch mornings. Here's what's normal below zero, what isn't, and what you can check yourself before you call us."
 hero: lowtemp-hero
 updated: 2026-10-17
 gallery: [lowtemp-ice, lowtemp-isolator]
@@ -90,4 +90,4 @@ In a cold snap, keep the unit ticking over. Put the heat only where you need it.
 - **Leave the fan on auto.** Then it can push more air when it needs to put out more heat.
 - **Shut doors to rooms you aren't heating.** The heat stays where you want it.
 
-Does your heat pump fall short every winter? Call **[03 242 1023](tel:032421023)**. We'll check it on site and tell you what will fix it.
+Does your heat pump fall short every winter? Call **[03 242 1023](tel:032421023)**. We'll check it on site and tell you what will sort it.

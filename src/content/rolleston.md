@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Rolleston"
-description: "Heat pump installation, servicing and repairs in Rolleston. Mitsubishi, Daikin, Fujitsu and Toshiba systems sized for Selwyn frosts. Free fixed-price quotes."
+description: "Heat pump installation, servicing and repairs in Rolleston. Mitsubishi, Daikin, Fujitsu and Toshiba systems sized for Selwyn frosts. Free quotes."
 keyword: heat pump installation rolleston
 secondary: [heat pumps rolleston, heat pump service rolleston, heat pump repair rolleston]
 h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston
 suburb: Rolleston
-intro: "We fit, service and fix heat pumps all over Rolleston, in the new subdivisions and the older homes, and we size each one for Selwyn frosts."
+intro: "We fit, service and repair heat pumps all over Rolleston, in the new subdivisions and the older homes, and we size each one for Selwyn frosts."
 hero: rolleston-hero
 gallery: [rolleston-newbuild, rolleston-living]
 faqHeading: Questions about heat pumps in Rolleston
@@ -44,7 +44,7 @@ Clear winter nights on the plains bring hard frosts. That's when a heat pump wor
 
 - **New installs:** wall-mounted, floor console, multi-room and [ducted systems](/ducted-heat-pumps-christchurch/). Brands: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **[Servicing](/maintenance-servicing/):** filter and coil cleans, drain checks and a full performance check.
-- **[Repairs](/heat-pump-repair/):** fault finding and fixes on all the major brands.
+- **[Repairs](/heat-pump-repair/):** fault finding and repairs on all the major brands.
 - **New build advice:** building? Talk to us before the ceiling goes on. Planning ducts or pipe runs early is far easier than adding them later.
 
 ## Mitsubishi heat pumps in Rolleston

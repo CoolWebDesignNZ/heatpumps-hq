@@ -4,7 +4,7 @@ description: "Got heat pump problems? A symptom by symptom troubleshooting guide
 keyword: heat pump problems
 secondary: [heat pump not heating, common heat pump problems, heat pump troubleshooting guide]
 h1: Heat pump problems you can check yourself
-intro: "We fix heat pumps of every major brand, and plenty of faults turn out to be a setting or a dirty filter. Here are the safe checks to run for your symptom first."
+intro: "We repair heat pumps of every major brand, and plenty of faults turn out to be a setting or a dirty filter. Here are the safe checks to run for your symptom first."
 hero: diyguide-hero
 updated: 2026-10-17
 gallery: [diyguide-remote, diyguide-outdoor]
@@ -20,7 +20,7 @@ faqs:
   - q: When should I stop troubleshooting and call someone?
     a: Stop if you get a burning smell, smoke, sparks or buzzing from the electrics. The same goes for water leaking inside, ice that won't clear, or a fault that comes back after a reset. Turn it off at the isolating switch and ring us.
 related:
-  - { label: Heat pump fault finding, href: /heat-pump-troubleshooting/, text: "How we test each part when the simple checks don't fix it." }
+  - { label: Heat pump fault finding, href: /heat-pump-troubleshooting/, text: "How we test each part when the simple checks don't sort it." }
   - { label: Heat pump repairs, href: /heat-pump-repair/, text: "Repair visits on all the major brands." }
   - { label: Heat pump noise, href: /heat-pump-noise-problems-solutions/, text: "What each noise means and how to quieten it." }
 ---
@@ -85,7 +85,7 @@ A burning or electrical smell is a different matter. Turn it off at the isolatin
 
 ### Noisy
 
-Rattles, buzzing and grinding usually come from loose panels, vibration or worn fan bearings. Every sound has its own cause and fix. We go through them in [heat pump noise problems and solutions](/heat-pump-noise-problems-solutions/).
+Rattles, buzzing and grinding usually come from loose panels, vibration or worn fan bearings. Every sound has its own cause and repair. We go through them in [heat pump noise problems and solutions](/heat-pump-noise-problems-solutions/).
 
 ### Room never gets to temperature
 
@@ -115,4 +115,4 @@ Turn the heat pump off at the isolating switch and book a visit if you have any 
 - an error code that comes back after a reset
 - a unit that runs but won't heat or cool after the checks above
 
-We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other brands sold in New Zealand. Call **[03 242 1023](tel:032421023)** or [book a repair](/contact-us/).
+We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also repair most other brands sold in New Zealand. Call **[03 242 1023](tel:032421023)** or [book a repair](/contact-us/).

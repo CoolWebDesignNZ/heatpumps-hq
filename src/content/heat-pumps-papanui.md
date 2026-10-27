@@ -1,20 +1,20 @@
 ---
 title: "Heat Pump Installation Papanui"
-description: "Heating a Papanui villa, bungalow or new infill unit? We size heat pumps for older and newer homes alike, and service and repair them. Free fixed-price quote."
+description: "Heating a Papanui villa, bungalow or new infill unit? We size heat pumps for older and newer homes alike, and service and repair them. Free quote."
 keyword: heat pump installation papanui
 secondary: [heat pumps papanui, heat pump service papanui, heat pump repair papanui]
 h1: Heat pump installation in Papanui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Papanui
 suburb: Papanui
-intro: "We fit, service and fix heat pumps right across Papanui, in its villas, bungalows and newer townhouses. We size each one for how fast that house loses heat, at a fixed price."
+intro: "We fit, service and repair heat pumps right across Papanui, in its villas, bungalows and newer townhouses. We size each one for how fast that house loses heat."
 hero: heat-pumps-papanui-hero
 gallery: [pool-weatherboard, pool-townhouse]
 faqHeading: "Questions about heat pumps in Papanui"
 relatedHeading: "More on heat pumps near Papanui"
 faqs:
   - q: Can a heat pump work in an older Papanui villa?
-    a: Yes, as long as it's sized for the room. High ceilings and timber floors mean more air to heat and more heat lost. So a villa lounge usually needs more capacity than a modern room the same size. Fix the draughts and add insulation first, and a smaller unit can do the job.
+    a: Yes, as long as it's sized for the room. High ceilings and timber floors mean more air to heat and more heat lost. So a villa lounge usually needs more capacity than a modern room the same size. Seal the draughts and add insulation first, and a smaller unit can do the job.
   - q: Where does the outdoor unit go on a small infill section?
     a: Usually on a wall bracket or a pad down the side of the house. Keep it away from the neighbour's bedroom windows. The rules are about noise at the neighbour's place. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers them.
   - q: Do you repair heat pumps you didn't install?
@@ -48,7 +48,7 @@ Infill sections leave little room down the sides of the house. The outdoor unit 
 
 ## Heat pump service and repairs in Papanui
 
-Once your heat pump's in, a yearly service keeps it running well. That's a filter and coil clean, a drain check and a performance check (see [maintenance and servicing](/maintenance-servicing/)). Our [heat pump repairs](/heat-pump-repair/) cover fault finding on all the major brands, older units included. When an old unit's not worth fixing any more, we'll quote a like-for-like swap, or one sized better.
+Once your heat pump's in, a yearly service keeps it running well. That's a filter and coil clean, a drain check and a performance check (see [maintenance and servicing](/maintenance-servicing/)). Our [heat pump repairs](/heat-pump-repair/) cover fault finding on all the major brands, older units included. When an old unit's not worth repairing any more, we'll quote a like-for-like swap, or one sized better.
 
 ## Suburbs close to Papanui
 

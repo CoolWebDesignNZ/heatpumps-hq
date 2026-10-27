@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Lincoln"
-description: "Heating a Lincoln home or lifestyle block through hard Selwyn frosts? How we size, place and service heat pumps there. Free quote with a fixed price upfront."
+description: "Heating a Lincoln home or lifestyle block through hard Selwyn frosts? How we size, place and service heat pumps there. Free quote."
 keyword: heat pump installation lincoln
 secondary: [heat pumps lincoln, heat pump service lincoln, heat pump repair lincoln]
 h1: Heat pump installation in Lincoln, town and country
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lincoln
 suburb: Lincoln
-intro: We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it, and we agree the price with you before we start.
+intro: We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it.
 hero: lincoln-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Lincoln"
@@ -65,4 +65,4 @@ We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems. That's anything
 
 We also work in [Rolleston](/rolleston/), [Prebbleton](/prebbleton/), [Tai Tapu](/tai-tapu/) and [Halswell](/halswell/).
 
-For a fixed-price quote in Lincoln, call **[03 242 1023](tel:032421023)** or tell us about your home on the quote form.
+For a free quote in Lincoln, call **[03 242 1023](tel:032421023)** or tell us about your home on the quote form.

@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Redcliffs"
-description: "Salt air off the estuary wears outdoor units. How we install, service and repair heat pumps in Redcliffs, on the flat and the hill. Price fixed upfront."
+description: "Salt air off the estuary wears outdoor units. How we install, service and repair heat pumps in Redcliffs, on the flat and the hill. Free quote."
 keyword: heat pump installation redcliffs
 secondary: [heat pumps redcliffs, heat pump service redcliffs, heat pump repair redcliffs]
 h1: Heat pump installation and servicing in Redcliffs
@@ -20,7 +20,7 @@ faqs:
   - q: How often should a coastal heat pump be serviced?
     a: At least once a year. Near the sea, we also check the outdoor coil and casing for corrosion at every <a href="/heat-pump-cleaning/">clean</a>.
   - q: Do you repair older units in Redcliffs?
-    a: Yes. We find and fix faults on all the major brands. Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts.
+    a: Yes. We find and repair faults on all the major brands. Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts.
 related:
   - { label: Moncks Bay, href: /moncks-bay/, text: "Heat pumps for homes along the bay." }
   - { label: Sumner, href: /sumner/, text: "Installs and servicing near the beach." }
@@ -63,4 +63,4 @@ New installs in Redcliffs are Mitsubishi Electric, Daikin, Fujitsu or Toshiba. O
 
 We also work in [Moncks Bay](/moncks-bay/), [Sumner](/sumner/), [Clifton](/clifton/) and [Mount Pleasant](/mount-pleasant/).
 
-For a free, fixed-price quote in Redcliffs, phone **[03 242 1023](tel:032421023)** or use the quote form.
+For a free quote in Redcliffs, phone **[03 242 1023](tel:032421023)** or use the quote form.

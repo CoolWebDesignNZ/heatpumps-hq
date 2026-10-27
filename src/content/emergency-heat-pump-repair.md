@@ -82,8 +82,8 @@ Some local conditions change what you should do first.
 
 ## What happens at a heat pump repair in Christchurch
 
-We find the cause first. We don't swap parts on a guess. That's how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, you get a fixed price before we start. If a [replacement part](/heat-pump-parts-replacement/) has to be ordered in, we'll tell you how to use the unit safely until it arrives. Or we'll tell you to leave it off.
+We find the cause first. We don't swap parts on a guess. That's how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, we tell you what the repair involves. If a [replacement part](/heat-pump-parts-replacement/) has to be ordered in, we'll tell you how to use the unit safely until it arrives. Or we'll tell you to leave it off.
 
-We fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other heat pumps sold in New Zealand. Our area is Christchurch, Selwyn and Lyttelton.
+We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also repair most other heat pumps sold in New Zealand. Our area is Christchurch, Selwyn and Lyttelton.
 
 Heat pump failed? Make it safe and call **[03 242 1023](tel:032421023)** as early in the working day as you can.

@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Aidanfield"
-description: "Got a cold bedroom wing or a tired first heat pump in Aidanfield? How we add units, retrofit ducting and service what's there. Free quote, fixed price."
+description: "Got a cold bedroom wing or a tired first heat pump in Aidanfield? How we add units, retrofit ducting and service what's there. Free quote."
 keyword: heat pump installation aidanfield
 secondary: [heat pumps aidanfield, heat pump service aidanfield, heat pump repair aidanfield]
 h1: Heat pump installation for Aidanfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aidanfield
 suburb: Aidanfield
-intro: "We fit, service and fix heat pumps in Aidanfield, adding to the system you've got or starting fresh. The quote is free and the price is fixed."
+intro: "We fit, service and repair heat pumps in Aidanfield, adding to the system you've got or starting fresh. The quote is free."
 hero: aidanfield-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Aidanfield
@@ -59,7 +59,7 @@ Some subdivisions have land covenants on the title. They can cover what goes on 
 
 New and replacement systems in Aidanfield are Mitsubishi Electric, Daikin, Fujitsu or Toshiba. A licensed electrical worker connects each one.
 
-Already got a heat pump on the wall? We can service or fix it. It can be one of those four, a Panasonic or most other common brands.
+Already got a heat pump on the wall? We can service or repair it. It can be one of those four, a Panasonic or most other common brands.
 
 ## Around Aidanfield
 

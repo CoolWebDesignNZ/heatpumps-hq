@@ -1,11 +1,11 @@
 ---
 title: "Floor Mounted Heat Pumps Christchurch"
-description: "Got a tall stud, big windows or no wall space up high? Who a floor console suits, where it sits and how it compares to a wall unit. Free fixed-price quote."
+description: "Got a tall stud, big windows or no wall space up high? Who a floor console suits, where it sits and how it compares to a wall unit. Free quotes."
 keyword: floor mounted heat pump
 secondary: [floor console heat pump, floor standing heat pump, heat pump floor unit]
 h1: Floor mounted heat pumps in Christchurch
 serviceName: Floor mounted heat pump installation
-intro: "We install floor mounted heat pumps across Christchurch, often under a window or in a room with a high stud. We put the console where warm air reaches you, and give you a fixed price before we start."
+intro: "We install floor mounted heat pumps across Christchurch, often under a window or in a room with a high stud. We put the console where warm air reaches you."
 hero: floor-hero
 gallery: [floor-1, floor-2]
 stepsHeading: How we choose and fit a floor console
@@ -19,7 +19,7 @@ steps:
   - h: Place the outdoor unit
     p: On raised feet, a pad or a bracket, clear of frost and away from your bedrooms and the neighbour's.
   - h: Fit and test
-    p: We fix the console to the wall, connect the pipes and drain, pressure test, then run it in heating and cooling.
+    p: We mount the console on the wall, connect the pipes and drain, pressure test, then run it in heating and cooling.
   - h: Show you the settings
     p: Which outlets to use for heating and cooling, which fan speed suits the room, and how to take the filters out.
 brands: true
@@ -39,7 +39,7 @@ faqs:
   - q: Can you put a floor console where my old fireplace was?
     a: Often. It can sit on the hearth or beside the chimney breast, with the pipes through the outside wall or under the floor. The chimney needs sealing so warm air doesn't go up it.
   - q: Can you replace my old floor console?
-    a: Yes. We check the size against the room first, then whether the new console can use the old pipe route through the floor or wall. We take the old units away and quote the whole job as one fixed price.
+    a: Yes. We check the size against the room first, then whether the new console can use the old pipe route through the floor or wall. We take the old units away and quote the whole job together.
 related:
   - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Wall, floor, ceiling and ducted units compared." }
   - { label: High wall heat pumps, href: /high-wall-heat-pumps/, text: "The usual choice for bedrooms and open plan rooms." }
@@ -97,12 +97,12 @@ The console is only part of the price. The rest comes down to the room and what'
 - **Where the outdoor unit goes.** The further away it is, the more pipe and cover. A bracket or a sloping site adds time.
 - **The switchboard.** If there's no room for a new circuit, the board needs work first.
 
-We look at each of these, and the other [installation cost factors](/heat-pump-installation-cost-christchurch/), when we visit. You get one fixed price before we start.
+We look at each of these, and the other [installation cost factors](/heat-pump-installation-cost-christchurch/), when we visit, and they're all in the quote.
 
 ## Replacing an old floor standing heat pump
 
 An older console that's failing can usually be swapped in the same spot. That spot is often right, since there's only so much clear wall under a window. We still check the size against the room. An old villa that's since had insulation or double glazing added may need a smaller unit than before.
 
-We look at whether the new console can use the old pipe route through the floor or wall. A newer model may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. If the old unit is worth fixing, we'll say so and point you to [heat pump repair](/heat-pump-repair/).
+We look at whether the new console can use the old pipe route through the floor or wall. A newer model may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. If the old unit is worth repairing, we'll say so and point you to [heat pump repair](/heat-pump-repair/).
 
-To get started, [request a free quote](/contact-us/). We'll look at the room and the old unit, and give you a fixed price before any work.
+To get started, [request a free quote](/contact-us/). We'll look at the room and the old unit, and give you a free quote.

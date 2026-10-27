@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Tai Tapu"
-description: "Moving a Tai Tapu farmhouse or lifestyle block off the log burner? How we plan whole-house heat pumps for rural homes. Free quote, fixed before we begin."
+description: "Moving a Tai Tapu farmhouse or lifestyle block off the log burner? How we plan whole-house heat pumps for rural homes. Free quote."
 keyword: heat pump installation tai tapu
 secondary: [heat pumps tai tapu, heat pump service tai tapu, heat pump repair tai tapu]
 h1: Heat pump installation for Tai Tapu homes and lifestyle blocks
 serviceName: Heat pump installation, servicing and repair
 areaServed: Tai Tapu
 suburb: Tai Tapu
-intro: "We fit, service and fix heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. We'll come out and give you a free, fixed-price quote."
+intro: "We fit, service and repair heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. We'll come out and give you a free quote."
 hero: tai-tapu-hero
 gallery: [pool-lifestyle, pool-console-unit]
 faqHeading: Questions about heat pumps in Tai Tapu

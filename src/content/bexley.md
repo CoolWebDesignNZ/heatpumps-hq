@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Bexley"
-description: "Installing a heat pump in Bexley near the estuary? Find out how settled ground, damp air and rebuilt homes affect the job, then get a free fixed-price quote."
+description: "Installing a heat pump in Bexley near the estuary? Find out how settled ground, damp air and rebuilt homes affect the job, then get a free quote."
 keyword: heat pump installation bexley
 secondary: [heat pumps bexley, heat pump service bexley, heat pump repair bexley]
 h1: Heat pump installation and servicing in Bexley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bexley
 suburb: Bexley
-intro: "We fit, service and fix heat pumps in Bexley, on the low ground by the estuary, where many homes have been rebuilt or repaired. You get a fixed price first."
+intro: "We fit, service and repair heat pumps in Bexley, on the low ground by the estuary, where many homes have been rebuilt or repaired."
 hero: bexley-hero
 gallery: [pool-newbuild-living, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bexley
@@ -44,7 +44,7 @@ In a repaired older home, we put the indoor unit on the short wall, blowing down
 
 ## Low ground and the outdoor unit in Bexley
 
-Low sections by the estuary can hold water in winter. An outdoor unit sitting in a puddle won't drain properly. Neither will one on a pad that's sunk. Both rust faster. We fit units on a wall bracket or a raised, level base. That keeps them dry and lets the defrost water run off. If the ground has moved before, we fix the bracket to the house framing. Then the soil doesn't matter.
+Low sections by the estuary can hold water in winter. An outdoor unit sitting in a puddle won't drain properly. Neither will one on a pad that's sunk. Both rust faster. We fit units on a wall bracket or a raised, level base. That keeps them dry and lets the defrost water run off. If the ground has moved before, we bolt the bracket to the house framing. Then the soil doesn't matter.
 
 ## Frost and damp air in Bexley
 
@@ -54,10 +54,10 @@ There's a bit of salt in the estuary air too. Give the outdoor coil a rinse now 
 
 ## Heat pump service and repairs in Bexley
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic in Bexley. We do most other brands sold here as well. Read about [servicing](/maintenance-servicing/). Or if something's gone wrong, see [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic in Bexley. We do most other brands sold here as well. Read about [servicing](/maintenance-servicing/). Or if something's gone wrong, see [repairs](/heat-pump-repair/).
 
 ## Suburbs near Bexley
 
 We also work in [Aranui](/aranui/), [Wainoni](/wainoni/), [Avondale](/avondale/), [South New Brighton](/south-new-brighton/) and [New Brighton](/new-brighton/).
 
-Call **[03 242 1023](tel:032421023)** or ask for a fixed-price quote for your Bexley home.
+Call **[03 242 1023](tel:032421023)** or ask for a free quote for your Bexley home.

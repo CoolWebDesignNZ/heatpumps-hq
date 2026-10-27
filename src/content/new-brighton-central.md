@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation New Brighton Central"
-description: "Heat pumps for flats, units and houses around the New Brighton town centre. Where outdoor units fit on tight sites and shared walls. Free fixed-price quote."
+description: "Heat pumps for flats, units and houses around the New Brighton town centre. Where outdoor units fit on tight sites and shared walls. Free quote."
 keyword: heat pump installation new brighton central
 secondary: [heat pumps new brighton central, heat pump service new brighton central, heat pump repair new brighton central]
 h1: Heat pump installation in New Brighton Central for homes and units
 serviceName: Heat pump installation, servicing and repair
 areaServed: New Brighton Central
 suburb: New Brighton Central
-intro: We install heat pumps around the New Brighton town centre in houses, flats and blocks of units, and we agree a fixed price for each job first.
+intro: We install heat pumps around the New Brighton town centre in houses, flats and blocks of units, and we plan each one around the site.
 hero: new-brighton-central-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "New Brighton Central heat pump questions"
@@ -56,10 +56,10 @@ Do you rent out a house or flat near the town centre? Under the Healthy Homes he
 
 ## Salt and heat pump service in New Brighton Central
 
-The town centre is only a short way from the beach. So salt still reaches the outdoor unit. Rinse it every few months and book a [service](/maintenance-servicing/) once a year. That keeps it running well. We service and fix all the major brands, Panasonic included.
+The town centre is only a short way from the beach. So salt still reaches the outdoor unit. Rinse it every few months and book a [service](/maintenance-servicing/) once a year. That keeps it running well. We service and repair all the major brands, Panasonic included.
 
 ## Suburbs near New Brighton Central
 
 We also cover [New Brighton](/new-brighton/), [North New Brighton](/north-new-brighton/), [South New Brighton](/south-new-brighton/) and [Wainoni](/wainoni/).
 
-To get a fixed-price quote in New Brighton Central, call **[03 242 1023](tel:032421023)** or use the form.
+To get a free quote in New Brighton Central, call **[03 242 1023](tel:032421023)** or use the form.

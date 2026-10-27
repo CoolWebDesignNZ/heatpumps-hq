@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation North New Brighton"
-description: "Living near the dunes in North New Brighton? Learn how wind and salt affect a heat pump outdoor unit and where to put it. Free fixed-price quote, all brands."
+description: "Living near the dunes in North New Brighton? Learn how wind and salt affect a heat pump outdoor unit and where to put it. Free quote, all brands."
 keyword: heat pump installation north new brighton
 secondary: [heat pumps north new brighton, heat pump service north new brighton, heat pump repair north new brighton]
 h1: Heat pump installation in North New Brighton, close to the beach
 serviceName: Heat pump installation, servicing and repair
 areaServed: North New Brighton
 suburb: North New Brighton
-intro: We install and fix heat pumps in North New Brighton, where homes near the dunes take the full sea wind, so we site and secure outdoor units to suit.
+intro: We install and repair heat pumps in North New Brighton, where homes near the dunes take the full sea wind, so we site and secure outdoor units to suit.
 hero: north-new-brighton-hero
 gallery: [pool-coastal-home, pool-frost-outdoor]
 faqHeading: "North New Brighton heat pump questions"

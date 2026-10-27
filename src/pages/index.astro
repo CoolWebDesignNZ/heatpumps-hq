@@ -24,7 +24,7 @@ const services = [
     links: [['Dehumidifying', '/heat-pump-dehumidification/'], ['Energy efficient heat pumps', '/energy-efficient/'], ['Energy ratings', '/energy-star-heat-pumps/'], ['Brands compared', '/heat-pump-brands-comparison/']] },
   { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', p: 'We clean and check your heat pump once a year, so it runs cheaper and quieter and smells fresh.',
     links: [['Maintenance', '/maintenance-servicing/'], ['Seasonal tune-ups', '/heat-pump-seasonal-tune-ups/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
-  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth fixing.',
+  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth repairing.',
     links: [['Urgent repairs', '/emergency-heat-pump-repair/'], ['Troubleshooting', '/heat-pump-troubleshooting/'], ['Leak detection', '/leak-detection-repair/'], ['Parts replacement', '/heat-pump-parts-replacement/']] },
   { img: 'cleaning-hero', h: 'Heat pump cleaning', href: '/heat-pump-cleaning/', p: 'We deep clean behind the filters, taking the dust and mould off the coil and fan so the air comes out clean.',
     links: [['Deodorising', '/heat-pump-deodorising/'], ['Air quality checks', '/air-quality-testing/'], ['Allergies and asthma', '/allergy-asthma-solutions-heat-pumps/'], ['Heat pump covers', '/covers/']] },
@@ -39,12 +39,12 @@ const guides = [
   { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How to work out the kW a room needs, so you don\'t pay for a unit that\'s too big.' },
   { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What makes up the price of an install, so you can compare quotes properly.' },
   { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How Mitsubishi Electric, Daikin, Fujitsu and Toshiba compare for Christchurch homes.' },
-  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, and the fixes that quieten it.' },
+  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, and the repairs that quieten it.' },
   { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which suits your house and budget, and what each one needs to fit.' },
 ];
 
 const faqs = [
-  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those and Panasonic. We do most other brands sold in New Zealand too.' },
+  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic. We do most other brands sold in New Zealand too.' },
   { q: 'What areas do you cover?', a: 'All of Christchurch, and Lyttelton. Plus Selwyn towns like Rolleston, Lincoln and Prebbleton. See the <a href="/locations/">full list of locations</a>.' },
   { q: 'Do I need consent for a heat pump?', a: 'Usually not. Christchurch doesn\'t set a distance from the boundary. The District Plan controls the noise at the neighbour\'s property instead. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.' },
   { q: 'How often should a heat pump be serviced?', a: 'Once a year for most homes. Before winter is best. In between, clean the filters yourself every few weeks while it\'s working hard.' },
@@ -53,17 +53,17 @@ const faqs = [
 ---
 <Base
   title="Heat Pumps Christchurch, Install & Repair"
-  description="Heat pump installation, servicing and repairs in Christchurch. Mitsubishi, Daikin, Fujitsu and Toshiba, sized to your home with a fixed price upfront."
+  description="Heat pump installation, servicing and repairs in Christchurch. Mitsubishi, Daikin, Fujitsu and Toshiba, sized to your home, with a free quote before any work."
   image="home-hero"
   schema={[{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) }]}>
 
   <Hero image="home-hero" h1="Heat pump installation, service and repairs in Christchurch"
-        intro={`We fit, service and fix heat pumps across Christchurch, Selwyn and Lyttelton. Every unit is sized for your home, and you get a fixed price before we start. Locally owned since ${site.founded}.`} />
+        intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Every unit is sized for your home, and the quote is free. Locally owned since ${site.founded}.`} />
 
   <section class="section">
     <div class="wrap">
       <h2>Heat pump installation, servicing and repairs</h2>
-      <p class="lead">From one bedroom unit to a ducted system for the whole house. We fit it, service it and fix it, anywhere in Christchurch.</p>
+      <p class="lead">From one bedroom unit to a ducted system for the whole house. We fit it, service it and repair it, anywhere in Christchurch.</p>
       <div class="grid three svc">
         {services.map((s) => (
           <article class="card">
@@ -84,10 +84,10 @@ const faqs = [
     <div class="wrap brand-split">
       <div>
         <h2>Why Christchurch homes choose Heat Pumps HQ</h2>
-        <p>Heat Pumps HQ is a Christchurch company, started here by Nate Thompson in {site.founded}. We've been fitting, servicing and fixing heat pumps in local homes for over 10 years.</p>
+        <p>Heat Pumps HQ is a Christchurch company, started here by Nate Thompson in {site.founded}. We've been fitting, servicing and repairing heat pumps in local homes for over 10 years.</p>
         <ul class="brand-list">
           <li><strong>Sized to your house.</strong> We recommend the unit your rooms need, not the biggest one we can sell.</li>
-          <li><strong>A fixed price first.</strong> Quotes are free, and the price is agreed in writing before we start.</li>
+          <li><strong>A free quote first.</strong> You get a quote before any work starts, and it costs nothing.</li>
           <li><strong>Trained and certified technicians.</strong> A licensed electrical worker makes the connection on every install.</li>
           <li><strong>Fully insured.</strong> Every install comes with warranties on parts and labour.</li>
           <li><strong>The brands that suit Canterbury.</strong> We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service those and Panasonic.</li>
@@ -102,7 +102,7 @@ const faqs = [
     <div class="wrap">
       <div class="prose">
         <h2>Heat pumps sized for your home, not the biggest unit</h2>
-        <p>We size every heat pump from your house. We look at the rooms, the insulation and the windows. And we ask how you really live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair, not a new one. Either way, you'll get a straight answer and a fixed price up front.</p>
+        <p>We size every heat pump from your house. We look at the rooms, the insulation and the windows. And we ask how you really live in it. Sometimes that means a smaller unit than you expected. Sometimes it means a repair, not a new one. Either way, you'll get a straight answer and a free quote.</p>
         <p>That's why Nate Thompson started Heat Pumps HQ in {site.founded}. He'd spent years at a bigger heating company. He saw too many people sold systems bigger and dearer than their homes needed.</p>
         <p class="more"><a href="/about-us/">Read Nate's story</a></p>
       </div>

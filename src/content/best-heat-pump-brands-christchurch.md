@@ -92,7 +92,7 @@ Pick controls to suit whoever runs the heat pump each day. Wi-Fi control and tim
 A heat pump should last many years. Find out what local support you'll get once it's in:
 
 - **Parts:** are they easy to get in Christchurch for that brand?
-- **Service:** who services and fixes it?
+- **Service:** who services and repairs it?
 - **Warranty:** how is it handled, and who do you call?
 - **Install rules:** does the installer know what the brand requires?
 
@@ -106,6 +106,6 @@ A badly fitted heat pump will let you down, whatever the brand. Many poor perfor
 
 We pick your heat pump on a site visit, with no favourite brand. First we size the room. We look at its measurements, insulation and windows, and how you use it. Then we work out where the outdoor unit can go.
 
-After that, we compare suitable models from all four brands. We weigh their cold-weather output, efficiency and noise. You get our advice and a fixed price before any work starts. The quote is free.
+After that, we compare suitable models from all four brands. We weigh their cold-weather output, efficiency and noise. You get our advice in a free quote.
 
 Phone **[03 242 1023](tel:032421023)** or [request a quote](/contact-us/). To see what each brand sells, read our [heat pump brands comparison](/heat-pump-brands-comparison/).

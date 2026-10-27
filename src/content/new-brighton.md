@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation New Brighton"
-description: "Heat pumps for New Brighton's older cottages and weatherboard homes, placed and protected for sea air. All brands serviced, with a free fixed-price quote."
+description: "Heat pumps for New Brighton's older cottages and weatherboard homes, placed and protected for sea air. All brands serviced and repaired, with a free quote."
 keyword: heat pump installation new brighton
 secondary: [heat pumps new brighton, heat pump service new brighton, heat pump repair new brighton]
 h1: Heat pump installation and servicing in New Brighton
@@ -30,9 +30,9 @@ related:
 In New Brighton, two things set most of the plan. The layout of an older house, and the salt in the air.
 
 - **Timber cottages and old baches.** Many became full-time homes and got added to over the years. So the floor plan is a string of rooms, not one open space. A unit in the front lounge rarely pushes heat down a narrow hallway to the back rooms. A closed-off kitchen or sunroom is better heated by a second small unit or a [multi-room system](/multi-room-heat-pump-installation/). One big unit turned up high won't do it as well.
-- **Weatherboard houses from the middle of last century.** They lose a lot of heat through the walls and windows. Some of that is worth fixing before we size the unit.
+- **Weatherboard houses from the middle of last century.** They lose a lot of heat through the walls and windows. Some of that is worth sorting before we size the unit.
 
-## Fix the heat loss in New Brighton homes first
+## Cut the heat loss in New Brighton homes first
 
 Older New Brighton homes often have single glazing and little or no wall insulation. A heat pump can still warm them. But a lot of the heat leaves as fast as it's made. Haven't insulated the ceiling or underfloor yet? It's worth doing before you pick a size, because the house will then need a smaller unit. We size from the rooms, windows and insulation you've got now. If a change would alter what we'd suggest, we'll tell you.
 
@@ -50,7 +50,7 @@ New Brighton is built on sand. A pad laid straight onto loose sand can tilt over
 
 ## Heat pump service and repairs in New Brighton
 
-We service and fix any make. That's Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold in New Zealand. Near the coast, rust on the outdoor casing, a coil that looks white or crusty, or heating that's dropped off all mean it's time to book a [heat pump repair](/heat-pump-repair/) visit.
+We service and repair any make. That's Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold in New Zealand. Near the coast, rust on the outdoor casing, a coil that looks white or crusty, or heating that's dropped off all mean it's time to book a [heat pump repair](/heat-pump-repair/) visit.
 
 ## Suburbs near New Brighton
 

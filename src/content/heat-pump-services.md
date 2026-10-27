@@ -4,7 +4,7 @@ description: "Need a service, repair or new install? Every service we offer in o
 keyword: heat pump services
 secondary: [heat pump service, heat pump specialists christchurch, heat pump services christchurch]
 h1: Heat pump services in Christchurch
-intro: "We fit, service, fix and upgrade heat pumps in homes across Christchurch, Selwyn and Lyttelton. Pick the job you need below and we'll quote a fixed price."
+intro: "We fit, service, repair and upgrade heat pumps in homes across Christchurch, Selwyn and Lyttelton. Pick the job you need below for a free quote."
 hero: services-hero
 gallery: []
 linkCards: true
@@ -15,8 +15,8 @@ faqs:
     a: Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For servicing and repairs we add Panasonic and most other brands sold here.
   - q: What are your hours?
     a: Monday to Friday, 8am to 5pm. Call <a href="tel:032421023">03 242 1023</a> or send the quote form.
-  - q: Do you give a price before starting?
-    a: Yes. Quotes are free. We give you a fixed price and agree it with you before we start.
+  - q: Are your quotes free?
+    a: Yes. Quotes are free, and we look at the house or the unit before we quote.
 related:
   - { label: Installs, href: /single-multi-room/, text: "Single room multi room and ducted systems compared." }
   - { label: Locations, href: /locations/, text: "The suburbs and towns we cover." }
@@ -25,7 +25,7 @@ related:
 
 ## How our heat pump services work
 
-Every job starts the same way. We find out what you need the heat pump to do. We look at the house or the unit. Then you get a fixed price before we start. We fit four brands. We service and fix those plus Panasonic and most others sold here. So one call covers a new system, a yearly service or a fault.
+Every job starts the same way. We find out what you need the heat pump to do. We look at the house or the unit. Then you get a free quote. We fit four brands. We service and repair those plus Panasonic and most others sold here. So one call covers a new system, a yearly service or a fault.
 
 ## New heat pump installations
 
@@ -56,19 +56,19 @@ Keep the unit you've got clean and running. That's the yearly service, a deep cl
 
 ## Repairs and fault finding on all brands
 
-We find and fix faults on all major brands. That's anything from a unit that's stopped to a refrigerant leak.
+We find and repair faults on all major brands. That's anything from a unit that's stopped to a refrigerant leak.
 
-- [Heat pump repair](/heat-pump-repair/): Not heating, leaking water, showing an error code or making a noise. We find the fault and price the fix.
+- [Heat pump repair](/heat-pump-repair/): Not heating, leaking water, showing an error code or making a noise. We find the fault and price the repair.
 - [Emergency heat pump repair](/emergency-heat-pump-repair/): Stopped, pouring water or smelling of burning. Make it safe, then call us early in the day.
 - [Heat pump troubleshooting](/heat-pump-troubleshooting/): We test the system step by step until we know what's failed, then quote the repair.
-- [Leak detection and repair](/leak-detection-repair/): We find the refrigerant leak, fix it and regas the system.
+- [Leak detection and repair](/leak-detection-repair/): We find the refrigerant leak, repair it and regas the system.
 - [Parts replacement](/heat-pump-parts-replacement/): Fan motors, sensors, circuit boards and remotes replaced on all major brands.
 - [Thermostat calibration](/heat-pump-thermostat-calibration/): The room is colder than the setting. We check the sensor and correct it.
 - [Remote monitoring and diagnostics](/remote-monitoring-and-diagnostics/): See faults and how hard the system is working from your phone.
 
 ## Heat pump service by brand
 
-We service and fix each of these. That includes Panasonic, which we don't fit.
+We service and repair each of these. That includes Panasonic, which we don't fit.
 
 - [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/): Mitsubishi Electric wall, floor and ducted units serviced and repaired.
 - [Daikin heat pump service](/daikin-heat-pump-service-christchurch/): Daikin wall, floor and ducted systems serviced and repaired.
@@ -86,4 +86,4 @@ How much warmth do you get for the power you use? And how's the air in the rooms
 
 ## Book a heat pump service or quote
 
-Call **[03 242 1023](tel:032421023)**, Monday to Friday, or use the quote form. Quotes are free, and you'll know the price before a single tool comes out.
+Call **[03 242 1023](tel:032421023)**, Monday to Friday, or use the quote form. Quotes are free.

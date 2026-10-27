@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Cracroft"
-description: "Steep Cracroft section, house below the road or no flat ground? How we get a heat pump in, mount it and drain it on the hill. Free fixed-price quote."
+description: "Steep Cracroft section, house below the road or no flat ground? How we get a heat pump in, mount it and drain it on the hill. Free quote."
 keyword: heat pump installation cracroft
 secondary: [heat pumps cracroft, heat pump service cracroft, heat pump repair cracroft]
 h1: Heat pump installation on Cracroft's steep sections
 serviceName: Heat pump installation, servicing and repair
 areaServed: Cracroft
 suburb: Cracroft
-intro: We install heat pumps on Cracroft's steep Port Hills sections, and we plan each one around the long driveways, drainage and exposure before we agree a fixed price.
+intro: We install heat pumps on Cracroft's steep Port Hills sections, and we plan each one around the long driveways, drainage and exposure before we quote.
 hero: cracroft-hero
 gallery: [pool-hill-home, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Cracroft"
@@ -61,4 +61,4 @@ In a split-level house, the living area and bedrooms are often on different floo
 
 We also cover [Cashmere](/cashmere/), [Westmorland](/westmorland/), [Hoon Hay](/hoon-hay/), and [Kennedys Bush](/kennedys-bush/) further along the hills.
 
-For a free fixed-price quote on your Cracroft home, call **[03 242 1023](tel:032421023)** or use the form.
+For a free quote on your Cracroft home, call **[03 242 1023](tel:032421023)** or use the form.

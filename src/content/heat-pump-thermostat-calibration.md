@@ -67,7 +67,7 @@ Sometimes the reading's right but the room still never warms up. Then the heat p
 4. **Check where the controller is.** On ducted systems and units with a wired controller, we look at where it's mounted. We check whether it's set to read the room or the return air.
 5. **Check the output.** Filters, coils and refrigerant readings. That tells us whether the unit can heat the space at all.
 
-You get a straight answer on which one is causing the problem. And you get a fixed price for anything that needs fixing.
+You get a straight answer on which one is causing the problem. And you get a quote for anything that needs repairing.
 
 ## Getting the heat pump thermostat setting right
 

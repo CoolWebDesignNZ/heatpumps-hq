@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Not Working? Fault Finding"
-description: "Heat pump blowing cold air, flashing a light or not turning on? See how we test each part to find the real fault, then give you a fixed price to fix it."
+description: "Heat pump blowing cold air, flashing a light or not turning on? See how we test each part to find the real fault, then quote to repair it."
 keyword: heat pump not working
 secondary: [heat pump blowing cold air, heat pump flashing light, heat pump error codes]
 h1: Heat pump not working? We find the fault
@@ -83,6 +83,6 @@ It's running and blowing warm air, but the room never gets comfy? The heat pump 
 
 ## After the diagnosis
 
-Once we've found the fault, you get a fixed price to fix it before we start. On an older unit, a [heat pump repair](/heat-pump-repair/) isn't always worth it. If so, we'll say so and tell you why.
+Once we've found the fault, we quote for the repair. On an older unit, a [heat pump repair](/heat-pump-repair/) isn't always worth it. If so, we'll say so and tell you why.
 
 We find faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps. Most other brands sold in New Zealand too. To book anywhere in Christchurch, Selwyn or Lyttelton, call **[03 242 1023](tel:032421023)**.

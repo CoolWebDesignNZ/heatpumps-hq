@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Bottle Lake"
-description: "Heat pumps for homes on the edge of Bottle Lake Forest: pine needles, sand, salt and longer pipe runs, handled properly. Free quote with a fixed price agreed."
+description: "Heat pumps for homes on the edge of Bottle Lake Forest: pine needles, sand, salt and longer pipe runs, handled properly. Free quote."
 keyword: heat pump installation bottle lake
 secondary: [heat pumps bottle lake, heat pump service bottle lake, heat pump repair bottle lake]
 h1: Heat pump installation and servicing in Bottle Lake
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bottle Lake
 suburb: Bottle Lake
-intro: "We fit, service and fix heat pumps for homes in and around Bottle Lake, between the pines and the coast. Your quote sets a fixed price."
+intro: "We fit, service and repair heat pumps for homes in and around Bottle Lake, between the pines and the coast."
 hero: bottle-lake-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bottle Lake
@@ -57,10 +57,10 @@ We size the unit from your rooms, glass, insulation and how you use the house. W
 
 ## Servicing and repairs in Bottle Lake
 
-We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Most other makes sold in New Zealand are fine too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Most other makes sold in New Zealand are fine too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs near Bottle Lake
 
 We also work in [Parklands](/parklands/), [North New Brighton](/north-new-brighton/), [Queenspark](/queenspark/) and [Brooklands](/brooklands/).
 
-For a fixed-price quote in Bottle Lake, call **[03 242 1023](tel:032421023)** or send the form.
+For a free quote in Bottle Lake, call **[03 242 1023](tel:032421023)** or send the form.

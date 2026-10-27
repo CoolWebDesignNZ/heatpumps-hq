@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Oaklands"
-description: "Want warm bedrooms as well as a warm lounge in your Oaklands home? Heat pump installs, servicing and repairs for brick family houses. Free fixed-price quote."
+description: "Want warm bedrooms as well as a warm lounge in your Oaklands home? Heat pump installs, servicing and repairs for brick family houses. Free quote."
 keyword: heat pump installation oaklands
 secondary: [heat pumps oaklands, heat pump service oaklands, heat pump repair oaklands]
 h1: Heat pump installation and servicing in Oaklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Oaklands
 suburb: Oaklands
-intro: "We fit, service and fix heat pumps in Oaklands, where most homes are brick family houses from the 1960s to the 1980s. We size each one to suit how those houses are laid out."
+intro: "We fit, service and repair heat pumps in Oaklands, where most homes are brick family houses from the 1960s to the 1980s. We size each one to suit how those houses are laid out."
 hero: oaklands-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Oaklands
@@ -31,7 +31,7 @@ In most Oaklands homes, the lounge is already warm. The bedrooms aren't. Oakland
 
 Lots of them have one heat pump in the front lounge, and that's the only heater. The kitchen and dining are at the back. The bedrooms run along a hall. The lounge heat never gets to the far end. Cold bedrooms gather condensation, and mould grows on the window frames.
 
-The fix is heat in the bedrooms themselves. What kind depends on how much insulation is in the ceiling, how many bedrooms you want warm and whether the lounge unit is worth keeping.
+The answer is heat in the bedrooms themselves. What kind depends on how much insulation is in the ceiling, how many bedrooms you want warm and whether the lounge unit is worth keeping.
 
 Many homes here sit on cul-de-sac sections with established gardens. We keep the outdoor units clear of the planting, so air moves freely round them.
 

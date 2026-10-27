@@ -34,7 +34,7 @@ Start with why you want a cover, because each reason points to a different type.
 - **To protect it while it's switched off** for a long stretch, say at a bach. Go with a fitted storage cover.
 - **To tidy the indoor side.** Go with an indoor unit cover or pipe trunking.
 
-A running outdoor unit doesn't need covering against normal rain or frost. It's built to live outside. People cover one for looks, or to keep sun and falling debris off it. [Heat pump covers](/covers/) explains why airflow matters, and what a cover can't fix.
+A running outdoor unit doesn't need covering against normal rain or frost. It's built to live outside. People cover one for looks, or to keep sun and falling debris off it. [Heat pump covers](/covers/) explains why airflow matters, and what a cover can't solve.
 
 ## Heat pump covers for Christchurch sections
 
@@ -57,7 +57,7 @@ A box with louvred sides and front that sits over the outdoor unit. It's usually
 
 ### Slatted timber screens
 
-A screen in front of or around the unit. It can stand on its own or fix to a wall. It's often built to match a fence or deck.
+A screen in front of or around the unit. It can stand on its own or attach to a wall. It's often built to match a fence or deck.
 
 - **Good for:** blending in with timber decks and fences. It's easy to size to the space.
 - **Watch for:** slats too close together. Also, a screen so close to the fan that air bounces straight back into the coil.
@@ -69,7 +69,7 @@ A flat or sloped lid held above the unit, open on all sides.
 
 - **Good for:** keeping off hot afternoon sun, drips from a roof with no spouting, or sliding snow. They're open on all sides, so they hardly touch the airflow.
 - **Watch for:** a lid set too low over the unit. Also, fixings into the unit's own casing.
-- **Check:** the shelter is fixed to the wall or its own frame, not screwed into the heat pump.
+- **Check:** the shelter is attached to the wall or its own frame, not screwed into the heat pump.
 
 ### Storage or off-season covers
 

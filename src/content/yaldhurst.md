@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Yaldhurst"
-description: "Heat pumps for Yaldhurst lifestyle blocks and larger homes, planned for plains frosts and nor'west wind. Installs, servicing and repairs at a fixed price."
+description: "Heat pumps for Yaldhurst lifestyle blocks and larger homes, planned for plains frosts and nor'west wind. Installs, servicing and repairs, with a free quote."
 keyword: heat pump installation yaldhurst
 secondary: [heat pumps yaldhurst, heat pump service yaldhurst, heat pump repair yaldhurst]
 h1: Heat pump installation and servicing in Yaldhurst
 serviceName: Heat pump installation, servicing and repair
 areaServed: Yaldhurst
 suburb: Yaldhurst
-intro: We install, service and fix heat pumps on Yaldhurst's lifestyle blocks and bigger homes on the plains west of the city, with the price agreed before we start.
+intro: We install, service and repair heat pumps on Yaldhurst's lifestyle blocks and bigger homes on the plains west of the city.
 hero: yaldhurst-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Yaldhurst"

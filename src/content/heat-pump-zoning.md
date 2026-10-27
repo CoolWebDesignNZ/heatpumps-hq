@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Zoning for Ducted Systems"
-description: "Heating rooms nobody uses? How heat pump zoning works on ducted systems, the parts involved and when to add it. Fixed-price quote for new or existing ducts."
+description: "Heating rooms nobody uses? How heat pump zoning works on ducted systems, the parts involved and when to add it. Free quote for new or existing ducts."
 keyword: heat pump zoning
 secondary: [ducted heat pump zoning, multi zone heat pump, zone control heat pump]
 h1: Heat pump zoning to control each part of the house
@@ -78,7 +78,7 @@ Got a ducted heat pump that heats the whole house? Zone control can often be add
 - **The ducts:** what shape are they in? Leaking or crushed ducts undo the benefit.
 - **Placement:** where can the controller and any zone sensors go?
 
-If the system is old or the ducts are in bad shape, we may suggest a new system with zoning built in. We'll give you both options, each with a fixed price.
+If the system is old or the ducts are in bad shape, we may suggest a new system with zoning built in. We'll give you both options, each with its own quote.
 
 ## Multi zone heating with other heat pump types
 

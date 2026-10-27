@@ -1,20 +1,20 @@
 ---
 title: "Heat Pump Repairs Christchurch"
-description: "Heat pump not heating, leaking or showing an error code? We repair all major brands across Christchurch and tell you upfront if it's worth fixing."
+description: "Heat pump not heating, leaking or showing an error code? We repair all major brands across Christchurch and tell you upfront if it's worth repairing."
 keyword: heat pump repairs christchurch
-secondary: [heat pump repair, heat pump repairs, fix heat pump]
+secondary: [heat pump repair, heat pump repairs]
 h1: Heat pump repairs in Christchurch
 serviceName: Heat pump repair
-intro: "We repair all the major heat pump brands across Christchurch, whether yours is blowing cold, dripping or flashing a light. We find the fault and tell you straight if it's worth fixing."
+intro: "We repair all the major heat pump brands across Christchurch, whether yours is blowing cold, dripping or flashing a light. We find the fault and tell you straight if it's worth repairing."
 hero: repair-hero
 gallery: [repair-outdoor, repair-drain]
 faqHeading: Heat pump repair questions
-relatedHeading: More on fixing a heat pump
+relatedHeading: More on repairing a heat pump
 faqs:
   - q: Is it worth repairing an old heat pump?
     a: Often, yes. A lot of faults are a sensor, a fan motor, a blocked drain or a control board. Those cost far less than a new unit. If the compressor has gone on an older unit, replacing it usually makes more sense. We'll tell you which it is before we start.
   - q: Which brands do you repair?
-    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other split and ducted systems sold in New Zealand.
+    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also repair most other split and ducted systems sold in New Zealand.
   - q: Why is my outdoor unit steaming in winter?
     a: It's usually defrosting. On frosty Canterbury mornings the outdoor coil ices up. The unit then runs backwards for a few minutes to melt it, and the indoor fan stops while that happens. Steam that stops after a few minutes is normal. Ice that builds up and stays isn't.
   - q: Can I reset the heat pump myself?
@@ -40,27 +40,27 @@ Most repair calls we get in Christchurch are one of these:
 
 Christchurch wears heat pumps differently from suburb to suburb. Tell us where the unit sits when you ring.
 
-- **Salt by the sea.** In [Sumner](/sumner/) and [Redcliffs](/redcliffs/), salt air reaches the outdoor unit. It clogs the coil fins and can corrode the casing. We check both, and tell you straight whether the unit is worth fixing.
+- **Salt by the sea.** In [Sumner](/sumner/) and [Redcliffs](/redcliffs/), salt air reaches the outdoor unit. It clogs the coil fins and can corrode the casing. We check both, and tell you straight whether the unit is worth repairing.
 - **Frost and nor'west wind.** In [Avonhead](/avonhead/), frost on still nights and nor'west wind in spring both work the outdoor unit hard. Ice that keeps building means the defrost needs a check. Keep the unit off the ground and out of the full force of the wind.
-- **Dust in older units.** In [Wainoni](/wainoni/), older heat pumps often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. A clean may fix what looks like a fault.
+- **Dust in older units.** In [Wainoni](/wainoni/), older heat pumps often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. A clean may cure what looks like a fault.
 - **Rental heat pumps.** In [Aranui](/aranui/), a rental heat pump gets used hard and gets little care between tenants. The filters clog, the drain blocks and the output drops. A [service](/heat-pump-servicing/) between tenancies heads off most repairs.
 
 ## How a heat pump repair visit works
 
 1. **You ring and tell us the fault.** Got an error code or a flash pattern? Pass it on. It often means we bring the right part.
 2. **We find the cause on site.** We check the power supply, gas pressures, sensors and controls until we track it down.
-3. **You get a clear price before we start.** If the repair costs more than the unit is worth, we'll tell you.
-4. **We test the fix.** We run it on heat and on cool before we leave. Then we show you what we did.
+3. **We quote for the repair.** If it costs more than the unit is worth, we'll tell you.
+4. **We test the repair.** We run it on heat and on cool before we leave. Then we show you what we did.
 
 ## Heat pump brands we repair
 
-We fix the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
+We repair the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
 
 ## Repair or replace your heat pump?
 
 Repair usually wins when the unit is under ten years old. It also wins when the fault is a part like a sensor, fan motor, drain or board.
 
-Replacing starts to make sense in three cases. The compressor has failed. The unit runs on an old gas that's hard to get. Or it needs fixing every year. When it's a close call, we'll price both. Then you decide.
+Replacing starts to make sense in three cases. The compressor has failed. The unit runs on an old gas that's hard to get. Or it needs repairing every year. When it's a close call, we'll price both. Then you decide.
 
 ## Quick checks before you call us
 

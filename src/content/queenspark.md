@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Queenspark"
-description: "Need a heat pump in Queenspark? See what suits its family homes, from the right size for an open lounge to heating the bedrooms too. Free fixed-price quote."
+description: "Need a heat pump in Queenspark? See what suits its family homes, from the right size for an open lounge to heating the bedrooms too. Free quote."
 keyword: heat pump installation queenspark
 secondary: [heat pumps queenspark, heat pump service queenspark, heat pump repair queenspark]
 h1: Heat pump installation and repairs in Queenspark
 serviceName: Heat pump installation, servicing and repair
 areaServed: Queenspark
 suburb: Queenspark
-intro: We fit and repair heat pumps across Queenspark's family homes on quiet, flat streets. Tell us which rooms you want warm and we'll give you a fixed price.
+intro: We fit and repair heat pumps across Queenspark's family homes on quiet, flat streets. Tell us which rooms you want warm and we'll give you a free quote.
 hero: queenspark-hero
 gallery: [pool-console-unit, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Queenspark"
@@ -62,4 +62,4 @@ Is your heat pump blowing cold? Cycling on and off? Leaking water inside? We'll 
 
 We also cover [Parklands](/parklands/), [Burwood](/burwood/) and [North New Brighton](/north-new-brighton/).
 
-For a fixed-price quote in Queenspark, call **[03 242 1023](tel:032421023)** or send the form.
+For a free quote in Queenspark, call **[03 242 1023](tel:032421023)** or send the form.

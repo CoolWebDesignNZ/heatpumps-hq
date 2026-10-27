@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Heathcote Valley"
-description: "Heating a Heathcote Valley home on the flat or up the slopes? See how we place, size and service heat pumps in the valley, with a fixed price agreed first."
+description: "Heating a Heathcote Valley home on the flat or up the slopes? See how we place, size and service heat pumps in the valley, with a free quote."
 keyword: heat pump installation heathcote valley
 secondary: [heat pumps heathcote valley, heat pump service heathcote valley, heat pump repair heathcote valley]
 h1: Heat pump installation in Heathcote Valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Heathcote Valley
 suburb: Heathcote Valley
-intro: We install and service heat pumps in Heathcote Valley, from the valley floor to homes high on the slopes, and we agree the price with you before work begins.
+intro: We install and service heat pumps in Heathcote Valley, from the valley floor to homes high on the slopes.
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"
@@ -20,7 +20,7 @@ faqs:
   - q: Which council's rules apply in Heathcote Valley?
     a: Christchurch City Council's, through its District Plan. The plan handles heat pumps by limiting the <a href="/heat-pump-boundary-rules-consent-nz/">sound reaching next door</a>.
   - q: Do you service heat pumps you didn't install?
-    a: Yes. Whoever fitted it, we can service or fix a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit. The same goes for most other makes in the valley.
+    a: Yes. Whoever fitted it, we can service or repair a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit. The same goes for most other makes in the valley.
 related:
   - { label: Ferrymead, href: /ferrymead/, text: "Heat pumps for townhouses and homes by the estuary." }
   - { label: Lyttelton, href: /lyttelton/, text: "Installs in older cottages on steep harbour sections." }
@@ -44,13 +44,13 @@ The hills block the low winter sun. Through June and July, one side of the valle
 
 ## Heat pump installation on a sloping Heathcote Valley section
 
-On a hillside, the tricky bit is often the route between the two units. The refrigerant pipes, the cable and the drain line all have to get from the indoor unit to the outdoor one. On a split-level house, that can mean going under a floor, through a garage or along a retaining wall. The drain line also needs a steady fall to a drain or the garden. We plan the route at the quote visit. That way the fixed price covers the whole job.
+On a hillside, the tricky bit is often the route between the two units. The refrigerant pipes, the cable and the drain line all have to get from the indoor unit to the outdoor one. On a split-level house, that can mean going under a floor, through a garage or along a retaining wall. The drain line also needs a steady fall to a drain or the garden. We plan the route at the quote visit. That way the quote covers the whole job.
 
 ## What we do in Heathcote Valley
 
 - **New systems.** Single-room, [multi-room](/multi-room-heat-pump-installation/) and ducted, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **Servicing.** A yearly [clean and check](/heat-pump-servicing/) keeps a hard-working valley unit efficient.
-- **Repairs.** Blowing cold, leaking or showing a fault light? We find the fault and [fix it](/heat-pump-repair/).
+- **Repairs.** Blowing cold, leaking or showing a fault light? We find the fault and [repair it](/heat-pump-repair/).
 
 A licensed electrical worker wires in every new system.
 

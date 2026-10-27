@@ -1,11 +1,11 @@
 ---
 title: "Heat Pump Tune Up Before Winter or Summer"
-description: "Want a heat pump tune up before the cold sets in? What a pre-season check tests, when to book it, and how it differs from a full service. Price agreed first."
+description: "Want a heat pump tune up before the cold sets in? What a pre-season check tests, when to book it, and how it differs from a full service. Free quote."
 keyword: heat pump tune up
 secondary: [heat pump check up, heat pump seasonal maintenance, heat pump service before winter]
 h1: Heat pump tune up and seasonal check up
 serviceName: Heat pump seasonal tune-up
-intro: "We tune up heat pumps across Christchurch before winter or summer. We test each one under load and fix small faults before they cost you a cold night."
+intro: "We tune up heat pumps across Christchurch before winter or summer. We test each one under load and sort small faults before they cost you a cold night."
 hero: tuneup-hero
 gallery: [tuneup-remote, tuneup-thermometer]
 faqHeading: "Heat pump tune-up questions"
@@ -62,7 +62,7 @@ A tune-up is about being ready. A full [heat pump service](/heat-pump-servicing/
 - **Not serviced for a year or more?** Get the full service. It covers everything in a tune-up.
 - **A smell, a drip or dust on the wall?** You need a clean. See [heat pump cleaning](/heat-pump-cleaning/).
 
-When you book, we'll tell you which one your unit needs. The price is agreed up front.
+When you book, we'll tell you which one your unit needs.
 
 ## Seasonal heat pump maintenance in autumn and spring
 

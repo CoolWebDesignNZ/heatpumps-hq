@@ -55,7 +55,7 @@ The same room size can need a very different unit depending on where the house i
 - **Hill homes in the wind.** In [Clifton](/clifton/), many houses are rebuilds and well insulated, so most heat goes out through the view windows. An exposed house also loses heat faster on a windy night. We size for a cold, windy evening, not a still one.
 - **Farmhouses and villas with high ceilings.** In [Tai Tapu](/tai-tapu/), older farmhouses have high ceilings and separate rooms off long halls. Warm air collects up under the ceiling and stops at every shut door. We count the ceiling height, and these houses usually need a unit in each room you use.
 - **Newer subdivision homes.** In [Burwood](/burwood/), they have insulated ceilings, double glazing and open plan living. A high wall unit sized right can tick over gently. One that's much too big short cycles.
-- **Rentals.** Lots of homes in [Riccarton](/heat-pumps-riccarton/) are rentals. The heater for the main living room must be fixed, heat the room directly and have the capacity that room needs. A heat pump counts as long as it has a thermostat. We size rental units to the living room.
+- **Rentals.** Lots of homes in [Riccarton](/heat-pumps-riccarton/) are rentals. The heater for the main living room must be a fixed heater that heats the room directly and has the capacity that room needs. A heat pump counts as long as it has a thermostat. We size rental units to the living room.
 
 ## What decides a room's heat load
 
@@ -89,4 +89,4 @@ For a rental's main living room, the Healthy Homes Standards set a minimum heati
 
 Online estimates are a good start. But they rely on your measurements and your guesses about insulation. Get the room checked in person before you buy. A room that sees sub-zero mornings, like most rooms in Canterbury, needs more heat than the same room in a milder part of the country.
 
-We size on site. We measure the room and look at the insulation and glazing. We check which way the windows face and ask how you use the space. Then we pick a model by its output at Christchurch's design temperature. If a smaller unit will do the job, we'll say so. For a free quote, call **[03 242 1023](tel:032421023)** or [send us your details](/contact-us/). You get a fixed price up front, before we touch anything.
+We size on site. We measure the room and look at the insulation and glazing. We check which way the windows face and ask how you use the space. Then we pick a model by its output at Christchurch's design temperature. If a smaller unit will do the job, we'll say so. For a free quote, call **[03 242 1023](tel:032421023)** or [send us your details](/contact-us/).

@@ -99,4 +99,4 @@ A calculation is only as good as what goes in. And some rooms don't fit a form. 
 - **Wood burner swap:** the old burner heated more than one room.
 - **Tricky outdoor spot:** an awkward spot for the outdoor unit can limit which models are practical.
 
-We size each job on site. We look at the rooms, insulation and windows, and how you use the house. The quote's free and the price is fixed before we start. To get a room sized properly, call **[03 242 1023](tel:032421023)** or [get in touch](/contact-us/).
+We size each job on site. We look at the rooms, insulation and windows, and how you use the house. The quote's free. To get a room sized properly, call **[03 242 1023](tel:032421023)** or [get in touch](/contact-us/).

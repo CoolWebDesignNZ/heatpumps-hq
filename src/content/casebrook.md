@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Casebrook"
-description: "Replacing an old heat pump or heating a brick and tile home in Casebrook? We size each unit to the house and service it after. Fixed price, agreed first."
+description: "Replacing an old heat pump or heating a brick and tile home in Casebrook? We size each unit to the house and service it after. Free quote."
 keyword: heat pump installation casebrook
 secondary: [heat pumps casebrook, heat pump service casebrook, heat pump repair casebrook]
 h1: Heat pump installation and repairs in Casebrook
 serviceName: Heat pump installation, servicing and repair
 areaServed: Casebrook
 suburb: Casebrook
-intro: "We fit and replace heat pumps in Casebrook's family homes, where lots of the first units are getting old. We'll tell you if a repair beats a new one, at a fixed price."
+intro: "We fit and replace heat pumps in Casebrook's family homes, where lots of the first units are getting old. We'll tell you if a repair beats a new one."
 hero: casebrook-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Casebrook"
@@ -41,7 +41,7 @@ At the quote, we check the old unit and its pipes. We measure the rooms and look
 
 Repair or replace? It comes down to three things. The fault, the unit's condition, and whether it was the right size in the first place. A unit that rattles, is slow to warm the room or shows a fault light isn't always finished. So we find the cause first. Then you get a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
 
-If a new unit's the better option, it's a chance to fix the size. Lots of homes have had ceiling insulation topped up or windows replaced since the first heat pump went in. That changes the capacity a room needs. We size the new unit from the room as it is now, with its insulation and windows. Not from the label on the old one.
+If a new unit's the better option, it's a chance to get the size right. Lots of homes have had ceiling insulation topped up or windows replaced since the first heat pump went in. That changes the capacity a room needs. We size the new unit from the room as it is now, with its insulation and windows. Not from the label on the old one.
 
 ## Brick and tile Casebrook homes in winter
 

@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Redwood"
-description: "Cold bedrooms in a Redwood brick and tile home? We plan heat pumps for one room or the whole house, and service and repair them. Free fixed-price quote."
+description: "Cold bedrooms in a Redwood brick and tile home? We plan heat pumps for one room or the whole house, and service and repair them. Free quote."
 keyword: heat pump installation redwood
 secondary: [heat pumps redwood, heat pump service redwood, heat pump repair redwood]
 h1: Heat pump installation in Redwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Redwood
 suburb: Redwood
-intro: We install heat pumps in Redwood's 1960s to 80s family homes, from a single lounge unit to one in every bedroom, and we give you a fixed price before we start.
+intro: We install heat pumps in Redwood's 1960s to 80s family homes, from a single lounge unit to one in every bedroom, and the quote is free.
 hero: redwood-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Redwood"

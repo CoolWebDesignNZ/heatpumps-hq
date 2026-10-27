@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Phillipstown"
-description: "Heating a Phillipstown cottage, unit or rental? What the healthy homes heating standard asks for and how we size a heat pump to meet it. Fixed-price quote."
+description: "Heating a Phillipstown cottage, unit or rental? What the healthy homes heating standard asks for and how we size a heat pump to meet it. Free quote."
 keyword: heat pump installation phillipstown
 secondary: [heat pumps phillipstown, heat pump service phillipstown, heat pump repair phillipstown]
 h1: Heat pump installation for Phillipstown homes and rentals
 serviceName: Heat pump installation, servicing and repair
 areaServed: Phillipstown
 suburb: Phillipstown
-intro: "We fit, service and fix heat pumps in Phillipstown's cottages, units and townhouses, for owners and landlords. We pick the size and spot so one living room unit does most of the work."
+intro: "We fit, service and repair heat pumps in Phillipstown's cottages, units and townhouses, for owners and landlords. We pick the size and spot so one living room unit does most of the work."
 hero: phillipstown-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Phillipstown"
@@ -61,4 +61,4 @@ For many Phillipstown homes, a [single-room system](/single-room-heat-pump-insta
 
 Nearby, we work in [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
 
-Call **[03 242 1023](tel:032421023)** or use the form for a fixed-price quote on your Phillipstown property.
+Call **[03 242 1023](tel:032421023)** or use the form for a free quote on your Phillipstown property.

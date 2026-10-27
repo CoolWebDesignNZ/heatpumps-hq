@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Ferrymead"
-description: "Fitting a heat pump to a Ferrymead townhouse or home by the estuary? Where the outdoor unit can go, what to check with neighbours, and a fixed-price quote."
+description: "Fitting a heat pump to a Ferrymead townhouse or home by the estuary? Where the outdoor unit can go, what to check with neighbours, and a free quote."
 keyword: heat pump installation ferrymead
 secondary: [heat pumps ferrymead, heat pump service ferrymead, heat pump repair ferrymead]
 h1: Heat pump installation for Ferrymead homes and townhouses
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ferrymead
 suburb: Ferrymead
-intro: We install heat pumps in Ferrymead's townhouses and units, and we find room for the outdoor unit in small courtyards and beside shared walls. You'll know the price first.
+intro: We install heat pumps in Ferrymead's townhouses and units, and we find room for the outdoor unit in small courtyards and beside shared walls.
 hero: ferrymead-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Ferrymead"
@@ -38,7 +38,7 @@ For both, the outdoor spot comes down to noise at the neighbour's boundary and d
 
 ## Outdoor units in tight Ferrymead spaces
 
-In a townhouse, the outdoor unit has only a few possible spots. It's the courtyard, a side wall, a balcony or the garage roof. Each needs clear space around the unit for air to flow. It needs a solid fixing. And the defrost water needs somewhere to go. On a balcony, that drain can't just drip onto the unit below.
+In a townhouse, the outdoor unit has only a few possible spots. It's the courtyard, a side wall, a balcony or the garage roof. Each needs clear space around the unit for air to flow. It needs a solid mounting. And the defrost water needs somewhere to go. On a balcony, that drain can't just drip onto the unit below.
 
 Noise is the other half. In Christchurch, heat pump noise is measured at the neighbouring site. So a unit aimed straight at a neighbour's bedroom window is a poor choice, even if it fits. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how that works.
 

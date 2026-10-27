@@ -1,6 +1,6 @@
 ---
 title: "Daikin Ducted Heat Pump Systems Christchurch"
-description: "Comparing Daikin ducted heat pumps? Which unit suits your ceiling space, from slim ducted to whole-home systems, and how zoning works. Free fixed-price quote."
+description: "Comparing Daikin ducted heat pumps? Which unit suits your ceiling space, from slim ducted to whole-home systems, and how zoning works. Free quote."
 keyword: daikin ducted heat pump
 secondary: [daikin ducted, daikin ducted system, daikin ducted heat pump christchurch]
 h1: Daikin ducted heat pump systems in Christchurch
@@ -35,7 +35,7 @@ faqs:
   - q: Can I control Daikin ducted heating room by room?
     a: Yes, if you add zoning. A zone controller gives each zone its own temperature, and timers switch zones on and off through the day. We'll set the zones up around how you use the house.
   - q: Do you service Daikin ducted systems?
-    a: Yes. We service and fix Daikin heat pumps, ducted systems included. Book a <a href="/daikin-heat-pump-service-christchurch/">Daikin heat pump service</a> any time.
+    a: Yes. We service and repair Daikin heat pumps, ducted systems included. Book a <a href="/daikin-heat-pump-service-christchurch/">Daikin heat pump service</a> any time.
 related:
   - { label: Ducted heat pumps, href: /ducted-heat-pumps-christchurch/, text: "How ducted systems work and what your house needs." }
   - { label: Mitsubishi Electric ducted, href: /mitsubishi-ducted-heat-pumps-christchurch/, text: "Mitsubishi Electric ducted systems with room by room zoning." }
@@ -69,7 +69,7 @@ Which unit fits comes down to three things we check on site.
 - **What you're heating.** The whole house, the bedroom wing, or one room or area. A bulkhead unit for one area is a very different job from a whole-home system.
 - **What's there now.** Got an old ducted system? Its ducts, vents and pipe routes might be reusable. We check them before we count on it.
 
-Then we size the unit for the heat each room loses, not just the total floor area. And we lay out the vents and the return air grille. You get a set price before the job starts.
+Then we size the unit for the heat each room loses, not just the total floor area. And we lay out the vents and the return air grille.
 
 ## Zoning options for Daikin ducted systems
 
@@ -86,5 +86,5 @@ Daikin is one of four brands we fit. The others are Mitsubishi Electric, Fujitsu
 
 ## Looking after a Daikin ducted system
 
-Clean the return air filter often. Have it serviced yearly. We service and fix Daikin systems of any age. See our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/).
+Clean the return air filter often. Have it serviced yearly. We service and repair Daikin systems of any age. See our [Daikin heat pump service](/daikin-heat-pump-service-christchurch/).
 

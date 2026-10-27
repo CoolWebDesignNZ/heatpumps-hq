@@ -104,4 +104,4 @@ The kind of Christchurch house you have usually points to a type.
 
 Usually the house itself decides, and that narrows it down fast. An older villa with a high stud and a fireplace can suit a console. A new Selwyn build with good roof space is a natural fit for ducted. A two-bedroom unit might only need one high wall unit in the living area.
 
-We fit high wall, floor console, multi split and ducted systems. Our brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We'll look at your rooms and tell you which type fits. The price is fixed before any work. Phone **[03 242 1023](tel:032421023)** or [request a free quote](/contact-us/) to get started.
+We fit high wall, floor console, multi split and ducted systems. Our brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We'll look at your rooms and tell you which type fits. Phone **[03 242 1023](tel:032421023)** or [request a free quote](/contact-us/) to get started.

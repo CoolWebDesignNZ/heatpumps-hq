@@ -106,4 +106,4 @@ Start with how many rooms you want warm, and what the house allows.
 
 ## Get both options priced
 
-We fit split, multi split and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. So we can price them side by side for your house. We look at the rooms, the roof space, the insulation and how you live there. Then you get a free quote, with a fixed price before we start. [Ducted heat pump cost](/ducted-heat-pump-cost-christchurch/) explains what drives a ducted price. Call **[03 242 1023](tel:032421023)** or [book a free quote](/contact-us/).
+We fit split, multi split and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. So we can price them side by side for your house. We look at the rooms, the roof space, the insulation and how you live there. Then you get a free quote. [Ducted heat pump cost](/ducted-heat-pump-cost-christchurch/) explains what drives a ducted price. Call **[03 242 1023](tel:032421023)** or [book a free quote](/contact-us/).

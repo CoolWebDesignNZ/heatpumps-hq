@@ -75,7 +75,7 @@ In Christchurch, heat pump noise is limited at the neighbour's place. Our [bound
 
 ## 6. The quote is written and specific
 
-A good quote names the brand, model number and capacity of each unit, and where the indoor and outdoor units go. It sets out the pipe route and finish, how the outdoor unit is fixed in place, and the electrical work, including any new circuit or switchboard work. It covers taking out and getting rid of an old unit. And it says whether the price is fixed.
+A good quote names the brand, model number and capacity of each unit, and where the indoor and outdoor units go. It sets out the pipe route and finish, how the outdoor unit is fixed in place, and the electrical work, including any new circuit or switchboard work. It covers taking out and getting rid of an old unit. And it says whether the price can change once work starts.
 
 If something's missing from the quote, ask before you say yes. Our [installation cost guide](/heat-pump-installation-cost-christchurch/) explains how each item moves the price.
 
@@ -87,7 +87,7 @@ At the end you should get the electrical Certificate of Compliance. You should a
 
 ## 8. The heat pump installer will look after it afterwards
 
-Ask who services and fixes the unit once it's in. Ask if they work on that brand. A yearly service keeps a heat pump running well. Find out who you ring if something goes wrong in the first winter.
+Ask who services and repairs the unit once it's in. Ask if they work on that brand. A yearly service keeps a heat pump running well. Find out who you ring if something goes wrong in the first winter.
 
 ## Questions to ask any heat pump installer
 
@@ -97,14 +97,14 @@ Ask every installer who quotes these questions. Then compare what they say:
 2. Who handles the gas, and what certificate do they hold?
 3. How did you work out the size, and what does the unit put out at minus 4°C?
 4. Where will the outdoor unit go, and how will it affect the neighbours?
-5. Is the price fixed, and what's in it?
+5. Can the price change, and what's in it?
 6. What paperwork do I get at the end?
 7. Who services it, and who do I call if something goes wrong?
 
 ## How we work as heat pump installers in Christchurch
 
-We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and fix those and Panasonic, and most other brands sold in New Zealand.
+We cover Christchurch, Selwyn and Lyttelton, Monday to Friday, 8am to 5pm. The brands we fit are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic, and most other brands sold in New Zealand.
 
-We size every install from your rooms, insulation and windows, and how you use the house. A licensed electrical worker does the electrical connection. We agree a fixed price before any work starts, and the quote is free.
+We size every install from your rooms, insulation and windows, and how you use the house. A licensed electrical worker does the electrical connection. The quote is free.
 
 Hold us to the same checklist you'd use on anyone else. Call **[03 242 1023](tel:032421023)** or [request a quote](/contact-us/).

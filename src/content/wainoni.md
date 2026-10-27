@@ -1,13 +1,13 @@
 ---
 title: "Heat Pump Installation Wainoni"
-description: "Heat pumps for Wainoni's 1950s to 70s houses: sizing for older insulation, heating the bedrooms and placing the outdoor unit. Free quote at a fixed price."
+description: "Heat pumps for Wainoni's 1950s to 70s houses: sizing for older insulation, heating the bedrooms and placing the outdoor unit. Free quote."
 keyword: heat pump installation wainoni
 secondary: [heat pumps wainoni, heat pump service wainoni, heat pump repair wainoni]
 h1: Heat pump installation and servicing in Wainoni
 serviceName: Heat pump installation, servicing and repair
 areaServed: Wainoni
 suburb: Wainoni
-intro: We install, service and fix heat pumps in Wainoni's post-war homes, and we size each one from the rooms it has to heat. The price is agreed with you first.
+intro: We install, service and repair heat pumps in Wainoni's post-war homes, and we size each one from the rooms it has to heat.
 hero: wainoni-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Wainoni heat pump questions"
@@ -53,7 +53,7 @@ Wainoni is a few kilometres from the beach. Easterly winds still bring some salt
 
 ## Heat pump service and repairs in Wainoni
 
-Older heat pumps in Wainoni often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. It can cause smells too. We service and fix Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and most other brands as well. Book a [service](/maintenance-servicing/). If it's stopped working, read about [repairs](/heat-pump-repair/).
+Older heat pumps in Wainoni often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. It can cause smells too. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and most other brands as well. Book a [service](/maintenance-servicing/). If it's stopped working, read about [repairs](/heat-pump-repair/).
 
 ## Suburbs near Wainoni
 

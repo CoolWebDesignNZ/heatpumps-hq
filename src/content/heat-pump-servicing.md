@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Servicing Christchurch"
-description: "Booking a heat pump service in Christchurch? See every step of the visit, indoor and outdoor, what sets the cost, and get a fixed price before we start."
+description: "Booking a heat pump service in Christchurch? See every step of the visit, indoor and outdoor, what sets the cost, and how to get a free quote."
 keyword: heat pump servicing christchurch
 secondary: [heat pump servicing, heat pump service, heat pump service cost]
 h1: Heat pump servicing in Christchurch, step by step
@@ -14,7 +14,7 @@ faqs:
   - q: What does a heat pump service include?
     a: Inside, the filters, coil, fan wheel, drain tray and drain line. Outside, the coil, fan, base and mounting. We check the electrical connections. Then we test run it in heating and cooling and measure the air temperatures. You get a written note of what we found.
   - q: What does a heat pump service cost?
-    a: It depends on how many units you have and the type of system. Also on how easy each unit is to get at, and how dirty it is. We agree a fixed price before we start. The number we quote is the number you pay.
+    a: It depends on how many units you have and the type of system. Also on how easy each unit is to get at, and how dirty it is. Quotes are free.
   - q: Do you service brands you didn't install?
     a: Yes. We service Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Plus most other split and ducted heat pumps sold in New Zealand.
   - q: Do I need to be home for the service?
@@ -60,7 +60,7 @@ The indoor unit gets the most time. Filters first, drain line last.
 1. **Coil cleared.** Leaves, cobwebs, lint and grass clippings come off the fins. Then the unit can move air.
 2. **Fan and guard checked.** We make sure the blade spins freely. No chips, no rubbing.
 3. **Base and drainage.** Defrost water has to drain away. We clear the base and check the drain holes. We make sure the unit isn't sitting in a puddle or packed with leaves.
-4. **Feet, brackets and pipe lagging.** We note loose bolts, perished rubber feet and sun-damaged lagging. Small jobs we fix on the spot.
+4. **Feet, brackets and pipe lagging.** We note loose bolts, perished rubber feet and sun-damaged lagging. Small jobs we sort on the spot.
 
 ## Step 4: electrical connections
 
@@ -83,7 +83,7 @@ There's no single price, because no two homes are the same.
 - **Access.** A unit high in a stairwell takes longer to reach safely. So does an outdoor unit on a wall bracket, or one squeezed behind a fence.
 - **Condition.** A unit nobody's touched in years may need a full [heat pump cleaning](/heat-pump-cleaning/), not a standard service.
 
-You get a fixed price for the job before any work starts.
+We go through all of these at the quote, and quotes are free.
 
 ## How heat pump servicing fits with the rest of the year
 
