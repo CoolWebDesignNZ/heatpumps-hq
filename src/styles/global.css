@@ -6,6 +6,7 @@
   --brand-ink: #0a4870;
   --brand-tint: #eaf3f8;
   --link: #0a6fb8;
+  --accent: #f2994a;
   --ink: #16191d;
   --ink-soft: #4a525b;
   --paper: #ffffff;
@@ -24,6 +25,9 @@ body { margin: 0; background: var(--paper); }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--link); text-decoration: none; text-underline-offset: 3px; }
 a:hover { text-decoration: underline; }
+/* Text links in the copy carry a second-colour underline (client, 2026-10-27). */
+main :is(p, li, td, dd, blockquote) a:not(.btn), .hero-brands a { text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+main :is(p, li, td, dd, blockquote) a:not(.btn):hover, .hero-brands a:hover { text-decoration-color: currentColor; }
 .btn:hover, .card:hover, a.logo:hover, a.f-logo:hover, a.f-call:hover { text-decoration: none; }
 h1, h2, h3 { line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 .5em; }
 h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); font-weight: 750; }
@@ -70,7 +74,7 @@ p, ul, ol { margin: 0 0 1.1em; }
 .crumbs a { color: var(--ink-soft); }
 /* Standalone "next step" links: bold with a thick blue underline. */
 .more { margin: 32px 0 0; }
-.more a { color: var(--link); font-weight: 700; text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; }
+.more a { color: var(--link); font-weight: 700; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 3px; text-underline-offset: 6px; }
 .more a:hover { color: var(--brand-ink); }
 /* Cards that link somewhere lift on hover. */
 .card, .brand, .area-card { transition: transform .18s ease, box-shadow .18s ease; }

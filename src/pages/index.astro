@@ -60,7 +60,7 @@ const faqs = [
   schema={[{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) }]}>
 
   <Hero image="home-hero" home h1="Heat pumps in Christchurch: sized to your home, not the biggest unit we can sell."
-        h1Lines={["Heat pumps in Christchurch:", "sized to your home,", "not the biggest unit we can sell."]}
+        h1Lines={["Heat pumps in Christchurch: sized to your home,", "not the biggest unit we can sell."]}
         intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Locally owned since ${site.founded}. Free quote. We look at your rooms, insulation and windows before we recommend a unit.`} />
 
   <section class="section">
@@ -167,7 +167,7 @@ const faqs = [
   .brand-split h2 { margin-top: 0; }
   .brand-list { list-style: none; padding: 0; margin: 24px 0; }
   .brand-list li { position: relative; padding: 0 0 14px 22px; }
-  .brand-list li::before { content: ''; position: absolute; left: 0; top: .65em; width: 8px; height: 8px; border-radius: 50%; background: var(--brand); }
+  .brand-list li::before { content: ''; position: absolute; left: 0; top: .65em; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
   :global(.brand-photo) { width: 100%; aspect-ratio: 4/5 !important; object-fit: cover; border-radius: 12px; }
   @media (max-width: 900px) { .brand-split { grid-template-columns: 1fr; gap: 32px; } :global(.brand-photo) { aspect-ratio: 3/2 !important; } }
   .card h3 a { color: var(--ink); text-decoration: none; }
