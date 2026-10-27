@@ -1,7 +1,37 @@
 ---
-interface Props { suburb?: string }
-const { suburb = '' } = Astro.props;
+// steps: the two-step version (home page). Step 2 only shows once Name and Phone are filled in.
+interface Props { suburb?: string; steps?: boolean }
+const { suburb = '', steps = false } = Astro.props;
+const options = ['Installation', 'Repair', 'Service'];
 ---
+{steps ? (
+<form class="qf qf-steps" method="post" action="/api/quote" data-step="1">
+  <h2 class="qf-h">Get a free quote</h2>
+  <div class="qf-step" data-step="1">
+    <div class="row">
+      <label>Name<input name="name" required autocomplete="name" /></label>
+      <label>Phone<input name="phone" type="tel" required autocomplete="tel" /></label>
+    </div>
+    <fieldset>
+      <legend>What do you need?</legend>
+      <div class="opts">
+        {options.map((o, i) => (
+          <label class="opt"><input type="radio" name="service" value={o} checked={i === 0} /><span>{o}</span></label>
+        ))}
+      </div>
+    </fieldset>
+    <label>Type a brief description below<textarea name="message" rows="2" placeholder="Area you want to heat, fault description..."></textarea></label>
+    <button class="btn btn-primary qf-next" type="button">Next step</button>
+  </div>
+  <div class="qf-step" data-step="2">
+    <label>Suburb<input name="suburb" required autocomplete="address-level2" placeholder="e.g., Riccarton, Rolleston" value={suburb} /></label>
+    <label>Email <span class="opt-note">(optional)</span><input name="email" type="email" autocomplete="email" /></label>
+    <button class="btn btn-primary" type="submit">Request my quote</button>
+    <button class="qf-back" type="button">Back</button>
+  </div>
+  <p class="qf-note">No obligation. We'll call or email you back.</p>
+</form>
+) : (
 <form class="qf" method="post" action="/api/quote">
   <h2 class="qf-h">Get a free quote</h2>
   <input type="hidden" name="suburb" value={suburb} />
@@ -23,6 +53,18 @@ const { suburb = '' } = Astro.props;
   <button class="btn btn-primary" type="submit">Request my quote</button>
   <p class="qf-note">No obligation. We'll call or email you back.</p>
 </form>
+)}
+<script>
+  for (const form of document.querySelectorAll<HTMLFormElement>('.qf-steps')) {
+    const show = (n: string) => { form.dataset.step = n; form.querySelector<HTMLElement>(`.qf-step[data-step="${n}"] input`)?.focus(); };
+    form.classList.add('js');
+    form.querySelector('.qf-next')?.addEventListener('click', () => {
+      const first = [...form.querySelectorAll<HTMLInputElement>('.qf-step[data-step="1"] input[required]')];
+      if (first.every((i) => i.reportValidity())) show('2');
+    });
+    form.querySelector('.qf-back')?.addEventListener('click', () => show('1'));
+  }
+</script>
 <style>
   .qf { background: #fff; border-radius: 12px; box-shadow: 0 20px 50px rgba(0, 0, 0, .22); padding: 20px 20px 16px; color: var(--ink); max-width: 460px; }
   .qf-h { font-size: 1.25rem; margin: 0 0 .5em; }
@@ -42,5 +84,9 @@ const { suburb = '' } = Astro.props;
   .opt input:focus-visible + span { outline: 2px solid var(--brand-ink); }
   .opt-note { font-weight: 400; color: var(--ink-soft); }
   .qf button { width: 100%; margin-top: 14px; padding: 12px; border: 0; border-radius: 6px; font-size: 1rem; cursor: pointer; }
+  .qf-steps.js[data-step="1"] .qf-step[data-step="2"], .qf-steps.js[data-step="2"] .qf-step[data-step="1"] { display: none; }
+  .qf-steps:not(.js) .qf-next, .qf-steps:not(.js) .qf-back { display: none; }
+  .qf-next { font-weight: 700; font-size: 1.05rem !important; padding: 14px !important; }
+  .qf .qf-back { display: block; width: auto; margin: 10px auto 0; padding: 4px 8px; background: none; color: var(--link); font-size: .9rem; text-decoration: underline; }
   .qf-note { font-size: .8rem; color: var(--ink-soft); margin: 10px 0 0; }
 </style>
