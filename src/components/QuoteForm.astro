@@ -84,6 +84,11 @@ const options = ['Installation', 'Repair', 'Service'];
   .opt input:focus-visible + span { outline: 2px solid var(--brand-ink); }
   .opt-note { font-weight: 400; color: var(--ink-soft); }
   .qf button { width: 100%; margin-top: 14px; padding: 12px; border: 0; border-radius: 6px; font-size: 1rem; cursor: pointer; }
+  .qf-steps { padding: 18px 18px 14px; }
+  .qf-steps .qf-h { font-size: 1.15rem; margin-bottom: .3em; }
+  .qf-steps label, .qf-steps fieldset { margin-top: 8px; }
+  .qf-steps textarea { min-height: 0; }
+  .qf-steps .qf-next { margin-top: 12px; padding: 12px !important; }
   .qf-steps.js[data-step="1"] .qf-step[data-step="2"], .qf-steps.js[data-step="2"] .qf-step[data-step="1"] { display: none; }
   .qf-steps:not(.js) .qf-next, .qf-steps:not(.js) .qf-back { display: none; }
   .qf-next { font-weight: 700; font-size: 1.05rem !important; padding: 14px !important; }

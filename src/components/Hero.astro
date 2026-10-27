@@ -3,19 +3,18 @@
 import Img from './Img.astro';
 import QuoteForm from './QuoteForm.astro';
 import site from '../data/site.json';
-// home: the home page hero (H1 on set lines, call button only, brand line, two-step form).
-interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean; h1Lines?: string[] }
-const { image, h1, intro, suburb = '', meta, home = false, h1Lines } = Astro.props;
+// home: the home page hero (call button only, brand line, compact two-step form).
+interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean }
+const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
 const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '/heat-pump-services/']];
 ---
 <section class:list={["hero", { "hero-home": home }]}>
   <Img id={image} eager class="hero-bg" />
   <div class="hero-shade"></div>
   <div class="wrap hero-in">
-    {home && <h1 class="hero-h1">{h1Lines ? h1Lines.map((l, i) => <>{i > 0 && ' '}<span class="h1-line">{l}</span></>) : h1}</h1>}
     <div class="hero-copy">
       <slot name="crumbs" />
-      {!home && <h1>{h1}</h1>}
+      <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
       <div class="hero-btns">
         {!home && <a class="btn btn-primary" href="#quote">Get a free quote</a>}
@@ -45,11 +44,8 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   .hero-btns { display: flex; flex-wrap: wrap; gap: 12px; }
   .btn-glass { background: rgba(255, 255, 255, .16); color: #fff; backdrop-filter: blur(4px); }
   .btn-glass:hover { background: rgba(255, 255, 255, .26); }
-  /* Home: the H1 runs the full width above the copy and the form. */
-  .hero.hero-home h1 { font-size: clamp(2.1rem, 3.9vw, 2.7rem); grid-column: 1 / -1; margin: 0; }
-  .hero-home .hero-shade { background: linear-gradient(90deg, rgba(12, 22, 34, .82) 0%, rgba(12, 22, 34, .68) 55%, rgba(12, 22, 34, .42) 100%); }
-  .hero-home .hero-in { row-gap: 32px; align-items: start; padding-top: 64px; padding-bottom: 72px; }
-  @media (min-width: 1100px) { .h1-line { display: block; white-space: nowrap; } }
+  .hero.hero-home h1 { font-size: clamp(1.9rem, 3.6vw, 2.6rem); text-wrap: balance; }
+  @media (min-width: 961px) { .hero-home .hero-in { grid-template-columns: minmax(0, 1fr) minmax(0, 380px); gap: 48px; } }
   .hero-brands { margin-top: 1.2em; font-size: .95rem; color: rgba(255, 255, 255, .8); }
   .hero-brands a { color: #fff; }
   .hero-meta { margin-top: 1.4em; color: rgba(255, 255, 255, .8); }

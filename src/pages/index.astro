@@ -60,7 +60,6 @@ const faqs = [
   schema={[{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) }]}>
 
   <Hero image="home-hero" home h1="Heat pumps in Christchurch: sized to your home, not the biggest unit we can sell."
-        h1Lines={["Heat pumps in Christchurch: sized to your home,", "not the biggest unit we can sell."]}
         intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Locally owned since ${site.founded}. Free quote. We look at your rooms, insulation and windows before we recommend a unit.`} />
 
   <section class="section">
