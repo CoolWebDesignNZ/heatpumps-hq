@@ -69,7 +69,7 @@ Most Daikin wall units use a handheld remote. Many ducted and console systems us
 
 ## Repair or replace a Daikin?
 
-On a Daikin in good condition, lots of faults are worth fixing. But say the compressor has failed on an older unit, or the parts aren't made any more. Then a new unit can be the better spend. We'll give you both options, with prices. We fit Daikin as well as Mitsubishi Electric, Fujitsu and Toshiba. So you can compare a like-for-like Daikin replacement with the others.
+On a Daikin in good condition, lots of faults are worth repairing. But say the compressor has failed on an older unit, or the parts aren't made any more. Then a new unit can be the better spend. We'll give you both options, with prices. We fit Daikin as well as Mitsubishi Electric, Fujitsu and Toshiba. So you can compare a like-for-like Daikin replacement with the others.
 
 ## Daikin service across Christchurch
 

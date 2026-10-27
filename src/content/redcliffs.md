@@ -20,7 +20,7 @@ faqs:
   - q: How often should a coastal heat pump be serviced?
     a: At least once a year. Near the sea, we also check the outdoor coil and casing for corrosion at every <a href="/heat-pump-cleaning/">clean</a>.
   - q: Do you repair older units in Redcliffs?
-    a: Yes. We find and fix faults on all the major brands. Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts.
+    a: Yes. We find and repair faults on all the major brands. Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts.
 related:
   - { label: Moncks Bay, href: /moncks-bay/, text: "Heat pumps for homes along the bay." }
   - { label: Sumner, href: /sumner/, text: "Installs and servicing near the beach." }

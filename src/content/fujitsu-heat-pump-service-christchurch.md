@@ -72,7 +72,7 @@ Many Fujitsu units can be run from your phone with a Wi-Fi adaptor and an app. W
 
 ## Repair or replace a Fujitsu heat pump
 
-If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usually worth fixing. If the compressor has gone on an older unit, we'll price a replacement too. We'll do the same if parts are hard to get.
+If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usually worth repairing. If the compressor has gone on an older unit, we'll price a replacement too. We'll do the same if parts are hard to get.
 
 We fit Fujitsu, Mitsubishi Electric, Daikin and Toshiba. So you can weigh a straight swap against the other options. Each one is sized for your rooms, not matched to the old unit.
 

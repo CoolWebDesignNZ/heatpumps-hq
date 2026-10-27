@@ -1,6 +1,6 @@
 ---
 title: "Ducted Heat Pump Cost in Christchurch"
-description: "Ducted heat pump cost in NZ comes down to your roof space, room count, ducting and power supply. Here is what moves the price, and how to get a fixed figure."
+description: "Ducted heat pump cost in NZ comes down to your roof space, room count, ducting and power supply. Here is what moves the price, and how to get a free quote."
 keyword: ducted heat pump cost
 secondary: [ducted heat pump cost nz, ducted heat pump prices nz, cost of ducted heat pump]
 h1: What a ducted heat pump cost depends on

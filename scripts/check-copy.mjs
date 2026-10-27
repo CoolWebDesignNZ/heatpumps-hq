@@ -83,8 +83,8 @@ for (const f of files) {
   if (slug !== 'privacy-policy' && /\bsources?:/i.test(raw)) err('has a "Source:" citation');
   // We repair heat pumps: never "we fix" or "service and fix" as a service claim, and we don't promise a fixed price (client, 2026-10-27).
   { const c = raw.replace(/^(keyword|secondary):.*$/gm, '');
-    const x = c.match(/\bwe('ll| will| can)? fix\b|\b(fit|install|service|services|servicing|fitting|installing),? (and |or )?fix(ing)?\b|\bfix(es|ing)? heat pumps\b/i); if (x) err(`says "${x[0]}": we repair heat pumps, we don't fix them`);
-    const p = c.match(/fixed[- ]price|price (is |gets |we quote is )?(fixed|agreed)|\bfixed (before|first|up ?front)|(free|free,) (and )?fixed\b|in the fixed/i); if (p) err(`promises a fixed price: "${p[0]}"`); }
+    const x = c.match(/\bwe('ll| will| can)? (find and )?fix\b|\b(fit|install|service|services|servicing|fitting|installing),? (and |or )?fix(ing)?\b|\bfix(es|ing)? heat pumps\b/i); if (x) err(`says "${x[0]}": we repair heat pumps, we don't fix them`);
+    const p = c.match(/fixed[- ]price|price (is |gets |we quote is )?(fixed|agreed|locked)|locked in up ?front|agree (it|the price|each visit's price)|fixed (quote|figure)|before fixing the price|\bfixed (before|first|up ?front)|(free|free,) (and )?fixed\b|in the fixed/i); if (p) err(`promises a fixed price: "${p[0]}"`); }
   { const c = raw.match(/\b(EECA|MBIE|Tenancy Services|WorkSafe|the council|District Plan|Gen Less)\b[^.\n]{0,25}\b(says|said|puts it|notes|recommends|advises|explains|lists|states|advice is)\b/i); if (c) err(`credits a source: "${c[0]}"`); }
   // Links out go to government sources only (plus the Privacy Commissioner and the map tile provider in the privacy policy), never to other companies (client, 2026-10-20).
   for (const [, host] of raw.matchAll(/https?:\/\/([^/)\s"]+)/g)) if (!/\.govt\.nz$|^www\.privacy\.org\.nz$|^osmfoundation\.org$/.test(host) && !/(^|\.)heatpumps-christchurch\.co\.nz$/.test(host)) err(`links out to ${host}`);

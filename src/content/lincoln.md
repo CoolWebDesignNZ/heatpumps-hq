@@ -7,7 +7,7 @@ h1: Heat pump installation in Lincoln, town and country
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lincoln
 suburb: Lincoln
-intro: We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it, and we agree the price with you before we start.
+intro: We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it.
 hero: lincoln-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Lincoln"

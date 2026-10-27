@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Repairs Christchurch"
-description: "Heat pump not heating, leaking or showing an error code? We repair all major brands across Christchurch and tell you upfront if it's worth fixing."
+description: "Heat pump not heating, leaking or showing an error code? We repair all major brands across Christchurch and tell you upfront if it's worth repairing."
 keyword: heat pump repairs christchurch
 secondary: [heat pump repair, heat pump repairs, fix heat pump]
 h1: Heat pump repairs in Christchurch
@@ -71,7 +71,7 @@ We repair the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Tos
 
 Repair usually wins when the unit is under ten years old. It also wins when the fault is a part like a sensor, fan motor, drain or board.
 
-Replacing starts to make sense in three cases. The compressor has failed. The unit runs on an old gas that's hard to get. Or it needs fixing every year. When it's a close call, we'll price both. Then you decide.
+Replacing starts to make sense in three cases. The compressor has failed. The unit runs on an old gas that's hard to get. Or it needs repairing every year. When it's a close call, we'll price both. Then you decide.
 
 ## Quick checks before you call us
 

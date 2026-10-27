@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Service Plan for Your Home"
-description: "Need a heat pump service plan for several units or a rental? We set a schedule around your systems and how they're used, and agree each visit's price upfront."
+description: "Need a heat pump service plan for several units or a rental? We set a schedule around your systems and how they're used, and quote for each visit."
 keyword: heat pump service plan
 secondary: [heat pump maintenance plan, annual heat pump service, heat pump maintenance contract]
 h1: A heat pump service plan set around your home

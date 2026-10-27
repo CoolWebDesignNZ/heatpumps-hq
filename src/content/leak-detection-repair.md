@@ -5,7 +5,7 @@ keyword: heat pump leaking water
 secondary: [heat pump dripping water, heat pump refrigerant leak, heat pump gas leak]
 h1: Heat pump leaking water or refrigerant, and how we repair it
 serviceName: Heat pump leak detection and repair
-intro: "We find and fix heat pump leaks across Christchurch, water or refrigerant. Water from the indoor unit is usually a drain problem. A refrigerant leak slowly takes your heat away."
+intro: "We find and repair heat pump leaks across Christchurch, water or refrigerant. Water from the indoor unit is usually a drain problem. A refrigerant leak slowly takes your heat away."
 hero: leak-hero
 gallery: [leak-1, leak-2]
 faqHeading: "Questions about a heat pump leaking water"
@@ -18,7 +18,7 @@ faqs:
   - q: How do I know if my heat pump has a refrigerant leak?
     a: Usually the unit heats less and less over weeks or months. You might see oily marks or ice on the pipe joints, or hear a hiss. Some units stop and show a fault code when the charge gets low.
   - q: Can you just top up the gas?
-    a: Not as a fix. If refrigerant's gone, it's leaked out somewhere. Top it up without finding the leak and it just leaks out again. We find and fix the leak first. Then we charge the system to the maker's specification.
+    a: Not as a repair. If refrigerant's gone, it's leaked out somewhere. Top it up without finding the leak and it just leaks out again. We find and repair the leak first. Then we charge the system to the maker's specification.
   - q: Is a heat pump gas leak dangerous?
     a: Switch the unit off and open a window. Keep naked flames and heaters away. Don't try to tighten or fix the pipe joints yourself. Then call us to trace it.
 related:
