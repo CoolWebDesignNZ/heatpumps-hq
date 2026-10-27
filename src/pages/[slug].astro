@@ -7,7 +7,6 @@ import Img from '../components/Img.astro';
 import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
-import AreaCards from '../components/AreaCards.astro';
 import SuburbMap from '../components/SuburbMap.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
@@ -26,6 +25,7 @@ export async function getStaticPaths() {
 
 const { mod } = Astro.props;
 const fm = mod.frontmatter;
+const suburbCount = urls.filter((u) => u.type === 'suburb').length;
 // The gallery photos go inside the article, between sections: the first
 // after the opening section, the second about two thirds of the way down.
 const sections = (await mod.compiledContent()).split(/(?=<h2[\s>])/).filter((h) => h.trim());
@@ -200,7 +200,7 @@ if (fm.faqs?.length) {
       <div class="wrap">
         <h2>{fm.areasHeading}</h2>
         <p class="lead">{fm.areasLead}</p>
-        <AreaCards />
+        <p class="more"><a href="/locations/">See all {suburbCount} suburbs and towns we cover</a></p>
       </div>
     </section>
   )}
@@ -227,7 +227,7 @@ if (fm.faqs?.length) {
           {fm.related.map((r) => (
             <a class="card rel-card" href={r.href}>
               {heroOf(r.href) && <Img id={heroOf(r.href)} class="rel-img" />}
-              <div class="card-body"><h3>{r.label}</h3><p>{r.text}</p><span class="rel-go">Read more</span></div>
+              <div class="card-body"><h3>{r.label}</h3><p>{r.text}</p><span class="rel-go">{r.cta ?? (urls.find((u) => u.path === r.href)?.type === 'guide' ? `Read the ${r.label.toLowerCase().replace(/ guide$/, '')} guide` : `See ${r.label.toLowerCase()}`)} →</span></div>
             </a>
           ))}
         </div>
