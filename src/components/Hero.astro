@@ -12,9 +12,10 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   <Img id={image} eager class="hero-bg" />
   <div class="hero-shade"></div>
   <div class="wrap hero-in">
+    {home && <h1 class="hero-h1">{h1Lines ? h1Lines.map((l, i) => <>{i > 0 && ' '}<span class="h1-line">{l}</span></>) : h1}</h1>}
     <div class="hero-copy">
       <slot name="crumbs" />
-      <h1>{h1Lines ? h1Lines.map((l, i) => <>{i > 0 && ' '}<span class="h1-line">{l}</span></>) : h1}</h1>
+      {!home && <h1>{h1}</h1>}
       <p class="hero-lead">{intro}</p>
       <div class="hero-btns">
         {!home && <a class="btn btn-primary" href="#quote">Get a free quote</a>}
@@ -44,8 +45,10 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   .hero-btns { display: flex; flex-wrap: wrap; gap: 12px; }
   .btn-glass { background: rgba(255, 255, 255, .16); color: #fff; backdrop-filter: blur(4px); }
   .btn-glass:hover { background: rgba(255, 255, 255, .26); }
-  .hero.hero-home h1 { font-size: clamp(2.2rem, 3.5vw, 2.45rem); }
-  .hero-home .hero-in { gap: 40px; grid-template-columns: minmax(0, 1fr) minmax(0, 420px); }
+  /* Home: the H1 runs the full width above the copy and the form. */
+  .hero.hero-home h1 { font-size: clamp(2.4rem, 5vw, 4rem); grid-column: 1 / -1; margin: 0; }
+  .hero-home .hero-shade { background: linear-gradient(90deg, rgba(12, 22, 34, .82) 0%, rgba(12, 22, 34, .68) 55%, rgba(12, 22, 34, .42) 100%); }
+  .hero-home .hero-in { row-gap: 32px; align-items: start; padding-top: 64px; padding-bottom: 72px; }
   @media (min-width: 1100px) { .h1-line { display: block; white-space: nowrap; } }
   .hero-brands { margin-top: 1.2em; font-size: .95rem; color: rgba(255, 255, 255, .8); }
   .hero-brands a { color: #fff; }
