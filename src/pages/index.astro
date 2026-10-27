@@ -4,61 +4,92 @@ import Img from '../components/Img.astro';
 import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
-import AreaCards from '../components/AreaCards.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 const serviceCount = urls.filter((u) => u.type === 'service').length;
 
 
 
-// The first seven cards are the core services in the Services menu
-// (src/data/nav.json), in the same order; brand servicing and efficiency follow.
+// Five service cards, each with what we check before quoting (client, 2026-10-27).
 const services = [
-  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', p: 'We fit wall and floor console heat pumps, sized from your rooms and installed tidy.',
-    links: [['High wall heat pumps', '/high-wall-heat-pumps/'], ['Floor mounted heat pumps', '/floor-mounted-heat-pumps/'], ['Single room', '/single-room-heat-pump-installation/'], ['Installation cost', '/heat-pump-installation-cost-christchurch/']] },
-  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', p: 'We plan and fit ducted systems with a vent in every room and nothing on the walls. Best planned early in a build.',
-    links: [['Daikin ducted', '/daikin-ducted-heat-pumps-christchurch/'], ['Mitsubishi Electric ducted', '/mitsubishi-ducted-heat-pumps-christchurch/'], ['Zoning', '/heat-pump-zoning/'], ['Ducted heat pump cost', '/ducted-heat-pump-cost-christchurch/']] },
-  { img: 'multi-hero', h: 'Multi-room heat pumps', href: '/multi-room-heat-pump-installation/', p: 'We fit several indoor units on one outdoor unit, so each room you use has its own heat and its own controller.',
-    links: [['Single or multi room', '/single-multi-room/'], ['Ducted vs split', '/ducted-vs-split-heat-pumps-christchurch/'], ['Types of heat pumps', '/types-of-heat-pumps/'], ['Smart and Wi-Fi control', '/smart-heat-pump-systems/']] },
-  { img: 'aircon-hero', h: 'Air conditioning', href: '/air-conditioning-installation-christchurch/', p: 'We install heat pumps that cool as well as heat, so one unit keeps the house comfortable on hot nor\'west days.',
-    links: [['Dehumidifying', '/heat-pump-dehumidification/'], ['Energy efficient heat pumps', '/energy-efficient/'], ['Energy ratings', '/energy-star-heat-pumps/'], ['Brands compared', '/heat-pump-brands-comparison/']] },
-  { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', p: 'We clean and check your heat pump once a year, so it runs cheaper and quieter and smells fresh.',
-    links: [['Maintenance', '/maintenance-servicing/'], ['Seasonal tune-ups', '/heat-pump-seasonal-tune-ups/'], ['Winter preparation', '/winterisation-of-heat-pumps/'], ['Service plans', '/customised-heat-pump-service-plans/']] },
-  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth repairing.',
-    links: [['Urgent repairs', '/emergency-heat-pump-repair/'], ['Troubleshooting', '/heat-pump-troubleshooting/'], ['Leak detection', '/leak-detection-repair/'], ['Parts replacement', '/heat-pump-parts-replacement/']] },
-  { img: 'cleaning-hero', h: 'Heat pump cleaning', href: '/heat-pump-cleaning/', p: 'We deep clean behind the filters, taking the dust and mould off the coil and fan so the air comes out clean.',
-    links: [['Deodorising', '/heat-pump-deodorising/'], ['Air quality checks', '/air-quality-testing/'], ['Allergies and asthma', '/allergy-asthma-solutions-heat-pumps/'], ['Heat pump covers', '/covers/']] },
-  { img: 'mitsubishi-hero', h: 'Service by brand', href: '/heat-pump-services/', p: 'We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and service and repair those and Panasonic.',
-    links: [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Panasonic', '/panasonic-heat-pump-service-christchurch/']] },
-  { img: 'upgrade-hero', h: 'Efficiency upgrades', href: '/heat-pump-efficiency-upgrades/', p: 'We swap old units for newer, more efficient ones and show you where your power is going.',
-    links: [['Power usage checks', '/energy-consumption-monitoring/'], ['Thermostat calibration', '/heat-pump-thermostat-calibration/'], ['Remote monitoring', '/remote-monitoring-and-diagnostics/']] },
+  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', a: 'Heat pump installation in Christchurch',
+    p: 'We size from your rooms, insulation, glazing and orientation. Wall, floor console and high wall units, installed tidy.',
+    checkLabel: 'What we check before quoting', check: ['room size', 'ceiling height', 'insulation', 'glazing', 'orientation', 'outdoor unit placement'] },
+  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', a: 'Ducted heat pump installation Christchurch',
+    p: 'We plan and fit ducted systems with a vent in every room and nothing on the walls. Best planned early in a build or renovation.',
+    checkLabel: 'What we check', check: ['room layout', 'ceiling and roof access', 'zoning needs', 'duct runs', 'outdoor unit siting'] },
+  { img: 'multi-hero', h: 'Multi-room heat pumps', href: '/multi-room-heat-pump-installation/', a: 'Multi-room heat pump installation',
+    p: 'Several indoor units on one outdoor unit, so each room you use has its own heat and its own controller.',
+    checkLabel: 'What we check', check: ['how many rooms run at once', 'whether a multi split or ducted suits better', 'outdoor unit capacity'] },
+  { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', a: 'Heat pump servicing Christchurch',
+    p: 'We clean and check your heat pump once a year, so it runs cheaper and quieter and smells fresh. Before winter is best.',
+    checkLabel: 'What an annual service covers', check: ['coil clean', 'filter deep clean', 'drain flush', 'electrical check', 'refrigerant pressure test'] },
+  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', a: 'Heat pump repair Christchurch',
+    p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth repairing.',
+    checkLabel: 'What we check', check: ['fault codes', 'refrigerant pressure', 'electrical draw', 'airflow', 'drainage', 'outdoor unit condition'] },
 ];
+
+const brandsInstalled = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '']];
 
 const guides = [
-  { img: 'boundary-hero', h: 'Heat pump boundary rules', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go.' },
-  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How to work out the kW a room needs, so you don\'t pay for a unit that\'s too big.' },
-  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', p: 'What makes up the price of an install, so you can compare quotes properly.' },
-  { img: 'bestbrands-hero', h: 'Best heat pump brands', href: '/best-heat-pump-brands-christchurch/', p: 'How Mitsubishi Electric, Daikin, Fujitsu and Toshiba compare for Christchurch homes.' },
-  { img: 'noise-hero', h: 'Noise problems', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, and the repairs that quieten it.' },
-  { img: 'dvs-hero', h: 'Ducted vs split', href: '/ducted-vs-split-heat-pumps-christchurch/', p: 'Which suits your house and budget, and what each one needs to fit.' },
+  { img: 'boundary-hero', h: 'Heat pump boundary rules and consent', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go in Christchurch.', a: 'Read the boundary rules guide' },
+  { img: 'noise-hero', h: 'Noise problems and solutions', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, what the council rules actually say, and the repairs that quieten it.', a: 'Read the noise guide' },
+  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How to work out the kW a room needs, so you don\'t pay for a unit that\'s too big.', a: 'Use the sizing guide' },
 ];
 
+const steps = [
+  ['You tell us the room and the problem.', 'Size, ceiling height, how the space is used, or just "it\'s not heating."'],
+  ['We ask about insulation, glazing and orientation.', 'These decide the kW far more than floor area alone.'],
+  ['We recommend a size and a unit.', 'Sometimes that\'s a smaller unit than you expected. Sometimes it\'s a repair, not a new one.'],
+  ['You get a written quote before any work starts.', 'Free, no obligation.'],
+];
+
+const areas = [['Rolleston', '/rolleston/'], ['Lincoln', '/lincoln/'], ['Halswell', '/halswell/'], ['Riccarton', '/heat-pumps-riccarton/'], ['Papanui', '/heat-pumps-papanui/'], ['Cashmere', '/cashmere/'], ['Sumner', '/sumner/'], ['Lyttelton', '/lyttelton/']];
+
 const faqs = [
-  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic. We do most other brands sold in New Zealand too.' },
+  { q: 'Which heat pump brands do you install?', a: 'Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic, and most other brands sold in New Zealand.' },
   { q: 'What areas do you cover?', a: 'All of Christchurch, and Lyttelton. Plus Selwyn towns like Rolleston, Lincoln and Prebbleton. See the <a href="/locations/">full list of locations</a>.' },
   { q: 'Do I need consent for a heat pump?', a: 'Usually not. Christchurch doesn\'t set a distance from the boundary. The District Plan controls the noise at the neighbour\'s property instead. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.' },
+  { q: 'How do you decide what size unit I need?', a: 'We look at the rooms, ceiling height, insulation, glazing and orientation, not just floor area. A well-insulated room sometimes needs a smaller unit than expected. Our <a href="/heat-pump-sizing/">sizing guide</a> explains the method.' },
+  { q: 'Do you charge for a quote?', a: 'No. The quote is free and there\'s no obligation. We\'ll look at the room and recommend a size and unit before any work starts.' },
   { q: 'How often should a heat pump be serviced?', a: 'Once a year for most homes. Before winter is best. In between, clean the filters yourself every few weeks while it\'s working hard.' },
-  { q: 'Are you insured?', a: 'Yes. We\'re fully insured. Every install comes with warranties on parts and labour.' },
 ];
 ---
 <Base
-  title="Heat Pumps Christchurch, Install & Repair"
-  description="Heat pump installation, servicing and repairs in Christchurch. Mitsubishi, Daikin, Fujitsu and Toshiba, sized to your home, with a free quote before any work."
+  title="Heat Pumps Christchurch: Install & Repair"
+  description="Heat pump installation, servicing and repairs across Christchurch, Selwyn and Lyttelton. Sized to your home, not the biggest unit we can sell. Free quote."
   image="home-hero"
   schema={[{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) }]}>
 
-  <Hero image="home-hero" h1="Heat pump installation, service and repairs in Christchurch"
-        intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Every unit is sized for your home, and the quote is free. Locally owned since ${site.founded}.`} />
+  <Hero image="home-hero" h1="Heat pumps in Christchurch: sized to your home, not the biggest unit we can sell."
+        intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Locally owned since ${site.founded}. Free quote. We look at your rooms, insulation and windows before we recommend a unit.`}
+        meta="No obligation. We'll call or email you back." />
+
+  <section class="brand-strip">
+    <div class="wrap">
+      <p><strong>We install:</strong> {brandsInstalled.map(([n, href], i) => <>{i > 0 && ' · '}{href ? <a href={href}>{n}</a> : n}</>)}</p>
+      <p><strong>We service and repair:</strong> those, plus <a href="/panasonic-heat-pump-service-christchurch/">Panasonic</a>, and most other brands sold in New Zealand.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Heat pump guides for Christchurch homes</h2>
+      <div class="grid three">
+        {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p><p class="card-go">{g.a} →</p></div></a>)}
+      </div>
+      <p class="more"><a href="/heat-pump-guides/">See all heat pump guides</a></p>
+    </div>
+  </section>
+
+  <section class="section warm">
+    <div class="wrap">
+      <h2>A free heat pump quote that starts with your house, not a unit</h2>
+      <ol class="steps">
+        {steps.map(([h, p]) => <li><strong>{h}</strong> {p}</li>)}
+      </ol>
+    </div>
+  </section>
 
   <section class="section">
     <div class="wrap">
@@ -71,7 +102,8 @@ const faqs = [
             <div class="card-body">
               <h3><a href={s.href}>{s.h}</a></h3>
               <p>{s.p}</p>
-              <ul class="card-links">{s.links.map(([label, href]) => <li><a href={href}>{label}</a></li>)}</ul>
+              <p class="card-check"><strong>{s.checkLabel}:</strong> {s.check.join(' · ')}.</p>
+              <p class="card-go"><a href={s.href}>{s.a} →</a></p>
             </div>
           </article>
         ))}
@@ -122,22 +154,12 @@ const faqs = [
     </div>
   </section>
 
-  <section class="section">
-    <div class="wrap">
-      <h2>Heat pump guides for Christchurch homes</h2>
-      <p class="lead">What a heat pump costs, what size you need, which brand suits your house, and where the council lets the outdoor unit go.</p>
-      <div class="grid three">
-        {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p></div></a>)}
-      </div>
-      <p class="more"><a href="/heat-pump-guides/">See all heat pump guides</a></p>
-    </div>
-  </section>
-
   <section class="section warm">
     <div class="wrap">
       <h2>Heat pumps across Christchurch, Selwyn and Lyttelton</h2>
-      <p class="lead">We work in every Christchurch suburb and in Lyttelton, plus the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu.</p>
-      <AreaCards />
+      <p class="lead">We work in every Christchurch suburb, plus Lyttelton and the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu.</p>
+      <p class="areas"><strong>Popular areas:</strong> {areas.map(([n, href], i) => <>{i > 0 && ' · '}<a href={href}>{n}</a></>)}</p>
+      <p class="more"><a href="/locations/">See all locations</a></p>
     </div>
   </section>
 
@@ -159,10 +181,13 @@ const faqs = [
   @media (max-width: 900px) { .brand-split { grid-template-columns: 1fr; gap: 32px; } :global(.brand-photo) { aspect-ratio: 3/2 !important; } }
   .card h3 a { color: var(--ink); text-decoration: none; }
   .card h3 a:hover { color: var(--brand); }
-  .card-links { list-style: none; padding: 0; margin: 16px 0 0; }
-  .card-links li { display: flex; align-items: center; gap: 10px; padding: 7px 0; line-height: 1.35; border-top: 1px solid #eceff2; }
-  .card-links li:last-child { padding-bottom: 0; }
-  .card-links li::before { content: ''; flex: none; width: 6px; height: 6px; border-radius: 50%; background: var(--brand); }
-  .card-links a { color: var(--link); text-decoration: none; font-weight: 500; font-size: .9rem; }
-  .card-links a:hover { text-decoration: underline; }
+  .brand-strip { background: #fff; border-bottom: 1px solid #eceff2; padding: 18px 0; }
+  .brand-strip p { margin: 4px 0; }
+  .brand-strip a, .areas a { font-weight: 600; }
+  .card-check { font-size: .95rem; color: var(--ink-soft); }
+  .card-go { margin-top: 12px; font-weight: 600; color: var(--link); }
+  .card-go a { color: var(--link); text-decoration: none; }
+  .card-go a:hover { text-decoration: underline; }
+  .steps { padding-left: 1.4em; margin: 24px 0 0; }
+  .steps li { padding: 0 0 14px 6px; }
 </style>

@@ -88,3 +88,5 @@ Had a complaint? The solutions are usually simple.
 - **Moving the outdoor unit a few metres.** Away from their bedroom windows, or out of a corner, can be enough.
 
 We can look at your install and tell you what will make the difference. Call **[03 242 1023](tel:032421023)**.
+
+**Need this checked on your property?** We fit, service and repair heat pumps across Christchurch. [Free quote →](/contact-us/) · [What size do I need? →](/heat-pump-sizing/)

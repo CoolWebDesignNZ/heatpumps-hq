@@ -25,6 +25,17 @@ related:
   - { label: Troubleshooting guide, href: /heat-pump-problems-troubleshooting-guide/, text: "Checks you can do yourself before you call." }
 ---
 
+## What we check on a heat pump repair call
+
+- Fault codes and controller history
+- Refrigerant pressure and leak points
+- Electrical draw and connections
+- Airflow: filters, coil, fan and ducting
+- Drainage and condensate
+- Outdoor unit condition and siting
+
+We diagnose on site and tell you if it's worth repairing or replacing, before any work starts.
+
 ## Common heat pump faults we repair in Christchurch
 
 Most repair calls we get in Christchurch are one of these:

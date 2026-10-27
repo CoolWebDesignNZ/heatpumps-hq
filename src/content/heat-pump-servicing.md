@@ -25,6 +25,16 @@ related:
   - { label: Heat pump cleaning, href: /heat-pump-cleaning/, text: "A deeper clean for smells, dust and mould." }
 ---
 
+## What an annual heat pump service covers
+
+- **Coil clean:** the dust and mould that builds up behind the filters
+- **Filter deep clean,** not just a rinse
+- **Drain flush,** so condensate doesn't back up or smell
+- **Electrical check:** connections, draw and safety
+- **Refrigerant pressure test,** to catch a slow leak before it becomes a repair
+
+If something needs repairing, we'll tell you before we do it.
+
 ## Booking heat pump servicing in Christchurch
 
 When you book, tell us how many indoor units you have. Tell us if any are ducted, and roughly where the outdoor units sit. A unit on a second-storey bracket or under a deck changes the gear we bring. Something bugging you, like a drip, a noise or a smell? Mention it. We'll look at that first.

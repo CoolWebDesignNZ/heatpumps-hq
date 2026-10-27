@@ -46,6 +46,17 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the kW a room needs." }
 ---
 
+## What we check before quoting a heat pump installation
+
+- Room size and ceiling height
+- Insulation level
+- Glazing and orientation
+- How the space is actually used
+- Outdoor unit placement: clearance, noise, drainage and boundary rules
+- Electrical supply and connection point
+
+Sometimes the answer is a smaller unit than you expected. Sometimes it's a repair, not a new one.
+
 ## What a good heat pump installation starts with
 
 It starts with a look at your house, before we quote. Get the size or the spot wrong and the heat pump costs more to run. It never feels quite right. So we check each room's size and shape. We see how well the ceiling, walls and floor are insulated. We look at how much glass there is and which way it faces. And we ask how you use the room on a winter day.
