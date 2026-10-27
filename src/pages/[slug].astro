@@ -8,6 +8,7 @@ import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import SuburbMap from '../components/SuburbMap.astro';
+import MoneyPage from '../components/MoneyPage.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 import nav from '../data/nav.json';
@@ -130,7 +131,8 @@ if (fm.faqs?.length) {
         : <span aria-current="page">{c.label}</span>)}
     </nav>
   </Hero>
-  {bands.map((b, i) => (
+  {fm.design === 'money' && <MoneyPage sections={sections} fm={fm} heroOf={heroOf} />}
+  {fm.design !== 'money' && bands.map((b, i) => (
     <>
     <section class={`band ${i % 2 ? 'band-tint' : ''}`}>
       {bandImages[i] ? (
@@ -159,7 +161,7 @@ if (fm.faqs?.length) {
     </>
   ))}
   {fm.suburbMap && <SuburbMap heading={fm.suburbMap.heading} lead={fm.suburbMap.lead} />}
-  {fm.steps?.length && (
+  {fm.design !== 'money' && fm.steps?.length && (
     <section class="section tint">
       <div class="wrap">
         <h2>{fm.stepsHeading ?? 'How we work at Heat Pumps HQ'}</h2>
@@ -172,7 +174,7 @@ if (fm.faqs?.length) {
     </section>
   )}
   {fm.brands && (
-    <section class="section">
+    <section class:list={["section", { warm: fm.design === 'money' }]}>
       <div class="wrap">
         <h2>{fm.brandsHeading ?? 'Heat pump brands we fit and service'}</h2>
         <p class="lead">We install four brands and compare their models for your rooms, then suggest the one that fits, not whatever's in stock.</p>
@@ -218,7 +220,7 @@ if (fm.faqs?.length) {
       <div class="wrap grid grid-2">{leftover.map((id) => <Img id={id} />)}</div>
     </section>
   )}
-  {fm.faqs?.length && <Faq items={fm.faqs} heading={fm.faqHeading} />}
+  {fm.faqs?.length && <Faq items={fm.faqs} heading={fm.faqHeading} split={fm.design === 'money'} />}
   {fm.related?.length && (
     <section class="section">
       <div class="wrap">

@@ -1,0 +1,234 @@
+---
+// The installation page's own layout (design: money in the frontmatter). The copy is the page's
+// Markdown, unchanged: each H2 section is picked apart here (heading, lead
+// paragraphs, list items, closing paragraphs) and laid out as checklists,
+// cards, photo splits and a price panel instead of plain text bands.
+import Img from './Img.astro';
+import site from '../data/site.json';
+
+interface Props { sections: string[]; fm: any; heroOf: (href: string) => string | undefined }
+const { sections, fm, heroOf } = Astro.props;
+
+const strip = (s: string) => s.replace(/<[^>]+>/g, '').trim();
+const parse = (html: string) => {
+  const h2 = strip(html.match(/<h2[^>]*>([\s\S]*?)<\/h2>/)?.[1] ?? '');
+  const id = html.match(/<h2 id="([^"]+)"/)?.[1];
+  const body = html.replace(/<h2[\s\S]*?<\/h2>/, '');
+  const listAt = body.search(/<ul>/);
+  const before = listAt < 0 ? body : body.slice(0, listAt);
+  const after = listAt < 0 ? '' : body.slice(body.indexOf('</ul>') + 5);
+  const paras = (s: string) => [...s.matchAll(/<p>([\s\S]*?)<\/p>/g)].map((m) => m[1]);
+  const items = listAt < 0 ? [] : [...body.slice(listAt, body.indexOf('</ul>')).matchAll(/<li>([\s\S]*?)<\/li>/g)].map((m) => {
+    const t = m[1].match(/^<strong>([\s\S]*?)<\/strong>\s*([\s\S]*)$/);
+    return t ? { title: t[1].replace(/\.$/, ''), text: t[2], html: m[1] } : { title: '', text: m[1], html: m[1] };
+  });
+  return { h2, id, lead: paras(before), items, after: paras(after) };
+};
+const s = sections.map(parse);
+const find = (start: string) => s.find((x) => x.h2.toLowerCase().startsWith(start.toLowerCase()));
+const check = find('What we check');
+const start = find('What a good');
+const homes = find('Heat pump installation for');
+const choose = find('Choosing');
+const outdoor = find('Where the outdoor');
+const replace = find('Replacing');
+const price = find('What changes the price');
+if (![check, start, homes, choose, outdoor, replace, price].every(Boolean)) throw new Error('MoneyPage: a section heading changed in the Markdown');
+
+// The Selwyn item is a rule, not a kind of house: it sits under the cards as a note.
+const homeCards = homes.items.filter((i) => !/^Selwyn/.test(i.title));
+const homeNote = homes.items.find((i) => /^Selwyn/.test(i.title));
+// Each system option shows the photo of the page it links to first.
+const optionImg = (html: string) => { const href = html.match(/href="(\/[^"]+)"/)?.[1]; return href ? heroOf(href) : undefined; };
+const gallery = fm.gallery ?? [];
+const steps = fm.steps ?? [];
+---
+<section class="m-sec">
+  <div class="wrap m-check">
+    <div>
+      <h2 id={check.id}>{check.h2}</h2>
+      {check.after.map((p) => <p class="lead" set:html={p} />)}
+      <a class="btn btn-primary" href="#quote">Get a free quote</a>
+    </div>
+    <ol class="m-tiles">
+      {check.items.map((it, i) => <li><span class="m-num">{String(i + 1).padStart(2, '0')}</span><span set:html={it.html} /></li>)}
+    </ol>
+  </div>
+</section>
+
+<section class="m-sec tint">
+  <div class="wrap m-split">
+    <div class="prose">
+      <h2 id={start.id}>{start.h2}</h2>
+      {start.lead.map((p) => <p set:html={p} />)}
+    </div>
+    {gallery[0] && <figure class="m-photo"><Img id={gallery[0]} /></figure>}
+  </div>
+</section>
+
+<section class="m-sec">
+  <div class="wrap">
+    <h2 id={homes.id}>{homes.h2}</h2>
+    {homes.lead.map((p) => <p class="lead" set:html={p} />)}
+    <div class="m-cards">
+      {homeCards.map((c) => <div class="m-card"><h3>{c.title}</h3><p set:html={c.text} /></div>)}
+    </div>
+    {homeNote && <div class="m-note"><h3>{homeNote.title}</h3><p set:html={homeNote.text} /></div>}
+  </div>
+</section>
+
+<section class="mid-cta">
+  <div class="wrap mid-cta-in">
+    <p><strong>Get a free quote.</strong> Installs, servicing and repairs on all major brands.</p>
+    <div class="mid-cta-btns">
+      <a class="btn btn-primary" href={site.phoneHref}>Call {site.phone}</a>
+      <a class="btn btn-ghost" href="#quote">Request a quote</a>
+    </div>
+  </div>
+</section>
+
+<section class="m-sec tint">
+  <div class="wrap">
+    <h2 id={choose.id}>{choose.h2}</h2>
+    {choose.lead.map((p) => <p class="lead" set:html={p} />)}
+    <div class="m-options">
+      {choose.items.map((o) => {
+        const img = optionImg(o.html);
+        return (
+          <div class="m-option">
+            {img && <Img id={img} class="m-option-img" />}
+            <div class="m-option-body"><p set:html={o.html} /></div>
+          </div>
+        );
+      })}
+    </div>
+    {choose.after.map((p) => <p class="m-after" set:html={p} />)}
+  </div>
+</section>
+
+{steps.length > 0 && (
+  <section class="m-sec">
+    <div class="wrap">
+      <h2>{fm.stepsHeading}</h2>
+      <ol class="m-steps">
+        {steps.map((st: any, i: number) => <li><span class="m-step-n">{i + 1}</span><h3>{st.h}</h3><p set:html={st.p} /></li>)}
+      </ol>
+    </div>
+  </section>
+)}
+
+<section class="m-sec tint">
+  <div class="wrap m-split m-split-photo-left">
+    {gallery[1] && <figure class="m-photo"><Img id={gallery[1]} /></figure>}
+    <div class="m-stack">
+      <div class="prose">
+        <h2 id={outdoor.id}>{outdoor.h2}</h2>
+        {outdoor.lead.map((p) => <p set:html={p} />)}
+      </div>
+      <div class="m-panel prose">
+        <h2 id={replace.id} class="m-h2-sm">{replace.h2}</h2>
+        {replace.lead.map((p) => <p set:html={p} />)}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="m-sec">
+  <div class="wrap m-price">
+    <div>
+      <h2 id={price.id}>{price.h2}</h2>
+      {price.lead.map((p) => <p class="lead" set:html={p} />)}
+      <ol class="m-factors">
+        {price.items.map((f, i) => <li><span class="m-num">{String(i + 1).padStart(2, '0')}</span><div><h3>{f.title}</h3><p set:html={f.text} /></div></li>)}
+      </ol>
+    </div>
+    <aside class="m-quote">
+      {price.after.map((p) => <p class="m-quote-p" set:html={p} />)}
+      <a class="btn btn-primary" href="#quote">Get a free quote</a>
+      <p class="m-quote-call">Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
+    </aside>
+  </div>
+</section>
+
+<div class="m-bar" aria-label="Get a quote">
+  <a class="btn btn-ghost" href={site.phoneHref}>Call {site.phone}</a>
+  <a class="btn btn-primary" href="#quote">Free quote</a>
+</div>
+
+<style>
+  .m-sec { padding: 88px 0; }
+  .m-sec.tint { background: var(--brand-tint); }
+  .m-sec h2 { margin-top: 0; }
+  .m-sec .lead { color: var(--ink-soft); }
+  @media (max-width: 860px) { .m-sec { padding: 56px 0; } }
+
+  .m-check { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 64px; align-items: center; }
+  .m-tiles { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .m-tiles li { display: flex; gap: 16px; align-items: flex-start; background: var(--brand-tint); border-radius: var(--radius); padding: 22px 22px; font-weight: 600; line-height: 1.4; }
+  .m-num { flex: none; width: 1.9em; font-weight: 800; color: var(--brand); font-size: .95rem; letter-spacing: .04em; padding-top: 1px; }
+
+  .m-split { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center; }
+  .m-split .prose p:last-child { margin-bottom: 0; }
+  .m-photo { margin: 0; }
+  .m-photo :global(img) { width: 100%; aspect-ratio: 4/3 !important; object-fit: cover; border-radius: var(--radius); }
+  .m-split-photo-left { align-items: start; }
+  .m-stack { display: grid; gap: 32px; }
+  .m-panel { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 32px 34px; }
+  .m-h2-sm { font-size: clamp(1.4rem, 2.4vw, 1.8rem); }
+
+  .m-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 36px; }
+  .m-card { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 28px; }
+  .m-card h3, .m-note h3 { font-size: 1.2rem; margin: 0 0 .5em; }
+  .m-card p, .m-note p { margin: 0; color: var(--ink-soft); }
+  .m-sec:not(.tint) .m-card { background: var(--paper-warm); box-shadow: none; }
+  .m-note { margin-top: 20px; background: var(--brand-tint); border-radius: var(--radius); padding: 24px 28px; }
+
+  .m-options { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-top: 36px; }
+  .m-option { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; }
+  .m-option :global(.m-option-img) { width: 100%; aspect-ratio: 4/3 !important; object-fit: cover; border-radius: 0; }
+  .m-option-body { padding: 22px 22px 24px; }
+  .m-option-body p { margin: 0; color: var(--ink-soft); }
+  .m-option-body p { font-size: 1.05rem; }
+  .m-option-body :global(strong) { color: var(--ink); }
+  .m-after { margin: 32px 0 0; }
+
+  .m-steps { list-style: none; padding: 0; margin: 40px 0 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px 32px; counter-reset: s; }
+  .m-steps li { position: relative; padding-top: 0; }
+  .m-step-n { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--brand); color: #fff; font-weight: 800; margin-bottom: 14px; }
+  .m-steps h3 { margin: 0 0 .4em; font-size: 1.2rem; }
+  .m-steps p { margin: 0; color: var(--ink-soft); }
+
+  .m-price { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 4fr); gap: 64px; align-items: start; }
+  .m-factors { list-style: none; padding: 0; margin: 28px 0 0; }
+  .m-factors li { display: flex; gap: 20px; padding: 20px 0; border-top: 1px solid #e6e9ec; }
+  .m-factors li:last-child { border-bottom: 1px solid #e6e9ec; }
+  .m-factors h3 { font-size: 1.15rem; margin: 0 0 .3em; }
+  .m-factors p { margin: 0; color: var(--ink-soft); }
+  .m-quote { position: sticky; top: 110px; background: var(--brand-tint); border-radius: var(--radius); padding: 32px; }
+  .m-quote-p { font-size: 1.15rem; font-weight: 600; margin: 0 0 20px; }
+  .m-quote .btn { width: 100%; text-align: center; }
+  .m-quote-call { margin: 16px 0 0; text-align: center; color: var(--ink-soft); font-size: .95rem; }
+  .m-quote-call a { font-weight: 700; }
+
+  .m-bar { display: none; }
+  @media (max-width: 760px) {
+    .m-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 50; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); background: #fff; box-shadow: 0 -4px 20px rgba(16, 24, 32, .12); }
+    .m-bar .btn { text-align: center; padding-left: 8px; padding-right: 8px; }
+    :global(body) { padding-bottom: 72px; }
+  }
+
+  @media (max-width: 1000px) {
+    .m-options { grid-template-columns: 1fr 1fr; }
+    .m-cards { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 860px) {
+    .m-check, .m-split, .m-price { grid-template-columns: 1fr; gap: 36px; }
+    .m-steps { grid-template-columns: 1fr 1fr; }
+    .m-quote { position: static; }
+  }
+  @media (max-width: 600px) {
+    .m-tiles, .m-cards, .m-options, .m-steps { grid-template-columns: 1fr; }
+    .m-option :global(.m-option-img) { aspect-ratio: 16/9 !important; }
+    .m-tiles li { padding: 16px 18px; }
+  }
+</style>

@@ -7,6 +7,7 @@ h1: Heat pump installation in Christchurch
 serviceName: Heat pump installation
 intro: "We install heat pumps across Christchurch. We check your rooms, insulation and windows, and put the units where they heat well and run quietly."
 hero: install-hero
+design: money
 gallery: [install-pipework, install-commission]
 stepsHeading: What every heat pump installation includes
 steps:
