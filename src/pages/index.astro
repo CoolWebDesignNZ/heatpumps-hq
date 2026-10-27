@@ -13,17 +13,17 @@ const serviceCount = urls.filter((u) => u.type === 'service').length;
 // Five service cards, each with what we check before quoting (client, 2026-10-27).
 const services = [
   { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', a: 'Heat pump installation in Christchurch',
-    p: 'We size from your rooms, insulation, glazing and orientation. Wall, floor console and high wall units, installed tidy.',
+    p: 'We size from your rooms, insulation, glazing and orientation. Wall, floor console and high-wall units, installed tidy.',
     checkLabel: 'What we check before quoting', check: ['room size', 'ceiling height', 'insulation', 'glazing', 'orientation', 'outdoor unit placement'] },
   { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', a: 'Ducted heat pump installation Christchurch',
     p: 'We plan and fit ducted systems with a vent in every room and nothing on the walls. Best planned early in a build or renovation.',
-    checkLabel: 'What we check', check: ['room layout', 'ceiling and roof access', 'zoning needs', 'duct runs', 'outdoor unit siting'] },
+    checkLabel: 'What we check', check: ['room layout', 'ceiling/roof access', 'zoning needs', 'duct runs', 'outdoor unit siting'] },
   { img: 'multi-hero', h: 'Multi-room heat pumps', href: '/multi-room-heat-pump-installation/', a: 'Multi-room heat pump installation',
     p: 'Several indoor units on one outdoor unit, so each room you use has its own heat and its own controller.',
-    checkLabel: 'What we check', check: ['how many rooms run at once', 'whether a multi split or ducted suits better', 'outdoor unit capacity'] },
+    checkLabel: 'What we check', check: ['how many rooms run at once', 'whether a multi-split or ducted suits better', 'outdoor unit capacity'] },
   { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', a: 'Heat pump servicing Christchurch',
     p: 'We clean and check your heat pump once a year, so it runs cheaper and quieter and smells fresh. Before winter is best.',
-    checkLabel: 'What an annual service covers', check: ['coil clean', 'filter deep clean', 'drain flush', 'electrical check', 'refrigerant pressure test'] },
+    checkLabel: 'What an annual service covers', check: ['coil clean', 'filter deep-clean', 'drain flush', 'electrical check', 'refrigerant pressure test'] },
   { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', a: 'Heat pump repair Christchurch',
     p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth repairing.',
     checkLabel: 'What we check', check: ['fault codes', 'refrigerant pressure', 'electrical draw', 'airflow', 'drainage', 'outdoor unit condition'] },
@@ -32,8 +32,8 @@ const services = [
 const brandsInstalled = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '']];
 
 const guides = [
-  { img: 'boundary-hero', h: 'Heat pump boundary rules and consent', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go in Christchurch.', a: 'Read the boundary rules guide' },
-  { img: 'noise-hero', h: 'Noise problems and solutions', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, what the council rules actually say, and the repairs that quieten it.', a: 'Read the noise guide' },
+  { img: 'boundary-hero', h: 'Heat pump boundary rules & consent', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go in Christchurch.', a: 'Read the boundary rules guide' },
+  { img: 'noise-hero', h: 'Noise problems & fixes', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, what the council rules actually say, and the repairs that quieten it.', a: 'Read the noise guide' },
   { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', p: 'How to work out the kW a room needs, so you don\'t pay for a unit that\'s too big.', a: 'Use the sizing guide' },
 ];
 
@@ -56,7 +56,7 @@ const faqs = [
 ];
 ---
 <Base
-  title="Heat Pumps Christchurch: Install & Repair"
+  title="Heat Pumps Christchurch: Installation, Service & Repair"
   description="Heat pump installation, servicing and repairs across Christchurch, Selwyn and Lyttelton. Sized to your home, not the biggest unit we can sell. Free quote."
   image="home-hero"
   schema={[{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) }]}>
@@ -68,7 +68,7 @@ const faqs = [
   <section class="brand-strip">
     <div class="wrap">
       <p><strong>We install:</strong> {brandsInstalled.map(([n, href], i) => <>{i > 0 && ' · '}{href ? <a href={href}>{n}</a> : n}</>)}</p>
-      <p><strong>We service and repair:</strong> those, plus <a href="/panasonic-heat-pump-service-christchurch/">Panasonic</a>, and most other brands sold in New Zealand.</p>
+      <p><strong>We service &amp; repair:</strong> those, plus <a href="/panasonic-heat-pump-service-christchurch/">Panasonic</a>, and most other brands sold in New Zealand.</p>
     </div>
   </section>
 
@@ -84,7 +84,7 @@ const faqs = [
 
   <section class="section warm">
     <div class="wrap">
-      <h2>A free heat pump quote that starts with your house, not a unit</h2>
+      <h2>A free quote that starts with your house, not a unit.</h2>
       <ol class="steps">
         {steps.map(([h, p]) => <li><strong>{h}</strong> {p}</li>)}
       </ol>

@@ -15,7 +15,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 - Never invent facts: no testimonials, success stories, Nate quotes, stats, prices or claims ("most often", "fastest") unless Nate supplies them. State rules and limits plainly and check them against the official source, but never cite it: no "Source:" lines, no "EECA says" (client, 2026-10-20). Link out only to a tool or form the reader uses.
 - Talk to the reader about their home and heat pump, never about the website: no "this page", "each suburb page covers", "our X page explains". Put links on the topic words instead.
 - Old site copy is not reused. Only its URLs.
-- We repair heat pumps, we never "fix" them, and we never promise a fixed price or a price agreed before we start (client, 2026-10-27). `npm run check-copy` fails both.
+- We repair heat pumps: never "we fix" or "fit, service and fix" as what we do. "Fixes" and "fixing" elsewhere are fine (client, 2026-10-27). Never promise a fixed price or a price agreed before we start (client, 2026-10-27). `npm run check-copy` fails both.
 - Never quote, cite or link to other companies (manufacturers' or distributors' websites, news sites, charities). The brands we install can be named as products we fit. Links out go only to .govt.nz tools and forms (client, 2026-10-20).
 
 ## SEO per page

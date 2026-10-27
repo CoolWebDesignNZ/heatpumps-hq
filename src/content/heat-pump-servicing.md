@@ -27,13 +27,13 @@ related:
 
 ## What an annual heat pump service covers
 
-- **Coil clean:** the dust and mould that builds up behind the filters
-- **Filter deep clean,** not just a rinse
-- **Drain flush,** so condensate doesn't back up or smell
-- **Electrical check:** connections, draw and safety
-- **Refrigerant pressure test,** to catch a slow leak before it becomes a repair
+- Coil clean: the dust and mould that builds up behind the filters
+- Filter deep-clean, not just a rinse
+- Drain flush, so condensate doesn't back up or smell
+- Electrical check: connections, draw, and safety
+- Refrigerant pressure test, to catch a slow leak before it becomes a repair
 
-If something needs repairing, we'll tell you before we do it.
+If something needs fixing, we'll tell you before we do it.
 
 ## Booking heat pump servicing in Christchurch
 

@@ -46,13 +46,13 @@ related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How we work out the kW a room needs." }
 ---
 
-## What we check before quoting a heat pump installation
+## What we check before quoting an install
 
 - Room size and ceiling height
 - Insulation level
 - Glazing and orientation
 - How the space is actually used
-- Outdoor unit placement: clearance, noise, drainage and boundary rules
+- Outdoor unit placement: clearance, noise, drainage, boundary rules
 - Electrical supply and connection point
 
 Sometimes the answer is a smaller unit than you expected. Sometimes it's a repair, not a new one.
