@@ -4,7 +4,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 
 ## URLs
 - Every URL lives in `src/data/urls.json`: the 133 from the old site, plus new pages the client has approved (marked `"new": true`). Never rename or remove an old URL, never add a 301. The build fails on a page that isn't in urls.json.
-- New pages so far: /high-wall-heat-pumps/ and /floor-mounted-heat-pumps/ (client asked for pages on each heat pump type, 2026-10-18), /heat-pump-guides/ (the Guides hub the menu button opens, 2026-10-20).
+- New pages so far: /high-wall-heat-pumps/ and /floor-mounted-heat-pumps/ (client asked for pages on each heat pump type, 2026-10-18), /heat-pump-guides/ (the Guides hub the menu button opens, 2026-10-20), /toshiba-heat-pump-service-christchurch/ (client's copy, 2026-10-27).
 - Removed pages (heat-pump-subsidy, solar-powered-heat-pump-integration, energy-efficiency-assessment) stay gone: the client asked for them out (energy-efficiency-assessment removed 2026-10-20).
 
 ## Copy

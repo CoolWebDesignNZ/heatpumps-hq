@@ -6,7 +6,7 @@ import site from '../data/site.json';
 // home: the home page hero (brand line above the call line, narrower form column).
 interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean }
 const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
-const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '/heat-pump-services/']];
+const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '/toshiba-heat-pump-service-christchurch/']];
 ---
 <section class:list={["hero", { "hero-home": home }]}>
   <Img id={image} eager class="hero-bg" />

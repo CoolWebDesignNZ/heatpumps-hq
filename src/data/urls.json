@@ -480,6 +480,12 @@
   "type": "service"
  },
  {
+  "path": "/toshiba-heat-pump-service-christchurch/",
+  "slug": "toshiba-heat-pump-service-christchurch",
+  "type": "service",
+  "new": true
+ },
+ {
   "path": "/heat-pump-noise-problems-solutions/",
   "slug": "heat-pump-noise-problems-solutions",
   "type": "guide"

@@ -1413,5 +1413,20 @@
   "aspect": "4x3",
   "alt": "Floor console heat pump beside a window seat",
   "prompt": "Interior photograph of a white floor console heat pump set low on the wall beside a timber window seat in a renovated New Zealand villa, wool rug, soft daylight, short curtains tied back well clear of the console so nothing covers its front or top, natural light, realistic photograph, no people, no text, no logos"
- }
+ },
+  "toshiba-hero": {
+    "aspect": "16x9",
+    "alt": "Wall-mounted heat pump opened up for a service in a Christchurch lounge",
+    "prompt": "Realistic editorial photograph of a single white wall-mounted heat pump indoor unit high on a plain painted wall in a New Zealand lounge, front panel lifted open, one filter half slid out by a gloved hand reaching in from the edge of the frame, a clean drop sheet folded on the sideboard below, soft winter daylight, calm and tidy, only one heat pump unit in the picture and no outdoor unit, no faces, no text, no logos"
+  },
+  "toshiba-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump outdoor unit on raised feet against a house on a frosty Christchurch morning",
+    "prompt": "Realistic photograph of a white heat pump outdoor unit on raised feet against the side wall of a painted weatherboard New Zealand house, gravel underneath so defrost water can drain away, clear space around it, hard white frost on the garden and path on a clear still Canterbury winter morning, a little steam rising from the unit, no people, no text, no logos"
+  },
+  "toshiba-2": {
+    "aspect": "4x3",
+    "alt": "Dusty indoor coil behind the filters of a wall heat pump being cleaned",
+    "prompt": "Close-up realistic photograph of gloved hands cleaning the dusty aluminium fins of a wall-mounted heat pump indoor coil with a soft coil brush, front panel open and filters removed, a layer of grey dust on part of the coil and clean fins beside it, natural light, no text, no logos"
+  }
 }

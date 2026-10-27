@@ -65,7 +65,7 @@ Christchurch wears heat pumps differently from suburb to suburb. Tell us where t
 
 ## Heat pump brands we repair
 
-We repair the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
+We repair the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Toshiba](/toshiba-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
 
 ## Repair or replace your heat pump?
 

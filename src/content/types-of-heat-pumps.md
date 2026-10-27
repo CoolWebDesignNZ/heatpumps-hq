@@ -42,6 +42,8 @@ The high wall unit is the white box you know, mounted up near the ceiling. Warm 
 
 **Watch for:** in a room with a very high ceiling, warm air can collect up top. Where it goes matters. Aim it at the coldest part of the room, but not at a window. The bottom of a high wall unit should sit at least 2 metres from the floor. More on [high wall heat pumps](/high-wall-heat-pumps/) and how we fit them.
 
+<p class="type-btn"><a class="btn btn-primary" href="/high-wall-heat-pumps/">See high wall heat pumps →</a></p>
+
 ## Floor console heat pumps
 
 A floor console sits low on the wall. It's about the height of a small cabinet. It blows warm air out at floor level. Lots of models blow from the top at the same time.
@@ -49,6 +51,8 @@ A floor console sits low on the wall. It's about the height of a small cabinet. 
 **Good for:** heating. Floor consoles are mainly built for heating, because warm air rises and cold air falls. They suit rooms with sloped ceilings or no high wall space. They fit under a window. They're a good swap for an old fireplace or wood burner. And they suit older people who want the warmth close and filters they can reach without a ladder. More on [floor mounted heat pumps](/floor-mounted-heat-pumps/) and where they work best.
 
 **Watch for:** furniture in front of the unit. Anything in the airflow can push warm air straight back into the unit. That cuts efficiency. Consoles also take up floor space.
+
+<p class="type-btn"><a class="btn btn-primary" href="/floor-mounted-heat-pumps/">See floor mounted heat pumps →</a></p>
 
 ## Ceiling cassettes and bulkhead units
 
@@ -62,11 +66,15 @@ A **ceiling cassette** sits flush in the ceiling. Its grille blows air down or o
 
 One outdoor unit runs one indoor unit. It's the simplest way to heat one room or an open plan living area. It's usually the cheapest too. Want another room heated later? You add another system. See [single room installation](/single-room-heat-pump-installation/).
 
+<p class="type-btn"><a class="btn btn-primary" href="/single-room-heat-pump-installation/">See single room heat pumps →</a></p>
+
 ## Multi split systems
 
 One outdoor unit runs two or more indoor units. They can be different styles. Say a console in the lounge and high wall units in two bedrooms. You get one outdoor unit on the side of the house instead of three.
 
 There are trade-offs. The indoor units share one compressor, so a fault outside hits every room on the system. And the outdoor unit has to be sized for the whole group. In a big space, two smaller units or a multi split can spread heat better than one big unit. They give you more control too. See [multi-room installation](/multi-room-heat-pump-installation/).
+
+<p class="type-btn"><a class="btn btn-primary" href="/multi-room-heat-pump-installation/">See multi room heat pumps →</a></p>
 
 ## Ducted systems
 
@@ -75,6 +83,8 @@ A ducted heat pump hides the indoor unit, usually in the roof space. Warm air go
 **Good for:** heating the whole house with nothing on the walls. New builds. Big renovations where you can get into the ceilings.
 
 **Watch for:** it needs roof or underfloor space for the unit and ducts. And it's a bigger job. Before you settle on [ducted heat pumps](/ducted-heat-pumps-christchurch/), weigh up [ducted vs split systems](/ducted-vs-split-heat-pumps-christchurch/) for your house.
+
+<p class="type-btn"><a class="btn btn-primary" href="/ducted-heat-pumps-christchurch/">See ducted heat pumps →</a></p>
 
 ## Types of heat pumps for Christchurch houses
 

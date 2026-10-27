@@ -110,3 +110,6 @@ a.card:hover h3, a.card:focus-visible h3 { color: var(--link); }
   .band-photo { position: static; }
   .areas-split .prose ul { grid-template-columns: repeat(2, 1fr); }
 }
+/* A button line inside page copy (types of heat pumps). */
+.prose .type-btn { margin: 1.4em 0 0; }
+.prose a.btn { color: #fff; text-decoration: none; }

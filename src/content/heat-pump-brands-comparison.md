@@ -51,7 +51,7 @@ Already have a Fujitsu? We service and repair them, old and new. See [Fujitsu he
 
 ## Toshiba heat pumps compared
 
-We fit Toshiba high wall units, floor consoles, multi split systems and ducted systems. Ask us which models take Wi-Fi control, and which ducted units suit a shallow ceiling space.
+We fit Toshiba high wall units, floor consoles, multi split systems and ducted systems. Already have one? See [Toshiba heat pump service](/toshiba-heat-pump-service-christchurch/). Ask us which models take Wi-Fi control, and which ducted units suit a shallow ceiling space.
 
 ## Mitsubishi vs Daikin vs Fujitsu vs Toshiba, side by side
 
