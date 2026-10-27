@@ -1401,13 +1401,13 @@
  },
  "floor-hero": {
   "aspect": "16x9",
-  "alt": "Floor mounted heat pump under a window in a Christchurch lounge",
-  "prompt": "Editorial interior photograph of a cosy New Zealand lounge with a white floor console heat pump sitting low on the floor under a wide sash window, armchair beside it, high stud ceiling, rimu skirting, winter light, short curtains tied back well clear of the console so nothing covers its front or top, natural light, realistic photograph, no people, no text, no logos"
+  "alt": "Floor mounted heat pump low on the wall of a Christchurch lounge, clear of curtains and furniture",
+  "prompt": "Editorial interior photograph of a cosy New Zealand villa lounge with a white floor console heat pump indoor unit set low on the wall, mounted slim and flat against the wall with its base just above the skirting, wider than it is tall, thin flat front panel with a horizontal slatted outlet along the top edge and a slatted intake along the bottom, like a split system floor console, clearly not an air purifier or a portable heater, nothing on top of it, nothing in front of it, no window above it and no curtains near it, no brand name or logo, an armchair a metre to one side, rimu skirting boards, timber floor, soft winter daylight from out of frame, natural colours, realistic photograph, no people, no text, no logos"
  },
  "floor-1": {
   "aspect": "4x3",
   "alt": "Floor console heat pump in a bedroom",
-  "prompt": "Interior photograph of a calm New Zealand bedroom with a compact white floor console heat pump against the wall under a window, made bed, neutral tones, morning light, short curtains tied back well clear of the console so nothing covers its front or top, natural light, realistic photograph, no people, no text, no logos"
+  "prompt": "Interior photograph of a calm New Zealand bedroom with a white floor console heat pump indoor unit set low on the wall, mounted slim and flat against the wall with its base just above the skirting, wider than it is tall, thin flat front panel with a horizontal slatted outlet along the top edge and a slatted intake along the bottom, like a split system floor console, clearly not an air purifier or a portable heater, nothing on top of it, nothing in front of it, no window above it and no curtains near it, no brand name or logo, a made bed on the other side of the room, neutral tones, morning light from out of frame, realistic photograph, no people, no text, no logos"
  },
  "floor-2": {
   "aspect": "4x3",
