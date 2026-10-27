@@ -29,8 +29,6 @@ const services = [
     checkLabel: 'What we check', check: ['fault codes', 'refrigerant pressure', 'electrical draw', 'airflow', 'drainage', 'outdoor unit condition'] },
 ];
 
-const brandsInstalled = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '']];
-
 const guides = [
   { img: 'boundary-hero', h: 'Heat pump boundary rules & consent', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go in Christchurch.', a: 'Read the boundary rules guide' },
   { img: 'noise-hero', h: 'Noise problems & fixes', href: '/heat-pump-noise-problems-solutions/', p: 'Why a heat pump gets loud, what the council rules actually say, and the repairs that quieten it.', a: 'Read the noise guide' },
@@ -63,15 +61,7 @@ const faqs = [
 
   <Hero image="home-hero" home h1="Heat pumps in Christchurch: sized to your home, not the biggest unit we can sell."
         h1Lines={["Heat pumps in Christchurch:", "sized to your home,", "not the biggest unit we can sell."]}
-        intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Locally owned since ${site.founded}. Free quote. We look at your rooms, insulation and windows before we recommend a unit.`}
-        meta="No obligation. We'll call or email you back." />
-
-  <section class="brand-strip">
-    <div class="wrap">
-      <p><strong>We install:</strong> {brandsInstalled.map(([n, href], i) => <>{i > 0 && ' · '}{href ? <a href={href}>{n}</a> : n}</>)}</p>
-      <p><strong>We service &amp; repair:</strong> those, plus <a href="/panasonic-heat-pump-service-christchurch/">Panasonic</a>, and most other brands sold in New Zealand.</p>
-    </div>
-  </section>
+        intro={`We fit, service and repair heat pumps across Christchurch, Selwyn and Lyttelton. Locally owned since ${site.founded}. Free quote. We look at your rooms, insulation and windows before we recommend a unit.`} />
 
   <section class="section">
     <div class="wrap">
@@ -182,9 +172,7 @@ const faqs = [
   @media (max-width: 900px) { .brand-split { grid-template-columns: 1fr; gap: 32px; } :global(.brand-photo) { aspect-ratio: 3/2 !important; } }
   .card h3 a { color: var(--ink); text-decoration: none; }
   .card h3 a:hover { color: var(--brand); }
-  .brand-strip { background: #fff; border-bottom: 1px solid #eceff2; padding: 18px 0; }
-  .brand-strip p { margin: 4px 0; }
-  .brand-strip a, .areas a { font-weight: 600; }
+  .areas a { font-weight: 600; }
   .card-check { font-size: .95rem; color: var(--ink-soft); }
   .card-go { margin-top: 12px; font-weight: 600; color: var(--link); }
   .card-go a { color: var(--link); text-decoration: none; }
