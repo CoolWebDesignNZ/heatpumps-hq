@@ -5,29 +5,26 @@ import Hero from '../components/Hero.astro';
 import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import site from '../data/site.json';
-import urls from '../data/urls.json';
-const serviceCount = urls.filter((u) => u.type === 'service').length;
 
 
 
-// Five service cards, each with what we check before quoting (client, 2026-10-27).
+// Six main service cards (client, 2026-10-27), then the other services as a text list.
 const services = [
-  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', a: 'Heat pump installation in Christchurch',
-    p: 'We size from your rooms, insulation, glazing and orientation. Wall, floor console and high-wall units, installed tidy.',
-    checkLabel: 'What we check before quoting', check: ['room size', 'ceiling height', 'insulation', 'glazing', 'orientation', 'outdoor unit placement'] },
-  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', a: 'Ducted heat pump installation Christchurch',
-    p: 'We plan and fit ducted systems with a vent in every room and nothing on the walls. Best planned early in a build or renovation.',
-    checkLabel: 'What we check', check: ['room layout', 'ceiling/roof access', 'zoning needs', 'duct runs', 'outdoor unit siting'] },
-  { img: 'multi-hero', h: 'Multi-room heat pumps', href: '/multi-room-heat-pump-installation/', a: 'Multi-room heat pump installation',
-    p: 'Several indoor units on one outdoor unit, so each room you use has its own heat and its own controller.',
-    checkLabel: 'What we check', check: ['how many rooms run at once', 'whether a multi-split or ducted suits better', 'outdoor unit capacity'] },
-  { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', a: 'Heat pump servicing Christchurch',
-    p: 'We clean and check your heat pump once a year, so it runs cheaper and quieter and smells fresh. Before winter is best.',
-    checkLabel: 'What an annual service covers', check: ['coil clean', 'filter deep-clean', 'drain flush', 'electrical check', 'refrigerant pressure test'] },
-  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', a: 'Heat pump repair Christchurch',
-    p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth repairing.',
-    checkLabel: 'What we check', check: ['fault codes', 'refrigerant pressure', 'electrical draw', 'airflow', 'drainage', 'outdoor unit condition'] },
+  { img: 'home-install', h: 'Heat pump installation', href: '/heat-pump-installation-in-christchurch/', a: 'Get an installation quote',
+    p: 'We size from your rooms, insulation, glazing and orientation. Wall, floor console and high-wall units, installed tidy.' },
+  { img: 'home-ducted', h: 'Ducted heat pumps', href: '/ducted-heat-pumps-christchurch/', a: 'See ducted systems',
+    p: 'We plan and fit ducted systems with a vent in every room and nothing on the walls. Best planned early in a build or renovation.' },
+  { img: 'multi-hero', h: 'Multi-room heat pumps', href: '/multi-room-heat-pump-installation/', a: 'See multi-room options',
+    p: 'Several indoor units on one outdoor unit, so each room you use has its own heat and its own controller.' },
+  { img: 'home-service', h: 'Heat pump servicing', href: '/heat-pump-servicing/', a: 'Book a service',
+    p: 'We clean and check your heat pump once a year, so it runs cheaper and quieter and smells fresh. Before winter is best.' },
+  { img: 'home-repair', h: 'Heat pump repairs', href: '/heat-pump-repair/', a: 'Book a repair',
+    p: 'Not heating, leaking or showing an error code? We find the fault on any major brand and tell you if it\'s worth repairing.' },
+  { img: 'aircon-hero', h: 'Air conditioning', href: '/air-conditioning-installation-christchurch/', a: 'See air conditioning',
+    p: 'We install heat pumps that cool as well as heat, so one unit keeps the house comfortable on hot nor\'west days.' },
 ];
+
+const otherServices = [['High-wall heat pumps', '/high-wall-heat-pumps/'], ['Floor-mounted heat pumps', '/floor-mounted-heat-pumps/'], ['Single room heat pumps', '/single-room-heat-pump-installation/'], ['Emergency repairs', '/emergency-heat-pump-repair/'], ['Heat pump cleaning', '/heat-pump-cleaning/'], ['Heat pump covers', '/covers/'], ['Maintenance plans', '/customised-heat-pump-service-plans/']];
 
 const guides = [
   { img: 'boundary-hero', h: 'Heat pump boundary rules & consent', href: '/heat-pump-boundary-rules-consent-nz/', p: 'The noise limits, when you need consent, and where the outdoor unit can go in Christchurch.', a: 'Read the boundary rules guide' },
@@ -65,6 +62,7 @@ const faqs = [
   <section class="section">
     <div class="wrap">
       <h2>Heat pump guides for Christchurch homes</h2>
+      <p class="lead">The rules, the noise limits, and the sizing maths that actually apply to Canterbury homes.</p>
       <div class="grid three">
         {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="card-img" /><div class="card-body"><h3>{g.h}</h3><p>{g.p}</p><p class="card-go">{g.a} →</p></div></a>)}
       </div>
@@ -73,32 +71,35 @@ const faqs = [
   </section>
 
   <section class="section warm">
-    <div class="wrap">
+    <div class="wrap center">
       <h2>A free quote that starts with your house, not a unit.</h2>
+      <p class="lead">We don't guess the size from a photo. Here is what happens when you request a quote.</p>
       <ol class="steps">
-        {steps.map(([h, p]) => <li><strong>{h}</strong> {p}</li>)}
+        {steps.map(([h, p], i) => <li><span class="step-n">{i + 1}</span><h3>{h}</h3><p>{p}</p></li>)}
       </ol>
     </div>
   </section>
 
   <section class="section">
     <div class="wrap">
-      <h2>Heat pump installation, servicing and repairs</h2>
-      <p class="lead">From one bedroom unit to a ducted system for the whole house. We fit it, service it and repair it, anywhere in Christchurch.</p>
+      <h2>Heat pump services</h2>
+      <p class="lead">From a single high-wall unit in a bedroom to a ducted system for the whole house.</p>
       <div class="grid three svc">
         {services.map((s) => (
-          <article class="card">
-            <a href={s.href} tabindex="-1" aria-hidden="true"><Img id={s.img} class="card-img" /></a>
+          <a class="card" href={s.href}>
+            <Img id={s.img} class="card-img" />
             <div class="card-body">
-              <h3><a href={s.href}>{s.h}</a></h3>
+              <h3>{s.h}</h3>
               <p>{s.p}</p>
-              <p class="card-check"><strong>{s.checkLabel}:</strong> {s.check.join(' · ')}.</p>
-              <p class="card-go"><a href={s.href}>{s.a} →</a></p>
+              <p class="card-go">{s.a} →</p>
             </div>
-          </article>
+          </a>
         ))}
       </div>
-      <p class="more"><a href="/heat-pump-services/">See all {serviceCount} heat pump services</a></p>
+      <div class="other">
+        <h3>Other services:</h3>
+        <p>{otherServices.map(([n, href], i) => <>{i > 0 && ' · '}<a href={href}>{n}</a></>)}</p>
+      </div>
     </div>
   </section>
 
@@ -144,24 +145,25 @@ const faqs = [
     </div>
   </section>
 
-  <section class="section warm">
+  <section class="section">
     <div class="wrap">
       <h2>Heat pumps across Christchurch, Selwyn and Lyttelton</h2>
-      <p class="lead">We work in every Christchurch suburb, plus Lyttelton and the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu.</p>
+      <p class="lead">From the frosty mornings out on the plains to the dense streets of the inner city, we know how different homes handle the Canterbury climate.</p>
+      <p>We work in every Christchurch suburb, plus Lyttelton and the Selwyn towns of Rolleston, Lincoln, Prebbleton and Tai Tapu.</p>
       <p class="areas"><strong>Popular areas:</strong> {areas.map(([n, href], i) => <>{i > 0 && ' · '}<a href={href}>{n}</a></>)}</p>
       <p class="more"><a href="/locations/">See all locations</a></p>
     </div>
   </section>
 
-  <Faq items={faqs} heading="Common questions about heat pumps in Christchurch" />
-  <CtaBand heading="Get a free heat pump quote in Christchurch" />
+  <Faq items={faqs} heading="Common questions about heat pumps in Christchurch" intro="Straight answers to the things people ask us most before they book a quote." />
+  <CtaBand heading="Get a free heat pump quote in Christchurch" dark />
 </Base>
 <style>
   :global(.banner) { margin-top: 40px; width: 100%; aspect-ratio: 21/9 !important; object-fit: cover; }
   .three { grid-template-columns: repeat(3, 1fr); }
   @media (max-width: 980px) { .three { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 640px) { .three { grid-template-columns: 1fr; } }
-  .three :global(.card-img) { border-radius: 0; width: 100%; aspect-ratio: 3/2 !important; object-fit: cover; display: block; }
+  .three :global(.card-img) { border-radius: var(--radius) var(--radius) 0 0; width: 100%; aspect-ratio: 16/9 !important; object-fit: cover; display: block; }
   .brand-split { display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; }
   .brand-split h2 { margin-top: 0; }
   .brand-list { list-style: none; padding: 0; margin: 24px 0; }
@@ -172,10 +174,19 @@ const faqs = [
   .card h3 a { color: var(--ink); text-decoration: none; }
   .card h3 a:hover { color: var(--brand); }
   .areas a { font-weight: 600; }
-  .card-check { font-size: .95rem; color: var(--ink-soft); }
   .card-go { margin-top: 12px; font-weight: 600; color: var(--link); }
   .card-go a { color: var(--link); text-decoration: none; }
   .card-go a:hover { text-decoration: underline; }
-  .steps { padding-left: 1.4em; margin: 24px 0 0; }
-  .steps li { padding: 0 0 14px 6px; }
+  .center { text-align: center; }
+  .center .lead { margin-left: auto; margin-right: auto; }
+  .steps { list-style: none; padding: 0; margin: 40px 0 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; text-align: left; }
+  .steps li { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 24px; }
+  .steps h3 { font-size: 1.1rem; margin: 14px 0 .5em; }
+  .steps p { margin: 0; color: var(--ink-soft); }
+  .step-n { display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: var(--brand); color: #fff; font-weight: 750; }
+  @media (max-width: 980px) { .steps { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 640px) { .steps { grid-template-columns: 1fr; } }
+  .other { margin-top: 40px; }
+  .other h3 { margin-bottom: .4em; }
+  .other a { font-weight: 600; }
 </style>

@@ -21,6 +21,7 @@
   background: var(--paper);
 }
 *, *::before, *::after { box-sizing: border-box; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 body { margin: 0; background: var(--paper); }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--link); text-decoration: none; text-underline-offset: 3px; }
