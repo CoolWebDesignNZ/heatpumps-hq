@@ -1,10 +1,10 @@
 ---
-// steps: the two-step version (home page). Step 2 only shows once Name and Phone are filled in.
-interface Props { suburb?: string; steps?: boolean }
-const { suburb = '', steps = false } = Astro.props;
+// Two-step quote form on every page: step 2 only shows once Name and Phone are filled in.
+// suburb pre-fills the Suburb field on suburb pages.
+interface Props { suburb?: string }
+const { suburb = '' } = Astro.props;
 const options = ['Installation', 'Repair', 'Service'];
 ---
-{steps ? (
 <form class="qf qf-steps" method="post" action="/api/quote" data-step="1">
   <h2 class="qf-h">Get a free quote</h2>
   <div class="qf-step" data-step="1">
@@ -31,29 +31,6 @@ const options = ['Installation', 'Repair', 'Service'];
   </div>
   <p class="qf-note">No obligation. We'll call or email you back.</p>
 </form>
-) : (
-<form class="qf" method="post" action="/api/quote">
-  <h2 class="qf-h">Get a free quote</h2>
-  <input type="hidden" name="suburb" value={suburb} />
-  <div class="row">
-    <label>Name<input name="name" required autocomplete="name" /></label>
-    <label>Phone<input name="phone" type="tel" required autocomplete="tel" /></label>
-  </div>
-  <label>Email <span class="opt-note">(optional)</span><input name="email" type="email" autocomplete="email" /></label>
-  <label>Street address<input name="address" autocomplete="street-address" placeholder="Helps the installer and saves time" /></label>
-  <fieldset>
-    <legend>What do you need?</legend>
-    <div class="opts">
-      {['Installation', 'Repair', 'Service'].map((o, i) => (
-        <label class="opt"><input type="radio" name="service" value={o} checked={i === 0} /><span>{o}</span></label>
-      ))}
-    </div>
-  </fieldset>
-  <label>Type a brief description below<textarea name="message" rows="2" placeholder="Area you want to heat, fault description..."></textarea></label>
-  <button class="btn btn-primary" type="submit">Request my quote</button>
-  <p class="qf-note">No obligation. We'll call or email you back.</p>
-</form>
-)}
 <script>
   for (const form of document.querySelectorAll<HTMLFormElement>('.qf-steps')) {
     const show = (n: string) => { form.dataset.step = n; form.querySelector<HTMLElement>(`.qf-step[data-step="${n}"] input`)?.focus(); };
