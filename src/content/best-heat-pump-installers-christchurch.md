@@ -87,7 +87,7 @@ At the end you should get the electrical Certificate of Compliance. You should a
 
 ## 8. The heat pump installer will look after it afterwards
 
-Ask who services and repairs the unit once it's in. Ask if they work on that brand. A yearly service keeps a heat pump running well. Find out who you ring if something goes wrong in the first winter.
+Ask who services and fixes the unit once it's in. Ask if they work on that brand. A yearly service keeps a heat pump running well. Find out who you ring if something goes wrong in the first winter.
 
 ## Questions to ask any heat pump installer
 

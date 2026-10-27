@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Remote Monitoring & Wi-Fi"
-description: "What heat pump remote monitoring over Wi-Fi can show you, what it can't diagnose, and how the app history helps us repair a fault faster on the first visit."
+description: "What heat pump remote monitoring over Wi-Fi can show you, what it can't diagnose, and how the app history helps us fix a fault faster on the first visit."
 keyword: heat pump remote monitoring
 secondary: [heat pump monitoring, heat pump remote diagnostics, heat pump wifi]
 h1: Heat pump remote monitoring and diagnostics over Wi-Fi
@@ -37,7 +37,7 @@ An app only knows what the unit's own sensors and controls know. It doesn't meas
 
 So on a home system, remote diagnostics give us a head start. Not a full diagnosis. We confirm a fault with tests at the unit, as part of our [fault finding](/heat-pump-troubleshooting/).
 
-## How remote diagnostics help us repair a heat pump fault
+## How remote diagnostics help us fix a heat pump fault
 
 When something goes wrong, the app often holds clues. By the time anyone looks at the unit, those clues are gone.
 

@@ -18,7 +18,7 @@ faqs:
   - q: Can a heat pump go on the side of a relevelled or repiled house?
     a: Yes. We mount the outdoor unit on a bracket on solid framing, or put it on its own pad. That way, if the ground moves later, it won't pull on the pipework.
   - q: Do you service older heat pumps in Dallington that came with the house?
-    a: Yes. We service and repair most brands sold in New Zealand, whatever their age. If a unit isn't worth repairing any more, we'll tell you straight.
+    a: Yes. We service and repair most brands sold in New Zealand, whatever their age. If a unit isn't worth fixing any more, we'll tell you straight.
 related:
   - { label: Avondale, href: /avondale/, text: "Heat pumps for Avondale homes." }
   - { label: Burwood, href: /burwood/, text: "Installation and servicing in Burwood." }
@@ -52,7 +52,7 @@ We mount outdoor units on solid framing or put them on a separate pad. We leave 
 
 ## River-side damp in Dallington
 
-Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild, damp days. It won't replace good ventilation or repairing a leak.
+Homes close to the river can feel damp in winter. A heat pump's [dry mode](/heat-pump-dehumidification/) helps on mild, damp days. It won't replace good ventilation or fixing a leak.
 
 ## Heat pump repair and servicing in Dallington
 

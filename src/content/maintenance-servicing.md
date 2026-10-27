@@ -41,7 +41,7 @@ Some jobs are simple and you can do them yourself. The rest need a technician wi
 
 ## Your jobs between services
 
-**Filters.** Lift the front panel and slide out the mesh filters. Rinse them from the back under a lukewarm tap. Dry them in the shade, then slide them back. Never run the unit without them. A blocked filter cuts the airflow fast. It's a five minute job.
+**Filters.** Lift the front panel and slide out the mesh filters. Rinse them from the back under a lukewarm tap. Dry them in the shade, then slide them back. Never run the unit without them. A blocked filter cuts the airflow fast. It's a five minute fix.
 
 **Outdoor unit.** Keep the space round it clear. Pull the weeds and sweep away leaves. Don't stack firewood, bins or outdoor furniture against it. After a nor'west storm, check nothing's blown into the fins.
 

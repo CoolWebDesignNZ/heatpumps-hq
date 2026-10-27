@@ -31,7 +31,7 @@ In most Oaklands homes, the lounge is already warm. The bedrooms aren't. Oakland
 
 Lots of them have one heat pump in the front lounge, and that's the only heater. The kitchen and dining are at the back. The bedrooms run along a hall. The lounge heat never gets to the far end. Cold bedrooms gather condensation, and mould grows on the window frames.
 
-The answer is heat in the bedrooms themselves. What kind depends on how much insulation is in the ceiling, how many bedrooms you want warm and whether the lounge unit is worth keeping.
+The fix is heat in the bedrooms themselves. What kind depends on how much insulation is in the ceiling, how many bedrooms you want warm and whether the lounge unit is worth keeping.
 
 Many homes here sit on cul-de-sac sections with established gardens. We keep the outdoor units clear of the planting, so air moves freely round them.
 

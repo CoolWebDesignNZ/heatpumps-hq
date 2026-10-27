@@ -12,7 +12,7 @@ faqHeading: "Air quality testing questions"
 relatedHeading: "More on clean heat pump air"
 faqs:
   - q: Do you do laboratory indoor air quality testing?
-    a: No. We don't take air samples, test for mould spores or measure pollutants for a lab report. We check the heat pump for dust, mould and damp that could be affecting the air. Then we clean or repair it. If you need a formal air quality test, use a specialist who does lab sampling.
+    a: No. We don't take air samples, test for mould spores or measure pollutants for a lab report. We check the heat pump for dust, mould and damp that could be affecting the air. Then we clean or fix it. If you need a formal air quality test, use a specialist who does lab sampling.
   - q: Can a heat pump make indoor air quality worse?
     a: It can if it's dirty. Dust builds up on the filters, coil and fan. Damp in the coil and drain tray can grow mould. When it runs, it blows air over all of that. A clean unit that drains well doesn't add to the problem.
   - q: How do I know if my heat pump has mould in it?

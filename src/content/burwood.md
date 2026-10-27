@@ -36,7 +36,7 @@ In both kinds of house, a single lounge unit misses the bedrooms down the hall.
 
 ## Heating bedrooms and hallways in Burwood
 
-The usual complaint in Burwood is a warm lounge and cold bedrooms. You've got three ways to solve it:
+The usual complaint in Burwood is a warm lounge and cold bedrooms. You've got three ways to fix it:
 
 - **A second high wall unit** in the main bedroom or a hallway. It works on its own, with its own outdoor unit.
 - **A multi-room system.** One outdoor unit runs two or more indoor units, so there's only one box outside.

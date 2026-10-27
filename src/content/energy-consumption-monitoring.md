@@ -65,7 +65,7 @@ Has your bill gone up while the weather and your habits stayed the same? The hea
 1. **Settings and timers.** Mode, set temperature, fan speed and schedules. On auto, a unit can switch to cooling on a sunny afternoon. A forgotten timer can run it in an empty house.
 2. **Filters, indoor coil and fan.** Dust and mould cut airflow and output.
 3. **The outdoor unit.** We look for a dirty coil or blocked airflow. We also check its spot. In a bad spot, it can suck its own cold air back in.
-4. **Refrigerant.** Pressures and pipe temperatures show whether the charge is right. A low charge points to a leak. We can find and repair that through [leak detection](/leak-detection-repair/).
+4. **Refrigerant.** Pressures and pipe temperatures show whether the charge is right. A low charge points to a leak. We can find and fix that through [leak detection](/leak-detection-repair/).
 5. **Sensors.** A room or coil sensor reading wrong can keep the unit running when the room's already warm. See [thermostat calibration](/heat-pump-thermostat-calibration/).
 6. **Sizing.** Is the unit big enough for the room on cold mornings? Or is it running flat out to keep up?
 

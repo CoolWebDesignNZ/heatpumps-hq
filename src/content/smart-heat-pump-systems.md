@@ -49,7 +49,7 @@ A smart heat pump earns its keep when the schedule suits the house and the weath
 
 ## What your house needs for a Wi-Fi heat pump
 
-- **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room sorts it.
+- **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room fixes it.
 - **A 2.4 GHz network.** Lots of heat pump adaptors only connect on 2.4 GHz. Most home routers have it. Some put both bands under one name, though, and that can confuse the adaptor during set-up.
 - **A model that takes one.** Not every indoor unit takes an adaptor. This matters most on older units. We check the model before you buy anything.
 

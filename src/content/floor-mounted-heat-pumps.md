@@ -103,6 +103,6 @@ We look at each of these, and the other [installation cost factors](/heat-pump-i
 
 An older console that's failing can usually be swapped in the same spot. That spot is often right, since there's only so much clear wall under a window. We still check the size against the room. An old villa that's since had insulation or double glazing added may need a smaller unit than before.
 
-We look at whether the new console can use the old pipe route through the floor or wall. A newer model may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. If the old unit is worth repairing, we'll say so and point you to [heat pump repair](/heat-pump-repair/).
+We look at whether the new console can use the old pipe route through the floor or wall. A newer model may need a different pipe size or its own circuit, and we'll tell you before you agree to anything. If the old unit is worth fixing, we'll say so and point you to [heat pump repair](/heat-pump-repair/).
 
 To get started, [request a free quote](/contact-us/). We'll look at the room and the old unit, and give you a free quote.

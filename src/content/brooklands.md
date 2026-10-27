@@ -17,7 +17,7 @@ faqs:
     a: Yes. Brooklands is in our area, the same as the rest of Christchurch, Selwyn and Lyttelton.
   - q: What's the best spot for an outdoor unit on an exposed Brooklands section?
     a: The side of the house out of the prevailing wind. Put it on a raised bracket or base, with open space in front of the fan. No sheltered wall? A slatted screen can help.
-  - q: My Brooklands heat pump is old and noisy. Is it worth repairing?
+  - q: My Brooklands heat pump is old and noisy. Is it worth fixing?
     a: We'll find the fault and tell you what the repair involves. If the unit's near the end of its life, we'll quote a replacement too. Then you can compare.
 related:
   - { label: Spencerville, href: /spencerville/, text: "Heat pumps for Spencerville homes." }

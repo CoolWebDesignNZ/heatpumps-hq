@@ -30,9 +30,9 @@ related:
 In New Brighton, two things set most of the plan. The layout of an older house, and the salt in the air.
 
 - **Timber cottages and old baches.** Many became full-time homes and got added to over the years. So the floor plan is a string of rooms, not one open space. A unit in the front lounge rarely pushes heat down a narrow hallway to the back rooms. A closed-off kitchen or sunroom is better heated by a second small unit or a [multi-room system](/multi-room-heat-pump-installation/). One big unit turned up high won't do it as well.
-- **Weatherboard houses from the middle of last century.** They lose a lot of heat through the walls and windows. Some of that is worth sorting before we size the unit.
+- **Weatherboard houses from the middle of last century.** They lose a lot of heat through the walls and windows. Some of that is worth fixing before we size the unit.
 
-## Cut the heat loss in New Brighton homes first
+## Fix the heat loss in New Brighton homes first
 
 Older New Brighton homes often have single glazing and little or no wall insulation. A heat pump can still warm them. But a lot of the heat leaves as fast as it's made. Haven't insulated the ceiling or underfloor yet? It's worth doing before you pick a size, because the house will then need a smaller unit. We size from the rooms, windows and insulation you've got now. If a change would alter what we'd suggest, we'll tell you.
 

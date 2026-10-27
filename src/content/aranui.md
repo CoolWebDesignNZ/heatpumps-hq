@@ -52,7 +52,7 @@ In a townhouse with shared walls, the outdoor unit has to go where it won't both
 
 ## Running costs in older Aranui houses
 
-A draughty older house costs more to heat. The heat pump has to run longer to hold the same temperature. A few simple changes cut that time.
+A draughty older house costs more to heat. The heat pump has to run longer to hold the same temperature. A few simple fixes cut that time.
 
 - **Thick curtains that reach the floor.** They hold the warmth in after dark.
 - **Draught stopping round doors.** Cold air through the gaps is heat the unit has to make up.

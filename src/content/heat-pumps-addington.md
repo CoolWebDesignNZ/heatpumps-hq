@@ -55,7 +55,7 @@ New Addington townhouses are better sealed. Lots of them suit one unit downstair
 
 ## Heat pump installs, service and repair in Addington
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Addington, sized for small rooms. We do [servicing](/maintenance-servicing/) and cleaning, rentals included. And we find and repair faults on every major brand with our [heat pump repairs](/heat-pump-repair/).
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Addington, sized for small rooms. We do [servicing](/maintenance-servicing/) and cleaning, rentals included. And we find and fix faults on every major brand with our [heat pump repairs](/heat-pump-repair/).
 
 We also cover [Sydenham](/sydenham/), [Riccarton](/heat-pumps-riccarton/), [Spreydon](/spreydon/) and [the Central City](/central-business-district-cbd/).
 

@@ -90,4 +90,4 @@ In a cold snap, keep the unit ticking over. Put the heat only where you need it.
 - **Leave the fan on auto.** Then it can push more air when it needs to put out more heat.
 - **Shut doors to rooms you aren't heating.** The heat stays where you want it.
 
-Does your heat pump fall short every winter? Call **[03 242 1023](tel:032421023)**. We'll check it on site and tell you what will sort it.
+Does your heat pump fall short every winter? Call **[03 242 1023](tel:032421023)**. We'll check it on site and tell you what will fix it.

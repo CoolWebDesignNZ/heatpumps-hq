@@ -53,7 +53,7 @@ One unit in the living area and one upstairs covers lots of two-storey layouts. 
 
 ## Heat pump service for older units in Sydenham
 
-Did your Sydenham home come with a heat pump that's been left alone for years? Book a service before you replace it. A clean of the filters, coil and drain often brings the output back. If it doesn't, our [troubleshooting](/heat-pump-troubleshooting/) and [repair](/heat-pump-repair/) work finds the fault. You get a straight answer on whether it's worth repairing.
+Did your Sydenham home come with a heat pump that's been left alone for years? Book a service before you replace it. A clean of the filters, coil and drain often brings the output back. If it doesn't, our [troubleshooting](/heat-pump-troubleshooting/) and [repair](/heat-pump-repair/) work finds the fault. You get a straight answer on whether it's worth fixing.
 
 ## Heat pump installs and repairs in Sydenham
 

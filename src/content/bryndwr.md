@@ -34,7 +34,7 @@ Bryndwr sits between Fendalton and Papanui. It's quiet streets of mid-century bu
 
 ## Heat pump installation for a Bryndwr hallway plan
 
-The hallway is the problem. Warm air from the lounge has to get round corners and through doors to reach the bedrooms. It rarely does. With one heat pump, the lounge is warm and the far bedroom is freezing. Here are the solutions, simplest first.
+The hallway is the problem. Warm air from the lounge has to get round corners and through doors to reach the bedrooms. It rarely does. With one heat pump, the lounge is warm and the far bedroom is freezing. Here are the fixes, simplest first.
 
 1. **Put the lounge unit in the right spot.** Fit it at the hallway end of the room, blowing along the room. That pushes the most warmth into the rest of the house.
 2. **Add bedroom units.** A small wall unit in each bedroom you use. Or a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit.

@@ -44,7 +44,7 @@ Clear winter nights on the plains bring hard frosts. That's when a heat pump wor
 
 - **New installs:** wall-mounted, floor console, multi-room and [ducted systems](/ducted-heat-pumps-christchurch/). Brands: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
 - **[Servicing](/maintenance-servicing/):** filter and coil cleans, drain checks and a full performance check.
-- **[Repairs](/heat-pump-repair/):** fault finding and repairs on all the major brands.
+- **[Repairs](/heat-pump-repair/):** fault finding and fixes on all the major brands.
 - **New build advice:** building? Talk to us before the ceiling goes on. Planning ducts or pipe runs early is far easier than adding them later.
 
 ## Mitsubishi heat pumps in Rolleston

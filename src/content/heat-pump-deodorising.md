@@ -1,5 +1,5 @@
 ---
-title: "Heat Pump Smell: Causes and Solutions"
+title: "Heat Pump Smell: Causes and Fixes"
 description: "Heat pump smells musty, dusty or like burning? Find out what each smell points to, which ones mean switch it off now, and how we remove the source for good."
 keyword: heat pump smell
 secondary: [heat pump musty smell, heat pump smells bad, heat pump odour]
@@ -15,8 +15,8 @@ faqs:
     a: Mould and bacteria. They grow on the wet coil, the fan wheel or the slime in the drain tray. It's worst when the unit first starts. And after you've used it for cooling or dry mode.
   - q: Why does my heat pump smell like burning when I first turn it on?
     a: The first heating run after months off often burns off a layer of dust on the coil. The smell fades after a short while. Hot plastic or an electrical burning smell that doesn't fade is different. Turn it off at the isolator and call us.
-  - q: Will an air freshener or deodorising spray get rid of it?
-    a: It hides the smell for a while. The mould on the coil and fan keeps growing, though. The smell comes back. Cleaning those parts is the cure.
+  - q: Will an air freshener or deodorising spray fix it?
+    a: It hides the smell for a while. The mould on the coil and fan keeps growing, though. The smell comes back. Cleaning those parts is the fix.
   - q: Can a heat pump bring in smells from outside?
     a: A standard split system moves the room's own air around. It doesn't pull air from outside. Smell cigarette smoke, cooking or damp? It's usually coming from the room. Or it's soaked into a dirty coil and filters.
 related:
@@ -50,7 +50,7 @@ Smells are often worst in spring and early summer. That's when the unit swaps fr
 
 Where your house sits in Christchurch changes how fast a heat pump starts to smell, and what we check first.
 
-- **Damp near the estuary and the rivers.** Estuary-side homes in [South New Brighton](/south-new-brighton/) and houses on low ground by the river in [Beckenham](/beckenham/) can feel damp all winter. A damp house can smell musty even with a clean heat pump. We check the room as well as the unit, so you don't pay for a clean that won't solve it.
+- **Damp near the estuary and the rivers.** Estuary-side homes in [South New Brighton](/south-new-brighton/) and houses on low ground by the river in [Beckenham](/beckenham/) can feel damp all winter. A damp house can smell musty even with a clean heat pump. We check the room as well as the unit, so you don't pay for a clean that won't fix it.
 - **Dust from busy roads and industry.** In [Bromley](/bromley/), homes near trucks, busy roads and yards get more fine dust. The filters fill faster, and dust that gets past them feeds the mould on a wet coil. Wash the filters more often than you would elsewhere.
 - **Dust and pollen on rural sections.** Units on rural properties around [Spencerville](/spencerville/) pick up dust, pollen and grass seed. A yearly service clears it out, along with the dust on the indoor coil that mould grows on.
 - **Shut, unheated bedrooms.** In [Shirley](/shirley/), damp usually starts in closed-off bedrooms. A small bedroom unit on low overnight keeps the room drier, and a dry room gives mould less of a start.

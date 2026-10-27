@@ -17,7 +17,7 @@ faqs:
     a: It can warm the rooms it's sized for. But it works harder and costs more to run when heat escapes through the ceiling and floor. Top up the insulation first, or at the same time. Then a smaller unit can do the job.
   - q: Where should the outdoor unit go on a small Hornby section?
     a: Against your own wall is best. Keep it away from the neighbour's bedroom windows, with space round it for air to move. Christchurch measures heat pump noise at the neighbouring property. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
-  - q: Will you repair a Hornby heat pump another company fitted?
+  - q: Will you fix a Hornby heat pump another company fitted?
     a: Yes. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We repair most other brands sold in New Zealand too, whoever put them in.
 related:
   - { label: Sockburn, href: /sockburn/, text: "Heat pumps for Sockburn homes and units." }

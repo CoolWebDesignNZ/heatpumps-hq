@@ -1,6 +1,6 @@
 ---
 title: "Heat Pump Installation Cost Christchurch"
-description: "Heat pump installation cost depends on far more than the unit. See each factor that moves the price of an install in Christchurch, then get a free quote."
+description: "Heat pump installation cost depends on far more than the unit. See each factor that moves the price of an install in Christchurch, then get a fixed quote."
 keyword: heat pump installation cost
 secondary: [heat pump install price, heat pump installation cost nz, heat pump prices christchurch]
 h1: What affects heat pump installation cost in Christchurch
@@ -18,7 +18,7 @@ faqs:
   - q: Is a floor console dearer to install than a high wall unit?
     a: It can be, depending on the room. A console often needs the pipes run through the floor, or low along the wall. The unit price also differs between models. If you can't decide, ask for both options on the same quote.
   - q: Why do you visit before you quote?
-    a: So we can look at the pipe route, mounting and electrical work on site. Those change the cost of an install as much as the unit does.
+    a: Not ours. We agree it before we start, once we've looked at the pipe route, mounting and electrical work on site. That's why the site visit comes first.
 related:
   - { label: Heat pump installation, href: /heat-pump-installation-in-christchurch/, text: "How we plan and carry out an install." }
   - { label: Ducted heat pump cost, href: /ducted-heat-pump-cost-christchurch/, text: "What drives the price of a ducted system." }
@@ -92,7 +92,7 @@ Sometimes you can reuse the old position, which helps. Sometimes it was a poor s
 
 ## Access and the house itself
 
-Access and how the house is built add smaller costs, and they add up. A weatherboard wall is different from brick or block. Framing may need extra dwangs to screw into. The underfloor space may be cramped. A unit high up a stairwell may need scaffolding or a tower. We look at all of this on the site visit. That way it's in the quote.
+Access and how the house is built add smaller costs, and they add up. A weatherboard wall is different from brick or block. Framing may need extra dwangs to fix into. The underfloor space may be cramped. A unit high up a stairwell may need scaffolding or a tower. We look at all of this on the site visit. That way it's in the quote.
 
 ## Comparing heat pump quotes fairly
 

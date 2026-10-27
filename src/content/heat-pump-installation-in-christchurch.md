@@ -104,4 +104,4 @@ These things change the [price of a heat pump installation](/heat-pump-installat
 - **How easy the outdoor spot is to get to.** A wall bracket or a deck on a slope takes more work than a spot at ground level.
 - **Whether the switchboard needs work.** A board with no spare circuit has to be sorted before the unit goes in.
 
-No two installs cost the same. Your quote costs nothing.
+No two installs cost the same. Your quote costs nothing, and the price is locked in up front.

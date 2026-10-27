@@ -5,7 +5,7 @@ keyword: heat pump leaking water
 secondary: [heat pump dripping water, heat pump refrigerant leak, heat pump gas leak]
 h1: Heat pump leaking water or refrigerant, and how we repair it
 serviceName: Heat pump leak detection and repair
-intro: "We find and repair heat pump leaks across Christchurch, water or refrigerant. Water from the indoor unit is usually a drain problem. A refrigerant leak slowly takes your heat away."
+intro: "We find and fix heat pump leaks across Christchurch, water or refrigerant. Water from the indoor unit is usually a drain problem. A refrigerant leak slowly takes your heat away."
 hero: leak-hero
 gallery: [leak-1, leak-2]
 faqHeading: "Questions about a heat pump leaking water"
@@ -18,9 +18,9 @@ faqs:
   - q: How do I know if my heat pump has a refrigerant leak?
     a: Usually the unit heats less and less over weeks or months. You might see oily marks or ice on the pipe joints, or hear a hiss. Some units stop and show a fault code when the charge gets low.
   - q: Can you just top up the gas?
-    a: Not as a repair. If refrigerant's gone, it's leaked out somewhere. Top it up without finding the leak and it just leaks out again. We find and repair the leak first. Then we charge the system to the maker's specification.
+    a: Not as a fix. If refrigerant's gone, it's leaked out somewhere. Top it up without finding the leak and it just leaks out again. We find and fix the leak first. Then we charge the system to the maker's specification.
   - q: Is a heat pump gas leak dangerous?
-    a: Switch the unit off and open a window. Keep naked flames and heaters away. Don't try to tighten or repair the pipe joints yourself. Then call us to trace it.
+    a: Switch the unit off and open a window. Keep naked flames and heaters away. Don't try to tighten or fix the pipe joints yourself. Then call us to trace it.
 related:
   - { label: Fault finding, href: /heat-pump-troubleshooting/, text: "What we test when a heat pump stops working." }
   - { label: Dehumidification, href: /heat-pump-dehumidification/, text: "Using dry mode, and why it makes water." }
@@ -29,7 +29,7 @@ related:
 
 ## Heat pump leaking water or refrigerant?
 
-These are two different problems with two different solutions.
+These are two different problems with two different fixes.
 
 - **Water** comes from condensation. When the indoor unit cools or dries the air, moisture forms on the cold coil. It drips into a tray and runs away down a drain hose. In heating mode, the outdoor unit makes the water instead, when it defrosts.
 - **Refrigerant** is the gas sealed inside the copper pipes. It carries heat between the two units. It should never get out. If it does, the unit loses heating power and stops in the end.
@@ -44,11 +44,11 @@ Water dripping from the indoor unit, or staining the wall below it? It's nearly 
 - **A failed condensate pump.** Some installs can't drain by gravity, so they use a small pump. When it stops, the tray overflows.
 - **Ice on the indoor coil.** Very dirty filters can let the coil freeze in cooling mode. When it thaws, more water arrives than the drain can take.
 
-The repair is usually simple. We clear and flush the tray and hose. Or we re-route or replace the hose, or level the unit. Our [heat pump cleaning](/heat-pump-cleaning/) service deals with mould in the tray and coil.
+The fix is usually simple. We clear and flush the tray and hose. Or we re-route or replace the hose, or level the unit. Our [heat pump cleaning](/heat-pump-cleaning/) service deals with mould in the tray and coil.
 
 ## Heat pump dripping water from the outdoor unit
 
-In heating mode, water dripping from the outdoor unit is defrost meltwater. That's meant to happen. You'll see a steady drip, or a short burst after the unit's been steaming. What matters is where the water goes. It shouldn't pool against the foundations. It shouldn't run across a path where it'll freeze, or drip onto the neighbour's side. A drain fitting with a hose to a gully solves that. So does raising the unit on feet over gravel.
+In heating mode, water dripping from the outdoor unit is defrost meltwater. That's meant to happen. You'll see a steady drip, or a short burst after the unit's been steaming. What matters is where the water goes. It shouldn't pool against the foundations. It shouldn't run across a path where it'll freeze, or drip onto the neighbour's side. A drain fitting with a hose to a gully fixes that. So does raising the unit on feet over gravel.
 
 ## Heat pump leaking water in Christchurch homes
 

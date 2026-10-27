@@ -52,7 +52,7 @@ The newer houses on Mairehau's northern side are better insulated. They're often
 
 ## Heat pump service and repair in Mairehau
 
-After the install, we look after heat pumps right across Mairehau. A [service](/maintenance-servicing/) cleans the filters, coils and drain, then checks how the unit's performing. Our [heat pump repairs](/heat-pump-repair/) cover faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
+After the install, we look after heat pumps right across Mairehau. A [service](/maintenance-servicing/) cleans the filters, coils and drain, then checks how the unit's performing. Our [heat pump repairs](/heat-pump-repair/) fix faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Panasonic and most other brands.
 
 ## Other areas we cover near Mairehau
 

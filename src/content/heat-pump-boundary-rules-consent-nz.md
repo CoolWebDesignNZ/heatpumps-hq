@@ -20,7 +20,7 @@ faqs:
   - q: Does a heat pump need building consent?
     a: A standard split system in a home normally goes in without building consent. A licensed electrical worker still has to do the electrical connection.
   - q: What if a neighbour complains?
-    a: The council can measure the noise. If it's over the limit, they can issue an abatement notice that says it has to be sorted. The usual solutions are moving the unit, fitting anti-vibration feet or a screen, or running a lower fan speed overnight.
+    a: The council can measure the noise. If it's over the limit, they can issue an abatement notice that says it has to be fixed. The usual fixes are moving the unit, fitting anti-vibration feet or a screen, or running a lower fan speed overnight.
 related:
   - { label: Heat pump noise problems, href: /heat-pump-noise-problems-solutions/, text: "What causes a noisy unit and how to quieten it." }
   - { label: Compliance and building codes, href: /compliance-building-codes/, text: "The rules that apply to any heat pump install." }
@@ -80,7 +80,7 @@ A standard split system in a home normally goes in without building consent. A l
 
 Christchurch City Council looks into it. If its measurements show the heat pump's over the limit, it can issue an abatement notice. That means the noise has to come down.
 
-Had a complaint? The solutions are usually simple.
+Had a complaint? The fixes are usually simple.
 
 - **New anti-vibration feet.** They stop the hum carrying through the ground and into the house.
 - **A service to clean the fan and coil.** A dirty unit works harder, and louder.

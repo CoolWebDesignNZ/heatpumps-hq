@@ -92,7 +92,7 @@ Pick controls to suit whoever runs the heat pump each day. Wi-Fi control and tim
 A heat pump should last many years. Find out what local support you'll get once it's in:
 
 - **Parts:** are they easy to get in Christchurch for that brand?
-- **Service:** who services and repairs it?
+- **Service:** who services and fixes it?
 - **Warranty:** how is it handled, and who do you call?
 - **Install rules:** does the installer know what the brand requires?
 

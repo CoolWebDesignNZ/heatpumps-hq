@@ -45,7 +45,7 @@ We size your rental's heat pump to the living room's required capacity. We fit i
 
 ## Heat pumps for upstairs rooms in Upper Riccarton townhouses
 
-Warm air rises. So you'd think a downstairs heat pump would warm the bedrooms above. In practice a narrow stairwell carries very little of it. The upstairs rooms in a two storey townhouse can stay cold on a frosty night. The answer is a small wall unit upstairs. A [multi-room system](/multi-room-heat-pump-installation/) with heads on both levels works too. If the outdoor unit goes on an upper wall, we use a bracket rated for its weight. We run the pipes neatly down the cladding.
+Warm air rises. So you'd think a downstairs heat pump would warm the bedrooms above. In practice a narrow stairwell carries very little of it. The upstairs rooms in a two storey townhouse can stay cold on a frosty night. The fix is a small wall unit upstairs. A [multi-room system](/multi-room-heat-pump-installation/) with heads on both levels works too. If the outdoor unit goes on an upper wall, we use a bracket rated for its weight. We run the pipes neatly down the cladding.
 
 ## Older Upper Riccarton flats
 

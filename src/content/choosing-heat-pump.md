@@ -18,7 +18,7 @@ faqs:
   - q: Should I insulate before buying a heat pump?
     a: If you can. Cut heat loss first with ceiling and underfloor insulation, weather stripping and draught stopping. A warmer house often needs a smaller unit.
   - q: Can I buy a heat pump and have it installed separately?
-    a: You can. But get the installer to check the size and spot before you buy. A good install can't make up for a unit that's too small for the room. Or one with nowhere sensible for the outdoor unit.
+    a: You can. But get the installer to check the size and spot before you buy. A good install can't fix a unit that's too small for the room. Or one with nowhere sensible for the outdoor unit.
 related:
   - { label: Types of heat pumps, href: /types-of-heat-pumps/, text: "Wall and floor and ducted units side by side." }
   - { label: Heat pump size calculator, href: /calculator-single-room-heat-pump/, text: "The inputs that decide how many kW a room needs." }
@@ -31,7 +31,7 @@ Start with the room and the reason. Is it the main living area or a bedroom? Is 
 
 If you'll mostly heat, size on the **7°C heating output**. If you'll mostly cool, size on the 35°C cooling output. Do your winter nights get to 2°C or lower? On frosty nights across Christchurch and Selwyn, they do. Then also check the **2°C heating output** is the same as the 7°C one, or higher.
 
-## Step 2: Cut the heat loss you can
+## Step 2: Fix the heat loss you can
 
 A heat pump replaces the heat a room loses. The less it loses, the smaller the unit can be. And the cheaper it is to run. So before you put in a heat pump, add ceiling and underfloor insulation where you can, weather stripping on doors and windows, and stopping draughts.
 

@@ -5,7 +5,7 @@ keyword: heat pump tune up
 secondary: [heat pump check up, heat pump seasonal maintenance, heat pump service before winter]
 h1: Heat pump tune up and seasonal check up
 serviceName: Heat pump seasonal tune-up
-intro: "We tune up heat pumps across Christchurch before winter or summer. We test each one under load and sort small faults before they cost you a cold night."
+intro: "We tune up heat pumps across Christchurch before winter or summer. We test each one under load and fix small faults before they cost you a cold night."
 hero: tuneup-hero
 gallery: [tuneup-remote, tuneup-thermometer]
 faqHeading: "Heat pump tune-up questions"

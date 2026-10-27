@@ -14,7 +14,7 @@ faqs:
   - q: Do you fit new Fujitsu heat pumps?
     a: Yes. Fujitsu is one of the four brands we fit, along with Mitsubishi Electric, Daikin and Toshiba. We size each one for your rooms and give you a free quote.
   - q: Do you repair Fujitsu air conditioners as well as heat pumps?
-    a: Yes. A Fujitsu split system heats and cools with the same unit. So repairing a Fujitsu air conditioner is the same job as repairing the heat pump. We'll sort faults on heat or on cool.
+    a: Yes. A Fujitsu split system heats and cools with the same unit. So fixing a Fujitsu air conditioner is the same job as fixing the heat pump. We'll sort faults on heat or on cool.
   - q: Why is my Fujitsu heat pump's timer light flashing?
     a: A flashing light on the indoor unit usually means it has found a fault and saved a code. What it means depends on the model. Note the pattern and the model number. Then check the manual, or give us a ring.
   - q: Should I get a Fujitsu heat pump serviced every year?
@@ -34,7 +34,7 @@ related:
 
 ## Fujitsu heat pump repair
 
-A Fujitsu that needs repairing shows the same signs as any heat pump. It stops. A light on the indoor unit flashes. The heat fades, water drips, or a new noise starts. The job is to find the cause, not just treat the symptom.
+A Fujitsu that needs fixing shows the same signs as any heat pump. It stops. A light on the indoor unit flashes. The heat fades, water drips, or a new noise starts. The job is to find the cause, not just treat the symptom.
 
 We read any saved fault first. Then we test the parts it points to. That means the sensors, fans and control board. It also means the wiring between the units, and the gas circuit.
 
@@ -72,7 +72,7 @@ Many Fujitsu units can be run from your phone with a Wi-Fi adaptor and an app. W
 
 ## Repair or replace a Fujitsu heat pump
 
-If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usually worth repairing. If the compressor has gone on an older unit, we'll price a replacement too. We'll do the same if parts are hard to get.
+If your Fujitsu is in good nick and a sensor, fan or board has failed, it's usually worth fixing. If the compressor has gone on an older unit, we'll price a replacement too. We'll do the same if parts are hard to get.
 
 We fit Fujitsu, Mitsubishi Electric, Daikin and Toshiba. So you can weigh a straight swap against the other options. Each one is sized for your rooms, not matched to the old unit.
 

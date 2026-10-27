@@ -14,7 +14,7 @@ faqHeading: "Shirley heat pump questions"
 relatedHeading: Heat pumps near Shirley
 faqs:
   - q: Can a heat pump help with a damp Shirley house?
-    a: It can help. Keeping rooms at a steady temperature cuts condensation. Most units also have a dry mode that pulls moisture out of the air. It won't cure a leak or rising damp, so get those sorted first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
+    a: It can help. Keeping rooms at a steady temperature cuts condensation. Most units also have a dry mode that pulls moisture out of the air. It won't fix a leak or rising damp, so get those sorted first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
   - q: Should I leave the heat pump on all day?
     a: In a cold house, a steady, moderate setting is often more comfortable. Switching it off means heating from cold again. A timer that warms the house before you wake or get home works well.
   - q: How long does a heat pump service take?

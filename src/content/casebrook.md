@@ -41,7 +41,7 @@ At the quote, we check the old unit and its pipes. We measure the rooms and look
 
 Repair or replace? It comes down to three things. The fault, the unit's condition, and whether it was the right size in the first place. A unit that rattles, is slow to warm the room or shows a fault light isn't always finished. So we find the cause first. Then you get a straight answer on whether the [repair](/heat-pump-repair/) is worth doing.
 
-If a new unit's the better option, it's a chance to get the size right. Lots of homes have had ceiling insulation topped up or windows replaced since the first heat pump went in. That changes the capacity a room needs. We size the new unit from the room as it is now, with its insulation and windows. Not from the label on the old one.
+If a new unit's the better option, it's a chance to fix the size. Lots of homes have had ceiling insulation topped up or windows replaced since the first heat pump went in. That changes the capacity a room needs. We size the new unit from the room as it is now, with its insulation and windows. Not from the label on the old one.
 
 ## Brick and tile Casebrook homes in winter
 

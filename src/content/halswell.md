@@ -40,7 +40,7 @@ Halswell is on the south-west edge of Christchurch, below the Port Hills. The he
 
 Many new Halswell homes are well insulated and double glazed. The open plan living area faces the sun. Some came with a single heat pump from the builder. If yours did, it might warm the lounge but not the bedrooms. Or it might be too small and run hard on cold mornings.
 
-The answer could be a second unit. It could be a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit. If you've got roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/) is another option. Before we suggest anything, we check the size of what you've got. Then we work out what each room needs.
+The fix could be a second unit. It could be a [multi-room system](/multi-room-heat-pump-installation/) on one outdoor unit. If you've got roof space to spare, a [ducted system](/ducted-heat-pumps-christchurch/) is another option. Before we suggest anything, we check the size of what you've got. Then we work out what each room needs.
 
 ## Heat pumps for older Halswell homes
 

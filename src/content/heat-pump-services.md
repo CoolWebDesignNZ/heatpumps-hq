@@ -56,12 +56,12 @@ Keep the unit you've got clean and running. That's the yearly service, a deep cl
 
 ## Repairs and fault finding on all brands
 
-We find and repair faults on all major brands. That's anything from a unit that's stopped to a refrigerant leak.
+We find and fix faults on all major brands. That's anything from a unit that's stopped to a refrigerant leak.
 
-- [Heat pump repair](/heat-pump-repair/): Not heating, leaking water, showing an error code or making a noise. We find the fault and price the repair.
+- [Heat pump repair](/heat-pump-repair/): Not heating, leaking water, showing an error code or making a noise. We find the fault and price the fix.
 - [Emergency heat pump repair](/emergency-heat-pump-repair/): Stopped, pouring water or smelling of burning. Make it safe, then call us early in the day.
 - [Heat pump troubleshooting](/heat-pump-troubleshooting/): We test the system step by step until we know what's failed, then quote the repair.
-- [Leak detection and repair](/leak-detection-repair/): We find the refrigerant leak, repair it and regas the system.
+- [Leak detection and repair](/leak-detection-repair/): We find the refrigerant leak, fix it and regas the system.
 - [Parts replacement](/heat-pump-parts-replacement/): Fan motors, sensors, circuit boards and remotes replaced on all major brands.
 - [Thermostat calibration](/heat-pump-thermostat-calibration/): The room is colder than the setting. We check the sensor and correct it.
 - [Remote monitoring and diagnostics](/remote-monitoring-and-diagnostics/): See faults and how hard the system is working from your phone.

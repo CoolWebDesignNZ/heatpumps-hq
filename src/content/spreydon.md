@@ -7,7 +7,7 @@ h1: Heat pump installation and replacement in Spreydon
 serviceName: Heat pump installation, servicing and repair
 areaServed: Spreydon
 suburb: Spreydon
-intro: We install new heat pumps in Spreydon's bungalows, brick homes and units, replace tired ones and repair the ones worth keeping. We'll tell you which yours is.
+intro: We install new heat pumps in Spreydon's bungalows, brick homes and units, replace tired ones and fix the ones worth keeping. We'll tell you which yours is.
 hero: spreydon-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Spreydon"
@@ -41,14 +41,14 @@ A heat pump at the end of its life usually shows it:
 
 - **It can't keep the room warm** on cold nights, even after a clean.
 - **The same faults keep coming back**, or a major part like the compressor has gone.
-- **It's noisy or rattles**, and a service doesn't cure it.
+- **It's noisy or rattles**, and a service doesn't fix it.
 - **Parts are hard to get** for the model.
 
 Not sure? Start with a [service](/maintenance-servicing/). Clogged filters and dirty coils make plenty of good units seem worn out.
 
 ## What we check before quoting a replacement
 
-A new heat pump is a chance to sort what wasn't right the first time, so we check all of it before we quote:
+A new heat pump is a chance to fix what wasn't right the first time, so we check all of it before we quote:
 
 - **The room as it is now.** Insulation, new windows and renovations all change how much heat it needs.
 - **Where the indoor unit sits.** If the old one blew into a corner or onto the couch, we'll suggest a better wall.

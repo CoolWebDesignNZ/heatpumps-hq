@@ -43,7 +43,7 @@ In a compact Northcote home, a smaller unit sized right beats the biggest one yo
 
 ## Fitting heat pumps to Northcote units and flats
 
-Flats built in blocks share walls. Often there's only one outside wall. That decides where the indoor unit goes, because the pipes need a short, direct path to the outdoor unit. If the only free wall is under a window, a [floor console](/single-room-heat-pump-installation/) is a tidy answer.
+Flats built in blocks share walls. Often there's only one outside wall. That decides where the indoor unit goes, because the pipes need a short, direct path to the outdoor unit. If the only free wall is under a window, a [floor console](/single-room-heat-pump-installation/) is a tidy fix.
 
 On shared sites, outdoor units go on wall brackets or small pads. We space them from each other and from fences. The District Plan doesn't set a distance from the boundary. It limits the noise a unit makes at the neighbour's place. For the actual numbers, see our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/).
 

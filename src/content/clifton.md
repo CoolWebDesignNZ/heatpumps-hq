@@ -20,7 +20,7 @@ faqs:
   - q: Can an outdoor unit be mounted high on a wall?
     a: Yes, on a galvanised bracket fixed to solid framing. We still need to reach it for servicing. So we avoid spots that would need scaffolding every time.
   - q: Is my heat pump too noisy for the neighbours?
-    a: Sound carries on a hill, so where the unit goes matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the usual causes and solutions.
+    a: Sound carries on a hill, so where the unit goes matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the usual causes and fixes.
 related:
   - { label: Sumner, href: /sumner/, text: "Heat pumps for beach and hill homes below Clifton." }
   - { label: Redcliffs, href: /redcliffs/, text: "Heat pumps along the estuary and hill." }
@@ -43,7 +43,7 @@ Where the pipes cross floors, we look for a path through the garage or a service
 
 ## Brackets and decks on Clifton hill sites
 
-On a hillside, the unit usually mounts on a galvanised wall bracket or a deck. The bolts have to go into solid framing. The unit needs anti-vibration mounts. And it has to stay within reach for servicing. A spot you need scaffolding to get to is a poor choice for the long run.
+On a hillside, the unit usually mounts on a galvanised wall bracket or a deck. The fixing has to go into solid framing. The unit needs anti-vibration mounts. And it has to stay within reach for servicing. A spot you need scaffolding to get to is a poor choice for the long run.
 
 ## Protecting Clifton heat pumps from wind and salt
 

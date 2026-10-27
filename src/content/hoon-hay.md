@@ -48,7 +48,7 @@ Hoon Hay sits south-west of the city, between Spreydon and Halswell. The Port Hi
 
 ## Heat pump service through a Hoon Hay winter
 
-A unit working through Hoon Hay winters needs a [service](/maintenance-servicing/) once a year, before the cold sets in. If yours has stopped heating, we can [repair it](/heat-pump-repair/).
+A unit working through Hoon Hay winters needs a [service](/maintenance-servicing/) once a year, before the cold sets in. If yours has stopped heating, we can [fix it](/heat-pump-repair/).
 
 ## Where else we work near Hoon Hay
 
