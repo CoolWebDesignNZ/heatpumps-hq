@@ -3,7 +3,7 @@
 import Img from './Img.astro';
 import QuoteForm from './QuoteForm.astro';
 import site from '../data/site.json';
-// home: the home page hero (call button only, brand line, narrower form column).
+// home: the home page hero (brand line above the call line, narrower form column).
 interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean }
 const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
 const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '/heat-pump-services/']];
@@ -16,15 +16,9 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
       <slot name="crumbs" />
       <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
-      {!home && (
-        <div class="hero-btns">
-          <a class="btn btn-primary" href="#quote">Get a free quote</a>
-          <a class="btn btn-glass" href={site.phoneHref}>Call {site.phone}</a>
-        </div>
-      )}
       {meta && <p class="hero-meta">{meta}</p>}
       {home && <p class="hero-brands">We install {brands.map(([n, href], i) => <>{i > 0 && (i === brands.length - 1 ? ' and ' : ', ')}<a href={href}>{n}</a></>)}.</p>}
-      {home && <p class="hero-talk">Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>}
+      <p class:list={["hero-talk", { "hero-talk-first": !home }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
     <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>
   </div>
@@ -44,12 +38,10 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   .hero-in { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 440px); gap: 64px; align-items: center; padding-top: 88px; padding-bottom: 88px; min-height: 640px; }
   .hero h1 { color: #fff; font-size: clamp(2.4rem, 5vw, 4rem); }
   .hero-lead { font-size: 1.25rem; color: rgba(255, 255, 255, .9); margin-bottom: 1.6em; }
-  .hero-btns { display: flex; flex-wrap: wrap; gap: 12px; }
-  .btn-glass { background: rgba(255, 255, 255, .16); color: #fff; backdrop-filter: blur(4px); }
-  .btn-glass:hover { background: rgba(255, 255, 255, .26); }
   .hero.hero-home h1 { font-size: clamp(2rem, 4.1vw, 2.82rem); text-wrap: balance; }
   @media (min-width: 961px) { .hero-home .hero-in { grid-template-columns: minmax(0, 1fr) minmax(0, 380px); gap: 48px; } }
   .hero-home .hero-shade { background: linear-gradient(0deg, rgba(12, 22, 34, .6) 0%, rgba(12, 22, 34, 0) 50%), linear-gradient(90deg, rgba(12, 22, 34, .88) 0%, rgba(12, 22, 34, .66) 48%, rgba(12, 22, 34, .18) 100%); }
+  .hero-talk-first { margin-top: 0 !important; }
   .hero-talk { margin: 44px 0 20px; font-size: 1rem; color: rgba(255, 255, 255, .78); }
   .hero-talk a { color: #fff; font-weight: 650; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
   .hero-talk a:hover { text-decoration-color: #fff; }
