@@ -3,10 +3,9 @@
 import Img from './Img.astro';
 import QuoteForm from './QuoteForm.astro';
 import site from '../data/site.json';
-// home: the home page hero (brand line above the call line, narrower form column).
+// home: the home page hero (price line above the call line, narrower form column).
 interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean }
 const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
-const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/'], ['Daikin', '/daikin-heat-pump-service-christchurch/'], ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/'], ['Toshiba', '/toshiba-heat-pump-service-christchurch/']];
 ---
 <section class:list={["hero", { "hero-home": home }]}>
   <Img id={image} eager class="hero-bg" />
@@ -18,7 +17,6 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
       <p class="hero-lead">{intro}</p>
       {meta && <p class="hero-meta">{meta}</p>}
       {home && <p class="hero-price">Installations from $2,499. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
-      {home && <p class="hero-brands">We install {brands.map(([n, href], i) => <>{i > 0 && (i === brands.length - 1 ? ' and ' : ', ')}<a href={href}>{n}</a></>)}.</p>}
       <p class:list={["hero-talk", { "hero-talk-first": !home }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
     <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>
@@ -43,6 +41,7 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   @media (min-width: 961px) { .hero-home .hero-in { grid-template-columns: minmax(0, 1fr) minmax(0, 380px); gap: 48px; } }
   .hero-home .hero-shade { background: linear-gradient(0deg, rgba(12, 22, 34, .6) 0%, rgba(12, 22, 34, 0) 50%), linear-gradient(90deg, rgba(12, 22, 34, .88) 0%, rgba(12, 22, 34, .66) 48%, rgba(12, 22, 34, .18) 100%); }
   .hero-talk-first { margin-top: 0 !important; }
+  .hero-home .hero-talk { margin-top: 10px; }
   .hero-talk { margin: 44px 0 20px; font-size: 1rem; color: rgba(255, 255, 255, .78); }
   .hero-talk a { color: #fff; font-weight: 650; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
   .hero-talk a:hover { text-decoration-color: #fff; }
@@ -50,9 +49,6 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   .hero-price { margin: 0; font-size: 1rem; color: rgba(255, 255, 255, .85); }
   .hero-price a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
   @media (max-width: 640px) { .hero-price { font-size: 16px; } }
-  .hero-brands { margin-top: 1.2em; font-size: .95rem; color: rgba(255, 255, 255, .8); }
-  .hero-brands a { color: #fff; font-weight: 700; text-decoration: none; }
-  .hero-brands a:hover { text-decoration: underline; }
   .hero-meta { margin-top: 1.4em; color: rgba(255, 255, 255, .8); }
   .hero :global(.crumbs-hero) { margin-bottom: 1.2em; color: rgba(255, 255, 255, .8); }
   .hero :global(.crumbs-hero a) { color: rgba(255, 255, 255, .8); }
