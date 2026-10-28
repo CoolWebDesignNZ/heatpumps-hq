@@ -1428,5 +1428,155 @@
     "aspect": "4x3",
     "alt": "Dusty indoor coil behind the filters of a wall heat pump being cleaned",
     "prompt": "Close-up realistic photograph of gloved hands cleaning the dusty aluminium fins of a wall-mounted heat pump indoor coil with a soft coil brush, front panel open and filters removed, a layer of grey dust on part of the coil and clean fins beside it, natural light, no text, no logos"
+  },
+  "heat-pump-replacement-christchurch-hero": {
+    "aspect": "16x9",
+    "alt": "Heat Pumps HQ technician removing an old heat pump indoor unit",
+    "prompt": "Documentary photograph of a heat pump technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a step ladder lifting an old yellowed wall-mounted split system indoor unit off its bracket in a New Zealand living room, drop sheet on the floor, natural window light, realistic, no other text or logos, face not visible"
+  },
+  "heat-pump-replacement-christchurch-1": {
+    "aspect": "4x3",
+    "alt": "Refrigerant recovery gear connected to an old outdoor unit",
+    "prompt": "Close-up photograph of a refrigerant recovery machine and a grey recovery cylinder connected by hoses to an old weathered compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall on a concrete pad beside a weatherboard house, gloved hands on the valve, overcast daylight, realistic, no text, no logos"
+  },
+  "heat-pump-replacement-christchurch-2": {
+    "aspect": "4x3",
+    "alt": "New heat pump indoor unit on the wall where an old one was",
+    "prompt": "Interior photograph of a new white wall-mounted heat pump indoor unit high on a freshly painted wall of a Christchurch lounge, slightly paler rectangle of paint around it where an older larger unit used to be, timber floor, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "healthy-homes-heat-pumps-christchurch-hero": {
+    "aspect": "16x9",
+    "alt": "Heat pump in the living room of a Christchurch rental home",
+    "prompt": "Editorial interior photograph of a tidy, modestly furnished living room in a Christchurch rental home, white wall-mounted heat pump high on the wall, simple sofa, carpet, aluminium windows with winter daylight, clean and plain, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "healthy-homes-heat-pumps-christchurch-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump remote showing the set temperature",
+    "prompt": "Close-up photograph of a plain white heat pump remote control held in a hand, its small screen showing a set temperature, blurred living room with a wall-mounted heat pump in the background, soft daylight, realistic, no other text, no logos"
+  },
+  "healthy-homes-heat-pumps-christchurch-2": {
+    "aspect": "4x3",
+    "alt": "Living room of an empty rental ready for a heat pump install",
+    "prompt": "Interior photograph of an empty living room in an older New Zealand rental house between tenants, bare carpet, plain white walls, a sliding door to a small deck, winter light, realistic photograph, no heat pump units, no people, no text, no logos"
+  },
+  "ceiling-cassette-heat-pumps-hero": {
+    "aspect": "16x9",
+    "alt": "Ceiling cassette heat pump in an open-plan living area",
+    "prompt": "Editorial interior photograph of a modern open-plan kitchen and living area in a New Zealand home, one white square four-way ceiling cassette heat pump set flush into a flat plasterboard ceiling, pendant lights, timber floor, no doors or windows showing outside equipment, no wall-mounted units, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "ceiling-cassette-heat-pumps-1": {
+    "aspect": "4x3",
+    "alt": "Close-up of a ceiling cassette heat pump grille",
+    "prompt": "Close-up photograph looking up at one white square four-way ceiling cassette heat pump set flush in a white plasterboard ceiling, louvres on all four sides slightly open, soft daylight, realistic, no people, no text, no logos"
+  },
+  "ceiling-cassette-heat-pumps-2": {
+    "aspect": "4x3",
+    "alt": "Technician fitting a ceiling cassette into the ceiling",
+    "prompt": "Photograph of a heat pump technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a step ladder lifting a white square ceiling cassette heat pump unit into an opening cut in a plasterboard ceiling, realistic, no other text or logos, face not visible"
+  },
+  "mitsubishi-heat-pump-error-codes-hero": {
+    "aspect": "16x9",
+    "alt": "Wall-mounted heat pump with a flashing indicator light",
+    "prompt": "Interior photograph of a plain white wall-mounted heat pump indoor unit with one small green indicator light glowing on its front, high on the wall of a New Zealand lounge, winter afternoon light, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "mitsubishi-heat-pump-error-codes-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump remote held up to the indoor unit",
+    "prompt": "Photograph of a hand pointing a plain white heat pump remote control up at a white wall-mounted heat pump indoor unit, soft daylight, realistic, no text on the remote screen, no logos"
+  },
+  "mitsubishi-heat-pump-error-codes-2": {
+    "aspect": "4x3",
+    "alt": "Heat pump indoor unit with the front panel lifted",
+    "prompt": "Close-up photograph of a white wall-mounted heat pump indoor unit with its front panel lifted, showing the filters and the small indicator lights, soft daylight, realistic, no people, no text, no logos"
+  },
+  "fujitsu-heat-pump-error-codes-hero": {
+    "aspect": "16x9",
+    "alt": "Heat pump indoor unit with its timer light blinking",
+    "prompt": "Interior photograph of a white wall-mounted heat pump indoor unit with one small orange indicator light glowing, above a window in a bright New Zealand bedroom, winter morning light, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "fujitsu-heat-pump-error-codes-1": {
+    "aspect": "4x3",
+    "alt": "Technician checking a heat pump indoor unit",
+    "prompt": "Photograph of a heat pump technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a step ladder checking a wall-mounted split system indoor unit with the front cover open, bright New Zealand living room, realistic, no other text or logos, face not visible"
+  },
+  "fujitsu-heat-pump-error-codes-2": {
+    "aspect": "4x3",
+    "alt": "Frost on a heat pump outdoor unit on a cold morning",
+    "prompt": "Photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall, on a concrete pad beside a weatherboard house on a frosty Canterbury morning, light frost on the grass and on the unit's top, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "heat-pump-running-costs-hero": {
+    "aspect": "16x9",
+    "alt": "Heat pump running in a warm lounge on a winter evening",
+    "prompt": "Editorial interior photograph of a warm New Zealand lounge on a winter evening, white wall-mounted heat pump high on the wall, lamps on, curtains drawn, couch with a throw blanket, cosy, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "heat-pump-running-costs-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump remote set to a moderate temperature",
+    "prompt": "Close-up photograph of a plain white heat pump remote control lying on a timber coffee table, small blank screen, a mug beside it, soft lamplight, realistic, no text, no logos"
+  },
+  "heat-pump-running-costs-2": {
+    "aspect": "4x3",
+    "alt": "Clean heat pump filters ready to go back in",
+    "prompt": "Close-up photograph of two clean mesh heat pump filters drying on a towel on a laundry bench, soft daylight, realistic, no people, no text, no logos"
+  },
+  "heat-pump-vs-gas-wood-burner-hero": {
+    "aspect": "16x9",
+    "alt": "Living room with a heat pump on the wall and a wood burner",
+    "prompt": "Editorial interior photograph of a Christchurch weatherboard home's living room with a black freestanding wood burner on a hearth on one side and a white wall-mounted heat pump high on the opposite wall, stacked firewood, winter light, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "heat-pump-vs-gas-wood-burner-1": {
+    "aspect": "4x3",
+    "alt": "Wood burner with a stack of firewood",
+    "prompt": "Photograph of a black freestanding wood burner with a small fire behind the glass, firewood stacked in a basket beside it, tiled hearth, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "heat-pump-vs-gas-wood-burner-2": {
+    "aspect": "4x3",
+    "alt": "Wall-mounted heat pump in a modern lounge",
+    "prompt": "Interior photograph of a white wall-mounted heat pump in a modern New Zealand lounge with large windows, light timber floor, minimal furniture, winter daylight, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "northwood-hero": {
+    "aspect": "16x9",
+    "alt": "Street of newer brick and plaster homes in Northwood",
+    "prompt": "Realistic editorial photograph of a quiet curving street of newer single-storey brick and plaster homes with tiled roofs, neat lawns and young street trees in a 1990s northern Christchurch subdivision, soft winter light, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
+  },
+  "northwood-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump in the open-plan living room of a newer home",
+    "prompt": "Interior photograph of the open-plan living room of a newer, well insulated New Zealand brick home, white wall-mounted heat pump high on a plaster wall, double glazed windows, carpet, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "northwood-2": {
+    "aspect": "4x3",
+    "alt": "Outdoor unit beside a brick home",
+    "prompt": "Photograph of a low, wide, horizontal white domestic split system heat pump outdoor unit with one large round fan grille on its front, twice as wide as it is tall, sitting on a small concrete pad at the base of the brick wall of a newer New Zealand home, tidy garden edge, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "st-martins-hero": {
+    "aspect": "16x9",
+    "alt": "Tree-lined street in St Martins near the Heathcote River",
+    "prompt": "Realistic editorial photograph of a quiet tree-lined street of mid-century weatherboard and brick bungalows on the flat in St Martins, Christchurch, mature trees, the Port Hills rising behind, soft winter light, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
+  },
+  "st-martins-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump in the lounge of a mid-century bungalow",
+    "prompt": "Interior photograph of the lounge of a 1950s New Zealand bungalow, white wall-mounted heat pump high on the wall, timber window frames, wooden floor, frosty morning light, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "st-martins-2": {
+    "aspect": "4x3",
+    "alt": "Outdoor unit beside a weatherboard bungalow on a frosty morning",
+    "prompt": "Photograph of a compact white domestic split system heat pump outdoor unit with one round fan grille on its front, about knee height and wider than it is tall, on a concrete pad beside a weatherboard bungalow, light frost on the lawn, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "woolston-hero": {
+    "aspect": "16x9",
+    "alt": "Older cottages and newer townhouses in Woolston",
+    "prompt": "Realistic editorial photograph of a flat Christchurch street with small older weatherboard workers' cottages beside a newer two-storey townhouse, corrugated iron roofs, low fences, soft winter light, no signs, no heat pump units, air conditioning boxes or meter boxes on any house, no people, no text, no logos"
+  },
+  "woolston-1": {
+    "aspect": "4x3",
+    "alt": "Heat pump in the living area of a newer townhouse",
+    "prompt": "Interior photograph of the compact open-plan living area of a newer New Zealand townhouse, white wall-mounted heat pump high on the wall, small kitchen beyond, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "woolston-2": {
+    "aspect": "4x3",
+    "alt": "Heat pump in the lounge of an older cottage",
+    "prompt": "Interior photograph of the small lounge of an older New Zealand weatherboard cottage, white wall-mounted heat pump high on the wall above a doorway, sash window, natural light, realistic photograph, no people, no text, no logos"
   }
 }
