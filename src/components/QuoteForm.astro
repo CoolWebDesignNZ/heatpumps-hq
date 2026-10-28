@@ -15,10 +15,11 @@ const options = ['Installation', 'Repair', 'Service'];
     <fieldset>
       <legend>What do you need?</legend>
       <div class="opts">
-        {options.map((o, i) => (
-          <label class="opt"><input type="radio" name="service" value={o} checked={i === 0} /><span>{o}</span></label>
+        {options.map((o) => (
+          <label class="opt"><input type="radio" name="service" value={o} required /><span>{o}</span></label>
         ))}
       </div>
+      <p class="qf-err" hidden>Choose installation, repair or service.</p>
     </fieldset>
     <label>Type a brief description below<textarea name="message" rows="2" placeholder="Area you want to heat, fault description..."></textarea></label>
     <button class="btn btn-primary qf-next" type="button">Next step</button>
@@ -36,9 +37,14 @@ const options = ['Installation', 'Repair', 'Service'];
     const show = (n: string) => { form.dataset.step = n; form.querySelector<HTMLElement>(`.qf-step[data-step="${n}"] input`)?.focus(); };
     form.classList.add('js');
     form.querySelector('.qf-next')?.addEventListener('click', () => {
-      const first = [...form.querySelectorAll<HTMLInputElement>('.qf-step[data-step="1"] input[required]')];
-      if (first.every((i) => i.reportValidity())) show('2');
+      const fields = [...form.querySelectorAll<HTMLInputElement>('.qf-step[data-step="1"] input[required]:not([type=radio])')];
+      if (!fields.every((i) => i.reportValidity())) return;
+      // No service is picked by default: the visitor has to choose one.
+      const picked = form.querySelector('input[name="service"]:checked');
+      form.querySelector<HTMLElement>('.qf-err')!.hidden = !!picked;
+      if (picked) show('2');
     });
+    form.querySelectorAll('input[name="service"]').forEach((r) => r.addEventListener('change', () => { form.querySelector<HTMLElement>('.qf-err')!.hidden = true; }));
     form.querySelector('.qf-back')?.addEventListener('click', () => show('1'));
   }
 </script>
@@ -71,5 +77,6 @@ const options = ['Installation', 'Repair', 'Service'];
   .qf-steps:not(.js) .qf-next, .qf-steps:not(.js) .qf-back { display: none; }
   .qf-next { font-weight: 700; font-size: 1.05rem !important; padding: 14px !important; }
   .qf .qf-back { display: block; width: auto; margin: 10px auto 0; padding: 4px 8px; background: none; color: var(--link); font-size: .9rem; text-decoration: underline; }
+  .qf-err { margin: 6px 0 0; color: #b3261e; font-size: .85rem; font-weight: 600; }
   .qf-note { font-size: .8rem; color: var(--ink-soft); margin: 10px 0 0; }
 </style>
