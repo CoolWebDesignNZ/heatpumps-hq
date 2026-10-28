@@ -1472,7 +1472,7 @@
   "ceiling-cassette-heat-pumps-2": {
     "aspect": "4x3",
     "alt": "Technician fitting a ceiling cassette into the ceiling",
-    "prompt": "Photograph of a heat pump technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, on a step ladder lifting a white square ceiling cassette heat pump unit into an opening cut in a plasterboard ceiling, realistic, no other text or logos, face not visible"
+    "prompt": "Photograph of a heat pump technician wearing a navy work polo shirt with HEAT PUMPS HQ printed in large white capital letters across the back, seen from behind so the lettering reads clearly, only those three words on the shirt with nothing written below them, on a step ladder lifting a white square ceiling cassette heat pump unit into an opening cut in a plasterboard ceiling, no outdoor unit visible anywhere, nothing visible through windows or doors except garden or sky, realistic, no other text or logos, face not visible"
   },
   "mitsubishi-heat-pump-error-codes-hero": {
     "aspect": "16x9",
@@ -1512,7 +1512,7 @@
   "heat-pump-running-costs-1": {
     "aspect": "4x3",
     "alt": "Heat pump remote set to a moderate temperature",
-    "prompt": "Close-up photograph of a plain white heat pump remote control lying on a timber coffee table, small blank screen, a mug beside it, soft lamplight, realistic, no text, no logos"
+    "prompt": "Close-up photograph of a plain white heat pump remote control lying on a timber coffee table, small blank screen, a mug beside it, soft lamplight, curtains drawn behind, realistic, no heat pump units visible, no text, no logos"
   },
   "heat-pump-running-costs-2": {
     "aspect": "4x3",
@@ -1557,7 +1557,7 @@
   "st-martins-1": {
     "aspect": "4x3",
     "alt": "Heat pump in the lounge of a mid-century bungalow",
-    "prompt": "Interior photograph of the lounge of a 1950s New Zealand bungalow, white wall-mounted heat pump high on the wall, timber window frames, wooden floor, frosty morning light, natural light, realistic photograph, no people, no text, no logos"
+    "prompt": "Interior photograph of the lounge of a 1950s New Zealand bungalow, white wall-mounted heat pump high on the wall, timber window frames, wooden floor, frosty morning light, natural light, realistic photograph, no outdoor unit visible anywhere, nothing visible through windows or doors except garden or sky, no people, no text, no logos"
   },
   "st-martins-2": {
     "aspect": "4x3",
@@ -1572,7 +1572,7 @@
   "woolston-1": {
     "aspect": "4x3",
     "alt": "Heat pump in the living area of a newer townhouse",
-    "prompt": "Interior photograph of the compact open-plan living area of a newer New Zealand townhouse, white wall-mounted heat pump high on the wall, small kitchen beyond, natural light, realistic photograph, no people, no text, no logos"
+    "prompt": "Interior photograph of the compact open-plan living area of a newer New Zealand townhouse, white wall-mounted heat pump high on the wall, small kitchen beyond, natural light, realistic photograph, no outdoor unit visible anywhere, nothing visible through windows or doors except garden or sky, no people, no text, no logos"
   },
   "woolston-2": {
     "aspect": "4x3",
