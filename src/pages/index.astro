@@ -121,14 +121,14 @@ const faqs = [
           <a class="brand-tile" href={href}>
             <span class="brand-tag">{fit ? 'Install, service and repair' : 'Service and repair'}</span>
             <strong>{name}</strong>
-            <span class="brand-go">See service →</span>
+            <span class="brand-go">{name === 'Mitsubishi Electric' ? 'Mitsubishi' : name} heat pump service →</span>
           </a>
         ))}
         <a class="brand-tile" href="/heat-pump-repair/">
           <span class="brand-tag">Service and repair</span>
           <strong>Other brands</strong>
           <span class="brand-note">Most others sold in New Zealand</span>
-          <span class="brand-go">See repairs →</span>
+          <span class="brand-go">Repairs on other brands →</span>
         </a>
       </div>
       <p class="more"><a href="/heat-pump-brands-comparison/">See how the brands compare</a></p>
