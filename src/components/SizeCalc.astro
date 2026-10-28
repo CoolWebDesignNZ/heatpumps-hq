@@ -1,36 +1,29 @@
 ---
-// Single room heat pump size calculator (calculator-single-room-heat-pump).
-// Follows the Healthy Homes Schedule 2 method: heat lost through each surface
-// (area ÷ R-value × temperature difference) plus air leakage, at 18°C inside and
-// Christchurch's −4°C design temperature. Older homes add 40 W per m² of floor
-// (1.0 air change an hour); homes built to the 2008 code or later use × 1.2
-// (0.5 air changes). The R-values are typical figures for each kind of
-// construction, not measured ones, so the result is an estimate.
+// Heat pump size calculator (calculator-single-room-heat-pump): one room, or a
+// whole house room by room. Follows the Healthy Homes Schedule 2 method: heat
+// lost through each surface (area ÷ R-value × temperature difference) plus air
+// leakage, at 18°C inside and Christchurch's minus 4°C design temperature. Older
+// homes add 40 W per m² of floor (1.0 air change an hour); homes built to the
+// 2008 code or later use × 1.2 (0.5 air changes). The R-values are typical
+// figures for each kind of construction, not measured ones, so the result is an
+// estimate. House-wide choices (age, glazing, walls) are set once; each room has
+// its own size, outside walls, windows, ceiling and floor.
 import site from '../data/site.json';
+
+const ceilings = [['0.5', 'Roof space above, no insulation'], ['1.5', 'Roof space above, thin or old insulation'], ['3.3', "Roof space above, insulated to today's standard"], ['0', 'A heated room above']];
+const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Timber, insulated underneath'], ['1.3', 'Concrete slab'], ['0', 'A heated room below']];
 ---
 <section class="section tint" id="calculator">
   <div class="wrap calc">
     <div class="calc-head">
-      <h2>Heat pump size calculator for one room</h2>
-      <p class="lead">Measure the room, pick how it's built, and get a rough kW figure for a frosty Christchurch morning.</p>
+      <h2>Heat pump size calculator for one room or the whole house</h2>
+      <p class="lead">Measure each room, pick how the house is built, and get a rough kW figure for a frosty Christchurch morning. Add rooms to size the whole house.</p>
     </div>
     <form class="calc-form" novalidate>
       <fieldset>
-        <legend>The room</legend>
+        <legend>The house</legend>
         <div class="calc-row">
-          <label>Length (m)<input name="len" type="number" inputmode="decimal" min="1" max="30" step="0.1" value="5" /></label>
-          <label>Width (m)<input name="wid" type="number" inputmode="decimal" min="1" max="30" step="0.1" value="4" /></label>
-          <label>Ceiling height (m)<input name="hgt" type="number" inputmode="decimal" min="2" max="6" step="0.1" value="2.4" /></label>
-        </div>
-        <div class="calc-row">
-          <label>Length of outside walls (m)<input name="ext" type="number" inputmode="decimal" min="0" max="80" step="0.1" value="9" /><span class="hint">Walls with outdoors on the other side.</span></label>
-          <label>Window and glass door area (m²)<input name="win" type="number" inputmode="decimal" min="0" max="80" step="0.1" value="4" /><span class="hint">Width × height of each, added up.</span></label>
-        </div>
-      </fieldset>
-      <fieldset>
-        <legend>How it's built</legend>
-        <div class="calc-row">
-          <label>When was the house built?
+          <label>When was it built?
             <select name="era">
               <option value="old">Before 2008</option>
               <option value="new">2008 or later, or fully renovated to that standard</option>
@@ -42,8 +35,6 @@ import site from '../data/site.json';
               <option value="0.26">Double glazed</option>
             </select>
           </label>
-        </div>
-        <div class="calc-row calc-stack">
           <label>Outside walls
             <select name="wall">
               <option value="0.5">No insulation</option>
@@ -51,58 +42,99 @@ import site from '../data/site.json';
               <option value="2.0">Insulated to today's standard</option>
             </select>
           </label>
-          <label>Ceiling
-            <select name="ceil">
-              <option value="0.5">Roof space above, no insulation</option>
-              <option value="1.5" selected>Roof space above, thin or old insulation</option>
-              <option value="3.3">Roof space above, insulated to today's standard</option>
-              <option value="0">A heated room above</option>
-            </select>
-          </label>
-          <label>Floor
-            <select name="floor">
-              <option value="0.5">Timber over a crawl space, no insulation</option>
-              <option value="1.3">Timber, insulated underneath</option>
-              <option value="1.3">Concrete slab</option>
-              <option value="0">A heated room below</option>
-            </select>
-          </label>
         </div>
       </fieldset>
+      <div class="calc-rooms" data-rooms></div>
+      <button class="calc-add" type="button" data-add>+ Add another room</button>
+      <template data-room>
+        <fieldset class="calc-room">
+          <div class="calc-room-head">
+            <label class="calc-name">Room<input name="name" type="text" maxlength="30" /></label>
+            <button class="calc-remove" type="button" data-remove>Remove</button>
+          </div>
+          <div class="calc-row">
+            <label>Length (m)<input name="len" type="number" inputmode="decimal" min="1" max="30" step="0.1" value="5" /></label>
+            <label>Width (m)<input name="wid" type="number" inputmode="decimal" min="1" max="30" step="0.1" value="4" /></label>
+            <label>Ceiling height (m)<input name="hgt" type="number" inputmode="decimal" min="2" max="6" step="0.1" value="2.4" /></label>
+          </div>
+          <div class="calc-row">
+            <label>Length of outside walls (m)<input name="ext" type="number" inputmode="decimal" min="0" max="80" step="0.1" value="9" /><span class="hint">Walls with outdoors on the other side.</span></label>
+            <label>Window and glass door area (m²)<input name="win" type="number" inputmode="decimal" min="0" max="80" step="0.1" value="4" /><span class="hint">Width × height of each, added up.</span></label>
+          </div>
+          <div class="calc-row calc-stack">
+            <label>Ceiling<select name="ceil">{ceilings.map(([v, l], i) => <option value={v} selected={i === 1}>{l}</option>)}</select></label>
+            <label>Floor<select name="floor">{floors.map(([v, l]) => <option value={v}>{l}</option>)}</select></label>
+          </div>
+        </fieldset>
+      </template>
     </form>
     <div class="calc-result" aria-live="polite">
-      <p class="calc-label">Estimated heat the room needs</p>
+      <p class="calc-label" data-label>Estimated heat the room needs</p>
       <p class="calc-kw"><span data-kw>0.0</span> kW</p>
+      <ul class="calc-list" data-list hidden></ul>
       <p class="calc-note">At 18°C inside on a minus 4°C Christchurch morning. Pick a model whose heating output holds this figure at low outdoor temperatures, not just at the 7°C label rating.</p>
+      <p class="calc-note" data-whole hidden>For the whole house, that's a unit in each room (separate units or a <a href="/multi-room-heat-pump-installation/">multi room system</a>), or a <a href="/ducted-heat-pumps-christchurch/">ducted system</a> sized to the total.</p>
       <p class="calc-note">This is an estimate from typical insulation values. For a rental, use the official Tenancy Services tool linked below. For your house, we measure it properly when we quote.</p>
-      <a class="btn btn-primary" href="#quote">Get the room sized for free</a>
+      <a class="btn btn-primary" href="#quote">Get a heat pump install price</a>
       <p class="calc-call">Or call <a href={site.phoneHref}>{site.phone}</a></p>
     </div>
   </div>
 </section>
 <script>
   for (const form of document.querySelectorAll<HTMLFormElement>('.calc-form')) {
-    const out = form.closest('.calc')!.querySelector('[data-kw]')!;
-    const num = (n: string) => Math.max(0, parseFloat((form.elements.namedItem(n) as HTMLInputElement).value) || 0);
-    const sel = (n: string) => parseFloat((form.elements.namedItem(n) as HTMLSelectElement).value);
-    const calc = () => {
-      const len = num('len'), wid = num('wid'), hgt = num('hgt'), ext = num('ext');
-      const floorArea = len * wid, volume = floorArea * hgt;
-      const winArea = Math.min(num('win'), ext * hgt);
-      const wallArea = Math.max(0, ext * hgt - winArea);
-      const modern = (form.elements.namedItem('era') as HTMLSelectElement).value === 'new';
+    const calcEl = form.closest('.calc')!;
+    const rooms = form.querySelector<HTMLElement>('[data-rooms]')!;
+    const tpl = form.querySelector<HTMLTemplateElement>('template[data-room]')!;
+    const names = ['Lounge', 'Bedroom 1', 'Bedroom 2', 'Bedroom 3', 'Dining', 'Study'];
+    const house = (n: string) => (form.elements.namedItem(n) as HTMLSelectElement).value;
+    const u = (r: number) => (r > 0 ? 1 / r : 0);
+
+    const roomKw = (room: HTMLElement) => {
+      const f = (n: string) => room.querySelector<HTMLInputElement | HTMLSelectElement>(`[name="${n}"]`)!;
+      const num = (n: string) => Math.max(0, parseFloat(f(n).value) || 0);
+      const floorArea = num('len') * num('wid'), volume = floorArea * num('hgt');
+      const winArea = Math.min(num('win'), num('ext') * num('hgt'));
+      const wallArea = Math.max(0, num('ext') * num('hgt') - winArea);
+      const modern = house('era') === 'new';
       const dT = 18 - -4;
-      const u = (r: number) => (r > 0 ? 1 / r : 0);
       // Transmission: each surface's area over its R-value.
-      const t = dT * (wallArea * u(sel('wall')) + winArea * u(sel('glaze')) + floorArea * u(sel('ceil')) + floorArea * u(sel('floor')));
+      const t = dT * (wallArea * u(+house('wall')) + winArea * u(+house('glaze')) + floorArea * u(+f('ceil').value) + floorArea * u(+f('floor').value));
       // Ventilation: 0.33 Wh per m³ per °C of air, at the regulation's air change rate.
       const v = 0.33 * (modern ? 0.5 : 1.0) * volume * dT;
       const watts = modern ? (t + v) * 1.2 : t + v + floorArea * 40;
-      out.textContent = (Math.ceil(watts / 100) / 10).toFixed(1);
+      return Math.ceil(watts / 100) / 10;
     };
+
+    const calc = () => {
+      const list = [...rooms.querySelectorAll<HTMLElement>('.calc-room')];
+      const each = list.map((r) => ({ name: r.querySelector<HTMLInputElement>('[name="name"]')!.value || 'Room', kw: roomKw(r) }));
+      const total = each.reduce((a, r) => a + r.kw, 0);
+      const many = each.length > 1;
+      calcEl.querySelector('[data-kw]')!.textContent = total.toFixed(1);
+      calcEl.querySelector('[data-label]')!.textContent = many ? 'Estimated heat the whole house needs' : 'Estimated heat the room needs';
+      const ul = calcEl.querySelector<HTMLElement>('[data-list]')!;
+      ul.hidden = !many;
+      ul.replaceChildren(...each.map((r) => { const li = document.createElement('li'); li.append(r.name, Object.assign(document.createElement('strong'), { textContent: `${r.kw.toFixed(1)} kW` })); return li; }));
+      calcEl.querySelector<HTMLElement>('[data-whole]')!.hidden = !many;
+      list.forEach((r) => { r.querySelector<HTMLElement>('[data-remove]')!.hidden = !many; });
+    };
+
+    const addRoom = () => {
+      const node = tpl.content.firstElementChild!.cloneNode(true) as HTMLElement;
+      const n = rooms.children.length;
+      node.querySelector<HTMLInputElement>('[name="name"]')!.value = names[n] ?? `Room ${n + 1}`;
+      // Rooms after the first start at a typical bedroom size.
+      if (n > 0) for (const [k, v] of [['len', '3.6'], ['wid', '3.2'], ['ext', '6.8'], ['win', '2']]) node.querySelector<HTMLInputElement>(`[name="${k}"]`)!.value = v;
+      node.querySelector('[data-remove]')!.addEventListener('click', () => { node.remove(); calc(); });
+      rooms.append(node);
+      calc();
+      if (n > 0) node.querySelector<HTMLInputElement>('[name="name"]')!.focus();
+    };
+
+    form.querySelector('[data-add]')!.addEventListener('click', addRoom);
     form.addEventListener('input', calc);
     form.addEventListener('change', calc);
-    calc();
+    addRoom();
   }
 </script>
 <style>
@@ -110,18 +142,28 @@ import site from '../data/site.json';
   .calc-head { grid-column: 1 / -1; }
   .calc-head h2 { margin-top: 0; }
   .calc-form { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 30px; }
-  .calc-form fieldset { border: 0; padding: 0; margin: 0 0 22px; }
-  .calc-form fieldset:last-child { margin-bottom: 0; }
+  .calc-form fieldset { border: 0; padding: 0; margin: 0 0 22px; min-width: 0; }
   .calc-form legend { font-weight: 750; font-size: 1.1rem; margin-bottom: 10px; padding: 0; }
   .calc-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 14px; margin-bottom: 14px; }
+  .calc-row:last-child { margin-bottom: 0; }
   .calc-stack { grid-template-columns: 1fr; }
   .calc-form label { display: block; font-weight: 600; font-size: .9rem; }
-  .calc-form input, .calc-form select { display: block; width: 100%; margin-top: 6px; padding: 10px 12px; font: inherit; font-size: 16px; font-weight: 400; border: 1px solid #c9ced4; border-radius: 6px; background: #fff; }
+  .calc-form input, .calc-form select { display: block; width: 100%; margin-top: 6px; padding: 10px 12px; font: inherit; font-size: 16px; font-weight: 400; border: 1px solid #c9ced4; border-radius: 6px; background: #fff; text-overflow: ellipsis; }
   .calc-form input:focus, .calc-form select:focus { outline: 2px solid var(--brand); outline-offset: -1px; border-color: transparent; }
   .hint { display: block; font-weight: 400; font-size: .8rem; color: var(--ink-soft); margin-top: 4px; }
+  .calc-room { background: var(--brand-tint); border-radius: var(--radius); padding: 20px 20px 22px !important; margin: 0 0 16px !important; }
+  .calc-room-head { display: flex; align-items: end; gap: 14px; margin-bottom: 14px; }
+  .calc-name { flex: 1; }
+  .calc-name input { font-weight: 650 !important; }
+  .calc-remove { background: none; border: 0; padding: 10px 4px; font: inherit; font-size: .9rem; color: var(--ink-soft); text-decoration: underline; cursor: pointer; }
+  .calc-add { width: 100%; padding: 14px; border: 0; border-radius: var(--radius); background: var(--brand-tint); color: var(--brand); font: inherit; font-weight: 700; cursor: pointer; }
+  .calc-add:hover { background: #dcebf4; }
   .calc-result { position: sticky; top: 110px; background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px; }
   .calc-label { margin: 0; font-weight: 650; color: var(--ink-soft); }
   .calc-kw { margin: 4px 0 14px; font-size: 3.2rem; font-weight: 800; line-height: 1; color: var(--brand); letter-spacing: -0.02em; }
+  .calc-list { list-style: none; padding: 0; margin: 0 0 16px; }
+  .calc-list :global(li) { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-top: 1px solid #e6e9ec; font-size: .95rem; }
+  .calc-list :global(li:last-child) { border-bottom: 1px solid #e6e9ec; }
   .calc-note { font-size: .9rem; color: var(--ink-soft); margin: 0 0 12px; }
   .calc-result .btn { width: 100%; text-align: center; margin-top: 6px; }
   .calc-call { margin: 12px 0 0; text-align: center; font-size: .95rem; }
