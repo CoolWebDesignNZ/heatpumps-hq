@@ -11,6 +11,7 @@
 import site from '../data/site.json';
 
 const ceilings = [['0.5', 'Roof space above, no insulation'], ['1.5', 'Roof space above, thin or old insulation'], ['3.3', "Roof space above, insulated to today's standard"], ['0', 'A heated room above']];
+const roomTypes = ['Lounge', 'Living area', 'Kitchen and dining', 'Dining room', 'Main bedroom', 'Bedroom', 'Study', 'Family room', 'Hallway', 'Other room'];
 const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Timber, insulated underneath'], ['1.3', 'Concrete slab'], ['0', 'A heated room below']];
 ---
 <section class="section tint" id="calculator">
@@ -49,7 +50,7 @@ const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Ti
       <template data-room>
         <fieldset class="calc-room">
           <div class="calc-room-head">
-            <label class="calc-name">Room<input name="name" type="text" maxlength="30" /></label>
+            <label class="calc-name">Room<select name="name">{roomTypes.map((t) => <option value={t}>{t}</option>)}</select></label>
             <button class="calc-remove" type="button" data-remove>Remove</button>
           </div>
           <div class="calc-row">
@@ -85,7 +86,8 @@ const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Ti
     const calcEl = form.closest('.calc')!;
     const rooms = form.querySelector<HTMLElement>('[data-rooms]')!;
     const tpl = form.querySelector<HTMLTemplateElement>('template[data-room]')!;
-    const names = ['Lounge', 'Bedroom 1', 'Bedroom 2', 'Bedroom 3', 'Dining', 'Study'];
+    // The first room is the lounge, the next the main bedroom, then bedrooms.
+    const startType = (n: number) => (n === 0 ? 'Lounge' : n === 1 ? 'Main bedroom' : 'Bedroom');
     const house = (n: string) => (form.elements.namedItem(n) as HTMLSelectElement).value;
     const u = (r: number) => (r > 0 ? 1 / r : 0);
 
@@ -107,7 +109,10 @@ const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Ti
 
     const calc = () => {
       const list = [...rooms.querySelectorAll<HTMLElement>('.calc-room')];
-      const each = list.map((r) => ({ name: r.querySelector<HTMLInputElement>('[name="name"]')!.value || 'Room', kw: roomKw(r) }));
+      // Repeated room types are numbered in the result (Bedroom 1, Bedroom 2).
+      const types = list.map((r) => r.querySelector<HTMLSelectElement>('[name="name"]')!.value);
+      const seen: Record<string, number> = {};
+      const each = list.map((r, i) => { const t = types[i]; const dup = types.filter((x) => x === t).length > 1; seen[t] = (seen[t] ?? 0) + 1; return { name: dup ? `${t} ${seen[t]}` : t, kw: roomKw(r) }; });
       const total = each.reduce((a, r) => a + r.kw, 0);
       const many = each.length > 1;
       calcEl.querySelector('[data-kw]')!.textContent = total.toFixed(1);
@@ -122,13 +127,13 @@ const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Ti
     const addRoom = () => {
       const node = tpl.content.firstElementChild!.cloneNode(true) as HTMLElement;
       const n = rooms.children.length;
-      node.querySelector<HTMLInputElement>('[name="name"]')!.value = names[n] ?? `Room ${n + 1}`;
+      node.querySelector<HTMLSelectElement>('[name="name"]')!.value = startType(n);
       // Rooms after the first start at a typical bedroom size.
       if (n > 0) for (const [k, v] of [['len', '3.6'], ['wid', '3.2'], ['ext', '6.8'], ['win', '2']]) node.querySelector<HTMLInputElement>(`[name="${k}"]`)!.value = v;
       node.querySelector('[data-remove]')!.addEventListener('click', () => { node.remove(); calc(); });
       rooms.append(node);
       calc();
-      if (n > 0) node.querySelector<HTMLInputElement>('[name="name"]')!.focus();
+      if (n > 0) node.querySelector<HTMLSelectElement>('[name="name"]')!.focus();
     };
 
     form.querySelector('[data-add]')!.addEventListener('click', addRoom);
@@ -154,7 +159,7 @@ const floors = [['0.5', 'Timber over a crawl space, no insulation'], ['1.3', 'Ti
   .calc-room { background: var(--brand-tint); border-radius: var(--radius); padding: 20px 20px 22px !important; margin: 0 0 16px !important; }
   .calc-room-head { display: flex; align-items: end; gap: 14px; margin-bottom: 14px; }
   .calc-name { flex: 1; }
-  .calc-name input { font-weight: 650 !important; }
+  .calc-name select { font-weight: 650 !important; }
   .calc-remove { background: none; border: 0; padding: 10px 4px; font: inherit; font-size: .9rem; color: var(--ink-soft); text-decoration: underline; cursor: pointer; }
   .calc-add { width: 100%; padding: 14px; border: 0; border-radius: var(--radius); background: var(--brand-tint); color: var(--brand); font: inherit; font-weight: 700; cursor: pointer; }
   .calc-add:hover { background: #dcebf4; }
