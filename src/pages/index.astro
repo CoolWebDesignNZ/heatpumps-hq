@@ -24,6 +24,15 @@ const services = [
     p: 'We install heat pumps that cool as well as heat, so one unit keeps the house comfortable on hot nor\'west days.' },
 ];
 
+// Brand row: what we do with each brand and its service page.
+const brandRow = [
+  ['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchurch/', true],
+  ['Daikin', '/daikin-heat-pump-service-christchurch/', true],
+  ['Fujitsu', '/fujitsu-heat-pump-service-christchurch/', true],
+  ['Toshiba', '/toshiba-heat-pump-service-christchurch/', true],
+  ['Panasonic', '/panasonic-heat-pump-service-christchurch/', false],
+];
+
 const otherServices = [['High-wall heat pumps', '/high-wall-heat-pumps/'], ['Floor-mounted heat pumps', '/floor-mounted-heat-pumps/'], ['Single room heat pumps', '/single-room-heat-pump-installation/'], ['Emergency repairs', '/emergency-heat-pump-repair/'], ['Heat pump cleaning', '/heat-pump-cleaning/'], ['Heat pump covers', '/covers/'], ['Maintenance plans', '/customised-heat-pump-service-plans/']];
 
 const guides = [
@@ -103,6 +112,29 @@ const faqs = [
     </div>
   </section>
 
+  <section class="section warm">
+    <div class="wrap">
+      <h2>Heat pump brands we install and repair</h2>
+      <p class="lead">We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those and Panasonic, and most other brands sold in New Zealand.</p>
+      <div class="brand-row">
+        {brandRow.map(([name, href, fit]) => (
+          <a class="brand-tile" href={href}>
+            <span class="brand-tag">{fit ? 'Install, service and repair' : 'Service and repair'}</span>
+            <strong>{name}</strong>
+            <span class="brand-go">See service →</span>
+          </a>
+        ))}
+        <a class="brand-tile" href="/heat-pump-repair/">
+          <span class="brand-tag">Service and repair</span>
+          <strong>Other brands</strong>
+          <span class="brand-note">Most others sold in New Zealand</span>
+          <span class="brand-go">See repairs →</span>
+        </a>
+      </div>
+      <p class="more"><a href="/heat-pump-brands-comparison/">See how the brands compare</a></p>
+    </div>
+  </section>
+
   <section class="section tint">
     <div class="wrap">
       <h2>Heat pumps across Christchurch, Selwyn and Lyttelton</h2>
@@ -136,6 +168,15 @@ const faqs = [
   .step-n { display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: var(--brand); color: #fff; font-weight: 750; }
   @media (max-width: 980px) { .steps { grid-template-columns: 1fr 1fr; } }
   @media (max-width: 640px) { .steps { grid-template-columns: 1fr; } }
+  .brand-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 28px; }
+  .brand-tile { display: flex; flex-direction: column; gap: 6px; background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 20px 20px 18px; color: var(--ink); text-decoration: none; }
+  .brand-tile:hover { box-shadow: 0 1px 2px rgba(16, 24, 32, .08), 0 12px 28px rgba(16, 24, 32, .12); }
+  .brand-tile strong { font-size: 1.2rem; line-height: 1.2; }
+  .brand-note { font-size: .85rem; line-height: 1.35; color: var(--ink-soft); }
+  .brand-tag { font-size: .78rem; font-weight: 700; color: var(--brand-ink); }
+  .brand-go { margin-top: auto; padding-top: 8px; font-size: .9rem; font-weight: 650; color: var(--link); }
+  .brand-tile:hover .brand-go { text-decoration: underline; }
+  @media (max-width: 600px) { .brand-row { grid-template-columns: 1fr 1fr; gap: 12px; } .brand-tile { padding: 16px; } .brand-tile strong { font-size: 1.05rem; } }
   .other { margin-top: 40px; }
   .other h3 { margin-bottom: .4em; }
   .other a { font-weight: 600; }
