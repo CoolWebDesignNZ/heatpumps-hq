@@ -47,7 +47,7 @@ const cardList = (html) => html.replace(/<ul>([\s\S]*?)<\/ul>/g, (ul, inner) => 
   if (!items.length) return ul;
   return `<div class="link-cards">${items.map(([, href, label, text]) => {
     const id = heroOf(href); const img = id && images[id];
-    return `<a class="card link-card" href="${href}">${img ? `<img src="/images/${id}.jpg" alt="${img.alt}" loading="lazy" decoding="async" width="${img.aspect.split('x')[0] * 100}" height="${img.aspect.split('x')[1] * 100}">` : ''}<div class="card-body"><h3>${label}</h3><p>${text}</p></div></a>`;
+    return `<a class="card link-card" href="${href}">${img ? `<img src="/images/${id}.webp" alt="${img.alt}" loading="lazy" decoding="async" width="${img.aspect.split('x')[0] * 100}" height="${img.aspect.split('x')[1] * 100}">` : ''}<div class="card-body"><h3>${label}</h3><p>${text}</p></div></a>`;
   }).join('')}</div>`;
 });
 const bands = sections.map((html, i) => ({ html: fm.linkCards ? cardList(html) : html, photo: slots.get(i + 1) }));

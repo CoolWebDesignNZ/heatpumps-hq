@@ -8,7 +8,7 @@ const { id, eager = false, class: cls = '' } = Astro.props;
 const meta = images[id];
 if (!meta) throw new Error(`Image "${id}" is missing from src/data/images.json`);
 const [w, h] = meta.aspect.split('x').map(Number);
-const file = `/images/${id}.jpg`;
+const file = `/images/${id}.webp`;
 const exists = fs.existsSync(`public${file}`);
 ---
 {exists ? (

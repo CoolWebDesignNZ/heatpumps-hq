@@ -6,7 +6,8 @@ sitemap is kept exactly, trailing slash included, and new pages the client appro
 - `src/content/<slug>.md` — one file per page; the filename is the URL.
 - `src/pages/index.astro` — home page.
 - `src/data/site.json` — business details (Nate, phone, hours, brands).
-- `src/data/images.json` — Ideogram prompts; `npm run images` generates missing ones (needs `IDEOGRAM_API_KEY`).
+- `src/data/images.json` — Ideogram prompts; `npm run images` generates missing ones (needs `IDEOGRAM_API_KEY`). Pages load the WebP; the JPEG beside it is for og:image and schema. `node scripts/to-webp.mjs` makes a WebP for any JPEG without one.
+- `src/pages/404.astro` and `src/pages/thank-you.astro` — noindex, not in urls.json or the sitemap. The quote form should land on /thank-you/ once /api/quote exists.
 - `npm run check-copy` — checks every page against the CLAUDE.md copy and SEO rules.
 - `research/keywords.json` — main and secondary keyword per URL (DataForSEO, NZ, 2026-10-17).
 - `npm run build` — builds `dist/` and reports how many of the URLs in urls.json exist. It fails if a page isn't listed there.

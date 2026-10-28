@@ -1,0 +1,37 @@
+---
+// Served by Cloudflare Pages for any URL that doesn't exist. Kept out of search.
+import Base from '../layouts/Base.astro';
+import CtaBand from '../components/CtaBand.astro';
+import site from '../data/site.json';
+
+const links = [
+  ['Heat pump installation', '/heat-pump-installation-in-christchurch/'],
+  ['Heat pump servicing', '/heat-pump-servicing/'],
+  ['Heat pump repairs', '/heat-pump-repair/'],
+  ['All heat pump services', '/heat-pump-services/'],
+  ['Heat pump guides', '/heat-pump-guides/'],
+  ['Areas we cover', '/locations/'],
+];
+---
+<Base title="Page not found" description="That address doesn't exist on our site. Find heat pump installation, servicing and repairs in Christchurch, or call us." noindex>
+  <section class="section">
+    <div class="wrap nf">
+      <p class="nf-code">404</p>
+      <h1>We can't find that page</h1>
+      <p class="lead">The link may be old, or the address may have a typo. These are the pages most people are after:</p>
+      <ul class="nf-links">
+        {links.map(([label, href]) => <li><a href={href}>{label}</a></li>)}
+      </ul>
+      <p>Or go to the <a href="/">home page</a>, or call us on <a href={site.phoneHref}>{site.phone}</a>.</p>
+    </div>
+  </section>
+  <CtaBand heading="Get a free heat pump quote" />
+</Base>
+<style>
+  .nf-code { font-size: 1rem; font-weight: 800; letter-spacing: .1em; color: var(--brand); margin: 0 0 .4em; }
+  .nf-links { list-style: none; padding: 0; margin: 28px 0 32px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .nf-links a { display: block; padding: 18px 22px; border-radius: var(--radius); background: var(--brand-tint); font-weight: 650; color: var(--ink); text-decoration: none; }
+  .nf-links a:hover { background: #dcebf4; }
+  @media (max-width: 860px) { .nf-links { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 520px) { .nf-links { grid-template-columns: 1fr; } }
+</style>

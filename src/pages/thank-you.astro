@@ -1,0 +1,36 @@
+---
+// Where the quote form lands once /api/quote sends the request on. Kept out of
+// search and the sitemap.
+import Base from '../layouts/Base.astro';
+import Img from '../components/Img.astro';
+import site from '../data/site.json';
+
+const guides = [
+  { img: 'sizing-hero', h: 'What size heat pump do I need?', href: '/heat-pump-sizing/', a: 'Use the sizing guide' },
+  { img: 'boundary-hero', h: 'Heat pump boundary rules & consent', href: '/heat-pump-boundary-rules-consent-nz/', a: 'Read the boundary rules guide' },
+  { img: 'instcost-hero', h: 'Installation cost', href: '/heat-pump-installation-cost-christchurch/', a: 'See what changes the cost' },
+];
+---
+<Base title="Thanks, we've got your request" description="Your quote request has reached Heat Pumps HQ. We'll call or email you back, Monday to Friday, 8am to 5pm." noindex>
+  <section class="section">
+    <div class="wrap ty">
+      <h1>Thanks, we've got your request</h1>
+      <p class="lead">We'll call or email you back. Our hours are {site.hours[0].days}, {site.hours[0].label}.</p>
+      <p>Need us sooner? Call <a href={site.phoneHref}>{site.phone}</a>.</p>
+    </div>
+  </section>
+  <section class="section warm">
+    <div class="wrap">
+      <h2>While you wait</h2>
+      <div class="ty-grid">
+        {guides.map((g) => <a class="card" href={g.href}><Img id={g.img} class="ty-img" /><div class="card-body"><h3>{g.h}</h3><p class="ty-go">{g.a} →</p></div></a>)}
+      </div>
+    </div>
+  </section>
+</Base>
+<style>
+  .ty-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 28px; }
+  .ty-grid :global(.ty-img) { width: 100%; aspect-ratio: 16/9 !important; object-fit: cover; border-radius: var(--radius) var(--radius) 0 0; }
+  .ty-go { margin: 0; color: var(--link); font-weight: 650; }
+  @media (max-width: 860px) { .ty-grid { grid-template-columns: 1fr; } }
+</style>

@@ -5,6 +5,8 @@ import path from 'node:path';
 
 const urls = JSON.parse(fs.readFileSync('src/data/urls.json', 'utf8'));
 const old = new Set(urls.map((u) => u.path));
+// Pages kept out of search and the sitemap on purpose (noindex).
+const unlisted = new Set(['/thank-you/']);
 const built = [];
 (function walk(dir) {
   for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -13,7 +15,7 @@ const built = [];
     else if (f.name === 'index.html') built.push('/' + path.relative('dist', dir).replace(/\\/g, '/') + (dir === 'dist' ? '' : '/'));
   }
 })('dist');
-const extra = built.map((b) => b.replace('//', '/')).filter((b) => !old.has(b));
+const extra = built.map((b) => b.replace('//', '/')).filter((b) => !old.has(b) && !unlisted.has(b));
 const missing = [...old].filter((u) => !built.map((b) => b.replace('//', '/')).includes(u));
 console.log(`URLs built: ${old.size - missing.length} of ${old.size}`);
 if (missing.length) console.log(`Not built yet: ${missing.length}`);

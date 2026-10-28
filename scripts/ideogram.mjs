@@ -9,7 +9,7 @@ import sharp from 'sharp';
 const key = process.env.IDEOGRAM_API_KEY;
 const images = JSON.parse(fs.readFileSync('src/data/images.json', 'utf8'));
 const only = process.argv.slice(2);
-const ids = only.length ? only : Object.keys(images).filter((id) => !fs.existsSync(`public/images/${id}.jpg`));
+const ids = only.length ? only : Object.keys(images).filter((id) => !fs.existsSync(`public/images/${id}.webp`));
 
 // Ideogram 4.5 with magic prompt on. 2K presets: 16x9 heroes, 4x3 gallery.
 const sizes = { '16x9': '2560x1440', '4x3': '2304x1728' };
@@ -35,11 +35,10 @@ async function generate(id) {
   const url = (await res.json()).data?.[0]?.url;
   if (!url) { console.error(`${id}: no image returned (safety check?)`); return; }
   const img = await fetch(url);
-  // Ideogram returns a large PNG; save a web-sized JPEG.
-  await sharp(Buffer.from(await img.arrayBuffer()))
-    .resize({ width: aspect === '16x9' ? 1920 : 1200 })
-    .jpeg({ quality: 80, mozjpeg: true })
-    .toFile(`public/images/${id}.jpg`);
+  // Ideogram returns a large PNG; save a web-sized WebP for the pages and a JPEG for og:image and schema.
+  const sized = sharp(Buffer.from(await img.arrayBuffer())).resize({ width: aspect === '16x9' ? 1920 : 1200 });
+  await sized.clone().webp({ quality: 80 }).toFile(`public/images/${id}.webp`);
+  await sized.clone().jpeg({ quality: 80, mozjpeg: true }).toFile(`public/images/${id}.jpg`);
   console.log(`${id}: saved`);
 }
 // Two at a time (Ideogram limits requests in flight).
