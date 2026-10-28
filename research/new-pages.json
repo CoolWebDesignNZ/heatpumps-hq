@@ -1,0 +1,254 @@
+[
+ {
+  "slug": "heat-pump-replacement-christchurch",
+  "type": "service",
+  "example": "heat-pump-installation-in-christchurch",
+  "keyword": "heat pump replacement christchurch",
+  "secondary": [
+   "heat pump replacement",
+   "replace heat pump",
+   "old heat pump replacement"
+  ],
+  "brief": "Replacing an old or failing heat pump. When repair stops being worth it (compressor failure on an old unit, parts no longer made, old refrigerant, repeated faults). What a replacement involves: refrigerant recovery, removing both units, checking whether the old pipe route, drain, hole and electrical circuit can be reused, resizing rather than matching the old unit's kW. Old units that were oversized or undersized. Link to repair, sizing, installation cost and installation pages."
+ },
+ {
+  "slug": "healthy-homes-heat-pumps-christchurch",
+  "type": "service",
+  "example": "single-room-heat-pump-installation",
+  "keyword": "healthy homes heat pump",
+  "secondary": [
+   "healthy homes heating standard",
+   "heat pump for rental property",
+   "landlord heat pump christchurch"
+  ],
+  "brief": "Heat pumps for Christchurch landlords and the Healthy Homes heating standard. The rule: one or more fixed qualifying heaters that can directly heat the main living room to at least 18\u00b0C, sized to the required heating capacity; a heat pump used for it must have a thermostat; open fires and unflued combustion heaters don't qualify; required capacity is worked out with the Tenancy Services heating assessment tool (link https://tools.tenancy.govt.nz/heating-tool) or the formula in the regulations. If the required capacity is over 2.4 kW the heater must be at least 2 kW. Newer homes (built to the 2008 code) use a different formula that usually gives a smaller figure. What we give landlords: the model and capacity in writing for their records. Rentals are common in Riccarton, Ilam, Upper Riccarton, Addington, Phillipstown. Do not state penalties or dates."
+ },
+ {
+  "slug": "ceiling-cassette-heat-pumps",
+  "type": "service",
+  "example": "floor-mounted-heat-pumps",
+  "keyword": "ceiling cassette heat pump",
+  "secondary": [
+   "cassette heat pump",
+   "ceiling heat pump",
+   "ceiling cassette air conditioner"
+  ],
+  "brief": "Ceiling cassette heat pumps: an indoor unit set into the ceiling with a grille that blows air out in several directions. Good where there's no wall space, in open plan rooms, kitchens and living areas, and where people don't want a box on the wall. Needs ceiling space above for the unit, pipes and a condensate drain (often with a pump), so it suits new builds and renovations or homes with roof space. Compare with high wall, floor console and ducted. Link to types of heat pumps, high wall, floor mounted, ducted pages. Brands we fit: Mitsubishi Electric, Daikin, Fujitsu and Toshiba."
+ },
+ {
+  "slug": "mitsubishi-heat-pump-error-codes",
+  "type": "guide",
+  "example": "heat-pump-problems-troubleshooting-guide",
+  "keyword": "mitsubishi heat pump error codes",
+  "secondary": [
+   "mitsubishi heat pump flashing light",
+   "mitsubishi error code",
+   "mitsubishi heat pump fault codes"
+  ],
+  "brief": "How to read a fault on a Mitsubishi Electric heat pump: flashing operation light, how to check the code with the remote (self-diagnosis), what to note (model number, code, what the unit was doing). Do NOT list specific code numbers or what each one means: codes vary by model and we can't verify them. Explain common causes in general terms (sensor, fan motor, communication between indoor and outdoor unit, refrigerant, drain), what the owner can safely check (filters, isolating switch reset, outdoor unit clear), and when to call us. Link to mitsubishi-heat-pump-service-christchurch, heat-pump-repair, heat-pump-troubleshooting."
+ },
+ {
+  "slug": "daikin-heat-pump-error-codes",
+  "type": "guide",
+  "example": "heat-pump-problems-troubleshooting-guide",
+  "keyword": "daikin heat pump error codes",
+  "secondary": [
+   "daikin heat pump flashing light",
+   "daikin error code",
+   "daikin fault codes"
+  ],
+  "brief": "Same as the Mitsubishi guide but for Daikin: flashing light, checking the code with the remote, what to note. Do NOT list specific code numbers or meanings. General causes, safe owner checks, when to call us. Link to daikin-heat-pump-service-christchurch, heat-pump-repair, heat-pump-troubleshooting. Write it differently from the Mitsubishi page: no shared sentences."
+ },
+ {
+  "slug": "fujitsu-heat-pump-error-codes",
+  "type": "guide",
+  "example": "heat-pump-problems-troubleshooting-guide",
+  "keyword": "fujitsu heat pump error codes",
+  "secondary": [
+   "fujitsu heat pump flashing light",
+   "fujitsu timer light flashing",
+   "fujitsu fault codes"
+  ],
+  "brief": "Same idea for Fujitsu: flashing timer and operation lights, reading the code, what to note. Do NOT list specific code numbers or meanings. General causes, safe owner checks, when to call us. Link to fujitsu-heat-pump-service-christchurch, heat-pump-repair, heat-pump-troubleshooting. No sentences shared with the Mitsubishi or Daikin pages."
+ },
+ {
+  "slug": "heat-pump-running-costs",
+  "type": "guide",
+  "example": "how-heat-pumps-work",
+  "keyword": "heat pump running costs",
+  "secondary": [
+   "how much does a heat pump cost to run",
+   "best heat pump settings winter",
+   "heat pump power usage"
+  ],
+  "brief": "What decides a heat pump's running cost in Christchurch: size match to the room, insulation and draughts, set temperature (around 18 to 21\u00b0C), using auto fan, leaving it on low versus switching off and on, clean filters and coil, frosty mornings and defrost, the unit's efficiency rating. Best winter settings. Do NOT give dollar figures, kWh figures or percentages: tell the reader to work it out from the unit's rated input power and their own power price per kWh, with a worked method in words. Link to energy-consumption-monitoring, maintenance-servicing, heat-pump-sizing, energy-star-heat-pumps."
+ },
+ {
+  "slug": "heat-pump-vs-gas-wood-burner",
+  "type": "guide",
+  "example": "heat-pump-carbon-footprint-analysis",
+  "keyword": "heat pump vs wood burner",
+  "secondary": [
+   "heat pump vs gas heating",
+   "heat pump or wood burner christchurch",
+   "heat pump vs log burner"
+  ],
+  "brief": "Comparing a heat pump with a wood burner and with gas heating for a Christchurch home: how each heats (spread, speed, control, cooling in summer), fuel and upkeep (buying and storing wood, chimney sweeping, gas bottles or connection), air quality and Christchurch's rules on burners (building consent needed to install or move a solid fuel burner; new burners since 1 January 2019 must be ultra-low emission; fixed electric heaters including heat pumps don't need building consent, an electrician connects them). No running cost figures or percentages. Many homes keep a burner and add a heat pump. Link to heat-pump-carbon-footprint-analysis, heat-pump-installation-in-christchurch, heat-pump-sizing."
+ },
+ {
+  "slug": "merivale",
+  "type": "suburb",
+  "suburb": "Merivale",
+  "example": "sumner",
+  "keyword": "heat pump installation merivale",
+  "secondary": [
+   "heat pumps merivale",
+   "heat pump service merivale",
+   "heat pump repair merivale"
+  ],
+  "brief": "Suburb page for Merivale, Christchurch. Write only about house types, streets and conditions you are confident are true of Merivale (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "strowan",
+  "type": "suburb",
+  "suburb": "Strowan",
+  "example": "sumner",
+  "keyword": "heat pump installation strowan",
+  "secondary": [
+   "heat pumps strowan",
+   "heat pump service strowan",
+   "heat pump repair strowan"
+  ],
+  "brief": "Suburb page for Strowan, Christchurch. Write only about house types, streets and conditions you are confident are true of Strowan (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "bishopdale",
+  "type": "suburb",
+  "suburb": "Bishopdale",
+  "example": "sumner",
+  "keyword": "heat pump installation bishopdale",
+  "secondary": [
+   "heat pumps bishopdale",
+   "heat pump service bishopdale",
+   "heat pump repair bishopdale"
+  ],
+  "brief": "Suburb page for Bishopdale, Christchurch. Write only about house types, streets and conditions you are confident are true of Bishopdale (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "northwood",
+  "type": "suburb",
+  "suburb": "Northwood",
+  "example": "sumner",
+  "keyword": "heat pump installation northwood",
+  "secondary": [
+   "heat pumps northwood",
+   "heat pump service northwood",
+   "heat pump repair northwood"
+  ],
+  "brief": "Suburb page for Northwood, Christchurch. Write only about house types, streets and conditions you are confident are true of Northwood (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "st-martins",
+  "type": "suburb",
+  "suburb": "St Martins",
+  "example": "sumner",
+  "keyword": "heat pump installation st martins",
+  "secondary": [
+   "heat pumps st martins",
+   "heat pump service st martins",
+   "heat pump repair st martins"
+  ],
+  "brief": "Suburb page for St Martins, Christchurch. Write only about house types, streets and conditions you are confident are true of St Martins (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "opawa",
+  "type": "suburb",
+  "suburb": "Opawa",
+  "example": "sumner",
+  "keyword": "heat pump installation opawa",
+  "secondary": [
+   "heat pumps opawa",
+   "heat pump service opawa",
+   "heat pump repair opawa"
+  ],
+  "brief": "Suburb page for Opawa, Christchurch. Write only about house types, streets and conditions you are confident are true of Opawa (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "woolston",
+  "type": "suburb",
+  "suburb": "Woolston",
+  "example": "sumner",
+  "keyword": "heat pump installation woolston",
+  "secondary": [
+   "heat pumps woolston",
+   "heat pump service woolston",
+   "heat pump repair woolston"
+  ],
+  "brief": "Suburb page for Woolston, Christchurch. Write only about house types, streets and conditions you are confident are true of Woolston (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "richmond",
+  "type": "suburb",
+  "suburb": "Richmond",
+  "example": "sumner",
+  "keyword": "heat pump installation richmond",
+  "secondary": [
+   "heat pumps richmond",
+   "heat pump service richmond",
+   "heat pump repair richmond"
+  ],
+  "brief": "Suburb page for Richmond, Christchurch. Write only about house types, streets and conditions you are confident are true of Richmond (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "huntsbury",
+  "type": "suburb",
+  "suburb": "Huntsbury",
+  "example": "sumner",
+  "keyword": "heat pump installation huntsbury",
+  "secondary": [
+   "heat pumps huntsbury",
+   "heat pump service huntsbury",
+   "heat pump repair huntsbury"
+  ],
+  "brief": "Suburb page for Huntsbury, Christchurch. Write only about house types, streets and conditions you are confident are true of Huntsbury (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "hillsborough",
+  "type": "suburb",
+  "suburb": "Hillsborough",
+  "example": "sumner",
+  "keyword": "heat pump installation hillsborough",
+  "secondary": [
+   "heat pumps hillsborough",
+   "heat pump service hillsborough",
+   "heat pump repair hillsborough"
+  ],
+  "brief": "Suburb page for Hillsborough, Christchurch. Write only about house types, streets and conditions you are confident are true of Hillsborough (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "waltham",
+  "type": "suburb",
+  "suburb": "Waltham",
+  "example": "sumner",
+  "keyword": "heat pump installation waltham",
+  "secondary": [
+   "heat pumps waltham",
+   "heat pump service waltham",
+   "heat pump repair waltham"
+  ],
+  "brief": "Suburb page for Waltham, Christchurch. Write only about house types, streets and conditions you are confident are true of Waltham (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ },
+ {
+  "slug": "islington",
+  "type": "suburb",
+  "suburb": "Islington",
+  "example": "sumner",
+  "keyword": "heat pump installation islington",
+  "secondary": [
+   "heat pumps islington",
+   "heat pump service islington",
+   "heat pump repair islington"
+  ],
+  "brief": "Suburb page for Islington, Christchurch. Write only about house types, streets and conditions you are confident are true of Islington (age and style of housing, flat or hill, near the river or estuary, frost, wind). If unsure of a local detail, keep it general to that part of Christchurch rather than inventing. Link to 2 or 3 neighbouring suburb pages that exist in the URL list, and to installation, servicing and repair pages."
+ }
+]
