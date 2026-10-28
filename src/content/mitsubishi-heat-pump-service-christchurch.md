@@ -36,7 +36,7 @@ Mitsubishi Electric is one of the brands we fit. We'll service and repair a Mits
 
 ## Mitsubishi heat pump repairs
 
-A Mitsubishi with a problem will often stop and flash the operation light on the indoor unit. On a wired controller, it shows a code instead. Other faults look different. The heat might be weak. Water might run down the wall. The outdoor unit might rattle, or there's a smell when it starts.
+A Mitsubishi with a problem will often stop and flash the operation light on the indoor unit. On a wired controller, it shows [a code](/mitsubishi-heat-pump-error-codes/) instead. Other faults look different. The heat might be weak. Water might run down the wall. The outdoor unit might rattle, or there's a smell when it starts.
 
 The code is only a starting point. It tells us which part or circuit picked up the problem. Our tests then find the real cause. From the couch, a bad sensor, a fan motor, a control board and a gas leak can all look much the same. [Fault finding](/heat-pump-troubleshooting/) is how we tell them apart.
 

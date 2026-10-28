@@ -32,7 +32,7 @@ An old heat pump doesn't need replacing just because it's old. How it's working 
 - **It can't heat the room on frosty mornings.** Even after a service and with clean filters.
 - **The same fault keeps coming back.** Or a big part like the compressor has failed.
 - **It runs on an older refrigerant.** That gas is getting hard and costly to get for repairs.
-- **The power bill has crept up.** And you haven't changed how you use it.
+- **The [power bill](/heat-pump-running-costs/) has crept up.** And you haven't changed how you use it.
 - **The house has changed.** A renovation, extension or new insulation can mean the room needs a different size of unit.
 
 If only one of these fits, a repair or service may be enough. See how we weigh up [heat pump repair](/heat-pump-repair/) against replacing.

@@ -53,6 +53,8 @@ How to get more heat for less power, and what the energy label tells you.
 - [Energy ratings](/energy-star-heat-pumps/): How to read the energy rating label and the figures for our climate zone.
 - [Carbon footprint](/heat-pump-carbon-footprint-analysis/): How a heat pump compares with a wood burner on emissions and air quality.
 - [Allergies and asthma](/allergy-asthma-solutions-heat-pumps/): Why a dirty unit spreads dust and mould, and how to keep the air cleaner.
+- [Running costs](/heat-pump-running-costs/): What drives the power a heat pump uses, and the settings that keep the bill down.
+- [Heat pump vs gas or wood burner](/heat-pump-vs-gas-wood-burner/): How the three compare on running, upkeep, air quality and Christchurch burner rules.
 
 ## Heat pump rules and problems
 
@@ -62,6 +64,9 @@ Where the outdoor unit can go, the paperwork you need, and what to do when somet
 - [Regulations and building code](/compliance-building-codes/): Building consent, the electrical certificate and the Healthy Homes heating rules for rentals.
 - [Common heat pump problems](/heat-pump-problems-troubleshooting-guide/): Symptom by symptom checks you can do safely, and when to book us.
 - [Noise problems](/heat-pump-noise-problems-solutions/): Which sounds are normal and what rattling, buzzing or grinding usually means.
+- [Mitsubishi Electric error codes](/mitsubishi-heat-pump-error-codes/): How to read the code or blinking light, and which faults need a technician.
+- [Daikin error codes](/daikin-heat-pump-error-codes/): Finding the code on the remote, the common ones, and safe first checks.
+- [Fujitsu error codes](/fujitsu-heat-pump-error-codes/): Reading the timer and operation light flashes, and when to call us.
 
 ## Get a heat pump quote
 

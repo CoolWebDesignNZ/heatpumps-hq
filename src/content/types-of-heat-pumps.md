@@ -56,7 +56,7 @@ A floor console sits low on the wall. It's about the height of a small cabinet. 
 
 ## Ceiling cassettes and bulkhead units
 
-A **ceiling cassette** sits flush in the ceiling. Its grille blows air down or out. A **bulkhead** or ceiling concealed unit hides in a dropped ceiling or bulkhead. It blows through a slim grille. Slim bulkhead models suit drop ceilings and shallow ceiling spaces.
+A **[ceiling cassette](/ceiling-cassette-heat-pumps/)** sits flush in the ceiling. Its grille blows air down or out. A **bulkhead** or ceiling concealed unit hides in a dropped ceiling or bulkhead. It blows through a slim grille. Slim bulkhead models suit drop ceilings and shallow ceiling spaces.
 
 **Good for:** open plan rooms. Renovations where the ceiling's being opened up anyway. People who don't want a unit on the wall.
 

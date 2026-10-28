@@ -83,7 +83,7 @@ The cycle is the same everywhere. Christchurch weather changes how hard each par
 
 The outdoor unit collects heat. Its compressor raises the refrigerant's pressure and temperature. The indoor unit lets that heat out into the room. Behind its front panel, filters catch dust before it reaches the coil. A condensate drain carries away the water from cooling and defrost.
 
-The indoor unit can be a high wall unit, a floor console, a ceiling cassette or a ducted system feeding vents in several rooms. All these [types of heat pumps](/types-of-heat-pumps/) work the same way.
+The indoor unit can be a high wall unit, a floor console, a [ceiling cassette](/ceiling-cassette-heat-pumps/) or a ducted system feeding vents in several rooms. All these [types of heat pumps](/types-of-heat-pumps/) work the same way.
 
 ## Keeping a heat pump working well
 

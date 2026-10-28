@@ -36,7 +36,7 @@ Daikin is one of the four brands we fit. We repair and service these Daikin type
 
 ## Daikin heat pump repair
 
-A Daikin with a fault usually tells you in one of three ways. It stops and shows a code on the controller. It flashes a light on the indoor unit. Or it keeps running but heats poorly, leaks or gets noisy.
+A Daikin with a fault usually tells you in one of three ways. It stops and shows [a code on the controller](/daikin-heat-pump-error-codes/). It flashes a light on the indoor unit. Or it keeps running but heats poorly, leaks or gets noisy.
 
 We test the unit to find the cause. We don't rely on the code alone. A code tells us where the unit noticed something wrong. That isn't always where the problem started. A low refrigerant warning, for example, is the sign of a leak somewhere else. [Fault finding](/heat-pump-troubleshooting/) is how we trace a code back to the real cause.
 

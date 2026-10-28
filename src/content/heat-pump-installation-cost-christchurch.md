@@ -46,7 +46,7 @@ Three things about the heat pump itself change the cost.
 
 **Size.** A bigger unit costs more than a smaller one in the same range. Getting the size right means you don't pay for capacity you don't need. It also means you don't end up with a unit too small to keep up. So we work out the [right heat pump size](/heat-pump-sizing/) before we price the job.
 
-**Type.** High wall units, floor consoles, ceiling cassettes and multi split systems are priced differently. The install work differs too. So the [type of heat pump](/types-of-heat-pumps/) that suits your rooms shapes the quote.
+**Type.** High wall units, floor consoles, [ceiling cassettes](/ceiling-cassette-heat-pumps/) and multi split systems are priced differently. The install work differs too. So the [type of heat pump](/types-of-heat-pumps/) that suits your rooms shapes the quote.
 
 **Model and range.** Brands sell more than one range. Higher ranges may add better output in the cold, quieter running, better efficiency or built-in Wi-Fi. Compare models of the same kW size on their energy labels.
 

@@ -63,6 +63,6 @@ We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor, multi-r
 
 ## Suburbs next to St Albans
 
-We also work in [Edgeware](/edgeware/), [Mairehau](/mairehau/), [Papanui](/heat-pumps-papanui/), [Shirley](/shirley/) and the [central city](/central-business-district-cbd/).
+We also work in [Merivale](/merivale/), [Richmond](/richmond/), [Edgeware](/edgeware/), [Mairehau](/mairehau/), [Papanui](/heat-pumps-papanui/), [Shirley](/shirley/) and the [central city](/central-business-district-cbd/).
 
 Ring **[03 242 1023](tel:032421023)** or fill in the form for a free quote on your St Albans home.

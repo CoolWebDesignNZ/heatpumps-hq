@@ -55,7 +55,7 @@ Refrigerant only counts as an emission if it leaks out. Or if it's let out when 
 
 ## Heat pump vs wood burner
 
-**Air quality.** A wood burner gives off smoke. Outside, and inside when you open the door to load it. A newer burner fed dry, well seasoned wood burns cleaner, but it still makes some smoke. A heat pump burns nothing in the room, so it adds no smoke or fumes to the air you breathe.
+**Air quality.** A [wood burner](/heat-pump-vs-gas-wood-burner/) gives off smoke. Outside, and inside when you open the door to load it. A newer burner fed dry, well seasoned wood burns cleaner, but it still makes some smoke. A heat pump burns nothing in the room, so it adds no smoke or fumes to the air you breathe.
 
 **Rules in Christchurch.** In Christchurch you need building consent before you put in or move a solid fuel heater. Any new burner fitted since 1 January 2019 must be an ultra-low emission burner. Fixed electric heaters, heat pumps included, don't need building consent. A registered electrician must still connect them.
 

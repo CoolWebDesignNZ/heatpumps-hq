@@ -34,7 +34,7 @@ related:
 - Drainage and condensate
 - Outdoor unit condition and siting
 
-We diagnose on-site and tell you if it's worth repairing or replacing, before any work starts.
+We diagnose on-site and tell you if it's worth repairing or [replacing](/heat-pump-replacement-christchurch/), before any work starts.
 
 ## Common heat pump faults we repair in Christchurch
 

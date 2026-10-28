@@ -57,6 +57,6 @@ Many Shirley homes already have a heat pump that's a few years old. A [service](
 
 ## Suburbs near Shirley
 
-We also work in [Mairehau](/mairehau/), [Dallington](/dallington/), [Burwood](/burwood/), [St Albans](/st-albans/) and right across [Christchurch](/locations/).
+We also work in [Richmond](/richmond/), [Mairehau](/mairehau/), [Dallington](/dallington/), [Burwood](/burwood/), [St Albans](/st-albans/) and right across [Christchurch](/locations/).
 
 Call us on **[03 242 1023](tel:032421023)**, or use the form, to book a free quote in Shirley.

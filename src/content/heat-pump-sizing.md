@@ -83,7 +83,7 @@ An open plan space often needs two smaller units or a multi split, not one very 
 
 ## Rental homes
 
-For a rental's main living room, the Healthy Homes Standards set a minimum heating capacity. Use the same calculation for living rooms in any home. That way the heat pump still complies if you rent the house out later. The official [heat pump size calculator](/calculator-single-room-heat-pump/) runs that calculation.
+For a [rental's main living room](/healthy-homes-heat-pumps-christchurch/), the Healthy Homes Standards set a minimum heating capacity. Use the same calculation for living rooms in any home. That way the heat pump still complies if you rent the house out later. The official [heat pump size calculator](/calculator-single-room-heat-pump/) runs that calculation.
 
 ## Beyond an online heat pump size guide
 

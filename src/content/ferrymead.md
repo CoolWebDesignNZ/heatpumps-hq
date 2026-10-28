@@ -58,6 +58,6 @@ For townhouses and homes here, we fit Mitsubishi Electric, Daikin, Fujitsu or To
 
 ## Around Ferrymead
 
-We also work in [Heathcote Valley](/heathcote-valley/), [Mount Pleasant](/mount-pleasant/) and [Redcliffs](/redcliffs/).
+We also work in [Woolston](/woolston/), [Heathcote Valley](/heathcote-valley/), [Mount Pleasant](/mount-pleasant/) and [Redcliffs](/redcliffs/).
 
 For a free quote on your Ferrymead home, call **[03 242 1023](tel:032421023)** or fill in the form.

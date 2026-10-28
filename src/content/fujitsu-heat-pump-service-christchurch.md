@@ -34,7 +34,7 @@ related:
 
 ## Fujitsu heat pump repair
 
-A Fujitsu that needs fixing shows the same signs as any heat pump. It stops. A light on the indoor unit flashes. The heat fades, water drips, or a new noise starts. The job is to find the cause, not just treat the symptom.
+A Fujitsu that needs fixing shows the same signs as any heat pump. It stops. [A light on the indoor unit flashes](/fujitsu-heat-pump-error-codes/). The heat fades, water drips, or a new noise starts. The job is to find the cause, not just treat the symptom.
 
 We read any saved fault first. Then we test the parts it points to. That means the sensors, fans and control board. It also means the wiring between the units, and the gas circuit.
 

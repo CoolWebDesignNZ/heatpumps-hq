@@ -66,6 +66,6 @@ Dry nor'west days carry dust. On semi-rural blocks, so do paddocks, gravel drive
 
 ## Beyond Harewood
 
-We also work in [Burnside](/burnside/), [Russley](/russley/), [Casebrook](/casebrook/), [McLeans Island](/mcleans-island/) and the rest of [Christchurch](/locations/).
+We also work in [Bishopdale](/bishopdale/), [Northwood](/northwood/), [Burnside](/burnside/), [Russley](/russley/), [Casebrook](/casebrook/), [McLeans Island](/mcleans-island/) and the rest of [Christchurch](/locations/).
 
 For a free quote in Harewood, call **[03 242 1023](tel:032421023)** or fill in the form and we'll arrange a visit.

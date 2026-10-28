@@ -7,7 +7,6 @@ h1: Heat pump replacement in Christchurch
 serviceName: Heat pump replacement
 intro: "We replace old and failing heat pumps across Christchurch. We check whether the old pipe route, drain, hole and power supply can be reused, and we size the new unit for the room rather than matching the old one."
 hero: heat-pump-replacement-christchurch-hero
-design: money
 gallery: [heat-pump-replacement-christchurch-1, heat-pump-replacement-christchurch-2]
 stepsHeading: What a heat pump replacement involves
 steps:

@@ -46,7 +46,7 @@ Where you live changes what a normal bill looks like.
 
 ## Using the energy label to estimate heat pump running cost
 
-To estimate a heat pump's running cost from its label, add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. They're only a guide, because every household uses power differently.
+To estimate a heat pump's [running cost](/heat-pump-running-costs/) from its label, add the heating and cooling kWh per year for the Cold zone. That's the zone New Zealand is in. Then multiply by your power rate for a rough yearly cost. New models show these figures on the Zoned Energy Rating Label. They're only a guide, because every household uses power differently.
 
 So the label is good for comparing two models. It's not so good at predicting your bill. There's more on the label in our [energy rating guide](/energy-star-heat-pumps/).
 

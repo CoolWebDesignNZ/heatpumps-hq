@@ -56,6 +56,6 @@ A licensed electrical worker wires in every new system.
 
 ## Around Heathcote Valley
 
-We also work in [Ferrymead](/ferrymead/), [Mount Pleasant](/mount-pleasant/), [Lyttelton](/lyttelton/) and across [greater Christchurch](/locations/).
+We also work in [Hillsborough](/hillsborough/), [Ferrymead](/ferrymead/), [Mount Pleasant](/mount-pleasant/), [Lyttelton](/lyttelton/) and across [greater Christchurch](/locations/).
 
 For a free quote visit in Heathcote Valley, call **[03 242 1023](tel:032421023)** or send us the form with a few details about your house.

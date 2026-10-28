@@ -73,7 +73,7 @@ Every heat pump sold in New Zealand must meet Minimum Energy Performance Standar
 
 ## Rentals: the Healthy Homes heating standard
 
-A rental needs fixed heating in the main living room, and the standard is specific about what counts.
+A rental needs [fixed heating in the main living room](/healthy-homes-heat-pumps-christchurch/), and the standard is specific about what counts.
 
 - **Fixed heating:** one or more **fixed** heaters that can directly heat the main living room. That's the largest room used for everyday living.
 - **Capacity:** at least **1.5 kW**, and enough to meet the room's calculated minimum.

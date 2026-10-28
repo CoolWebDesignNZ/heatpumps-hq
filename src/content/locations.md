@@ -43,15 +43,19 @@ Living close to town usually means a small section and neighbours right next doo
 - [Central City](/central-business-district-cbd/)
 - [Edgeware](/edgeware/)
 - [Linwood](/linwood/)
+- [Merivale](/merivale/)
 - [Phillipstown](/phillipstown/)
+- [Richmond](/richmond/)
 - [St Albans](/st-albans/)
 - [Sydenham](/sydenham/)
+- [Waltham](/waltham/)
 
 ## Heat pump installation in north and north-west Christchurch
 
 If you've got a bigger, older home in Fendalton or Bryndwr, with a long hallway and rooms closed off from each other, one wall unit won't get the heat round. We'll talk you through a multi-room or ducted system so every room you use is warm. In the brick and tile homes in Redwood and Casebrook, one well placed unit in the living area and a second for the bedrooms usually does it. Out towards Belfast your newer home will hold its heat, so we'll size to match. And if you're in Marshland, Spencerville or McLeans Island, you know how hard the frosts get on open ground. We size for those mornings and lift the outdoor unit so it keeps working.
 
 - [Belfast](/belfast/)
+- [Bishopdale](/bishopdale/)
 - [Brooklands](/brooklands/)
 - [Bryndwr](/bryndwr/)
 - [Burnside](/burnside/)
@@ -62,9 +66,11 @@ If you've got a bigger, older home in Fendalton or Bryndwr, with a long hallway 
 - [Marshland](/marshland/)
 - [McLeans Island](/mcleans-island/)
 - [Northcote](/northcote/)
+- [Northwood](/northwood/)
 - [Papanui](/heat-pumps-papanui/)
 - [Redwood](/redwood/)
 - [Spencerville](/spencerville/)
+- [Strowan](/strowan/)
 
 ## Heat pumps for the eastern and coastal suburbs
 
@@ -77,14 +83,15 @@ If you live near the beach, you'll know what salt and that onshore wind do to an
 - [Bromley](/bromley/)
 - [Burwood](/burwood/)
 - [Dallington](/dallington/)
-- [New Brighton](/new-brighton/)
 - [New Brighton Central](/new-brighton-central/)
+- [New Brighton](/new-brighton/)
 - [North New Brighton](/north-new-brighton/)
 - [Parklands](/parklands/)
 - [Queenspark](/queenspark/)
 - [Shirley](/shirley/)
 - [South New Brighton](/south-new-brighton/)
 - [Wainoni](/wainoni/)
+- [Woolston](/woolston/)
 
 ## Heat pumps on the Port Hills, harbour and south
 
@@ -99,15 +106,19 @@ On a hill section in Cashmere, Cracroft or Westmorland, there's rarely a flat sp
 - [Halswell](/halswell/)
 - [Heathcote Valley](/heathcote-valley/)
 - [Hillmorton](/hillmorton/)
+- [Hillsborough](/hillsborough/)
 - [Hoon Hay](/hoon-hay/)
+- [Huntsbury](/huntsbury/)
 - [Kennedys Bush](/kennedys-bush/)
 - [Lyttelton](/lyttelton/)
 - [Moncks Bay](/moncks-bay/)
 - [Mount Pleasant](/mount-pleasant/)
 - [Oaklands](/oaklands/)
+- [Opawa](/opawa/)
 - [Redcliffs](/redcliffs/)
 - [Somerfield](/somerfield/)
 - [Spreydon](/spreydon/)
+- [St Martins](/st-martins/)
 - [Sumner](/sumner/)
 - [Westmorland](/westmorland/)
 
@@ -118,6 +129,7 @@ Out west you get the frosty mornings in winter and the hot nor'west in summer, s
 - [Avonhead](/avonhead/)
 - [Hornby](/heat-pumps-hornby/)
 - [Ilam](/ilam/)
+- [Islington](/islington/)
 - [Riccarton](/heat-pumps-riccarton/)
 - [Russley](/russley/)
 - [Sockburn](/sockburn/)

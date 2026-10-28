@@ -56,6 +56,6 @@ A yearly [service](/maintenance-servicing/) keeps a Bryndwr heat pump going well
 
 ## Bryndwr's neighbours
 
-We also work in [Fendalton](/fendalton/), [Burnside](/burnside/), [Papanui](/heat-pumps-papanui/), [Ilam](/ilam/) and the rest of [Christchurch](/locations/).
+We also work in [Strowan](/strowan/), [Fendalton](/fendalton/), [Burnside](/burnside/), [Papanui](/heat-pumps-papanui/), [Ilam](/ilam/) and the rest of [Christchurch](/locations/).
 
 For a free quote on a heat pump in Bryndwr, call **[03 242 1023](tel:032421023)** or send the form.

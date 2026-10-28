@@ -76,6 +76,6 @@ Opawa comes under Christchurch City Council. Its District Plan sets the noise li
 
 ## Around Opawa
 
-We also work in [St Martins](/st-martins/) across the river, [Linwood](/linwood/) to the north and [Hoon Hay](/hoon-hay/) to the west.
+We also work in [St Martins](/st-martins/) across the river, [Waltham](/waltham/) to the north and [Woolston](/woolston/) to the east.
 
 For a free quote in Opawa, ring **[03 242 1023](tel:032421023)** or send us your details on the quote form.
