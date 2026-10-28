@@ -20,7 +20,7 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
       {home && <p class="hero-brands">We install {brands.map(([n, href], i) => <>{i > 0 && (i === brands.length - 1 ? ' and ' : ', ')}<a href={href}>{n}</a></>)}.</p>}
       <p class:list={["hero-talk", { "hero-talk-first": !home }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
-    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>
+    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} priceNote={home} /></div>
   </div>
 </section>
 <section class="trust">
