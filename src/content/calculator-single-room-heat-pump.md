@@ -6,6 +6,7 @@ secondary: [heat pump calculator, heat pump kw calculator, heat pump room size c
 h1: "Heat pump size calculator: what goes into the kW figure"
 intro: "We size every heat pump on site, but you can check the kW figure yourself with the government's free calculator. Here's where to find it and what to measure first."
 hero: calc-hero
+calculator: true
 updated: 2026-10-17
 gallery: [calc-tape, calc-window]
 faqHeading: "Heat pump calculator questions"

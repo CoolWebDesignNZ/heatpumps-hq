@@ -9,6 +9,7 @@ import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import SuburbMap from '../components/SuburbMap.astro';
 import MoneyPage from '../components/MoneyPage.astro';
+import SizeCalc from '../components/SizeCalc.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
 import nav from '../data/nav.json';
@@ -131,6 +132,7 @@ if (fm.faqs?.length) {
         : <span aria-current="page">{c.label}</span>)}
     </nav>
   </Hero>
+  {fm.calculator && <SizeCalc />}
   {fm.design === 'money' && <MoneyPage sections={sections} fm={fm} heroOf={heroOf} />}
   {fm.design !== 'money' && bands.map((b, i) => (
     <>

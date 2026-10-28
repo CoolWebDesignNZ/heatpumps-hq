@@ -1,0 +1,129 @@
+---
+// Single room heat pump size calculator (calculator-single-room-heat-pump).
+// Follows the Healthy Homes Schedule 2 method: heat lost through each surface
+// (area ÷ R-value × temperature difference) plus air leakage, at 18°C inside and
+// Christchurch's −4°C design temperature. Older homes add 40 W per m² of floor
+// (1.0 air change an hour); homes built to the 2008 code or later use × 1.2
+// (0.5 air changes). The R-values are typical figures for each kind of
+// construction, not measured ones, so the result is an estimate.
+import site from '../data/site.json';
+---
+<section class="section tint" id="calculator">
+  <div class="wrap calc">
+    <div class="calc-head">
+      <h2>Heat pump size calculator for one room</h2>
+      <p class="lead">Measure the room, pick how it's built, and get a rough kW figure for a frosty Christchurch morning.</p>
+    </div>
+    <form class="calc-form" novalidate>
+      <fieldset>
+        <legend>The room</legend>
+        <div class="calc-row">
+          <label>Length (m)<input name="len" type="number" inputmode="decimal" min="1" max="30" step="0.1" value="5" /></label>
+          <label>Width (m)<input name="wid" type="number" inputmode="decimal" min="1" max="30" step="0.1" value="4" /></label>
+          <label>Ceiling height (m)<input name="hgt" type="number" inputmode="decimal" min="2" max="6" step="0.1" value="2.4" /></label>
+        </div>
+        <div class="calc-row">
+          <label>Length of outside walls (m)<input name="ext" type="number" inputmode="decimal" min="0" max="80" step="0.1" value="9" /><span class="hint">Walls with outdoors on the other side.</span></label>
+          <label>Window and glass door area (m²)<input name="win" type="number" inputmode="decimal" min="0" max="80" step="0.1" value="4" /><span class="hint">Width × height of each, added up.</span></label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>How it's built</legend>
+        <div class="calc-row">
+          <label>When was the house built?
+            <select name="era">
+              <option value="old">Before 2008</option>
+              <option value="new">2008 or later, or fully renovated to that standard</option>
+            </select>
+          </label>
+          <label>Windows
+            <select name="glaze">
+              <option value="0.15">Single glazed</option>
+              <option value="0.26">Double glazed</option>
+            </select>
+          </label>
+        </div>
+        <div class="calc-row calc-stack">
+          <label>Outside walls
+            <select name="wall">
+              <option value="0.5">No insulation</option>
+              <option value="1.5">Some insulation</option>
+              <option value="2.0">Insulated to today's standard</option>
+            </select>
+          </label>
+          <label>Ceiling
+            <select name="ceil">
+              <option value="0.5">Roof space above, no insulation</option>
+              <option value="1.5" selected>Roof space above, thin or old insulation</option>
+              <option value="3.3">Roof space above, insulated to today's standard</option>
+              <option value="0">A heated room above</option>
+            </select>
+          </label>
+          <label>Floor
+            <select name="floor">
+              <option value="0.5">Timber over a crawl space, no insulation</option>
+              <option value="1.3">Timber, insulated underneath</option>
+              <option value="1.3">Concrete slab</option>
+              <option value="0">A heated room below</option>
+            </select>
+          </label>
+        </div>
+      </fieldset>
+    </form>
+    <div class="calc-result" aria-live="polite">
+      <p class="calc-label">Estimated heat the room needs</p>
+      <p class="calc-kw"><span data-kw>0.0</span> kW</p>
+      <p class="calc-note">At 18°C inside on a minus 4°C Christchurch morning. Pick a model whose heating output holds this figure at low outdoor temperatures, not just at the 7°C label rating.</p>
+      <p class="calc-note">This is an estimate from typical insulation values. For a rental, use the official Tenancy Services tool linked below. For your house, we measure it properly when we quote.</p>
+      <a class="btn btn-primary" href="#quote">Get the room sized for free</a>
+      <p class="calc-call">Or call <a href={site.phoneHref}>{site.phone}</a></p>
+    </div>
+  </div>
+</section>
+<script>
+  for (const form of document.querySelectorAll<HTMLFormElement>('.calc-form')) {
+    const out = form.closest('.calc')!.querySelector('[data-kw]')!;
+    const num = (n: string) => Math.max(0, parseFloat((form.elements.namedItem(n) as HTMLInputElement).value) || 0);
+    const sel = (n: string) => parseFloat((form.elements.namedItem(n) as HTMLSelectElement).value);
+    const calc = () => {
+      const len = num('len'), wid = num('wid'), hgt = num('hgt'), ext = num('ext');
+      const floorArea = len * wid, volume = floorArea * hgt;
+      const winArea = Math.min(num('win'), ext * hgt);
+      const wallArea = Math.max(0, ext * hgt - winArea);
+      const modern = (form.elements.namedItem('era') as HTMLSelectElement).value === 'new';
+      const dT = 18 - -4;
+      const u = (r: number) => (r > 0 ? 1 / r : 0);
+      // Transmission: each surface's area over its R-value.
+      const t = dT * (wallArea * u(sel('wall')) + winArea * u(sel('glaze')) + floorArea * u(sel('ceil')) + floorArea * u(sel('floor')));
+      // Ventilation: 0.33 Wh per m³ per °C of air, at the regulation's air change rate.
+      const v = 0.33 * (modern ? 0.5 : 1.0) * volume * dT;
+      const watts = modern ? (t + v) * 1.2 : t + v + floorArea * 40;
+      out.textContent = (Math.ceil(watts / 100) / 10).toFixed(1);
+    };
+    form.addEventListener('input', calc);
+    form.addEventListener('change', calc);
+    calc();
+  }
+</script>
+<style>
+  .calc { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 4fr); gap: 32px 48px; align-items: start; }
+  .calc-head { grid-column: 1 / -1; }
+  .calc-head h2 { margin-top: 0; }
+  .calc-form { background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 30px; }
+  .calc-form fieldset { border: 0; padding: 0; margin: 0 0 22px; }
+  .calc-form fieldset:last-child { margin-bottom: 0; }
+  .calc-form legend { font-weight: 750; font-size: 1.1rem; margin-bottom: 10px; padding: 0; }
+  .calc-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 14px; margin-bottom: 14px; }
+  .calc-stack { grid-template-columns: 1fr; }
+  .calc-form label { display: block; font-weight: 600; font-size: .9rem; }
+  .calc-form input, .calc-form select { display: block; width: 100%; margin-top: 6px; padding: 10px 12px; font: inherit; font-size: 16px; font-weight: 400; border: 1px solid #c9ced4; border-radius: 6px; background: #fff; }
+  .calc-form input:focus, .calc-form select:focus { outline: 2px solid var(--brand); outline-offset: -1px; border-color: transparent; }
+  .hint { display: block; font-weight: 400; font-size: .8rem; color: var(--ink-soft); margin-top: 4px; }
+  .calc-result { position: sticky; top: 110px; background: #fff; border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px; }
+  .calc-label { margin: 0; font-weight: 650; color: var(--ink-soft); }
+  .calc-kw { margin: 4px 0 14px; font-size: 3.2rem; font-weight: 800; line-height: 1; color: var(--brand); letter-spacing: -0.02em; }
+  .calc-note { font-size: .9rem; color: var(--ink-soft); margin: 0 0 12px; }
+  .calc-result .btn { width: 100%; text-align: center; margin-top: 6px; }
+  .calc-call { margin: 12px 0 0; text-align: center; font-size: .95rem; }
+  @media (max-width: 900px) { .calc { grid-template-columns: 1fr; } .calc-result { position: static; } }
+</style>

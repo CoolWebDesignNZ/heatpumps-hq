@@ -17,3 +17,5 @@ Brand colours are `--brand` / `--brand-ink` in `src/styles/global.css`.
 Preview: https://heatpumps-hq.pages.dev, password-protected by `functions/_middleware.js` (secret `SITE_PASSWORD` on the Pages project). Deploy with `npm run build && npx wrangler pages deploy dist --project-name heatpumps-hq --branch main`. Delete the secret at launch.
 
 Launch blockers: the quote form posts to `/api/quote`, which doesn't exist yet. It needs a Cloudflare Worker with Email Routing to Nate.
+
+Size calculator: `src/components/SizeCalc.astro`, shown on any page with `calculator: true` (calculator-single-room-heat-pump). It uses the Healthy Homes Schedule 2 method (18°C inside, minus 4°C for Christchurch, 1.0 or 0.5 air changes, +40 W/m² or × 1.2) with typical R-values for each construction choice; the R-values are estimates, listed in the component.
