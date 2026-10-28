@@ -65,6 +65,8 @@ const options = ['Installation', 'Repair', 'Service'];
   .qf .opt { margin: 0; }
   .opt input { position: absolute; opacity: 0; }
   .opt span { display: block; text-align: center; padding: 7px 4px; border: 1px solid #c9ced4; border-radius: 6px; font-weight: 500; font-size: .9rem; cursor: pointer; }
+  .opt span { transition: background-color .15s, border-color .15s, color .15s; }
+  .opt:hover input:not(:checked) + span { border-color: var(--brand); background: var(--brand-tint); color: var(--brand-ink); }
   .opt input:checked + span { background: var(--brand); border-color: var(--brand); color: #fff; }
   .opt input:focus-visible + span { outline: 2px solid var(--brand-ink); }
   .opt-note { font-weight: 400; color: var(--ink-soft); }
