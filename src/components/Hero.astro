@@ -17,10 +17,11 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
       <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
       {meta && <p class="hero-meta">{meta}</p>}
+      {home && <p class="hero-price">Installations from $2,499. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
       {home && <p class="hero-brands">We install {brands.map(([n, href], i) => <>{i > 0 && (i === brands.length - 1 ? ' and ' : ', ')}<a href={href}>{n}</a></>)}.</p>}
       <p class:list={["hero-talk", { "hero-talk-first": !home }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
-    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} priceNote={home} /></div>
+    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>
   </div>
 </section>
 <section class="trust">
@@ -46,6 +47,9 @@ const brands = [['Mitsubishi Electric', '/mitsubishi-heat-pump-service-christchu
   .hero-talk a { color: #fff; font-weight: 650; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
   .hero-talk a:hover { text-decoration-color: #fff; }
   @media (max-width: 640px) { .hero-talk { font-size: 16px; } }
+  .hero-price { margin: 0; font-size: 1rem; color: rgba(255, 255, 255, .85); }
+  .hero-price a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+  @media (max-width: 640px) { .hero-price { font-size: 16px; } }
   .hero-brands { margin-top: 1.2em; font-size: .95rem; color: rgba(255, 255, 255, .8); }
   .hero-brands a { color: #fff; font-weight: 700; text-decoration: none; }
   .hero-brands a:hover { text-decoration: underline; }

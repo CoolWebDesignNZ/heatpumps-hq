@@ -1,9 +1,8 @@
 ---
 // Two-step quote form on every page: step 2 only shows once Name and Phone are filled in.
 // suburb pre-fills the Suburb field on suburb pages.
-// priceNote: the home page's starting price line under the form.
-interface Props { suburb?: string; priceNote?: boolean }
-const { suburb = '', priceNote = false } = Astro.props;
+interface Props { suburb?: string }
+const { suburb = '' } = Astro.props;
 const options = ['Installation', 'Repair', 'Service'];
 ---
 <form class="qf qf-steps" method="post" action="/api/quote" data-step="1">
@@ -32,7 +31,6 @@ const options = ['Installation', 'Repair', 'Service'];
     <button class="qf-back" type="button">Back</button>
   </div>
   <p class="qf-note">No obligation. We'll call or email you back.</p>
-  {priceNote && <p class="qf-price">Installations from $2,499. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
 </form>
 <script>
   for (const form of document.querySelectorAll<HTMLFormElement>('.qf-steps')) {
@@ -83,7 +81,4 @@ const options = ['Installation', 'Repair', 'Service'];
   .qf .qf-back { display: block; width: auto; margin: 10px auto 0; padding: 4px 8px; background: none; color: var(--link); font-size: .9rem; text-decoration: underline; }
   .qf-err { margin: 6px 0 0; color: #b3261e; font-size: .85rem; font-weight: 600; }
   .qf-note { font-size: .8rem; color: var(--ink-soft); margin: 10px 0 0; }
-  .qf-price { font-size: 14px; line-height: 1.45; color: #3d434a; margin: 8px 0 0; }
-  .qf-price a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
-  .qf-price a:hover { color: var(--ink); }
 </style>
