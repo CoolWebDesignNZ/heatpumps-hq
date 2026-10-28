@@ -16,7 +16,7 @@ const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
       <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
       {meta && <p class="hero-meta">{meta}</p>}
-      {home && <p class="hero-price">Installations from $2,499. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
+      {home && <p class="hero-price">Installations from {site.installFrom}. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
       <p class:list={["hero-talk", { "hero-talk-first": !home }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
     <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>

@@ -16,6 +16,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 - Talk to the reader about their home and heat pump, never about the website: no "this page", "each suburb page covers", "our X page explains". Put links on the topic words instead.
 - Old site copy is not reused. Only its URLs.
 - We repair heat pumps: never "we fix" or "fit, service and fix" as what we do. "Fixes" and "fixing" elsewhere are fine (client, 2026-10-27). Never promise a fixed price or a price agreed before we start (client, 2026-10-27). `npm run check-copy` fails both.
+- The one published price: installations from $2,499 (client, 2026-10-28). It's `installFrom` in site.json for the home hero, and written out on the installation cost page (H2 "Where heat pump installation prices start" and the first FAQ). Change all three together.
 - Never quote, cite or link to other companies (manufacturers' or distributors' websites, news sites, charities). The brands we install can be named as products we fit. Links out go only to .govt.nz tools and forms (client, 2026-10-20).
 
 ## SEO per page
