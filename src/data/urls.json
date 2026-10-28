@@ -682,5 +682,125 @@
   "slug": "floor-mounted-heat-pumps",
   "type": "service",
   "new": true
+ },
+ {
+  "path": "/heat-pump-replacement-christchurch/",
+  "slug": "heat-pump-replacement-christchurch",
+  "type": "service",
+  "new": true
+ },
+ {
+  "path": "/healthy-homes-heat-pumps-christchurch/",
+  "slug": "healthy-homes-heat-pumps-christchurch",
+  "type": "service",
+  "new": true
+ },
+ {
+  "path": "/ceiling-cassette-heat-pumps/",
+  "slug": "ceiling-cassette-heat-pumps",
+  "type": "service",
+  "new": true
+ },
+ {
+  "path": "/mitsubishi-heat-pump-error-codes/",
+  "slug": "mitsubishi-heat-pump-error-codes",
+  "type": "guide",
+  "new": true
+ },
+ {
+  "path": "/daikin-heat-pump-error-codes/",
+  "slug": "daikin-heat-pump-error-codes",
+  "type": "guide",
+  "new": true
+ },
+ {
+  "path": "/fujitsu-heat-pump-error-codes/",
+  "slug": "fujitsu-heat-pump-error-codes",
+  "type": "guide",
+  "new": true
+ },
+ {
+  "path": "/heat-pump-running-costs/",
+  "slug": "heat-pump-running-costs",
+  "type": "guide",
+  "new": true
+ },
+ {
+  "path": "/heat-pump-vs-gas-wood-burner/",
+  "slug": "heat-pump-vs-gas-wood-burner",
+  "type": "guide",
+  "new": true
+ },
+ {
+  "path": "/merivale/",
+  "slug": "merivale",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/strowan/",
+  "slug": "strowan",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/bishopdale/",
+  "slug": "bishopdale",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/northwood/",
+  "slug": "northwood",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/st-martins/",
+  "slug": "st-martins",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/opawa/",
+  "slug": "opawa",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/woolston/",
+  "slug": "woolston",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/richmond/",
+  "slug": "richmond",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/huntsbury/",
+  "slug": "huntsbury",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/hillsborough/",
+  "slug": "hillsborough",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/waltham/",
+  "slug": "waltham",
+  "type": "suburb",
+  "new": true
+ },
+ {
+  "path": "/islington/",
+  "slug": "islington",
+  "type": "suburb",
+  "new": true
  }
 ]
