@@ -4,6 +4,8 @@
 export async function onRequest({ request, env, next }) {
   const password = env.SITE_PASSWORD;
   if (!password) return next();
+  // The quote form posts here from pages that are already behind the password.
+  if (request.method === 'POST' && new URL(request.url).pathname === '/api/quote') return next();
   const [scheme, encoded] = (request.headers.get('Authorization') ?? '').split(' ');
   if (scheme === 'Basic' && encoded) {
     const decoded = atob(encoded);

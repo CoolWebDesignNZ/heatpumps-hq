@@ -27,6 +27,7 @@ const options = ['Installation', 'Repair', 'Service'];
   <div class="qf-step" data-step="2">
     <label>Suburb or address<input name="suburb" required autocomplete="street-address" placeholder="e.g., Riccarton, or 123 Main South Road" value={suburb} /></label>
     <label>Email <span class="opt-note">(optional)</span><input name="email" type="email" autocomplete="email" /></label>
+    <label class="qf-hp" aria-hidden="true">Company<input name="company" tabindex="-1" autocomplete="off" /></label>
     <button class="btn btn-primary" type="submit">Request my quote</button>
     <button class="qf-back" type="button">Back</button>
   </div>
@@ -77,6 +78,7 @@ const options = ['Installation', 'Repair', 'Service'];
   .qf-steps .qf-next { margin-top: 12px; padding: 12px !important; }
   .qf-steps.js[data-step="1"] .qf-step[data-step="2"], .qf-steps.js[data-step="2"] .qf-step[data-step="1"] { display: none; }
   .qf-steps:not(.js) .qf-next, .qf-steps:not(.js) .qf-back { display: none; }
+  .qf-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
   .qf-next { font-weight: 700; font-size: 1.05rem !important; padding: 14px !important; }
   .qf .qf-back { display: block; width: auto; margin: 10px auto 0; padding: 4px 8px; background: none; color: var(--link); font-size: .9rem; text-decoration: underline; }
   .qf-err { margin: 6px 0 0; color: #b3261e; font-size: .85rem; font-weight: 600; }
