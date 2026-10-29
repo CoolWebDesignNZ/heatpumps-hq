@@ -29,7 +29,7 @@ faqs:
 related:
   - { label: Heat pump sizing, href: /heat-pump-sizing/, text: "How the capacity figure is worked out for a room." }
   - { label: Heat pump installation cost, href: /heat-pump-installation-cost-christchurch/, text: "What an install involves and where prices start." }
-  - { label: Heat pumps in Riccarton, href: /heat-pumps-riccarton/, text: "The suburb where most of our rental installs are." }
+  - { label: Heat pumps in Riccarton, href: /heat-pumps-riccarton/, text: "Heat pumps for Riccarton's older villas and flats." }
 ---
 
 ## The Healthy Homes heating standard, in plain terms
@@ -55,11 +55,11 @@ The capacity isn't a guess. It's a figure worked out for the main living room, a
 
 You can work the figure out with the Tenancy Services [heating assessment tool](https://tools.tenancy.govt.nz/heating-tool), or with the formula set out in the regulations. We do it for the room we're heating before we recommend a unit, so the heat pump we fit matches the number.
 
-## The 2 kW minimum and newer homes
+## The 2.4 kW line and newer homes
 
 Two details catch landlords out.
 
-**If the required capacity is over 2.4 kW, the heater must be at least 2 kW.** A small unit that technically meets a low figure can still fall short if the room needs more than 2.4 kW. We check the unit's rating against the figure, not just its label.
+**Over 2.4 kW, a heat pump is the electric option that counts.** If the main living room needs more than 2.4 kW, a fixed electric heater other than a heat pump can't be used to meet the standard. Whatever you fit, each qualifying heater has to be at least 1.5 kW. We check the unit's rated heating output against the room's figure, not just the model name.
 
 **Newer homes use a different formula.** Homes built to the 2008 building code are assessed with a formula that usually gives a smaller capacity figure. That's because they're better insulated and hold their heat. The upshot is often a smaller unit than an older villa the same size would need. We check which formula applies to your rental before we size anything.
 

@@ -6,7 +6,7 @@ secondary: [heat pump vs gas heating, heat pump or wood burner christchurch, hea
 h1: Heat pump vs wood burner vs gas heating
 intro: "We fit heat pumps across Christchurch, in homes that already have a burner or a gas heater and in homes that don't. Here's how the three compare on the things that matter day to day."
 hero: heat-pump-vs-gas-wood-burner-hero
-updated: 2026-10-30
+updated: 2026-10-29
 gallery: [heat-pump-vs-gas-wood-burner-1, heat-pump-vs-gas-wood-burner-2]
 faqHeading: "Heat pump, wood burner and gas questions"
 relatedHeading: "More on choosing and running a heat pump"

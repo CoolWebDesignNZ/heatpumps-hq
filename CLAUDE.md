@@ -4,7 +4,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 
 ## URLs
 - Every URL lives in `src/data/urls.json`: the 133 from the old site, plus new pages the client has approved (marked `"new": true`). Never rename or remove an old URL, never add a 301. The build fails on a page that isn't in urls.json.
-- New pages so far: /high-wall-heat-pumps/ and /floor-mounted-heat-pumps/ (client asked for pages on each heat pump type, 2026-10-18), /heat-pump-guides/ (the Guides hub the menu button opens, 2026-10-20), /toshiba-heat-pump-service-christchurch/ (client's copy, 2026-10-27).
+- New pages so far: /high-wall-heat-pumps/ and /floor-mounted-heat-pumps/ (client asked for pages on each heat pump type, 2026-10-18), /heat-pump-guides/ (the Guides hub the menu button opens, 2026-10-20), /toshiba-heat-pump-service-christchurch/ (client's copy, 2026-10-27). Twenty more from research/new-pages.json (written 2026-10-28): replacement, Healthy Homes, ceiling cassette, three brand error-code guides, running costs, heat pump vs gas or wood burner, and suburb pages for Merivale, Strowan, Bishopdale, Northwood, St Martins, Opawa, Woolston, Richmond, Huntsbury, Hillsborough, Waltham and Islington.
 - Removed pages (heat-pump-subsidy, solar-powered-heat-pump-integration, energy-efficiency-assessment) stay gone: the client asked for them out (energy-efficiency-assessment removed 2026-10-20).
 
 ## Copy
@@ -16,7 +16,7 @@ Rebuild of heatpumps-christchurch.co.nz (Nate Thompson, Heat Pumps HQ). Read REA
 - Talk to the reader about their home and heat pump, never about the website: no "this page", "each suburb page covers", "our X page explains". Put links on the topic words instead.
 - Old site copy is not reused. Only its URLs.
 - We repair heat pumps: never "we fix" or "fit, service and fix" as what we do. "Fixes" and "fixing" elsewhere are fine (client, 2026-10-27). Never promise a fixed price or a price agreed before we start (client, 2026-10-27). `npm run check-copy` fails both.
-- The one published price: installations from $2,499 (client, 2026-10-28). It's `installFrom` in site.json for the home hero, and written out on the installation cost page (H2 "Where heat pump installation prices start" and the first FAQ). Change all three together.
+- The one published price: installations from $2,499 (client, 2026-10-28). It's `installFrom` in site.json for the home hero, and written out on the installation cost page (H2 "Where heat pump installation prices start" and the first FAQ) and on the replacement page. Change all of them together.
 - Never quote, cite or link to other companies (manufacturers' or distributors' websites, news sites, charities). The brands we install can be named as products we fit. Links out go only to .govt.nz tools and forms (client, 2026-10-20).
 
 ## SEO per page

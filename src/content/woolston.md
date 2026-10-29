@@ -25,7 +25,7 @@ faqs:
     a: Once a year suits most homes. A yearly <a href="/heat-pump-servicing/">service</a> checks the filters, the outdoor coil and the refrigerant lines. It matters more in an older, draughtier house where the unit works harder.
 related:
   - { label: Opawa, href: /opawa/, text: "Heat pumps for the leafy streets next door." }
-  - { label: Linwood, href: /linwood/, text: "Installs and servicing in the older housing east of Woolston." }
+  - { label: Linwood, href: /linwood/, text: "Installs and servicing in the older housing north of Woolston." }
   - { label: Heat pump servicing, href: /heat-pump-servicing/, text: "What a yearly service checks." }
 ---
 

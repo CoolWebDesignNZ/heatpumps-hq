@@ -1,9 +1,9 @@
 ---
 title: "Heat Pump Installation Islington"
-description: "Islington homes sit by the rail yards and the Heathcote, with hard frosts and cold easterlies. See how we size, service and repair heat pumps. Free quote."
+description: "Islington homes sit on the flat western edge of the city, with hard winter frosts. See how we size, service and repair heat pumps here. Free quote."
 keyword: heat pump installation islington
 secondary: [heat pumps islington, heat pump service islington, heat pump repair islington]
-h1: Heat pump installation in Islington, beside the rail yards and the river
+h1: Heat pump installation in Islington, on the city's western edge
 serviceName: Heat pump installation, servicing and repair
 areaServed: Islington
 suburb: Islington
@@ -31,7 +31,7 @@ related:
 
 ## Heat pump installation for Islington homes
 
-Islington sits on the south west edge of the city, close to the rail yards and the Heathcote River. Most of it is flat. The housing is a mix of older weatherboard homes, state houses from the middle of last century, and newer townhouses and infill builds on the sections that have been subdivided.
+Islington sits on the western edge of the city, between Hornby and Templeton. It is flat, and the homes sit beside farmland and industrial land. The housing is a mix of older weatherboard homes, homes from the middle of last century and some newer builds.
 
 - **Older weatherboard and state houses.** Timber floors, single glazing and patchy insulation are common. They lose heat quickly and need more capacity than their floor area suggests. A high wall unit in the living area is the usual starting point.
 - **Newer townhouses and infill homes.** These hold heat well. One unit often heats an open plan living space. The harder part is outside, where the outdoor unit has to fit a narrow side yard with clear air around it.

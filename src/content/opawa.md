@@ -39,12 +39,11 @@ We size every install. If a unit is too small it runs hard and never quite keeps
 
 ## Heat pumps for Opawa homes
 
-Opawa is flat, sits beside the Heathcote River and has a hill edge to the south. That shapes what a heat pump has to do here. Most of the suburb is on level ground, so access for an install is usually straightforward. The cold comes in winter, with frost on the flat streets and a chill off the water.
+Opawa is flat and sits beside the Heathcote River. That shapes what a heat pump has to do here. Most of the suburb is on level ground, so access for an install is usually straightforward. The cold comes in winter, with frost on the flat streets and a chill off the water.
 
 - **Villas and bungalows from the early 1900s.** Many Opawa streets have older wooden homes with timber floors, high ceilings and single glazing. These lose heat through the floor and ceiling, so they need more capacity than the floor area suggests.
 - **State houses and 1950s to 1970s homes.** Solidly built, often with a single living room and separate bedrooms. One high wall unit in the living area, plus a second unit or a multi-room system for the bedrooms, is a common setup.
 - **Newer homes and townhouses.** These hold heat well. One unit often covers an open plan living and dining area. The outdoor unit has to fit a narrow side yard with clear air around it.
-- **Homes on the hill edge.** A few Opawa addresses climb towards the hills. There the outdoor unit may go on a bracket or a deck, with longer pipe runs.
 
 ## Frost and cold mornings in Opawa
 

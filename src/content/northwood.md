@@ -55,7 +55,7 @@ If you would rather not think about the calendar, a [customised service plan](/c
 
 ## Heat pump repair in Northwood
 
-When a heat pump stops heating, ices up, drips or makes a new noise, we find the cause. We repair all the major brands, Panasonic included, and carry common parts. If the fault is a simple one, we will tell you. If the unit is old and the repair is not worth it, we will say so and talk through [replacement](/heat-pump-replacement-christchurch/).
+When a heat pump stops heating, ices up, drips or makes a new noise, we find the cause. We repair all the major brands, Panasonic included. If the fault is a simple one, we will tell you. If the unit is old and the repair is not worth it, we will say so and talk through [replacement](/heat-pump-replacement-christchurch/).
 
 Some problems you can check yourself first. Our [troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) covers the common ones, like a filter full of dust or a remote set to the wrong mode.
 

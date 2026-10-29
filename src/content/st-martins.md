@@ -59,7 +59,7 @@ A service checks the filters and coil, the refrigerant charge, the drain, the ou
 
 ## Heat pump repair in St Martins
 
-When a heat pump stops heating, makes a new noise or leaves a puddle, we take a look. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and we carry common parts.
+When a heat pump stops heating, makes a new noise or leaves a puddle, we take a look. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic.
 
 We tell you what's wrong and what it will take to sort it before any work starts. Some faults are simple: a blocked filter, a tripped breaker, a drain that needs clearing. Others need a part. If the unit is old and the repair is big, we'll say so and talk through [replacement](/heat-pump-replacement-christchurch/) instead.
 

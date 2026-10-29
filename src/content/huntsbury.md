@@ -31,7 +31,7 @@ related:
 
 ## Choosing heat pumps for Huntsbury homes
 
-Huntsbury sits on the lower slopes of the Port Hills, above the Heathcote Valley and beside Cashmere. It looks out over the city and across to the plains, and that height is what shapes the job. Homes here are mostly detached, on sections that step up or down the slope. Many were built in the middle of last century, with later rebuilds and additions mixed in. Some are newer, well insulated and tight. Others are older and leak warmth through timber floors, single glazing and ceilings.
+Huntsbury sits on the lower slopes of the Port Hills, above St Martins and beside Cashmere. It looks out over the city and across to the plains, and that height is what shapes the job. Homes here are mostly detached, on sections that step up or down the slope. Many were built in the middle of last century, with later rebuilds and additions mixed in. Some are newer, well insulated and tight. Others are older and leak warmth through timber floors, single glazing and ceilings.
 
 - **Older hillside houses.** These often have living areas facing the view, which means big windows and a lot of glass to lose heat through. They need more capacity than the floor area alone suggests.
 - **Rebuilt and newer homes.** They hold heat well. One high wall unit can usually carry an open plan living area. The harder question is where the outdoor unit sits.

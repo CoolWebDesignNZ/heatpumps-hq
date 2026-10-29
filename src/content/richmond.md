@@ -52,7 +52,7 @@ If your house is rented, a [customised service plan](/customised-heat-pump-servi
 
 ## Heat pump repair in Richmond
 
-When a heat pump stops heating, the cause is often simple: a blocked filter, a tripped breaker, a drain that's frozen or blocked. We check those first. If it's a part, we carry common parts and can get others for the major brands. [Troubleshooting](/heat-pump-troubleshooting/) covers the checks you can do before you ring.
+When a heat pump stops heating, the cause is often simple: a blocked filter, a tripped breaker, a drain that's frozen or blocked. We check those first. If it needs a part, we source the right one for the brand and model. [Troubleshooting](/heat-pump-troubleshooting/) covers the checks you can do before you ring.
 
 Older units in Richmond villas are sometimes past their best. If a repair is a big one, we'll tell you what a [replacement](/heat-pump-replacement-christchurch/) would involve so you can weigh it up.
 

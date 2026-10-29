@@ -29,7 +29,7 @@ related:
 
 ## Choosing heat pumps for Merivale homes
 
-Merivale sits just north of the city centre, between Papanui Road and the river. Most of it is flat, and the housing is a mix of large older homes and newer townhouses. That mix decides the heat pump more than anything else.
+Merivale sits on the flat just north of Hagley Park, either side of Papanui Road. Most of it is flat, and the housing is a mix of large older homes and newer townhouses. That mix decides the heat pump more than anything else.
 
 - **Villas and bungalows from the early 1900s.** Many are large, with high stud, bay windows and original timber joinery. They hold warmth poorly through single glazing and timber floors, so they need more capacity than their floor area suggests.
 - **Rebuilt and renovated homes.** Plenty of the older houses have been extended or relined, often with new insulation and double glazing. These hold heat well, and one high wall unit can usually heat an open plan living area.
@@ -41,7 +41,7 @@ The install itself comes down to where the indoor and outdoor units can sit. In 
 
 We size every install on the room, not a rule of thumb. Ceiling height, glazing, insulation and which way the room faces all count. A room that's too big for its unit runs hard and never quite gets there. One that's oversized cycles on and off and costs more to run. Our [heat pump sizing](/heat-pump-sizing/) guide sets out what we measure.
 
-Merivale is flat and close to the river, so winter mornings here can be frosty. Modern heat pumps handle frost by defrosting the outdoor coil, and cold climate models keep more of their capacity when it's cold. If the house is draughty or hard to heat, a [cold climate heat pump](/cold-climate-heat-pumps/) is worth considering.
+Merivale is flat and inland, so winter mornings here can be frosty. Modern heat pumps handle frost by defrosting the outdoor coil, and cold climate models keep more of their capacity when it's cold. If the house is draughty or hard to heat, a [cold climate heat pump](/cold-climate-heat-pumps/) is worth considering.
 
 ## Servicing heat pumps in Merivale
 
