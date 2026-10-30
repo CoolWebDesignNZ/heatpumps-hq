@@ -7,7 +7,7 @@ h1: Heat pump installation in Merivale, for older villas and modern homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Merivale
 suburb: Merivale
-intro: We install, service and repair heat pumps across Merivale, from the villas near the shops to newer townhouses off Papanui Road. Quotes are free.
+intro: We install, service and repair heat pumps in Merivale. Its older villas lose heat through high ceilings, timber floors and single glazing, so we measure each room before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free.
 hero: pool-weatherboard
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Merivale"
