@@ -13,14 +13,16 @@ gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Mount Pleasant"
 relatedHeading: "More on heat pumps near Mount Pleasant"
 faqs:
-  - q: Our living room gets full sun. Do we still need a heat pump?
-    a: Most likely. The sun warms the room during the day. But big windows lose that heat fast after dark. A heat pump keeps the house warm through the evening and morning. It can also cool the room on hot summer afternoons.
-  - q: How do you install on a steep section with no level ground?
-    a: The outdoor unit goes on a galvanised wall bracket or on a deck, with anti-vibration mounts. We plan the pipe route at the quote visit. Any extra bracketing or access work is in the quote.
-  - q: Can a heat pump cool a hot north-facing room in summer?
-    a: Yes. Every split system heat pump we fit can cool as well as heat. A room with lots of glass may need a bigger unit than its floor area suggests.
-  - q: Do you service heat pumps on Mount Pleasant?
-    a: Yes, we <a href="/heat-pump-servicing/">service heat pumps</a> of all the major brands. For most hill homes, book one each autumn, before the cold sets in.
+  - q: What size heat pump does a Mount Pleasant home with big north windows need?
+    a: We size it from the glass and the coldest part of the day, not the floor area. The sun can warm a north-facing room by lunchtime, but those windows give the heat away fast after dark. So we size for the evening and early morning. At the quote we measure each room, note how much glass faces north and check the insulation.
+  - q: Where does the outdoor unit go on a steep Mount Pleasant section?
+    a: Usually on a galvanised wall bracket, a deck or a small platform, with anti-vibration mounts. We keep it away from your bedroom windows and your neighbour's, and make sure defrost water can't drip onto steps or a path. We plan the spot and the pipe route at the quote visit, and any extra bracketing or access work is in the quote.
+  - q: Can a heat pump cool a sunny Mount Pleasant living room in summer?
+    a: Yes. Every split system heat pump we fit cools as well as heats. In a room with a lot of glass, the cooling load can be higher than the heating load, so we check both before we choose the unit. Upstairs bedrooms facing north often do well with a small unit of their own.
+  - q: Does a rebuilt Mount Pleasant home need a different heat pump from an older one?
+    a: Often, yes. Homes rebuilt or repaired since the earthquakes are usually well insulated, so one high wall unit on an inside wall can heat an open plan living area if it has the capacity to cover the glass. Older houses that haven't been upgraded lose heat through the ceiling, floor and single glazing, and their rooms are closed off, so a small unit in each room you use suits better. Insulate first and each unit can be smaller.
+  - q: Which noise rules apply to a heat pump on Mount Pleasant?
+    a: Mount Pleasant is in Christchurch City, so the District Plan's <a href="/heat-pump-boundary-rules-consent-nz/">boundary noise limits</a> apply to every outdoor unit. We place the unit with those limits in mind and fit anti-vibration mounts.
 related:
   - { label: Redcliffs, href: /redcliffs/, text: "Coastal and hillside homes near the estuary." }
   - { label: Moncks Bay, href: /moncks-bay/, text: "Heat pumps for homes on the slope above the bay." }
