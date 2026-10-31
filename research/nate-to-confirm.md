@@ -26,12 +26,8 @@ Claims the writers made about how the business works that aren't in site.json. F
 - Pipework reused only when it suits the new unit; ceiling space and underfloor checked at the quote.
 - Fixed price includes carrying gear in, brackets and pipe routes on hill sites.
 
-## Trust claims
-- "Trained and certified team" and "ongoing training" come from Nate's current site. Confirm what the certification is (electrical registration, refrigerant handling, brand training) so the site can name it.
-- "Fully insured" shows in the strip under every hero. Confirm.
-
-## Home page (approved, not changed)
-- "Fully insured" shows in the strip under the hero. Confirm. (Warranty claim removed, 2026-10-31.)
+## Trust claims (confirmed by Nate, 2026-10-31)
+- "Insured" and "Certified, trained team", as shown in the strip under every hero, are what Nate has. Warranty claim removed.
 
 ## Locations grouping
 - Fendalton and Bryndwr under North and north-west; Halswell, Aidanfield, Oaklands, Hoon Hay and Hillmorton under Port Hills, harbour and south.
