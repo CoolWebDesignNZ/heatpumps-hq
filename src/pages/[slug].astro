@@ -90,16 +90,28 @@ schema.push({
 });
 // Suburb pages name the place fully; Selwyn towns sit in Selwyn District.
 const selwyn = ['Rolleston', 'Lincoln', 'Prebbleton', 'Tai Tapu'];
+// Service pages cover the whole service area, the same as the business.
 const place = fm.suburb
-  ? { '@type': 'Place', name: `${fm.suburb}, ${selwyn.includes(fm.suburb) ? 'Selwyn District' : 'Christchurch'}, New Zealand` }
-  : { '@type': 'City', name: 'Christchurch' };
+  ? {
+      '@type': 'Place', name: `${fm.suburb}, ${selwyn.includes(fm.suburb) ? 'Selwyn District' : 'Christchurch'}, New Zealand`,
+      containedInPlace: selwyn.includes(fm.suburb) ? { '@type': 'AdministrativeArea', name: 'Selwyn District' } : { '@type': 'City', name: 'Christchurch' },
+    }
+  : [{ '@type': 'City', name: 'Christchurch' }, { '@type': 'AdministrativeArea', name: 'Selwyn District' }, { '@type': 'Place', name: 'Lyttelton' }];
+// The published from-price goes only on pages for a standard single install
+// (CLAUDE.md lists every place the price appears).
+const fromPricePages = ['heat-pump-installation-in-christchurch', 'single-room-heat-pump-installation', 'high-wall-heat-pumps'];
+const fromPrice = fromPricePages.includes(slug) ? {
+  offers: { '@type': 'Offer', priceSpecification: { '@type': 'PriceSpecification', minPrice: Number(site.installFrom.replace(/[^0-9]/g, '')), priceCurrency: 'NZD' } },
+} : {};
 const heroUrl = fm.hero ? `${site.domain}/images/${fm.hero}.jpg` : undefined;
 if (type === 'service' || type === 'suburb') {
   schema.push({
     '@context': 'https://schema.org', '@type': 'Service',
     name: fm.serviceName ?? fm.h1, serviceType: fm.serviceName ?? fm.h1, url,
+    description: fm.intro,
     provider: { '@id': `${site.domain}/#business` },
     areaServed: place,
+    ...fromPrice,
     ...(heroUrl && { image: heroUrl }),
   });
 }
@@ -108,7 +120,7 @@ if (type === 'guide') {
     '@context': 'https://schema.org', '@type': 'Article',
     headline: fm.h1, url, image: heroUrl,
     datePublished: fm.updated, dateModified: fm.updated,
-    author: { '@type': 'Person', name: site.owner, url: `${site.domain}/about-us/` },
+    author: { '@type': 'Person', '@id': `${site.domain}/#founder`, name: site.owner, url: `${site.domain}/about-us/` },
     publisher: { '@id': `${site.domain}/#business` },
     mainEntityOfPage: url,
   });
