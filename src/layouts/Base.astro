@@ -32,7 +32,8 @@ const business = {
     dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
     opens: site.hours[0].open, closes: site.hours[0].close,
   }],
-  sameAs: [site.facebook],
+  hasMap: site.googleMap,
+  sameAs: [site.facebook, site.googleProfile],
 };
 const website = { '@context': 'https://schema.org', '@type': 'WebSite', '@id': `${site.domain}/#website`, name: site.name, url: `${site.domain}/`, publisher: { '@id': `${site.domain}/#business` } };
 const graph = Astro.url.pathname === '/' ? [business, website, ...schema] : [business, ...schema];
