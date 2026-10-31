@@ -8,7 +8,6 @@ serviceName: Heat pump installation, servicing and repair
 areaServed: Merivale
 suburb: Merivale
 intro: We install, service and repair heat pumps in Merivale. Its older villas lose heat through high ceilings, timber floors and single glazing, so we measure each room before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free.
-keyFacts: true
 hero: pool-weatherboard
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Merivale"

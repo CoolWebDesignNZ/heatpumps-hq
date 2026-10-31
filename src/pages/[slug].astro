@@ -9,7 +9,6 @@ import Faq from '../components/Faq.astro';
 import CtaBand from '../components/CtaBand.astro';
 import SuburbMap from '../components/SuburbMap.astro';
 import MoneyPage from '../components/MoneyPage.astro';
-import KeyFacts from '../components/KeyFacts.astro';
 import SizeCalc from '../components/SizeCalc.astro';
 import site from '../data/site.json';
 import urls from '../data/urls.json';
@@ -235,7 +234,6 @@ if (fm.faqs?.length) {
       <div class="wrap grid grid-2">{leftover.map((id) => <Img id={id} />)}</div>
     </section>
   )}
-  {fm.keyFacts && <KeyFacts place={fm.suburb} inSelwyn={selwyn.includes(fm.suburb)} price={fromPricePages.includes(slug)} />}
   {fm.faqs?.length && <Faq items={fm.faqs} heading={fm.faqHeading} split={fm.design === 'money'} />}
   {fm.related?.length && (
     <section class="section">
