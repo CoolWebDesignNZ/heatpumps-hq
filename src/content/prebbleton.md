@@ -7,7 +7,7 @@ h1: Heat pump installation in Prebbleton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Prebbleton
 suburb: Prebbleton
-intro: "We fit, service and repair heat pumps in Prebbleton's subdivisions and on the rural blocks round the village. Your quote is free."
+intro: "We install, service and repair heat pumps in Prebbleton, from the new subdivision homes to the older village houses and rural blocks. Prebbleton sits in Selwyn District, so heat pump noise falls under the Selwyn District Plan and we place outdoor units with those boundary rules in mind. Quotes are free."
 hero: prebbleton-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Prebbleton

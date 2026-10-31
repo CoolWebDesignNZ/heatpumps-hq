@@ -5,7 +5,7 @@ keyword: healthy homes heat pump
 secondary: [healthy homes heating standard, heat pump for rental property, landlord heat pump christchurch]
 h1: A healthy homes heat pump for your Christchurch rental
 serviceName: Healthy Homes heat pump
-intro: "We install heat pumps for Christchurch landlords and size them to the Healthy Homes heating standard. You get the model and the capacity in writing for your records."
+intro: "We install heat pumps for Christchurch landlords and size them to the Healthy Homes heating standard. The capacity figure depends on the main living room's floor area, ceiling, windows and insulation, and we work it out before recommending a unit. You get the model and capacity in writing, and quotes are free."
 hero: healthy-homes-heat-pumps-christchurch-hero
 gallery: [healthy-homes-heat-pumps-christchurch-1, healthy-homes-heat-pumps-christchurch-2]
 brands: true

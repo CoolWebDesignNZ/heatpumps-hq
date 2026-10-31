@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Oaklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Oaklands
 suburb: Oaklands
-intro: "We fit, service and repair heat pumps in Oaklands, where most homes are brick family houses from the 1960s to the 1980s. We size each one to suit how those houses are laid out."
+intro: "We install, service and repair heat pumps in Oaklands, where most homes are single storey brick and tile houses from the 1960s to the 1980s. Many have one unit in the front lounge only, so we check ceiling insulation and windows before sizing heat for the bedrooms. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: oaklands-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Oaklands

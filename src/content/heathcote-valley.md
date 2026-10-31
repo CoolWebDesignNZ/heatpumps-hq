@@ -7,7 +7,7 @@ h1: Heat pump installation in Heathcote Valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Heathcote Valley
 suburb: Heathcote Valley
-intro: We install and service heat pumps in Heathcote Valley, from the valley floor to homes high on the slopes.
+intro: "We install, service and repair heat pumps in Heathcote Valley, from the flat valley floor to homes up the slopes. The hills block the low winter sun, so a house on the shady side leans harder on its heating and may need more capacity or a second unit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"

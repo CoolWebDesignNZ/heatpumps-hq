@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Avondale
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avondale
 suburb: Avondale
-intro: "We fit, service and repair heat pumps in Avondale, from original mid-century houses to rebuilds."
+intro: "We install, service and repair heat pumps in Avondale. Many local homes are mid-century houses on piles repaired after the earthquakes, and a house partway through a renovation is the easiest time to plan ducted or multi-room. Quotes are free."
 hero: avondale-hero
 gallery: [pool-weatherboard, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avondale

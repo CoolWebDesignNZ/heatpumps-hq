@@ -7,7 +7,7 @@ h1: Heat pump installation in North New Brighton, close to the beach
 serviceName: Heat pump installation, servicing and repair
 areaServed: North New Brighton
 suburb: North New Brighton
-intro: We install and repair heat pumps in North New Brighton, where homes near the dunes take the full sea wind, so we site and secure outdoor units to suit.
+intro: "We install and repair heat pumps in North New Brighton, where homes near the dunes take the full sea wind. We site and secure outdoor units away from the prevailing easterly, raised off the ground, and we check the maker's coastal advice for every model. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: north-new-brighton-hero
 gallery: [pool-coastal-home, pool-frost-outdoor]
 faqHeading: "North New Brighton heat pump questions"

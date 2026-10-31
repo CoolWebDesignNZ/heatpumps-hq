@@ -5,7 +5,7 @@ keyword: emergency heat pump repair
 secondary: [heat pump repair near me, urgent heat pump repair, heat pump repair christchurch]
 h1: Emergency heat pump repair, and what to do until we get there
 serviceName: Urgent heat pump repair
-intro: "We repair heat pumps that have stopped, are pouring water or smell of burning. Make it safe and keep one room warm, then call us early in the working day."
+intro: "We repair heat pumps across Christchurch that have stopped, are pouring water or smell of burning. Switch off at the isolating switch or breaker if you smell burning or see water near the electrics, then call us early in the working day. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic."
 hero: emergency-hero
 gallery: [emergency-1, emergency-2]
 faqHeading: "Emergency heat pump repair questions"

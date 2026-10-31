@@ -7,7 +7,7 @@ h1: Heat pump installation in Islington, on the city's western edge
 serviceName: Heat pump installation, servicing and repair
 areaServed: Islington
 suburb: Islington
-intro: We install, service and repair heat pumps across Islington. We size each system to the house and put the outdoor unit where it gets clear air. Quotes are free.
+intro: "We install, service and repair heat pumps in Islington, on the city's western edge. The flat ground makes outdoor unit placement easier, but sections are often close together, so clear airflow and the boundary noise rules matter. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pump installation in Islington"

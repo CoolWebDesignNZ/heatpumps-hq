@@ -5,7 +5,7 @@ keyword: heat pump leaking water
 secondary: [heat pump dripping water, heat pump refrigerant leak, heat pump gas leak]
 h1: Heat pump leaking water or refrigerant, and how we repair it
 serviceName: Heat pump leak detection and repair
-intro: "We find and repair heat pump leaks across Christchurch, water or refrigerant. Water from the indoor unit is usually a drain problem. A refrigerant leak slowly takes your heat away."
+intro: "We find and repair heat pump leaks across Christchurch, water or refrigerant. Water from the indoor unit is usually a blocked, kinked or sagging drain hose, or a unit that's dropped out of level, so we check the drain first."
 hero: leak-hero
 gallery: [leak-1, leak-2]
 faqHeading: "Questions about a heat pump leaking water"

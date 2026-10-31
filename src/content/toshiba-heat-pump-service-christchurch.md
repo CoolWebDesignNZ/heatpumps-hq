@@ -5,7 +5,7 @@ keyword: toshiba heat pump service christchurch
 secondary: [toshiba heat pump, toshiba heat pump repair, toshiba service]
 h1: Toshiba heat pump service and repair in Christchurch
 serviceName: Toshiba heat pump service and repair
-intro: "Toshiba heat pumps are reliable workhorses, but they still need annual servicing and the occasional repair to handle Canterbury winters. We install, service and repair Toshiba units across Christchurch, Selwyn and Lyttelton. If your unit is showing an error code, running loudly, or just due for its yearly clean, we diagnose the issue on-site before any work starts."
+intro: "We service and repair Toshiba heat pumps across Christchurch, Selwyn and Lyttelton. We pull the fault codes on-site with Toshiba diagnostic tools, check refrigerant pressure and clean the coil and filters, and we source genuine Toshiba parts when a repair is needed. Quotes are free."
 hero: toshiba-hero
 gallery: [toshiba-2, toshiba-1]
 faqHeading: Toshiba heat pump service questions

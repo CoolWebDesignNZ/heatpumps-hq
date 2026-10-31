@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Bromley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bromley
 suburb: Bromley
-intro: "We fit, service and repair heat pumps in Bromley's older family homes, many close to commercial and industrial sites."
+intro: "We install, service and repair heat pumps in Bromley. Most homes here are single storey houses on piles from the 1950s to 70s, and cold air under an uninsulated floor pulls heat from every room, so we check under the house before sizing. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
 hero: bromley-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: Questions about heat pumps in Bromley

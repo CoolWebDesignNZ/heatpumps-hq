@@ -5,7 +5,7 @@ keyword: heat pump dehumidifier
 secondary: [heat pump dry mode, dehumidifier heat pump, heat pump dehumidify]
 h1: Using your heat pump as a dehumidifier
 serviceName: Heat pump dehumidification setup
-intro: "We fit and service heat pumps across Christchurch, dry mode included. Here's how dry mode pulls moisture from the room, and when it works and when it doesn't."
+intro: "We fit and service heat pumps across Christchurch, dry mode included. Dry mode runs the indoor fan slowly over a cold coil so moisture drains away outside, and it suits warm, muggy rooms rather than a cold Christchurch winter. We check dry mode, the drain and the coil on a service."
 hero: dehumid-hero
 gallery: [dehumid-remote, dehumid-condensation]
 faqHeading: "Heat pump dehumidifier questions"

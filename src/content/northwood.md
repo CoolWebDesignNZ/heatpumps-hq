@@ -7,7 +7,7 @@ h1: Heat pump installation in Northwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Northwood
 suburb: Northwood
-intro: We install, service and repair heat pumps across Northwood. The housing here is mostly newer and well insulated, so the right size unit matters more than a big one. Quotes are free.
+intro: "We install, service and repair heat pumps across Northwood. Most housing here went up from the 1990s onward and is well insulated and double glazed, so a unit that is too big wastes power and feels uneven. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: northwood-hero
 gallery: [northwood-1, northwood-2]
 faqHeading: "Questions about heat pumps in Northwood"

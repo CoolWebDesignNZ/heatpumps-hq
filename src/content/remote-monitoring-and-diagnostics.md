@@ -5,7 +5,7 @@ keyword: heat pump remote monitoring
 secondary: [heat pump monitoring, heat pump remote diagnostics, heat pump wifi]
 h1: Heat pump remote monitoring and diagnostics over Wi-Fi
 serviceName: Heat pump remote monitoring and diagnostics
-intro: "We set heat pumps up on Wi-Fi so you can check them from your phone. When something goes wrong, that running record helps, and we confirm the fault with tests on site."
+intro: "We set heat pumps up on Wi-Fi in Christchurch so you can check them from your phone. The app shows settings and temperatures, but it can't measure refrigerant pressure, so we confirm any fault with tests at the unit."
 hero: remote-hero
 gallery: [remote-1, remote-2]
 faqHeading: "Heat pump remote monitoring questions"

@@ -5,7 +5,7 @@ keyword: daikin heat pump repair
 secondary: [daikin heat pump service, daikin christchurch, daikin air conditioning repairs]
 h1: Daikin heat pump repair and servicing in Christchurch
 serviceName: Daikin heat pump repair and servicing
-intro: We service and repair Daikin heat pumps across Christchurch, from single wall units to ducted systems. Tell us the model and the fault and we'll work out what's wrong.
+intro: "We repair and service Daikin heat pumps across Christchurch, from wall units and floor consoles to multi-split and ducted systems. A code on the controller shows where the unit noticed a fault, not always where it started, so we test before we quote the repair."
 hero: daikin-hero
 gallery: [daikin-1, daikin-2]
 faqHeading: "Daikin heat pump questions"

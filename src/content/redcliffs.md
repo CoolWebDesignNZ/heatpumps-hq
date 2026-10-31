@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Redcliffs
 serviceName: Heat pump installation, servicing and repair
 areaServed: Redcliffs
 suburb: Redcliffs
-intro: We install and service heat pumps in Redcliffs, by the water and on the hill behind, and we place outdoor units to cope with the salt air.
+intro: "We install, service and repair heat pumps in Redcliffs, on the flat and up the hillside. Salt air off the estuary and sea settles on the outdoor coil and casing and can speed up corrosion, so we shelter the unit and keep it off the ground. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: redcliffs-hero
 gallery: [pool-coastal-home, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Redcliffs"

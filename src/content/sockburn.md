@@ -7,7 +7,7 @@ h1: Heat pump installation, service and repair in Sockburn
 serviceName: Heat pump installation, servicing and repair
 areaServed: Sockburn
 suburb: Sockburn
-intro: We install, service and repair heat pumps in Sockburn's older weatherboard and brick houses and in newer units on split sections.
+intro: "We install, service and repair heat pumps in Sockburn. In older weatherboard and brick houses we size a wall unit for the living room you use most, because closed doors keep its warmth in that room. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: sockburn-hero
 gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in Sockburn"

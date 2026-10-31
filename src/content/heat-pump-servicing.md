@@ -5,7 +5,7 @@ keyword: heat pump servicing christchurch
 secondary: [heat pump servicing, heat pump service, heat pump service cost]
 h1: Heat pump servicing in Christchurch, step by step
 serviceName: Heat pump servicing
-intro: "We service heat pumps across Christchurch, Selwyn and Lyttelton, indoor and outdoor units. Here's every step, in order, so you know what you're paying for."
+intro: "We service heat pumps across Christchurch, Selwyn and Lyttelton, indoor and outdoor units. We service Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other split and ducted heat pumps sold in New Zealand, and quotes are free."
 hero: servicing-hero
 gallery: [servicing-coil, servicing-outdoor]
 faqHeading: "Heat pump servicing questions"

@@ -5,7 +5,7 @@ keyword: heat pump replacement
 secondary: [replace old heat pump, heat pump upgrade, heat pump efficiency]
 h1: Heat pump replacement and efficiency upgrades
 serviceName: Heat pump replacement and upgrades
-intro: "We replace and upgrade heat pumps across Christchurch. If a smaller repair will do the job, we'll tell you, and you get a quote for each option."
+intro: "We replace and upgrade heat pumps across Christchurch. If the compressor has died, the same fault keeps coming back or the unit runs on an old refrigerant, replacement usually beats another repair, and we recover the old refrigerant before it leaves your property. We supply and fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: upgrade-hero
 gallery: [upgrade-old-unit, upgrade-new-unit]
 faqHeading: "Heat pump replacement questions"

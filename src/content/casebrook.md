@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Casebrook
 serviceName: Heat pump installation, servicing and repair
 areaServed: Casebrook
 suburb: Casebrook
-intro: "We fit and replace heat pumps in Casebrook's family homes, where lots of the first units are getting old. We'll tell you if a repair beats a new one."
+intro: "We install and repair heat pumps in Casebrook, Christchurch. The houses are mostly single storey brick and tile family homes, so we measure the rooms and check the insulation before sizing a unit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: casebrook-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Casebrook"

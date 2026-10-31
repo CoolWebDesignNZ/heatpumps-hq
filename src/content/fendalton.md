@@ -7,7 +7,7 @@ h1: Heat pump installation in Fendalton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Fendalton
 suburb: Fendalton
-intro: "We fit, service and repair heat pumps in Fendalton, planning round the big rooms, old trees and look of each house."
+intro: "We install, service and repair heat pumps in Fendalton. The rooms here are big and the ceilings are high, so the volume of the room sets the unit size, not the floor area, and most jobs end up ducted or multi-room. Quotes are free."
 hero: fendalton-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Fendalton

@@ -5,7 +5,7 @@ keyword: heat pump parts
 secondary: [heat pump remote replacement, heat pump spare parts, heat pump fan motor]
 h1: Heat pump parts and replacement in Christchurch
 serviceName: Heat pump parts replacement
-intro: "We replace broken heat pump parts across Christchurch, from remotes to fan motors. We find the faulty part, get the right one for your model, and quote it before we order."
+intro: "We replace broken heat pump parts across Christchurch, from remotes to fan motors. We find the faulty part, get the right one for your model, and quote it before we order. We order parts for Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand."
 hero: parts-hero
 gallery: [parts-fan-motor, parts-board]
 faqHeading: "Heat pump parts questions"

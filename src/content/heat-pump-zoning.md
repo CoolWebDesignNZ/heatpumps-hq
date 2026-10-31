@@ -5,7 +5,7 @@ keyword: heat pump zoning
 secondary: [ducted heat pump zoning, multi zone heat pump, zone control heat pump]
 h1: Heat pump zoning to control each part of the house
 serviceName: Heat pump zoning
-intro: "We fit zoning to new ducted heat pumps, and add it to existing ones where the ducts allow. Then the system heats only the rooms you pick, not the whole house."
+intro: "We fit heat pump zoning to new ducted systems in Christchurch and add it to existing ones where the ducts allow. Dampers sit in the ducts to each zone and a zone controller switches them, so the system heats only the rooms you pick. Quotes are free."
 hero: zoning-hero
 gallery: [zoning-damper, zoning-controller]
 faqHeading: "Heat pump zoning questions"

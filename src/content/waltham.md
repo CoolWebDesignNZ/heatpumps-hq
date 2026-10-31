@@ -7,7 +7,7 @@ h1: Heat pump installation in Waltham, close to the city
 serviceName: Heat pump installation, servicing and repair
 areaServed: Waltham
 suburb: Waltham
-intro: We install, service and repair heat pumps across Waltham, from the villas near the shops to the newer townhouses. Quotes are free.
+intro: "We install, service and repair heat pumps across Waltham, from the villas and workers' cottages to the newer townhouses. Many of these older homes have timber floors and single glazing, so we size each unit on the house rather than floor area alone. Quotes are free."
 hero: sumner-hero
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Waltham"

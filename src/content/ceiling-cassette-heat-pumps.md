@@ -5,7 +5,7 @@ keyword: ceiling cassette heat pump
 secondary: [cassette heat pump, ceiling heat pump, ceiling cassette air conditioner]
 h1: Ceiling cassette heat pumps in Christchurch
 serviceName: Ceiling cassette heat pump installation
-intro: "We install ceiling cassette heat pumps across Christchurch, set into the ceiling with a grille that blows air out in several directions. We check there's room above the ceiling before anything is ordered."
+intro: "We install ceiling cassette heat pumps across Christchurch, set into the ceiling with a grille that blows air out in several directions. We check there's room above the ceiling for the unit, the pipes and the drain before anything is ordered, and quotes are free."
 hero: ceiling-cassette-heat-pumps-hero
 gallery: [ceiling-cassette-heat-pumps-1, ceiling-cassette-heat-pumps-2]
 stepsHeading: How we check and fit a ceiling cassette heat pump

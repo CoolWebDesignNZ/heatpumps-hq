@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bottle Lake
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bottle Lake
 suburb: Bottle Lake
-intro: "We fit, service and repair heat pumps for homes in and around Bottle Lake, between the pines and the coast."
+intro: "We install, service and repair heat pumps in Bottle Lake. Pine needles, pollen, sand and salt build up on the outdoor coil here, so we place the unit clear of trees and raised above the leaf litter. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
 hero: bottle-lake-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bottle Lake

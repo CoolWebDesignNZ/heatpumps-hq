@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing on McLeans Island
 serviceName: Heat pump installation, servicing and repair
 areaServed: McLeans Island
 suburb: McLeans Island
-intro: We fit, service and repair heat pumps on McLeans Island's lifestyle blocks at the north-western edge of Christchurch.
+intro: "We install, service and repair heat pumps on McLeans Island, on the rural lifestyle blocks out towards the Waimakariri River. Homes here are often large with rooms spread out, so a ducted system with a vent in every room often suits better than one wall unit. Quotes are free."
 hero: mcleans-island-hero
 gallery: [pool-lifestyle, pool-ducted-vent]
 faqHeading: "Questions about heat pumps in McLeans Island"

@@ -7,7 +7,7 @@ h1: Heat pump installation in Richmond, close to the river
 serviceName: Heat pump installation, servicing and repair
 areaServed: Richmond
 suburb: Richmond
-intro: We fit, service and repair heat pumps across Richmond, and we plan outdoor units around the easterly and the neighbours. Quotes are free.
+intro: "We install, service and repair heat pumps in Richmond, planning outdoor units around the cold easterly and the neighbours. Richmond's narrow sections mean the outdoor unit often goes down the gap between houses, so we check placement against the council's boundary noise limits at the quote. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Richmond"

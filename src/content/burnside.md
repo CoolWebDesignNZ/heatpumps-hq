@@ -7,7 +7,7 @@ h1: Heat pump installation and service in Burnside
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burnside
 suburb: Burnside
-intro: "We fit, service and repair heat pumps in Burnside's family homes, including ones that have grown with extensions over the years. We plan to heat the whole house."
+intro: "We install, service and repair heat pumps in Burnside. Many homes here have been extended over the years, so we treat the house as a set of zones and size each one on its own. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: burnside-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: Questions about heat pumps in Burnside

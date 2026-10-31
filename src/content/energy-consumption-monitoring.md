@@ -5,7 +5,7 @@ keyword: heat pump power usage
 secondary: [how much power does a heat pump use, heat pump running cost, heat pump energy consumption]
 h1: Heat pump power usage, and how much power yours uses
 serviceName: Heat pump power usage check
-intro: "We check heat pumps across Christchurch, Selwyn and Lyttelton when the power bill seems too high. Here's how to find your own unit's usage, and what we look at when it doesn't add up."
+intro: "We check heat pumps across Christchurch, Selwyn and Lyttelton when the power bill seems too high. Your power company's smart meter data can show hourly use, so you can compare a cold week with the heat pump on against a mild week with it off. You get a free quote for any work."
 hero: power-hero
 gallery: [power-meter, power-outdoor]
 faqHeading: "Questions about heat pump running costs"

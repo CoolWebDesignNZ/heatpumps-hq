@@ -7,7 +7,7 @@ h1: Heat pump installation in Kennedys Bush
 serviceName: Heat pump installation, servicing and repair
 areaServed: Kennedys Bush
 suburb: Kennedys Bush
-intro: We install, service and repair heat pumps in Kennedys Bush above Halswell, and we allow for steep driveways, brackets and exposed sites in the quote.
+intro: "We install, service and repair heat pumps in Kennedys Bush above Halswell. Wind across the hillside strips heat faster than in the streets below, and the big windows that frame the view lose warmth on clear winter nights, so we size from your rooms and glass. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: kennedys-bush-hero
 gallery: [pool-hill-home, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Kennedys Bush"

@@ -5,7 +5,7 @@ keyword: heat pump installation christchurch
 secondary: [heat pump installation, heat pump install, heat pump installation near me]
 h1: Heat pump installation in Christchurch
 serviceName: Heat pump installation
-intro: "We install heat pumps across Christchurch. We check your rooms, insulation and windows, and put the units where they heat well and run quietly."
+intro: "We install heat pumps across Christchurch and Selwyn, checking each room's size, insulation and glazing before we quote. On the frosty plains out west, we size for the coldest morning and raise the outdoor unit so defrost water drains away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: install-hero
 design: money
 gallery: [install-pipework, install-commission]

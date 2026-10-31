@@ -5,7 +5,7 @@ keyword: smart heat pump
 secondary: [wifi heat pump, heat pump wifi controller, smart heat pump controller]
 h1: Smart heat pump control with a Wi-Fi controller
 serviceName: Smart heat pump and Wi-Fi controller installation
-intro: "We fit Wi-Fi controllers to heat pumps across Christchurch, so you can run yours from your phone. We'll check your model first and tell you which app it uses."
+intro: "We fit Wi-Fi controllers to heat pumps across Christchurch, so you can run yours from your phone. The adaptor sits inside the indoor unit and links to the maker's app, and some new models have Wi-Fi built in. Send us your model number and we'll check it takes one."
 hero: smart-hero
 gallery: [smart-1, smart-2]
 faqHeading: "Smart heat pump questions"

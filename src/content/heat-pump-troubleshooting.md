@@ -5,7 +5,7 @@ keyword: heat pump not working
 secondary: [heat pump blowing cold air, heat pump flashing light, heat pump error codes]
 h1: Heat pump not working? We find the fault
 serviceName: Heat pump fault finding
-intro: "We find heat pump faults across Christchurch, testing the system step by step until we know what's failed. Only then do we quote the repair."
+intro: "We find heat pump faults across Christchurch, testing the system step by step until we know what's failed. A flashing light or error code shows where the unit found a problem, not always why, so we confirm the cause on site before quoting the repair."
 hero: troubleshoot-hero
 gallery: [troubleshoot-1, troubleshoot-2]
 faqHeading: "Questions about a heat pump not working"

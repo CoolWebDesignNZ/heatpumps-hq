@@ -5,7 +5,7 @@ keyword: panasonic heat pump repair
 secondary: [panasonic heat pump service, panasonic air conditioner repair, panasonic heat pump christchurch]
 h1: Panasonic heat pump repair and service in Christchurch
 serviceName: Panasonic heat pump repair and servicing
-intro: "We service and repair Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. If yours is past saving, we'll say so and quote a replacement from the brands we fit."
+intro: "We service and repair Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. We work on wall-mounted splits, floor consoles, ducted and multi-split systems, whoever fitted them. We don't fit Panasonic, so if yours needs replacing we'll quote a Mitsubishi Electric, Daikin, Fujitsu or Toshiba sized for the room."
 hero: panasonic-hero
 gallery: [panasonic-1, panasonic-2]
 faqHeading: Panasonic heat pump questions

@@ -7,7 +7,7 @@ h1: Heat pump installation in Hillsborough, on the hills and down by the valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hillsborough
 suburb: Hillsborough
-intro: We install, service and repair heat pumps across Hillsborough, and we match the unit to the house and the slope it sits on. Quotes are free.
+intro: "We install, service and repair heat pumps across Hillsborough, on the hills and down in the valley. Older hillside homes with timber floors and single glazing lose heat faster than their floor area suggests, so we size for the cold end of the year. Quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Hillsborough"

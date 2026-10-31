@@ -7,7 +7,7 @@ h1: Heat pump installation across Halswell
 serviceName: Heat pump installation, servicing and repair
 areaServed: Halswell
 suburb: Halswell
-intro: "We fit, service and repair heat pumps right across Halswell, from the new subdivisions to the older homes round the original village."
+intro: "We install, service and repair heat pumps across Halswell, from the original village to the new subdivisions. Halswell sits inside the Christchurch city boundary, so the Christchurch District Plan applies rather than Selwyn's rules. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: halswell-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: Questions about heat pumps in Halswell

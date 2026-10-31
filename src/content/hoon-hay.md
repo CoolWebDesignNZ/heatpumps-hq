@@ -7,7 +7,7 @@ h1: Heat pump installation for Hoon Hay family homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hoon Hay
 suburb: Hoon Hay
-intro: We fit, service and repair heat pumps in Hoon Hay's brick and weatherboard family homes, sized for every room the family uses and for frosty mornings.
+intro: "We install, service and repair heat pumps in Hoon Hay. Streets near the Port Hills collect cold air sliding off the slopes, so we raise outdoor units on feet or brackets and size them for the coldest mornings, not an average day. Quotes are free."
 hero: hoon-hay-hero
 gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Hoon Hay heat pump questions"

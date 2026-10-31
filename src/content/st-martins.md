@@ -7,7 +7,7 @@ h1: Heat pump installation in St Martins, on the flat by the river
 serviceName: Heat pump installation, servicing and repair
 areaServed: St Martins
 suburb: St Martins
-intro: We install, service and repair heat pumps across St Martins, from the streets near the river to the base of the hills. Quotes are free.
+intro: "We install, service and repair heat pumps in St Martins, on the flat by the river. St Martins gets cold winter mornings, so the outdoor unit will frost up and run a defrost cycle, and a cold climate model handles that better. Quotes are free."
 hero: st-martins-hero
 gallery: [st-martins-1, st-martins-2]
 faqHeading: "Questions about heat pumps in St Martins"

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bexley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bexley
 suburb: Bexley
-intro: "We fit, service and repair heat pumps in Bexley, on the low ground by the estuary, where many homes have been rebuilt or repaired."
+intro: "We install, service and repair heat pumps in Bexley, on the low ground by the Avon River and the estuary. Rebuilt homes here hold their heat well, so the right unit is often smaller than people expect. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
 hero: bexley-hero
 gallery: [pool-newbuild-living, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bexley

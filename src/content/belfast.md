@@ -7,7 +7,7 @@ h1: Heat pump installation in Belfast, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Belfast
 suburb: Belfast
-intro: "We fit, service and repair heat pumps in Belfast, on the city's northern edge, in new subdivision homes and the older houses beside them."
+intro: "We install, service and repair heat pumps in Belfast, at Christchurch's northern edge, in new subdivision homes and the older houses beside them. New Belfast builds are well insulated and double glazed, so we size each unit from your rooms, windows and insulation rather than adding more power. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: belfast-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Belfast

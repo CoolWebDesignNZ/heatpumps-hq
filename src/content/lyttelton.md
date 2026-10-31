@@ -7,7 +7,7 @@ h1: Heat pump installation for Lyttelton cottages and homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lyttelton
 suburb: Lyttelton
-intro: "We come through the tunnel to fit, service and repair heat pumps in Lyttelton, including old cottages on steep, narrow sections."
+intro: "We install, service and repair heat pumps in Lyttelton, coming through the tunnel to fit cottages and villas on steep, narrow sections. With tall ceilings, sash windows and little insulation, we size each unit by room volume, not floor area. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: lyttelton-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: Questions about heat pumps in Lyttelton

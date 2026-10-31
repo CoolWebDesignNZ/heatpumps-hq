@@ -7,7 +7,7 @@ h1: Heat pump installation in Opawa, flat by the river
 serviceName: Heat pump installation, servicing and repair
 areaServed: Opawa
 suburb: Opawa
-intro: We install, service and repair heat pumps across Opawa, from the river streets to the hill edge. Quotes are free.
+intro: "We install, service and repair heat pumps in Opawa. Opawa is flat beside the Heathcote River and winter mornings here frost, so we check a model's low temperature rating before we recommend it. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Opawa"

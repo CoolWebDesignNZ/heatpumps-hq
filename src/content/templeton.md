@@ -7,7 +7,7 @@ h1: Heat pump installation and repair in Templeton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Templeton
 suburb: Templeton
-intro: We fit, service and repair heat pumps across Templeton township, its newer streets and the semi-rural sections around it. Ask us for a free quote.
+intro: "We install, service and repair heat pumps in Templeton, including the newer streets and semi-rural sections. Templeton gets frosty mornings and nor'west wind, so we size each unit for the coldest mornings and fit it on raised feet for defrost drainage. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: templeton-hero
 gallery: [pool-frost-outdoor, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Templeton"

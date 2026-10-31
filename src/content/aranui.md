@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Aranui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aranui
 suburb: Aranui
-intro: "We fit, service and repair heat pumps in Aranui's older state houses, rebuilt homes and rentals."
+intro: "We install, service and repair heat pumps in Aranui, east Christchurch. Many of its 1950s and 60s state houses have light insulation, so heat escapes through the floor and ceiling and they need more capacity for their size. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
 hero: aranui-hero
 gallery: [pool-townhouse, pool-filters]
 faqHeading: Questions about heat pumps in Aranui

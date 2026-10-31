@@ -5,7 +5,7 @@ keyword: daikin ducted heat pump
 secondary: [daikin ducted, daikin ducted system, daikin ducted heat pump christchurch]
 h1: Daikin ducted heat pump systems in Christchurch
 serviceName: Daikin ducted heat pump installation
-intro: "We fit Daikin ducted heat pumps in Christchurch, and we'll help you pick the unit that suits your ceiling space and the rooms you want heated."
+intro: "We fit Daikin ducted heat pumps in Christchurch, choosing the unit that suits your ceiling space and the rooms you want heated. Slim ducted units suit tight roof spaces, whole-home units heat a whole house, and bulkhead units warm one area. Quotes are free."
 hero: daikin-ducted-hero
 gallery: [daikin-ducted-controller, daikin-ducted-outlet]
 stepsHeading: How we install a Daikin ducted heat pump

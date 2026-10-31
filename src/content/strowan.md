@@ -7,7 +7,7 @@ h1: Heat pump installation in Strowan, for older timber homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Strowan
 suburb: Strowan
-intro: We install, service and repair heat pumps across Strowan. Most of the houses here are older, so we size each unit to the rooms rather than the floor plan. Quotes are free.
+intro: "We install, service and repair heat pumps in Strowan. Most of the suburb's villas and bungalows are timber framed with timber floors and single glazing, so they lose heat faster than their floor area suggests and need more capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Strowan"

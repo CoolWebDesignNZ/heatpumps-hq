@@ -7,7 +7,7 @@ h1: Heat pump installation in Somerfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Somerfield
 suburb: Somerfield
-intro: We fit heat pumps in Somerfield's bungalows, villas and family homes, keep the pipes out of sight, and give you a free quote before we start.
+intro: "We install, service and repair heat pumps in Somerfield. Its original bungalows and villas lose heat through ceilings, bare floors on piles and single glazing, so we check insulation before sizing each unit. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
 hero: somerfield-hero
 gallery: [pool-console-unit, pool-frost-outdoor]
 faqHeading: "Somerfield heat pump questions"

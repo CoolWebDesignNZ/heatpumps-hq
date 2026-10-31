@@ -7,7 +7,7 @@ h1: Heat pump installation for Beckenham villas and bungalows
 serviceName: Heat pump installation, servicing and repair
 areaServed: Beckenham
 suburb: Beckenham
-intro: "We fit, service and repair heat pumps in Beckenham's villas and bungalows. We plan round damp rooms and shady sections by the river."
+intro: "We install, service and repair heat pumps in Beckenham. On the low ground by the river, homes under big trees get less winter sun and run colder and damper, so we size the system for steady heat. Quotes are free."
 hero: beckenham-hero
 gallery: [pool-weatherboard, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Beckenham

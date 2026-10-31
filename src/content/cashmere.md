@@ -7,7 +7,7 @@ h1: Heat pump installation on the Cashmere hills and flat
 serviceName: Heat pump installation, servicing and repair
 areaServed: Cashmere
 suburb: Cashmere
-intro: We fit heat pumps across Cashmere, on the flat by the Heathcote River and up the Port Hills, and we plan each install around the slope and layout before we quote.
+intro: "We install, service and repair heat pumps across Cashmere, on the flat by the Heathcote River and up the Port Hills. Hill homes often have no level ground beside the house, so the outdoor unit goes on a galvanised wall bracket or a sound deck. Quotes are free."
 hero: cashmere-hero
 gallery: [pool-hill-home, pool-ducted-vent]
 faqHeading: "Cashmere heat pump questions"

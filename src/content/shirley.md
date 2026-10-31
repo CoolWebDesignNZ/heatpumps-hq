@@ -7,7 +7,7 @@ h1: Heat pump installation and repair in Shirley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Shirley
 suburb: Shirley
-intro: We install and repair heat pumps in Shirley's mid-century weatherboard and brick homes, and you get a free quote before any work starts.
+intro: "We install and repair heat pumps in Shirley. Many of its mid-century weatherboard and brick homes have little ceiling insulation and cold timber floors, so we measure each room and size the unit to suit it, and quotes are free."
 hero: shirley-hero
 gallery: [pool-frost-outdoor, pool-bedroom-unit]
 faqHeading: "Shirley heat pump questions"

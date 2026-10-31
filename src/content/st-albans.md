@@ -7,7 +7,7 @@ h1: Heat pump installation in St Albans, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: St Albans
 suburb: St Albans
-intro: We fit, service and repair heat pumps in St Albans villas and townhouses. In a villa we work around tall ceilings and timber floors, and in a townhouse we get heat upstairs.
+intro: "We install, service and repair heat pumps in St Albans, Christchurch. In a villa we size the unit for the whole volume of the high-stud room, not just the floor area, and in a townhouse we get heat upstairs. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: st-albans-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in St Albans"

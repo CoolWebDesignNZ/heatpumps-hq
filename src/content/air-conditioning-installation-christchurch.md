@@ -5,7 +5,7 @@ keyword: air conditioning christchurch
 secondary: [air conditioning installation, aircon christchurch, air con installation]
 h1: Air conditioning for Christchurch homes, sized and installed
 serviceName: Air conditioning installation
-intro: "We install air conditioning in Christchurch homes, which nearly always means a heat pump that cools as well as heats. We size it for your hottest rooms, not just your coldest."
+intro: "We install air conditioning in Christchurch homes, which nearly always means a heat pump that cools as well as heats. Rooms with big west or north facing windows get hottest, so we size the unit for the heat coming through the glass and roof, not floor area alone."
 hero: aircon-hero
 gallery: [aircon-upstairs, aircon-remote]
 stepsHeading: What our air conditioning installation includes

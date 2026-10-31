@@ -7,7 +7,7 @@ h1: Heat pump installation for Edgeware homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Edgeware
 suburb: Edgeware
-intro: "We fit heat pumps in Edgeware's timber cottages, villas and two-level townhouses. We size for the high ceilings and draughts in the old homes, and get heat upstairs in the new ones."
+intro: "We install, service and repair heat pumps in Edgeware, sizing each system to your rooms, insulation and windows. In the old timber cottages and villas, high studs and draughts mean a lounge unit seldom warms more than the lounge. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: edgeware-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Edgeware"

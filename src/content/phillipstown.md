@@ -7,7 +7,7 @@ h1: Heat pump installation for Phillipstown homes and rentals
 serviceName: Heat pump installation, servicing and repair
 areaServed: Phillipstown
 suburb: Phillipstown
-intro: "We fit, service and repair heat pumps in Phillipstown's cottages, units and townhouses, for owners and landlords. We pick the size and spot so one living room unit does most of the work."
+intro: "We install, service and repair heat pumps in Phillipstown for owners and landlords. Most homes here are small, so we size one living room unit to the room and check the insulation before we pick a capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: phillipstown-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Phillipstown"

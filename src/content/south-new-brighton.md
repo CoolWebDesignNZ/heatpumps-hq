@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in South New Brighton
 serviceName: Heat pump installation, servicing and repair
 areaServed: South New Brighton
 suburb: South New Brighton
-intro: We fit, service and repair heat pumps on the South New Brighton strip between the estuary and the beach, and the quote is free.
+intro: "We install, service and repair heat pumps in South New Brighton, on both the beach side and the estuary side. Beach-side homes take sea spray and the full easterly, so we site the outdoor unit on the sheltered side of the house. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: south-new-brighton-hero
 gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in South New Brighton"

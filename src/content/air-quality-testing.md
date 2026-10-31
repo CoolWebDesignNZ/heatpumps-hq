@@ -5,7 +5,7 @@ keyword: indoor air quality testing
 secondary: [air quality testing, air quality test home, air quality testing christchurch]
 h1: Indoor air quality testing and your heat pump
 serviceName: Heat pump air quality check
-intro: "We check what your heat pump could be adding to the air in your Christchurch home, like dust and mould. Then we clean it out."
+intro: "We check heat pumps for dust, mould and damp that could be affecting the air in your Christchurch home. Dust builds up on the filters, coil and fan, and a damp coil or drain tray can grow mould that blows into the room when the unit runs."
 hero: airquality-hero
 gallery: [airquality-coil, airquality-drain]
 faqHeading: "Air quality testing questions"

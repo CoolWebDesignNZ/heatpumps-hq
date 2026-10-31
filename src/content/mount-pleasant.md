@@ -7,7 +7,7 @@ h1: Heat pump installation for Mount Pleasant hill homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Mount Pleasant
 suburb: Mount Pleasant
-intro: We fit, service and repair heat pumps on Mount Pleasant's steep streets and hill sections, and we plan each job around the access.
+intro: "We install, service and repair heat pumps in Mount Pleasant, planning each job around the steep streets and hill sections. Many homes here have big north-facing windows that lose heat fast after dark, so we size units for the evening and early morning. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: mount-pleasant-hero
 gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Mount Pleasant"

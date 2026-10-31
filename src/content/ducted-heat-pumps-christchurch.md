@@ -5,7 +5,7 @@ keyword: ducted heat pumps christchurch
 secondary: [ducted heat pump, ducted heat pumps, ducted heating christchurch]
 h1: Ducted heat pumps for Christchurch homes
 serviceName: Ducted heat pump installation
-intro: "We install ducted heat pumps in Christchurch homes, with the indoor unit hidden in the roof or under the floor and a vent in each room. Nothing goes on the walls."
+intro: "We install ducted heat pumps in Christchurch homes, with the indoor unit hidden in the roof or under the floor and a vent in each room. Nothing goes on the walls, and we check the roof pitch and clear ceiling height before we quote. We fit Daikin, Mitsubishi Electric, Fujitsu and Toshiba, and quotes are free."
 hero: ducted-hero
 gallery: [ducted-roofspace, ducted-grille]
 stepsHeading: How we plan a ducted heat pump install

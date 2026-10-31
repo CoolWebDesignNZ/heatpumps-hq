@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Ilam
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ilam
 suburb: Ilam
-intro: We fit, service and repair heat pumps in Ilam for family homeowners and for landlords with rentals near the University of Canterbury.
+intro: "We install, service and repair heat pumps in Ilam for family homes and for landlords with rentals near the University of Canterbury. For a rental, we size the unit to the capacity the main living room needs under the Healthy Homes heating standard. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: ilam-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: "Questions about heat pumps in Ilam"

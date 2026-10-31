@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Spencerville
 serviceName: Heat pump installation, servicing and repair
 areaServed: Spencerville
 suburb: Spencerville
-intro: We install, service and repair heat pumps in Spencerville, out on the big semi-rural sections at the city's north-eastern edge, and the quote is free.
+intro: "We install, service and repair heat pumps in Spencerville. Many homes here are bigger than a typical suburban house and have been added onto over the years, so we measure each room and size each unit as its own space. Quotes are free."
 hero: spencerville-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Spencerville heat pump questions"

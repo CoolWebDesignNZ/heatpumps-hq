@@ -7,7 +7,7 @@ h1: Heat pump installation, servicing and repair in Hornby
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hornby
 suburb: Hornby
-intro: "We fit, service and repair heat pumps across Hornby, from older weatherboard and brick houses with long hallways to well-sealed new townhouses."
+intro: "We install, service and repair heat pumps in Hornby. Older weatherboard and brick houses here lose heat through the ceiling, floor and old windows, so we check the insulation before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: hornby-hero
 gallery: [pool-weatherboard, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Hornby"

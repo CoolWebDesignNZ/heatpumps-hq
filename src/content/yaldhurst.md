@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Yaldhurst
 serviceName: Heat pump installation, servicing and repair
 areaServed: Yaldhurst
 suburb: Yaldhurst
-intro: We install, service and repair heat pumps on Yaldhurst's lifestyle blocks and bigger homes on the plains west of the city.
+intro: "We install, service and repair heat pumps in Yaldhurst, on lifestyle blocks and bigger homes on the plains west of the city. These homes need units sized for hard frosts on still, clear nights, with the outdoor unit sheltered from the dry nor'west. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: yaldhurst-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Yaldhurst"

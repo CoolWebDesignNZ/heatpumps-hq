@@ -7,7 +7,7 @@ h1: Heat pump installation in Woolston, on the flat by the river
 serviceName: Heat pump installation, servicing and repair
 areaServed: Woolston
 suburb: Woolston
-intro: We install, service and repair heat pumps across Woolston, from the older workers' cottages to the newer townhouses. Quotes are free.
+intro: "We install, service and repair heat pumps across Woolston, from the older workers' cottages to the newer townhouses. Many of the older houses near the old industrial area have timber floors and single glazing, so they need more capacity than a newer house of the same size. Quotes are free."
 hero: woolston-hero
 gallery: [woolston-1, woolston-2]
 faqHeading: "Questions about heat pumps in Woolston"

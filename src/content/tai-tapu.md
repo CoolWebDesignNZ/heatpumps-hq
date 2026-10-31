@@ -7,7 +7,7 @@ h1: Heat pump installation for Tai Tapu homes and lifestyle blocks
 serviceName: Heat pump installation, servicing and repair
 areaServed: Tai Tapu
 suburb: Tai Tapu
-intro: "We fit, service and repair heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. We'll come out and give you a free quote."
+intro: "We install, service and repair heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. Older farmhouses here have high ceilings, single glazing and rooms off long halls, so one lounge unit leaves bedrooms cold. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: tai-tapu-hero
 gallery: [pool-lifestyle, pool-console-unit]
 faqHeading: Questions about heat pumps in Tai Tapu

@@ -5,7 +5,7 @@ keyword: fujitsu heat pump repair
 secondary: [fujitsu heat pump service, fujitsu air conditioner repair, fujitsu heat pump service christchurch]
 h1: Fujitsu heat pump repair and service in Christchurch
 serviceName: Fujitsu heat pump repair and servicing
-intro: "We service, repair and fit Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton, old and new. Once we've found the fault, we quote the repair."
+intro: "We service, repair and fit Fujitsu heat pumps in Christchurch, Selwyn and Lyttelton, old and new. We read any saved fault code first, then test the sensors, fans, control board, wiring and gas circuit it points to. Once we've found the fault, we quote the repair."
 hero: fujitsu-hero
 gallery: [fujitsu-1, fujitsu-2]
 faqHeading: Fujitsu heat pump service questions

@@ -5,7 +5,7 @@ keyword: heat pump winter maintenance
 secondary: [heat pump winter settings, prepare heat pump for winter, heat pump winter]
 h1: Heat pump winter maintenance and settings
 serviceName: Heat pump winter preparation
-intro: "We get Christchurch heat pumps ready for winter by cleaning and checking both units. Here's how to set yours, and how to look after the outdoor unit through the frosts."
+intro: "We get Christchurch heat pumps ready for winter by cleaning and checking both units. Use heat mode rather than auto, pick a steady temperature, set the fan to auto and point the louvres down. We book visits Monday to Friday, between 8am and 5pm."
 hero: winter-hero
 gallery: [winter-defrost, winter-louvres]
 faqHeading: "Heat pump winter maintenance questions"

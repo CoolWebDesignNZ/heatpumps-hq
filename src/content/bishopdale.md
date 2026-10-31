@@ -7,7 +7,7 @@ h1: Heat pump installation in Bishopdale
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bishopdale
 suburb: Bishopdale
-intro: We install, service and repair heat pumps across Bishopdale. Most of the suburb is flat and built between the 1960s and 1980s, so we plan around older insulation and single glazing. Quotes are free.
+intro: "We install, service and repair heat pumps in Bishopdale. Most homes here are 1960s to 1980s builds on flat ground, and many have single glazing and thin ceiling insulation, so they need more capacity than their floor area suggests. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: pool-weatherboard
 gallery: [pool-weatherboard, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Bishopdale"

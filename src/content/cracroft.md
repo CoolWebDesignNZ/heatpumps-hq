@@ -7,7 +7,7 @@ h1: Heat pump installation on Cracroft's steep sections
 serviceName: Heat pump installation, servicing and repair
 areaServed: Cracroft
 suburb: Cracroft
-intro: We install heat pumps on Cracroft's steep Port Hills sections, and we plan each one around the long driveways, drainage and exposure before we quote.
+intro: "We install heat pumps on Cracroft's steep Port Hills sections. Some homes sit well above or below the road, so we walk the route from the van when we quote and pick a spot that stays easy to reach for servicing. Quotes are free."
 hero: cracroft-hero
 gallery: [pool-hill-home, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Cracroft"

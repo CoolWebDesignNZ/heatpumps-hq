@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Queenspark
 serviceName: Heat pump installation, servicing and repair
 areaServed: Queenspark
 suburb: Queenspark
-intro: We fit and repair heat pumps across Queenspark's family homes on quiet, flat streets. Tell us which rooms you want warm and we'll give you a free quote.
+intro: "We install, service and repair heat pumps in Queenspark. Most homes here are single storey, brick or weatherboard, built from the 1970s on, and older windows and insulation mean the lounge needs more capacity than in a newer house the same size. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
 hero: queenspark-hero
 gallery: [pool-console-unit, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Queenspark"

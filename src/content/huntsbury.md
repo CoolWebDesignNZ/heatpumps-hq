@@ -7,7 +7,7 @@ h1: Heat pump installation in Huntsbury, high on the hill
 serviceName: Heat pump installation, servicing and repair
 areaServed: Huntsbury
 suburb: Huntsbury
-intro: We fit, service and repair heat pumps across Huntsbury. On the hill, wind and frost decide where the outdoor unit goes and how hard it works. Quotes are free.
+intro: "We install, service and repair heat pumps in Huntsbury. On the hill, wind and frost decide where the outdoor unit goes and how hard it works, so we plan the mounting and pipe route at the quote visit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: sumner-hero
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Huntsbury"

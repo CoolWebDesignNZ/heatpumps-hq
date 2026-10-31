@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Brooklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Brooklands
 suburb: Brooklands
-intro: "We fit, service and repair heat pumps in Brooklands, the small settlement near the lagoon on the city's northern edge. The quote is free."
+intro: "We install, service and repair heat pumps in Brooklands, on Christchurch's northern edge near the lagoon and the Waimakariri mouth. The homes left after the red zone stand in open ground, so we place the outdoor unit out of the prevailing wind and lift it clear of soft, wet ground. Quotes are free."
 hero: brooklands-hero
 gallery: [pool-lifestyle, pool-coastal-home]
 faqHeading: Questions about heat pumps in Brooklands

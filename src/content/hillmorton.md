@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Hillmorton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hillmorton
 suburb: Hillmorton
-intro: We install and service heat pumps in Hillmorton, and on a sloping section we put the outdoor unit on a bracket or a cut pad with a planned path for its drain water.
+intro: "We install and service heat pumps in Hillmorton. Most homes here have a separate lounge and a hallway of closed bedrooms, so each room you want warm needs its own heat. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: hillmorton-hero
 gallery: [pool-hill-home, pool-filters]
 faqHeading: "Questions about heat pumps in Hillmorton"

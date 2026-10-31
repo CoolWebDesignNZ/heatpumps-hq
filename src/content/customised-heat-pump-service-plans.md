@@ -5,7 +5,7 @@ keyword: heat pump service plan
 secondary: [heat pump maintenance plan, annual heat pump service, heat pump maintenance contract]
 h1: A heat pump service plan set around your home
 serviceName: Heat pump service plans
-intro: "We set up service plans for Christchurch homes and rentals around the heat pumps you have. Before the first visit, we agree when each service falls."
+intro: "We set up heat pump service plans for Christchurch homes and rentals around the heat pumps you have. Before the first visit, we agree when each service falls, and there is no long contract, just an agreed schedule and a price per visit."
 hero: plans-hero
 gallery: [plans-multi-unit, plans-rental]
 faqHeading: "Heat pump service plan questions"

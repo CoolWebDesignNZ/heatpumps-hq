@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Russley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Russley
 suburb: Russley
-intro: We fit and service heat pumps in Russley's 1960s to 80s brick houses on the city's western edge, and we size each one from the rooms you want warm.
+intro: "We install, service and repair heat pumps in Russley, fitting Mitsubishi Electric, Daikin, Fujitsu and Toshiba units. Most local homes are 1960s to 1980s brick family houses with a separate bedroom wing, so one unit rarely heats the whole house well. Quotes are free."
 hero: russley-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Russley"
