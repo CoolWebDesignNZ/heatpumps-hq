@@ -13,13 +13,13 @@ gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Mount Pleasant"
 relatedHeading: "More on heat pumps near Mount Pleasant"
 faqs:
-  - q: What size heat pump does a Mount Pleasant home with big north windows need?
+  - q: What size heat pump does a home with big north windows need?
     a: We size it from the glass and the coldest part of the day, not the floor area. The sun can warm a north-facing room by lunchtime, but those windows give the heat away fast after dark. So we size for the evening and early morning. At the quote we measure each room, note how much glass faces north and check the insulation.
   - q: Where does the outdoor unit go on a steep Mount Pleasant section?
     a: Usually on a galvanised wall bracket, a deck or a small platform, with anti-vibration mounts. We keep it away from your bedroom windows and your neighbour's, and make sure defrost water can't drip onto steps or a path. We plan the spot and the pipe route at the quote visit, and any extra bracketing or access work is in the quote.
-  - q: Can a heat pump cool a sunny Mount Pleasant living room in summer?
+  - q: Can a heat pump cool a sunny living room in summer?
     a: Yes. Every split system heat pump we fit cools as well as heats. In a room with a lot of glass, the cooling load can be higher than the heating load, so we check both before we choose the unit. Upstairs bedrooms facing north often do well with a small unit of their own.
-  - q: Does a rebuilt Mount Pleasant home need a different heat pump from an older one?
+  - q: Does a rebuilt home need a different heat pump from an older one?
     a: Often, yes. Homes rebuilt or repaired since the earthquakes are usually well insulated, so one high wall unit on an inside wall can heat an open plan living area if it has the capacity to cover the glass. Older houses that haven't been upgraded lose heat through the ceiling, floor and single glazing, and their rooms are closed off, so a small unit in each room you use suits better. Insulate first and each unit can be smaller.
   - q: Which noise rules apply to a heat pump on Mount Pleasant?
     a: Mount Pleasant is in Christchurch City, so the District Plan's <a href="/heat-pump-boundary-rules-consent-nz/">boundary noise limits</a> apply to every outdoor unit. We place the unit with those limits in mind and fit anti-vibration mounts.

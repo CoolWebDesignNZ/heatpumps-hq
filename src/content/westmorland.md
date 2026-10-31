@@ -13,14 +13,16 @@ gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Westmorland heat pump questions"
 relatedHeading: "Heat pumps near Westmorland"
 faqs:
-  - q: Ducted or multi-room for a big Westmorland house?
-    a: Ducted hides everything except the vents and the outdoor unit. It suits a house with room for ducts in the ceiling or under the floor. Multi-room puts a separate indoor unit in each room, all run from one outdoor unit. It's easier to add to an existing house. The <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split guide</a> sets out the trade-offs.
-  - q: Can I control upstairs and downstairs separately?
-    a: Yes. With multi-room, each room gets its own controller. A ducted system can be split into zones with dampers. Then each level or wing heats on its own.
-  - q: Our subdivision has covenants. Do they affect a heat pump?
-    a: Some do. A covenant can have rules about outside equipment, or about what people see from the street. Check yours before we settle on a spot for the outdoor unit.
-  - q: My newer home already has a heat pump. Do I still need servicing?
-    a: Yes. Filters, coils and drains need a clean however new the unit is. A yearly <a href="/maintenance-servicing/">service</a> keeps it running the way it was built to.
+  - q: "Ducted or multi-room for a big Westmorland house?"
+    a: "Ducted hides everything except the vents and the outdoor unit, and suits a house with room for ducts in the ceiling or under the floor. Multi-room puts a separate indoor unit in each room, all run from one outdoor unit, and is easier to add to an existing house. The <a href=\"/ducted-vs-split-heat-pumps-christchurch/\">ducted vs split guide</a> sets out the trade-offs."
+  - q: "Can I control upstairs and downstairs separately?"
+    a: "Yes. With multi-room, each room gets its own controller. A ducted system can be split into zones with dampers, so each level or wing heats on its own."
+  - q: "Our subdivision has covenants. Do they affect a heat pump?"
+    a: "Some do. A covenant can have rules about outside equipment, or about what people see from the street. Check yours before we settle on a spot for the outdoor unit."
+  - q: "Where does the outdoor unit go on a terraced hillside section?"
+    a: "Usually beside the garage, on a bracket on a solid wall, or on a pad on a lower terrace. Each spot needs clear airflow, a way to drain and room for us to service it. Noise travels on a slope, so we place it with the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise limits</a> in mind."
+  - q: "My newer home already has a heat pump. Do I still need servicing?"
+    a: "Yes. Filters, coils and drains need a clean however new the unit is. A yearly <a href=\"/maintenance-servicing/\">service</a> keeps it running the way it was built to."
 related:
   - { label: Cracroft, href: /cracroft/, text: "Heat pumps for steep sections next door." }
   - { label: Hoon Hay, href: /hoon-hay/, text: "Installs for the family homes below Westmorland." }

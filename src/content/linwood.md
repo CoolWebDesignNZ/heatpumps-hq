@@ -13,14 +13,16 @@ gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Linwood"
 relatedHeading: "More on heat pumps near Linwood"
 faqs:
-  - q: Can a heat pump replace my log burner?
-    a: For lots of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot. So the heat pump has to be sized for the room, and placed where its air reaches the whole space. We measure the room and check the wall it would go on.
-  - q: How do I get heat into the bedrooms of a Linwood state house?
-    a: The lounge heat pump won't reach rooms down a hallway with the doors shut. The answer you can rely on is a small wall unit in the main bedroom, or a <a href="/multi-room-heat-pump-installation/">multi-room system</a>.
-  - q: My house was repaired after the earthquakes. Does that change anything?
-    a: Only the details. Repaired walls and new linings are fine to mount on. If the floor was relevelled or the foundations replaced, we check the underfloor access before we plan the pipe route.
-  - q: How often do the filters on a Linwood heat pump need cleaning?
-    a: Rinse them every few weeks through the heating season. It takes a few minutes and keeps the output up. For the parts behind the filters, book a deeper <a href="/heat-pump-cleaning/">heat pump clean</a>.
+  - q: "Can a heat pump replace my log burner?"
+    a: "For lots of homes, yes, as the main heater in the living room. A burner throws a lot of heat into one spot, so the heat pump has to be sized for the room and placed where its air reaches the whole space. We measure the room and check the wall it would go on."
+  - q: "How do I get heat into the bedrooms of a Linwood state house?"
+    a: "The lounge heat pump won't reach rooms down a hallway with the doors shut. The answer you can rely on is a small wall unit in the main bedroom, or a <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a>."
+  - q: "My house was repaired after the earthquakes. Does that change anything?"
+    a: "Only the details. Repaired walls and new linings are fine to mount on. If the floor was relevelled or the foundations replaced, we check the underfloor access before we plan the pipe route."
+  - q: "Where should the indoor unit go when swapping out a burner?"
+    a: "On the longest wall facing the room, so the air crosses the space rather than into a corner. Keep it clear of curtains and high cupboards, and not above the couch where the air lands on people's heads. Taking a burner out leaves a flue and hearth to deal with, which is separate building work, so plan that before the heat pump goes in in case the indoor unit or its pipes need the same wall."
+  - q: "How do you run the pipes on a brick state house or a weatherboard home?"
+    a: "On brick former state houses we drill through the brick veneer and run the pipes in a cover down the outside wall, with the outdoor unit on a concrete pad or raised feet. Weatherboard homes are just as easy, and there the pipes often run under the floor instead."
 related:
   - { label: Phillipstown, href: /phillipstown/, text: "Heat pumps for Phillipstown cottages, units and rentals." }
   - { label: Bromley, href: /bromley/, text: "Installs and servicing in neighbouring Bromley." }

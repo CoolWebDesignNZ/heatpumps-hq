@@ -13,12 +13,16 @@ gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in Sockburn"
 relatedHeading: "More on heat pumps near Sockburn"
 faqs:
-  - q: What's the cheapest way to heat a small older house in Sockburn?
-    a: Heat the rooms you use most. Put one heat pump, sized right, in the living area. Get good ceiling insulation and close the curtains at dusk. That does more than a bigger unit in a leaky room.
-  - q: My heat pump smells musty when it starts. Is that a fault?
-    a: Usually not. It's dust and mould on the filters or the indoor coil. Clean the filters first. If the smell stays, the unit needs a service clean. See <a href="/heat-pump-cleaning/">heat pump cleaning</a>.
-  - q: Can a heat pump go on a unit that shares a driveway?
-    a: Yes. The outdoor unit just has to sit where cars won't hit it. It also has to stay within the noise limits at your neighbour's site.
+  - q: "What's the best way to heat a small older house in Sockburn?"
+    a: "Heat the rooms you use most. Put one heat pump, sized right, in the living area. Get good ceiling insulation and close the curtains at dusk. That does more than a bigger unit in a leaky room."
+  - q: "My heat pump smells musty when it starts. Is that a fault?"
+    a: "Usually not. It's dust and mould on the filters or the indoor coil. Clean the filters first. If the smell stays, the unit needs a service clean. See <a href=\"/heat-pump-cleaning/\">heat pump cleaning</a>."
+  - q: "Can a heat pump go on a unit that shares a driveway?"
+    a: "Yes. The outdoor unit just has to sit where cars won't hit it. It also has to stay within the noise limits at your neighbour's site."
+  - q: "Where can the outdoor unit go on a narrow Sockburn section?"
+    a: "We find a spot with airflow, where it drains freely and won't get knocked. On back sections with a shared driveway, that often means keeping it clear of the driveway itself. The Christchurch District Plan measures noise at the neighbouring site, so we also keep it away from next door's bedrooms."
+  - q: "How does living near a busy road affect heat pump upkeep?"
+    a: "Dust settles on the outdoor coil and indoor filters faster there. A dirty coil cuts heat output and makes the unit work harder. A yearly <a href=\"/maintenance-servicing/\">service</a> keeps the coil and filters clear. In between, rinse the filters every few weeks in winter."
 related:
   - { label: Hornby, href: /heat-pumps-hornby/, text: "Heat pumps for Hornby homes." }
   - { label: Upper Riccarton, href: /upper-riccarton/, text: "Installs for Upper Riccarton rentals and units." }

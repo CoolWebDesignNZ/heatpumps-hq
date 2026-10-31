@@ -13,14 +13,16 @@ gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Strowan"
 relatedHeading: "More on heat pumps near Strowan"
 faqs:
-  - q: My Strowan house is old and draughty. Will one heat pump be enough?
-    a: It depends on the layout. A single high wall unit can carry an open plan living area if the insulation and glazing are reasonable. Bedrooms down a hallway usually need their own unit or a ducted system. We measure each room at the quote and tell you what one unit can and can't do.
-  - q: Can you put a heat pump in a house with no wall space?
-    a: Yes. A floor console sits under a window and takes up less wall than a high wall unit. A ceiling cassette fits into the ceiling itself. Both suit the villas and bungalows common in Strowan.
-  - q: Do you service heat pumps in Strowan?
-    a: Yes. A yearly <a href="/heat-pump-servicing/">service</a> cleans the filters and coil, checks the refrigerant charge and tests the outdoor unit. On older units it also catches wear before it turns into a breakdown.
-  - q: What happens if my heat pump stops working?
-    a: We take <a href="/heat-pump-repair/">repair jobs</a> in Strowan on weekdays, on every major brand. Tell us the model and the fault when you ring, and we'll bring the likely parts.
+  - q: "Will one heat pump heat my old Strowan villa?"
+    a: "It depends on the layout. A single high wall unit can carry an open plan living area if the insulation and glazing are reasonable. Bedrooms down a hallway usually need their own unit or a ducted system. We measure each room at the quote and tell you what one unit can and can't do."
+  - q: "Can you put a heat pump in a house with no wall space?"
+    a: "Yes. A floor console sits under a window and takes up less wall than a high wall unit. A ceiling cassette fits into the ceiling itself. Both suit the villas and bungalows common in Strowan."
+  - q: "How does a timber floor affect the size of heat pump I need?"
+    a: "Timber floors are cold underfoot and leak heat downwards. Underfloor insulation makes a real difference, and it can mean a smaller unit. We check what's there at the quote."
+  - q: "What happens if my heat pump stops working?"
+    a: "We take <a href=\"/heat-pump-repair/\">repair jobs</a> on weekdays, on every major brand. Tell us the model and the fault when you ring, and we'll bring the likely parts."
+  - q: "Where can the outdoor unit go on a Strowan property?"
+    a: "The suburb is flat, so access is straightforward. The main constraint is usually where the outdoor unit can sit without crowding a boundary or blocking a path. Villas often sit close to the side boundary, so placement still matters. The <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules</a> explain the noise limits."
 related:
   - { label: Merivale, href: /merivale/, text: "Heat pumps for the older homes next door." }
   - { label: St Albans, href: /st-albans/, text: "Installs and servicing in the neighbouring suburb." }

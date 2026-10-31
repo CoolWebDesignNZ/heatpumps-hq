@@ -13,16 +13,16 @@ gallery: [northwood-1, northwood-2]
 faqHeading: "Questions about heat pumps in Northwood"
 relatedHeading: "More on heat pumps near Northwood"
 faqs:
-  - q: My Northwood house already has a heat pump. Can you just replace it?
-    a: Usually, yes. If the wiring, pipework and outdoor position are sound, we can swap the unit and keep the rest. We check all of that first and tell you what can stay. See <a href="/heat-pump-replacement-christchurch/">heat pump replacement</a>.
-  - q: How often should a heat pump in Northwood be serviced?
-    a: Once a year is the usual guide. A yearly service keeps the filters and coil clean and catches small faults before they grow. Book <a href="/heat-pump-servicing/">heat pump servicing</a> before winter if you can.
-  - q: The outdoor unit is noisy. Is that normal?
-    a: Some noise is normal, but a rattle, hum or fan that sounds rough is not. It can be a loose mount, a worn fan or something caught in the casing. We look at <a href="/heat-pump-noise-problems-solutions/">heat pump noise problems</a> and sort out the cause.
-  - q: Do you repair heat pumps in Northwood?
-    a: Yes. We take on <a href="/heat-pump-repair/">repairs</a> across Northwood on every major brand. Tell us the make, model and what it is doing and we will book a visit.
-  - q: Will a heat pump suit an open plan living area?
-    a: It can, if the unit is sized for the whole space rather than one corner of it. A single high wall unit often heats an open plan living and dining area. For more than one room, a <a href="/multi-room-heat-pump-installation/">multi-room system</a> may fit better.
+  - q: "Will a heat pump suit an open plan living area?"
+    a: "It can, if the unit is sized for the whole space rather than one corner of it. A single high wall unit often heats an open plan living and dining area. For more than one room, a <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a> may fit better."
+  - q: "Where does the outdoor unit go on a Northwood section?"
+    a: "On a flat Northwood section, the outdoor unit usually goes on the ground on feet or on a wall bracket, with clear airflow around it and away from the boundary. Because sections here are close together, we check the placement against the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise rules</a>, which are measured at your neighbour's property."
+  - q: "My house already has a heat pump. Can you just replace it?"
+    a: "Usually, yes. If the wiring, pipework and outdoor position are sound, we can swap the unit and keep the rest. We check all of that first and tell you what can stay. See <a href=\"/heat-pump-replacement-christchurch/\">heat pump replacement</a>."
+  - q: "The outdoor unit is noisy. Is that normal?"
+    a: "Some noise is normal, but a rattle, hum or fan that sounds rough is not. It can be a loose mount, a worn fan or something caught in the casing. We look at <a href=\"/heat-pump-noise-problems-solutions/\">heat pump noise problems</a> and sort out the cause."
+  - q: "Does a newer, well insulated house need a smaller heat pump?"
+    a: "Yes. A newer, tight house holds its heat, so a unit that is too big will heat the room fast and then switch off, which wastes power and feels uneven. Getting the size right matters more here than adding capacity."
 related:
   - { label: Belfast, href: /belfast/, text: "Heat pumps for older and newer homes north of the city." }
   - { label: Redwood, href: /redwood/, text: "Installs, servicing and repairs in Redwood." }

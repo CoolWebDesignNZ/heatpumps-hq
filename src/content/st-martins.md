@@ -13,16 +13,16 @@ gallery: [st-martins-1, st-martins-2]
 faqHeading: "Questions about heat pumps in St Martins"
 relatedHeading: "More on heat pumps near St Martins"
 faqs:
-  - q: Which heat pump suits an older St Martins bungalow?
-    a: A high wall unit in the living area handles most of them, but older homes with single glazing and timber floors often need more capacity than the floor area suggests. We check insulation and glazing at the quote and size the unit to the room, not the plan. A <a href="/floor-mounted-heat-pumps/">floor console</a> suits a room with little free wall.
-  - q: My heat pump struggles on frosty mornings. What's wrong?
-    a: On a cold morning the outdoor unit frosts up and switches into a defrost cycle. That's normal. If it stays frozen, runs a long time without warming the room, or drips heavily, it needs a look. Cold climate models handle frost better, and we can check whether yours is one on a <a href="/heat-pump-repair/">repair visit</a>.
-  - q: How often should a St Martins heat pump be serviced?
-    a: Once a year suits most homes here. The flat streets collect dust and pollen, and a blocked filter or dirty coil costs you on every cold morning. A <a href="/heat-pump-servicing/">yearly service</a> cleans the unit and checks it before winter.
-  - q: Do you repair heat pumps in St Martins?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> across St Martins on weekdays, on every major brand. We tell you what's wrong and what it will take to sort it before any work starts.
-  - q: Can you help with a cold rental in St Martins?
-    a: We can. A heat pump that heats the main living area is one of the ways a rental can meet the healthy homes standards. You can check what your tenancy needs with the <a href="https://tools.tenancy.govt.nz/heating-tool">Tenancy Services heating tool</a>, and we can quote on <a href="/healthy-homes-heat-pumps-christchurch/">healthy homes heat pumps</a>.
+  - q: "Which heat pump suits an older St Martins bungalow?"
+    a: "A high wall unit in the living area handles most of them, but older homes with single glazing and timber floors often need more capacity than the floor area suggests. We check insulation and glazing at the quote and size the unit to the room, not the plan. A <a href=\"/floor-mounted-heat-pumps/\">floor console</a> suits a room with little free wall."
+  - q: "My heat pump struggles on frosty mornings. What's wrong?"
+    a: "On a cold morning the outdoor unit frosts up and switches into a defrost cycle. That's normal. If it stays frozen, runs a long time without warming the room, or drips heavily, it needs a look. Cold climate models handle frost better, and we can check whether yours is one on a <a href=\"/heat-pump-repair/\">repair visit</a>."
+  - q: "Where can the outdoor unit go when houses sit close together?"
+    a: "St Martins comes under Christchurch City Council, and the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise rules</a> are measured at your neighbour's property. We site units with that in mind, usually on the ground on raised feet down the side of the house or against a fence where they get airflow and stay out of the way. We also check the bracket or feet are solid for nor'westers."
+  - q: "Why do heat pumps on the flat need a yearly service?"
+    a: "A service checks the filters and coil, the refrigerant charge, the drain, the outdoor unit and the electrical connections. On the flat, dust and pollen settle on the outdoor coil and clog the indoor filter, so a yearly service is the cheapest way to keep the unit running well through winter. If you want it checked before the cold sets in, a <a href=\"/heat-pump-seasonal-tune-ups/\">seasonal tune-up</a> in autumn is a good habit."
+  - q: "Can you help with a cold rental?"
+    a: "We can. A heat pump that heats the main living area is one of the ways a rental can meet the healthy homes standards. We can quote on <a href=\"/healthy-homes-heat-pumps-christchurch/\">healthy homes heat pumps</a>."
 related:
   - { label: Beckenham, href: /beckenham/, text: "Installs and servicing on the flat and up the hill." }
   - { label: Sydenham, href: /sydenham/, text: "Heat pumps for the streets to the north." }

@@ -13,12 +13,16 @@ gallery: [pool-weatherboard, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Beckenham
 relatedHeading: Heat pumps near Beckenham
 faqs:
-  - q: Will a heat pump help with a damp house near the Heathcote River?
-    a: It helps. Heating a room warms the air. That cuts the chance of condensation on cold walls and windows. Lots of heat pumps also have a dry mode for mild, damp days. You still need ventilation, and any leaks fixed. We explain dry mode under <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
-  - q: Is it a problem if the outdoor unit is in the shade under trees?
-    a: Shade on its own is fine. The trouble is falling leaves and blossom. They clog the outdoor coil. Keep the area round the unit clear, and have the coil checked at each service.
-  - q: Can a heat pump go in a villa without spoiling its character?
-    a: Yes, if it's placed with care. We find a wall where the indoor unit sits clear of mouldings and fireplaces. We run the pipes under the floor, so nothing shows from the street.
+  - q: "Will a heat pump help with a damp house near the Heathcote River?"
+    a: "It helps. Heating a room warms the air, which cuts the chance of condensation on cold walls and windows. Lots of heat pumps also have a dry mode for mild, damp days. You still need ventilation, and any leaks fixed. We explain dry mode under <a href=\"/heat-pump-dehumidification/\">heat pump dehumidification</a>."
+  - q: "Is it a problem if the outdoor unit is in the shade under trees?"
+    a: "Shade on its own is fine. The trouble is falling leaves and blossom, which clog the outdoor coil. Keep the area round the unit clear, and have the coil checked at each service."
+  - q: "Can a heat pump go in a villa without spoiling its character?"
+    a: "Yes, if it's placed with care. We find a wall where the indoor unit sits clear of mouldings and fireplaces. We run the pipes under the floor, so nothing shows from the street."
+  - q: "How do you heat a villa with high ceilings and separate rooms?"
+    a: "Warm air rises and sits up by the ceiling, so the unit needs enough fan power to push it back down to you. Every room you use needs its own unit, or one on a <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a>. In a high-stud room, a <a href=\"/single-room-heat-pump-installation/\">floor console</a> can be the neater choice."
+  - q: "Why do Beckenham homes on the low ground by the river run colder and damper?"
+    a: "Beckenham sits on the flat between the city and the foot of the Port Hills, and homes near the river or under big trees get less winter sun. We size the system for that and set it up for steady heat. Run it at a steady, middling setting, not in short bursts, so the walls warm right through."
 related:
   - { label: Somerfield, href: /somerfield/, text: "Heat pumps for Somerfield's older family homes." }
   - { label: Cashmere, href: /cashmere/, text: "Hillside and flat homes just south in Cashmere." }

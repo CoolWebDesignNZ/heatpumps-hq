@@ -13,14 +13,16 @@ gallery: [pool-lifestyle, pool-console-unit]
 faqHeading: Questions about heat pumps in Tai Tapu
 relatedHeading: Heat pumps near Tai Tapu
 faqs:
-  - q: Do you cover rural properties near Tai Tapu?
-    a: Yes. Selwyn is part of our patch. That includes the village, the lifestyle blocks round it and the farms out toward Lincoln.
-  - q: Can a heat pump replace a log burner in a big country house?
-    a: It can, if the system is sized for the whole house. That usually means more than one indoor unit, or a ducted system. One big unit in the lounge won't do it.
-  - q: How do I stop the outdoor unit icing up in a frost hollow?
-    a: Put it up on raised feet or a stand. Then defrost water can drain, and air can move underneath. Keep it clear of long grass, snow and garden growth.
-  - q: What's the difference between ducted and wall units for a farmhouse?
-    a: Ducted heats every room through ceiling vents, from one hidden indoor unit. It needs the roof space for it. Wall units go in room by room. Our <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split guide</a> lays out the choice.
+  - q: "Can a heat pump replace a log burner in a big country house?"
+    a: "It can, if the system is sized for the whole house. That usually means more than one indoor unit, or a ducted system. One big unit in the lounge won't do it."
+  - q: "How do I stop the outdoor unit icing up in a frost hollow?"
+    a: "Put it up on raised feet or a stand. Then defrost water can drain, and air can move underneath. Keep it clear of long grass, snow and garden growth."
+  - q: "What's the difference between ducted and wall units for a farmhouse?"
+    a: "Ducted heats every room through ceiling vents, from one hidden indoor unit. It needs the roof space for it. Wall units go in room by room. Our <a href=\"/ducted-vs-split-heat-pumps-christchurch/\">ducted vs split guide</a> lays out the choice."
+  - q: "Do you cover rural properties near Tai Tapu?"
+    a: "Yes. Selwyn is part of our patch. That includes the village, the lifestyle blocks round it and the farms out toward Lincoln."
+  - q: "Does a sleepout or granny flat need its own heat pump?"
+    a: "Yes, if it sits away from the house. It's usually too far for a long pipe run from the main system. So it gets its own small indoor and outdoor unit."
 related:
   - { label: Lincoln, href: /lincoln/, text: "Heat pumps for Lincoln township and blocks." }
   - { label: Halswell, href: /halswell/, text: "Installs in Halswell's new and older homes." }

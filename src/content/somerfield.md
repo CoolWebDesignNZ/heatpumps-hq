@@ -13,12 +13,16 @@ gallery: [pool-console-unit, pool-frost-outdoor]
 faqHeading: "Somerfield heat pump questions"
 relatedHeading: "Heat pumps near Somerfield"
 faqs:
-  - q: What is a back-to-back install?
-    a: The outdoor unit goes on the outside of the same wall as the indoor unit. The pipes go straight through the wall, so you see almost nothing. It's the neatest option if the room has an outside wall in the right spot.
-  - q: Is a heat pump quiet enough for a child's bedroom?
-    a: Yes. Modern indoor units are quiet on low fan speed. Many have a quiet or night setting too. Pick a unit sized for the room, so it isn't working flat out. That keeps it quieter still.
-  - q: Can I put a heat pump in a bay window?
-    a: A floor console often fits well under a bay or a wide window sill. It blows warm air low into the room. That suits a room where windows and doors take up the wall space.
+  - q: "Why doesn't one heat pump in the hall heat the whole bungalow?"
+    a: "Rooms open off a long hall in these older homes, and a unit in the hall rarely reaches the rooms off it. The bedrooms get nothing from a lounge unit either. So we put heat in the rooms you use, with a high wall unit or floor console in the lounge and small units in the bedrooms that need them."
+  - q: "How do you keep pipes from spoiling the front of an older home?"
+    a: "A back-to-back install puts the outdoor unit right behind the indoor unit on the same wall, so no pipe runs across the outside. On bungalows on piles we can run pipes under the floor and bring them up behind the indoor unit. Where some pipe has to show, we fit covers in a colour close to the wall."
+  - q: "Where does the outdoor unit go in Somerfield's winter frosts?"
+    a: "Somerfield gets its share of winter frosts, so the outdoor unit has to sit up off the ground. We use feet or a bracket so defrost water drains and can't freeze around the base. We don't sit it straight on a garden bed."
+  - q: "What indoor unit suits a room with little wall space?"
+    a: "A floor console often fits under a bay window or in a sunroom where windows and doors take up the wall. It blows warm air low into the room. High wall units are still the usual choice for most rooms."
+  - q: "What suits a home with a lounge, a sunroom and several bedrooms?"
+    a: "That needs heat in several rooms at once, so a multi-room system on one outdoor unit suits it. It saves a row of outdoor units along the wall. For bedrooms we pick small, quiet units and place them so the air doesn't blow across the bed."
 related:
   - { label: Beckenham, href: /beckenham/, text: "Heat pumps for Beckenham's villas and river streets." }
   - { label: Spreydon, href: /spreydon/, text: "Installs and servicing next door in Spreydon." }

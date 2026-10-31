@@ -13,16 +13,16 @@ gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pump installation in Islington"
 relatedHeading: "More on heat pumps near Islington"
 faqs:
-  - q: How big a heat pump does an Islington house need?
-    a: It depends on the room, the insulation and the glazing, not the floor area alone. Older weatherboard homes with timber floors and single glazing need more capacity than a newer build of the same size. We work it out at the quote visit with a <a href="/heat-pump-sizing/">room by room heat load check</a>.
-  - q: My Islington house is cold on frosty mornings. Will a heat pump cope?
-    a: Yes. Christchurch gets hard frosts, and a standard heat pump handles them. If your place sits in a cold pocket, a <a href="/cold-climate-heat-pumps/">cold climate model</a> keeps its output at lower outdoor temperatures.
-  - q: Can you repair a heat pump in Islington?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> across Islington on weekdays, on the major brands. If the unit has stopped altogether, see <a href="/emergency-heat-pump-repair/">emergency repair</a>.
-  - q: How often should a heat pump be serviced?
-    a: Once a year suits most homes. A yearly <a href="/heat-pump-servicing/">service</a> checks the filters, coil and drain, and catches wear before it turns into a breakdown.
-  - q: Do you install in rented Islington houses?
-    a: Yes. We install in rentals and can work to the Healthy Homes heating standard. See <a href="/healthy-homes-heat-pumps-christchurch/">Healthy Homes heat pumps</a> for what the rules ask for.
+  - q: "How big a heat pump does an older weatherboard home need?"
+    a: "It depends on the room, the insulation and the glazing, not the floor area alone. Older weatherboard homes with timber floors and single glazing need more capacity than a newer build of the same size. We work it out at the quote visit with a room by room heat load check."
+  - q: "My house is cold on frosty mornings. Will a heat pump cope?"
+    a: "Yes. Christchurch gets hard frosts, and a standard heat pump handles them. If your place sits in a cold pocket, a cold climate model keeps its output at lower outdoor temperatures."
+  - q: "Where can the outdoor unit go when sections are close together in Islington?"
+    a: "The flat ground makes placement easier, but sections are often close together, so clear airflow and the boundary noise rules matter. We place the unit with those limits in mind and make sure the pipe run doesn't cross a doorway or a deck you use."
+  - q: "Is a yearly service worth it before winter?"
+    a: "It checks the filters, the indoor coil, the outdoor coil and the condensate drain. It also picks up wear, like a drain that's starting to block, before it turns into a breakdown in July."
+  - q: "What heating does a rental in Islington need to meet the Healthy Homes standard?"
+    a: "The Healthy Homes standards set a minimum for heating in the main living room. We install to that standard and can tell you what a room needs to meet it. The tenancy heating tool can help you check a room yourself."
 related:
   - { label: Hornby, href: /heat-pumps-hornby/, text: "Heat pumps for the homes and businesses around Hornby." }
   - { label: Riccarton, href: /heat-pumps-riccarton/, text: "Installs and servicing for the streets around Riccarton." }

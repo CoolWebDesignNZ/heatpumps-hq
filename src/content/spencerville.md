@@ -13,12 +13,16 @@ gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Spencerville heat pump questions"
 relatedHeading: "Heat pumps close to Spencerville"
 faqs:
-  - q: Is Spencerville inside your service area?
-    a: Yes. Spencerville is part of Christchurch, and we cover it. We also cover nearby Brooklands and Marshland.
-  - q: How far can the outdoor unit be from the indoor unit?
-    a: The maker sets a maximum pipe length for every model. On a big house we plan the route to stay well inside it. Shorter runs work more efficiently. They're easier to service too.
-  - q: Can one outdoor unit heat a whole lifestyle home?
-    a: A multi-room system can run several indoor units off one outdoor unit, up to its capacity. In a big home, two separate systems sometimes cover it better. We'll show you both on the quote.
+  - q: "How do you heat a Spencerville home that has been added onto over the years?"
+    a: "We measure each room and size each unit as its own space. Extensions often have different insulation and windows from the original house, and some sit at the end of a hallway the lounge heat never reaches. So each may need its own unit, and we'll ask which rooms you heat every day and which only now and then."
+  - q: "How do you set up an outdoor unit for heavy frosts?"
+    a: "We put it on raised feet or a bracket so defrost water drains away and doesn't freeze around the base. We keep it clear of hedges and stored gear on all sides, and put gravel or a concrete pad underneath to stop grass growing into the base."
+  - q: "Can one outdoor unit heat a whole lifestyle home?"
+    a: "A multi-room system can run several indoor units off one outdoor unit, up to its capacity. In a big home, two separate systems sometimes cover it better. We'll show you both on the quote."
+  - q: "Does a sleepout or converted garage need its own heat pump?"
+    a: "On lifestyle properties these usually need their own heating. A sleepout away from the house usually needs a separate small system. We look at each building when we come to quote and price each one separately, so you can choose what to do now and what to leave till later."
+  - q: "Why does a rural property need an annual service?"
+    a: "Units on rural properties pick up dust, pollen and grass seed, and plants can grow in and choke the outdoor coil. A service once a year clears all that. We also check the drain and how the unit's running."
 related:
   - { label: Brooklands, href: /brooklands/, text: "Heat pumps for Brooklands homes." }
   - { label: Marshland, href: /marshland/, text: "Semi-rural and new homes in Marshland." }

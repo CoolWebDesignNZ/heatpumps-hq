@@ -13,12 +13,16 @@ gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Edgeware"
 relatedHeading: "More on heat pumps near Edgeware"
 faqs:
-  - q: Will one heat pump warm a whole Edgeware villa?
-    a: Rarely. A villa's rooms open off a long central hallway, and the doors close. So one unit in the lounge heats the lounge. Bedrooms at the far end of the hall usually need their own small units, or a multi-room system.
-  - q: Should I insulate before I put a heat pump in an old cottage?
-    a: If the ceiling or underfloor has little or no insulation, sort that first or at the same time. It pays off. An uninsulated room needs a bigger heat pump than the same room once it's insulated.
-  - q: My townhouse shares a side path with the neighbours. Where can the outdoor unit go?
-    a: Often on a wall bracket above head height. Or round the back, away from the shared path and any bedroom windows next door. Noise is judged at the neighbour's place, under the <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules for heat pumps</a>.
+  - q: "Will one heat pump warm a whole Edgeware villa?"
+    a: "Rarely. A villa's rooms open off a long central hallway, and the doors close. So one unit in the lounge heats the lounge. Bedrooms at the far end of the hall usually need their own small units, or a multi-room system."
+  - q: "Should I insulate before I put a heat pump in an old cottage?"
+    a: "If the ceiling or underfloor has little or no insulation, sort that first or at the same time. It pays off. An uninsulated room needs a bigger heat pump than the same room once it's insulated."
+  - q: "My townhouse shares a side path with the neighbours. Where can the outdoor unit go?"
+    a: "Often on a wall bracket above head height. Or round the back, away from the shared path and any bedroom windows next door. Noise is judged at the neighbour's place, under the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules for heat pumps</a>."
+  - q: "How do you heat a high-stud lounge without the warm air just rising to the ceiling?"
+    a: "We place the indoor unit to push air down and across the room, not at a ceiling rose or into a hallway. A floor console under a window is another option for high-stud lounges with lots of glass and doors. Fixing draughts with weather strips on doors and sashes also helps."
+  - q: "Can you run the pipes under the floor in an old cottage?"
+    a: "In an old cottage, the pipes can usually run under the floor. That keeps them off the front of the house."
 related:
   - { label: St Albans, href: /st-albans/, text: "Heat pumps for the character homes next door in St Albans." }
   - { label: Central City, href: /central-business-district-cbd/, text: "Apartments and townhouses inside the avenues." }

@@ -13,14 +13,16 @@ gallery: [pool-hill-home, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Kennedys Bush"
 relatedHeading: "More on heat pumps near Kennedys Bush"
 faqs:
-  - q: Does a hillside home need a bigger heat pump?
-    a: Not just because it's on a hill. But wind and big windows facing the view both add to heat loss. We size from your actual rooms and glass, not a rule of thumb. Our <a href="/heat-pump-sizing/">sizing guide</a> shows what goes into the sum.
-  - q: Can the outdoor unit go under the deck?
-    a: Sometimes. There has to be enough height and open space for air to move. The defrost water also needs somewhere to drain. Boxed in under a low deck, the unit has to work harder.
-  - q: Is Kennedys Bush in Christchurch City?
-    a: Yes. So the Christchurch District Plan noise limits apply, measured at your neighbour's property.
-  - q: Do you service heat pumps up on the hill?
-    a: Yes. We work 8am to 5pm on weekdays, and we service every major brand.
+  - q: "Does a hillside home need a bigger heat pump?"
+    a: "Not just because it's on a hill. Wind and big windows facing the view both add to heat loss, so we size from your actual rooms and glass, not a rule of thumb. Our <a href=\"/heat-pump-sizing/\">sizing guide</a> shows what goes into the sum."
+  - q: "Where can the outdoor unit go on a sloping section?"
+    a: "A sloping section rarely has a flat patch by the house, so it usually ends up on a wall bracket, on the deck or under it. Each spot needs its own drain path, and we plan the pipe route and drain line at the quote. Under a low deck there has to be enough height and open space for air to move."
+  - q: "How do we heat a two storey or split level home?"
+    a: "Living areas are often upstairs for the view, with bedrooms below, and heat rises, so an upstairs unit can leave the lower floor cool. You can have a unit on each level, a <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a>, or a ducted system if the roof space allows."
+  - q: "Which noise rules apply to a heat pump in Kennedys Bush?"
+    a: "Kennedys Bush is in Christchurch City, so the District Plan noise limits apply, measured at your neighbour's property. Sound carries on a hillside, so we keep the outdoor unit away from your neighbour's deck and bedroom windows. Our <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules guide</a> covers them."
+  - q: "What happens to the outdoor unit on frosty mornings?"
+    a: "It runs its defrost cycle often, so it needs to sit on a bracket or raised feet so the melt water can drain away. That's why the spot and its drain path matter as much as the unit itself."
 related:
   - { label: Halswell, href: /halswell/, text: "Heat pumps for Halswell homes below the hill." }
   - { label: Aidanfield, href: /aidanfield/, text: "Installs and servicing in Aidanfield." }

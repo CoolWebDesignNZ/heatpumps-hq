@@ -13,16 +13,16 @@ gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Hillsborough"
 relatedHeading: "More on heat pumps near Hillsborough"
 faqs:
-  - q: How do you work out the right size unit for a Hillsborough house?
-    a: We measure the rooms, look at the insulation, glazing and how open the living area is, then match the capacity to that. A hill home with big windows and little insulation needs more than its floor area suggests. <a href="/heat-pump-sizing/">Heat pump sizing</a> sets out what we check.
-  - q: Where does the outdoor unit go on a sloping section?
-    a: Usually on a wall bracket or a deck, clear of the ground and out of the prevailing wind. On a steep site it has to sit where it still gets airflow and where the pipes can run to the indoor unit without a long, awkward route. We plan that at the quote visit.
-  - q: Can a heat pump help with condensation in an older Hillsborough home?
-    a: Yes. Keeping the main rooms at a steady warmth cuts condensation on cold windows and walls. On muggy days, dry mode pulls moisture out of the air. You still need ventilation and insulation as well as <a href="/heat-pump-dehumidification/">dehumidification</a>.
-  - q: Do you repair heat pumps in Hillsborough?
-    a: We do. We take <a href="/heat-pump-repair/">repair jobs</a> across Hillsborough on weekdays, on the major brands. If the unit has stopped and you need it looked at quickly, see <a href="/emergency-heat-pump-repair/">emergency repair</a>.
-  - q: How often should a heat pump be serviced?
-    a: Once a year is the usual guide, and it matters more in a home that runs the unit hard through winter. A yearly <a href="/heat-pump-servicing/">service</a> checks the filters, coil and drainage and catches wear before it turns into a breakdown.
+  - q: "How do you size a heat pump for an older hillside home?"
+    a: "We measure the rooms and look at the insulation, glazing and how open the living area is. Older hillside homes with timber floors and single glazing lose heat faster than their floor area suggests, so we size for the cold end of the year. That often means a slightly larger unit than the floor area alone would suggest."
+  - q: "Where does the outdoor unit go on a sloping section?"
+    a: "Usually on a wall bracket or a deck, clear of the ground and out of the prevailing wind. On a steep site it has to sit where it still gets airflow and where the pipes can run to the indoor unit without a long, awkward route. We plan that at the quote visit."
+  - q: "Can a heat pump help with condensation in an older home?"
+    a: "Yes. Keeping the main rooms at a steady warmth cuts condensation on cold windows and walls. On muggy days, dry mode pulls moisture out of the air. You still need ventilation and insulation as well as <a href=\"/heat-pump-dehumidification/\">dehumidification</a>."
+  - q: "What noise rules apply to a heat pump in Hillsborough?"
+    a: "Hillsborough comes under Christchurch City Council, so the District Plan's <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise rules</a> apply. On the hills houses can sit close together, and the limits are measured at your neighbour's property, so placement of the outdoor unit matters."
+  - q: "Why does frost in the valley affect which heat pump you choose?"
+    a: "The valley floor gets frost on clear winter nights, and the easterly can push damp air up against the hills. A heat pump sized for a mild day will struggle on the coldest mornings. That is why we size for the cold end of the year, not the average."
 related:
   - { label: Huntsbury, href: /huntsbury/, text: "Heat pumps for homes on the hill slopes." }
   - { label: Opawa, href: /opawa/, text: "Installs and servicing in the valley beside the river." }

@@ -13,14 +13,16 @@ gallery: [pool-frost-outdoor, pool-bedroom-unit]
 faqHeading: "Shirley heat pump questions"
 relatedHeading: Heat pumps near Shirley
 faqs:
-  - q: Can a heat pump help with a damp Shirley house?
-    a: It can help. Keeping rooms at a steady temperature cuts condensation. Most units also have a dry mode that pulls moisture out of the air. It won't fix a leak or rising damp, so get those sorted first. See <a href="/heat-pump-dehumidification/">heat pump dehumidification</a>.
-  - q: Should I leave the heat pump on all day?
-    a: In a cold house, a steady, moderate setting is often more comfortable. Switching it off means heating from cold again. A timer that warms the house before you wake or get home works well.
-  - q: How long does a heat pump service take?
-    a: It depends on the unit and how much cleaning it needs. We'll tell you when we book.
-  - q: Is a heat pump suitable for a bedroom?
-    a: Yes. Small wall units are made for bedrooms. They run quietly on low speed overnight. A warm, dry bedroom is easier to keep free of mould.
+  - q: "Can a heat pump help with a damp Shirley house?"
+    a: "It can help. Keeping rooms at a steady temperature cuts condensation, and most units have a dry mode that pulls moisture out of the air. It won't fix a leak or rising damp, so get those sorted first. See <a href=\"/heat-pump-dehumidification/\">heat pump dehumidification</a>."
+  - q: "Should I leave the heat pump on all day?"
+    a: "In a cold house, a steady, moderate setting is often more comfortable. Switching it off means heating from cold again. A timer that warms the house before you wake or get home works well."
+  - q: "Water runs down my windows on winter mornings. What else helps besides the heat pump?"
+    a: "Cut the moisture going into the air. Run the extractor fans in the bathroom and over the stove, dry washing outside or in a vented dryer, and open the windows for a bit on dry days. Then the heat pump keeps the house warm and the windows clearer."
+  - q: "Is a heat pump suitable for a bedroom?"
+    a: "Yes. Small wall units are made for bedrooms. They run quietly on low speed overnight. A warm, dry bedroom is easier to keep free of mould."
+  - q: "Why does a Shirley lounge need a bigger heat pump than a similar room elsewhere?"
+    a: "Many Shirley homes are mid-century weatherboard or brick with little or no ceiling insulation, so the lounge unit needs more capacity. Top up the insulation and a smaller unit will do. Timber floors also let cold air up from underneath, so underfloor insulation matters as much as the heat pump."
 related:
   - { label: Mairehau, href: /mairehau/, text: "Heat pumps for Mairehau homes." }
   - { label: Dallington, href: /dallington/, text: "Installation and servicing in Dallington." }

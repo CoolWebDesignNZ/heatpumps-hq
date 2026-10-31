@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "New Brighton Central heat pump questions"
 relatedHeading: "Heat pumps near New Brighton Central"
 faqs:
-  - q: Can I put a heat pump in a unit or flat in New Brighton Central?
-    a: Usually, yes. Check with your body corporate or landlord first. The outdoor unit and pipes often go on a shared wall. We can give you the details they need to approve it.
-  - q: What size heat pump does a small New Brighton flat need?
-    a: For the living area of a one or two bedroom flat, a small high wall unit is often enough. We work it out from the room size, windows and insulation. We also look at whether you've got neighbours on either side.
-  - q: Where does the outdoor unit go when there's almost no yard?
-    a: On a wall bracket, a balcony or a small pad beside the building. It needs to be kept clear for airflow. On tight sites, noise at the neighbour's place matters most. See our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
-  - q: If I rent out a flat near the town centre, does it need a heat pump?
-    a: Under the Healthy Homes heating standard, a rental must have fixed heating that can heat the main living room. A heat pump is one of the accepted options.
+  - q: "Can I put a heat pump in a unit or flat in New Brighton Central?"
+    a: "Usually, yes. Check with your body corporate or landlord first. The outdoor unit and pipes often go on a shared wall. We can give you the details they need to approve it."
+  - q: "What size heat pump does a small flat need?"
+    a: "For the living area of a one or two bedroom flat, a small high wall unit is often enough. We work it out from the room size, windows and insulation. We also look at whether you've got neighbours on either side."
+  - q: "Where does the outdoor unit go when there's almost no yard?"
+    a: "On a wall bracket, a balcony or a small pad beside the building. It needs to be kept clear for airflow. On tight sites, noise at the neighbour's place matters most. See our <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules guide</a>."
+  - q: "If I rent out a flat near the town centre, does it need a heat pump?"
+    a: "Under the Healthy Homes heating standard, a rental must have fixed heating that can heat the main living room. A heat pump is one of the accepted options."
+  - q: "How does living near the beach affect a heat pump?"
+    a: "Salt still reaches the outdoor unit. Rinse it every few months and book a service once a year. That keeps it running well."
 related:
   - { label: New Brighton, href: /new-brighton/, text: "Heat pumps for older New Brighton cottages." }
   - { label: North New Brighton, href: /north-new-brighton/, text: "Installation for beachfront homes." }

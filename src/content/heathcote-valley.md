@@ -13,14 +13,16 @@ gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"
 relatedHeading: "More on heat pumps near Heathcote Valley"
 faqs:
-  - q: Can the outdoor unit go on a deck instead of the ground?
-    a: Often, yes. On a sloping section, a deck or a wall bracket can be the only level spot. We check the framing can take the weight. We fit anti-vibration mounts. And we make sure the defrost water drains away, not into a puddle on the boards.
-  - q: Will one heat pump be enough for a house on the shady side of the valley?
-    a: Only if the house holds its heat well. A well insulated home with an open living area may need just one unit. An older house with little winter sun usually needs more capacity, or a second unit for the bedrooms. Getting the <a href="/heat-pump-sizing/">heat pump size</a> right tells you which.
-  - q: Which council's rules apply in Heathcote Valley?
-    a: Christchurch City Council's, through its District Plan. The plan handles heat pumps by limiting the <a href="/heat-pump-boundary-rules-consent-nz/">sound reaching next door</a>.
-  - q: Do you service heat pumps you didn't install?
-    a: Yes. Whoever fitted it, we can service or repair a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Panasonic unit. The same goes for most other makes in the valley.
+  - q: "Will one heat pump be enough for a house on the shady side of Heathcote Valley?"
+    a: "Only if the house holds its heat well. A well insulated home with an open living area may need just one unit. An older house with little winter sun usually needs more capacity, or a second unit for the bedrooms. Getting the heat pump size right tells you which."
+  - q: "Where does the outdoor unit go on a sloping section?"
+    a: "Often on a wall bracket or a deck, since a steep driveway or retaining wall can leave no level ground. We check the structure can take the weight and fit anti-vibration mounts so vibration won't travel through the floor into a bedroom. We also make sure the defrost water drains away."
+  - q: "Which council's rules apply to a heat pump here?"
+    a: "Christchurch City Council's, through its District Plan. The plan handles heat pumps by limiting the sound reaching next door."
+  - q: "How do you plan the pipe route on a split-level house?"
+    a: "The refrigerant pipes, cable and drain line all have to get from the indoor unit to the outdoor one, which can mean going under a floor, through a garage or along a retaining wall. The drain line also needs a steady fall to a drain or the garden. We plan the route at the quote visit so the quote covers the whole job."
+  - q: "Does a rebuilt home need a different heat pump from an older one?"
+    a: "Often, yes. Hillside homes rebuilt or heavily repaired after the earthquakes hold heat far better than the houses they replaced, so one unit in the living area can often do the job, with a small second unit if the bedrooms are on another level. Older houses, mainly on the shady side, lose more heat and get little sun to make up for it, so the living area needs more capacity and the bedrooms usually need their own heat or a multi-room system."
 related:
   - { label: Ferrymead, href: /ferrymead/, text: "Heat pumps for townhouses and homes by the estuary." }
   - { label: Lyttelton, href: /lyttelton/, text: "Installs in older cottages on steep harbour sections." }

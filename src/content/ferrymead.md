@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Ferrymead"
 relatedHeading: "More on heat pumps near Ferrymead"
 faqs:
-  - q: Can I install a heat pump in a unit-titled townhouse?
-    a: Usually. Check your body corporate rules first. Many need approval for anything fixed to an outside wall or shared area. We can give you the unit size, position and pipe route to put in your request.
-  - q: Where does the outdoor unit go when there's only a small courtyard?
-    a: High on the wall on a bracket, or low against the house on feet. Either way, we leave space for airflow. We steer clear of spots right outside your bedroom or a neighbour's.
-  - q: Is one heat pump enough for a two-storey townhouse?
-    a: Often not. Heat rises, so a unit downstairs tends to leave the bedrooms cooler and the stairwell warm. Lots of townhouses do better with a small unit upstairs as well. With <a href="/multi-room-heat-pump-installation/">multi-room installation</a>, both share one outdoor unit.
-  - q: Do you service heat pumps in Ferrymead?
-    a: Yes, all the major brands. A yearly service cleans the filters and both coils and clears the drain. That way the unit keeps its heating output.
+  - q: "Where can the outdoor unit go when there's only a small courtyard?"
+    a: "High on the wall on a bracket, or low against the house on feet, with clear space around it for air to flow. We keep it away from spots right outside your bedroom or a neighbour's. On a balcony, the defrost water needs somewhere to go rather than dripping onto the unit below."
+  - q: "Is one heat pump enough for a two-storey townhouse?"
+    a: "Often not. Heat rises, so a unit downstairs tends to leave the bedrooms cooler and the stairwell warm, and closed bedroom doors keep the warmth out. Lots of townhouses do better with a small unit upstairs as well, and with <a href=\"/multi-room-heat-pump-installation/\">multi-room installation</a> both share one outdoor unit."
+  - q: "Can I install a heat pump in a unit-titled townhouse in Ferrymead?"
+    a: "Usually, but check your body corporate rules first. Many need approval for anything fixed to an outside wall or shared area. We can give you the unit size, position and pipe route to put in your request."
+  - q: "How do you deal with noise and drainage on low ground near the estuary?"
+    a: "In Christchurch, heat pump noise is measured at the neighbouring site, so we never aim a unit at a neighbour's bedroom window. Low sections near the water can collect surface water in heavy rain, so we keep the outdoor unit up on feet or a stand rather than sitting on the ground."
+  - q: "What suits an older standalone home better than one large unit?"
+    a: "Older homes lose more heat through the ceiling, the floor and older windows, and the rooms are usually closed off from each other. A lounge unit plus a smaller one in the main bedroom works better, or a <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a> with a unit in each room you use. We check the insulation before sizing, and topping it up can let each unit be smaller."
 related:
   - { label: Heathcote Valley, href: /heathcote-valley/, text: "Heat pumps on the valley floor and slopes." }
   - { label: Mount Pleasant, href: /mount-pleasant/, text: "Installs for sunny hillside homes." }

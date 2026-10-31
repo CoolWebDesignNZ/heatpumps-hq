@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Northcote"
 relatedHeading: "More on heat pumps near Northcote"
 faqs:
-  - q: What size heat pump does a one bedroom Northcote unit need?
-    a: A small unit is usually plenty for the living area of a compact flat. A unit that's too big keeps switching on and off, and that wastes power. So we size it from the room, its windows and its insulation. Our <a href="/heat-pump-sizing/">sizing guide</a> explains how.
-  - q: Can several units on one site each have a heat pump?
-    a: Yes. Each home gets its own outdoor unit. These usually go on wall brackets along a side wall. We space them so the air can move, and keep them away from the neighbours' bedroom windows.
-  - q: Is a floor console a good option in a small room?
-    a: It can be. A console sits low under a window. It suits a room with no good high wall for a split unit. It also suits you if you'd rather feel the warmth down at floor level.
-  - q: Do you service heat pumps in rental properties?
-    a: Yes. We service and repair heat pumps for owners and property managers all over Northcote. The owner or manager sorts out access.
+  - q: "What size heat pump does a one bedroom Northcote unit need?"
+    a: "A small unit is usually plenty for the living area of a compact flat. A unit that's too big keeps switching on and off, and that wastes power. So we size it from the room, its windows and its insulation. Our <a href=\"/heat-pump-sizing/\">sizing guide</a> explains how."
+  - q: "Can several units on one site each have a heat pump?"
+    a: "Yes. Each home gets its own outdoor unit. These usually go on wall brackets along a side wall. We space them so the air can move, and keep them away from the neighbours' bedroom windows."
+  - q: "Is a floor console a good option in a small room?"
+    a: "It can be. A console sits low under a window. It suits a room with no good high wall for a split unit. It also suits you if you'd rather feel the warmth down at floor level."
+  - q: "How do noise rules affect where an outdoor unit goes in Northcote?"
+    a: "Northcote is in Christchurch City, so the District Plan's <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise limits</a> apply. The plan doesn't set a distance from the boundary; it limits the noise at the neighbour's place. We plan the unit's position with those limits in mind."
+  - q: "Where can the indoor unit go in a flat with only one outside wall?"
+    a: "The pipes need a short, direct path to the outdoor unit, so that one outside wall usually decides it. If the only free wall is under a window, a <a href=\"/single-room-heat-pump-installation/\">floor console</a> is a tidy fix. We check the pipe route at the quote."
 related:
   - { label: Papanui, href: /heat-pumps-papanui/, text: "Heat pumps for Papanui homes." }
   - { label: Redwood, href: /redwood/, text: "Installation and servicing in Redwood." }

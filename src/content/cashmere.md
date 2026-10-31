@@ -13,14 +13,16 @@ gallery: [pool-hill-home, pool-ducted-vent]
 faqHeading: "Cashmere heat pump questions"
 relatedHeading: "Heat pumps near Cashmere"
 faqs:
-  - q: Can the outdoor unit go on a deck or a retaining wall?
-    a: Often, yes. A galvanised wall bracket works. So do feet on a deck with good structure underneath. The unit needs clear air and a way to drain defrost water. We also need to reach it safely for servicing.
-  - q: Is ducted heating a good fit for a large Cashmere home?
-    a: It can be, if there's enough ceiling or underfloor space for the ducts. A house on several levels sometimes suits zoned ducting. Each level then has its own control. More on <a href="/ducted-heat-pumps-christchurch/">ducted heat pumps</a>.
-  - q: Do big view windows change the size of heat pump I need?
-    a: Yes. Big areas of glass lose more heat in winter and gain more in summer. A room with a wall of windows needs more capacity than the same room with a small window. We measure the glazing every time we size an install.
-  - q: Do hill homes need anything different at a service?
-    a: Exposed units pick up more grit and wind-blown rubbish. Brackets need checking for rust and movement. We cover both at each <a href="/maintenance-servicing/">service</a>.
+  - q: "Where does the outdoor unit go on a steep Cashmere hillside section?"
+    a: "Often there's no level ground beside the house, so we fit a galvanised wall bracket or a sound deck. We also check pipe length and height limits, and how we'll reach the unit for servicing later. A sheltered wall with clear airflow is better in exposed spots."
+  - q: "Do big view windows change the size of heat pump I need?"
+    a: "Yes. Big areas of glass lose more heat in winter and gain more in summer. A room with a wall of windows needs more capacity than the same room with a small window. We measure the glazing every time we size an install."
+  - q: "Is ducted heating a good fit for a large home on several levels?"
+    a: "It can be, if there's enough ceiling or underfloor space for the ducts. A house on several levels sometimes suits zoned ducting, with each level on its own control. More on <a href=\"/ducted-heat-pumps-christchurch/\">ducted heat pumps</a>."
+  - q: "Do hill homes need anything different at a service?"
+    a: "Exposed units pick up more grit and wind-blown rubbish. Brackets need checking for rust and movement. We cover both at each <a href=\"/maintenance-servicing/\">service</a>."
+  - q: "How does noise from a heat pump affect neighbours on a Cashmere slope?"
+    a: "Sound carries differently on a hillside. An outdoor unit below a neighbour's deck can bother them more than you'd think. We check what's above and below before we pick a spot. The rules are in our <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary guide</a>."
 related:
   - { label: Cracroft, href: /cracroft/, text: "Heat pumps for steep sections higher on the hill." }
   - { label: Westmorland, href: /westmorland/, text: "Newer hillside homes to the west." }

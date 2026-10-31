@@ -13,16 +13,16 @@ gallery: [pool-weatherboard, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Bishopdale"
 relatedHeading: "More on heat pumps near Bishopdale"
 faqs:
-  - q: How big a heat pump does a 1970s Bishopdale house need?
-    a: Bigger than the floor area suggests. Houses of that era often have single glazing and thin ceiling insulation, so heat leaks out faster than in a newer build. We work it out room by room at the quote rather than guessing, using <a href="/heat-pump-sizing/">proper sizing</a>.
-  - q: Can you replace an old unit that came with the house?
-    a: Yes. Many Bishopdale homes still run the heat pump that was fitted years ago. We check whether the wiring and the outdoor position will take a newer, more efficient unit, then swap it over. See <a href="/heat-pump-replacement-christchurch/">heat pump replacement</a>.
-  - q: Do Bishopdale houses get frost in winter?
-    a: They can. Bishopdale sits on the flat north of the city, away from the coast, so winter mornings are colder than the seaside suburbs and frost is common. Modern heat pumps handle frost with a defrost cycle. If yours ices up and stays iced, that's a fault worth a <a href="/heat-pump-repair/">repair visit</a>.
-  - q: How often should a heat pump be serviced?
-    a: Once a year is the usual guide. A yearly <a href="/heat-pump-servicing/">service</a> cleans the filters and coil and checks the refrigerant and electrics, which keeps it running efficiently through a cold Bishopdale winter.
-  - q: Do you repair heat pumps in Bishopdale?
-    a: Yes, on every major brand. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and we take <a href="/heat-pump-repair/">repair jobs</a> on those and other brands across the suburb.
+  - q: "How big a heat pump does a 1970s Bishopdale house need?"
+    a: "Bigger than the floor area suggests. Houses of that era often have single glazing and thin ceiling insulation, so heat leaks out faster than in a newer build. We work it out room by room at the quote rather than guessing, using <a href=\"/heat-pump-sizing/\">proper sizing</a>."
+  - q: "Can you replace an old unit that came with the house?"
+    a: "Yes. Many homes here still run the heat pump that was fitted years ago. We check whether the wiring and the outdoor position will take a newer, more efficient unit, then swap it over. See <a href=\"/heat-pump-replacement-christchurch/\">heat pump replacement</a>."
+  - q: "Do houses here get frost in winter?"
+    a: "They can. Bishopdale sits on the flat north of the city, away from the coast, so winter mornings are colder than the seaside suburbs and frost is common. Modern heat pumps handle frost with a defrost cycle. If yours ices up and stays iced, that's a fault worth a <a href=\"/heat-pump-repair/\">repair visit</a>."
+  - q: "Where does the outdoor unit go when the side yard is narrow?"
+    a: "Sections here are generous, but side yards can be narrow and neighbours are close. We place the unit with clear airflow and keep it within the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise rules</a>, which are measured at your neighbour's property. We plan the spot at the quote."
+  - q: "Is a yearly service worth it when the heat pump runs all winter?"
+    a: "It cleans the filters and coil, checks the refrigerant charge and the electrics, and catches small problems before they turn into a breakdown in July. A heat pump that runs all winter here works hard, so a yearly <a href=\"/heat-pump-servicing/\">service</a> keeps it running at the efficiency it was bought for."
 related:
   - { label: Papanui, href: /heat-pumps-papanui/, text: "Heat pumps for the older homes next door." }
   - { label: Casebrook, href: /casebrook/, text: "Installs and servicing to the north." }

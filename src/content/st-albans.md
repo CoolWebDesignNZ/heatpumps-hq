@@ -13,12 +13,16 @@ gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in St Albans"
 relatedHeading: "Heat pumps near St Albans"
 faqs:
-  - q: How do you hide a heat pump in a character villa?
-    a: The indoor unit can go above a door or on an inside wall, away from the room's features. A floor console can sit low under a sash window. Outside, we run the pipes in neat covers along a side or back wall. Where we can, we keep them out of sight from the street.
-  - q: Why does my villa still feel cold with a heat pump?
-    a: Usually the unit is too small for a high-stud room. Or warm air is getting out through gaps around windows, doors and floorboards. Stopping draughts and adding underfloor insulation often helps more than a bigger unit.
-  - q: Can a townhouse outdoor unit go on a balcony?
-    a: Sometimes. It needs room for airflow and a way to drain defrost water. A wall bracket is often better. What counts is the noise at the neighbour's place, as our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> explains.
+  - q: "How do you hide a heat pump in a character villa?"
+    a: "The indoor unit can go above a door or on an inside wall, away from the room's features. A floor console can sit low under a sash window. Outside, we run the pipes in neat covers along a side or back wall. Where we can, we keep them out of sight from the street."
+  - q: "Why does my villa still feel cold with a heat pump?"
+    a: "Usually the unit is too small for a high-stud room. Or warm air is getting out through gaps around windows, doors and floorboards. Stopping draughts and adding underfloor insulation often helps more than a bigger unit."
+  - q: "Can a townhouse outdoor unit go on a balcony?"
+    a: "Sometimes. It needs room for airflow and a way to drain defrost water. A wall bracket is often better. What counts is the noise at the neighbour's place, as our <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules guide</a> explains."
+  - q: "How do you size a heat pump for a high-stud St Albans villa room?"
+    a: "We size the unit for the whole volume of the room, not just the floor area. We place it so the air reaches where you sit, not the ceiling. We look at a <a href=\"/single-room-heat-pump-installation/\">floor console</a> if a wall unit would look awkward above a bay or fireplace."
+  - q: "How do you get heat upstairs in a St Albans townhouse?"
+    a: "One unit usually handles the living level. Upstairs, small bedroom units or a compact <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a> keep each room comfortable. Outdoor units need careful placing on narrow side paths."
 related:
   - { label: Edgeware, href: /edgeware/, text: "Heat pumps for Edgeware homes." }
   - { label: Mairehau, href: /mairehau/, text: "Installation and servicing in Mairehau." }

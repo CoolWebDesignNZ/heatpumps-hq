@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Spreydon"
 relatedHeading: "Heat pumps near Spreydon"
 faqs:
-  - q: Should I replace my heat pump with the same size?
-    a: Not always. Have you added insulation, changed windows or knocked out a wall since it went in? Then the room needs a different capacity now. We size the new unit for the house as it is today.
-  - q: Can the new heat pump use the old pipes?
-    a: Sometimes. Old pipes can only stay if they're in good condition and the right size for the new unit. The new unit's maker also has to allow it. We check on site. The quote tells you if we're reusing them or replacing them.
-  - q: Is my old heat pump worth repairing?
-    a: Sensors, fan motors and drain problems are usually worth a <a href="/heat-pump-repair/">repair</a>. A dead compressor on an old unit usually isn't worth the cost.
+  - q: "My bungalow lounge is warm but the bedrooms stay cold. Will one bigger unit fix it?"
+    a: "No. A lounge unit won't push heat down the hall, so the bedrooms stay cold. We'd look at a small unit in each cold bedroom or a multi-room system instead. We check the room sizes and insulation before we quote."
+  - q: "Can the outdoor unit go close to the neighbour in a Spreydon unit or townhouse?"
+    a: "It needs a spot away from the neighbour's windows. These living areas are often open plan and smaller, so one high wall unit can heat them. We plan the outdoor position at the quote so it stays quiet for both homes."
+  - q: "Should I replace my old heat pump with the same size?"
+    a: "Not always. If you've added insulation, changed windows or knocked out a wall since it went in, the room needs a different capacity now. We size the new unit for the house as it is today."
+  - q: "Can a new heat pump reuse the old pipes?"
+    a: "Sometimes. Old pipes can only stay if they're in good condition and the right size for the new unit, and the new unit's maker has to allow it. We check on site, and the quote tells you if we're reusing them or replacing them."
+  - q: "Is my old heat pump worth repairing?"
+    a: "Sensors, fan motors and drain problems are usually worth a repair. A dead compressor on an old unit usually isn't worth the cost. If you're unsure, a service is a good place to start, since clogged filters and dirty coils make plenty of good units seem worn out."
 related:
   - { label: Hillmorton, href: /hillmorton/, text: "Heat pumps for Hillmorton's flat streets and lower slopes." }
   - { label: Hoon Hay, href: /hoon-hay/, text: "Installs and servicing for Hoon Hay family homes." }

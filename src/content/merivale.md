@@ -13,14 +13,16 @@ gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Merivale"
 relatedHeading: "More on heat pumps near Merivale"
 faqs:
-  - q: Can you put a heat pump in a Merivale villa with high stud?
-    a: Yes. High ceilings add volume to heat, so the unit needs more capacity than the floor area alone suggests. We measure the room at the quote. A high wall unit often works, and a <a href="/floor-mounted-heat-pumps/">floor console</a> suits a room with little free wall.
-  - q: Do older Merivale homes need a bigger heat pump?
-    a: Sometimes. Single glazing, timber floors and less insulation all let heat out. We check what's there before sizing. Fixing ceiling and underfloor insulation first can let you run a smaller unit.
-  - q: How often should a heat pump be serviced in Merivale?
-    a: Once a year suits most homes here. A yearly <a href="/heat-pump-servicing/">service</a> cleans the filters and coil and checks the refrigerant and electrics. It keeps the unit running efficiently through winter.
-  - q: Do you repair heat pumps in Merivale?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> across Merivale on every major brand, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic.
+  - q: "How do high ceilings in a Merivale villa affect heat pump sizing?"
+    a: "High ceilings add volume to heat, so the unit needs more capacity than the floor area alone suggests. We measure the room at the quote. A high wall unit often works, and a <a href=\"/floor-mounted-heat-pumps/\">floor console</a> suits a room with little free wall."
+  - q: "Where can the outdoor unit go on a townhouse with a shared driveway?"
+    a: "In a townhouse, the outdoor unit may need to go on a bracket above a shared driveway or a narrow side yard. We look for wall space with clear air around it and away from the neighbour. We plan the spot and the pipe route at the quote visit."
+  - q: "What should I check before ringing about a heat pump that has stopped heating?"
+    a: "Our <a href=\"/heat-pump-problems-troubleshooting-guide/\">troubleshooting guide</a> covers the ones you can check yourself before you ring. Common problems in older homes include blocked drains, dirty coils and worn parts. If you can't sort it, we find the fault and tell you what it needs."
+  - q: "What noise rules apply to a heat pump in Merivale?"
+    a: "Merivale comes under Christchurch City Council. Its District Plan sets the noise limits, and the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise rules</a> are measured at your neighbour's property. Houses sit close together in parts of Merivale, so placement matters."
+  - q: "Is a cold climate heat pump worth considering for frosty mornings?"
+    a: "Merivale is flat and inland, so winter mornings here can be frosty. Modern heat pumps handle frost by defrosting the outdoor coil, and cold climate models keep more of their capacity when it's cold. If the house is draughty or hard to heat, a <a href=\"/cold-climate-heat-pumps/\">cold climate heat pump</a> is worth considering."
 related:
   - { label: St Albans, href: /st-albans/, text: "Heat pumps for villas and workers' cottages next door." }
   - { label: Fendalton, href: /fendalton/, text: "Installs and servicing for large older homes to the west." }

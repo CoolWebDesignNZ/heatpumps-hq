@@ -13,16 +13,16 @@ gallery: [woolston-1, woolston-2]
 faqHeading: "Questions about heat pumps in Woolston"
 relatedHeading: "More on heat pumps near Woolston"
 faqs:
-  - q: Can you fit a heat pump in a small Woolston cottage?
-    a: Yes. In a cottage with small rooms, a single high wall unit in the living area is often the best starting point. If there's no clear wall space, a <a href="/floor-mounted-heat-pumps/">floor console</a> under a window works well. We size the unit to the room, not the whole house.
-  - q: Woolston gets cold, frosty mornings. Does that matter for a heat pump?
-    a: It does. Choose a model rated for low outdoor temperatures, because standard units lose some capacity on frosty mornings. A <a href="/cold-climate-heat-pumps/">cold climate heat pump</a> keeps its output when the temperature drops. We check the rating before we recommend a model.
-  - q: My house is close to the river. Should I worry about damp?
-    a: Older Woolston houses near the river can feel damp in winter. Keeping the living areas evenly warm cuts condensation on windows. Dry mode pulls moisture out of the air on milder days. Ventilation and insulation still matter alongside the heat pump.
-  - q: Do you repair heat pumps in Woolston?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> across Woolston on weekdays, on every major brand. If the unit has stopped completely, an <a href="/emergency-heat-pump-repair/">emergency heat pump repair</a> visit can get it going again.
-  - q: How often should a Woolston heat pump be serviced?
-    a: Once a year suits most homes. A yearly <a href="/heat-pump-servicing/">service</a> checks the filters, the outdoor coil and the refrigerant lines. It matters more in an older, draughtier house where the unit works harder.
+  - q: "My Woolston cottage has small rooms and little wall space. What heat pump suits?"
+    a: "In a cottage with small rooms, a single high wall unit in the living area is often the best starting point. If there's no clear wall space, a <a href=\"/floor-mounted-heat-pumps/\">floor console</a> under a window works well. We size the unit to the room, not the whole house."
+  - q: "The frosty mornings here are harsh. Will a standard heat pump still heat my home?"
+    a: "Standard units lose some capacity on frosty mornings, so choose a model rated for low outdoor temperatures. A <a href=\"/cold-climate-heat-pumps/\">cold climate heat pump</a> keeps its output when the temperature drops. We check the rating before we recommend a model."
+  - q: "My house is close to the river. Should I worry about damp?"
+    a: "Older Woolston houses near the river can feel damp in winter. Keeping the living areas evenly warm cuts condensation on windows. Dry mode pulls moisture out of the air on milder days. Ventilation and insulation still matter alongside the heat pump."
+  - q: "The side yard is narrow. Where can the outdoor unit go?"
+    a: "On the flat, the outdoor unit can often sit at ground level on feet or a small pad. If the side yard is tight, a wall bracket keeps it off the ground and clear of the path. We plan the spot and the pipe route at the quote visit."
+  - q: "My heat pump has stopped heating completely. Can you get it going again?"
+    a: "Yes. If the unit has stopped completely, an <a href=\"/emergency-heat-pump-repair/\">emergency heat pump repair</a> visit can get it going again. We diagnose the fault and tell you what it needs before we go ahead. You decide whether to proceed once you've heard the likely cost."
 related:
   - { label: Opawa, href: /opawa/, text: "Heat pumps for the leafy streets next door." }
   - { label: Linwood, href: /linwood/, text: "Installs and servicing in the older housing north of Woolston." }

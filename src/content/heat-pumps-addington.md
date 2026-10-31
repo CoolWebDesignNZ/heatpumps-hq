@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Addington"
 relatedHeading: "More on heat pumps near Addington"
 faqs:
-  - q: My cottage is right on the boundary. Can I still have a heat pump?
-    a: Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site, not by a set distance from the fence. Where it goes and which unit you pick matter more than the gap. The limits are in our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a>.
-  - q: What size heat pump does a two-bedroom Addington cottage need?
-    a: The number of bedrooms doesn't decide it. The room sizes do, along with the ceiling and floor insulation and the windows. We measure all of that on site. Our <a href="/heat-pump-sizing/">sizing guide</a> explains what goes into it.
-  - q: Do you service heat pumps in Addington rentals?
-    a: Yes. We clean, service and repair heat pumps in rentals for landlords and property managers. All the major brands.
-  - q: Can the outdoor unit go on the front of the house?
-    a: It can. The side or back is usually tidier, though. If the front's the only practical spot, a slatted screen and neat pipe covers help it look right.
+  - q: "My cottage sits right on the boundary. Can I still have a heat pump?"
+    a: "Usually, yes. Christchurch controls heat pumps by noise at the neighbouring site, not by a set distance from the fence. Where it goes and which unit you pick matter more than the gap. The limits are in our <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules guide</a>."
+  - q: "What size heat pump does a two-bedroom Addington cottage need?"
+    a: "The number of bedrooms doesn't decide it. The room sizes do, along with the ceiling and floor insulation and the windows. We measure all of that on site. Our <a href=\"/heat-pump-sizing/\">sizing guide</a> explains what goes into it."
+  - q: "Can the outdoor unit go on the front of the house?"
+    a: "It can. The side or back is usually tidier, though. If the front's the only practical spot, a slatted screen and neat pipe covers help it look right."
+  - q: "Will one wall unit heat my cottage if the ceiling and floor are insulated?"
+    a: "Often, yes. In a small workers' cottage with a lounge, kitchen and two bedrooms, one well-placed wall unit can heat that layout if the ceiling and floor are insulated. Leave the doors open and it can reach a bedroom. If it isn't insulated, the unit has to be bigger and running costs go up."
+  - q: "Do new townhouses need a different heat pump from older cottages?"
+    a: "They're better sealed and need less capacity. Lots of them suit one unit downstairs and a small one in the main bedroom. But their outdoor units still have to squeeze into the same narrow spaces."
 related:
   - { label: Sydenham, href: /sydenham/, text: "Heat pumps for Sydenham cottages and townhouses." }
   - { label: Riccarton, href: /heat-pumps-riccarton/, text: "Installs and servicing to the west in Riccarton." }

@@ -13,14 +13,16 @@ gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Mairehau"
 relatedHeading: "More on heat pumps near Mairehau"
 faqs:
-  - q: Will one heat pump heat a small older Mairehau house?
-    a: In a compact home with an open lounge and kitchen, one well-placed unit can keep the main living space warm. Bedrooms with the doors shut need their own heating. We'll tell you straight what one unit will and won't reach.
-  - q: Can you move my existing heat pump to a better spot?
-    a: Often, yes. Moving a unit means recovering the refrigerant, running new pipes and commissioning it again. We'll check if the unit's in good enough shape to be worth moving. Then we price both options.
-  - q: How often should I clean the filters?
-    a: Every few weeks while you're using it a lot in winter. Rinse them in cool water and let them dry before you put them back. Clogged filters cut the airflow and make the unit work harder.
-  - q: Does the heat pump help with condensation?
-    a: Steady heating can cut condensation on cold mornings. So can the dry mode most units have. It works best with good ventilation too, like extractor fans in the bathroom and kitchen.
+  - q: "Will one heat pump heat a small older Mairehau house?"
+    a: "In a compact home with an open lounge and kitchen, one well-placed unit can keep the main living space warm. Bedrooms with the doors shut need their own heating. We'll tell you straight what one unit will and won't reach."
+  - q: "Where should the outdoor unit go on a Mairehau section?"
+    a: "Sections here are a fair size, so there's usually more than one wall that can take the unit. We pick the one closest to the indoor unit that keeps noise away from the neighbours. That keeps the pipe run short and the job simple."
+  - q: "Can you move my existing heat pump to a better spot?"
+    a: "Often, yes. Moving a unit means recovering the refrigerant, running new pipes and commissioning it again. We'll check if the unit's in good enough shape to be worth moving. Then we price both options."
+  - q: "Does the heat pump help with condensation?"
+    a: "Steady heating can cut condensation on cold mornings. So can the dry mode most units have. It works best with good ventilation too, like extractor fans in the bathroom and kitchen."
+  - q: "Should I sort insulation before choosing a heat pump?"
+    a: "If your floor's cold to stand on, underfloor insulation may do as much for comfort as the heat pump. It also lets a smaller unit keep up. We note what we see at the quote visit, so you can decide."
 related:
   - { label: Shirley, href: /shirley/, text: "Heat pumps for Shirley homes." }
   - { label: Marshland, href: /marshland/, text: "Semi-rural and new homes in Marshland." }

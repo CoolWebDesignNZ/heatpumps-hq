@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Upper Riccarton"
 relatedHeading: "More on heat pumps near Upper Riccarton"
 faqs:
-  - q: What heat pump does a small Upper Riccarton unit need?
-    a: Usually one wall unit in the living area. We size it to that room's volume, insulation and glass. Bedrooms off a short hall may get enough warmth. A bedroom behind a closed door generally won't.
-  - q: As a landlord, what does the heating standard ask for?
-    a: A fixed heater that can heat the main living room directly, with enough capacity for it. If it's a heat pump, it needs a thermostat.
-  - q: Our townhouse shares a wall with the neighbour. Can the outdoor unit go there?
-    a: We'd rather not. Vibration can carry through a shared wall into the next home. A pad on the ground or an outside wall on your side is better.
-  - q: Can you service every unit in a block of flats in one visit?
-    a: Yes, if we can get into each one. When you book, tell us how many units there are and which brands.
+  - q: "What heat pump does a small unit need?"
+    a: "Usually one wall unit in the living area. We size it to that room's volume, insulation and glass. Bedrooms off a short hall may get enough warmth, but a bedroom behind a closed door generally won't."
+  - q: "As a landlord, what does the heating standard ask for?"
+    a: "A fixed heater that can heat the main living room directly, with enough capacity for it. If it's a heat pump, it needs a thermostat. We size your rental's heat pump to the living room's required capacity and give you the model details for your records."
+  - q: "Our townhouse shares a wall with the neighbour. Can the outdoor unit go there?"
+    a: "We'd rather not. Vibration can carry through a shared wall into the next home. A pad on the ground or an outside wall on your side is better."
+  - q: "Can you service every unit in a block of flats in one visit?"
+    a: "Yes, if we can get into each one. When you book, tell us how many units there are and which brands."
+  - q: "Where does the outdoor unit go on an Upper Riccarton infill section?"
+    a: "Infill sections leave little space between homes, so the outdoor unit often ends up a few steps from next door's wall. The Christchurch District Plan limits are measured at the neighbouring site, and on cold mornings it's the night limit that counts. We keep units off shared walls and away from the neighbours' bedroom windows, and out of tight corners where sound bounces. The <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules guide</a> has the figures."
 related:
   - { label: Ilam, href: /ilam/, text: "Heat pumps for Ilam homes and student flats." }
   - { label: Riccarton, href: /heat-pumps-riccarton/, text: "Installs and servicing in Riccarton." }

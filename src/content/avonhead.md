@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avonhead
 relatedHeading: Heat pumps near Avonhead
 faqs:
-  - q: Is ducting possible in an older Avonhead brick house?
-    a: Often, if the roof space is high enough for the ducts and an indoor unit. We check the ceiling space when we quote. Ducting suits a house with bedrooms down a long hall, because every room can get a vent. Read <a href="/ducted-vs-split-heat-pumps-christchurch/">ducted vs split</a>.
-  - q: Should I replace my old heat pump or keep repairing it?
-    a: It comes down to the fault and the unit's age. A dead fan motor or sensor is usually worth fixing. A dead compressor on an old unit usually isn't. We'll tell you which before any work goes ahead.
-  - q: Where can the outdoor unit go against a brick wall?
-    a: On a wall bracket fixed into the brick. Or on raised feet on a pad. Either way, keep it clear of the neighbour's bedroom windows. Both options keep it off frosty ground.
+  - q: "Is ducting possible in an older Avonhead brick house?"
+    a: "Often, if the roof space is high enough for the ducts and an indoor unit. We check the ceiling space when we quote. Ducting suits a house with bedrooms down a long hall, because every room can get a vent. Read <a href=\"/ducted-vs-split-heat-pumps-christchurch/\">ducted vs split</a>."
+  - q: "Should I replace my old heat pump or keep repairing it?"
+    a: "It comes down to the fault and the unit's age. A dead fan motor or sensor is usually worth fixing. A dead compressor on an old unit usually isn't. We'll tell you which before any work goes ahead."
+  - q: "Where can the outdoor unit go against a brick wall?"
+    a: "On a wall bracket fixed into the brick. Or on raised feet on a pad. Either way, keep it clear of the neighbour's bedroom windows. Both options keep it off frosty ground."
+  - q: "Why is the lounge warm but the bedrooms cold?"
+    a: "A lounge wall unit won't push heat round a corner and down a hall. The bedrooms need heat of their own. A second wall unit in the main bedroom or at the hall end is the smallest job. A multi-room system or ducted system can heat every room with an indoor unit."
+  - q: "How do frost and nor'west wind affect an outdoor unit?"
+    a: "Avonhead gets frost on still nights and nor'west wind in spring. Keep outdoor units off the ground and out of the full force of the wind. Then defrost water drains away and the airflow stays steady."
 related:
   - { label: Russley, href: /russley/, text: "Heat pumps for Russley homes." }
   - { label: Ilam, href: /ilam/, text: "Installs for Ilam homes and rentals." }

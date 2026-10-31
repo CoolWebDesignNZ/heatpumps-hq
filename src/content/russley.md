@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Russley"
 relatedHeading: "More on heat pumps near Russley"
 faqs:
-  - q: Which type of heat pump suits a Russley brick home?
-    a: Your layout decides it. A high wall unit suits an open lounge. A floor console works under a low window, or where there's no wall space up high. If several bedrooms run off one hall, multi-room or ducted heating serves them better.
-  - q: Does the nor'west wind affect a heat pump?
-    a: It can. Strong wind blowing straight into the outdoor fan can upset its airflow. Where we can, we put the unit on a sheltered side of the house.
-  - q: Do you service heat pumps in Russley?
-    a: Yes. A yearly service covers the filters, coil and drain, plus a check on how it's performing. See <a href="/maintenance-servicing/">heat pump servicing</a>.
+  - q: "Which type of heat pump suits a Russley brick home?"
+    a: "Your layout decides it. A high wall unit suits an open lounge. A floor console works under a low window, or where there's no wall space up high. If several bedrooms run off one hall, multi-room or ducted heating serves them better."
+  - q: "Does the nor'west wind affect a heat pump?"
+    a: "It can. Strong wind blowing straight into the outdoor fan can upset its airflow. Where we can, we put the unit on a sheltered side of the house."
+  - q: "Will one heat pump heat the whole house?"
+    a: "Usually not in these homes. The separate living rooms and bedroom wing mean heat from one unit in the family room won't reach bedrooms down the hall. A small unit in each bedroom you use, a multi-room system or ducted heating covers them better."
+  - q: "What noise rules apply to an outdoor unit in Russley?"
+    a: "Russley comes under the Christchurch District Plan, which judges outdoor unit noise at the neighbouring site rather than setting a distance from the fence. Our <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary rules guide</a> gives the night limit and how to place a unit to stay under it."
+  - q: "How do frosts and exposure affect where the outdoor unit goes?"
+    a: "On icy mornings the unit has to defrost its outdoor coil, which it does better up off the ground with the water draining freely away. On the windy side a unit can lose airflow, so shelter is part of how we choose the spot."
 related:
   - { label: Avonhead, href: /avonhead/, text: "Heat pumps for Avonhead brick homes." }
   - { label: Yaldhurst, href: /yaldhurst/, text: "Installs for Yaldhurst lifestyle properties." }

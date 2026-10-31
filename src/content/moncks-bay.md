@@ -13,14 +13,16 @@ gallery: [pool-coastal-home, pool-filters]
 faqHeading: "Questions about heat pumps in Moncks Bay"
 relatedHeading: "More on heat pumps near Moncks Bay"
 faqs:
-  - q: How close to the water can an outdoor unit be?
-    a: There's no set distance. But the closer it is to spray and wind off the estuary, the faster salt builds up. We put it on the most sheltered side we can. Then we plan for more regular cleaning.
-  - q: Our section is cut into the hill. Where does the outdoor unit go?
-    a: Often on a wall bracket, or on a narrow strip beside the house. It needs enough clearance behind and in front for air to flow. At the quote visit, we measure the gap to the retaining wall. We check it against the model's clearances.
-  - q: How do I keep a heat pump near the sea in good condition?
-    a: Clean the indoor filters every few weeks in winter. Hose the outdoor coil gently now and then. And book a yearly <a href="/maintenance-servicing/">maintenance service</a>.
-  - q: Do you repair heat pumps in Moncks Bay?
-    a: Yes, all the major brands, Monday to Friday.
+  - q: "How close to the water can an outdoor unit be in Moncks Bay?"
+    a: "There's no set distance. But the closer it is to spray and wind off the estuary, the faster salt builds up. We put it on the most sheltered side we can, then plan for more regular cleaning."
+  - q: "Where does the outdoor unit go on a section cut into the hill?"
+    a: "Often on a wall bracket, or on a narrow strip beside the house. It needs enough clearance behind and in front for air to flow. At the quote visit we measure the gap to the retaining wall and check it against the model's clearances."
+  - q: "How do I keep a heat pump near the sea in good condition?"
+    a: "Clean the indoor filters every few weeks in winter. Hose the outdoor coil gently now and then, and check the casing for rust spots. Book a yearly <a href=\"/maintenance-servicing/\">maintenance service</a> as well."
+  - q: "Which side of the house should the outdoor unit go on a waterfront home?"
+    a: "The far side of the house, or behind a solid fence, rather than the front deck looking at the view. Tucked away, it misses the worst of the salt and won't be the first thing you see and hear when you sit outside."
+  - q: "Do rebuilt homes here need a different heat pump from older ones?"
+    a: "Often, yes. Rebuilt and strengthened homes usually hold heat well, so a modern rebuild may need just one high wall unit in the main living area, sized right. Add a small unit for bedrooms at the cold end of the house."
 related:
   - { label: Redcliffs, href: /redcliffs/, text: "Heat pumps for homes along the coast road." }
   - { label: Mount Pleasant, href: /mount-pleasant/, text: "Installs for hillside homes above the bay." }

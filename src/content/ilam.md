@@ -13,12 +13,16 @@ gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: "Questions about heat pumps in Ilam"
 relatedHeading: "More on heat pumps near Ilam"
 faqs:
-  - q: Does a heat pump meet the Healthy Homes heating standard for my Ilam rental?
-    a: Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be fixed, have a thermostat and have enough capacity for that room. We size the unit to the room, so it meets the capacity the standard asks for.
-  - q: How often should heat pumps in a student flat be serviced?
-    a: At least once a year, ideally before winter. Flats with several tenants run the heat pump hard, so the filters clog faster. Ask your tenants to rinse the filters every few weeks in winter.
-  - q: Can you work around tenants?
-    a: Yes. We arrange access through you or your property manager. We keep the work to the rooms involved.
+  - q: "Does a heat pump meet the Healthy Homes heating standard for my Ilam rental?"
+    a: "Yes, a heat pump is one of the accepted ways to heat the main living room. It has to be fixed, have a thermostat and have enough capacity for that room. We size the unit to the room, so it meets the capacity the standard asks for."
+  - q: "What does a student flat need from its heat pump?"
+    a: "Tenants may be the ones paying the power bill, so a unit sized right with simple controls matters to them as much as to you. Flats with several tenants run the heat pump hard, so the filters clog faster. We can book a yearly service before each academic year starts and show the tenants how to clean the filters."
+  - q: "Can you work around tenants?"
+    a: "Yes. We arrange access through you or your property manager. We keep the work to the rooms involved."
+  - q: "Where should the outdoor unit go on a property with a mature garden?"
+    a: "The outdoor unit needs a spot clear of shrubs and falling leaves, so air can move through its coil. We plan the position at the quote visit, taking the garden and prevailing winds into account."
+  - q: "What heating setup suits a larger family home with bedrooms down a long hall?"
+    a: "A multi-room system or separate units for the main rooms work well. Where there's ceiling space, ducting is another option. We size the system from the rooms, insulation, windows and how your family uses the house."
 related:
   - { label: Upper Riccarton, href: /upper-riccarton/, text: "Heat pumps for Upper Riccarton flats and homes." }
   - { label: Avonhead, href: /avonhead/, text: "Installs for Avonhead brick homes." }

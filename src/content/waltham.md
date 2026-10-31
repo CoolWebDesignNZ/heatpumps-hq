@@ -13,16 +13,16 @@ gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Waltham"
 relatedHeading: "More on heat pumps near Waltham"
 faqs:
-  - q: My Waltham villa has timber floors and single glazing. Will one heat pump be enough?
-    a: Usually, for the living area. Villas and cottages leak heat through the floor, ceiling and old windows, so we size on that rather than floor area alone. Often a unit one step larger than the room's size suggests is the right call. We check insulation at the quote, and a proper heat loss check tells us for certain.
-  - q: Do you repair heat pumps in Waltham?
-    a: Yes. We take repair jobs across Waltham on weekdays, on every major brand. If the unit has stopped altogether, an emergency callout gets it looked at sooner.
-  - q: How often should a heat pump in Waltham be serviced?
-    a: Once a year is the usual rule. Waltham's older houses are dustier and damper than most, so a yearly service keeps the filter, coil and drain clear. If the house is close to the railway or the busy roads, clean the filter more often.
-  - q: Can a heat pump help with condensation in an older Waltham house?
-    a: It can. Keeping the main rooms evenly warm cuts condensation on cold single glazing. Most units also have a dry mode that pulls moisture out of the air on mild days. You still need ventilation and insulation as well as dry mode and dehumidification.
-  - q: Where does the outdoor unit go on a small Waltham section?
-    a: Usually down the side of the house or behind a fence, with clear air around the coil. Sections here are narrow, and neighbours are close, so we check the boundary noise rules before we choose the spot.
+  - q: "My Waltham villa has timber floors and single glazing. Will one heat pump be enough?"
+    a: "Usually, for the living area. Villas and cottages leak heat through the floor, ceiling and old windows, so we size on that rather than floor area alone. Often a unit one step larger than the room's size suggests is the right call. We check insulation at the quote, and a proper heat loss check tells us for certain."
+  - q: "Can a heat pump help with condensation in an older house?"
+    a: "It can. Keeping the main rooms evenly warm cuts condensation on cold single glazing. Most units also have a dry mode that pulls moisture out of the air on mild days. You still need ventilation and insulation."
+  - q: "Where does the outdoor unit go on a small Waltham section?"
+    a: "Usually down the side of the house or behind a fence, with clear air around the coil. Sections here are narrow, and neighbours are close, so we check the boundary noise rules before we choose the spot."
+  - q: "What happens to the outdoor unit on frosty mornings?"
+    a: "The suburb is flat and inland, so it gets frosts on still, clear winter nights. Every heat pump we fit has a defrost cycle that clears ice from the outdoor unit. If the unit ices up and stays iced, that's a fault worth a look, not something to chip off by hand."
+  - q: "Why does a heat pump in an older house need more attention than one in a newer suburb?"
+    a: "Older houses are dustier and many have less insulation, so the unit runs longer to hold the temperature. A yearly service keeps the filter, indoor coil and condensate drain clear. If the house is close to the railway or the busy roads, clean the filter every few weeks through winter."
 related:
   - { label: Sydenham, href: /sydenham/, text: "Heat pumps for the warehouses and cottages next door." }
   - { label: Addington, href: /heat-pumps-addington/, text: "Installs and servicing around the railway and the barracks." }

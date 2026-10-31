@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Oaklands
 relatedHeading: Heat pumps near Oaklands
 faqs:
-  - q: Can I add a bedroom heat pump to the one I already have?
-    a: Yes. A separate small unit is the easiest way. Want several rooms heated? A multi-room system can run more than one indoor unit off one outdoor unit. That usually means replacing the one you've got, though.
-  - q: Will a new heat pump help with condensation on the windows?
-    a: A heat pump keeps rooms warmer. Warmer rooms tend to get less condensation. Dry mode also pulls moisture out of the air. It still helps to open the windows for a bit each day, and run the extractor fans.
-  - q: My Oaklands heat pump is blowing cold air in heating mode. What's wrong?
-    a: Check the mode and the filters. See if the outdoor unit is defrosting. If it still blows cold after that, you need a technician. Our <a href="/heat-pump-problems-troubleshooting-guide/">troubleshooting guide</a> lists the checks.
+  - q: "Can I add a heat pump to my bedroom if the lounge already has one?"
+    a: "Yes. A separate small unit in the bedroom is the easiest way, and your lounge unit stays as it is. If you want several bedrooms heated, a multi-room system can run more than one indoor unit off one outdoor unit, though that usually means replacing the one you've got."
+  - q: "Will a new heat pump help with condensation on the windows?"
+    a: "A heat pump keeps rooms warmer, and warmer rooms tend to get less condensation. Dry mode also pulls moisture out of the air. It still helps to open the windows for a bit each day and run the extractor fans."
+  - q: "My Oaklands heat pump is blowing cold air in heating mode. What's wrong?"
+    a: "Check the mode and the filters, and see if the outdoor unit is defrosting. If it still blows cold after that, you need a technician. Our <a href=\"/heat-pump-problems-troubleshooting-guide/\">troubleshooting guide</a> lists the checks."
+  - q: "Where should the outdoor unit go on an Oaklands section?"
+    a: "Many Oaklands homes sit on cul-de-sac sections with established gardens, so we keep the outdoor unit clear of the planting so air moves freely round it. Outdoor units do best on raised feet or a wall bracket, which keeps them clear of ice and gives defrost water somewhere to go. We also keep bedroom units off walls near the neighbour's windows."
+  - q: "What kind of heat pump suits a 1960s to 1980s brick and tile house?"
+    a: "Most Oaklands homes are single storey brick and tile houses from the 1960s to the 1980s, and many have one unit in the front lounge only. We check the ceiling insulation and the windows before sizing heat for the bedrooms. A bedroom with thin insulation and single glazing needs more capacity than its size suggests."
 related:
   - { label: Halswell, href: /halswell/, text: "Heat pump work across Halswell." }
   - { label: Hoon Hay, href: /hoon-hay/, text: "Heat pumps for Hoon Hay homes." }

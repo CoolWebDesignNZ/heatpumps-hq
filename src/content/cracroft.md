@@ -13,12 +13,16 @@ gallery: [pool-hill-home, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Cracroft"
 relatedHeading: "Heat pumps near Cracroft"
 faqs:
-  - q: Our house is well below the road down a long flight of steps. Is that a problem?
-    a: No. It just takes some planning. We check the route when we come to quote, and plan how to get the outdoor unit down there. The route also decides where the unit should go, so we can reach it for servicing later.
-  - q: Where does the water from the outdoor unit go on a slope?
-    a: Defrost water needs a set path. We run it to a drain, or onto ground where it won't wash out a bank. It mustn't pool against a retaining wall or run onto the section below.
-  - q: Can the indoor and outdoor units be on different levels?
-    a: Yes, within the maker's limits on pipe length and height difference. On a split-level hill home, that often decides which model we suggest.
+  - q: "Our house is well below the road down a long flight of steps. Is that a problem?"
+    a: "No. It just takes some planning. We walk the route from the van when we come to quote, and plan how to get the outdoor unit down there. The route also decides where the unit should go, so we can reach it for servicing later."
+  - q: "Where does the water from the outdoor unit go on a slope?"
+    a: "Defrost water needs a set path. We run it to a drain, or onto ground where it won't wash out a bank. It mustn't pool against a retaining wall or run onto the section below."
+  - q: "Can the indoor and outdoor units be on different levels?"
+    a: "Yes, within the maker's limits on pipe length and height difference. On a split-level hill home, that often decides which model we suggest."
+  - q: "How do you mount the outdoor unit when there's no flat ground on a Cracroft section?"
+    a: "It usually goes on a galvanised bracket on a solid wall, on a deck if the framing can take the weight and vibration, or on a small concrete pad cut into the bank if there's room and a path to reach it. Anti-vibration mounts stop the hum getting into the rooms inside. We pick a spot that stays easy to get to for servicing."
+  - q: "Why might a split-level Cracroft home need two units?"
+    a: "One unit won't carry heat well up or down a flight of stairs. Lots of these homes do well with two units, one for the living level and a small, quiet one for the bedroom level. We size each one for its own room, glass included."
 related:
   - { label: Cashmere, href: /cashmere/, text: "Heat pumps for Cashmere's hillside and flat homes." }
   - { label: Westmorland, href: /westmorland/, text: "Newer homes on the slopes next door." }

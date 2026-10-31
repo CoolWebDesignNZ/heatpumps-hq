@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-weatherboard]
 faqHeading: "Dallington heat pump questions"
 relatedHeading: "Heat pumps near Dallington"
 faqs:
-  - q: My Dallington house had earthquake repairs. Does that change the heat pump install?
-    a: It can. Repairs often mean new linings, relevelled floors or a new foundation. Some leave gaps in the insulation. We look at what was done before we size the unit. We check again before we drill for the pipes.
-  - q: Can a heat pump go on the side of a relevelled or repiled house?
-    a: Yes. We mount the outdoor unit on a bracket on solid framing, or put it on its own pad. That way, if the ground moves later, it won't pull on the pipework.
-  - q: Do you service older heat pumps in Dallington that came with the house?
-    a: Yes. We service and repair most brands sold in New Zealand, whatever their age. If a unit isn't worth fixing any more, we'll tell you straight.
+  - q: "My Dallington house had earthquake repairs. Does that change the heat pump install?"
+    a: "It can. Repairs often mean new linings, relevelled floors or a new foundation. Some leave gaps in the insulation. We look at what was done before we size the unit, and check again before we drill for the pipes."
+  - q: "Can a heat pump go on the side of a relevelled or repiled house?"
+    a: "Yes. We mount the outdoor unit on a bracket on solid framing, or put it on its own pad. We leave a little slack in the pipe run so small movements won't strain the joints."
+  - q: "Will one unit heat both the lounge and the dining room in a repaired bungalow?"
+    a: "Often not. Many repaired original bungalows have a separate lounge and dining room, and one lounge unit won't reach both. Those homes need more capacity, or a unit in each room you use on a multi-room system."
+  - q: "What do you check before sizing a unit for a rebuilt home?"
+    a: "Rebuilt homes are built to current standards and keep heat well, so one high wall unit sized right can heat the living area. We check the insulation, the glazing and whether the lounge opens onto the dining room. Add a small second unit if you want the bedrooms warm too."
+  - q: "How do you handle damp in a home close to the river?"
+    a: "Homes close to the river can feel damp in winter. A heat pump's dry mode helps on mild, damp days. It won't replace good ventilation or fixing a leak."
 related:
   - { label: Avondale, href: /avondale/, text: "Heat pumps for Avondale homes." }
   - { label: Burwood, href: /burwood/, text: "Installation and servicing in Burwood." }

@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in the CBD"
 relatedHeading: "More on heat pumps near the CBD"
 faqs:
-  - q: Do I need body corporate approval for a heat pump in my apartment?
-    a: Yes, if the work affects common property or another unit. You must tell the body corporate. You need written consent from it and from any affected owners. An outdoor unit on an outside wall, or a hole through one, often counts. Check your building's rules before you book.
-  - q: Where does the outdoor unit go in an apartment with only a small balcony?
-    a: On the balcony floor on feet, on a wall bracket, or in a plant area if the building has one. It needs clear air in front of the coil. Defrost water needs somewhere to go too, without dripping onto the balcony below.
-  - q: Are the noise rules different in the Central City?
-    a: Yes. The Central City has its own noise limits. They're different from the suburban residential zones. We explain how noise is measured, and where to put a unit, under <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules and consent</a>.
-  - q: Can you service a heat pump that came with my apartment?
-    a: Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. Plus most other brands on sale in New Zealand.
+  - q: "Do I need body corporate approval for a heat pump in my apartment?"
+    a: "Yes, if the work affects common property or another unit. You must tell the body corporate and get written consent from it and any affected owners. An outdoor unit on an outside wall, or a hole through one, often counts. Check your building's rules before you book."
+  - q: "Where can the outdoor unit go when the balcony is small?"
+    a: "On the balcony floor on feet, on a wall bracket, or in a plant area if the building has one. It needs clear air in front of the coil so it doesn't suck its own air back in. Defrost water needs somewhere to go too, without dripping onto the balcony below."
+  - q: "Are the noise rules different in the Central City?"
+    a: "Yes. The Central City has its own noise limits, separate from the suburban residential zones. In apartments, bedrooms are close together, so a unit outside your lounge might be metres from someone else's window. We place it with the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise limits</a> in mind."
+  - q: "Can you service a heat pump that came with my apartment?"
+    a: "Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other brands on sale in New Zealand. Units handed over with the apartment may not have been touched since, so we give the filters, coil and fan a proper clean."
+  - q: "How do you size a heat pump for a compact apartment with a lot of glass?"
+    a: "We size for the cooling as well as the heating. A north or west facing apartment with a wall of glass can get too hot on a summer afternoon. In an open plan apartment, one high wall unit usually covers the lounge and kitchen."
 related:
   - { label: Edgeware, href: /edgeware/, text: "Heat pumps for the villas and townhouses just north of the avenues." }
   - { label: Sydenham, href: /sydenham/, text: "Installs and servicing south of Moorhouse Avenue." }

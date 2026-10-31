@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-frost-outdoor]
 faqHeading: "Hoon Hay heat pump questions"
 relatedHeading: "Heat pumps near Hoon Hay"
 faqs:
-  - q: What's the best way to heat a three or four bedroom Hoon Hay house?
-    a: In most, a bigger unit for the living area. Then smaller units in the bedrooms people use in the evening. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> runs several indoor units off one outdoor unit. Ducting suits homes with good ceiling space.
-  - q: Why does my outdoor unit stop and steam on frosty mornings?
-    a: It's defrosting. In cold, damp air, ice forms on the outdoor coil. The unit runs in reverse for a short time to melt it. A short pause with some steam is normal. Ice that keeps building up isn't.
-  - q: Should I leave the heat pump on overnight in winter?
-    a: In a well insulated house, a low setting overnight holds the warmth and doesn't cost much. In a house that loses heat fast, a lot of that overnight heat is wasted. There it's better to set a timer that starts the unit before you get up. We can show you the timer on your controller.
+  - q: "Why does my outdoor unit stop and steam on frosty mornings in Hoon Hay?"
+    a: "It's defrosting. In cold, damp air, ice forms on the outdoor coil, so the unit runs in reverse for a short time to melt it. A short pause with some steam is normal. Ice that keeps building up isn't."
+  - q: "What's the best way to heat a three or four bedroom house?"
+    a: "In most, a bigger unit for the living area, then smaller units in the bedrooms people use in the evening. A <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a> runs several indoor units off one outdoor unit. Ducting suits homes with good ceiling space."
+  - q: "Should I leave the heat pump on overnight in winter?"
+    a: "In a well insulated house, a low setting overnight holds the warmth and doesn't cost much. In a house that loses heat fast, a lot of that overnight heat is wasted. There it's better to set a timer that starts the unit before you get up. We can show you the timer on your controller."
+  - q: "How do you set up an outdoor unit for hard frosts?"
+    a: "We raise it on feet or a bracket so defrost water drains away and doesn't freeze around the base. We keep the drain path clear of garden beds and paving that could ice over. We avoid a frost pocket, a low, closed-in corner where cold air sits. And we size for the cold end, because output drops as it gets colder outside."
+  - q: "Do brick and tile or former state houses need different heat pumps?"
+    a: "They often do. If the lounge is shut off from a hallway of bedrooms, its heat stays in the lounge. We check the ceiling and underfloor insulation first, because it changes the size of every unit. Rooms on the shady south side stay colder all day and need more capacity than a sunny room the same size."
 related:
   - { label: Westmorland, href: /westmorland/, text: "Heat pumps for the hillside homes above Hoon Hay." }
   - { label: Halswell, href: /halswell/, text: "Installs and servicing in Halswell to the south-west." }

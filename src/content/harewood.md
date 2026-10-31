@@ -13,14 +13,16 @@ gallery: [pool-frost-outdoor, pool-lifestyle]
 faqHeading: "Questions about heat pumps in Harewood"
 relatedHeading: "More on heat pumps near Harewood"
 faqs:
-  - q: Can my heat pump cool the house on a hot nor'west day?
-    a: Yes. Split system heat pumps cool as well as heat. Close the curtains on the sunny side early. Set cooling to a moderate temperature and let the unit run steadily. See <a href="/air-conditioning-installation-christchurch/">air conditioning installation</a>.
-  - q: Do you cover the semi-rural parts of Harewood?
-    a: Yes. That includes the bigger properties out towards the airport and McLeans Island.
-  - q: Does a heat pump work well on very frosty mornings?
-    a: Yes, if it's sized right. It keeps heating, with short pauses to defrost. Raised feet and good drainage under the outdoor unit help it cope. Our <a href="/cold-climate-heat-pumps/">cold climate guide</a> has more.
-  - q: Is the shady side of the house a good spot for the outdoor unit?
-    a: It can be. Shade helps a little when the unit is cooling in summer. But in winter the spot still needs open airflow and somewhere for defrost water to go. We only pick a shady spot if it has both.
+  - q: "How do you size a heat pump for a frosty Harewood morning?"
+    a: "We size for the coldest mornings, not an average day. Flat, open land cools fast on clear nights, so the outer properties can wake to a heavy frost. We work from your room sizes, windows and insulation to pick a system that holds a comfortable temperature."
+  - q: "Can a heat pump cool the house on a hot nor'west day?"
+    a: "Yes. Split system heat pumps cool as well as heat. Close the curtains on the sunny side early, set cooling to a moderate temperature and let the unit run steadily. Rooms facing north and west get the worst of it, so they get first call on a unit."
+  - q: "Do you cover the semi-rural parts of Harewood?"
+    a: "Yes, including the bigger properties out towards the airport and McLeans Island. Those homes often suit a multi-room system or ducted heating. The outdoor unit has to stand up to frost, wind and dust."
+  - q: "Where should the outdoor unit go when the house next door is close?"
+    a: "We keep it away from your neighbour's bedroom windows and off the boundary fence, where sound would bounce back. We also look for shelter, airflow and drainage. On bigger properties we put it as close as we can to the rooms it heats, because a long pipe run loses some output."
+  - q: "How do I look after the heat pump through a dusty summer?"
+    a: "Dry nor'west days carry dust, and on semi-rural blocks so do paddocks, gravel driveways and cut hay. If the unit runs hard on cooling all summer, rinse the filters every few weeks. Book a yearly service so we can clean the coils and check the drain."
 related:
   - { label: Burnside, href: /burnside/, text: "Heat pumps for Burnside family homes." }
   - { label: McLeans Island, href: /mcleans-island/, text: "Installation and servicing on McLeans Island." }

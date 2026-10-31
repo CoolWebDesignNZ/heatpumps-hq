@@ -13,14 +13,16 @@ gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Aidanfield
 relatedHeading: Heat pumps near Aidanfield
 faqs:
-  - q: Should I replace my old heat pump or repair it?
-    a: We look at the fault and the unit's age. We check if parts are still made for it. Then you get a straight answer. Read how we weigh it up under <a href="/heat-pump-repair/">heat pump repairs</a>.
-  - q: Can I heat different parts of the house to different temperatures?
-    a: Yes. Separate indoor units each have their own controls. Some ducted systems can be zoned too, so you set the bedrooms and living areas on their own. We explain how the zones split in <a href="/heat-pump-zoning/">heat pump zoning</a>.
-  - q: Are there rules about where the outdoor unit can go in Aidanfield?
-    a: Christchurch limits heat pump noise at the neighbour's place. Some subdivisions also have land covenants on the title that cover outside fittings. Check yours before we fit anything.
-  - q: Can another indoor unit be added to our existing outdoor unit?
-    a: Only if it's a multi-room outdoor unit with a spare connection and capacity left over. A single-room outdoor unit can't run a second indoor unit. So a new room usually gets its own system.
+  - q: "Can you heat the bedroom wing without heating the whole house?"
+    a: "Yes. In many Aidanfield homes the bedrooms sit in their own wing down a hall, and little heat from the living area unit reaches them once the doors are shut. We can fit a small wall unit in each main bedroom, either with their own outdoor units or sharing one multi-room outdoor unit. If the roof space has room, a ducted retrofit with a vent in each bedroom is another option."
+  - q: "Our heat pump came with the house and is getting on. Is it worth keeping?"
+    a: "We check it before you spend anything on adding to it. Watch for weaker heat on cold mornings, louder running, water dripping from the indoor unit or a flashing fault light. Sometimes a good clean and service brings it back, sometimes a repair is worth it, and sometimes a modern unit sized right makes more sense. After we check it we tell you which, show you the fault and compare the unit's size against the room."
+  - q: "Are there rules about where the outdoor unit can go in Aidanfield?"
+    a: "Christchurch limits heat pump noise at the neighbour's place, and Aidanfield sections are tidy and fairly even, so neighbours are close on both sides. We look for a spot clear of bedroom windows, yours and next door's, with room for airflow and raised feet for frosty mornings. Some subdivisions also have land covenants on the title covering outside fittings, so check yours before we fit anything."
+  - q: "Can another indoor unit be added to our existing outdoor unit?"
+    a: "Only if it's a multi-room outdoor unit with a spare connection and capacity left over. A single-room outdoor unit can't run a second indoor unit, so a new room usually gets its own system. We check what you have before we suggest anything."
+  - q: "Can we set the bedrooms and living area to different temperatures?"
+    a: "Yes. Separate indoor units each have their own controls. Some ducted systems can be zoned too, so you set the bedrooms and living areas on their own. We explain how the zones split under <a href=\"/heat-pump-zoning/\">heat pump zoning</a>."
 related:
   - { label: Halswell, href: /halswell/, text: "Heat pumps for Halswell's new and older homes." }
   - { label: Wigram, href: /wigram/, text: "Installs and servicing in Wigram." }

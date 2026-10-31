@@ -13,12 +13,16 @@ gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Bryndwr
 relatedHeading: Heat pumps near Bryndwr
 faqs:
-  - q: Can one heat pump warm the hallway and bedrooms of a bungalow?
-    a: Only partly. Put the unit at the hallway end of the lounge and some warmth spreads. But rooms with the door shut stay cooler. For warm bedrooms, add small units or go ducted.
-  - q: Is there room for ducting in an older Bryndwr house?
-    a: Often, yes. Lots of bungalows have a pitched roof with usable ceiling space. That suits ducting. We check the access, the height and the ceiling framing on site before we suggest it.
-  - q: Do trees affect where the outdoor unit can go?
-    a: Yes. Leaves and blossom can block the coil. Roots and garden beds can make a level base hard. We pick a spot with clear air round it, and easy to get at for servicing.
+  - q: "Can one heat pump warm the hallway and bedrooms of a bungalow?"
+    a: "Only partly. Put the unit at the hallway end of the lounge and some warmth spreads, but rooms with the door shut stay cooler. For warm bedrooms, add small units or go ducted."
+  - q: "Is there room for ducting in an older Bryndwr house?"
+    a: "Often, yes. Lots of bungalows have a pitched roof with usable ceiling space, which suits ducting. We check the access, the height and the ceiling framing on site before we suggest it."
+  - q: "Do trees affect where the outdoor unit can go?"
+    a: "Yes. Leaves and blossom can block the coil, and roots and garden beds can make a level base hard. We pick a spot with clear air round it, and easy to get at for servicing."
+  - q: "How do you stop the far bedroom staying cold when the lounge is warm?"
+    a: "The hallway is the problem, because warm air from the lounge has to get round corners and through doors to reach the bedrooms. We can fit the lounge unit at the hallway end of the room, add small bedroom units or a multi-room system, or go ducted with ceiling vents to the hallway and each bedroom. At the quote we measure the rooms and check the insulation and windows, then price each option that suits the house."
+  - q: "What happens if the bungalow has little or no insulation?"
+    a: "Fill the gaps in the ceiling or under the floor and the rooms lose less heat. The heat pump then runs at a lower output and costs less to run. We look in the ceiling when we come to quote and tell you what we find."
 related:
   - { label: Fendalton, href: /fendalton/, text: "Heat pumps for Fendalton's larger homes." }
   - { label: Burnside, href: /burnside/, text: "Installation and servicing in Burnside." }

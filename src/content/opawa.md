@@ -13,16 +13,16 @@ gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Opawa"
 relatedHeading: "More on heat pumps near Opawa"
 faqs:
-  - q: Does the frost in Opawa affect which heat pump I should buy?
-    a: It can. Opawa gets cold mornings, and the outdoor unit may frost up overnight. Most modern heat pumps handle this with a defrost cycle, but a <a href="/cold-climate-heat-pumps/">cold climate model</a> holds its output better on the coldest days. We check the model's low temperature rating before we recommend it.
-  - q: Can a heat pump help with damp in an older Opawa villa?
-    a: Yes. Keeping the main rooms evenly warm cuts condensation on windows and walls. Most units also have a dry mode that pulls moisture from the air on mild days. You still need ventilation and insulation, and <a href="/heat-pump-dehumidification/">dry mode and dehumidification</a> covers how that works.
-  - q: Do you repair heat pumps in Opawa?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> in Opawa on weekdays, on every major brand. If the unit has stopped completely, see <a href="/emergency-heat-pump-repair/">emergency heat pump repair</a>.
-  - q: How often should a heat pump in Opawa be serviced?
-    a: Once a year is the usual advice. A yearly <a href="/heat-pump-servicing/">service</a> cleans the filters and coil, checks the outdoor unit and catches small faults before winter.
-  - q: My Opawa house is cold even with the heat pump on. What's wrong?
-    a: Often it's sizing or placement. A unit that's too small for the room, or one blowing into a hallway, won't keep up. We check the room and the unit at the quote or service visit.
+  - q: "Does the frost in Opawa affect which heat pump I should buy?"
+    a: "It can. Opawa gets cold mornings, and the outdoor unit may frost up overnight. Most modern heat pumps handle this with a defrost cycle, but a <a href=\"/cold-climate-heat-pumps/\">cold climate model</a> holds its output better on the coldest days. We check the model's low temperature rating before we recommend it."
+  - q: "Can a heat pump help with damp in an older villa?"
+    a: "Yes. Keeping the main rooms evenly warm cuts condensation on windows and walls. Most units also have a dry mode that pulls moisture from the air on mild days. You still need ventilation and insulation, and <a href=\"/heat-pump-dehumidification/\">dry mode and dehumidification</a> covers how that works."
+  - q: "My house is cold even with the heat pump on. What's wrong?"
+    a: "Often it's sizing or placement. A unit that's too small for the room, or one blowing into a hallway, won't keep up. We check the room and the unit at the quote or service visit."
+  - q: "What setup suits a 1950s to 1970s home with a separate living room and bedrooms?"
+    a: "These homes are solidly built, often with a single living room and separate bedrooms. One high wall unit in the living area, plus a second unit or a multi-room system for the bedrooms, is a common setup."
+  - q: "Where can the outdoor unit go when houses sit close together?"
+    a: "Opawa comes under Christchurch City Council, and its District Plan sets the noise limits, measured at your neighbour's boundary. Because houses here sit close together, placement of the outdoor unit matters. The <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise rules</a> explain the limits."
 related:
   - { label: St Martins, href: /st-martins/, text: "Heat pumps for homes across the river." }
   - { label: Linwood, href: /linwood/, text: "Installs, servicing and repairs to the north." }

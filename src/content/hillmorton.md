@@ -13,12 +13,16 @@ gallery: [pool-hill-home, pool-filters]
 faqHeading: "Questions about heat pumps in Hillmorton"
 relatedHeading: "Heat pumps near Hillmorton"
 faqs:
-  - q: Does it matter whether my Hillmorton house is on the flat or the slope?
-    a: Not much for the indoor unit. Outside, it can. A sloping section may need a bracket or a pad cut into the bank, not a spot on the ground. It also needs a planned path for defrost water.
-  - q: How do I know if my heat pump needs a service?
-    a: Watch for weaker airflow or a musty smell when it starts. Water dripping from the indoor unit is another sign. So is the room taking longer to warm up. If it's been more than a year since its last service, it's due. See <a href="/maintenance-servicing/">servicing</a>.
-  - q: What can I do myself between services?
-    a: In winter, give the indoor filters a clean every few weeks. Keep leaves and plants clear of the outdoor unit. Don't stack anything against it. Leave the coil, fan and electrics to us.
+  - q: "Does it matter whether my Hillmorton house is on the flat or the slope?"
+    a: "Not much for the indoor unit. Outside, it can. A sloping section may need a bracket or a pad cut into the bank, not a spot on the ground. It also needs a planned path for defrost water."
+  - q: "My lounge is separate from the bedrooms. Will one big unit heat the whole house?"
+    a: "No. Warm air from a lounge unit stops at the hall, so each room you want warm needs its own heat. A high wall unit sized for the lounge works better than one big unit turned up high, with a compact unit in each bedroom that stays cold. A multi-room system runs those indoor units off one outdoor unit."
+  - q: "Where does the outdoor unit go on a flat section?"
+    a: "Usually at the side or back of the house, up on feet so defrost water runs off and doesn't ice up underneath. We keep it away from the neighbour's bedroom window, clear of downpipes that could drip on it, and out of tight corners where it would suck its own cold air back in."
+  - q: "How do I know if my heat pump needs a service?"
+    a: "Watch for weaker airflow or a musty smell when it starts. Water dripping from the indoor unit is another sign, and so is the room taking longer to warm up. If it's been more than a year since its last service, it's due. See <a href=\"/maintenance-servicing/\">servicing</a>."
+  - q: "What can I do myself between services?"
+    a: "In winter, give the indoor filters a clean every few weeks. Keep leaves and plants clear of the outdoor unit and don't stack anything against it. Leave the coil, fan and electrics to us."
 related:
   - { label: Spreydon, href: /spreydon/, text: "Heat pump replacements and installs next door." }
   - { label: Cashmere, href: /cashmere/, text: "Hillside and flat homes in Cashmere." }

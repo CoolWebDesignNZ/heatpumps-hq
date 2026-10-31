@@ -13,14 +13,16 @@ gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Phillipstown"
 relatedHeading: "More on heat pumps near Phillipstown"
 faqs:
-  - q: Does a heat pump meet the healthy homes heating standard?
-    a: Yes, a heat pump is an accepted fixed heater under the standard. It has to be able to directly heat the main living room. And it needs the capacity that room calls for.
-  - q: How do you work out the right size for a rental lounge?
-    a: Use the Healthy Homes <a href="https://tools.tenancy.govt.nz/heating-tool">heating assessment tool</a>. It gives the capacity a main living room needs. We measure the room and check the insulation and windows. Then we recommend a unit that meets or beats that figure.
-  - q: Can you install while tenants are living in the house?
-    a: Yes. We agree a time with you and the tenant. We keep to the rooms we're working in, and we tidy up before we go.
-  - q: Can I have one outdoor unit for two flats?
-    a: Not usually. Each flat normally needs its own system. That way each tenant controls and pays for their own heating.
+  - q: "Does a heat pump meet the healthy homes heating standard for a Phillipstown rental?"
+    a: "Yes, a heat pump is an accepted fixed heater under the standard. It must be able to directly heat the main living room and have the capacity that room calls for. We size it using the room's floor area, ceiling height, windows and insulation, and check our figure against the Healthy Homes heating assessment tool."
+  - q: "How do you work out the right size for a rental lounge?"
+    a: "We use the Healthy Homes heating assessment tool to find the capacity the main living room needs. Then we measure the room and check the insulation and windows. We recommend a unit that meets or beats that figure."
+  - q: "Can you install while tenants are living in the house?"
+    a: "Yes. We agree a time with you and the tenant. We keep to the rooms we're working in, and we tidy up before we go."
+  - q: "Can I have one outdoor unit for two flats?"
+    a: "Not usually. Each flat normally needs its own system. That way each tenant controls and pays for their own heating."
+  - q: "Where does the outdoor unit go on a Phillipstown unit or flat?"
+    a: "With several flats side by side, units on one shared wall can add up to more noise at the boundary. We space them out and mount them on anti-vibration feet. Then we check the neighbour's side against the boundary noise rules."
 related:
   - { label: Linwood, href: /linwood/, text: "Heat pumps for Linwood homes and units to the east." }
   - { label: Central City, href: /central-business-district-cbd/, text: "Apartments and townhouses just across the avenues." }

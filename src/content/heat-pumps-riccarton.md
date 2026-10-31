@@ -13,12 +13,16 @@ gallery: [pool-townhouse, pool-console-unit]
 faqHeading: Questions about heat pumps in Riccarton
 relatedHeading: Heat pumps near Riccarton
 faqs:
-  - q: Which room needs the heat pump in a Riccarton rental?
-    a: The main living room. That's the biggest room used for everyday living, under the Healthy Homes heating standard. The heater must be fixed, and able to heat that room directly.
-  - q: Can a heat pump go in a villa with high ceilings?
-    a: Yes. But a high ceiling means more air than the floor area suggests. So the unit needs more capacity. A floor console often works well in a villa. It puts warm air out low, where you sit.
-  - q: How do I keep a heat pump in a townhouse quiet for the neighbours?
-    a: Put it on your own wall, away from their bedrooms. Use anti-vibration feet or a bracket, and leave open space round it. Already got a noisy one? Our <a href="/heat-pump-noise-problems-solutions/">noise guide</a> has the fixes.
+  - q: "What size heat pump does a Riccarton villa need with high ceilings?"
+    a: "We size it from the volume of the room, not just the floor area, because a high ceiling means more air to heat. We also check the ceiling and underfloor insulation, since sash windows and timber floors up off the ground lose heat too. A floor console often suits a villa lounge with a low window."
+  - q: "What does the heating standard require in a Riccarton rental?"
+    a: "The main living room needs a fixed heater that heats that room directly and has the capacity the room needs. A heat pump counts as long as it has a thermostat. We size the unit to the living room so it meets the capacity."
+  - q: "How do I heat the bedrooms in a townhouse as well as downstairs?"
+    a: "A unit downstairs heats the ground floor easily but can't reach the bedrooms upstairs. Those need a small unit of their own, or a multi-room system running off one outdoor unit. The multi-room option saves wall space outside, which matters on a narrow section."
+  - q: "Where should the outdoor unit go so it doesn't annoy the neighbours?"
+    a: "Put it on your own wall, away from their bedrooms, on anti-vibration feet or a bracket, with open space round it. Riccarton comes under Christchurch's rules, which measure the noise at the neighbour's site, so we plan the spot when we quote. If you already have a noisy unit, our <a href=\"/heat-pump-noise-problems-solutions/\">noise guide</a> has the fixes."
+  - q: "Can you service every heat pump on a rental property in one visit?"
+    a: "Yes. We can service every heat pump on a property in one visit, and quote several units on one property together. After a service we report on each unit, covering the filters, the drain and the outdoor coil, and whether it's heating as it should. That gives you a record for the tenancy file."
 related:
   - { label: Upper Riccarton, href: /upper-riccarton/, text: "Heat pumps for Upper Riccarton rentals and units." }
   - { label: Ilam, href: /ilam/, text: "Installs for Ilam homes and student flats." }

@@ -13,12 +13,16 @@ gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in Sydenham"
 relatedHeading: "More on heat pumps near Sydenham"
 faqs:
-  - q: Where should the heat pump go in a villa with a new open plan extension?
-    a: Usually in the extension. That's where you spend your evenings. The original front rooms, with their high ceilings, often need a second unit. A <a href="/multi-room-heat-pump-installation/">multi-room system</a> can run both off one outdoor unit.
-  - q: My old heat pump still runs but feels weak. Repair or replace?
-    a: Start with a service. A clogged filter, dirty coil or blocked drain can make a good unit feel weak. Still short of heat after that? We'll tell you whether a repair or a new unit makes more sense.
-  - q: Is there anything different about heat pumps in Sydenham townhouses?
-    a: Not the units themselves. The difference is space. Courtyards are small, walls are shared and the neighbours are close. We plan the outdoor unit round noise and access first.
+  - q: "Where should the heat pump go in a villa with a new open plan extension?"
+    a: "Usually in the extension, where you spend your evenings. The original front rooms, with their high ceilings, often need a second unit. A <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a> can run both off one outdoor unit."
+  - q: "My old heat pump still runs but feels weak. Repair or replace?"
+    a: "Start with a service. A clogged filter, dirty coil or blocked drain can make a good unit feel weak. If it's still short of heat after that, we'll tell you whether a repair or a new unit makes more sense."
+  - q: "Is there anything different about heat pumps in Sydenham townhouses?"
+    a: "Not the units themselves. The difference is space: courtyards are small, walls are shared and the neighbours are close. We plan the outdoor unit round noise and access first."
+  - q: "Can one unit heat both the new extension and the old front rooms?"
+    a: "Not well. Put it in the extension and the front lounge stays cold; put it in the hall and you've heated the hall. In lots of renovated villas each part of the house gets its own unit, with one outdoor unit for both where a multi-room system suits the layout."
+  - q: "What suits a high-stud front room with old windows?"
+    a: "Look at a floor console. It sits under the window and puts heat down low, where you feel it. That works better in a high-stud room than a wall unit up near the ceiling."
 related:
   - { label: Addington, href: /heat-pumps-addington/, text: "Heat pumps for cottages and townhouses in Addington." }
   - { label: Somerfield, href: /somerfield/, text: "Installs and servicing just south in Somerfield." }

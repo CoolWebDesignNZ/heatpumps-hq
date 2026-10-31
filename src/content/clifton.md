@@ -13,14 +13,16 @@ gallery: [pool-hill-home, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Clifton"
 relatedHeading: "More on heat pumps near Clifton"
 faqs:
-  - q: Is there a limit on how far apart the indoor and outdoor units can be?
-    a: Yes. The maker sets a maximum pipe length and height difference for each model. On a multi-level Clifton house, we check those figures for your model before we confirm the layout.
-  - q: Will wind affect a heat pump on an exposed site?
-    a: It can. Strong wind blowing straight into the outdoor unit upsets its airflow. It also drives salt onto the coil. A spot sheltered by the house, with open space around the unit, works better.
-  - q: Can an outdoor unit be mounted high on a wall?
-    a: Yes, on a galvanised bracket fixed to solid framing. We still need to reach it for servicing. So we avoid spots that would need scaffolding every time.
-  - q: Is my heat pump too noisy for the neighbours?
-    a: Sound carries on a hill, so where the unit goes matters. Our <a href="/heat-pump-noise-problems-solutions/">heat pump noise guide</a> covers the usual causes and fixes.
+  - q: "How do you size a heat pump for a Clifton home that faces the sea?"
+    a: "We size for a cold, windy evening, not a still one. Many Clifton houses are well insulated rebuilds, so the main heat loss is through the windows facing the view. An exposed house also loses heat faster on a windy night, so we allow for that."
+  - q: "Can one heat pump heat a house built over several levels?"
+    a: "Warm air rises, so if the bedrooms are on a lower floor than the living area they stay cold. A separate unit for the lower level keeps both warm, and so does a <a href=\"/multi-room-heat-pump-installation/\">multi-room system</a> with an indoor unit on each floor."
+  - q: "Where does the outdoor unit go on a steep site?"
+    a: "Usually on a galvanised wall bracket or a deck, fixed into solid framing with anti-vibration mounts. It needs to stay within reach for servicing, so we avoid spots that would need scaffolding every time. We plan the spot and the pipe route at the quote visit."
+  - q: "How do you protect a heat pump from wind and salt?"
+    a: "We prefer a spot in the lee of the house, with clear space still around the unit, because wind blowing straight into it upsets its airflow and drives salt onto the coil. A yearly service includes a check of the coil and casing for corrosion, and between services a gentle rinse with a hose helps."
+  - q: "Which noise rules apply to a heat pump here?"
+    a: "Clifton is in Christchurch City, so the District Plan sets the noise limits. Sound carries on the hill, so we keep the unit away from the neighbours' decks and bedrooms. Our <a href=\"/heat-pump-noise-problems-solutions/\">heat pump noise guide</a> covers the usual causes and fixes."
 related:
   - { label: Sumner, href: /sumner/, text: "Heat pumps for beach and hill homes below Clifton." }
   - { label: Redcliffs, href: /redcliffs/, text: "Heat pumps along the estuary and hill." }

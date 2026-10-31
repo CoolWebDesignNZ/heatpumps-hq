@@ -13,14 +13,16 @@ gallery: [pool-coastal-home, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Redcliffs"
 relatedHeading: "More on heat pumps near Redcliffs"
 faqs:
-  - q: Does salt air shorten the life of a heat pump in Redcliffs?
-    a: It can. Salt settles on the outdoor coil and casing, and that can speed up corrosion. A sheltered spot helps the unit last. So does a gentle rinse with fresh water every so often, and a yearly service.
-  - q: Where should the outdoor unit go on a Redcliffs house?
-    a: Ideally on the side away from the wind off the water. It needs clear air around it, away from bedroom windows. We settle the spot at the quote visit, once we've seen the wind and the space around your house.
-  - q: How often should a coastal heat pump be serviced?
-    a: At least once a year. Near the sea, we also check the outdoor coil and casing for corrosion at every <a href="/heat-pump-cleaning/">clean</a>.
-  - q: Do you repair older units in Redcliffs?
-    a: Yes. We find and repair faults on all the major brands. Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts.
+  - q: "Does salt air shorten the life of a heat pump in Redcliffs?"
+    a: "It can. Salt settles on the outdoor coil and casing, and that can speed up corrosion. A sheltered spot helps the unit last, as does a gentle rinse with fresh water every so often and a yearly service."
+  - q: "Where should the outdoor unit go on a Redcliffs house?"
+    a: "Ideally on the side away from the wind off the water, with clear air around it and away from bedroom windows. On the hill it usually goes on a wall bracket or a deck, which can mean a longer pipe run and a drain line with a clear path downhill. On the flat, a narrow side yard with the neighbour close by is often the limit. We settle the spot at the quote visit, once we've seen the wind and the space around your house."
+  - q: "What does a yearly clean cover on a unit near the water?"
+    a: "It covers the parts you can't reach, and it lets us spot corrosion early. Near the sea, we also check the outdoor coil and casing for corrosion at every <a href=\"/heat-pump-cleaning/\">clean</a>. Between visits, rinse the outdoor coil gently with a garden hose, never a water blaster, and clean the indoor filters every few weeks in winter."
+  - q: "What happens if salt has eaten into the coil of an old unit?"
+    a: "Sometimes parts aren't made any more for an old unit, or salt has eaten into the coil. If so, we'll tell you before any repair starts. We find and repair faults on all the major brands, including Panasonic and the other brands commonly sold here."
+  - q: "Can one unit heat an open plan living area, or do I need more?"
+    a: "In better insulated, open plan homes on the flat, one unit sized right can heat the living, dining and kitchen space. In bungalows with the living room at the front and bedrooms down a long hall, warm air stops at closed bedroom doors, so a smaller second unit in the bedroom wing is the usual addition. If the ceiling, floor or windows haven't been upgraded, we check those first, as they change the size of both units."
 related:
   - { label: Moncks Bay, href: /moncks-bay/, text: "Heat pumps for homes along the bay." }
   - { label: Sumner, href: /sumner/, text: "Installs and servicing near the beach." }
