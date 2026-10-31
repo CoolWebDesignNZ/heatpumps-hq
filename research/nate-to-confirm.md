@@ -16,7 +16,7 @@ Claims the writers made about how the business works that aren't in site.json. F
 - emergency-heat-pump-repair: asks callers to say if a baby, elderly or unwell person is home; "we won't book a time we can't keep". No after-hours promise.
 - Refrigerant: pages say we recover refrigerant when removing old units. No page claims we hold an Approved Filler certificate (installers guide tells readers to ask for one).
 
-## Process descriptions (standard practice, check they match yours)
+## Process descriptions (confirmed by Nate, 2026-10-31)
 - Install commissioning: pressure test, vacuum, release refrigerant, heating and cooling test, isolating switch by the outdoor unit.
 - Leak repair: electronic and bubble detection, nitrogen pressure test, evacuate, recharge by weight.
 - Service visits: filters, indoor coil and fan, drain, outdoor coil, performance check, note of findings after each visit; small fixes (feet, lagging) done on the spot.
@@ -28,6 +28,7 @@ Claims the writers made about how the business works that aren't in site.json. F
 
 ## Trust claims (confirmed by Nate, 2026-10-31)
 - "Insured" and "Certified, trained team", as shown in the strip under every hero, are what Nate has. Warranty claim removed.
+- Nate holds the New Zealand Certificate in Air Conditioning Installation (Level 4): on About and in the founder schema (site.json ownerCredential).
 
 ## Locations grouping
 - Fendalton and Bryndwr under North and north-west; Halswell, Aidanfield, Oaklands, Hoon Hay and Hillmorton under Port Hills, harbour and south.

@@ -40,4 +40,4 @@ A unit that's too big costs more to buy. It doesn't make the room any warmer. It
 
 ## A trained and certified Heat Pumps HQ team
 
-We've been fitting and repairing heat pumps in Christchurch for over 10 years. Our technicians are trained and certified. We keep that training up to date, because heat pumps and the way they're installed keep changing. The person who comes to your house knows the current models and the right way to fit them.
+We've been fitting and repairing heat pumps in Christchurch for over 10 years. Nate Thompson holds the New Zealand Certificate in Air Conditioning Installation (Level 4), and our technicians are trained and certified. We keep that training up to date, because heat pumps and the way they're installed keep changing. The person who comes to your house knows the current models and the right way to fit them.
