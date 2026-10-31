@@ -31,7 +31,7 @@ Claims the writers made about how the business works that aren't in site.json. F
 - "Fully insured" shows in the strip under every hero. Confirm.
 
 ## Home page (approved, not changed)
-- FAQ says "fully insured" and "warranties on parts and labour". Confirm both.
+- "Fully insured" shows in the strip under the hero. Confirm. (Warranty claim removed, 2026-10-31.)
 
 ## Locations grouping
 - Fendalton and Bryndwr under North and north-west; Halswell, Aidanfield, Oaklands, Hoon Hay and Hillmorton under Port Hills, harbour and south.
