@@ -10,6 +10,7 @@ sitemap is kept exactly, trailing slash included, and new pages the client appro
 - `src/pages/404.astro` and `src/pages/thank-you.astro` — noindex, not in urls.json or the sitemap. The quote form should land on /thank-you/ once /api/quote exists.
 - `npm run check-copy` — checks every page against the CLAUDE.md copy and SEO rules.
 - `research/keywords.json` — main and secondary keyword per URL (DataForSEO, NZ, 2026-10-17).
+- `src/lib/sitemap.ts` — each page's `lastmod` is the date its source file was last committed, so build from a full clone (the build stops on a shallow one: `git fetch --unshallow`).
 - `npm run build` — builds `dist/` and reports how many of the URLs in urls.json exist. It fails if a page isn't listed there.
 
 Brand colours are `--brand` / `--brand-ink` in `src/styles/global.css`.

@@ -5,6 +5,10 @@ import site from '../data/site.json';
 import urls from '../data/urls.json';
 
 const today = new Date().toISOString().slice(0, 10);
+// A shallow clone has no file history, so every page would get the same date.
+let shallow = false;
+try { shallow = execSync('git rev-parse --is-shallow-repository').toString().trim() === 'true'; } catch {}
+if (shallow) throw new Error('sitemap: this clone has no git history, so lastmod dates would be wrong. Run `git fetch --unshallow` and build again.');
 function lastmod(file: string) {
   try {
     if (execSync(`git status --porcelain -- "${file}"`).toString().trim()) return today;
