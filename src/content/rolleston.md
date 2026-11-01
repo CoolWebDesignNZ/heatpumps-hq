@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Rolleston
 serviceName: Heat pump installation, servicing and repair
 areaServed: Rolleston
 suburb: Rolleston
-intro: "We install, service and repair heat pumps in Rolleston, from the new subdivisions to the older homes. Clear winter nights on the plains bring hard frosts, so we mount outdoor units on raised feet or brackets with defrost water draining away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Rolleston, from the new subdivisions to the older homes. Clear winter nights on the plains bring hard frosts, so we mount outdoor units on raised feet or low wall brackets with defrost water draining away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: rolleston-hero
 gallery: [rolleston-newbuild, rolleston-living]
 faqHeading: Questions about heat pumps in Rolleston
@@ -38,7 +38,11 @@ We size every install from your actual rooms, your windows and how you use the h
 
 ## Built for Rolleston's plains frosts
 
-Clear winter nights on the plains bring hard frosts. That's when a heat pump works hardest. The outdoor unit needs to sit up on raised feet or a bracket. Defrost water has to drain away, and air needs to move freely round it. Get that right and the house is warm at 6am. Get it wrong and the unit struggles.
+Clear winter nights on the plains bring hard frosts. That's when a heat pump works hardest. The outdoor unit needs to sit up on raised feet or a low wall bracket. Defrost water has to drain away, and air needs to move freely round it. Get that right and the house is warm at 6am. Get it wrong and the unit struggles.
+
+## Selwyn noise rules for Rolleston heat pumps
+
+Rolleston is in Selwyn District, so the Selwyn District Plan sets the noise limits, not Christchurch's. In Selwyn's residential zones the limits at the neighbour's boundary are 50 dB LAeq by day and 40 dB LAeq at night, with short peaks capped at 70 dB LAmax. A unit at ground level on a solid pad with rubber mounts, away from the neighbour's bedrooms, carries less noise next door than one high on a wall. We plan the spot at the quote. The [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) compares Selwyn with Christchurch.
 
 ## What we do in Rolleston
 

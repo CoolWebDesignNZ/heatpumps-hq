@@ -62,13 +62,13 @@ Choosing [ducted vs split](/ducted-vs-split-heat-pumps-christchurch/) comes down
 
 ## Larger Prebbleton sections and rural blocks
 
-On a bigger section, the outdoor unit can usually sit well back from the boundary. Then noise is less of a worry. It still needs raised feet or a bracket, so defrost water drains away on frosty mornings. It needs good airflow round it too.
+On a bigger section, the outdoor unit can usually sit well back from the boundary. Then noise is less of a worry. It still needs raised feet or a low wall bracket, so defrost water drains away on frosty mornings. It needs good airflow round it too.
 
 Whoever wires it in has to be a licensed electrical worker. They'll make sure the switchboard can take the new circuit.
 
 ## Selwyn District noise rules for Prebbleton heat pumps
 
-In Prebbleton, heat pump noise comes under the Selwyn District Plan. Where the outdoor unit sits decides how much noise reaches next door. So we place it with the [boundary rules](/heat-pump-boundary-rules-consent-nz/) in mind.
+In Prebbleton, heat pump noise comes under the Selwyn District Plan. Where the outdoor unit sits decides how much noise reaches next door. So we place it with the [boundary rules](/heat-pump-boundary-rules-consent-nz/) in mind. In Selwyn's residential zones the limits at the neighbour's boundary are 50 dB LAeq by day and 40 dB LAeq at night, with short peaks capped at 70 dB LAmax. A unit at ground level on a solid pad with rubber mounts, away from the neighbour's bedrooms, carries less noise next door than one high on a wall.
 
 ## What we do in Prebbleton
 

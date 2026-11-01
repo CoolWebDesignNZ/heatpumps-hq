@@ -55,7 +55,7 @@ On a big section, keep it clear of long grass, garden beds and anything else tha
 
 ## Distance from neighbours in Tai Tapu
 
-On a lifestyle block, the nearest neighbour may be a fair way off. So noise over the boundary is rarely an issue. In the village, sections are closer together. Either way, Tai Tapu is in Selwyn District, and its district plan is the one that counts.
+On a lifestyle block, the nearest neighbour may be a fair way off. So noise over the boundary is rarely an issue. In the village, sections are closer together. Either way, Tai Tapu is in Selwyn District, and its district plan is the one that counts. In Selwyn's residential zones the limits at the neighbour's boundary are 50 dB LAeq by day and 40 dB LAeq at night, with short peaks capped at 70 dB LAmax. A unit at ground level on a solid pad with rubber mounts, away from the neighbour's bedrooms, carries less noise next door than one high on a wall.
 
 ## Heat pump installation in Tai Tapu
 

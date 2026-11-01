@@ -7,7 +7,7 @@ h1: Heat pump installation in Lincoln, town and country
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lincoln
 suburb: Lincoln
-intro: "We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it. Lincoln sits on flat, open land where still winter nights bring hard frosts, so we mount outdoor units on raised feet or a bracket to let defrost water drain away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it. Lincoln sits on flat, open land where still winter nights bring hard frosts, so we mount outdoor units on raised feet or a low wall bracket to let defrost water drain away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
 hero: lincoln-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Lincoln"
@@ -39,7 +39,7 @@ At the quote we measure each room and look at the insulation and windows. We siz
 
 ## Heat pumps on Lincoln's frosty open ground
 
-Lincoln is on flat, open land. Still winter nights bring hard frosts. That's when a heat pump works hardest, and when the outdoor unit runs its defrost cycle. We mount it on raised feet or a bracket. The melt water drains away and doesn't freeze into a block of ice under it. We also keep it out of spots where frost hangs around longest, like a shady corner against a south wall.
+Lincoln is on flat, open land. Still winter nights bring hard frosts. That's when a heat pump works hardest, and when the outdoor unit runs its defrost cycle. We mount it on raised feet or a low wall bracket. The melt water drains away and doesn't freeze into a block of ice under it. We also keep it out of spots where frost hangs around longest, like a shady corner against a south wall.
 
 Capacity counts too. A unit sized for an average day struggles on a cold morning. So we size for the weather you actually get. Our guide to [cold climate heat pumps](/cold-climate-heat-pumps/) explains what to look for.
 
@@ -55,7 +55,7 @@ We'll walk through the house with you and explain what each option suits.
 
 ## Selwyn noise rules in Lincoln
 
-Lincoln is in Selwyn District, not Christchurch City. So the Selwyn District Plan covers any noise from the outdoor unit. On a rural block the neighbours may be well away. In town, the house next door can be close. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how placement affects noise.
+Lincoln is in Selwyn District, not Christchurch City. So the Selwyn District Plan covers any noise from the outdoor unit. On a rural block the neighbours may be well away. In town, the house next door can be close. In Selwyn's residential zones the limits at the neighbour's boundary are 50 dB LAeq by day and 40 dB LAeq at night, with short peaks capped at 70 dB LAmax. A unit at ground level on a solid pad with rubber mounts, away from the neighbour's bedrooms, carries less noise next door than one high on a wall. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how placement affects noise.
 
 ## What we do in Lincoln
 
