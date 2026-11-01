@@ -46,7 +46,16 @@ Plan for the night limit. Heat pumps work hardest on cold nights and early morni
 
 ## Selwyn and Waimakariri are different
 
-Live in Rolleston, Lincoln, Prebbleton or elsewhere in Selwyn? The Selwyn District Plan applies, not Christchurch's. Kaiapoi and Rangiora come under Waimakariri District Council, which has its own rules on noisy heat pumps. The idea is the same everywhere. Noise is measured at the neighbour's property.
+Live in Rolleston, Lincoln, Prebbleton or elsewhere in Selwyn? The Selwyn District Plan applies, not Christchurch's. In Selwyn's residential zones the limits are measured at or inside the boundary of the neighbour's property:
+
+| Time | Limit |
+| --- | --- |
+| 7am to 10pm | 50 dB LAeq and 70 dB LAmax |
+| 10pm to 7am | 40 dB LAeq and 70 dB LAmax |
+
+The night average is the same 40 dB as Christchurch. The difference is the peak: Selwyn allows short peaks up to 70 dB at night, where Christchurch allows 65 dB, and Selwyn also caps peaks during the day. Either way, a unit at ground level on a solid pad with rubber mounts, away from the neighbour's bedrooms, carries less noise next door than one high on a wall.
+
+Kaiapoi and Rangiora come under Waimakariri District Council, which has its own rules on noisy heat pumps. The idea is the same everywhere. Noise is measured at the neighbour's property.
 
 ## Where to put the outdoor unit near a boundary
 

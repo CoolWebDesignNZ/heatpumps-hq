@@ -76,7 +76,7 @@ Christchurch is hard on a heat pump in its own ways. We plan every install aroun
 - **Older villas and bungalows.** Homes like those in [St Albans](/st-albans/) lose heat through the floor and single glazing, and their rooms are closed off. They usually need a unit in each room you use, not one big unit in the lounge.
 - **Newer, well insulated homes.** In subdivisions like [Halswell](/halswell/) and Wigram, one well placed unit can often heat a whole open plan living area.
 - **Hot nor'west days.** Every heat pump we fit cools as well as heats, so the same unit keeps the house comfortable in summer.
-- **Selwyn has its own rules.** Rolleston, Lincoln, Prebbleton and Tai Tapu come under the Selwyn District Plan, not Christchurch's. The outdoor unit still has to stay quiet at the neighbour's place.
+- **Selwyn has its own rules.** Rolleston, Lincoln, Prebbleton and Tai Tapu come under the Selwyn District Plan, not Christchurch's. The night limit is the same 40 dB LAeq at the neighbour's place, but Selwyn allows short peaks up to 70 dB rather than 65 dB. A unit at ground level on a solid pad carries less noise next door than one high on a wall.
 
 ## Choosing the right heat pump system
 
