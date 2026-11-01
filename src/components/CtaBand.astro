@@ -7,7 +7,7 @@ const { heading = 'Get a free heat pump quote', dark = false } = Astro.props;
 <section class:list={["section", dark ? "cta-dark" : "tint"]}>
   <div class="wrap cta">
     <h2>{heading}</h2>
-    <p class="lead">Free quotes. Monday to Friday, 8am to 5pm. No obligation. We'll call or email you back.</p>
+    <p class="lead">Free quotes, no obligation. We call or email you back {site.replyTime}. Monday to Friday, 8am to 5pm.</p>
     {dark ? (
       <>
         <a class="btn btn-outline" href={site.phoneHref}>Call {site.phone}</a>

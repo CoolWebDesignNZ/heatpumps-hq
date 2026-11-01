@@ -32,7 +32,7 @@ const options = ['Installation', 'Repair', 'Service'];
     <button class="btn btn-primary" type="submit">Request my quote</button>
     <button class="qf-back" type="button">Back</button>
   </div>
-  <p class="qf-note">No obligation. We call or email you back {site.hours[0].days}, {site.hours[0].label}.</p>
+  <p class="qf-note">No obligation. We call or email you back {site.replyTime}.</p>
 </form>
 <script>
   for (const form of document.querySelectorAll<HTMLFormElement>('.qf-steps')) {

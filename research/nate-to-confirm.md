@@ -28,6 +28,7 @@ Claims the writers made about how the business works that aren't in site.json. F
 
 ## Trust claims (confirmed by Nate, 2026-10-31)
 - "Insured" and "Certified, trained team", as shown in the strip under every hero, are what Nate has. Warranty claim removed.
+- Reply time: "We call or email you back the same working day" (Nate, 2026-11-01). site.json replyTime; quote form, quote band, thank-you page.
 - Nate holds the New Zealand Certificate in Air Conditioning Installation (Level 4): on About and in the founder schema (site.json ownerCredential).
 
 ## Locations grouping
