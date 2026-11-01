@@ -4,8 +4,9 @@ import Img from './Img.astro';
 import QuoteForm from './QuoteForm.astro';
 import site from '../data/site.json';
 // home: the home page hero (price line above the call line, narrower form column).
-interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean }
-const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
+// price: show the from-price line (home, and pages with fromPrice: true). service: pre-select it in the form.
+interface Props { image: string; h1: string; intro: string; suburb?: string; meta?: string; home?: boolean; price?: boolean; service?: string }
+const { image, h1, intro, suburb = '', meta, home = false, price = home, service = '' } = Astro.props;
 ---
 <section class:list={["hero", { "hero-home": home }]}>
   <Img id={image} eager class="hero-bg" />
@@ -16,16 +17,16 @@ const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
       <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
       {meta && <p class="hero-meta">{meta}</p>}
-      {home && <p class="hero-price">Installations from {site.installFrom}. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
-      <p class:list={["hero-talk", { "hero-talk-first": !home }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
+      {price && <p class="hero-price">Installations from {site.installFrom}. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
+      <p class:list={["hero-talk", { "hero-talk-first": !price, "hero-talk-after-price": price }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
-    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} /></div>
+    <div id="quote" class="hero-form"><QuoteForm suburb={suburb} service={service} /></div>
   </div>
 </section>
 <section class="trust">
   <div class="wrap trust-in">
     <div><strong>{Math.floor((new Date().getFullYear() - site.founded) / 5) * 5}+</strong><span>years in business</span></div>
-    <div><strong>Certified</strong><span>trained team</span></div>
+    <div><strong>Certified</strong><span>NZ Certificate in Air Conditioning Installation</span></div>
     <div><strong>All brands</strong><span>serviced and repaired</span></div>
     <div><strong>Insured</strong><span>fully covered</span></div>
   </div>
@@ -40,7 +41,7 @@ const { image, h1, intro, suburb = '', meta, home = false } = Astro.props;
   @media (min-width: 961px) { .hero-home .hero-in { grid-template-columns: minmax(0, 1fr) minmax(0, 380px); gap: 48px; } }
   .hero-home .hero-shade { background: linear-gradient(0deg, rgba(12, 22, 34, .6) 0%, rgba(12, 22, 34, 0) 50%), linear-gradient(90deg, rgba(12, 22, 34, .88) 0%, rgba(12, 22, 34, .66) 48%, rgba(12, 22, 34, .18) 100%); }
   .hero-talk-first { margin-top: 0 !important; }
-  .hero-home .hero-talk { margin-top: 10px; }
+  .hero-talk.hero-talk-after-price { margin-top: 10px; }
   .hero-talk { margin: 44px 0 20px; font-size: 1rem; color: rgba(255, 255, 255, .78); }
   .hero-talk a { color: #fff; font-weight: 650; text-decoration: underline; text-decoration-color: var(--accent); text-decoration-thickness: 2px; text-underline-offset: 4px; }
   .hero-talk a:hover { text-decoration-color: #fff; }

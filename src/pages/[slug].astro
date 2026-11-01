@@ -136,7 +136,7 @@ if (fm.faqs?.length) {
 }
 ---
 <Base title={fm.title} description={fm.description} schema={schema} image={fm.hero}>
-  <Hero image={fm.hero} h1={fm.h1} intro={fm.intro} suburb={fm.suburb ?? ''}
+  <Hero image={fm.hero} h1={fm.h1} intro={fm.intro} suburb={fm.suburb ?? ''} price={fm.fromPrice} service={fm.formService}
         meta={type === 'guide' && fm.updated ? `Updated ${new Date(fm.updated).toLocaleDateString('en-NZ', { day: 'numeric', month: 'long', year: 'numeric' })}` : undefined}>
     <nav slot="crumbs" class="crumbs-hero" aria-label="Breadcrumb">
       {crumbs.map((c, i) => i < crumbs.length - 1

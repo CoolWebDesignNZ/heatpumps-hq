@@ -1,8 +1,9 @@
 ---
 // Two-step quote form on every page: step 2 only shows once Name and Phone are filled in.
 // suburb pre-fills the Suburb field on suburb pages.
-interface Props { suburb?: string }
-const { suburb = '' } = Astro.props;
+interface Props { suburb?: string; service?: string }
+const { suburb = '', service = '' } = Astro.props;
+import site from '../data/site.json';
 const options = ['Installation', 'Repair', 'Service'];
 ---
 <form class="qf qf-steps" method="post" action="/api/quote" data-step="1">
@@ -16,13 +17,13 @@ const options = ['Installation', 'Repair', 'Service'];
       <legend>What do you need?</legend>
       <div class="opts">
         {options.map((o) => (
-          <label class="opt"><input type="radio" name="service" value={o} required /><span>{o}</span></label>
+          <label class="opt"><input type="radio" name="service" value={o} required checked={o === service} /><span>{o}</span></label>
         ))}
       </div>
       <p class="qf-err" hidden>Choose installation, repair or service.</p>
     </fieldset>
     <label>Type a brief description below<textarea name="message" rows="2" placeholder="Area you want to heat, fault description..."></textarea></label>
-    <button class="btn btn-primary qf-next" type="button">Next step</button>
+    <button class="btn btn-primary qf-next" type="button">Next: your address</button>
   </div>
   <div class="qf-step" data-step="2">
     <label>Suburb or address<input name="suburb" required autocomplete="street-address" placeholder="e.g., Riccarton, or 123 Main South Road" value={suburb} /></label>
@@ -31,7 +32,7 @@ const options = ['Installation', 'Repair', 'Service'];
     <button class="btn btn-primary" type="submit">Request my quote</button>
     <button class="qf-back" type="button">Back</button>
   </div>
-  <p class="qf-note">No obligation. We'll call or email you back.</p>
+  <p class="qf-note">No obligation. We call or email you back {site.hours[0].days}, {site.hours[0].label}.</p>
 </form>
 <script>
   for (const form of document.querySelectorAll<HTMLFormElement>('.qf-steps')) {
