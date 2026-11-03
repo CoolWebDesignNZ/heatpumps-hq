@@ -1,0 +1,19 @@
+---
+// Call and quote buttons fixed to the foot of the screen on phones, on every
+// page, where the header has room only for the call button and the menu.
+import site from '../data/site.json';
+interface Props { quoteHref?: string }
+const { quoteHref = '#quote' } = Astro.props;
+---
+<div class="q-bar" aria-label="Get a quote">
+  <a class="btn btn-ghost" href={site.phoneHref}>Call {site.phone}</a>
+  <a class="btn btn-primary" href={quoteHref}>Free quote</a>
+</div>
+<style>
+  .q-bar { display: none; }
+  @media (max-width: 760px) {
+    .q-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 50; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); background: #fff; box-shadow: 0 -4px 20px rgba(16, 24, 32, .12); }
+    .q-bar .btn { text-align: center; padding-left: 8px; padding-right: 8px; }
+    :global(body) { padding-bottom: 72px; }
+  }
+</style>

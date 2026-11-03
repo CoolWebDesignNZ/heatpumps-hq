@@ -150,11 +150,6 @@ const steps = fm.steps ?? [];
   </div>
 </section>
 
-<div class="m-bar" aria-label="Get a quote">
-  <a class="btn btn-ghost" href={site.phoneHref}>Call {site.phone}</a>
-  <a class="btn btn-primary" href="#quote">Free quote</a>
-</div>
-
 <style>
   .m-sec { padding: 88px 0; }
   .m-sec.tint { background: var(--brand-tint); }
@@ -209,13 +204,6 @@ const steps = fm.steps ?? [];
   .m-quote .btn { width: 100%; text-align: center; }
   .m-quote-call { margin: 16px 0 0; text-align: center; color: var(--ink-soft); font-size: .95rem; }
   .m-quote-call a { font-weight: 700; }
-
-  .m-bar { display: none; }
-  @media (max-width: 760px) {
-    .m-bar { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 50; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); background: #fff; box-shadow: 0 -4px 20px rgba(16, 24, 32, .12); }
-    .m-bar .btn { text-align: center; padding-left: 8px; padding-right: 8px; }
-    :global(body) { padding-bottom: 72px; }
-  }
 
   @media (max-width: 1000px) {
     .m-options { grid-template-columns: 1fr 1fr; }
