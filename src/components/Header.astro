@@ -27,7 +27,7 @@ const here = Astro.url.pathname;
         {plain.map((n) => <li><a href={n.href} class="top">{n.label}</a></li>)}
       </ul>
     </nav>
-    <a class="btn btn-ghost quote" href={here === '/thank-you/' ? '/#quote' : '#quote'}><span class="call-short">Quote</span><span class="call-long">Free quote</span></a>
+    <a class="btn quote" href={here === '/thank-you/' ? '/#quote' : '#quote'}><span class="call-short">Quote</span><span class="call-long">Free quote</span></a>
     <a class="btn btn-primary call" href={site.phoneHref}><span class="call-short">Call</span><span class="call-long">{site.phone}</span></a>
     <details class="mnav">
       <summary>Menu</summary>
@@ -59,7 +59,8 @@ const here = Astro.url.pathname;
   .top:hover, .has-menu:hover .top, .has-menu:focus-within .top { color: var(--link); }
   .top:hover, .menu a:hover, .mnav a:hover { text-decoration: underline; }
   .call { align-self: center; padding: 12px 22px; white-space: nowrap; }
-  .quote { align-self: center; padding: 12px 20px; white-space: nowrap; margin-right: -16px; }
+  .quote { align-self: center; padding: 12px 20px; white-space: nowrap; margin-right: -16px; background: var(--brand-tint); color: var(--brand-ink); }
+  .quote:hover { background: #d6e8f2; }
 
   .menu { display: none; position: absolute; top: 100%; left: -18px; min-width: 250px; list-style: none; margin: 0; padding: 10px 0; background: #fff; border-radius: 10px; box-shadow: 0 14px 34px rgba(16, 24, 32, .14); }
   .has-menu:hover .menu, .has-menu:focus-within .menu { display: block; }
