@@ -802,5 +802,11 @@
   "slug": "islington",
   "type": "suburb",
   "new": true
+ },
+ {
+  "path": "/rinnai-heat-pumps-christchurch/",
+  "slug": "rinnai-heat-pumps-christchurch",
+  "type": "service",
+  "new": true
  }
 ]

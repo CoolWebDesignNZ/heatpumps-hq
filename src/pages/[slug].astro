@@ -79,7 +79,7 @@ const brandPages = {
   'Fujitsu': [['Service and repair', '/fujitsu-heat-pump-service-christchurch/']],
   'Toshiba': [['Service and repair', '/toshiba-heat-pump-service-christchurch/'], ['How the brands compare', '/heat-pump-brands-comparison/']],
   'Panasonic': [['Service and repair', '/panasonic-heat-pump-service-christchurch/']],
-  'Rinnai': [['Starting price', '/heat-pump-installation-cost-christchurch/']],
+  'Rinnai': [['Rinnai heat pumps', '/rinnai-heat-pumps-christchurch/'], ['Starting price', '/heat-pump-installation-cost-christchurch/']],
 };
 // Brands left off a page's brand tiles because they make no unit of that type.
 const brandNotOn = { Rinnai: ['ceiling-cassette-heat-pumps'] };
@@ -102,7 +102,7 @@ const place = fm.suburb
   : [{ '@type': 'City', name: 'Christchurch' }, { '@type': 'AdministrativeArea', name: 'Selwyn District' }, { '@type': 'Place', name: 'Lyttelton' }];
 // The published from-price goes only on pages for a standard single install
 // (CLAUDE.md lists every place the price appears).
-const fromPricePages = ['heat-pump-installation-in-christchurch', 'single-room-heat-pump-installation', 'high-wall-heat-pumps'];
+const fromPricePages = ['heat-pump-installation-in-christchurch', 'single-room-heat-pump-installation', 'high-wall-heat-pumps', 'rinnai-heat-pumps-christchurch'];
 const fromPrice = fromPricePages.includes(slug) ? {
   offers: { '@type': 'Offer', priceSpecification: { '@type': 'PriceSpecification', minPrice: Number(site.installFrom.replace(/[^0-9]/g, '')), priceCurrency: 'NZD', valueAddedTaxIncluded: true }, description: `From ${site.installFrom} ${site.installFromNote}` },
 } : {};

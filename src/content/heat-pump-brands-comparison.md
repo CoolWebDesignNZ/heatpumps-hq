@@ -59,7 +59,7 @@ All four have high wall, floor console, multi room and ducted systems. All four 
 
 All four sell the main types a Christchurch house is likely to need. The differences that matter show up model by model.
 
-We also fit Rinnai. Its range here covers high wall, floor console, multi split and ducted heat pumps, and its high wall and floor console models have Wi-Fi built in. It has no ceiling cassette. A back-to-back Rinnai install is the one our starting price is based on.
+We also fit [Rinnai heat pumps](/rinnai-heat-pumps-christchurch/). Its range here covers high wall, floor console, multi split and ducted heat pumps, and its high wall and floor console models have Wi-Fi built in. It has no ceiling cassette. A back-to-back Rinnai install is the one our starting price is based on.
 
 ## What actually differs between models
 

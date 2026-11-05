@@ -1578,5 +1578,15 @@
     "aspect": "4x3",
     "alt": "Heat pump in the lounge of an older cottage",
     "prompt": "Interior photograph of the small lounge of an older New Zealand weatherboard cottage, white wall-mounted heat pump high on the wall above a doorway, sash window, natural light, realistic photograph, no people, no text, no logos"
+  },
+  "rinnai-hero": {
+    "aspect": "16x9",
+    "alt": "White high wall heat pump above a window in a bright Christchurch living room",
+    "prompt": "Realistic editorial photograph of a single plain white high wall heat pump indoor unit mounted high on the outside wall of a bright New Zealand living room, sofa and timber floor, soft winter daylight through a window, calm and tidy, only one heat pump unit in the picture and no outdoor unit, no people, no text, no logos"
+  },
+  "rinnai-2": {
+    "aspect": "4x3",
+    "alt": "Heat pump controlled from a phone app in a living room",
+    "prompt": "Realistic close-up photograph of a hand holding a smartphone showing a simple temperature control screen with large plain numbers, a white high wall heat pump indoor unit softly out of focus on the wall behind, warm living room, natural light, no brand names, no logos, no other text"
   }
 }
