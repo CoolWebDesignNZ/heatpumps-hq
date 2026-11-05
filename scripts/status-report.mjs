@@ -168,6 +168,7 @@ if (activity && !activity.error) {
     '| Measure | Last month | Month before |',
     '|---|---|---|',
     `| Quote form leads | ${n(L, 'lead')}${ch(n(L, 'lead'), n(B, 'lead'))} | ${n(B, 'lead')} |`,
+    ...(n(L, 'lead-unsent') ? [`| Leads whose email failed (they were asked to ring; check the More Leads dashboard) | ${n(L, 'lead-unsent')} | ${n(B, 'lead-unsent')} |`] : []),
     `| Taps on the phone number | ${n(L, 'phone')}${ch(n(L, 'phone'), n(B, 'phone'))} | ${n(B, 'phone')} |`,
     `| Clicks on a quote button | ${n(L, 'quote')}${ch(n(L, 'quote'), n(B, 'quote'))} | ${n(B, 'quote')} |`,
     '',

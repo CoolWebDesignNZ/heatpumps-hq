@@ -56,6 +56,7 @@ export async function onRequestPost({ request, env, waitUntil }) {
     return page(503, "Your request didn't send", callUs);
   }
 
+  let emailed = false;
   try {
     const res = await env.EMAILER.fetch('https://emailer/', {
       method: 'POST',
@@ -70,16 +71,17 @@ export async function onRequestPost({ request, env, waitUntil }) {
     });
     const out = await res.json().catch(() => ({}));
     if (!res.ok || !out.ok) throw new Error(`${res.status} ${JSON.stringify(out)}`);
+    emailed = true;
   } catch (err) {
     console.log('quote: send failed', String(err), text);
-    return page(502, "Your request didn't send", callUs);
   }
 
-  // After the email has gone: count the lead for the monthly report, and pass it to the
-  // More Leads tracker (leads.moreleads.nz) the way the old site's form webhook did. Neither
-  // can cost the lead: both run after the reply and their failures are only logged.
+  // Count the lead for the monthly report, and pass it to the More Leads tracker
+  // (leads.moreleads.nz) the way the old site's form webhook did. Both happen whether or not
+  // the email went, so a lead is never lost to a mail fault: the tracker shows it as not
+  // emailed. They run after the reply and their failures are only logged.
   const fromPath = (() => { try { return new URL(from).pathname; } catch { return ''; } })();
-  waitUntil(recordEvent(env, 'lead', fromPath, new URL(request.url).hostname, q.service));
+  waitUntil(recordEvent(env, emailed ? 'lead' : 'lead-unsent', fromPath, new URL(request.url).hostname, q.service));
   if (env.LEADS_KEY && env.LEADS_SITE) {
     waitUntil(fetch('https://leads.moreleads.nz/api/lead.php', {
       method: 'POST',
@@ -87,11 +89,13 @@ export async function onRequestPost({ request, env, waitUntil }) {
       body: JSON.stringify({ site: env.LEADS_SITE, key: env.LEADS_KEY, lead: {
         source: 'form', service: q.service, name: q.name, phone: q.phone, email,
         suburb: q.suburb, message: q.message, page_url: from, received_at: new Date().toISOString(),
-        emailed_to: String(env.LEAD_TO).split(',').map((s) => s.trim()), emailed_ok: true,
+        emailed_to: String(env.LEAD_TO).split(',').map((s) => s.trim()), emailed_ok: emailed,
       } }),
     }).then((r) => { if (!r.ok) console.log('quote: tracker said', r.status); }).catch((e) => console.log('quote: tracker failed', String(e))));
   }
 
+  // The visitor is told the truth: if the email did not go, they are asked to ring.
+  if (!emailed) return page(502, "Your request didn't send", callUs);
   return Response.redirect(new URL('/thank-you/', request.url), 303);
 }
 
