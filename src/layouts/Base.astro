@@ -67,5 +67,17 @@ const graph = Astro.url.pathname === '/' ? [business, website, ...schema] : [bus
   <main><slot /></main>
   <Footer />
   <QuoteBar quoteHref={Astro.url.pathname === '/thank-you/' ? '/#quote' : '#quote'} />
+  <script is:inline>
+    // Phone taps and quote-button clicks, counted for the monthly report (functions/api/event.js).
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a');
+      if (!a) return;
+      var h = a.getAttribute('href') || '';
+      var type = h.indexOf('tel:') === 0 ? 'phone' : /#quote$/.test(h) ? 'quote' : '';
+      if (type && navigator.sendBeacon) navigator.sendBeacon('/api/event', JSON.stringify({ type: type, page: location.pathname }));
+    });
+  </script>
+  {/* The chat assistant from the More Leads tracker, the same one the old site ran. */}
+  <script src={site.chatWidget} defer></script>
 </body>
 </html>

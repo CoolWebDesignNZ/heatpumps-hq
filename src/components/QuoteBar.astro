@@ -5,7 +5,7 @@ import site from '../data/site.json';
 interface Props { quoteHref?: string }
 const { quoteHref = '#quote' } = Astro.props;
 ---
-<div class="q-bar" aria-label="Get a quote">
+<div class="q-bar mobile-bar" aria-label="Get a quote">
   <a class="btn q-call" href={site.phoneHref}>Call {site.phone}</a>
   <a class="btn btn-primary" href={quoteHref}>Free quote</a>
 </div>

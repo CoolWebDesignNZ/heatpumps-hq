@@ -93,6 +93,33 @@ const gscFiles = fs.existsSync(path.join(dir, 'gsc')) ? fs.readdirSync(path.join
 const gscNow = gscFiles.length ? JSON.parse(fs.readFileSync(path.join(dir, 'gsc', gscFiles.at(-1)), 'utf8')) : null;
 const gscPrev = gscFiles.length > 1 ? JSON.parse(fs.readFileSync(path.join(dir, 'gsc', gscFiles.at(-2)), 'utf8')) : null;
 
+// Leads and calls from the site itself (functions/api/event.js and quote.js write them to the
+// heatpumps-hq-events D1 database). Last calendar month against the month before, real domain only.
+const D1 = '26674de9-c075-42d1-a4cb-b716f963b65d';
+async function d1(sql, params = []) {
+  const r = await fetch(`https://api.cloudflare.com/client/v4/accounts/${process.env.CLOUDFLARE_ACCOUNT_ID}/d1/database/${D1}/query`, {
+    method: 'POST', headers: { Authorization: `Bearer ${process.env.CLOUDFLARE_API_TOKEN}`, 'Content-Type': 'application/json' }, body: JSON.stringify({ sql, params }),
+  });
+  const j = await r.json();
+  if (!j.success) throw new Error(JSON.stringify(j.errors));
+  return j.result[0].results;
+}
+const monthStart = (d, back) => new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() - back, 1)).toISOString().slice(0, 10);
+const now = new Date();
+const months = [[monthStart(now, 1), monthStart(now, 0)], [monthStart(now, 2), monthStart(now, 1)]];
+let activity = null;
+if (process.env.CLOUDFLARE_API_TOKEN && process.env.CLOUDFLARE_ACCOUNT_ID) {
+  try {
+    const count = async ([from, to]) => Object.fromEntries((await d1(
+      "SELECT type, COUNT(*) AS n FROM events WHERE host = ? AND created_at >= ? AND created_at < ? GROUP BY type", [DOMAIN, from, to])).map((r) => [r.type, r.n]));
+    activity = { last: { from: months[0][0], to: months[0][1], ...(await count(months[0])) }, before: { from: months[1][0], to: months[1][1], ...(await count(months[1])) } };
+    const pages = await d1("SELECT page, COUNT(*) AS n FROM events WHERE host = ? AND type = 'lead' AND created_at >= ? AND created_at < ? GROUP BY page ORDER BY n DESC LIMIT 10", [DOMAIN, ...months[0]]);
+    activity.leadPages = pages;
+  } catch (e) { activity = { error: String(e.message ?? e) }; }
+}
+summary.activity = activity;
+fs.writeFileSync(todayFile, JSON.stringify({ summary, rows }, null, 1) + '\n');
+
 const ch = (now, was, lowerIsBetter = false) => {
   if (was == null || now == null) return '';
   const d = Math.round((now - was) * 10) / 10;
@@ -132,6 +159,25 @@ const lines = [
   `| Google AI Overviews citing the site | ${summary.all.aiOverviewCitesUs}${ch(summary.all.aiOverviewCitesUs, p?.all.aiOverviewCitesUs)} | |`,
   `| Searches ranking on the wrong page | ${summary.all.wrongPage}${ch(summary.all.wrongPage, p?.all.wrongPage, true)} | Google shows a different page from the one written for that search. |`,
 ];
+if (activity && !activity.error) {
+  const L = activity.last, B = activity.before, n = (o, k) => o[k] ?? 0;
+  lines.push(
+    '',
+    `## Leads and calls from the site (${L.from} to ${L.to}, against the month before)`,
+    '',
+    '| Measure | Last month | Month before |',
+    '|---|---|---|',
+    `| Quote form leads | ${n(L, 'lead')}${ch(n(L, 'lead'), n(B, 'lead'))} | ${n(B, 'lead')} |`,
+    `| Taps on the phone number | ${n(L, 'phone')}${ch(n(L, 'phone'), n(B, 'phone'))} | ${n(B, 'phone')} |`,
+    `| Clicks on a quote button | ${n(L, 'quote')}${ch(n(L, 'quote'), n(B, 'quote'))} | ${n(B, 'quote')} |`,
+    '',
+    activity.leadPages?.length ? 'Pages the leads were sent from: ' + activity.leadPages.map((p) => `${p.page || '(unknown)'} ${p.n}`).join('; ') + '.' : 'No form leads last month.',
+    '',
+    'Chat leads and phone calls themselves are on the More Leads dashboard (leads.moreleads.nz), not counted here. Counting started when the new site went live.',
+  );
+} else if (activity?.error) {
+  lines.push('', `## Leads and calls from the site`, '', `Could not read the counts: ${activity.error}`);
+}
 if (gscNow) {
   const g = gscNow, q = gscPrev;
   lines.push(

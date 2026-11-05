@@ -15,7 +15,7 @@ const page = (status, h1, p) => new Response(
 
 const callUs = `Please call us on <a href="${site.phoneHref}">${site.phone}</a>, ${site.hours[0].days}, ${site.hours[0].label}.`;
 
-export async function onRequestPost({ request, env }) {
+export async function onRequestPost({ request, env, waitUntil }) {
   let form;
   try { form = await request.formData(); } catch { return page(400, 'Something went wrong', `We couldn't read the form. ${callUs}`); }
 
@@ -75,5 +75,30 @@ export async function onRequestPost({ request, env }) {
     return page(502, "Your request didn't send", callUs);
   }
 
+  // After the email has gone: count the lead for the monthly report, and pass it to the
+  // More Leads tracker (leads.moreleads.nz) the way the old site's form webhook did. Neither
+  // can cost the lead: both run after the reply and their failures are only logged.
+  const fromPath = (() => { try { return new URL(from).pathname; } catch { return ''; } })();
+  waitUntil(recordEvent(env, 'lead', fromPath, new URL(request.url).hostname, q.service));
+  if (env.LEADS_KEY && env.LEADS_SITE) {
+    waitUntil(fetch('https://leads.moreleads.nz/api/lead.php', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ site: env.LEADS_SITE, key: env.LEADS_KEY, lead: {
+        source: 'form', service: q.service, name: q.name, phone: q.phone, email,
+        suburb: q.suburb, message: q.message, page_url: from, received_at: new Date().toISOString(),
+        emailed_to: String(env.LEAD_TO).split(',').map((s) => s.trim()), emailed_ok: true,
+      } }),
+    }).then((r) => { if (!r.ok) console.log('quote: tracker said', r.status); }).catch((e) => console.log('quote: tracker failed', String(e))));
+  }
+
   return Response.redirect(new URL('/thank-you/', request.url), 303);
+}
+
+export async function recordEvent(env, type, page, host, detail = '') {
+  if (!env.EVENTS) return;
+  try {
+    await env.EVENTS.prepare('INSERT INTO events (type, page, host, detail) VALUES (?, ?, ?, ?)')
+      .bind(type, String(page).slice(0, 200), String(host).slice(0, 100), String(detail).slice(0, 100)).run();
+  } catch (e) { console.log('event insert failed', String(e)); }
 }
