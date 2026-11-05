@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Ilam
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ilam
 suburb: Ilam
-intro: "We install, service and repair heat pumps in Ilam for family homes and for landlords with rentals near the University of Canterbury. For a rental, we size the unit to the capacity the main living room needs under the Healthy Homes heating standard. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Ilam for family homes and for landlords with rentals near the University of Canterbury. For a rental, we size the unit to the capacity the main living room needs under the Healthy Homes heating standard. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: ilam-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: "Questions about heat pumps in Ilam"
@@ -54,9 +54,9 @@ In a larger Ilam family home, the heat pump has to reach more than one living ar
 
 ## What we offer in Ilam
 
-- **New heat pumps** from the four brands we fit: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **New heat pumps** from the five brands we fit: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing** for owners and landlords. One unit or a whole property.
-- **Repairs** on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic.
+- **Repairs** on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic.
 
 Ilam comes under the Christchurch District Plan. That means outdoor unit noise is judged at your neighbour's property. Our [boundary rules guide](/heat-pump-boundary-rules-consent-nz/) explains how it works.
 

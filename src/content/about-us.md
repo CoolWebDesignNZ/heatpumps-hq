@@ -23,7 +23,7 @@ faqs:
   - q: Who owns Heat Pumps HQ?
     a: Nate Thompson. He started the company in Christchurch in 2015, and he still runs it.
   - q: Which brands do you install?
-    a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those, plus Panasonic and most other heat pumps sold in New Zealand. To pick between them for your rooms, read <a href="/best-heat-pump-brands-christchurch/">the best heat pump brands for Christchurch</a>.
+    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. We service and repair those, plus Panasonic and most other heat pumps sold in New Zealand. To pick between them for your rooms, read <a href="/best-heat-pump-brands-christchurch/">the best heat pump brands for Christchurch</a>.
   - q: Do you charge for a quote?
     a: No. Quotes are free.
 related:

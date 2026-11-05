@@ -7,7 +7,7 @@ h1: Heat pump installation for Northcote homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Northcote
 suburb: Northcote
-intro: "We install, service and repair heat pumps in Northcote, sizing each unit for the room it heats. Most homes here are smaller houses, flats and units, and on shared sites we plan where outdoor units go with noise in mind. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Northcote, sizing each unit for the room it heats. Most homes here are smaller houses, flats and units, and on shared sites we plan where outdoor units go with noise in mind. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: northcote-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Northcote"
@@ -55,7 +55,7 @@ In Northcote's older houses, the bedrooms are the problem. A three bedroom home 
 
 ## Heat pump installs, service and repairs in Northcote
 
-In Northcote flats, units and family houses, we install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for the space. [Maintenance and servicing](/maintenance-servicing/) is a filter, coil and drain clean once a year. Our [heat pump repairs](/heat-pump-repair/) cover all major brands.
+In Northcote flats, units and family houses, we install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, sized for the space. [Maintenance and servicing](/maintenance-servicing/) is a filter, coil and drain clean once a year. Our [heat pump repairs](/heat-pump-repair/) cover all major brands.
 
 ## Suburbs neighbouring Northcote
 

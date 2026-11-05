@@ -12,7 +12,7 @@ faqHeading: Questions about our heat pump services
 relatedHeading: Find and contact our heat pump specialists
 faqs:
   - q: Which brands do you service?
-    a: Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For servicing and repairs we add Panasonic and most other brands sold here.
+    a: Our install brands are Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. For servicing and repairs we add Panasonic and most other brands sold here.
   - q: What are your hours?
     a: Monday to Friday, 8am to 5pm. Call <a href="tel:032421023">03 242 1023</a> or send the quote form.
   - q: Are your quotes free?
@@ -25,7 +25,7 @@ related:
 
 ## How our heat pump services work
 
-Every job starts the same way. We find out what you need the heat pump to do. We look at the house or the unit. Then you get a free quote. We fit four brands. We service and repair those plus Panasonic and most others sold here. So one call covers a new system, a yearly service or a fault.
+Every job starts the same way. We find out what you need the heat pump to do. We look at the house or the unit. Then you get a free quote. We fit five brands. We service and repair those plus Panasonic and most others sold here. So one call covers a new system, a yearly service or a fault.
 
 ## New heat pump installations
 

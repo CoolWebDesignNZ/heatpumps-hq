@@ -115,4 +115,4 @@ Turn the heat pump off at the isolating switch and book a visit if you have any 
 - an error code that comes back after a reset
 - a unit that runs but won't heat or cool after the checks above
 
-We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also repair most other brands sold in New Zealand. Call **[03 242 1023](tel:032421023)** or [book a repair](/contact-us/).
+We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. We also repair most other brands sold in New Zealand. Call **[03 242 1023](tel:032421023)** or [book a repair](/contact-us/).

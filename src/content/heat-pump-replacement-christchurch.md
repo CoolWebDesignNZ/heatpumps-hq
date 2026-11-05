@@ -97,7 +97,7 @@ You don't have to stay with the same brand or type. A replacement is a chance to
 - **Multi room systems** replace an old single unit with several indoor units on one outdoor unit. See [multi room heat pumps](/multi-room-heat-pump-installation/).
 - **Ducted systems** suit a whole house renovation. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-We install **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. You can read [how the brands compare](/heat-pump-brands-comparison/), and we'll tell you which models we'd shortlist for your rooms.
+We install **Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai**. You can read [how the brands compare](/heat-pump-brands-comparison/), and we'll tell you which models we'd shortlist for your rooms.
 
 ## What a heat pump replacement costs
 

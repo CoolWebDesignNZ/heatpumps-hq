@@ -81,6 +81,6 @@ Frosts are usually harder out on the plains than near the coast. Where your hous
 
 ## Getting a quote for a cold climate heat pump
 
-We size the unit for your coldest rooms. For each model we suggest, we show you the 2°C heating output and the Cold zone heating stars. That way you're comparing like with like. Those models can come from any of our four brands: Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+We size the unit for your coldest rooms. For each model we suggest, we show you the 2°C heating output and the Cold zone heating stars. That way you're comparing like with like. Those models can come from any of our five brands: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 
 For a free quote, call **[03 242 1023](tel:032421023)** or [ask for a quote online](/contact-us/).

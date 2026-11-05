@@ -38,7 +38,7 @@ What a heat pump does, the different types, and how to pick the size and model f
 
 How the brands we fit compare, what an install costs, and how to pick an installer.
 
-- [Heat pump brands compared](/heat-pump-brands-comparison/): Mitsubishi Electric, Daikin, Fujitsu and Toshiba compared by the people who fit all four.
+- [Heat pump brands compared](/heat-pump-brands-comparison/): Mitsubishi Electric, Daikin, Fujitsu and Toshiba compared by the people who fit them, as well as Rinnai.
 - [Best heat pump brands](/best-heat-pump-brands-christchurch/): Why no brand wins every house, and the figures that decide the right model.
 - [Choosing an installer](/best-heat-pump-installers-christchurch/): The licences, sizing and paperwork a careful installer gives you.
 - [Installation cost](/heat-pump-installation-cost-christchurch/): Every factor that moves the price of an install, from pipe runs to wall brackets.

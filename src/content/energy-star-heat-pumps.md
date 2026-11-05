@@ -4,7 +4,7 @@ description: "Looking for an energy star heat pump? How to read the NZ Zoned Ene
 keyword: energy star heat pump
 secondary: [energy star rating, most efficient heat pump nz, heat pump energy rating nz]
 h1: Energy star heat pump ratings and the NZ energy label
-intro: "We fit heat pumps from four brands and size each one to the room. Here's how to read the Zoned Energy Rating Label, and what its stars do and don't tell you."
+intro: "We fit heat pumps from five brands and size each one to the room. Here's how to read the Zoned Energy Rating Label, and what its stars do and don't tell you."
 hero: energystar-hero
 updated: 2026-10-17
 gallery: [energystar-label, energystar-showroom]
@@ -81,6 +81,6 @@ You might see heat pumps with the older Energy Rating Label. That's common on ex
 
 ## Comparing models for the most efficient heat pump
 
-To find the most efficient heat pump for your house, we size it for your rooms first. Then for each model we suggest, we show you the Cold zone heating stars, the kWh figures and the 2°C heating capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba models.
+To find the most efficient heat pump for your house, we size it for your rooms first. Then for each model we suggest, we show you the Cold zone heating stars, the kWh figures and the 2°C heating capacity. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai models.
 
 Call **[03 242 1023](tel:032421023)** or [request a free quote](/contact-us/).

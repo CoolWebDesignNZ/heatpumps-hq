@@ -52,7 +52,7 @@ Some Brooklands sections have a sleepout, a studio or a bedroom wing well away f
 
 ## Heat pump servicing and repairs in Brooklands
 
-Units in exposed spots like Brooklands wear faster. So servicing matters. A yearly service keeps the coil, fan and drain clean. It spots corrosion early. We look after Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic heat pumps, and most other brands in New Zealand homes. Book a [service](/maintenance-servicing/). If the unit already has a fault, book a [repair](/heat-pump-repair/).
+Units in exposed spots like Brooklands wear faster. So servicing matters. A yearly service keeps the coil, fan and drain clean. It spots corrosion early. We look after Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic heat pumps, and most other brands in New Zealand homes. Book a [service](/maintenance-servicing/). If the unit already has a fault, book a [repair](/heat-pump-repair/).
 
 ## Suburbs near Brooklands
 

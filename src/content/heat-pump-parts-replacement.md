@@ -5,7 +5,7 @@ keyword: heat pump parts
 secondary: [heat pump remote replacement, heat pump spare parts, heat pump fan motor]
 h1: Heat pump parts and replacement in Christchurch
 serviceName: Heat pump parts replacement
-intro: "We replace broken heat pump parts across Christchurch, from remotes to fan motors. We find the faulty part, get the right one for your model, and quote it before we order. We order parts for Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand."
+intro: "We replace broken heat pump parts across Christchurch, from remotes to fan motors. We find the faulty part, get the right one for your model, and quote it before we order. We order parts for Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, plus most other brands sold in New Zealand."
 hero: parts-hero
 gallery: [parts-fan-motor, parts-board]
 faqHeading: "Heat pump parts questions"
@@ -59,7 +59,7 @@ Where the outdoor unit lives decides which parts wear first.
 
 1. **Find the fault first.** We only replace a part once we know it's the cause. A unit that won't heat might need a sensor, a board or a refrigerant repair. Guessing wastes your money. It's the same first step we take on any [heat pump repair](/heat-pump-repair/).
 2. **Read the model number.** Every brand uses different parts across its models. Even when the units look the same.
-3. **Get the part.** We order parts for Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Plus most other brands sold in New Zealand.
+3. **Get the part.** We order parts for Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. Plus most other brands sold in New Zealand.
 4. **Quote it before we order.** You get a quote for the part and fitting. If the part costs a lot for the age and value of the unit, we'll say so.
 5. **Fit and test.** We put the part in. Then we run it in heating and cooling to make sure the fault's gone.
 

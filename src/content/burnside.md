@@ -7,7 +7,7 @@ h1: Heat pump installation and service in Burnside
 serviceName: Heat pump installation, servicing and repair
 areaServed: Burnside
 suburb: Burnside
-intro: "We install, service and repair heat pumps in Burnside. Many homes here have been extended over the years, so we treat the house as a set of zones and size each one on its own. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Burnside. Many homes here have been extended over the years, so we treat the house as a set of zones and size each one on its own. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: burnside-hero
 gallery: [pool-bedroom-unit, pool-filters]
 faqHeading: Questions about heat pumps in Burnside
@@ -56,7 +56,7 @@ On a winter evening, the old lounge and the new family room can feel very differ
 
 ## Heat pump brands we work on in Burnside
 
-Our install brands are Mitsubishi Electric, Daikin, Fujitsu and Toshiba. On top of those, we service and repair Panasonic and most other brands in New Zealand homes.
+Our install brands are Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. On top of those, we service and repair Panasonic and most other brands in New Zealand homes.
 
 ## Suburbs near Burnside
 

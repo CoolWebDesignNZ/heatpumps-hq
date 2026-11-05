@@ -5,7 +5,7 @@ keyword: heat pump maintenance
 secondary: [heat pump maintenance christchurch, heat pump servicing near me, heat pump servicing chch]
 h1: Heat pump maintenance and servicing in Christchurch
 serviceName: Heat pump maintenance and servicing
-intro: "We service heat pumps of every major brand across Christchurch, doing the jobs that need tools, cleaners and test gear. Wash the filters every few weeks in heavy use, and get a technician in once a year. We look after Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic systems."
+intro: "We service heat pumps of every major brand across Christchurch, doing the jobs that need tools, cleaners and test gear. Wash the filters every few weeks in heavy use, and get a technician in once a year. We look after Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic systems."
 hero: maint-hero
 gallery: [maint-filter-sink, maint-outdoor-clear]
 faqHeading: Heat pump maintenance questions
@@ -87,6 +87,6 @@ Some of these need a clean. Some need a [repair](/heat-pump-repair/). We'll tell
 
 ## Systems and brands we maintain
 
-We look after wall, floor console, multi-room and ducted systems. Brands are Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold in New Zealand. Got more than one unit, or a rental to keep on top of? A [service plan](/customised-heat-pump-service-plans/) keeps every unit on a schedule.
+We look after wall, floor console, multi-room and ducted systems. Brands are Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and most others sold in New Zealand. Got more than one unit, or a rental to keep on top of? A [service plan](/customised-heat-pump-service-plans/) keeps every unit on a schedule.
 
 Call **[03 242 1023](tel:032421023)** to book a service, or [ask for a quote](/contact-us/).

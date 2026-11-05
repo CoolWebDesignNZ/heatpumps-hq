@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Russley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Russley
 suburb: Russley
-intro: "We install, service and repair heat pumps in Russley, fitting Mitsubishi Electric, Daikin, Fujitsu and Toshiba units. Most local homes are 1960s to 1980s brick family houses with a separate bedroom wing, so one unit rarely heats the whole house well. Quotes are free."
+intro: "We install, service and repair heat pumps in Russley, fitting Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai units. Most local homes are 1960s to 1980s brick family houses with a separate bedroom wing, so one unit rarely heats the whole house well. Quotes are free."
 hero: russley-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Russley"
@@ -59,7 +59,7 @@ Russley comes under the Christchurch District Plan. It judges outdoor unit noise
 
 ## Work we do in Russley
 
-- **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Replacing older units**, with the existing pipework checked.
 - **Servicing** of every major brand, and [repairs](/heat-pump-repair/) whoever fitted the unit.
 

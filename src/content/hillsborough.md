@@ -65,7 +65,7 @@ If your house feels draughty or the unit seems to run constantly, [winterising t
 
 ## What we do in Hillsborough
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall, floor console, multi room or ducted, for hillside and valley homes.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Wall, floor console, multi room or ducted, for hillside and valley homes.
 - **Servicing.** A yearly [service](/heat-pump-servicing/) that checks filters, coil and drainage.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

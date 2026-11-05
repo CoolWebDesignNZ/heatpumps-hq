@@ -5,7 +5,7 @@ keyword: emergency heat pump repair
 secondary: [heat pump repair near me, urgent heat pump repair, heat pump repair christchurch]
 h1: Emergency heat pump repair, and what to do until we get there
 serviceName: Urgent heat pump repair
-intro: "We repair heat pumps across Christchurch that have stopped, are pouring water or smell of burning. Switch off at the isolating switch or breaker if you smell burning or see water near the electrics, then call us early in the working day. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic."
+intro: "We repair heat pumps across Christchurch that have stopped, are pouring water or smell of burning. Switch off at the isolating switch or breaker if you smell burning or see water near the electrics, then call us early in the working day. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic."
 hero: emergency-hero
 gallery: [emergency-1, emergency-2]
 faqHeading: "Emergency heat pump repair questions"
@@ -84,6 +84,6 @@ Some local conditions change what you should do first.
 
 We find the cause first. We don't swap parts on a guess. That's how our [fault finding service](/heat-pump-troubleshooting/) works on every job. Once we know what's wrong, we tell you what the repair involves. If a [replacement part](/heat-pump-parts-replacement/) has to be ordered in, we'll tell you how to use the unit safely until it arrives. Or we'll tell you to leave it off.
 
-We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also repair most other heat pumps sold in New Zealand. Our area is Christchurch, Selwyn and Lyttelton.
+We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. We also repair most other heat pumps sold in New Zealand. Our area is Christchurch, Selwyn and Lyttelton.
 
 Heat pump failed? Make it safe and call **[03 242 1023](tel:032421023)** as early in the working day as you can.

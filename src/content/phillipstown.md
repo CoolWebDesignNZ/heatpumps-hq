@@ -7,7 +7,7 @@ h1: Heat pump installation for Phillipstown homes and rentals
 serviceName: Heat pump installation, servicing and repair
 areaServed: Phillipstown
 suburb: Phillipstown
-intro: "We install, service and repair heat pumps in Phillipstown for owners and landlords. Most homes here are small, so we size one living room unit to the room and check the insulation before we pick a capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Phillipstown for owners and landlords. Most homes here are small, so we size one living room unit to the room and check the insulation before we pick a capacity. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: phillipstown-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: "Questions about heat pumps in Phillipstown"
@@ -59,7 +59,7 @@ Outdoor units on a block take some thought. With several flats side by side, uni
 
 ## Heat pump installs, service and repair in Phillipstown
 
-For many Phillipstown homes, a [single-room system](/single-room-heat-pump-installation/) in the living area is enough. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We do [servicing](/maintenance-servicing/) on existing units in owner-occupied homes and rentals, and [repairs](/heat-pump-repair/) on all the major brands, Panasonic included.
+For many Phillipstown homes, a [single-room system](/single-room-heat-pump-installation/) in the living area is enough. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. We do [servicing](/maintenance-servicing/) on existing units in owner-occupied homes and rentals, and [repairs](/heat-pump-repair/) on all the major brands, Panasonic included.
 
 Nearby, we work in [Linwood](/linwood/), [Sydenham](/sydenham/), [the Central City](/central-business-district-cbd/) and [Bromley](/bromley/).
 

@@ -12,7 +12,7 @@ faqHeading: Fujitsu heat pump service questions
 relatedHeading: More on Fujitsu care and choosing a brand
 faqs:
   - q: Do you fit new Fujitsu heat pumps?
-    a: Yes. Fujitsu is one of the four brands we fit, along with Mitsubishi Electric, Daikin and Toshiba. We size each one for your rooms and give you a free quote.
+    a: Yes. Fujitsu is one of the five brands we fit, along with Mitsubishi Electric, Daikin, Toshiba and Rinnai. We size each one for your rooms and give you a free quote.
   - q: Do you repair Fujitsu air conditioners as well as heat pumps?
     a: Yes. A Fujitsu split system heats and cools with the same unit. So fixing a Fujitsu air conditioner is the same job as fixing the heat pump. We'll sort faults on heat or on cool.
   - q: Why is my Fujitsu heat pump's timer light flashing?

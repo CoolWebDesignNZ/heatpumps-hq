@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Redcliffs
 serviceName: Heat pump installation, servicing and repair
 areaServed: Redcliffs
 suburb: Redcliffs
-intro: "We install, service and repair heat pumps in Redcliffs, on the flat and up the hillside. Salt air off the estuary and sea settles on the outdoor coil and casing and can speed up corrosion, so we shelter the unit and keep it off the ground. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Redcliffs, on the flat and up the hillside. Salt air off the estuary and sea settles on the outdoor coil and casing and can speed up corrosion, so we shelter the unit and keep it off the ground. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: redcliffs-hero
 gallery: [pool-coastal-home, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Redcliffs"
@@ -59,7 +59,7 @@ A unit near the water needs more care than one inland. Now and then, rinse the o
 
 ## What we do in Redcliffs
 
-New installs in Redcliffs are Mitsubishi Electric, Daikin, Fujitsu or Toshiba. Our servicing and repairs also cover Panasonic and the other brands commonly sold here. If yours is struggling, see [heat pump repairs](/heat-pump-repair/).
+New installs in Redcliffs are Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. Our servicing and repairs also cover Panasonic and the other brands commonly sold here. If yours is struggling, see [heat pump repairs](/heat-pump-repair/).
 
 ## Around Redcliffs
 

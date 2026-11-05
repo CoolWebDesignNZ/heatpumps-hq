@@ -4,7 +4,7 @@ description: "Mitsubishi vs Daikin, Daikin vs Fujitsu, and Toshiba: a plain heat
 keyword: heat pump brands comparison
 secondary: [heat pump brands, mitsubishi vs daikin, daikin vs fujitsu]
 h1: "Heat pump brands comparison: Mitsubishi Electric, Daikin, Fujitsu and Toshiba"
-intro: "We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps, so we've no reason to push one. Here is what we compare when we pick a unit for a house, on facts, not adverts."
+intro: "We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai heat pumps, so we've no reason to push one. Here is what we compare when we pick a unit for a house, on facts, not adverts."
 hero: brandcomp-hero
 updated: 2026-10-17
 gallery: [brandcomp-units, brandcomp-outdoor]
@@ -18,7 +18,7 @@ faqs:
   - q: Is Fujitsu still available in New Zealand?
     a: Yes. We still fit new Fujitsu heat pumps, and we service and repair older Fujitsu units of any age.
   - q: Do you service brands you don't install?
-    a: Yes. As well as the four we fit, we service and repair Panasonic and most other heat pumps sold in New Zealand.
+    a: Yes. As well as the brands we fit, we service and repair Panasonic and most other heat pumps sold in New Zealand.
 related:
   - { label: Best heat pumps NZ, href: /best-heat-pump-brands-christchurch/, text: "How to judge which model suits your house." }
   - { label: Mitsubishi heat pump service, href: /mitsubishi-heat-pump-service-christchurch/, text: "Servicing and repairs for Mitsubishi Electric units." }
@@ -29,7 +29,7 @@ related:
 
 The model tells you more than the brand name. Each brand sells more than one range. Two models from one brand can differ more than two brands do. To judge single models, see [best heat pumps NZ](/best-heat-pump-brands-christchurch/).
 
-We fit all four. So we've no reason to push one over another. The right choice is the model that fits the room, the outdoor spot and your budget.
+We fit all four, and Rinnai too. So we've no reason to push one over another. The right choice is the model that fits the room, the outdoor spot and your budget.
 
 ## Mitsubishi Electric heat pumps compared
 
@@ -59,6 +59,8 @@ All four have high wall, floor console, multi room and ducted systems. All four 
 
 All four sell the main types a Christchurch house is likely to need. The differences that matter show up model by model.
 
+We also fit Rinnai. Its range here covers high wall, floor console, multi split and ducted heat pumps, and its high wall and floor console models have Wi-Fi built in. It has no ceiling cassette. A back-to-back Rinnai install is the one our starting price is based on.
+
 ## What actually differs between models
 
 Whatever the brand, these are the things we compare when we pick units for a house.
@@ -86,4 +88,4 @@ We don't fit Panasonic. We do service and repair Panasonic units, and most other
 
 ## Help comparing brands for your house
 
-Tell us which rooms you want heated. We'll suggest models from Mitsubishi Electric, Daikin, Fujitsu and Toshiba, sized for your house. You get a free quote. Ring **[03 242 1023](tel:032421023)** or [ask for a quote online](/contact-us/).
+Tell us which rooms you want heated. We'll suggest models from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, sized for your house. You get a free quote. Ring **[03 242 1023](tel:032421023)** or [ask for a quote online](/contact-us/).

@@ -7,7 +7,7 @@ h1: Heat pump installation and replacement in Spreydon
 serviceName: Heat pump installation, servicing and repair
 areaServed: Spreydon
 suburb: Spreydon
-intro: "We install, replace, service and repair heat pumps in Spreydon, including its bungalows, former state houses, units and townhouses. On flat sections the outdoor unit usually has an easy spot at the side or back, raised on feet so defrost water drains away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, replace, service and repair heat pumps in Spreydon, including its bungalows, former state houses, units and townhouses. On flat sections the outdoor unit usually has an easy spot at the side or back, raised on feet so defrost water drains away. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: spreydon-hero
 gallery: [pool-brick-bungalow, pool-console-unit]
 faqHeading: "Questions about heat pumps in Spreydon"
@@ -65,7 +65,7 @@ If you don't have a heat pump yet, we measure each room. We check how it's insul
 
 ## Heat pump installs, service and repairs in Spreydon
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, new or in place of an older unit. Our servicing and [repairs](/heat-pump-repair/) cover those brands, plus Panasonic.
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai systems, new or in place of an older unit. Our servicing and [repairs](/heat-pump-repair/) cover those brands, plus Panasonic.
 
 We also work in [Somerfield](/somerfield/), [Hillmorton](/hillmorton/), [Hoon Hay](/hoon-hay/) and [Addington](/heat-pumps-addington/).
 

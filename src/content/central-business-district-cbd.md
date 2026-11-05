@@ -7,7 +7,7 @@ h1: Heat pump installation in the Christchurch CBD and Central City
 serviceName: Heat pump installation, servicing and repair
 areaServed: Central City
 suburb: Central City
-intro: "We install heat pumps in Central City apartments, townhouses and older cottages inside the four avenues. Work that affects common property or another unit needs written body corporate consent, so we describe the install in writing for your committee. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install heat pumps in Central City apartments, townhouses and older cottages inside the four avenues. Work that affects common property or another unit needs written body corporate consent, so we describe the install in writing for your committee. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: central-city-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in the CBD"
@@ -20,7 +20,7 @@ faqs:
   - q: "Are the noise rules different in the Central City?"
     a: "Yes. The Central City has its own noise limits, separate from the suburban residential zones. In apartments, bedrooms are close together, so a unit outside your lounge might be metres from someone else's window. We place it with the <a href=\"/heat-pump-boundary-rules-consent-nz/\">boundary noise limits</a> in mind."
   - q: "Can you service a heat pump that came with my apartment?"
-    a: "Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, plus most other brands on sale in New Zealand. Units handed over with the apartment may not have been touched since, so we give the filters, coil and fan a proper clean."
+    a: "Yes. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic units, plus most other brands on sale in New Zealand. Units handed over with the apartment may not have been touched since, so we give the filters, coil and fan a proper clean."
   - q: "How do you size a heat pump for a compact apartment with a lot of glass?"
     a: "We size for the cooling as well as the heating. A north or west facing apartment with a wall of glass can get too hot on a summer afternoon. In an open plan apartment, one high wall unit usually covers the lounge and kitchen."
 related:
@@ -60,7 +60,7 @@ The Christchurch District Plan has its own noise limits for the Central City. Th
 
 ## Heat pump installs, service and repair in the CBD
 
-- **Installs.** Compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. The brands we put in are Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs.** Compact wall units, or a [multi-room system](/multi-room-heat-pump-installation/) where there's only room outside for one unit. The brands we put in are Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Cleaning and checks.** Units handed over with the apartment may not have been touched since. We give the filters, coil and fan a proper clean with a [service](/maintenance-servicing/).
 - **Fault finding.** Apartment systems of any major brand, through our [heat pump repair](/heat-pump-repair/) service.
 

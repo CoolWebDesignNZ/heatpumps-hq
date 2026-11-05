@@ -7,7 +7,7 @@ h1: Heat pump installation in Lincoln, town and country
 serviceName: Heat pump installation, servicing and repair
 areaServed: Lincoln
 suburb: Lincoln
-intro: "We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it. Lincoln sits on flat, open land where still winter nights bring hard frosts, so we mount outdoor units on raised feet or a low wall bracket to let defrost water drain away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install and service heat pumps in Lincoln township, its newer subdivisions and the lifestyle blocks around it. Lincoln sits on flat, open land where still winter nights bring hard frosts, so we mount outdoor units on raised feet or a low wall bracket to let defrost water drain away. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: lincoln-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Lincoln"
@@ -59,7 +59,7 @@ Lincoln is in Selwyn District, not Christchurch City. So the Selwyn District Pla
 
 ## What we do in Lincoln
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems. That's anything from a single room to whole-house ducted. Servicing and [repairs](/heat-pump-repair/) also cover Panasonic and most other heat pump brands sold here.
+We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai systems. That's anything from a single room to whole-house ducted. Servicing and [repairs](/heat-pump-repair/) also cover Panasonic and most other heat pump brands sold here.
 
 ## Around Lincoln
 

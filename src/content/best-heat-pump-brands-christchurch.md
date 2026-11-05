@@ -4,7 +4,7 @@ description: "Searching for the best heat pumps in NZ? No brand wins every house
 keyword: best heat pumps nz
 secondary: [best heat pump brand nz, best heat pump brands, best heat pumps new zealand]
 h1: Best heat pumps for New Zealand homes, and how to judge them
-intro: "We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and we pick the model for your room, not the badge. Here are the energy label and spec sheet checks that show which fits."
+intro: "We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and we pick the model for your room, not the badge. Here are the energy label and spec sheet checks that show which fits."
 hero: bestbrands-hero
 updated: 2026-10-17
 gallery: [bestbrands-labelcheck, bestbrands-quiet]
@@ -96,7 +96,7 @@ A heat pump should last many years. Find out what local support you'll get once 
 - **Warranty:** how is it handled, and who do you call?
 - **Install rules:** does the installer know what the brand requires?
 
-We fit four brands. We service Panasonic and most others sold here too. So we can compare models without a favourite.
+We fit five brands. We service Panasonic and most others sold here too. So we can compare models without a favourite.
 
 ## The best heat pump brand still needs a good installer
 
@@ -106,6 +106,6 @@ A badly fitted heat pump will let you down, whatever the brand. Many poor perfor
 
 We pick your heat pump on a site visit, with no favourite brand. First we size the room. We look at its measurements, insulation and windows, and how you use it. Then we work out where the outdoor unit can go.
 
-After that, we compare suitable models from all four brands. We weigh their cold-weather output, efficiency and noise. You get our advice in a free quote.
+After that, we compare suitable models from all five brands. We weigh their cold-weather output, efficiency and noise. You get our advice in a free quote.
 
 Phone **[03 242 1023](tel:032421023)** or [request a quote](/contact-us/). To see what each brand sells, read our [heat pump brands comparison](/heat-pump-brands-comparison/).

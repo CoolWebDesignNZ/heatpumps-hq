@@ -5,7 +5,7 @@ keyword: heat pump cleaning christchurch
 secondary: [heat pump cleaning, heat pump cleaning service, how to clean heat pump]
 h1: Heat pump cleaning in Christchurch
 serviceName: Heat pump cleaning
-intro: "We clean heat pumps across Christchurch, inside and out, with the unit wrapped and the run-off caught. That gets the dirt and mould off the coil and fan wheel behind the filters. We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic."
+intro: "We clean heat pumps across Christchurch, inside and out, with the unit wrapped and the run-off caught. That gets the dirt and mould off the coil and fan wheel behind the filters. We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic."
 hero: cleaning-hero
 gallery: [cleaning-blower, cleaning-bag]
 faqHeading: "Heat pump cleaning questions"
@@ -94,6 +94,6 @@ A ducted system has a return air filter in a ceiling grille. The indoor unit sit
 
 ## Heat pump brands we clean
 
-We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other makes you'll find in Kiwi homes. The quote depends on how many units, what type, and how dirty they are.
+We clean Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and most other makes you'll find in Kiwi homes. The quote depends on how many units, what type, and how dirty they are.
 
 Call **[03 242 1023](tel:032421023)** to book a heat pump clean, or [ask for a quote](/contact-us/).

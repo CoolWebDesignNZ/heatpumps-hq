@@ -7,7 +7,7 @@ h1: Heat pump installation in Kennedys Bush
 serviceName: Heat pump installation, servicing and repair
 areaServed: Kennedys Bush
 suburb: Kennedys Bush
-intro: "We install, service and repair heat pumps in Kennedys Bush above Halswell. Wind across the hillside strips heat faster than in the streets below, and the big windows that frame the view lose warmth on clear winter nights, so we size from your rooms and glass. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Kennedys Bush above Halswell. Wind across the hillside strips heat faster than in the streets below, and the big windows that frame the view lose warmth on clear winter nights, so we size from your rooms and glass. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: kennedys-bush-hero
 gallery: [pool-hill-home, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Kennedys Bush"
@@ -63,7 +63,7 @@ Sound carries on a hillside. So we keep the outdoor unit away from your neighbou
 
 ## Heat pumps we fit and service in Kennedys Bush
 
-On the hill we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Got a unit already? We can service or [repair](/heat-pump-repair/) Panasonic and most other makes too.
+On the hill we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Got a unit already? We can service or [repair](/heat-pump-repair/) Panasonic and most other makes too.
 
 ## Around Kennedys Bush
 

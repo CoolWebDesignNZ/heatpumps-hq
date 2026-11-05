@@ -7,7 +7,7 @@ h1: Heat pump installation in Addington
 serviceName: Heat pump installation, servicing and repair
 areaServed: Addington
 suburb: Addington
-intro: "We install heat pumps in Addington's workers' cottages and townhouses. On these small sections the outdoor unit often has just one or two spots where it gets enough air and stays quiet at the neighbour's fence, so we walk every outside wall with you before picking a system. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install heat pumps in Addington's workers' cottages and townhouses. On these small sections the outdoor unit often has just one or two spots where it gets enough air and stays quiet at the neighbour's fence, so we walk every outside wall with you before picking a system. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: addington-hero
 gallery: [pool-townhouse, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Addington"
@@ -57,7 +57,7 @@ New Addington townhouses are better sealed. Lots of them suit one unit downstair
 
 ## Heat pump installs, service and repair in Addington
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Addington, sized for small rooms. We do [servicing](/maintenance-servicing/) and cleaning, rentals included. And we find and repair faults on every major brand with our [heat pump repairs](/heat-pump-repair/).
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai systems in Addington, sized for small rooms. We do [servicing](/maintenance-servicing/) and cleaning, rentals included. And we find and repair faults on every major brand with our [heat pump repairs](/heat-pump-repair/).
 
 We also cover [Sydenham](/sydenham/), [Riccarton](/heat-pumps-riccarton/), [Spreydon](/spreydon/) and [the Central City](/central-business-district-cbd/).
 

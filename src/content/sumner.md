@@ -53,7 +53,7 @@ Homes on the slopes above Sumner raise the usual hill questions: wall brackets, 
 
 ## What we do in Sumner
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall, console, multi-room or ducted, for beach and hill homes.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Wall, console, multi-room or ducted, for beach and hill homes.
 - **Servicing.** A yearly [service](/heat-pump-servicing/) that checks the outdoor unit for salt build-up and corrosion.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

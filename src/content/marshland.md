@@ -7,7 +7,7 @@ h1: Heat pump installation in Marshland
 serviceName: Heat pump installation, servicing and repair
 areaServed: Marshland
 suburb: Marshland
-intro: "We install, service and repair heat pumps across Marshland, from older rural houses on lifestyle blocks to new subdivision homes. Frosts here can be harder than in the inner suburbs, so we size each system for the coldest morning and site the outdoor unit out of the wind. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps across Marshland, from older rural houses on lifestyle blocks to new subdivision homes. Frosts here can be harder than in the inner suburbs, so we size each system for the coldest morning and site the outdoor unit out of the wind. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: marshland-hero
 gallery: [pool-lifestyle, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Marshland"
@@ -56,7 +56,7 @@ On a rural property we check the switchboard has the capacity. We also check the
 
 ## Heat pump installs, service and repairs in Marshland
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems. Our [maintenance and servicing](/maintenance-servicing/) covers all the major brands, and our [heat pump repairs](/heat-pump-repair/) take in Panasonic and other brands too.
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai systems. Our [maintenance and servicing](/maintenance-servicing/) covers all the major brands, and our [heat pump repairs](/heat-pump-repair/) take in Panasonic and other brands too.
 
 ## Areas near Marshland
 

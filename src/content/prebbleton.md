@@ -72,7 +72,7 @@ In Prebbleton, heat pump noise comes under the Selwyn District Plan. Where the o
 
 ## What we do in Prebbleton
 
-For installs in Prebbleton we use Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For services and [repairs](/heat-pump-repair/), we work on those, Panasonic and most other brands you'll find in local homes.
+For installs in Prebbleton we use Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. For services and [repairs](/heat-pump-repair/), we work on those, Panasonic and most other brands you'll find in local homes.
 
 ## Around Prebbleton
 

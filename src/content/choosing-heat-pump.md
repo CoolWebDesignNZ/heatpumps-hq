@@ -14,7 +14,7 @@ faqs:
   - q: What heat pump do I need for my lounge?
     a: It depends on the room's size, insulation and glazing. How much window it has. How cold it gets outside. In Christchurch, pick the unit for its output on a frosty morning. Not its headline rating. See how we work that out under <a href="/heat-pump-sizing/">heat pump sizing</a>.
   - q: Which heat pump brand should I buy?
-    a: Compare models of the same size from different brands, using their energy labels. Then weigh up noise, controls and local service. Our <a href="/heat-pump-brands-comparison/">brands comparison</a> covers the four we fit.
+    a: Compare models of the same size from different brands, using their energy labels. Then weigh up noise, controls and local service. Our <a href="/heat-pump-brands-comparison/">brands comparison</a> covers the main brands we fit.
   - q: Should I insulate before buying a heat pump?
     a: If you can. Cut heat loss first with ceiling and underfloor insulation, weather stripping and draught stopping. A warmer house often needs a smaller unit.
   - q: Can I buy a heat pump and have it installed separately?
@@ -103,4 +103,4 @@ Take this with you when you compare quotes.
 
 ## Help choosing a heat pump for your house
 
-We can quote on Mitsubishi Electric, Daikin, Fujitsu or Toshiba. So you get a choice across four brands, not one. We look at your rooms, insulation and windows, and how you use the house. The quote is free. To book a visit, call **[03 242 1023](tel:032421023)** or [send us your details](/contact-us/).
+We can quote on Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. So you get a choice across five brands, not one. We look at your rooms, insulation and windows, and how you use the house. The quote is free. To book a visit, call **[03 242 1023](tel:032421023)** or [send us your details](/contact-us/).

@@ -7,7 +7,7 @@ h1: Heat pump installation in Opawa, flat by the river
 serviceName: Heat pump installation, servicing and repair
 areaServed: Opawa
 suburb: Opawa
-intro: "We install, service and repair heat pumps in Opawa. Opawa is flat beside the Heathcote River and winter mornings here frost, so we check a model's low temperature rating before we recommend it. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Opawa. Opawa is flat beside the Heathcote River and winter mornings here frost, so we check a model's low temperature rating before we recommend it. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Opawa"
@@ -33,7 +33,7 @@ related:
 
 An install here starts with the room, not the unit. We look at the size of the space, the insulation, the glazing and which way the windows face. A north-facing living room with good insulation needs less capacity than a south-facing one with single glazing.
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba units. Wall, floor console, multi-room or ducted. For an older villa with high ceilings and not much wall space, a [floor mounted heat pump](/floor-mounted-heat-pumps/) under a window often works well. For an open plan living area, a [high wall heat pump](/high-wall-heat-pumps/) is the usual choice.
+We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai units. Wall, floor console, multi-room or ducted. For an older villa with high ceilings and not much wall space, a [floor mounted heat pump](/floor-mounted-heat-pumps/) under a window often works well. For an open plan living area, a [high wall heat pump](/high-wall-heat-pumps/) is the usual choice.
 
 We size every install. If a unit is too small it runs hard and never quite keeps up. If it's too big it cycles on and off and costs more to run. The [heat pump sizing](/heat-pump-sizing/) guide explains how we work out the right capacity.
 
@@ -67,7 +67,7 @@ If anyone in the house has asthma or allergies, an [allergy and asthma solution]
 
 ## What we do in Opawa
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba, in wall, console, multi-room or ducted setups.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, in wall, console, multi-room or ducted setups.
 - **Servicing.** A yearly [service](/heat-pump-servicing/) that checks the indoor and outdoor units and cleans the filters and coil.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

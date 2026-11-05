@@ -5,7 +5,7 @@ keyword: heat pump tune up
 secondary: [heat pump check up, heat pump seasonal maintenance, heat pump service before winter]
 h1: Heat pump tune up and seasonal check up
 serviceName: Heat pump seasonal tune-up
-intro: "We tune up heat pumps across Christchurch before winter or summer. We test each one under load and sort small faults before they cost you a cold night. We tune up Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and quotes are free."
+intro: "We tune up heat pumps across Christchurch before winter or summer. We test each one under load and sort small faults before they cost you a cold night. We tune up Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic units, and quotes are free."
 hero: tuneup-hero
 gallery: [tuneup-remote, tuneup-thermometer]
 faqHeading: "Heat pump tune-up questions"
@@ -85,6 +85,6 @@ Airflow feels weak? Takes ages to warm the room? Book the tune-up now. Don't wai
 
 ## Brands and systems we tune up
 
-We tune up wall, floor console, multi-room and ducted heat pumps. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand.
+We tune up wall, floor console, multi-room and ducted heat pumps. Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, plus most other brands sold in New Zealand.
 
 Call **[03 242 1023](tel:032421023)** to book a tune-up, or [ask for a quote](/contact-us/).

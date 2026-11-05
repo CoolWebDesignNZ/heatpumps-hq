@@ -5,7 +5,7 @@ keyword: heat pump installation christchurch
 secondary: [heat pump installation, heat pump install, heat pump installation near me]
 h1: Heat pump installation in Christchurch
 serviceName: Heat pump installation
-intro: "We install heat pumps across Christchurch and Selwyn, checking each room's size, insulation and glazing before we quote. On the frosty plains out west, we size for the coldest morning and raise the outdoor unit so defrost water drains away. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install heat pumps across Christchurch and Selwyn, checking each room's size, insulation and glazing before we quote. On the frosty plains out west, we size for the coldest morning and raise the outdoor unit so defrost water drains away. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 fromPrice: true
 formService: Installation
 hero: install-hero
@@ -38,7 +38,7 @@ faqs:
   - q: I'm a landlord. Will the heat pump meet the Healthy Homes standard?
     a: The Healthy Homes heating standard needs a fixed heater that can heat the main living room, and a heat pump used for it must have a thermostat. We size the unit for that room and give you the model and capacity for your records.
   - q: Which heat pump brands can you install for me?
-    a: Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
+    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. We don't push one brand. We'll suggest the model that suits your rooms and tell you why.
   - q: Can you replace my old heat pump?
     a: Yes. We take out the old indoor and outdoor units. We check whether the old pipe route and power supply suit the new system. Then we quote the whole job together.
   - q: How much does a heat pump install cost?
@@ -87,7 +87,7 @@ It depends on the rooms you want heated, and getting the size right keeps the [r
 - **Two or more indoor units.** Each on its own outdoor unit, or several on one. See [multi room heat pumps](/multi-room-heat-pump-installation/).
 - **A ducted system.** A vent in each room and nothing on the walls. See [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-Our four install brands are **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We can talk you through [how the brands compare](/heat-pump-brands-comparison/). On site, we'll tell you which models we'd shortlist for your rooms.
+Our five install brands are **Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai**. We can talk you through [how the brands compare](/heat-pump-brands-comparison/). On site, we'll tell you which models we'd shortlist for your rooms.
 
 ## Where the outdoor unit goes
 

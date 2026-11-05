@@ -7,7 +7,7 @@ h1: Heat pump installation in St Albans, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: St Albans
 suburb: St Albans
-intro: "We install, service and repair heat pumps in St Albans, Christchurch. In a villa we size the unit for the whole volume of the high-stud room, not just the floor area, and in a townhouse we get heat upstairs. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in St Albans, Christchurch. In a villa we size the unit for the whole volume of the high-stud room, not just the floor area, and in a townhouse we get heat upstairs. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: st-albans-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in St Albans"
@@ -63,7 +63,7 @@ Plenty of St Albans homes have a heat pump a previous owner put in. Is yours noi
 
 ## Our work in St Albans
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba wall, floor, multi-room and ducted systems. We also do [maintenance and servicing](/maintenance-servicing/), and [heat pump repairs](/heat-pump-repair/) on all major brands, Panasonic included.
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai wall, floor, multi-room and ducted systems. We also do [maintenance and servicing](/maintenance-servicing/), and [heat pump repairs](/heat-pump-repair/) on all major brands, Panasonic included.
 
 ## Suburbs next to St Albans
 

@@ -43,7 +43,7 @@ We size every install on the house, not the floor plan. In a Waltham villa, that
 
 Waltham is flat, so outdoor units usually go on a wall bracket or a ground stand at the side of the house. Sections are narrow and neighbours are close. We check the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/) before we choose the spot, and we keep the unit clear of the fence line.
 
-Mitsubishi Electric, Daikin, Fujitsu and Toshiba are the brands we fit. If you're weighing them up, our [brands comparison](/heat-pump-brands-comparison/) sets out the differences.
+Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai are the brands we fit. If you're weighing them up, our [brands comparison](/heat-pump-brands-comparison/) sets out the differences.
 
 ## Servicing heat pumps in Waltham
 
@@ -65,7 +65,7 @@ Cold nights are when a heat pump earns its keep. A unit that's the right size fo
 
 ## What we do in Waltham
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall, console, multi-room or ducted, for villas, cottages and townhouses.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Wall, console, multi-room or ducted, for villas, cottages and townhouses.
 - **Servicing.** A yearly service that checks the filter, coil, drain and outdoor unit.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

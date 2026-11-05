@@ -5,14 +5,14 @@ keyword: panasonic heat pump repair
 secondary: [panasonic heat pump service, panasonic air conditioner repair, panasonic heat pump christchurch]
 h1: Panasonic heat pump repair and service in Christchurch
 serviceName: Panasonic heat pump repair and servicing
-intro: "We service and repair Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. We work on wall-mounted splits, floor consoles, ducted and multi-split systems, whoever fitted them. We don't fit Panasonic, so if yours needs replacing we'll quote a Mitsubishi Electric, Daikin, Fujitsu or Toshiba sized for the room."
+intro: "We service and repair Panasonic heat pumps across Christchurch, Selwyn and Lyttelton. We work on wall-mounted splits, floor consoles, ducted and multi-split systems, whoever fitted them. We don't fit Panasonic, so if yours needs replacing we'll quote a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai sized for the room."
 hero: panasonic-hero
 gallery: [panasonic-1, panasonic-2]
 faqHeading: Panasonic heat pump questions
 relatedHeading: More on repairs and replacement
 faqs:
   - q: Do you install Panasonic heat pumps?
-    a: No. We service and repair Panasonic, but we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
+    a: No. We service and repair Panasonic, but we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. If your Panasonic needs replacing, we'll quote one of those, sized for the room.
   - q: Do you repair Panasonic air conditioners?
     a: Yes. A Panasonic split system that heats and cools is the same unit, whatever you call it. We'll repair faults on heat or on cool.
   - q: Can you get parts for an older Panasonic?
@@ -72,8 +72,8 @@ Fan motors, sensors and control boards are parts we replace a lot, on every bran
 
 Sometimes a new heat pump is the better spend. That's when the compressor has failed on an older Panasonic. Or when parts can't be found. Or when it runs on an older gas and keeps needing work.
 
-We don't fit Panasonic. So our quote for a new unit will be a Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We size it from the room, the insulation and the windows, and how you use the space. We don't just go by the size of the old one.
+We don't fit Panasonic. So our quote for a new unit will be a Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. We size it from the room, the insulation and the windows, and how you use the space. We don't just go by the size of the old one.
 
-Weighing it up? Start with [choosing a heat pump](/choosing-heat-pump/), then look at our [brand comparison](/heat-pump-brands-comparison/) of the four we fit.
+Weighing it up? Start with [choosing a heat pump](/choosing-heat-pump/), then look at our [brand comparison](/heat-pump-brands-comparison/) of the main brands we fit.
 
 To book a Panasonic repair or service, call **[03 242 1023](tel:032421023)**.

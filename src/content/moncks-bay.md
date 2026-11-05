@@ -7,7 +7,7 @@ h1: Heat pump installation in Moncks Bay
 serviceName: Heat pump installation, servicing and repair
 areaServed: Moncks Bay
 suburb: Moncks Bay
-intro: "We install, service and repair heat pumps in Moncks Bay, on the estuary edge between Redcliffs and the foot of Mount Pleasant. Salt spray off the water builds up on outdoor coils faster here, so we site the unit on the sheltered side and plan for regular cleaning. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Moncks Bay, on the estuary edge between Redcliffs and the foot of Mount Pleasant. Salt spray off the water builds up on outdoor coils faster here, so we site the unit on the sheltered side and plan for regular cleaning. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: moncks-bay-hero
 gallery: [pool-coastal-home, pool-filters]
 faqHeading: "Questions about heat pumps in Moncks Bay"
@@ -53,7 +53,7 @@ Clean your indoor filters every few weeks in winter. Vacuum them, or rinse them 
 
 ## What we do in Moncks Bay
 
-For new systems, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. For existing ones, we service and [repair](/heat-pump-repair/) all of those, plus Panasonic. We also cover most other brands found in New Zealand homes. Moncks Bay is in Christchurch City, so the District Plan's [noise rules at the boundary](/heat-pump-boundary-rules-consent-nz/) apply.
+For new systems, we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. For existing ones, we service and [repair](/heat-pump-repair/) all of those, plus Panasonic. We also cover most other brands found in New Zealand homes. Moncks Bay is in Christchurch City, so the District Plan's [noise rules at the boundary](/heat-pump-boundary-rules-consent-nz/) apply.
 
 ## Around Moncks Bay
 

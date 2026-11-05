@@ -7,7 +7,7 @@ h1: Heat pump installation in Northwood, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Northwood
 suburb: Northwood
-intro: "We install, service and repair heat pumps across Northwood. Most housing here went up from the 1990s onward and is well insulated and double glazed, so a unit that is too big wastes power and feels uneven. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps across Northwood. Most housing here went up from the 1990s onward and is well insulated and double glazed, so a unit that is too big wastes power and feels uneven. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: northwood-hero
 gallery: [northwood-1, northwood-2]
 faqHeading: "Questions about heat pumps in Northwood"
@@ -45,7 +45,7 @@ For a [heat pump installation](/heat-pump-installation-in-christchurch/), we vis
 
 On a flat Northwood section, the outdoor unit usually goes on the ground on feet or on a wall bracket, with clear airflow around it and away from the boundary. Because sections here are close together, we check the placement against the [boundary noise rules](/heat-pump-boundary-rules-consent-nz/), which are measured at your neighbour's property.
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba, in wall, floor console, ceiling cassette or ducted form. If you are weighing up brands, our [brands comparison](/heat-pump-brands-comparison/) sets out the differences.
+We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba in wall, floor console, ceiling cassette or ducted form, and Rinnai in wall, floor console or ducted form. If you are weighing up brands, our [brands comparison](/heat-pump-brands-comparison/) sets out the differences.
 
 ## Servicing heat pumps in Northwood
 

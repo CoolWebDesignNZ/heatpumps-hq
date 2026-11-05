@@ -7,7 +7,7 @@ h1: Heat pump installation and service in Mairehau
 serviceName: Heat pump installation, servicing and repair
 areaServed: Mairehau
 suburb: Mairehau
-intro: "We install, service and repair heat pumps in Mairehau. Most homes here are compact, so the outdoor unit sits a short pipe run from the indoor one and the job stays simple. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Mairehau. Most homes here are compact, so the outdoor unit sits a short pipe run from the indoor one and the job stays simple. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: mairehau-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: "Questions about heat pumps in Mairehau"

@@ -7,7 +7,7 @@ h1: Heat pump installation in Islington, on the city's western edge
 serviceName: Heat pump installation, servicing and repair
 areaServed: Islington
 suburb: Islington
-intro: "We install, service and repair heat pumps in Islington, on the city's western edge. The flat ground makes outdoor unit placement easier, but sections are often close together, so clear airflow and the boundary noise rules matter. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Islington, on the city's western edge. The flat ground makes outdoor unit placement easier, but sections are often close together, so clear airflow and the boundary noise rules matter. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pump installation in Islington"
@@ -59,7 +59,7 @@ Islington gets the same hard frosts as the rest of the city's south west. An out
 
 If it stays iced, or the unit stops heating altogether, that's worth a look. Common causes are a blocked drain, a sensor fault or low refrigerant. We work through the fault with the [troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) as a starting point, then come out to diagnose it properly.
 
-We find and repair faults on Mitsubishi Electric, Daikin, Fujitsu, Panasonic and Toshiba units. If your heat pump has stopped and you need it going, see [emergency repair](/emergency-heat-pump-repair/). We take repair jobs in Islington on weekdays.
+We find and repair faults on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic units. If your heat pump has stopped and you need it going, see [emergency repair](/emergency-heat-pump-repair/). We take repair jobs in Islington on weekdays.
 
 ## Heat pumps for Islington rentals
 
@@ -71,7 +71,7 @@ Islington comes under Christchurch City Council. Its District Plan sets the nois
 
 ## Heat pump brands we install in Islington
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. High wall, floor console, multi-room or ducted, for older homes and new builds.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. High wall, floor console, multi-room or ducted, for older homes and new builds.
 - **Servicing.** A yearly service that checks the filters, coils and drain.
 - **Repairs.** We find faults on all the major brands and repair them.
 

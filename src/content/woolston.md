@@ -63,7 +63,7 @@ Parts of Woolston sit close to the Heathcote River, and older houses near the wa
 
 ## What we do in Woolston
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall, floor console, multi room or ducted, for cottages, bungalows and townhouses.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Wall, floor console, multi room or ducted, for cottages, bungalows and townhouses.
 - **Servicing.** A yearly service that checks the filters, the outdoor coil and the drains, with plans if you want it scheduled.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

@@ -7,7 +7,7 @@ h1: Heat pump installation in Richmond, close to the river
 serviceName: Heat pump installation, servicing and repair
 areaServed: Richmond
 suburb: Richmond
-intro: "We install, service and repair heat pumps in Richmond, planning outdoor units around the cold easterly and the neighbours. Richmond's narrow sections mean the outdoor unit often goes down the gap between houses, so we check placement against the council's boundary noise limits at the quote. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Richmond, planning outdoor units around the cold easterly and the neighbours. Richmond's narrow sections mean the outdoor unit often goes down the gap between houses, so we check placement against the council's boundary noise limits at the quote. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Richmond"
@@ -18,7 +18,7 @@ faqs:
   - q: How close can the outdoor unit be to my neighbour?
     a: The unit has to meet the council's noise limits at your neighbour's boundary. In Richmond the sections are narrow, so the gap between houses is where the unit usually goes. We check the measurements at the quote. The rules are set out in <a href="/heat-pump-boundary-rules-consent-nz/">boundary noise rules</a>.
   - q: Do you repair heat pumps in Richmond on all brands?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. If the unit is old and the repair is a big one, we'll tell you what a replacement would involve.
+    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. If the unit is old and the repair is a big one, we'll tell you what a replacement would involve.
   - q: Is Richmond colder than the rest of Christchurch?
     a: Richmond sits east of the city centre, and that side of town gets the cold easterly off the coast. Frosts settle on the flat ground in winter. A heat pump sized for a colder room will run less hard on the coldest mornings, so we size with that in mind.
 related:
@@ -64,7 +64,7 @@ Because the sections are close, noise matters. The council's District Plan sets 
 
 ## What we do in Richmond
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall, console, multi-room or ducted, for villas, cottages and townhouses.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Wall, console, multi-room or ducted, for villas, cottages and townhouses.
 - **Servicing.** A yearly service that checks the indoor and outdoor units and clears the narrow side yards.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

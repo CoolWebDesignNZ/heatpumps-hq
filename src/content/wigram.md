@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing for Wigram homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Wigram
 suburb: Wigram
-intro: "We plan, fit, service and repair heat pumps in Wigram, including its newer subdivisions. Insulated walls and ceilings and double glazing keep heat loss low, so a modest unit can heat the open plan living area, while grouped or upstairs bedrooms often need a second unit or ducting. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We plan, fit, service and repair heat pumps in Wigram, including its newer subdivisions. Insulated walls and ceilings and double glazing keep heat loss low, so a modest unit can heat the open plan living area, while grouped or upstairs bedrooms often need a second unit or ducting. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: wigram-hero
 gallery: [pool-newbuild-living, pool-townhouse]
 faqHeading: "Questions about heat pumps in Wigram"
@@ -52,7 +52,7 @@ A heat pump that came with a new house was often picked as part of a package. Th
 
 ## Heat pump service, repairs and installs in Wigram
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems, wall-mounted, ducted or multi-room. We check and service builder-fitted heat pumps, with a filter clean and a look at the drain and outdoor unit. And we repair faults, leaks and error lights on all the major brands.
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai systems, wall-mounted, ducted or multi-room. We check and service builder-fitted heat pumps, with a filter clean and a look at the drain and outdoor unit. And we repair faults, leaks and error lights on all the major brands.
 
 ## Suburbs around Wigram
 

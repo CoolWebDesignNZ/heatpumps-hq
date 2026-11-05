@@ -7,7 +7,7 @@ h1: Heat pump installation for Ferrymead homes and townhouses
 serviceName: Heat pump installation, servicing and repair
 areaServed: Ferrymead
 suburb: Ferrymead
-intro: "We install heat pumps in Ferrymead's townhouses and units, and we find room for the outdoor unit in small courtyards and beside shared walls. In Christchurch, heat pump noise is measured at the neighbouring site, so we never aim a unit at a neighbour's bedroom window. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install heat pumps in Ferrymead's townhouses and units, and we find room for the outdoor unit in small courtyards and beside shared walls. In Christchurch, heat pump noise is measured at the neighbouring site, so we never aim a unit at a neighbour's bedroom window. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: ferrymead-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Ferrymead"
@@ -56,7 +56,7 @@ In a modern Ferrymead townhouse, one [wall unit](/single-room-heat-pump-installa
 
 ## What we do in Ferrymead
 
-For townhouses and homes here, we fit Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We also service and [repair](/heat-pump-repair/) Panasonic and most other makes sold in New Zealand. A licensed electrical worker always does the electrical connection.
+For townhouses and homes here, we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. We also service and [repair](/heat-pump-repair/) Panasonic and most other makes sold in New Zealand. A licensed electrical worker always does the electrical connection.
 
 ## Around Ferrymead
 

@@ -7,7 +7,7 @@ h1: Heat pump installation and repair in Templeton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Templeton
 suburb: Templeton
-intro: "We install, service and repair heat pumps in Templeton, including the newer streets and semi-rural sections. Templeton gets frosty mornings and nor'west wind, so we size each unit for the coldest mornings and fit it on raised feet for defrost drainage. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Templeton, including the newer streets and semi-rural sections. Templeton gets frosty mornings and nor'west wind, so we size each unit for the coldest mornings and fit it on raised feet for defrost drainage. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: templeton-hero
 gallery: [pool-frost-outdoor, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Templeton"
@@ -55,7 +55,7 @@ On clear nights, outdoor units in Templeton face frost. On those mornings the he
 
 ## Our Templeton heat pump services
 
-- **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing** before winter. We clean the filters, coil and drain. See [servicing](/maintenance-servicing/).
 - **Repairs** on the major brands and most other units sold in New Zealand.
 

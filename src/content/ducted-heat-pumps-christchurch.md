@@ -5,7 +5,7 @@ keyword: ducted heat pumps christchurch
 secondary: [ducted heat pump, ducted heat pumps, ducted heating christchurch]
 h1: Ducted heat pumps for Christchurch homes
 serviceName: Ducted heat pump installation
-intro: "We install ducted heat pumps in Christchurch homes, with the indoor unit hidden in the roof or under the floor and a vent in each room. Nothing goes on the walls, and we check the roof pitch and clear ceiling height before we quote. We fit Daikin, Mitsubishi Electric, Fujitsu and Toshiba, and quotes are free."
+intro: "We install ducted heat pumps in Christchurch homes, with the indoor unit hidden in the roof or under the floor and a vent in each room. Nothing goes on the walls, and we check the roof pitch and clear ceiling height before we quote. We fit Daikin, Mitsubishi Electric, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: ducted-hero
 gallery: [ducted-roofspace, ducted-grille]
 stepsHeading: How we plan a ducted heat pump install
@@ -88,9 +88,9 @@ We size a ducted system room by room, for the whole area it heats. Each room nee
 
 ## Daikin and Mitsubishi Electric ducted heat pumps
 
-We fit ducted systems from Daikin, Mitsubishi Electric, Fujitsu and Toshiba. For the Daikin series and zone controls, see [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/). For ZoneIQ and Lossnay, see [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
+We fit ducted systems from Daikin, Mitsubishi Electric, Fujitsu, Toshiba and Rinnai. For the Daikin series and zone controls, see [Daikin ducted heat pumps](/daikin-ducted-heat-pumps-christchurch/). For ZoneIQ and Lossnay, see [Mitsubishi Electric ducted heat pumps](/mitsubishi-ducted-heat-pumps-christchurch/).
 
-For Fujitsu and Toshiba, we'll quote the system and explain how the options compare for your house.
+For Fujitsu, Toshiba and Rinnai, we'll quote the system and explain how the options compare for your house.
 
 ## Replacing an old ducted system
 

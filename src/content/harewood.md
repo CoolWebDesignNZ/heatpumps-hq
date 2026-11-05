@@ -7,7 +7,7 @@ h1: Heat pump installation in Harewood
 serviceName: Heat pump installation, servicing and repair
 areaServed: Harewood
 suburb: Harewood
-intro: "We install, service and repair heat pumps in Harewood, from the suburban streets out to the semi-rural blocks by the airport. The land is flat and open with little shelter, so we size for the coldest mornings, not an average day. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Harewood, from the suburban streets out to the semi-rural blocks by the airport. The land is flat and open with little shelter, so we size for the coldest mornings, not an average day. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: harewood-hero
 gallery: [pool-frost-outdoor, pool-lifestyle]
 faqHeading: "Questions about heat pumps in Harewood"
@@ -62,7 +62,7 @@ Dry nor'west days carry dust. On semi-rural blocks, so do paddocks, gravel drive
 
 ## Services in Harewood
 
-- **New installs** of Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps.
+- **New installs** of Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai heat pumps.
 - **Servicing** of all major brands. See [maintenance and servicing](/maintenance-servicing/).
 - **Repairs**, Panasonic included. See [heat pump repairs](/heat-pump-repair/).
 

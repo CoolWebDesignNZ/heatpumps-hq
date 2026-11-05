@@ -18,7 +18,7 @@ faqs:
   - q: Where does the outdoor unit go on a small infill section?
     a: Usually on a wall bracket or a pad down the side of the house. Keep it away from the neighbour's bedroom windows. The rules are about noise at the neighbour's place. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> covers them.
   - q: Do you repair heat pumps you didn't install?
-    a: Yes. Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands sold in New Zealand, whoever fitted them.
+    a: Yes. Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, plus most other brands sold in New Zealand, whoever fitted them.
   - q: Is one heat pump enough for a Papanui townhouse?
     a: Often, for the living level. Upstairs bedrooms in a two storey townhouse usually need their own small unit. Warm air from downstairs doesn't spread evenly through closed doors.
 related:

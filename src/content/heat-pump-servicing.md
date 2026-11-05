@@ -5,7 +5,7 @@ keyword: heat pump servicing christchurch
 secondary: [heat pump servicing, heat pump service, heat pump service cost]
 h1: Heat pump servicing in Christchurch, step by step
 serviceName: Heat pump servicing
-intro: "We service heat pumps across Christchurch, Selwyn and Lyttelton, indoor and outdoor units. We service Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other split and ducted heat pumps sold in New Zealand, and quotes are free."
+intro: "We service heat pumps across Christchurch, Selwyn and Lyttelton, indoor and outdoor units. We service Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, plus most other split and ducted heat pumps sold in New Zealand, and quotes are free."
 hero: servicing-hero
 gallery: [servicing-coil, servicing-outdoor]
 faqHeading: "Heat pump servicing questions"
@@ -16,7 +16,7 @@ faqs:
   - q: What does a heat pump service cost?
     a: It depends on how many units you have and the type of system. Also on how easy each unit is to get at, and how dirty it is. Quotes are free.
   - q: Do you service brands you didn't install?
-    a: Yes. We service Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Plus most other split and ducted heat pumps sold in New Zealand.
+    a: Yes. We service Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. Plus most other split and ducted heat pumps sold in New Zealand.
   - q: Do I need to be home for the service?
     a: Someone needs to let us in to get to the indoor units and the remote. We can do the outdoor unit without you, as long as we can reach it safely.
 related:

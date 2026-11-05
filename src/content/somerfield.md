@@ -7,7 +7,7 @@ h1: Heat pump installation in Somerfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Somerfield
 suburb: Somerfield
-intro: "We install, service and repair heat pumps in Somerfield. Its original bungalows and villas lose heat through ceilings, bare floors on piles and single glazing, so we check insulation before sizing each unit. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
+intro: "We install, service and repair heat pumps in Somerfield. Its original bungalows and villas lose heat through ceilings, bare floors on piles and single glazing, so we check insulation before sizing each unit. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and quotes are free."
 hero: somerfield-hero
 gallery: [pool-console-unit, pool-frost-outdoor]
 faqHeading: "Somerfield heat pump questions"
@@ -66,7 +66,7 @@ Somerfield is on flat ground south of the city, between Beckenham and Spreydon. 
 
 ## Heat pump service and repairs in Somerfield
 
-We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. A [service](/maintenance-servicing/) once a year keeps your unit running efficiently. If it's stopped heating, see [heat pump repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic units. A [service](/maintenance-servicing/) once a year keeps your unit running efficiently. If it's stopped heating, see [heat pump repairs](/heat-pump-repair/).
 
 ## Somerfield's neighbours
 

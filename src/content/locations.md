@@ -33,7 +33,7 @@ We work right across Christchurch, out to Lyttelton and the Selwyn towns.
 
 What suits your home depends a lot on where you live. Older villas lose heat through the floor. Hill homes often need the outdoor unit on a bracket. Close to the beach, the unit needs a spot out of the salt wind.
 
-Wherever you are, we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, repair and service all the main brands, and give you a free quote.
+Wherever you are, we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, repair and service all the main brands, and give you a free quote.
 
 ## Heat pumps in the Central City and inner suburbs
 

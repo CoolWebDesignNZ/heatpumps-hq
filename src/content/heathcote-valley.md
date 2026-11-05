@@ -7,7 +7,7 @@ h1: Heat pump installation in Heathcote Valley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Heathcote Valley
 suburb: Heathcote Valley
-intro: "We install, service and repair heat pumps in Heathcote Valley, from the flat valley floor to homes up the slopes. The hills block the low winter sun, so a house on the shady side leans harder on its heating and may need more capacity or a second unit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Heathcote Valley, from the flat valley floor to homes up the slopes. The hills block the low winter sun, so a house on the shady side leans harder on its heating and may need more capacity or a second unit. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: heathcote-valley-hero
 gallery: [pool-hill-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Heathcote Valley"
@@ -50,7 +50,7 @@ On a hillside, the tricky bit is often the route between the two units. The refr
 
 ## What we do in Heathcote Valley
 
-- **New systems.** Single-room, [multi-room](/multi-room-heat-pump-installation/) and ducted, from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **New systems.** Single-room, [multi-room](/multi-room-heat-pump-installation/) and ducted, from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing.** A yearly [clean and check](/heat-pump-servicing/) keeps a hard-working valley unit efficient.
 - **Repairs.** Blowing cold, leaking or showing a fault light? We find the fault and [fix it](/heat-pump-repair/).
 

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Avonhead
 serviceName: Heat pump installation, servicing and repair
 areaServed: Avonhead
 suburb: Avonhead
-intro: "We install, service and repair heat pumps in Avonhead, where single storey brick and tile houses put the lounge at one end and bedrooms down a hall. Single glazing and thin ceiling insulation mean the lounge often needs more capacity than its floor area suggests. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Avonhead, where single storey brick and tile houses put the lounge at one end and bedrooms down a hall. Single glazing and thin ceiling insulation mean the lounge often needs more capacity than its floor area suggests. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: avonhead-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Avonhead
@@ -63,7 +63,7 @@ Have you topped up the ceiling insulation or put in new windows since the house 
 
 ## Heat pump installation and servicing in Avonhead
 
-In Avonhead we install Mitsubishi Electric, Daikin, Fujitsu or Toshiba. Our [servicing](/maintenance-servicing/) cleans the filters, coil and drain, and we [repair](/heat-pump-repair/) all the major brands.
+In Avonhead we install Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. Our [servicing](/maintenance-servicing/) cleans the filters, coil and drain, and we [repair](/heat-pump-repair/) all the major brands.
 
 We also work in [Russley](/russley/), [Ilam](/ilam/), [Yaldhurst](/yaldhurst/) and [Burnside](/burnside/).
 

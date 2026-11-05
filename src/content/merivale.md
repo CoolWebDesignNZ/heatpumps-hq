@@ -7,7 +7,7 @@ h1: Heat pump installation in Merivale, for older villas and modern homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Merivale
 suburb: Merivale
-intro: We install, service and repair heat pumps in Merivale. Its older villas lose heat through high ceilings, timber floors and single glazing, so we measure each room before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free.
+intro: We install, service and repair heat pumps in Merivale. Its older villas lose heat through high ceilings, timber floors and single glazing, so we measure each room before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free.
 hero: pool-weatherboard
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Merivale"
@@ -53,13 +53,13 @@ If the house is damp or anyone in it has asthma or allergies, a regular service 
 
 ## Repairing heat pumps in Merivale
 
-When a heat pump stops heating, makes a new noise or drips water, we find the fault and tell you what it needs. We repair every major brand, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. If the unit is old and the repair is uneconomic, we'll say so and quote a [replacement](/heat-pump-replacement-christchurch/) instead.
+When a heat pump stops heating, makes a new noise or drips water, we find the fault and tell you what it needs. We repair every major brand, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. If the unit is old and the repair is uneconomic, we'll say so and quote a [replacement](/heat-pump-replacement-christchurch/) instead.
 
 Common problems in older homes include blocked drains, dirty coils and worn parts. Our [troubleshooting guide](/heat-pump-problems-troubleshooting-guide/) covers the ones you can check yourself before you ring.
 
 ## What we do in Merivale
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. High wall, floor console, multi-room or ducted, for villas, bungalows and townhouses.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. High wall, floor console, multi-room or ducted, for villas, bungalows and townhouses.
 - **Servicing.** A yearly [service](/heat-pump-servicing/) that keeps the unit efficient and catches small faults early.
 - **Repairs.** We find faults on all the major brands and quote the work before we start.
 

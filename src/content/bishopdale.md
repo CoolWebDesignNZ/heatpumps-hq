@@ -7,7 +7,7 @@ h1: Heat pump installation in Bishopdale
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bishopdale
 suburb: Bishopdale
-intro: "We install, service and repair heat pumps in Bishopdale. Most homes here are 1960s to 1980s builds on flat ground, and many have single glazing and thin ceiling insulation, so they need more capacity than their floor area suggests. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Bishopdale. Most homes here are 1960s to 1980s builds on flat ground, and many have single glazing and thin ceiling insulation, so they need more capacity than their floor area suggests. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: pool-weatherboard
 gallery: [pool-weatherboard, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Bishopdale"
@@ -61,7 +61,7 @@ If your heat pump is old and costing more to run each year, a [replacement](/hea
 
 ## What we do in Bishopdale
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Wall, floor console, multi-room or ducted.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Wall, floor console, multi-room or ducted.
 - **Servicing.** A yearly service that checks the unit top to bottom.
 - **Repairs.** Fault-finding on all the major brands, Panasonic included.
 

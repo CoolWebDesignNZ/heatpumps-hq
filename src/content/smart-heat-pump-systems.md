@@ -35,7 +35,7 @@ Some brands also show energy figures. Some add voice control, or remind you to c
 
 Each brand has its own Wi-Fi adaptor and app. They don't work across brands, so a Mitsubishi Electric app won't run a Daikin, and the other way round. Within one brand, the adaptor and app can also change with the model and its age.
 
-- **Mitsubishi Electric, Daikin, Fujitsu and Toshiba.** We fit Wi-Fi control on all four. Some new models have it built in, and others take an adaptor fitted inside the indoor unit.
+- **Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.** We fit Wi-Fi control on all five. Some new models have it built in, and others take an adaptor fitted inside the indoor unit.
 - **Older units.** Some can take an adaptor, and some can't. We check the model number before you buy anything.
 - **Extra features.** Energy figures, voice control and filter reminders vary by brand and model. Tell us which ones matter to you and we'll match the unit to them.
 

@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Sydenham
 serviceName: Heat pump installation, servicing and repair
 areaServed: Sydenham
 suburb: Sydenham
-intro: "We install, service and repair heat pumps in Sydenham. Renovated villas here often have a warm new open plan extension at the back and cold original rooms at the front, so each part of the house gets its own unit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Sydenham. Renovated villas here often have a warm new open plan extension at the back and cold original rooms at the front, so each part of the house gets its own unit. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: sydenham-hero
 gallery: [pool-weatherboard, pool-console-unit]
 faqHeading: "Questions about heat pumps in Sydenham"
@@ -61,6 +61,6 @@ Did your Sydenham home come with a heat pump that's been left alone for years? B
 
 ## Heat pump installs and repairs in Sydenham
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We service and repair those brands, plus Panasonic. We also work across [Addington](/heat-pumps-addington/), [Somerfield](/somerfield/), [Beckenham](/beckenham/), [Spreydon](/spreydon/) and [Phillipstown](/phillipstown/).
+We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. We service and repair those brands, plus Panasonic. We also work across [Addington](/heat-pumps-addington/), [Somerfield](/somerfield/), [Beckenham](/beckenham/), [Spreydon](/spreydon/) and [Phillipstown](/phillipstown/).
 
 For a free quote in Sydenham, call **[03 242 1023](tel:032421023)** or use the form.

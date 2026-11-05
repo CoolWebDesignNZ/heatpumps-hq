@@ -7,7 +7,7 @@ h1: Heat pump installation, servicing and repair in Hornby
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hornby
 suburb: Hornby
-intro: "We install, service and repair heat pumps in Hornby. Older weatherboard and brick houses here lose heat through the ceiling, floor and old windows, so we check the insulation before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Hornby. Older weatherboard and brick houses here lose heat through the ceiling, floor and old windows, so we check the insulation before we pick a unit size. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: hornby-hero
 gallery: [pool-weatherboard, pool-brick-bungalow]
 faqHeading: "Questions about heat pumps in Hornby"
@@ -18,7 +18,7 @@ faqs:
   - q: Where should the outdoor unit go on a small Hornby section?
     a: Against your own wall is best. Keep it away from the neighbour's bedroom windows, with space round it for air to move. Christchurch measures heat pump noise at the neighbouring property. Our <a href="/heat-pump-boundary-rules-consent-nz/">boundary rules guide</a> has the limits.
   - q: Will you fix a Hornby heat pump another company fitted?
-    a: Yes. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units. We repair most other brands sold in New Zealand too, whoever put them in.
+    a: Yes. We repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic units. We repair most other brands sold in New Zealand too, whoever put them in.
 related:
   - { label: Sockburn, href: /sockburn/, text: "Heat pumps for Sockburn homes and units." }
   - { label: Wigram, href: /wigram/, text: "Installs for newer homes in Wigram." }
@@ -46,7 +46,7 @@ Hornby is on the flat western edge of the city. Clear winter nights out here bri
 
 ## Heat pump installs, service and repair in Hornby
 
-- **Installs.** Wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs.** Wall-mounted, floor console, multi-room and ducted heat pumps from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing.** Filter and coil cleans, plus a drain check. See [heat pump servicing](/maintenance-servicing/).
 - **Repairs.** Units that have stopped heating, are leaking water or show a fault light. See [heat pump repairs](/heat-pump-repair/).
 - **Replacements.** New units for old ones. We check the existing pipework first to see if it can be reused.

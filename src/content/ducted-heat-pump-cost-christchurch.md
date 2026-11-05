@@ -112,4 +112,4 @@ A ducted quote should spell out each of these, so you can compare one quote with
 
 ## Get a free quote for a ducted heat pump
 
-We fit [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. We look at the roof space, the rooms, the insulation and how you use the house. Then you get a free quote. If a couple of wall units would do a better job in your house, we'll tell you. Call **[03 242 1023](tel:032421023)** to set up a visit, or [ask for a quote](/contact-us/) online.
+We fit [ducted systems](/ducted-heat-pumps-christchurch/) from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. We look at the roof space, the rooms, the insulation and how you use the house. Then you get a free quote. If a couple of wall units would do a better job in your house, we'll tell you. Call **[03 242 1023](tel:032421023)** to set up a visit, or [ask for a quote](/contact-us/) online.

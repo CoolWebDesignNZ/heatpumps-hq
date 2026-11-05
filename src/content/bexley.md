@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bexley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bexley
 suburb: Bexley
-intro: "We install, service and repair heat pumps in Bexley, on the low ground by the Avon River and the estuary. Rebuilt homes here hold their heat well, so the right unit is often smaller than people expect. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
+intro: "We install, service and repair heat pumps in Bexley, on the low ground by the Avon River and the estuary. Rebuilt homes here hold their heat well, so the right unit is often smaller than people expect. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and quotes are free."
 hero: bexley-hero
 gallery: [pool-newbuild-living, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bexley
@@ -54,7 +54,7 @@ There's a bit of salt in the estuary air too. Give the outdoor coil a rinse now 
 
 ## Heat pump service and repairs in Bexley
 
-We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic in Bexley. We do most other brands sold here as well. Read about [servicing](/maintenance-servicing/). Or if something's gone wrong, see [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic in Bexley. We do most other brands sold here as well. Read about [servicing](/maintenance-servicing/). Or if something's gone wrong, see [repairs](/heat-pump-repair/).
 
 ## Suburbs near Bexley
 

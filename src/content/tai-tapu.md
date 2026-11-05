@@ -7,7 +7,7 @@ h1: Heat pump installation for Tai Tapu homes and lifestyle blocks
 serviceName: Heat pump installation, servicing and repair
 areaServed: Tai Tapu
 suburb: Tai Tapu
-intro: "We install, service and repair heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. Older farmhouses here have high ceilings, single glazing and rooms off long halls, so one lounge unit leaves bedrooms cold. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Tai Tapu village and on the lifestyle blocks and farms around it. Older farmhouses here have high ceilings, single glazing and rooms off long halls, so one lounge unit leaves bedrooms cold. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: tai-tapu-hero
 gallery: [pool-lifestyle, pool-console-unit]
 faqHeading: Questions about heat pumps in Tai Tapu
@@ -59,7 +59,7 @@ On a lifestyle block, the nearest neighbour may be a fair way off. So noise over
 
 ## Heat pump installation in Tai Tapu
 
-In Tai Tapu we fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. A licensed electrical worker connects the wiring. We'll also service or [repair](/heat-pump-repair/) a Panasonic or other common brand you already have. A country heat pump works hard all winter. A yearly [service](/heat-pump-servicing/) keeps it in shape.
+In Tai Tapu we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. A licensed electrical worker connects the wiring. We'll also service or [repair](/heat-pump-repair/) a Panasonic or other common brand you already have. A country heat pump works hard all winter. A yearly [service](/heat-pump-servicing/) keeps it in shape.
 
 ## Around Tai Tapu
 

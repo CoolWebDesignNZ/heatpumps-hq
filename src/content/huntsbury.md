@@ -7,7 +7,7 @@ h1: Heat pump installation in Huntsbury, high on the hill
 serviceName: Heat pump installation, servicing and repair
 areaServed: Huntsbury
 suburb: Huntsbury
-intro: "We install, service and repair heat pumps in Huntsbury. On the hill, wind and frost decide where the outdoor unit goes and how hard it works, so we plan the mounting and pipe route at the quote visit. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Huntsbury. On the hill, wind and frost decide where the outdoor unit goes and how hard it works, so we plan the mounting and pipe route at the quote visit. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: sumner-hero
 gallery: [pool-coastal-home, pool-weatherboard]
 faqHeading: "Questions about heat pumps in Huntsbury"
@@ -20,7 +20,7 @@ faqs:
   - q: Can you service a heat pump that has run for years without one?
     a: Yes. A first <a href="/heat-pump-servicing/">service</a> on a neglected unit usually turns up a dirty coil, a blocked filter or a drain that needs clearing. We tell you what we find before any work goes ahead.
   - q: Do you repair heat pumps in Huntsbury?
-    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> in Huntsbury on the major brands, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic.
+    a: Yes. We take <a href="/heat-pump-repair/">repair jobs</a> in Huntsbury on the major brands, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic.
   - q: Is Huntsbury noisy enough to worry about the outdoor unit?
     a: Sections on the hill are often larger and more spread out than on the flat, which helps. The limits still apply, and they are measured at your neighbour's boundary. The <a href="/heat-pump-boundary-rules-consent-nz/">boundary noise rules</a> set out what they are.
 related:
@@ -55,7 +55,7 @@ A heat pump on the hill deals with wind-blown dust, leaves and grit, and the out
 
 ## What we do in Huntsbury
 
-- **Installs.** Mitsubishi Electric, Daikin, Fujitsu and Toshiba. High wall, floor console, multi-room or ducted, for stepped and hillside homes.
+- **Installs.** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. High wall, floor console, multi-room or ducted, for stepped and hillside homes.
 - **Servicing.** A yearly service that checks the outdoor unit for frost damage, dirt and wear.
 - **Repairs.** We find faults on all the major brands, Panasonic included.
 

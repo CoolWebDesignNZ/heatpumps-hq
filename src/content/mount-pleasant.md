@@ -7,7 +7,7 @@ h1: Heat pump installation for Mount Pleasant hill homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Mount Pleasant
 suburb: Mount Pleasant
-intro: "We install, service and repair heat pumps in Mount Pleasant, planning each job around the steep streets and hill sections. Many homes here have big north-facing windows that lose heat fast after dark, so we size units for the evening and early morning. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Mount Pleasant, planning each job around the steep streets and hill sections. Many homes here have big north-facing windows that lose heat fast after dark, so we size units for the evening and early morning. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: mount-pleasant-hero
 gallery: [pool-hill-home, pool-newbuild-living]
 faqHeading: "Questions about heat pumps in Mount Pleasant"
@@ -55,7 +55,7 @@ Mount Pleasant is in Christchurch City. The District Plan's [boundary noise limi
 
 ## Our work on Mount Pleasant
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. That's anything from a single wall unit to a ducted setup in a rebuilt home. Servicing and repairs cover those four, plus Panasonic and nearly every other make sold in New Zealand. Has your heat pump stopped heating properly? [Heat pump repair](/heat-pump-repair/) starts with finding the fault.
+We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. That's anything from a single wall unit to a ducted setup in a rebuilt home. Servicing and repairs cover those five, plus Panasonic and nearly every other make sold in New Zealand. Has your heat pump stopped heating properly? [Heat pump repair](/heat-pump-repair/) starts with finding the fault.
 
 ## Around Mount Pleasant
 

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Riccarton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Riccarton
 suburb: Riccarton
-intro: "We install, service and repair heat pumps in Riccarton, from villas near Hagley Park to rental flats off Riccarton Road. In villas we size the unit from room volume, not just floor area, because high ceilings, sash windows and timber floors all lose heat. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Riccarton, from villas near Hagley Park to rental flats off Riccarton Road. In villas we size the unit from room volume, not just floor area, because high ceilings, sash windows and timber floors all lose heat. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: riccarton-hero
 gallery: [pool-townhouse, pool-console-unit]
 faqHeading: Questions about heat pumps in Riccarton
@@ -63,7 +63,7 @@ After a service, we'll report on each heat pump. We cover the filters, the drain
 
 ## Heat pump service work we do in Riccarton
 
-- **Installs:** Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs:** Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing:** for owners, landlords and property managers.
 - **Fault finding and repairs:** Panasonic and the other major brands, and most units sold in New Zealand.
 

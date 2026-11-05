@@ -7,7 +7,7 @@ h1: Heat pump installation for Edgeware homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Edgeware
 suburb: Edgeware
-intro: "We install, service and repair heat pumps in Edgeware, sizing each system to your rooms, insulation and windows. In the old timber cottages and villas, high studs and draughts mean a lounge unit seldom warms more than the lounge. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Edgeware, sizing each system to your rooms, insulation and windows. In the old timber cottages and villas, high studs and draughts mean a lounge unit seldom warms more than the lounge. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: edgeware-hero
 gallery: [pool-weatherboard, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Edgeware"
@@ -57,7 +57,7 @@ Outside, space is tight. Side paths are narrow. The next unit's bedroom may be a
 
 ## Heat pump installs, service and repair in Edgeware
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba systems in Edgeware cottages, villas and townhouses, sized from your rooms, insulation and windows. We do [heat pump servicing](/maintenance-servicing/) on units of any age, including cleaning and drain checks. Our [repairs](/heat-pump-repair/) cover fault finding on all the major brands.
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai systems in Edgeware cottages, villas and townhouses, sized from your rooms, insulation and windows. We do [heat pump servicing](/maintenance-servicing/) on units of any age, including cleaning and drain checks. Our [repairs](/heat-pump-repair/) cover fault finding on all the major brands.
 
 Close by, we cover [St Albans](/st-albans/) and [the Central City](/central-business-district-cbd/). [Mairehau](/mairehau/) is a little further north.
 

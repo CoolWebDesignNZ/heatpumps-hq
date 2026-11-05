@@ -7,7 +7,7 @@ h1: Heat pump installation on Clifton hill
 serviceName: Heat pump installation, servicing and repair
 areaServed: Clifton
 suburb: Clifton
-intro: "We install, service and repair heat pumps on Clifton hill between Redcliffs and Sumner. Homes here sit on steep sections over several levels and take the weather off the sea, so we plan brackets, pipe runs and salt protection before we quote. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps on Clifton hill between Redcliffs and Sumner. Homes here sit on steep sections over several levels and take the weather off the sea, so we plan brackets, pipe runs and salt protection before we quote. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: clifton-hero
 gallery: [pool-hill-home, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Clifton"
@@ -55,7 +55,7 @@ Sound carries on the hill. So we also keep the unit away from the neighbours' de
 
 ## What we do in Clifton
 
-- **Installs.** Wall, console, multi-room and ducted systems from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs.** Wall, console, multi-room and ducted systems from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing.** Yearly [servicing](/heat-pump-servicing/), with a corrosion check on coastal units.
 - **Repairs.** We find the fault and [repair](/heat-pump-repair/) every major make, Panasonic included.
 

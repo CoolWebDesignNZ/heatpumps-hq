@@ -7,7 +7,7 @@ h1: Heat pump installation for Aidanfield homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aidanfield
 suburb: Aidanfield
-intro: "We install, service and repair heat pumps in Aidanfield, adding to the system you have or starting fresh. Its single-storey brick and plaster family homes hold heat better than older villas, but the bedroom wing often needs its own heat once doors are shut. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Aidanfield, adding to the system you have or starting fresh. Its single-storey brick and plaster family homes hold heat better than older villas, but the bedroom wing often needs its own heat once doors are shut. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: aidanfield-hero
 gallery: [pool-brick-bungalow, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Aidanfield
@@ -59,9 +59,9 @@ Some subdivisions have land covenants on the title. They can cover what goes on 
 
 ## Heat pump installation in Aidanfield
 
-New and replacement systems in Aidanfield are Mitsubishi Electric, Daikin, Fujitsu or Toshiba. A licensed electrical worker connects each one.
+New and replacement systems in Aidanfield are Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. A licensed electrical worker connects each one.
 
-Already got a heat pump on the wall? We can service or repair it. It can be one of those four, a Panasonic or most other common brands.
+Already got a heat pump on the wall? We can service or repair it. It can be one of those five, a Panasonic or most other common brands.
 
 ## Around Aidanfield
 

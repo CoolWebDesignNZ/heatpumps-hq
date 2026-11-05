@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Yaldhurst
 serviceName: Heat pump installation, servicing and repair
 areaServed: Yaldhurst
 suburb: Yaldhurst
-intro: "We install, service and repair heat pumps in Yaldhurst, on lifestyle blocks and bigger homes on the plains west of the city. These homes need units sized for hard frosts on still, clear nights, with the outdoor unit sheltered from the dry nor'west. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Yaldhurst, on lifestyle blocks and bigger homes on the plains west of the city. These homes need units sized for hard frosts on still, clear nights, with the outdoor unit sheltered from the dry nor'west. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: yaldhurst-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: "Questions about heat pumps in Yaldhurst"
@@ -54,7 +54,7 @@ Dust blows in off the paddocks and shingle driveways. It builds up on the outdoo
 
 ## What we offer in Yaldhurst
 
-- **Installs** of wall, floor and ducted units from Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs** of wall, floor and ducted units from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai.
 - **Servicing and [repairs](/heat-pump-repair/)** on all the major brands.
 
 We also work in [McLeans Island](/mcleans-island/), [Russley](/russley/), [Avonhead](/avonhead/) and [Templeton](/templeton/).

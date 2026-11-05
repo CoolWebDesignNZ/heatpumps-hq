@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Oaklands
 serviceName: Heat pump installation, servicing and repair
 areaServed: Oaklands
 suburb: Oaklands
-intro: "We install, service and repair heat pumps in Oaklands, where most homes are single storey brick and tile houses from the 1960s to the 1980s. Many have one unit in the front lounge only, so we check ceiling insulation and windows before sizing heat for the bedrooms. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Oaklands, where most homes are single storey brick and tile houses from the 1960s to the 1980s. Many have one unit in the front lounge only, so we check ceiling insulation and windows before sizing heat for the bedrooms. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: oaklands-hero
 gallery: [pool-brick-bungalow, pool-bedroom-unit]
 faqHeading: Questions about heat pumps in Oaklands
@@ -67,7 +67,7 @@ Oaklands comes under the Christchurch District Plan. It judges noise at the neig
 
 ## Heat pump installation in Oaklands
 
-Across Oaklands we install Mitsubishi Electric, Daikin, Fujitsu or Toshiba. We [service](/maintenance-servicing/) heat pumps once a year, and we [repair](/heat-pump-repair/) the major brands and most others sold in New Zealand.
+Across Oaklands we install Mitsubishi Electric, Daikin, Fujitsu, Toshiba or Rinnai. We [service](/maintenance-servicing/) heat pumps once a year, and we [repair](/heat-pump-repair/) the major brands and most others sold in New Zealand.
 
 We also cover [Halswell](/halswell/), [Hoon Hay](/hoon-hay/), [Westmorland](/westmorland/) and [Aidanfield](/aidanfield/).
 

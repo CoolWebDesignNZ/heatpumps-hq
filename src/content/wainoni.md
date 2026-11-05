@@ -53,7 +53,7 @@ Wainoni is a few kilometres from the beach. Easterly winds still bring some salt
 
 ## Heat pump service and repairs in Wainoni
 
-Older heat pumps in Wainoni often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. It can cause smells too. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic units, and most other brands as well. Book a [service](/maintenance-servicing/). If it's stopped working, read about [repairs](/heat-pump-repair/).
+Older heat pumps in Wainoni often haven't had a service in a long time. Dust in the filters and coil cuts the heat output. It can cause smells too. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic units, and most other brands as well. Book a [service](/maintenance-servicing/). If it's stopped working, read about [repairs](/heat-pump-repair/).
 
 ## Suburbs near Wainoni
 

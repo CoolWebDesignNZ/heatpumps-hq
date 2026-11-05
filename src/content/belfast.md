@@ -7,7 +7,7 @@ h1: Heat pump installation in Belfast, Christchurch
 serviceName: Heat pump installation, servicing and repair
 areaServed: Belfast
 suburb: Belfast
-intro: "We install, service and repair heat pumps in Belfast, at Christchurch's northern edge, in new subdivision homes and the older houses beside them. New Belfast builds are well insulated and double glazed, so we size each unit from your rooms, windows and insulation rather than adding more power. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Belfast, at Christchurch's northern edge, in new subdivision homes and the older houses beside them. New Belfast builds are well insulated and double glazed, so we size each unit from your rooms, windows and insulation rather than adding more power. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: belfast-hero
 gallery: [pool-newbuild-living, pool-ducted-vent]
 faqHeading: Questions about heat pumps in Belfast
@@ -56,7 +56,7 @@ Lots of Belfast houses were built with one living area unit as standard. Adding 
 
 ## What we do in Belfast
 
-We install Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Our [servicing](/maintenance-servicing/) is a clean and check every year, and our [repairs](/heat-pump-repair/) cover fault finding on every major brand, Panasonic included.
+We install Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Our [servicing](/maintenance-servicing/) is a clean and check every year, and our [repairs](/heat-pump-repair/) cover fault finding on every major brand, Panasonic included.
 
 ## Other northern suburbs near Belfast
 

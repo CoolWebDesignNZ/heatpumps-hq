@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Bottle Lake
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bottle Lake
 suburb: Bottle Lake
-intro: "We install, service and repair heat pumps in Bottle Lake. Pine needles, pollen, sand and salt build up on the outdoor coil here, so we place the unit clear of trees and raised above the leaf litter. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
+intro: "We install, service and repair heat pumps in Bottle Lake. Pine needles, pollen, sand and salt build up on the outdoor coil here, so we place the unit clear of trees and raised above the leaf litter. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and quotes are free."
 hero: bottle-lake-hero
 gallery: [pool-lifestyle, pool-frost-outdoor]
 faqHeading: Questions about heat pumps in Bottle Lake
@@ -57,7 +57,7 @@ We size the unit from your rooms, glass, insulation and how you use the house. W
 
 ## Servicing and repairs in Bottle Lake
 
-We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. Most other makes sold in New Zealand are fine too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. Most other makes sold in New Zealand are fine too. Has your unit lost heat, or is it icing up badly? See [heat pump repairs](/heat-pump-repair/).
 
 ## Suburbs near Bottle Lake
 

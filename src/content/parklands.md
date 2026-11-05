@@ -52,7 +52,7 @@ Parklands is close enough to the coast for some salt to blow in on an easterly. 
 
 ## Heat pump repair and servicing in Parklands
 
-We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, plus most other brands. A service once a year covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold sets in. If something's failed, call us for [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, plus most other brands. A service once a year covers the filters, coil, fan and drain. Book [servicing](/maintenance-servicing/) before the cold sets in. If something's failed, call us for [repairs](/heat-pump-repair/).
 
 ## Suburbs near Parklands
 

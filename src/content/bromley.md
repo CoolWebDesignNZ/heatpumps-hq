@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Bromley
 serviceName: Heat pump installation, servicing and repair
 areaServed: Bromley
 suburb: Bromley
-intro: "We install, service and repair heat pumps in Bromley. Most homes here are single storey houses on piles from the 1950s to 70s, and cold air under an uninsulated floor pulls heat from every room, so we check under the house before sizing. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
+intro: "We install, service and repair heat pumps in Bromley. Most homes here are single storey houses on piles from the 1950s to 70s, and cold air under an uninsulated floor pulls heat from every room, so we check under the house before sizing. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and quotes are free."
 hero: bromley-hero
 gallery: [pool-brick-bungalow, pool-filters]
 faqHeading: Questions about heat pumps in Bromley
@@ -51,7 +51,7 @@ Bromley sections are flat. That keeps the outdoor unit simple. We use a level pa
 
 ## Heat pump servicing and repairs in Bromley
 
-We service and repair heat pumps right across Bromley. With the dust here, a yearly service matters more. We clean the filters, indoor coil, fan and drain. We check the outdoor unit and test the heat output. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most other brands sold locally. See [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
+We service and repair heat pumps right across Bromley. With the dust here, a yearly service matters more. We clean the filters, indoor coil, fan and drain. We check the outdoor unit and test the heat output. We work on Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and most other brands sold locally. See [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
 
 ## Suburbs near Bromley
 

@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in South New Brighton
 serviceName: Heat pump installation, servicing and repair
 areaServed: South New Brighton
 suburb: South New Brighton
-intro: "We install, service and repair heat pumps in South New Brighton, on both the beach side and the estuary side. Beach-side homes take sea spray and the full easterly, so we site the outdoor unit on the sheltered side of the house. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in South New Brighton, on both the beach side and the estuary side. Beach-side homes take sea spray and the full easterly, so we site the outdoor unit on the sheltered side of the house. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: south-new-brighton-hero
 gallery: [pool-weatherboard, pool-filters]
 faqHeading: "Questions about heat pumps in South New Brighton"
@@ -46,11 +46,11 @@ Much of South New Brighton is sand. Some areas settled after the earthquakes. A 
 
 Every home in South New Brighton gets some salt. Rinse the outdoor coil gently with a hose every few months. Clean the indoor filters often. A service once a year keeps the coil, fan and drain in good shape.
 
-We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other brands sold in New Zealand too. There's more on [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
+We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. We do most other brands sold in New Zealand too. There's more on [heat pump cleaning](/heat-pump-cleaning/) and [repairs](/heat-pump-repair/).
 
 ## Choosing a heat pump for South New Brighton
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba. This close to salt water, we check each maker's coastal advice for the model we quote. We work out the capacity from your rooms, windows and insulation, and how many hours a day you heat.
+We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. This close to salt water, we check each maker's coastal advice for the model we quote. We work out the capacity from your rooms, windows and insulation, and how many hours a day you heat.
 
 ## Suburbs near South New Brighton
 

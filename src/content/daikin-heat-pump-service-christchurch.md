@@ -27,7 +27,7 @@ related:
 
 ## Daikin systems we work on
 
-Daikin is one of the four brands we fit. We repair and service these Daikin types:
+Daikin is one of the five brands we fit. We repair and service these Daikin types:
 
 - **Wall-mounted split systems.** The single-room units in most Christchurch living areas and bedrooms.
 - **Floor consoles.** Often fitted under a window, or where there's no good high wall.
@@ -69,7 +69,7 @@ Most Daikin wall units use a handheld remote. Many ducted and console systems us
 
 ## Repair or replace a Daikin?
 
-On a Daikin in good condition, lots of faults are worth repairing. But say the compressor has failed on an older unit, or the parts aren't made any more. Then a new unit can be the better spend. We'll give you both options, with prices. We fit Daikin as well as Mitsubishi Electric, Fujitsu and Toshiba. So you can compare a like-for-like Daikin replacement with the others.
+On a Daikin in good condition, lots of faults are worth repairing. But say the compressor has failed on an older unit, or the parts aren't made any more. Then a new unit can be the better spend. We'll give you both options, with prices. We fit Daikin as well as Mitsubishi Electric, Fujitsu, Toshiba and Rinnai. So you can compare a like-for-like Daikin replacement with the others.
 
 ## Daikin service across Christchurch
 

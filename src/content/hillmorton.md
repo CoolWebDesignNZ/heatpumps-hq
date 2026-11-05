@@ -7,7 +7,7 @@ h1: Heat pump installation and servicing in Hillmorton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Hillmorton
 suburb: Hillmorton
-intro: "We install and service heat pumps in Hillmorton. Most homes here have a separate lounge and a hallway of closed bedrooms, so each room you want warm needs its own heat. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install and service heat pumps in Hillmorton. Most homes here have a separate lounge and a hallway of closed bedrooms, so each room you want warm needs its own heat. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: hillmorton-hero
 gallery: [pool-hill-home, pool-filters]
 faqHeading: "Questions about heat pumps in Hillmorton"
@@ -62,7 +62,7 @@ If something's wrong, see [heat pump repairs](/heat-pump-repair/). For a deeper 
 
 ## New heat pump installation in Hillmorton
 
-We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba heat pumps in Hillmorton. We size them from your rooms, insulation and windows, and how you use the house. Servicing and repairs cover the same four makes, plus Panasonic.
+We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai heat pumps in Hillmorton. We size them from your rooms, insulation and windows, and how you use the house. Servicing and repairs cover the same four makes, plus Panasonic.
 
 ## Suburbs next to Hillmorton
 

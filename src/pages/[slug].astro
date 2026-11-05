@@ -79,9 +79,12 @@ const brandPages = {
   'Fujitsu': [['Service and repair', '/fujitsu-heat-pump-service-christchurch/']],
   'Toshiba': [['Service and repair', '/toshiba-heat-pump-service-christchurch/'], ['How the brands compare', '/heat-pump-brands-comparison/']],
   'Panasonic': [['Service and repair', '/panasonic-heat-pump-service-christchurch/']],
+  'Rinnai': [['Starting price', '/heat-pump-installation-cost-christchurch/']],
 };
+// Brands left off a page's brand tiles because they make no unit of that type.
+const brandNotOn = { Rinnai: ['ceiling-cassette-heat-pumps'] };
 const brandNotes = {};
-const brandTiles = site.brandsServiced.map((name) => ({ name, installed: site.brandsInstalled.includes(name), note: brandNotes[name], links: brandPages[name] ?? [] }));
+const brandTiles = site.brandsServiced.filter((name) => !(brandNotOn[name] ?? []).includes(slug)).map((name) => ({ name, installed: site.brandsInstalled.includes(name), note: brandNotes[name], links: brandPages[name] ?? [] }));
 
 const schema = [];
 schema.push({
@@ -191,7 +194,7 @@ if (fm.faqs?.length) {
     <section class:list={["section", { warm: fm.design === 'money' }]}>
       <div class="wrap">
         <h2>{fm.brandsHeading ?? 'Heat pump brands we fit and service'}</h2>
-        <p class="lead">We install four brands and compare their models for your rooms, then suggest the one that fits, not whatever's in stock.</p>
+        <p class="lead">We install five brands and compare their models for your rooms, then suggest the one that fits, not whatever's in stock.</p>
         <div class="brands">
           {brandTiles.map((t) => (
             <div class="brand">

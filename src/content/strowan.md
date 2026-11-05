@@ -7,7 +7,7 @@ h1: Heat pump installation in Strowan, for older timber homes
 serviceName: Heat pump installation, servicing and repair
 areaServed: Strowan
 suburb: Strowan
-intro: "We install, service and repair heat pumps in Strowan. Most of the suburb's villas and bungalows are timber framed with timber floors and single glazing, so they lose heat faster than their floor area suggests and need more capacity. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Strowan. Most of the suburb's villas and bungalows are timber framed with timber floors and single glazing, so they lose heat faster than their floor area suggests and need more capacity. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: pool-coastal-home
 gallery: [pool-weatherboard, pool-coastal-home]
 faqHeading: "Questions about heat pumps in Strowan"
@@ -60,11 +60,11 @@ The service covers the filters, the indoor coil, the condensate drain and the ou
 
 Heat pumps fail in fairly predictable ways. The unit stops heating, blows cold air, drips water, or makes a noise it didn't before. Some of these are simple: a blocked filter, a drain full of algae, a thermostat out of calibration. Others need parts.
 
-We repair all the major brands, including Mitsubishi Electric, Daikin, Fujitsu, Panasonic and Toshiba. If you can tell us the model and what it's doing when you ring, we'll bring the likely parts on the first visit. For a unit that has stopped altogether in cold weather, see [emergency heat pump repair](/emergency-heat-pump-repair/).
+We repair all the major brands, including Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. If you can tell us the model and what it's doing when you ring, we'll bring the likely parts on the first visit. For a unit that has stopped altogether in cold weather, see [emergency heat pump repair](/emergency-heat-pump-repair/).
 
 ## What we do in Strowan
 
-- **Installs.** High wall, floor console, ceiling cassette, multi-room or ducted. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba.
+- **Installs.** High wall, floor console, ceiling cassette, multi-room or ducted. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai (Rinnai has no ceiling cassette).
 - **Servicing.** A yearly service that checks the whole system, not just the filter.
 - **Repairs.** Fault finding and parts replacement on every major brand.
 

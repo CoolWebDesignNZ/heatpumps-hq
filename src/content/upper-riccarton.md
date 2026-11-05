@@ -7,7 +7,7 @@ h1: Heat pump installation and repair in Upper Riccarton
 serviceName: Heat pump installation, servicing and repair
 areaServed: Upper Riccarton
 suburb: Upper Riccarton
-intro: "We install, service and repair heat pumps in Upper Riccarton, for rentals, units and infill townhouses near the university. Many of these homes are rentals, so we size the unit to the living room's required capacity under the heating standard. We fit Mitsubishi Electric, Daikin, Fujitsu and Toshiba, and quotes are free."
+intro: "We install, service and repair heat pumps in Upper Riccarton, for rentals, units and infill townhouses near the university. Many of these homes are rentals, so we size the unit to the living room's required capacity under the heating standard. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 hero: upper-riccarton-hero
 gallery: [pool-townhouse, pool-bedroom-unit]
 faqHeading: "Questions about heat pumps in Upper Riccarton"
@@ -59,7 +59,7 @@ Infill sections leave little space between homes. The outdoor unit often ends up
 
 ## Heat pump services in Upper Riccarton
 
-- **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu and Toshiba. Anything from a [single room unit](/single-room-heat-pump-installation/) to a multi-room system.
+- **New heat pumps** from Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai. Anything from a [single room unit](/single-room-heat-pump-installation/) to a multi-room system.
 - **Servicing** for one home or several rental units.
 - **Repairs** on all the major brands, Panasonic included, whoever fitted them.
 

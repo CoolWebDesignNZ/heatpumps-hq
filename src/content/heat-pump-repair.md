@@ -14,7 +14,7 @@ faqs:
   - q: Is it worth repairing an old heat pump?
     a: Often, yes. A lot of faults are a sensor, a fan motor, a blocked drain or a control board. Those cost far less than a new unit. If the compressor has gone on an older unit, replacing it usually makes more sense. We'll tell you which it is before we start.
   - q: Which brands do you repair?
-    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We also fix most other split and ducted systems sold in New Zealand.
+    a: Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. We also fix most other split and ducted systems sold in New Zealand.
   - q: Why is my outdoor unit steaming in winter?
     a: It's usually defrosting. On frosty Canterbury mornings the outdoor coil ices up. The unit then runs backwards for a few minutes to melt it, and the indoor fan stops while that happens. Steam that stops after a few minutes is normal. Ice that builds up and stays isn't.
   - q: Can I reset the heat pump myself?
@@ -65,7 +65,7 @@ Christchurch wears heat pumps differently from suburb to suburb. Tell us where t
 
 ## Heat pump brands we repair
 
-We repair the four brands we fit: **Mitsubishi Electric, Daikin, Fujitsu and Toshiba**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Toshiba](/toshiba-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
+We repair the five brands we fit: **Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai**. We also service **Panasonic**, and most other split and ducted heat pumps sold in New Zealand. By brand: [Mitsubishi](/mitsubishi-heat-pump-service-christchurch/), [Daikin](/daikin-heat-pump-service-christchurch/), [Fujitsu](/fujitsu-heat-pump-service-christchurch/), [Toshiba](/toshiba-heat-pump-service-christchurch/), [Panasonic](/panasonic-heat-pump-service-christchurch/).
 
 ## Repair or replace your heat pump?
 

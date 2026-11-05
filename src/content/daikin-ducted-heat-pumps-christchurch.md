@@ -82,7 +82,7 @@ Zoning suits houses where the bedrooms and living areas get used at different ti
 
 ## Daikin or another brand?
 
-Daikin is one of four brands we fit. The others are Mitsubishi Electric, Fujitsu and Toshiba. So the choice is yours, not ours. Already set on Daikin? We'll work within its range. Still deciding? We'll show you how the Daikin option for your house stacks up against a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). All four are side by side in [heat pump brands comparison](/heat-pump-brands-comparison/).
+Daikin is one of five brands we fit. The others are Mitsubishi Electric, Fujitsu, Toshiba and Rinnai. So the choice is yours, not ours. Already set on Daikin? We'll work within its range. Still deciding? We'll show you how the Daikin option for your house stacks up against a [Mitsubishi Electric ducted system](/mitsubishi-ducted-heat-pumps-christchurch/). All four are side by side in [heat pump brands comparison](/heat-pump-brands-comparison/).
 
 ## Looking after a Daikin ducted system
 

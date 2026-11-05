@@ -50,7 +50,7 @@ New Brighton is built on sand. A pad laid straight onto loose sand can tilt over
 
 ## Heat pump service and repairs in New Brighton
 
-We service and repair any make. That's Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and most others sold in New Zealand. Near the coast, rust on the outdoor casing, a coil that looks white or crusty, or heating that's dropped off all mean it's time to book a [heat pump repair](/heat-pump-repair/) visit.
+We service and repair any make. That's Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and most others sold in New Zealand. Near the coast, rust on the outdoor casing, a coil that looks white or crusty, or heating that's dropped off all mean it's time to book a [heat pump repair](/heat-pump-repair/) visit.
 
 ## Suburbs near New Brighton
 

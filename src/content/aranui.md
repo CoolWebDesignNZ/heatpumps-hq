@@ -7,7 +7,7 @@ h1: Heat pump installation and repairs in Aranui
 serviceName: Heat pump installation, servicing and repair
 areaServed: Aranui
 suburb: Aranui
-intro: "We install, service and repair heat pumps in Aranui, east Christchurch. Many of its 1950s and 60s state houses have light insulation, so heat escapes through the floor and ceiling and they need more capacity for their size. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic, and quotes are free."
+intro: "We install, service and repair heat pumps in Aranui, east Christchurch. Many of its 1950s and 60s state houses have light insulation, so heat escapes through the floor and ceiling and they need more capacity for their size. We service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic, and quotes are free."
 hero: aranui-hero
 gallery: [pool-townhouse, pool-filters]
 faqHeading: Questions about heat pumps in Aranui
@@ -62,7 +62,7 @@ With these in place, a unit that's sized right can cruise through the evening in
 
 ## Heat pump repair and servicing in Aranui
 
-In Aranui we service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Panasonic. We do most other makes sold in New Zealand too.
+In Aranui we service and repair Mitsubishi Electric, Daikin, Fujitsu, Toshiba, Rinnai and Panasonic. We do most other makes sold in New Zealand too.
 
 A rental heat pump gets used hard. It often gets little care between tenants. The filters clog, the drain blocks and the output drops. A regular [service](/maintenance-servicing/) between tenancies heads off most [repairs](/heat-pump-repair/).
 

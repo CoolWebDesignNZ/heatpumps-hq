@@ -75,7 +75,7 @@ A heat recovery ventilation system pulls stale, damp air out of the house. It ta
 
 ## Mitsubishi Electric or Daikin?
 
-We fit both, plus Fujitsu and Toshiba. So it comes down to which suits your house. Want to see the alternatives? We'll put the Mitsubishi Electric option for your house next to a [Daikin ducted system](/daikin-ducted-heat-pumps-christchurch/). For how ducted compares with wall units in general, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
+We fit both, plus Fujitsu, Toshiba and Rinnai. So it comes down to which suits your house. Want to see the alternatives? We'll put the Mitsubishi Electric option for your house next to a [Daikin ducted system](/daikin-ducted-heat-pumps-christchurch/). For how ducted compares with wall units in general, read [ducted vs split heat pumps](/ducted-vs-split-heat-pumps-christchurch/).
 
 ## Looking after a Mitsubishi Electric ducted system
 
