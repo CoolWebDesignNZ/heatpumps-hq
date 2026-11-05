@@ -1,0 +1,1433 @@
+{
+ "summary": {
+  "date": "2026-11-05",
+  "domain": "heatpumps-christchurch.co.nz",
+  "location": "Christchurch",
+  "keywords": 157,
+  "top3": 5,
+  "top10": 13,
+  "top20": 23,
+  "top100": 52,
+  "localPack": 1,
+  "aiOverviews": 87,
+  "aiOverviewsCitingUs": 0,
+  "indexed": 106,
+  "errors": 0,
+  "costUSD": 1.923
+ },
+ "rows": [
+  {
+   "keyword": "heat pump installation mount pleasant",
+   "slug": "mount-pleasant",
+   "position": 1,
+   "url": "https://heatpumps-christchurch.co.nz/halswell/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation opawa",
+   "slug": "opawa",
+   "position": 1,
+   "url": "https://heatpumps-christchurch.co.nz/templeton/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation burnside",
+   "slug": "burnside",
+   "position": 2,
+   "url": "https://heatpumps-christchurch.co.nz/burnside/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation wigram",
+   "slug": "wigram",
+   "position": 2,
+   "url": "https://heatpumps-christchurch.co.nz/casebrook/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation edgeware",
+   "slug": "edgeware",
+   "position": 3,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pumps-hornby/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation kennedys bush",
+   "slug": "kennedys-bush",
+   "position": 5,
+   "url": "https://heatpumps-christchurch.co.nz/locations/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation upper riccarton",
+   "slug": "upper-riccarton",
+   "position": 5,
+   "url": "https://heatpumps-christchurch.co.nz/casebrook/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation waltham",
+   "slug": "waltham",
+   "position": 6,
+   "url": "https://heatpumps-christchurch.co.nz/templeton/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation somerfield",
+   "slug": "somerfield",
+   "position": 7,
+   "url": "https://heatpumps-christchurch.co.nz/templeton/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation avonhead",
+   "slug": "avonhead",
+   "position": 9,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pumps-papanui/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation bottle lake",
+   "slug": "bottle-lake",
+   "position": 9,
+   "url": "https://heatpumps-christchurch.co.nz/templeton/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation dallington",
+   "slug": "dallington",
+   "position": 10,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pump-installation-cost-christchurch/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation hornby",
+   "slug": "heat-pumps-hornby",
+   "position": 10,
+   "url": "https://heatpumps-christchurch.co.nz/halswell/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump parts",
+   "slug": "heat-pump-parts-replacement",
+   "position": 12,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pump-parts-replacement/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation bexley",
+   "slug": "bexley",
+   "position": 15,
+   "url": "https://heatpumps-christchurch.co.nz/heathcote-valley/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation harewood",
+   "slug": "harewood",
+   "position": 17,
+   "url": "https://heatpumps-christchurch.co.nz/heathcote-valley/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation ilam",
+   "slug": "ilam",
+   "position": 17,
+   "url": "https://heatpumps-christchurch.co.nz/halswell/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation tai tapu",
+   "slug": "tai-tapu",
+   "position": 17,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pump-installation-cost-christchurch/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation wainoni",
+   "slug": "wainoni",
+   "position": 17,
+   "url": "https://heatpumps-christchurch.co.nz/aranui/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "ducted heat pumps christchurch",
+   "slug": "ducted-heat-pumps-christchurch",
+   "position": 19,
+   "url": "https://heatpumps-christchurch.co.nz/ducted-heat-pump-cost-christchurch/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation hillmorton",
+   "slug": "hillmorton",
+   "position": 20,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pumps-riccarton/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation phillipstown",
+   "slug": "phillipstown",
+   "position": 20,
+   "url": "https://heatpumps-christchurch.co.nz/aranui/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation st martins",
+   "slug": "st-martins",
+   "position": 20,
+   "url": "https://heatpumps-christchurch.co.nz/hillmorton/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation casebrook",
+   "slug": "casebrook",
+   "position": 21,
+   "url": "https://heatpumps-christchurch.co.nz/brooklands/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation aranui",
+   "slug": "aranui",
+   "position": 22,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pumps-papanui/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation huntsbury",
+   "slug": "huntsbury",
+   "position": 22,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pumps-hornby/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation merivale",
+   "slug": "merivale",
+   "position": 22,
+   "url": "https://heatpumps-christchurch.co.nz/hillmorton/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation redcliffs",
+   "slug": "redcliffs",
+   "position": 22,
+   "url": "https://heatpumps-christchurch.co.nz/heathcote-valley/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation spencerville",
+   "slug": "spencerville",
+   "position": 22,
+   "url": "https://heatpumps-christchurch.co.nz/halswell/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation mairehau",
+   "slug": "mairehau",
+   "position": 23,
+   "url": "https://heatpumps-christchurch.co.nz/aranui/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation ferrymead",
+   "slug": "ferrymead",
+   "position": 27,
+   "url": "https://heatpumps-christchurch.co.nz/heathcote-valley/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation christchurch cbd",
+   "slug": "central-business-district-cbd",
+   "position": 28,
+   "url": "https://heatpumps-christchurch.co.nz/aranui/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "fujitsu heat pump repair",
+   "slug": "fujitsu-heat-pump-service-christchurch",
+   "position": 31,
+   "url": "https://heatpumps-christchurch.co.nz/fujitsu-heat-pump-service-christchurch/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation mcleans island",
+   "slug": "mcleans-island",
+   "position": 33,
+   "url": "https://heatpumps-christchurch.co.nz/heathcote-valley/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation russley",
+   "slug": "russley",
+   "position": 34,
+   "url": "https://heatpumps-christchurch.co.nz/kennedys-bush/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation spreydon",
+   "slug": "spreydon",
+   "position": 42,
+   "url": "https://heatpumps-christchurch.co.nz/marshland/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump covers nz",
+   "slug": "best-heat-pump-covers-nz",
+   "position": 43,
+   "url": "https://heatpumps-christchurch.co.nz/best-heat-pump-covers-nz/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "daikin heat pump repair",
+   "slug": "daikin-heat-pump-service-christchurch",
+   "position": 44,
+   "url": "https://heatpumps-christchurch.co.nz/maintenance-servicing/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "air conditioning christchurch",
+   "slug": "air-conditioning-installation-christchurch",
+   "position": 51,
+   "url": "https://heatpumps-christchurch.co.nz/air-conditioning-installation-christchurch/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation prebbleton",
+   "slug": "prebbleton",
+   "position": 51,
+   "url": "https://heatpumps-christchurch.co.nz/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump repairs christchurch",
+   "slug": "heat-pump-repair",
+   "position": 52,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pump-repair/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation moncks bay",
+   "slug": "moncks-bay",
+   "position": 53,
+   "url": "https://heatpumps-christchurch.co.nz/redcliffs/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation halswell",
+   "slug": "halswell",
+   "position": 54,
+   "url": "https://heatpumps-christchurch.co.nz/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "low temperature heat pump",
+   "slug": "low-temperature-heat-pumps",
+   "position": 57,
+   "url": "https://heatpumps-christchurch.co.nz/low-temperature-heat-pumps/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump servicing christchurch",
+   "slug": "heat-pump-servicing",
+   "position": 58,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pump-repair/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump covers",
+   "slug": "covers",
+   "position": 62,
+   "url": "https://heatpumps-christchurch.co.nz/best-heat-pump-covers-nz/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump cleaning christchurch",
+   "slug": "heat-pump-cleaning",
+   "position": 64,
+   "url": "https://heatpumps-christchurch.co.nz/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "single room heat pump",
+   "slug": "single-room-heat-pump-installation",
+   "position": 68,
+   "url": "https://heatpumps-christchurch.co.nz/single-multi-room/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "best heat pump installers christchurch",
+   "slug": "best-heat-pump-installers-christchurch",
+   "position": 80,
+   "url": "https://heatpumps-christchurch.co.nz/templeton/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pumps christchurch",
+   "slug": "locations",
+   "position": 80,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pumps-hornby/",
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation bishopdale",
+   "slug": "bishopdale",
+   "position": 87,
+   "url": "https://heatpumps-christchurch.co.nz/locations/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump problems",
+   "slug": "heat-pump-problems-troubleshooting-guide",
+   "position": 88,
+   "url": "https://heatpumps-christchurch.co.nz/heat-pump-problems-troubleshooting-guide/",
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "best heat pumps nz",
+   "slug": "best-heat-pump-brands-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "buying a heat pump",
+   "slug": "choosing-heat-pump",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "ceiling cassette heat pump",
+   "slug": "ceiling-cassette-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "cold climate heat pump",
+   "slug": "cold-climate-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "contact heat pumps hq",
+   "slug": "contact-us",
+   "position": null,
+   "url": null,
+   "localPack": 1,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "daikin ducted heat pump",
+   "slug": "daikin-ducted-heat-pumps-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "daikin heat pump error codes",
+   "slug": "daikin-heat-pump-error-codes",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "ducted heat pump cost",
+   "slug": "ducted-heat-pump-cost-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "ducted vs split system",
+   "slug": "ducted-vs-split-heat-pumps-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "emergency heat pump repair",
+   "slug": "emergency-heat-pump-repair",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "energy efficient heat pump",
+   "slug": "energy-efficient",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "energy star heat pump",
+   "slug": "energy-star-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "floor mounted heat pump",
+   "slug": "floor-mounted-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "fujitsu heat pump error codes",
+   "slug": "fujitsu-heat-pump-error-codes",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "healthy homes heat pump",
+   "slug": "healthy-homes-heat-pumps-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump allergies",
+   "slug": "allergy-asthma-solutions-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump boundary rules nz",
+   "slug": "heat-pump-boundary-rules-consent-nz",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump brands comparison",
+   "slug": "heat-pump-brands-comparison",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump carbon footprint",
+   "slug": "heat-pump-carbon-footprint-analysis",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump dehumidifier",
+   "slug": "heat-pump-dehumidification",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump guides",
+   "slug": "heat-pump-guides",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation addington",
+   "slug": "heat-pumps-addington",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation aidanfield",
+   "slug": "aidanfield",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation avondale",
+   "slug": "avondale",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation beckenham",
+   "slug": "beckenham",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation belfast",
+   "slug": "belfast",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation bromley",
+   "slug": "bromley",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation brooklands",
+   "slug": "brooklands",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation bryndwr",
+   "slug": "bryndwr",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation burwood",
+   "slug": "burwood",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation cashmere",
+   "slug": "cashmere",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation christchurch",
+   "slug": "heat-pump-installation-in-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation clifton",
+   "slug": "clifton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation cost",
+   "slug": "heat-pump-installation-cost-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation cracroft",
+   "slug": "cracroft",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation fendalton",
+   "slug": "fendalton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation heathcote valley",
+   "slug": "heathcote-valley",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation hillsborough",
+   "slug": "hillsborough",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation hoon hay",
+   "slug": "hoon-hay",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation islington",
+   "slug": "islington",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation lincoln",
+   "slug": "lincoln",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation linwood",
+   "slug": "linwood",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation lyttelton",
+   "slug": "lyttelton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation marshland",
+   "slug": "marshland",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation new brighton",
+   "slug": "new-brighton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation new brighton central",
+   "slug": "new-brighton-central",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation north new brighton",
+   "slug": "north-new-brighton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation northcote",
+   "slug": "northcote",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation northwood",
+   "slug": "northwood",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation oaklands",
+   "slug": "oaklands",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation papanui",
+   "slug": "heat-pumps-papanui",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation parklands",
+   "slug": "parklands",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation queenspark",
+   "slug": "queenspark",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation redwood",
+   "slug": "redwood",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation riccarton",
+   "slug": "heat-pumps-riccarton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation richmond",
+   "slug": "richmond",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation rolleston",
+   "slug": "rolleston",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation shirley",
+   "slug": "shirley",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation sockburn",
+   "slug": "sockburn",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation south new brighton",
+   "slug": "south-new-brighton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation st albans",
+   "slug": "st-albans",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation strowan",
+   "slug": "strowan",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation sumner",
+   "slug": "sumner",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation sydenham",
+   "slug": "sydenham",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation templeton",
+   "slug": "templeton",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation westmorland",
+   "slug": "westmorland",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation woolston",
+   "slug": "woolston",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation yaldhurst",
+   "slug": "yaldhurst",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump leaking water",
+   "slug": "leak-detection-repair",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump maintenance",
+   "slug": "maintenance-servicing",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump noise",
+   "slug": "heat-pump-noise-problems-solutions",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump not working",
+   "slug": "heat-pump-troubleshooting",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump power usage",
+   "slug": "energy-consumption-monitoring",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump regulations nz",
+   "slug": "compliance-building-codes",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump remote monitoring",
+   "slug": "remote-monitoring-and-diagnostics",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump replacement",
+   "slug": "heat-pump-efficiency-upgrades",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump replacement christchurch",
+   "slug": "heat-pump-replacement-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump running costs",
+   "slug": "heat-pump-running-costs",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump service plan",
+   "slug": "customised-heat-pump-service-plans",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump services",
+   "slug": "heat-pump-services",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump size calculator",
+   "slug": "calculator-single-room-heat-pump",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump size guide",
+   "slug": "heat-pump-sizing",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump smell",
+   "slug": "heat-pump-deodorising",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump thermostat",
+   "slug": "heat-pump-thermostat-calibration",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump tune up",
+   "slug": "heat-pump-seasonal-tune-ups",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump vs wood burner",
+   "slug": "heat-pump-vs-gas-wood-burner",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump winter maintenance",
+   "slug": "winterisation-of-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump zoning",
+   "slug": "heat-pump-zoning",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pumps hq",
+   "slug": "about-us",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pumps hq christchurch",
+   "slug": "brand",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "high wall heat pump",
+   "slug": "high-wall-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "how does a heat pump work",
+   "slug": "how-heat-pumps-work",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "indoor air quality testing",
+   "slug": "air-quality-testing",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "mitsubishi ducted heat pump",
+   "slug": "mitsubishi-ducted-heat-pumps-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "mitsubishi heat pump error codes",
+   "slug": "mitsubishi-heat-pump-error-codes",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "mitsubishi heat pump repair",
+   "slug": "mitsubishi-heat-pump-service-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "multi room heat pump",
+   "slug": "multi-room-heat-pump-installation",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "panasonic heat pump repair",
+   "slug": "panasonic-heat-pump-service-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "privacy policy",
+   "slug": "privacy-policy",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "rinnai heat pump",
+   "slug": "rinnai-heat-pumps-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "single or multi room heat pump",
+   "slug": "single-multi-room",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "smart heat pump",
+   "slug": "smart-heat-pump-systems",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "terms and conditions",
+   "slug": "terms-and-conditions",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "toshiba heat pump service christchurch",
+   "slug": "toshiba-heat-pump-service-christchurch",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "types of heat pumps",
+   "slug": "types-of-heat-pumps",
+   "position": null,
+   "url": null,
+   "localPack": null,
+   "aiOverview": true,
+   "aiOverviewCitesUs": false
+  }
+ ]
+}

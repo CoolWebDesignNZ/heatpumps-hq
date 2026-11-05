@@ -1,7 +1,21 @@
 // Password-protects the whole site while it's in preview. Set the
 // SITE_PASSWORD secret on the Cloudflare Pages project; any username works.
-// Delete the secret (or this file) at launch to open the site.
+// Delete the secret at launch to open the site.
+//
+// One address: once CANONICAL_HOST is set on the project (at launch, after the
+// domain is live), www and the heatpumps-hq.pages.dev address 301 to
+// https://CANONICAL_HOST with the same path and query, so every page, old URLs
+// and new pages alike, has one address. Hashed preview deployments
+// (<hash>.heatpumps-hq.pages.dev) are left alone.
 export async function onRequest({ request, env, next }) {
+  const canonical = env.CANONICAL_HOST;
+  if (canonical) {
+    const url = new URL(request.url);
+    if (url.hostname === `www.${canonical}` || url.hostname === 'heatpumps-hq.pages.dev' || (url.hostname === canonical && url.protocol === 'http:')) {
+      url.hostname = canonical; url.protocol = 'https:'; url.port = '';
+      return Response.redirect(url.toString(), 301);
+    }
+  }
   const password = env.SITE_PASSWORD;
   if (!password) return next();
   // The quote form posts here from pages that are already behind the password.

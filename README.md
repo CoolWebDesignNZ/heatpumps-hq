@@ -15,7 +15,7 @@ sitemap is kept exactly, trailing slash included, and new pages the client appro
 
 Brand colours are `--brand` / `--brand-ink` in `src/styles/global.css`.
 
-Preview: https://heatpumps-hq.pages.dev, password-protected by `functions/_middleware.js` (secret `SITE_PASSWORD` on the Pages project). Deploy with `npm run build && npx wrangler pages deploy dist --project-name heatpumps-hq --branch main`. Delete the secret at launch.
+Preview: https://heatpumps-hq.pages.dev, password-protected by `functions/_middleware.js` (secret `SITE_PASSWORD` on the Pages project). Deploy with `npm run build && npx wrangler pages deploy dist --project-name heatpumps-hq --branch main`. Delete the secret at launch. Also at launch, once the domain is live on the project: set `CANONICAL_HOST` = `heatpumps-christchurch.co.nz` on the Pages project, and `functions/_middleware.js` 301s www and heatpumps-hq.pages.dev to it.
 
 Quote form: posts to `/api/quote` (`functions/api/quote.js`), which emails the request and redirects to /thank-you/. Pages can't send email, so it goes over the `EMAILER` service binding to the `coolweb-emailer` Worker (Cloudflare Email Routing). Pages project settings: `EMAILER` -> coolweb-emailer, `LEAD_FROM` = leads@coolweb.design, `LEAD_TO` = info@heatpumps-christchurch.co.nz. `LEAD_TO` must be a verified destination address in Email Routing. A hidden `company` field catches bots. While the password is on, the middleware lets `POST /api/quote` through.
 
