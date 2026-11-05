@@ -55,14 +55,12 @@ for (const f of files) {
   for (const [k, v] of [['title', t], ['description', d]]) {
     if (seen[k].has(v)) err(`${k} duplicates ${seen[k].get(v)}`); else seen[k].set(v, slug);
   }
-  // H2s: the main keyword in at least one, keywords (main or secondary) in at least half.
+  // H2s: the main keyword in at least one. No more than that is asked for: a
+  // keyword in every H2 reads as stuffing (client, 2026-11-05).
   const h2s = [...body.matchAll(/^## (.+)$/gm)].map((x) => x[1].trim());
   const all = [...h2s, fm.faqHeading, fm.relatedHeading].filter(Boolean);
   if (entry && !['privacy-policy', 'terms-and-conditions'].includes(slug) && kw) {
-    const kws = [kw, ...(fm.secondary ?? [])];
     if (!all.some((h) => hasKw(h, kw))) err(`no H2 contains the main keyword "${kw}"`);
-    const n = all.filter((h) => kws.some((k) => hasKw(h, k))).length;
-    if (n * 2 < all.length) err(`only ${n} of ${all.length} H2s carry a keyword`);
     if (fm.faqs?.length && !fm.faqHeading) err('missing faqHeading');
     if (fm.related?.length && !fm.relatedHeading) err('missing relatedHeading');
   }

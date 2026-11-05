@@ -6,7 +6,6 @@ secondary: [rinnai heat pumps, rinnai heat pump nz, rinnai air conditioner, rinn
 h1: Rinnai heat pumps in Christchurch, installed and serviced
 serviceName: Rinnai heat pump installation, servicing and repair
 intro: "We install, service and repair Rinnai heat pumps across Christchurch, Selwyn and Lyttelton. A back-to-back Rinnai install on an existing power point starts from $1,950 incl. GST, and we size every unit to the room before we quote. Quotes are free."
-formService: Installation
 hero: rinnai-hero
 gallery: [instcost-backtoback, rinnai-2]
 faqHeading: "Rinnai heat pump questions"
@@ -52,15 +51,15 @@ The price goes up when the job needs more than that:
 
 [Heat pump installation cost](/heat-pump-installation-cost-christchurch/) goes through each of those. We price your house at a free quote, before anything is ordered.
 
-## Sizing a Rinnai heat pump for the room
+## Sizing it for the room
 
 We size a Rinnai the same way we size any heat pump. We measure the room and the ceiling height, check the insulation in the ceiling and under the floor, and look at how much glass there is and which way it faces. A Christchurch villa with high ceilings and single glazing needs more heat than a newer room the same size, and a unit that's too big costs more and runs in short bursts. [Heat pump sizing](/heat-pump-sizing/) explains the method.
 
-## Rinnai Wi-Fi and controls
+## Wi-Fi and controls
 
 Rinnai high wall and floor console units come with Wi-Fi built in, so there's no adaptor to add. Once the unit is on your home network you can turn it on, change the temperature and set a timer from your phone. We set it up at the install if you want it, and [smart heat pump systems](/smart-heat-pump-systems/) covers what phone control is good for.
 
-## Rinnai heat pump service and repair
+## Rinnai service and repair
 
 A yearly service keeps a Rinnai heating at full output and catches small faults early. Ours covers:
 
@@ -75,7 +74,7 @@ When a Rinnai stops heating, drips or shows a fault light, we test the unit to f
 
 A Rinnai can replace an older unit of any brand. We check whether the old pipe route, drain and power supply suit the new unit, and size it for the room rather than matching the old one. [Heat pump replacement](/heat-pump-replacement-christchurch/) covers what that involves.
 
-## Rinnai heat pumps across Christchurch
+## Rinnai installs across Christchurch
 
 We install and service Rinnai heat pumps in every Christchurch suburb, in Lyttelton, and in the Selwyn towns of [Rolleston](/rolleston/), [Lincoln](/lincoln/), Prebbleton and Tai Tapu.
 

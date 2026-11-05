@@ -52,7 +52,7 @@ It's the indoor unit most people picture. A long, slim box mounted high on the w
 
 It suits most modern rooms with standard ceilings, where warm air doesn't get stuck up high: open plan living areas, bedrooms, studios and home offices. It also suits you if you want good cooling on a hot afternoon, or if you'd rather keep the floor clear for furniture.
 
-## Where a wall mounted heat pump goes in the room
+## Where a high wall unit goes
 
 The best wall is usually the one that lets the unit blow along the longest part of the room, towards where you sit. Air needs room to travel and mix before it reaches you.
 
@@ -63,7 +63,7 @@ The best wall is usually the one that lets the unit blow along the longest part 
 
 In a bedroom, we aim the airflow along the room, not at the pillow.
 
-## High wall heat pumps for Christchurch homes
+## High wall units in Christchurch homes
 
 Christchurch housing decides a lot about where a wall unit works.
 
@@ -73,7 +73,7 @@ Christchurch housing decides a lot about where a wall unit works.
 - **Townhouses with courtyards.** In [Halswell](/halswell/), the indoor unit goes on an outside wall so the pipes run straight through. The outdoor unit sits on a bracket on the courtyard wall, with its fan pointed away from the bedroom windows next door.
 - **Newer homes on small sections.** In [Sumner](/sumner/), one high wall unit can usually heat an open plan living area. The harder part is fitting the outdoor unit in a narrow side yard with clear air round it.
 
-## High wall heat pump or floor console
+## High wall or floor console
 
 Both heat and cool. They move air differently, and that changes which one suits your room.
 
@@ -87,7 +87,7 @@ Both heat and cool. They move air differently, and that changes which one suits 
 
 If the room points to a console, read about [floor mounted heat pumps](/floor-mounted-heat-pumps/).
 
-## What changes the price of a wall hung heat pump
+## What changes the price of a high wall install
 
 The unit is only part of the price. The rest comes down to your house.
 
@@ -99,7 +99,7 @@ The unit is only part of the price. The rest comes down to your house.
 
 We cover these and other [installation cost factors](/heat-pump-installation-cost-christchurch/) at the quote.
 
-## Replacing an old high wall heat pump
+## Replacing an old high wall unit
 
 Old wall units often went where they were easiest to fit, not where they heat best. So before we swap like for like, we check two things. Is the unit the right size for the room? Is it on the right wall?
 

@@ -7,7 +7,6 @@ h1: Heat pump installation in Christchurch
 serviceName: Heat pump installation
 intro: "We install heat pumps across Christchurch and Selwyn, checking each room's size, insulation and glazing before we quote. On the frosty plains out west, we size for the coldest morning and raise the outdoor unit so defrost water drains away. We fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, and quotes are free."
 fromPrice: true
-formService: Installation
 hero: install-hero
 design: money
 gallery: [install-pipework, install-commission]

@@ -23,11 +23,11 @@ related:
   - { label: Contact us, href: /contact-us/, text: "Ask a question or book a visit." }
 ---
 
-## How our heat pump services work
+## How a job with us works
 
 Every job starts the same way. We find out what you need the heat pump to do. We look at the house or the unit. Then you get a free quote. We fit five brands. We service and repair those plus Panasonic and most others sold here. So one call covers a new system, a yearly service or a fault.
 
-## New heat pump installations
+## New installations
 
 We fit everything from one room to a whole house. That includes air conditioning and smart controls.
 
@@ -41,7 +41,7 @@ We fit everything from one room to a whole house. That includes air conditioning
 - [Air conditioning installation](/air-conditioning-installation-christchurch/): The same units cool in summer. Good for upstairs rooms and west facing lounges that overheat.
 - [Smart heat pump systems](/smart-heat-pump-systems/): A Wi-Fi adaptor so you can turn the heat pump on from your phone before you get home.
 
-## Heat pump service and maintenance
+## Servicing and maintenance
 
 Keep the unit you've got clean and running. That's the yearly service, a deep clean or a winter check.
 
@@ -66,15 +66,16 @@ We find and repair faults on all major brands. That's anything from a unit that'
 - [Thermostat calibration](/heat-pump-thermostat-calibration/): The room is colder than the setting. We check the sensor and correct it.
 - [Remote monitoring and diagnostics](/remote-monitoring-and-diagnostics/): See faults and how hard the system is working from your phone.
 
-## Heat pump service by brand
+## Service by brand
 
 We service and repair each of these. That includes Panasonic, which we don't fit.
 
-- [Mitsubishi heat pump service](/mitsubishi-heat-pump-service-christchurch/): Mitsubishi Electric wall, floor and ducted units serviced and repaired.
-- [Daikin heat pump service](/daikin-heat-pump-service-christchurch/): Daikin wall, floor and ducted systems serviced and repaired.
-- [Fujitsu heat pump service](/fujitsu-heat-pump-service-christchurch/): Fujitsu units serviced and repaired, and new ones fitted.
-- [Toshiba heat pump service](/toshiba-heat-pump-service-christchurch/): Toshiba units serviced and repaired, and new ones fitted.
-- [Panasonic heat pump service](/panasonic-heat-pump-service-christchurch/): Panasonic units serviced and repaired. We don't fit new Panasonic units.
+- [Mitsubishi Electric](/mitsubishi-heat-pump-service-christchurch/): Mitsubishi Electric wall, floor and ducted units serviced and repaired.
+- [Daikin](/daikin-heat-pump-service-christchurch/): Daikin wall, floor and ducted systems serviced and repaired.
+- [Fujitsu](/fujitsu-heat-pump-service-christchurch/): Fujitsu units serviced and repaired, and new ones fitted.
+- [Toshiba](/toshiba-heat-pump-service-christchurch/): Toshiba units serviced and repaired, and new ones fitted.
+- [Rinnai](/rinnai-heat-pumps-christchurch/): Rinnai wall, floor console, multi split and ducted units fitted, serviced and repaired.
+- [Panasonic](/panasonic-heat-pump-service-christchurch/): Panasonic units serviced and repaired. We don't fit new Panasonic units.
 
 ## Efficiency and air quality upgrades
 

@@ -54,7 +54,7 @@ A ceiling cassette heat pump is an indoor unit set into the ceiling. Only the gr
 
 It suits rooms where there's no clear wall for a unit, and rooms where you don't want a box on the wall. It also suits large open plan spaces, because the air comes out in several directions from one point rather than from one wall.
 
-## Where a ceiling cassette goes in the room
+## Where a cassette goes in the room
 
 The usual spot is the centre of the room or as close to it as the ceiling allows. From there the air reaches every side.
 
@@ -66,7 +66,7 @@ The usual spot is the centre of the room or as close to it as the ceiling allows
 
 In an open plan kitchen and living area, we aim to put it over the open floor between the two, so both get the air.
 
-## Ceiling cassette heat pumps for Christchurch homes
+## Cassettes in Christchurch homes
 
 Ceiling cassettes suit some Christchurch homes better than others, mostly because of what's above the ceiling.
 
@@ -89,7 +89,7 @@ Both heat and cool. The difference is where the unit sits and where the air goes
 
 For a room with clear wall space up high and a standard ceiling, read about [high wall heat pumps](/high-wall-heat-pumps/). For a room with a high stud and low wall space, a [floor mounted heat pump](/floor-mounted-heat-pumps/) may suit better. And where you want one unit to heat several separate rooms through ceiling vents, read about [ducted heat pumps](/ducted-heat-pumps-christchurch/).
 
-## What a ceiling cassette heat pump needs above the ceiling
+## What it needs above the ceiling
 
 This is the part that decides whether a cassette will work in your home. We check it before anything is ordered.
 
@@ -101,7 +101,7 @@ This is the part that decides whether a cassette will work in your home. We chec
 
 In a single storey home with a pitched roof, there's usually enough room. In a two storey home, the ceiling space under the upper floor is tighter, and we check it carefully.
 
-## What changes the price of a ceiling cassette heat pump install
+## What changes the price of a cassette install
 
 The cassette is only part of the price. The rest comes down to the ceiling and the route to the outdoor unit.
 
@@ -113,7 +113,7 @@ The cassette is only part of the price. The rest comes down to the ceiling and t
 
 We look at each of these, and the other [installation cost factors](/heat-pump-installation-cost-christchurch/), when we visit, and they're all in the quote.
 
-## Replacing an old ceiling cassette heat pump
+## Replacing an old cassette
 
 An older cassette that's failing can usually be swapped in the same ceiling opening, if the new unit fits the space and the old pipe route. We still check the size against the room, because a room that's since had insulation or double glazing added may need a smaller unit than before.
 

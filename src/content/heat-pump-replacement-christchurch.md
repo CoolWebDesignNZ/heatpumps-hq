@@ -56,7 +56,7 @@ A heat pump can be repaired for years, and often should be. But there comes a po
 
 If the fault is minor and the unit is young, a [heat pump repair](/heat-pump-repair/) is the right call. If you're not sure, an [emergency repair visit](/emergency-heat-pump-repair/) can tell you what's failed and what a fix would cost.
 
-## What a replacement heat pump involves
+## What a replacement involves
 
 A replacement is more than swapping one box for another. The old system has to come out properly before the new one goes in.
 
@@ -66,7 +66,7 @@ A replacement is more than swapping one box for another. The old system has to c
 - **Sizing the new unit.** We work out the heat the room needs, not the kW of the old unit.
 - **Installing and commissioning.** The new system is pressure tested, vacuumed and run in heating and cooling before we hand it over. The full job is set out under [heat pump installation in Christchurch](/heat-pump-installation-in-christchurch/).
 
-## What a heat pump replacement can reuse
+## What can be reused from the old install
 
 Reusing the old pipe route and hole keeps the job tidy and the cost down. But it only works if the parts suit the new system.
 
@@ -78,7 +78,7 @@ Reusing the old pipe route and hole keeps the job tidy and the cost down. But it
 
 We check all of this before you agree to anything, so there are no surprises on the day.
 
-## Heat pump replacement sizing, not matching the old unit
+## Sizing the new unit, not matching the old one
 
 The most common mistake with a replacement is ordering the same kW as the old unit. Old units were often the wrong size to begin with.
 
@@ -88,7 +88,7 @@ The most common mistake with a replacement is ordering the same kW as the old un
 
 We size the replacement on the room itself: its size, insulation, glazing and how you use it. The method is set out under [heat pump sizing](/heat-pump-sizing/), and the [single room calculator](/calculator-single-room-heat-pump/) gives a rough starting point.
 
-## Choosing a heat pump replacement unit
+## Choosing the new unit
 
 You don't have to stay with the same brand or type. A replacement is a chance to get the right unit for the room.
 
@@ -99,7 +99,7 @@ You don't have to stay with the same brand or type. A replacement is a chance to
 
 We install **Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai**. You can read [how the brands compare](/heat-pump-brands-comparison/), and we'll tell you which models we'd shortlist for your rooms.
 
-## What a heat pump replacement costs
+## What a replacement costs
 
 A replacement usually costs less than a first install, because some of the work is already done. These things change the [price of a heat pump installation](/heat-pump-installation-cost-christchurch/):
 
@@ -111,7 +111,7 @@ A replacement usually costs less than a first install, because some of the work 
 
 Installations start from $1,950 incl. GST, for a Rinnai heat pump installed back to back and powered from an existing power point. Your quote is free, and we set out what's reused and what's new before you decide.
 
-## Heat pump replacement across Christchurch
+## Replacements across Christchurch and Selwyn
 
 Christchurch homes have their own reasons for replacing a heat pump. We plan each job around them.
 

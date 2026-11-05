@@ -31,7 +31,7 @@ The heat pump does the heating. The smart part is a small Wi-Fi adaptor. It's ei
 
 Some brands also show energy figures. Some add voice control, or remind you to clean the filters.
 
-## Wi-Fi heat pump controllers by brand
+## Wi-Fi controllers by brand
 
 Each brand has its own Wi-Fi adaptor and app. They don't work across brands, so a Mitsubishi Electric app won't run a Daikin, and the other way round. Within one brand, the adaptor and app can also change with the model and its age.
 
@@ -39,7 +39,7 @@ Each brand has its own Wi-Fi adaptor and app. They don't work across brands, so 
 - **Older units.** Some can take an adaptor, and some can't. We check the model number before you buy anything.
 - **Extra features.** Energy figures, voice control and filter reminders vary by brand and model. Tell us which ones matter to you and we'll match the unit to them.
 
-## Smart heat pump schedules for Christchurch homes
+## Schedules that suit a Christchurch winter
 
 A smart heat pump earns its keep when the schedule suits the house and the weather.
 
@@ -47,17 +47,17 @@ A smart heat pump earns its keep when the schedule suits the house and the weath
 - **Beach houses in the wind.** By the dunes in [North New Brighton](/north-new-brighton/), a beach house stays more comfortable on a steady, moderate setting than blasting on and off. A rule that turns it on when the room drops below a set temperature does that for you.
 - **Villas with a unit in each part.** A renovated [Sydenham](/sydenham/) villa often has one unit in the new extension at the back and another in the original front rooms. Each one can usually go on the same app with its own schedule.
 
-## What your house needs for a Wi-Fi heat pump
+## What your house needs for Wi-Fi control
 
 - **Wi-Fi signal at the heat pump.** The adaptor sits inside the indoor unit, high on a wall. If your phone struggles for signal there, so will the heat pump. A mesh point or extender in that room fixes it.
 - **A 2.4 GHz network.** Lots of heat pump adaptors only connect on 2.4 GHz. Most home routers have it. Some put both bands under one name, though, and that can confuse the adaptor during set-up.
 - **A model that takes one.** Not every indoor unit takes an adaptor. This matters most on older units. We check the model before you buy anything.
 
-## Choosing a smart heat pump on a new install
+## Choosing one on a new install
 
 Getting a new heat pump? Decide on Wi-Fi control before we finalise the quote. Some models have it built in. Others need the adaptor ordered with the unit. Built in is simpler than adding it later. We size the unit from your rooms, insulation and windows, and how you use the house. Then we put the controller you want into the quote for your [heat pump installation](/heat-pump-installation-in-christchurch/).
 
-## Smart heat pump controllers and zoning
+## Smart controllers and zoning
 
 A Wi-Fi controller lets you run the heat pump from your phone. It won't give you different temperatures in different rooms on one ducted system. For that you need a zone controller, which is part of [heat pump zoning](/heat-pump-zoning/). Got several wall units? Each one can usually go on the same app with its own schedule.
 

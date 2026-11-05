@@ -40,7 +40,7 @@ A heat pump's running cost is the power it draws multiplied by what you pay for 
 
 We'll go through each of these, then show you how to work out your own cost.
 
-## Heat pump running costs and sizing
+## The size of the unit
 
 The single biggest factor is whether the heat pump suits the room. The rated heating output on the label is measured at 7°C outside. Christchurch's cold mornings are well below that, so a unit chosen on its 7°C figure can come up short when you need it most.
 
@@ -48,7 +48,7 @@ When we [size a heat pump](/heat-pump-sizing/), we work from the room's floor ar
 
 If you're not sure what size you need, the [single room heat pump calculator](/calculator-single-room-heat-pump/) gives you a starting figure.
 
-## Heat pump running costs and insulation
+## How well the house holds heat
 
 A heat pump replaces the heat a room loses. The faster a room loses heat, the harder the unit works. Two things drive that loss: how well the house is insulated, and how much cold air gets in.
 
@@ -58,13 +58,13 @@ A heat pump replaces the heat a room loses. The faster a room loses heat, the ha
 
 Deal with the draughts and insulation first. Then the heat pump has less work to do. A [home heating assessment](https://tools.tenancy.govt.nz/heating-tool) can help you see where a room stands. For bigger improvements, look at [heat pump efficiency upgrades](/heat-pump-efficiency-upgrades/).
 
-## Heat pump running costs and the temperature you set
+## The temperature you set
 
 The set temperature is the easiest thing to change. Around **18 to 21°C** is comfortable for most people in winter, and every degree above that adds to the running cost. Pick a setting you're happy with and leave it there. Nudging it up and down through the day doesn't help.
 
 A heat pump heats to the temperature you set. If you set it higher hoping it warms up faster, it doesn't. It just keeps going past the point you actually wanted. So set the temperature you want, not a higher one.
 
-## Best heat pump settings winter
+## Best heat pump settings for winter
 
 These settings get the most heat for the least power.
 
@@ -75,7 +75,7 @@ These settings get the most heat for the least power.
 - **Close doors to rooms you're not heating.** Heat the rooms you use.
 - **Don't block the indoor or outdoor unit.** Air has to move freely over both coils.
 
-## Heat pump running costs when you leave it on
+## Leaving it on all day
 
 This is the question we get most. The answer depends on how long you're away.
 
@@ -83,7 +83,7 @@ For a few hours, turn the heat pump down a degree or two rather than off. The ho
 
 What you want to avoid is the on and off cycle. Each time you switch on a cold house, the unit runs flat out to recover. That burst uses more power than holding a steady temperature would have. A unit that's the right size and left to run steadily is the cheapest way to heat.
 
-## Heat pump running costs and clean filters
+## Clean filters
 
 A heat pump moves heat by moving air over its coils. If the filters are clogged or the coil is dusty, air can't get through. The unit has to work harder to move the same heat, and its power use goes up.
 
@@ -93,13 +93,13 @@ A heat pump moves heat by moving air over its coils. If the filters are clogged 
 
 A clean unit runs closer to its rated efficiency. It's the cheapest maintenance you can do.
 
-## Heat pump running costs on frosty mornings
+## Frosty mornings
 
 On a cold Christchurch morning, the outdoor coil has less heat to collect, so the unit works harder for the same output. Below about 7°C, moisture in the air can freeze on the coil, and the unit defrosts to melt it. No heat reaches the room while it does.
 
 A unit sized for Christchurch's cold mornings copes better than an undersized one, which has to defrost more often and still struggles. If your heat pump seems to spend a lot of time defrosting, it may be undersized or low on refrigerant. See [winterisation of heat pumps](/winterisation-of-heat-pumps/) for what to check.
 
-## Heat pump running costs and the efficiency rating
+## The efficiency rating
 
 Every heat pump sold in New Zealand carries an energy rating label. It shows the unit's efficiency, so you can compare models. A more efficient unit delivers the same heat for less power, which lowers running costs over the unit's life.
 

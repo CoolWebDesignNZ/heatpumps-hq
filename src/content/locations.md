@@ -35,7 +35,7 @@ What suits your home depends a lot on where you live. Older villas lose heat thr
 
 Wherever you are, we fit Mitsubishi Electric, Daikin, Fujitsu, Toshiba and Rinnai, repair and service all the main brands, and give you a free quote.
 
-## Heat pumps in the Central City and inner suburbs
+## The Central City and inner suburbs
 
 Living close to town usually means a small section and neighbours right next door. If you're in an older villa or cottage, you'll feel the cold coming up through the floor and off the single glazing. We'll usually suggest a small unit in each room you use, rather than one big unit in the lounge that never reaches the bedrooms. In a newer townhouse the house holds its heat, so the real job is finding a quiet spot for the outdoor unit down a tight side path, where your neighbours won't hear it. In a Central City apartment, we'll give your body corporate the details it needs to approve the outdoor unit.
 
@@ -50,7 +50,7 @@ Living close to town usually means a small section and neighbours right next doo
 - [Sydenham](/sydenham/)
 - [Waltham](/waltham/)
 
-## Heat pump installation in north and north-west Christchurch
+## North and north-west Christchurch
 
 If you've got a bigger, older home in Fendalton or Bryndwr, with a long hallway and rooms closed off from each other, one wall unit won't get the heat round. We'll talk you through a multi-room or ducted system so every room you use is warm. In the brick and tile homes in Redwood and Casebrook, one well placed unit in the living area and a second for the bedrooms usually does it. Out towards Belfast your newer home will hold its heat, so we'll size to match. And if you're in Marshland, Spencerville or McLeans Island, you know how hard the frosts get on open ground. We size for those mornings and lift the outdoor unit so it keeps working.
 
@@ -72,7 +72,7 @@ If you've got a bigger, older home in Fendalton or Bryndwr, with a long hallway 
 - [Spencerville](/spencerville/)
 - [Strowan](/strowan/)
 
-## Heat pumps for the eastern and coastal suburbs
+## The eastern and coastal suburbs
 
 If you live near the beach, you'll know what salt and that onshore wind do to anything left outside. We put your outdoor unit somewhere sheltered, up on raised feet out of the sand, and show you how to rinse it. If your Dallington, Avondale or Bexley home was repaired or rebuilt after the earthquakes, we'll check how it was put back together before we plan the pipe run. And in the older homes in Wainoni and Aranui, the heat can escape as fast as it's made, so we'll look at the insulation with you before we size the unit.
 
@@ -93,7 +93,7 @@ If you live near the beach, you'll know what salt and that onshore wind do to an
 - [Wainoni](/wainoni/)
 - [Woolston](/woolston/)
 
-## Heat pumps on the Port Hills, harbour and south
+## The Port Hills, harbour and south
 
 On a hill section in Cashmere, Cracroft or Westmorland, there's rarely a flat spot for the outdoor unit. We'll mount it on a wall bracket or your deck and plan the pipe run and the access at the quote, so there are no surprises on the day. Around Sumner, Redcliffs, Moncks Bay and Lyttelton, we find your unit a spot out of the salty wind. And if you're in a newer home in Halswell or Aidanfield, you may need less heating than you think, so we won't sell you a bigger unit than the house needs.
 
@@ -122,7 +122,7 @@ On a hill section in Cashmere, Cracroft or Westmorland, there's rarely a flat sp
 - [Sumner](/sumner/)
 - [Westmorland](/westmorland/)
 
-## Heat pump servicing and installs in west Christchurch
+## West Christchurch
 
 Out west you get the frosty mornings in winter and the hot nor'west in summer, so you want a heat pump that handles both. We size yours for the coldest mornings and raise the outdoor unit so the defrost water drains away instead of freezing. If you own a rental in Ilam, Riccarton or Upper Riccarton, we'll size it to the Healthy Homes heating standard and give you the details for your records. In Wigram your newer home holds heat well, and on a bigger section in Yaldhurst or Templeton we'll plan the longer pipe run to the outdoor unit.
 
@@ -138,7 +138,7 @@ Out west you get the frosty mornings in winter and the hot nor'west in summer, s
 - [Wigram](/wigram/)
 - [Yaldhurst](/yaldhurst/)
 
-## Heat pumps in Selwyn
+## Selwyn
 
 In Selwyn, the Selwyn District Plan sets how quiet your outdoor unit has to be at the neighbour's place, and we place it to suit. If you're in a newer home in Rolleston or Prebbleton, one well sized unit can often heat your whole open plan living area. On a lifestyle block around Lincoln or Tai Tapu, with a bigger house and hard frosts on the open plains, we'll talk through several units or a ducted system so the whole house stays warm.
 
@@ -147,6 +147,6 @@ In Selwyn, the Selwyn District Plan sets how quiet your outdoor unit has to be a
 - [Rolleston](/rolleston/)
 - [Tai Tapu](/tai-tapu/)
 
-## Heat pumps for suburbs not on this list
+## Suburbs not on this list
 
 If your street is near one of these areas and you're not sure we cover it, call **[03 242 1023](tel:032421023)** and ask, or request a free quote with the quote form at the top.
