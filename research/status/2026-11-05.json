@@ -6,15 +6,15 @@
    "searches": 231,
    "top3": 12,
    "top10": 17,
-   "top100": 94,
-   "avgPosition": 74.9,
+   "top100": 95,
+   "avgPosition": 75,
    "estVisits": 507,
    "mapPack": 0,
    "aiOverviewCitesUs": 0,
-   "wrongPage": 59
+   "wrongPage": 60
   },
-  "errors": 1,
-  "costUSD": 2.97,
+  "errors": 0,
+  "costUSD": 2.986,
   "Services": {
    "searches": 77,
    "top3": 2,
@@ -52,12 +52,12 @@
    "searches": 82,
    "top3": 5,
    "top10": 9,
-   "top100": 40,
-   "avgPosition": 63.1,
+   "top100": 41,
+   "avgPosition": 63.4,
    "estVisits": 0,
    "mapPack": 0,
    "aiOverviewCitesUs": 0,
-   "wrongPage": 39
+   "wrongPage": 40
   },
   "Brand": {
    "searches": 3,
@@ -3011,14 +3011,6 @@
    "aiOverviewCitesUs": false
   },
   {
-   "keyword": "heat pump installation moncks bay",
-   "volume": 0,
-   "page": "moncks-bay",
-   "group": "Suburbs",
-   "source": "page keyword",
-   "error": "serp/google/organic/live/advanced: Internal SE Server Error."
-  },
-  {
    "keyword": "heat pump installation new brighton central",
    "volume": 0,
    "page": "new-brighton-central",
@@ -3066,6 +3058,19 @@
    "position": null,
    "url": null,
    "rightPage": null,
+   "localPack": null,
+   "aiOverview": false,
+   "aiOverviewCitesUs": false
+  },
+  {
+   "keyword": "heat pump installation moncks bay",
+   "volume": 0,
+   "page": "moncks-bay",
+   "group": "Suburbs",
+   "source": "page keyword",
+   "position": 87,
+   "url": "/redwood/",
+   "rightPage": false,
    "localPack": null,
    "aiOverview": false,
    "aiOverviewCitesUs": false
