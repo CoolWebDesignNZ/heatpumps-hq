@@ -1,10 +1,10 @@
-// Monthly status report: where heatpumps-christchurch.co.nz stands in Google
-// for every page's main keyword, searched from Christchurch.
-//   node scripts/status-report.mjs            (writes research/status/<date>.json and .md)
-// Needs DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD (or a proxy that injects them).
-// Each run is compared with the newest earlier report in research/status/.
-// Search Console figures are added by hand from its export until the site has
-// a Search Console connection this can read.
+// Monthly status report for heatpumps-christchurch.co.nz.
+//   node scripts/status-report.mjs           writes research/status/<date>.json and .md
+//   node scripts/status-report.mjs --retry   re-runs only today's searches that errored
+// Checks the SAME list every month, research/status/tracked-keywords.json (built once by
+// scripts/build-tracked.py), in Google searched from Christchurch, so months compare like
+// for like. Search Console comes from the exports in research/status/gsc/ (summarised by
+// scripts/gsc-summary.py). Needs DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD.
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -14,6 +14,11 @@ const LOCATION = 1011065; // Christchurch, Canterbury Region, New Zealand
 const dir = 'research/status';
 const today = new Date().toISOString().slice(0, 10);
 const auth = 'Basic ' + Buffer.from(`${process.env.DATAFORSEO_LOGIN ?? ''}:${process.env.DATAFORSEO_PASSWORD ?? ''}`).toString('base64');
+const tracked = JSON.parse(fs.readFileSync(path.join(dir, 'tracked-keywords.json'), 'utf8'));
+// Share of searchers who click each organic position (a common industry curve). Used only to
+// turn positions into one comparable number; it is an estimate, not a visit count.
+const CTR = [0, .28, .15, .11, .08, .07, .05, .04, .03, .03, .025];
+const ctr = (p) => (!p ? 0 : p <= 10 ? CTR[p] : p <= 20 ? .01 : 0);
 
 async function dfs(endpoint, body) {
   for (let i = 0; i < 3; i++) {
@@ -28,105 +33,134 @@ async function dfs(endpoint, body) {
   }
 }
 
-// Every page's main keyword, plus the brand search.
-const pages = [];
-for (const f of fs.readdirSync('src/content').filter((f) => f.endsWith('.md'))) {
-  const kw = fs.readFileSync(`src/content/${f}`, 'utf8').match(/^keyword: *"?([^"\n]+)"?$/m)?.[1]?.trim();
-  if (kw) pages.push({ slug: f.slice(0, -3), keyword: kw.toLowerCase() });
-}
-const keywords = [...new Map([['heat pumps hq christchurch', 'brand'], ...pages.map((p) => [p.keyword, p.slug])])].map(([keyword, slug]) => ({ keyword, slug }));
-
 let cost = 0;
-async function check({ keyword, slug }) {
-  const { result, cost: c } = await dfs('serp/google/organic/live/advanced', [{ keyword, location_code: LOCATION, language_code: 'en', device: 'desktop', depth: 100 }]);
+async function check(t) {
+  const { result, cost: c } = await dfs('serp/google/organic/live/advanced', [{ keyword: t.keyword, location_code: LOCATION, language_code: 'en', device: 'desktop', depth: 100 }]);
   cost += c;
   const items = result?.items ?? [];
   const ours = items.find((x) => x.type === 'organic' && x.domain?.endsWith(DOMAIN));
   const pack = items.find((x) => x.type === 'local_pack' && BRAND.test(x.title ?? ''));
   const aio = items.find((x) => x.type === 'ai_overview');
-  const aioCites = !!aio && JSON.stringify(aio).includes(DOMAIN);
-  return { keyword, slug, position: ours?.rank_group ?? null, url: ours?.url ?? null, localPack: pack ? pack.rank_group : null, aiOverview: !!aio, aiOverviewCitesUs: aioCites };
+  const urlPath = ours?.url ? new URL(ours.url).pathname : null;
+  const expected = t.page == null ? null : t.page === '' ? '/' : `/${t.page}/`;
+  return { ...t, position: ours?.rank_group ?? null, url: urlPath, rightPage: expected && urlPath ? urlPath === expected : null, localPack: pack ? pack.rank_group : null, aiOverview: !!aio, aiOverviewCitesUs: !!aio && JSON.stringify(aio).includes(DOMAIN) };
 }
 
-// --retry re-runs only the searches that errored in today's report.
 const todayFile = path.join(dir, `${today}.json`);
 let rows = [];
 if (process.argv.includes('--retry') && fs.existsSync(todayFile)) rows = JSON.parse(fs.readFileSync(todayFile, 'utf8')).rows;
-const queue = rows.length ? rows.filter((r) => r.error).map(({ keyword, slug }) => ({ keyword, slug })) : [...keywords];
+const queue = rows.length ? rows.filter((r) => r.error).map(({ keyword }) => tracked.find((t) => t.keyword === keyword)) : [...tracked];
+const priorCost = rows.length ? JSON.parse(fs.readFileSync(todayFile, 'utf8')).summary.costUSD ?? 0 : 0;
 rows = rows.filter((r) => !r.error);
 const failed = [];
 await Promise.all(Array.from({ length: 8 }, async () => {
-  while (queue.length) { const k = queue.shift(); try { rows.push(await check(k)); } catch (e) { failed.push(k); } }
+  while (queue.length) { const t = queue.shift(); try { rows.push(await check(t)); } catch { failed.push(t); } }
 }));
-// DataForSEO sometimes answers "Internal SE Server Error"; give those one slower second pass.
-for (const k of failed) {
+for (const t of failed) { // DataForSEO sometimes answers "Internal SE Server Error"; one slower second pass.
   await new Promise((s) => setTimeout(s, 3000));
-  try { rows.push(await check(k)); } catch (e) { rows.push({ ...k, error: String(e.message ?? e) }); }
+  try { rows.push(await check(t)); } catch (e) { rows.push({ ...t, error: String(e.message ?? e) }); }
 }
-rows.sort((a, b) => (a.position ?? 999) - (b.position ?? 999) || a.keyword.localeCompare(b.keyword));
 
-// Pages Google shows for the domain (rough index count).
-let indexed = null;
-try {
-  const { result, cost: c } = await dfs('serp/google/organic/live/regular', [{ keyword: `site:${DOMAIN}`, location_code: 2554, language_code: 'en', depth: 10 }]);
-  cost += c; indexed = result?.se_results_count ?? null;
-} catch {}
-
-const ok = rows.filter((r) => !r.error);
-const summary = {
-  date: today, domain: DOMAIN, location: 'Christchurch', keywords: rows.length,
-  top3: ok.filter((r) => r.position && r.position <= 3).length,
-  top10: ok.filter((r) => r.position && r.position <= 10).length,
-  top20: ok.filter((r) => r.position && r.position <= 20).length,
-  top100: ok.filter((r) => r.position).length,
-  localPack: ok.filter((r) => r.localPack).length,
-  aiOverviews: ok.filter((r) => r.aiOverview).length,
-  aiOverviewsCitingUs: ok.filter((r) => r.aiOverviewCitesUs).length,
-  indexed, errors: rows.length - ok.length, costUSD: Math.round(cost * 1000) / 1000,
+// Headline figures, overall and per group.
+const groups = ['Services', 'Guides', 'Search Console', 'Suburbs', 'Brand'];
+const stats = (rs) => {
+  const ok = rs.filter((r) => !r.error);
+  const ranked = ok.filter((r) => r.position);
+  return {
+    searches: rs.length,
+    top3: ranked.filter((r) => r.position <= 3).length,
+    top10: ranked.filter((r) => r.position <= 10).length,
+    top100: ranked.length,
+    avgPosition: ok.length ? Math.round(ok.reduce((s, r) => s + (r.position ?? 101), 0) / ok.length * 10) / 10 : null,
+    estVisits: Math.round(ok.reduce((s, r) => s + (r.volume ?? 0) * ctr(r.position), 0)),
+    mapPack: ok.filter((r) => r.localPack).length,
+    aiOverviewCitesUs: ok.filter((r) => r.aiOverviewCitesUs).length,
+    wrongPage: ok.filter((r) => r.rightPage === false).length,
+  };
 };
+const summary = { date: today, domain: DOMAIN, all: stats(rows), errors: rows.filter((r) => r.error).length, costUSD: Math.round((priorCost + cost) * 1000) / 1000 };
+for (const g of groups) summary[g] = stats(rows.filter((r) => r.group === g));
+const brand = rows.find((r) => r.keyword === 'heat pumps hq christchurch');
 
 fs.mkdirSync(dir, { recursive: true });
 const earlier = fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f) && f !== `${today}.json`).sort().pop();
 const prev = earlier ? JSON.parse(fs.readFileSync(path.join(dir, earlier), 'utf8')) : null;
-fs.writeFileSync(path.join(dir, `${today}.json`), JSON.stringify({ summary, rows }, null, 1) + '\n');
+const comparable = prev?.summary?.all ? prev : null; // older reports used a different keyword list
+fs.writeFileSync(todayFile, JSON.stringify({ summary, rows }, null, 1) + '\n');
 
-const prevPos = new Map((prev?.rows ?? []).map((r) => [r.keyword, r.position]));
-const delta = (k, now) => {
-  if (!prev) return '';
-  const was = prevPos.get(k);
-  if (was === undefined) return 'new';
-  if (!was && !now) return '';
-  if (!was) return 'entered';
-  if (!now) return `dropped (was ${was})`;
-  return now < was ? `up ${was - now}` : now > was ? `down ${now - was}` : 'same';
+// Search Console: the newest export and the one before it.
+const gscFiles = fs.existsSync(path.join(dir, 'gsc')) ? fs.readdirSync(path.join(dir, 'gsc')).filter((f) => f.endsWith('.json')).sort() : [];
+const gscNow = gscFiles.length ? JSON.parse(fs.readFileSync(path.join(dir, 'gsc', gscFiles.at(-1)), 'utf8')) : null;
+const gscPrev = gscFiles.length > 1 ? JSON.parse(fs.readFileSync(path.join(dir, 'gsc', gscFiles.at(-2)), 'utf8')) : null;
+
+const ch = (now, was, lowerIsBetter = false) => {
+  if (was == null || now == null) return '';
+  const d = Math.round((now - was) * 10) / 10;
+  if (!d) return ' (no change)';
+  const better = lowerIsBetter ? d < 0 : d > 0;
+  return ` (${d > 0 ? '+' : ''}${d.toLocaleString('en-NZ')} ${better ? 'better' : 'worse'})`;
 };
-const sd = (k) => (prev ? ` (${summary[k] - prev.summary[k] >= 0 ? '+' : ''}${summary[k] - prev.summary[k]})` : '');
-const md = [
+const p = comparable?.summary;
+const prevRow = new Map((comparable?.rows ?? []).map((r) => [r.keyword, r]));
+const move = (r) => {
+  if (!comparable) return '';
+  const was = prevRow.get(r.keyword)?.position ?? null;
+  if (was === r.position) return was ? 'same' : '';
+  if (!was) return `new at ${r.position}`;
+  if (!r.position) return `lost (was ${was})`;
+  return was > r.position ? `up ${was - r.position}` : `down ${r.position - was}`;
+};
+const posTxt = (r) => (r.error ? 'error' : r.position ?? 'not in top 100');
+const pageTxt = (r) => (r.url ? `${r.url}${r.rightPage === false ? ' (wrong page)' : ''}` : '');
+
+const lines = [
   `# Status report ${today}: ${DOMAIN}`,
   '',
-  prev ? `Compared with ${earlier.slice(0, 10)}.` : 'First report: this is the baseline.',
+  comparable ? `Compared with the report of ${earlier.slice(0, 10)}.` : 'Baseline: the old WordPress site, before the new site went live. Next month is measured against these figures.',
   '',
-  `Google, searched from Christchurch, desktop, for the main keyword of every page (${summary.keywords} searches).`,
+  '## Headline',
   '',
-  '| Measure | Now |',
-  '|---|---|',
-  `| Keywords in the top 3 | ${summary.top3}${sd('top3')} |`,
-  `| Keywords in the top 10 | ${summary.top10}${sd('top10')} |`,
-  `| Keywords in the top 20 | ${summary.top20}${sd('top20')} |`,
-  `| Keywords ranking at all (top 100) | ${summary.top100}${sd('top100')} |`,
-  `| Shown in the map pack | ${summary.localPack}${sd('localPack')} |`,
-  `| Searches with an AI Overview | ${summary.aiOverviews}${sd('aiOverviews')} |`,
-  `| AI Overviews citing the site | ${summary.aiOverviewsCitingUs}${sd('aiOverviewsCitingUs')} |`,
-  `| Pages Google shows for site: (rough) | ${summary.indexed ?? 'n/a'} |`,
-  '',
-  '## Every keyword',
-  '',
-  `| Keyword | Page | Position | Map pack | AI Overview | ${prev ? 'Change |' : ''}`,
-  `|---|---|---|---|---|${prev ? '---|' : ''}`,
-  ...rows.map((r) => `| ${r.keyword} | ${r.slug} | ${r.error ? 'error' : r.position ?? '-'} | ${r.localPack ?? '-'} | ${r.aiOverview ? (r.aiOverviewCitesUs ? 'cites us' : 'yes') : '-'} | ${prev ? delta(r.keyword, r.position) + ' |' : ''}`),
-  '',
-  `DataForSEO cost: US$${summary.costUSD}.`,
-  '',
-].join('\n');
-fs.writeFileSync(path.join(dir, `${today}.md`), md);
-console.log(JSON.stringify(summary));
+  '| Measure | Now | Means |',
+  '|---|---|---|',
+  `| Estimated visits a month from the tracked searches | ${summary.all.estVisits}${ch(summary.all.estVisits, p?.all.estVisits)} | Search volume x the share of clicks each position gets. One number that moves with every ranking. |`,
+  `| Tracked searches on page one (top 10) | ${summary.all.top10} of ${summary.all.searches}${ch(summary.all.top10, p?.all.top10)} | |`,
+  `| Service searches on page one | ${summary.Services.top10} of ${summary.Services.searches}${ch(summary.Services.top10, p?.Services.top10)} | The searches that bring jobs: repair, service, installation, cost. |`,
+  `| Average position, service searches | ${summary.Services.avgPosition}${ch(summary.Services.avgPosition, p?.Services.avgPosition, true)} | Not ranking counts as 101. Lower is better. |`,
+  `| Suburb pages on page one for their own search | ${summary.Suburbs.top10} of ${summary.Suburbs.searches}${ch(summary.Suburbs.top10, p?.Suburbs.top10)} | |`,
+  `| Brand search "heat pumps hq christchurch" | ${brand ? posTxt(brand) : 'n/a'} | |`,
+  `| In the Google map pack | ${summary.all.mapPack}${ch(summary.all.mapPack, p?.all.mapPack)} searches | |`,
+  `| Google AI Overviews citing the site | ${summary.all.aiOverviewCitesUs}${ch(summary.all.aiOverviewCitesUs, p?.all.aiOverviewCitesUs)} | |`,
+  `| Searches ranking on the wrong page | ${summary.all.wrongPage}${ch(summary.all.wrongPage, p?.all.wrongPage, true)} | Google shows a different page from the one written for that search. |`,
+];
+if (gscNow) {
+  const g = gscNow, q = gscPrev;
+  lines.push(
+    '',
+    `## Search Console (${g.from} to ${g.to}${q ? `, against ${q.from} to ${q.to}` : ''})`,
+    '',
+    '| Measure | Now |',
+    '|---|---|',
+    `| Clicks | ${g.clicks}${ch(g.clicks, q?.clicks)} |`,
+    `| Impressions | ${g.impressions.toLocaleString('en-NZ')}${ch(g.impressions, q?.impressions)} |`,
+    `| Click-through rate | ${(g.ctr * 100).toFixed(2)}%${q ? ch(Math.round(g.ctr * 10000) / 100, Math.round(q.ctr * 10000) / 100) : ''} |`,
+    `| Average position | ${g.position}${ch(g.position, q?.position, true)} |`,
+    '',
+    'Top pages by clicks:',
+    '',
+    '| Page | Clicks | Impressions | Position |',
+    '|---|---|---|---|',
+    ...g.topPagesByClicks.slice(0, 10).map((x) => `| ${x.item.replace(/^https?:\/\/[^/]+/, '')} | ${x.clicks} | ${x.impressions} | ${x.position} |`),
+  );
+}
+lines.push('', '## Biggest searches by volume', '', 'The 20 tracked searches with the most searches a month, where the site stands on each.', '', `| Search | Searches a month | Position | ${comparable ? 'Change | ' : ''}Page Google shows |`, `|---|---|---|${comparable ? '---|' : ''}---|`);
+for (const r of [...rows].filter((r) => r.volume).sort((a, b) => b.volume - a.volume).slice(0, 20)) lines.push(`| ${r.keyword} | ${r.volume} | ${posTxt(r)} | ${comparable ? move(r) + ' | ' : ''}${pageTxt(r)} |`);
+for (const g of groups) {
+  const rs = rows.filter((r) => r.group === g).sort((a, b) => (a.position ?? 999) - (b.position ?? 999) || (b.volume ?? 0) - (a.volume ?? 0));
+  if (!rs.length) continue;
+  const s = summary[g];
+  lines.push('', `## ${g}: ${s.top10} of ${s.searches} on page one, ${s.top100} in the top 100`, '', `| Search | Searches a month | Position | ${comparable ? 'Change | ' : ''}Page Google shows |`, `|---|---|---|${comparable ? '---|' : ''}---|`);
+  for (const r of rs) lines.push(`| ${r.keyword} | ${r.volume ?? r.source ?? ''} | ${posTxt(r)} | ${comparable ? move(r) + ' | ' : ''}${pageTxt(r)} |`);
+}
+lines.push('', `Searched in Google from Christchurch (desktop) on ${today}: ${summary.all.searches} searches from research/status/tracked-keywords.json. Search volumes are New Zealand monthly averages (DataForSEO). DataForSEO cost US$${summary.costUSD}.`, '');
+fs.writeFileSync(path.join(dir, `${today}.md`), lines.join('\n'));
+console.log(JSON.stringify({ all: summary.all, errors: summary.errors, costUSD: summary.costUSD }));
