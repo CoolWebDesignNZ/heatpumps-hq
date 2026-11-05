@@ -1,0 +1,215 @@
+{
+ "range": "Last 3 months",
+ "from": "2026-08-03",
+ "to": "2026-11-02",
+ "days": 92,
+ "clicks": 87,
+ "impressions": 54858,
+ "ctr": 0.0016,
+ "position": 38.7,
+ "clicksPerDay": 0.95,
+ "impressionsPerDay": 596,
+ "topQueriesByClicks": [
+  {
+   "item": "ducted heat pump installation cost",
+   "clicks": 1,
+   "impressions": 51,
+   "position": 30.6
+  },
+  {
+   "item": "heat pump outside unit making loud noise",
+   "clicks": 1,
+   "impressions": 5,
+   "position": 1.0
+  },
+  {
+   "item": "best heatpump brand nz",
+   "clicks": 1,
+   "impressions": 3,
+   "position": 42.0
+  },
+  {
+   "item": "heat pump location rules",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 2.0
+  },
+  {
+   "item": "heat pump install cost",
+   "clicks": 1,
+   "impressions": 2,
+   "position": 8.0
+  },
+  {
+   "item": "panasonic ac repair",
+   "clicks": 1,
+   "impressions": 1,
+   "position": 11.0
+  },
+  {
+   "item": "ducted heating christchurch",
+   "clicks": 0,
+   "impressions": 550,
+   "position": 21.5
+  },
+  {
+   "item": "heat pumps christchurch",
+   "clicks": 0,
+   "impressions": 545,
+   "position": 57.0
+  },
+  {
+   "item": "fujitsu heat pump",
+   "clicks": 0,
+   "impressions": 456,
+   "position": 29.0
+  },
+  {
+   "item": "heat pump repairs christchurch",
+   "clicks": 0,
+   "impressions": 410,
+   "position": 48.2
+  }
+ ],
+ "topQueriesByImpressions": [
+  {
+   "item": "ducted heating christchurch",
+   "clicks": 0,
+   "impressions": 550,
+   "position": 21.5
+  },
+  {
+   "item": "heat pumps christchurch",
+   "clicks": 0,
+   "impressions": 545,
+   "position": 57.0
+  },
+  {
+   "item": "fujitsu heat pump",
+   "clicks": 0,
+   "impressions": 456,
+   "position": 29.0
+  },
+  {
+   "item": "heat pump repairs christchurch",
+   "clicks": 0,
+   "impressions": 410,
+   "position": 48.2
+  },
+  {
+   "item": "heat pump service christchurch",
+   "clicks": 0,
+   "impressions": 376,
+   "position": 62.0
+  },
+  {
+   "item": "heat pump suppliers christchurch",
+   "clicks": 0,
+   "impressions": 345,
+   "position": 53.7
+  },
+  {
+   "item": "heat pump servicing",
+   "clicks": 0,
+   "impressions": 345,
+   "position": 65.3
+  },
+  {
+   "item": "heat pump service",
+   "clicks": 0,
+   "impressions": 341,
+   "position": 77.8
+  },
+  {
+   "item": "heat pump repair",
+   "clicks": 0,
+   "impressions": 340,
+   "position": 75.8
+  },
+  {
+   "item": "heat pump installation christchurch",
+   "clicks": 0,
+   "impressions": 321,
+   "position": 54.7
+  }
+ ],
+ "topPagesByClicks": [
+  {
+   "item": "https://heatpumps-christchurch.co.nz/heat-pump-boundary-rules-consent-nz/",
+   "clicks": 27,
+   "impressions": 764,
+   "position": 11.8
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/ducted-heat-pump-cost-christchurch/",
+   "clicks": 11,
+   "impressions": 3028,
+   "position": 30.7
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/heat-pump-noise-problems-solutions/",
+   "clicks": 11,
+   "impressions": 1025,
+   "position": 18.1
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/best-heat-pump-brands-christchurch/",
+   "clicks": 6,
+   "impressions": 1451,
+   "position": 47.9
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/",
+   "clicks": 5,
+   "impressions": 5733,
+   "position": 59.8
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/heat-pump-sizing/",
+   "clicks": 3,
+   "impressions": 2255,
+   "position": 37.2
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/air-conditioning-installation-christchurch/",
+   "clicks": 2,
+   "impressions": 10342,
+   "position": 38.0
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/heat-pump-installation-cost-christchurch/",
+   "clicks": 2,
+   "impressions": 2222,
+   "position": 44.9
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/daikin-ducted-heat-pumps-christchurch/",
+   "clicks": 2,
+   "impressions": 931,
+   "position": 33.5
+  },
+  {
+   "item": "https://heatpumps-christchurch.co.nz/covers/",
+   "clicks": 2,
+   "impressions": 466,
+   "position": 22.4
+  }
+ ],
+ "devices": {
+  "Mobile": {
+   "clicks": 47,
+   "impressions": 3135,
+   "position": 21.2
+  },
+  "Desktop": {
+   "clicks": 37,
+   "impressions": 51619,
+   "position": 39.8
+  },
+  "Tablet": {
+   "clicks": 3,
+   "impressions": 104,
+   "position": 17.5
+  }
+ }
+}
