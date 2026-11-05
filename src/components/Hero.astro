@@ -17,7 +17,7 @@ const { image, h1, intro, suburb = '', meta, home = false, price = home, service
       <h1>{h1}</h1>
       <p class="hero-lead">{intro}</p>
       {meta && <p class="hero-meta">{meta}</p>}
-      {price && <p class="hero-price">Installations from {site.installFrom}. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
+      {price && <p class="hero-price">Installations from {site.installFrom} incl. GST for a back-to-back Rinnai install on an existing power point. Every home is different: <a href="/heat-pump-installation-cost-christchurch/">see what affects the price</a>.</p>}
       <p class:list={["hero-talk", { "hero-talk-first": !price, "hero-talk-after-price": price }]}>Prefer to talk? <a href={site.phoneHref}>Call {site.phone}</a></p>
     </div>
     <div id="quote" class="hero-form"><QuoteForm suburb={suburb} service={service} /></div>

@@ -42,7 +42,7 @@ faqs:
   - q: Can you replace my old heat pump?
     a: Yes. We take out the old indoor and outdoor units. We check whether the old pipe route and power supply suit the new system. Then we quote the whole job together.
   - q: How much does a heat pump install cost?
-    a: Installations start from $2,499. The final price depends on the size and type of unit, and the length of the pipe run. It also depends on how hard the outdoor spot is to get to, and what electrical work is needed. We look at each of those <a href="/heat-pump-installation-cost-christchurch/">installation cost factors</a> when we visit. The quote is free.
+    a: Installations start from $1,950 incl. GST, for a Rinnai heat pump installed back to back and powered from an existing power point. The final price depends on the size and type of unit, and the length of the pipe run. It also depends on how hard the outdoor spot is to get to, and what electrical work is needed. We look at each of those <a href="/heat-pump-installation-cost-christchurch/">installation cost factors</a> when we visit. The quote is free.
 related:
   - { label: Single room heat pumps, href: /single-room-heat-pump-installation/, text: "One unit for a bedroom or living area.", cta: See single room options }
   - { label: Multi room heat pumps, href: /multi-room-heat-pump-installation/, text: "Several indoor units from one outdoor unit.", cta: See multi room systems }
@@ -107,4 +107,4 @@ These things change the [price of a heat pump installation](/heat-pump-installat
 - **How easy the outdoor spot is to get to.** A wall bracket or a deck on a slope takes more work than a spot at ground level.
 - **Whether the switchboard needs work.** A board with no spare circuit has to be sorted before the unit goes in.
 
-Installs start from $2,499. No two cost the same, so we quote yours for free after we've seen the rooms.
+Installs start from $1,950 incl. GST, for a Rinnai heat pump installed back to back and powered from an existing power point. No two cost the same, so we quote yours for free after we've seen the rooms.

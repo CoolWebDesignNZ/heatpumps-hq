@@ -12,7 +12,7 @@ faqHeading: "Heat pump installation cost questions"
 relatedHeading: "More on heat pump prices and installs"
 faqs:
   - q: How much does it cost to install a heat pump in Christchurch?
-    a: Our installations start from $2,499. Where yours lands depends on the unit's size and type. It also depends on the install itself. That means the pipe run, where the outdoor unit goes and the electrical work. A free on-site quote gives you a price for your house.
+    a: Our installations start from $1,950 incl. GST, for a Rinnai heat pump installed back to back and powered from an existing power point. Where yours lands depends on the unit's size and type. It also depends on the install itself. That means the pipe run, where the outdoor unit goes and the electrical work. A free on-site quote gives you a price for your house.
   - q: Why do heat pump quotes vary so much?
     a: Because quotes often price different things. One might include a longer pipe run, wall brackets, a new circuit and taking out the old unit. Another might assume a back-to-back install on a ground pad. Check each quote lists the model, where both units go and the electrical work.
   - q: Is a floor console dearer to install than a high wall unit?
@@ -27,7 +27,7 @@ related:
 
 ## Where heat pump installation prices start
 
-Our heat pump installations start from $2,499. That's a starting point, not a price for your house. The house sets the cost of an install as much as the heat pump does. A free quote on site covers your job.
+Our heat pump installations start from $1,950 incl. GST. That price is for a Rinnai heat pump installed back to back, with the indoor unit on an outside wall and the outdoor unit straight behind it, powered from an existing power point. It's a starting point, not a price for your house. The house sets the cost of an install as much as the heat pump does. A free quote on site covers your job.
 
 Knowing what moves the price also tells you what to look for in any quote, ours included.
 

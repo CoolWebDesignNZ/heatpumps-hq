@@ -20,7 +20,7 @@ const business = {
   logo: `${site.domain}/logo.png`,
   founder: { '@type': 'Person', '@id': `${site.domain}/#founder`, name: site.owner, jobTitle: 'Founder', url: `${site.domain}/about-us/`,
     hasCredential: { '@type': 'EducationalOccupationalCredential', name: site.ownerCredential, credentialCategory: 'certificate', educationalLevel: 'Level 4' } },
-  priceRange: `Installations from ${site.installFrom}`,
+  priceRange: `From ${site.installFrom} incl. GST`,
   foundingDate: String(site.founded),
   // A service-area business: no street address is published, only the locality.
   address: { '@type': 'PostalAddress', addressLocality: 'Christchurch', addressRegion: 'Canterbury', addressCountry: 'NZ' },

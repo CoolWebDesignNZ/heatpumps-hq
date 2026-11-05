@@ -101,7 +101,7 @@ const place = fm.suburb
 // (CLAUDE.md lists every place the price appears).
 const fromPricePages = ['heat-pump-installation-in-christchurch', 'single-room-heat-pump-installation', 'high-wall-heat-pumps'];
 const fromPrice = fromPricePages.includes(slug) ? {
-  offers: { '@type': 'Offer', priceSpecification: { '@type': 'PriceSpecification', minPrice: Number(site.installFrom.replace(/[^0-9]/g, '')), priceCurrency: 'NZD' } },
+  offers: { '@type': 'Offer', priceSpecification: { '@type': 'PriceSpecification', minPrice: Number(site.installFrom.replace(/[^0-9]/g, '')), priceCurrency: 'NZD', valueAddedTaxIncluded: true }, description: `From ${site.installFrom} ${site.installFromNote}` },
 } : {};
 const heroUrl = fm.hero ? `${site.domain}/images/${fm.hero}.jpg` : undefined;
 if (type === 'service' || type === 'suburb') {

@@ -109,7 +109,7 @@ A replacement usually costs less than a first install, because some of the work 
 - **How easy the outdoor spot is to get to.**
 - **Whether the old unit comes out cleanly.** A rusted bracket or a seized valve takes longer.
 
-Installations start from $2,499. Your quote is free, and we set out what's reused and what's new before you decide.
+Installations start from $1,950 incl. GST, for a Rinnai heat pump installed back to back and powered from an existing power point. Your quote is free, and we set out what's reused and what's new before you decide.
 
 ## Heat pump replacement across Christchurch
 
