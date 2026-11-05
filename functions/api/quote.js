@@ -1,9 +1,5 @@
-// Receives the quote form and emails it to Nate.
-// Pages can't send email, so the message goes over the EMAILER service binding
-// to the coolweb-emailer Worker, which sends it through Cloudflare Email
-// Routing. On the Pages project: service binding EMAILER -> coolweb-emailer,
-// LEAD_FROM (a sender on a domain with Email Routing on) and LEAD_TO (a
-// verified destination address; comma-separate for more than one).
+// Receives the quote form and emails it to Nate through Brevo (see below), then
+// records it for the monthly report and passes it to the More Leads tracker.
 import site from '../../src/data/site.json';
 
 const clean = (v, max = 500) => String(v ?? '').replace(/\s+/g, ' ').trim().slice(0, max);
@@ -51,29 +47,30 @@ export async function onRequestPost({ request, env, waitUntil }) {
     `Sent from: ${from}`,
   ].join('\n');
 
-  if (!env.EMAILER || !env.LEAD_FROM || !env.LEAD_TO) {
-    console.log('quote: EMAILER, LEAD_FROM or LEAD_TO not set', text);
-    return page(503, "Your request didn't send", callUs);
-  }
-
+  // The email goes through Brevo's API, the same arrangement as every CoolWeb client site:
+  // from LEAD_FROM (leads@coolweb.design, already authenticated in Brevo) to LEAD_TO, with
+  // the customer as Reply-To. Needs BREVO_API_KEY, LEAD_FROM and LEAD_TO on the project.
   let emailed = false;
-  try {
-    const res = await env.EMAILER.fetch('https://emailer/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        from: `${site.name} website <${env.LEAD_FROM}>`,
-        to: env.LEAD_TO,
-        replyTo: email || undefined,
-        subject: `Quote request: ${q.service}, ${q.suburb} (${q.name})`,
-        text,
-      }),
-    });
-    const out = await res.json().catch(() => ({}));
-    if (!res.ok || !out.ok) throw new Error(`${res.status} ${JSON.stringify(out)}`);
-    emailed = true;
-  } catch (err) {
-    console.log('quote: send failed', String(err), text);
+  if (!env.BREVO_API_KEY || !env.LEAD_FROM || !env.LEAD_TO) {
+    console.log('quote: BREVO_API_KEY, LEAD_FROM or LEAD_TO not set', text);
+  } else {
+    try {
+      const res = await fetch('https://api.brevo.com/v3/smtp/email', {
+        method: 'POST',
+        headers: { 'api-key': env.BREVO_API_KEY, 'Content-Type': 'application/json', accept: 'application/json' },
+        body: JSON.stringify({
+          sender: { name: `${site.name} website`, email: env.LEAD_FROM },
+          to: String(env.LEAD_TO).split(',').map((s) => ({ email: s.trim() })).filter((x) => x.email),
+          ...(email ? { replyTo: { email, name: q.name } } : {}),
+          subject: `Quote request: ${q.service}, ${q.suburb} (${q.name})`,
+          textContent: text,
+        }),
+      });
+      if (!res.ok) throw new Error(`Brevo ${res.status} ${(await res.text()).slice(0, 300)}`);
+      emailed = true;
+    } catch (err) {
+      console.log('quote: send failed', String(err), text);
+    }
   }
 
   // Count the lead for the monthly report, and pass it to the More Leads tracker
