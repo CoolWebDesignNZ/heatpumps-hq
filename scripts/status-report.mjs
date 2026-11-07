@@ -3,7 +3,7 @@
 //   node scripts/status-report.mjs --retry   re-runs only today's searches that errored
 // Checks the SAME list every month, research/status/tracked-keywords.json (built once by
 // scripts/build-tracked.py), in Google searched from Christchurch, so months compare like
-// for like. Search Console comes from the exports in research/status/gsc/ (summarised by
+// for like. Search Console comes from research/status/gsc/: scripts/gsc-fetch.mjs (the API) or an export (summarised by
 // scripts/gsc-summary.py). Needs DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -180,7 +180,8 @@ if (activity && !activity.error) {
   lines.push('', `## Leads and calls from the site`, '', `Could not read the counts: ${activity.error}`);
 }
 if (gscNow) {
-  const g = gscNow, q = gscPrev;
+  // An API pull carries the 28 days before it, the same length, so it compares with that.
+  const g = gscNow, q = gscNow.previous || gscPrev;
   lines.push(
     '',
     `## Search Console (${g.from} to ${g.to}${q ? `, against ${q.from} to ${q.to}` : ''})`,
