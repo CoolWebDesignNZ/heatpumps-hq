@@ -1,0 +1,8 @@
+{
+  "name": "heatpumps-hq-gsc",
+  "main": "index.js",
+  "compatibility_date": "2026-11-01",
+  // 4th of the month, 07:00 UTC (20:00 NZT), the evening before the report on the 5th.
+  "triggers": { "crons": ["0 7 4 * *"] },
+  "d1_databases": [{ "binding": "EVENTS", "database_name": "heatpumps-hq-events", "database_id": "26674de9-c075-42d1-a4cb-b716f963b65d" }]
+}

@@ -1,12 +1,19 @@
-// Pulls the last 28 days of Search Console for the site (and the 28 days before) through
-// coolweb.design/api/client-search, whose Google service account is a user on the property.
-// The environment injects the X-Playbook-Key header, so no key lives here.
+// Reads the Search Console figures the heatpumps-hq-gsc Worker (workers/gsc/) stored in the
+// heatpumps-hq-events D1 (last 28 days and the 28 before, pulled through coolweb.design).
+// Needs CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID.
 //   node scripts/gsc-fetch.mjs   -> research/status/gsc/<today>.json (same shape as gsc-summary.py)
 import fs from 'node:fs';
-const domain = 'heatpumps-christchurch.co.nz';
-const res = await fetch(`https://coolweb.design/api/client-search?domain=${domain}`, { headers: { 'X-Playbook-Key': 'injected-by-proxy' } });
-const d = await res.json().catch(() => ({}));
-if (!res.ok || d.error) { console.error('Search Console fetch failed:', res.status, d.error || '', d.detail || ''); process.exit(1); }
+const DB = '26674de9-c075-42d1-a4cb-b716f963b65d';
+const api = await fetch(`https://api.cloudflare.com/client/v4/accounts/${process.env.CLOUDFLARE_ACCOUNT_ID}/d1/database/${DB}/query`, {
+  method: 'POST', headers: { Authorization: `Bearer ${process.env.CLOUDFLARE_API_TOKEN}`, 'Content-Type': 'application/json' },
+  body: JSON.stringify({ sql: 'SELECT fetched_at, status, data FROM gsc ORDER BY id DESC LIMIT 1' }),
+}).then((r) => r.json());
+const row = api.result?.[0]?.results?.[0];
+if (!row) { console.error('No Search Console row stored yet:', JSON.stringify(api.errors || [])); process.exit(1); }
+const age = (Date.now() - Date.parse(row.fetched_at + 'Z')) / 86400000;
+const d = JSON.parse(row.data);
+if (d.error) { console.error(`Search Console failed (${row.fetched_at}):`, d.error, d.detail || ''); process.exit(1); }
+if (age > 5) console.error(`Warning: the newest Search Console pull is ${Math.round(age)} days old (${row.fetched_at}).`);
 const days = (a, b) => Math.round((Date.parse(b) - Date.parse(a)) / 86400000) + 1;
 const r2 = (n) => Math.round(n * 10) / 10;
 const prevEnd = new Date(Date.parse(d.range.start) - 86400000).toISOString().slice(0, 10);
