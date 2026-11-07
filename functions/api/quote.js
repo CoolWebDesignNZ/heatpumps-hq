@@ -66,6 +66,7 @@ export async function onRequestPost({ request, env, waitUntil }) {
           ...(email ? { replyTo: { email, name: q.name } } : {}),
           subject: `Quote request: ${q.service}, ${q.suburb} (${q.name})`,
           textContent: text,
+          htmlContent: leadHtml(q, email, from),
         }),
       });
       if (!res.ok) throw new Error(`Brevo ${res.status} ${(await res.text()).slice(0, 300)}`);
@@ -145,4 +146,28 @@ async function sendConfirmation(env, q, to) {
     }),
   });
   if (!res.ok) throw new Error(`Brevo ${res.status} ${(await res.text()).slice(0, 200)}`);
+}
+
+// The lead card Nate and Ryno get: the details at a glance, phone and email tappable.
+function leadHtml(q, email, from) {
+  const tel = q.phone.replace(/[^\d+]/g, '');
+  const link = (href, s) => `<a href="${href}" style="color:#0d5c8c;font-weight:700;text-decoration:none">${escHtml(s)}</a>`;
+  const rows = [
+    ['Name', escHtml(q.name)],
+    ['Phone', link(`tel:${tel}`, q.phone)],
+    ['Email', email ? link(`mailto:${email}`, email) : '<span style="color:#8a929b">Not given</span>'],
+    ['Needs', `<span style="display:inline-block;background:#eaf3f8;color:#0a4870;font-weight:700;padding:2px 10px;border-radius:4px">${escHtml(q.service)}</span>`],
+    ['Address or suburb', escHtml(q.suburb)],
+  ];
+  return `<div style="background:#f4f6f8;padding:24px 12px;font-family:Arial,sans-serif;color:#16191d">
+<div style="max-width:560px;margin:0 auto;background:#fff;border-radius:10px;overflow:hidden">
+<div style="background:#0d5c8c;color:#fff;padding:18px 24px"><div style="font-size:13px;opacity:.85">${escHtml(site.name)}</div><div style="font-size:21px;font-weight:700;margin-top:2px">New quote request</div></div>
+<div style="padding:20px 24px">
+<table style="border-collapse:collapse;width:100%;font-size:16px;line-height:1.4">${rows.map(([k, v]) => `<tr><td style="padding:8px 12px 8px 0;color:#4a525b;width:150px;vertical-align:top;border-bottom:1px solid #eef0f2">${k}</td><td style="padding:8px 0;border-bottom:1px solid #eef0f2">${v}</td></tr>`).join('')}</table>
+<div style="font-size:14px;color:#4a525b;margin:18px 0 6px">What they said</div>
+<div style="background:#f4f6f8;border-radius:6px;padding:12px 14px;font-size:16px;line-height:1.5">${q.message ? escHtml(q.message).replace(/\n/g, '<br>') : '<span style="color:#8a929b">Nothing added</span>'}</div>
+<div style="margin:22px 0 4px"><a href="tel:${tel}" style="display:inline-block;background:#0d5c8c;color:#fff;font-weight:700;text-decoration:none;padding:11px 22px;border-radius:6px">Call ${escHtml(q.name.split(' ')[0])}</a></div>
+</div>
+<div style="padding:12px 24px;background:#fafbfc;font-size:12px;color:#8a929b">Sent from ${escHtml(from || site.domain)}</div>
+</div></div>`;
 }
