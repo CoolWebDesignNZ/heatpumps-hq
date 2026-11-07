@@ -61,6 +61,8 @@ export async function onRequestPost({ request, env, waitUntil }) {
         body: JSON.stringify({
           sender: { name: `${site.name} website`, email: env.LEAD_FROM },
           to: String(env.LEAD_TO).split(',').map((s) => ({ email: s.trim() })).filter((x) => x.email),
+          // LEAD_BCC: who else gets a copy (CoolWeb), comma separated. They can't see each other.
+          ...(env.LEAD_BCC ? { bcc: String(env.LEAD_BCC).split(',').map((s) => ({ email: s.trim() })).filter((x) => x.email) } : {}),
           ...(email ? { replyTo: { email, name: q.name } } : {}),
           subject: `Quote request: ${q.service}, ${q.suburb} (${q.name})`,
           textContent: text,
@@ -86,7 +88,8 @@ export async function onRequestPost({ request, env, waitUntil }) {
       body: JSON.stringify({ site: env.LEADS_SITE, key: env.LEADS_KEY, lead: {
         source: 'form', service: q.service, name: q.name, phone: q.phone, email,
         suburb: q.suburb, message: q.message, page_url: from, received_at: new Date().toISOString(),
-        emailed_to: String(env.LEAD_TO).split(',').map((s) => s.trim()), emailed_ok: emailed,
+        emailed_to: String(env.LEAD_TO).split(',').map((s) => s.trim()),
+        emailed_bcc: String(env.LEAD_BCC ?? '').split(',').map((s) => s.trim()).filter(Boolean), emailed_ok: emailed,
       } }),
     }).then((r) => { if (!r.ok) console.log('quote: tracker said', r.status); }).catch((e) => console.log('quote: tracker failed', String(e))));
   }
