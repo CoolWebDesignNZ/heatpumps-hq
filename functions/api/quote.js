@@ -126,13 +126,19 @@ async function sendConfirmation(env, q, to) {
     `Need us sooner? Call ${site.phone}.`, '',
     site.name, site.domain.replace('https://', ''),
   ].join('\n');
-  const html = `<div style="font-family:Arial,sans-serif;font-size:16px;line-height:1.5;color:#16191d;max-width:560px">
-<p style="font-size:20px;font-weight:700;color:#0d5c8c;margin:0 0 16px">${escHtml(site.name)}</p>
-<p>Hi ${escHtml(first)},</p>
-<p>Thanks for your quote request. We've got it, and we call or email you back ${escHtml(site.replyTime)} (${escHtml(hours)}).</p>
-<table style="border-collapse:collapse;margin:8px 0 16px">${rows.map(([k, v]) => `<tr><td style="padding:4px 16px 4px 0;font-weight:700;vertical-align:top">${escHtml(k)}</td><td style="padding:4px 0">${escHtml(v).replace(/\n/g, '<br>')}</td></tr>`).join('')}</table>
-<p>Need us sooner? Call <a href="${site.phoneHref}" style="color:#0d5c8c;font-weight:700">${escHtml(site.phone)}</a>.</p>
-<p style="color:#4a525b">${escHtml(site.name)}<br><a href="${site.domain}" style="color:#0d5c8c">${escHtml(site.domain.replace('https://', ''))}</a></p></div>`;
+  const html = `<div style="background:#f4f6f8;padding:24px 12px;font-family:Arial,sans-serif;color:#16191d">
+<div style="max-width:560px;margin:0 auto;background:#fff;border-radius:10px;overflow:hidden">
+<div style="background:#0d5c8c;color:#fff;padding:18px 24px"><div style="font-size:13px;opacity:.85">${escHtml(site.name)}</div><div style="font-size:21px;font-weight:700;margin-top:2px">We've got your quote request</div></div>
+<div style="padding:20px 24px;font-size:16px;line-height:1.5">
+<p style="margin:0 0 12px">Hi ${escHtml(first)},</p>
+<p style="margin:0 0 16px">Thanks for your quote request. We call or email you back ${escHtml(site.replyTime)} (${escHtml(hours)}).</p>
+<div style="font-size:14px;color:#4a525b;margin:0 0 4px">What you sent us</div>
+<table style="border-collapse:collapse;width:100%;font-size:16px;line-height:1.4">${rows.map(([k, v]) => `<tr><td style="padding:8px 12px 8px 0;color:#4a525b;width:150px;vertical-align:top;border-bottom:1px solid #eef0f2">${escHtml(k)}</td><td style="padding:8px 0;border-bottom:1px solid #eef0f2">${escHtml(v).replace(/\n/g, '<br>')}</td></tr>`).join('')}</table>
+<p style="margin:20px 0 8px">Need us sooner?</p>
+<a href="${site.phoneHref}" style="display:inline-block;background:#0d5c8c;color:#fff;font-weight:700;text-decoration:none;padding:11px 22px;border-radius:6px">Call ${escHtml(site.phone)}</a>
+</div>
+<div style="padding:12px 24px;background:#fafbfc;font-size:12px;color:#8a929b">${escHtml(site.name)} · <a href="${site.domain}" style="color:#8a929b">${escHtml(site.domain.replace('https://', ''))}</a></div>
+</div></div>`;
   const res = await fetch('https://api.brevo.com/v3/smtp/email', {
     method: 'POST',
     headers: { 'api-key': env.BREVO_API_KEY, 'Content-Type': 'application/json', accept: 'application/json' },
