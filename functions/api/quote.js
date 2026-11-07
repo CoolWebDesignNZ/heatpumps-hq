@@ -75,6 +75,10 @@ export async function onRequestPost({ request, env, waitUntil }) {
     }
   }
 
+  // A confirmation to the customer when they gave an email and the lead went out. Best
+  // effort only: it never changes what the visitor is shown.
+  if (emailed && email) waitUntil(sendConfirmation(env, q, email).catch((e) => console.log('quote: confirmation failed', String(e))));
+
   // Count the lead for the monthly report, and pass it to the More Leads tracker
   // (leads.moreleads.nz) the way the old site's form webhook did. Both happen whether or not
   // the email went, so a lead is never lost to a mail fault: the tracker shows it as not
@@ -105,4 +109,40 @@ export async function recordEvent(env, type, page, host, detail = '') {
     await env.EVENTS.prepare('INSERT INTO events (type, page, host, detail) VALUES (?, ?, ?, ?)')
       .bind(type, String(page).slice(0, 200), String(host).slice(0, 100), String(detail).slice(0, 100)).run();
   } catch (e) { console.log('event insert failed', String(e)); }
+}
+
+const escHtml = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+async function sendConfirmation(env, q, to) {
+  const first = q.name.split(' ')[0];
+  const replyTo = String(env.LEAD_TO).split(',')[0].trim();
+  const rows = [['What you need', q.service], ['Address or suburb', q.suburb], ['Details', q.message || '(none)']];
+  const hours = `${site.hours[0].days}, ${site.hours[0].label}`;
+  const text = [
+    `Hi ${first},`, '',
+    `Thanks for your quote request. We've got it, and we call or email you back ${site.replyTime} (${hours}).`, '',
+    'What you sent us:', ...rows.map(([k, v]) => `${k}: ${v}`), '',
+    `Need us sooner? Call ${site.phone}.`, '',
+    site.name, site.domain.replace('https://', ''),
+  ].join('\n');
+  const html = `<div style="font-family:Arial,sans-serif;font-size:16px;line-height:1.5;color:#16191d;max-width:560px">
+<p style="font-size:20px;font-weight:700;color:#0d5c8c;margin:0 0 16px">${escHtml(site.name)}</p>
+<p>Hi ${escHtml(first)},</p>
+<p>Thanks for your quote request. We've got it, and we call or email you back ${escHtml(site.replyTime)} (${escHtml(hours)}).</p>
+<table style="border-collapse:collapse;margin:8px 0 16px">${rows.map(([k, v]) => `<tr><td style="padding:4px 16px 4px 0;font-weight:700;vertical-align:top">${escHtml(k)}</td><td style="padding:4px 0">${escHtml(v).replace(/\n/g, '<br>')}</td></tr>`).join('')}</table>
+<p>Need us sooner? Call <a href="${site.phoneHref}" style="color:#0d5c8c;font-weight:700">${escHtml(site.phone)}</a>.</p>
+<p style="color:#4a525b">${escHtml(site.name)}<br><a href="${site.domain}" style="color:#0d5c8c">${escHtml(site.domain.replace('https://', ''))}</a></p></div>`;
+  const res = await fetch('https://api.brevo.com/v3/smtp/email', {
+    method: 'POST',
+    headers: { 'api-key': env.BREVO_API_KEY, 'Content-Type': 'application/json', accept: 'application/json' },
+    body: JSON.stringify({
+      sender: { name: site.name, email: env.LEAD_FROM },
+      to: [{ email: to, name: q.name }],
+      replyTo: { email: replyTo, name: site.name },
+      subject: `We've got your quote request, ${first}`,
+      textContent: text,
+      htmlContent: html,
+    }),
+  });
+  if (!res.ok) throw new Error(`Brevo ${res.status} ${(await res.text()).slice(0, 200)}`);
 }
